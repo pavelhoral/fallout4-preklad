@@ -8,7 +8,8 @@ var fs = require('fs'),
     program = require('commander');
 
 program.
-    usage('<file ...>').
+    usage('[options] <file ...>').
+    option('-q, --quiet', 'Suppress printing information about removed strings.').
     parse(process.argv);
 
 if (!program.args.length) {
@@ -78,26 +79,36 @@ function cleanupBatch(batch) {
     // Process XML object
     var stringArray = xmlObject.SSTXMLRessources.Content[0].String,
         stringCompare = compare.caseInsensitive(),
-        edidTable = {},
+        recordStats = {
+            retained: {},
+            removed: {}
+        },
         cleanupStats = {
             processed: stringArray.length,
             retained: 0,
             removed: 0,
-            records: 0
+            records: 0,
+            chars: 0
         };
     stringArray = stringArray.filter((string) => {
         var retain = string.REC[0].indexOf('INFO:') === (noInfo ? -1 : 0) &&
                 stringCompare(firstId, string.EDID[0]) <= 0 &&
                 stringCompare(string.EDID[0], lastId) <= 0;
         if (retain) {
-            edidTable[string.EDID[0]] = true;
+            recordStats.retained[string.EDID[0]] = true;
             cleanupStats.retained++;
+            cleanupStats.chars += string.Dest[0].length;
         } else {
+            recordStats.removed[string.EDID[0]] = true;
             cleanupStats.removed++;
         }
         return retain;
     });
-    cleanupStats.records = Object.keys(edidTable).length;
+    cleanupStats.records = Object.keys(recordStats.retained).length;
+    // Log removed EDIDs so that they can be manually checked
+    if (Object.keys(recordStats.removed).length && !program.quiet) {
+        console.log('Removed EDIDs:', Object.keys(recordStats.removed).join(', '));
+    }
     // Replace the original
     xmlObject.SSTXMLRessources.Content[0].String = stringArray;
     fs.writeFileSync(batch.xmlPath, xmlBuilder.buildObject(xmlObject));
@@ -108,7 +119,7 @@ program.args.forEach((filePath) => {
     try {
         var batch = resolveBatch(filePath),
             stats = cleanupBatch(batch);
-        console.log('[CLEANUP]', batch.xmlName, stats);
+        console.log('[CLEANUP]', batch.xmlName, JSON.stringify(stats));
     } catch (error) {
         console.error('[ERROR]', error.message);
     }
