@@ -99,6 +99,7 @@ function cleanupBatch(batch) {
     });
     cleanupStats.records = Object.keys(edidTable).length;
     // Replace the original
+    xmlObject.SSTXMLRessources.Content[0].String = stringArray;
     fs.writeFileSync(batch.xmlPath, xmlBuilder.buildObject(xmlObject));
     return cleanupStats;
 }
