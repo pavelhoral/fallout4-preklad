@@ -10,6 +10,7 @@ var fs = require('fs'),
 program.
     usage('[options] <file ...>').
     option('-q, --quiet', 'Suppress printing information about removed strings.').
+    option('-w, --write', 'Replace original file with the cleaned version.').
     parse(process.argv);
 
 if (!program.args.length) {
@@ -68,7 +69,7 @@ function cleanupBatch(batch) {
     var batchIds = fs.readFileSync(batch.txtPath, { encoding: 'utf-8' }).trim().split('\n'),
         firstId = batchIds[0],
         lastId = batchIds[batchIds.length - 1],
-        noInfo = path.basename(batch.txtPath).indexOf('noinfo-') === 0,
+        dialog = path.basename(batch.txtPath).indexOf('noinfo-') === -1,
         xmlParser = new xml2js.Parser(),
         xmlBuilder = new xml2js.Builder(),
         xmlObject = null;
@@ -91,7 +92,8 @@ function cleanupBatch(batch) {
             chars: 0
         };
     stringArray = stringArray.filter((string) => {
-        var retain = string.REC[0].indexOf('INFO:') === (noInfo ? -1 : 0) &&
+        // TODO dialog filter will have to work differently
+        var retain = string.REC[0].indexOf('INFO:') === (dialog ? 0 : -1) &&
                 stringCompare(firstId, string.EDID[0]) <= 0 &&
                 stringCompare(string.EDID[0], lastId) <= 0;
         if (retain) {
@@ -110,8 +112,10 @@ function cleanupBatch(batch) {
         console.log('Removed EDIDs:', Object.keys(recordStats.removed).join(', '));
     }
     // Replace the original
-    xmlObject.SSTXMLRessources.Content[0].String = stringArray;
-    fs.writeFileSync(batch.xmlPath, xmlBuilder.buildObject(xmlObject));
+    if (program.write) {
+        xmlObject.SSTXMLRessources.Content[0].String = stringArray;
+        fs.writeFileSync(batch.xmlPath, xmlBuilder.buildObject(xmlObject));
+    }
     return cleanupStats;
 }
 
