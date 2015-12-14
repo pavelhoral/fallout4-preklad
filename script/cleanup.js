@@ -63,13 +63,25 @@ function resolveBatch(filePath) {
 }
 
 /**
+ * Get identifier for the SST XML string entry.
+ */
+function getStringId(string) {
+    if (string.REC[0].indexOf('INFO:') === 0) {
+        string.Source[0].substring(1, 7);
+    } else {
+        return string.EDID[0];
+    }
+}
+
+/**
  * Cleanup translation file for the given batch.
  */
 function cleanupBatch(batch) {
     var batchIds = fs.readFileSync(batch.txtPath, { encoding: 'utf-8' }).trim().split('\n'),
-        firstId = batchIds[0],
-        lastId = batchIds[batchIds.length - 1],
         dialog = path.basename(batch.txtPath).indexOf('noinfo-') === -1,
+        firstId = dialog ? batchIds[0].substring(8, 14) : batchIds[0],
+        lastId = dialog ? batchIds[batchIds.length - 1].substring(8, 14) : batchIds[batchIds.length - 1],
+        stringCompare = compare.caseInsensitive(),
         xmlParser = new xml2js.Parser(),
         xmlBuilder = new xml2js.Builder(),
         xmlObject = null;
@@ -79,7 +91,6 @@ function cleanupBatch(batch) {
     });
     // Process XML object
     var stringArray = xmlObject.SSTXMLRessources.Content[0].String,
-        stringCompare = compare.caseInsensitive(),
         recordStats = {
             retained: {},
             removed: {}
@@ -92,11 +103,11 @@ function cleanupBatch(batch) {
             chars: 0
         };
     stringArray = stringArray.filter((string) => {
-        // TODO dialog filter will have to work differently
-        var retain = string.REC[0].indexOf('INFO:') === (dialog ? 0 : -1) &&
-                stringCompare(firstId, string.EDID[0]) <= 0 &&
-                stringCompare(string.EDID[0], lastId) <= 0;
-        if (retain) {
+        var stringId = getStringId(string),
+            retain = stringId && stringCompare(firstId, stringId) <= 0 && stringCompare(stringId, lastId) <= 0;
+        if (string.Dest[0] == '  ') {
+            return false; // Do not include empty translations
+        } else if (retain) {
             recordStats.retained[string.EDID[0]] = true;
             cleanupStats.retained++;
             cleanupStats.chars += string.Dest[0].length;
@@ -107,9 +118,9 @@ function cleanupBatch(batch) {
         return retain;
     });
     cleanupStats.records = Object.keys(recordStats.retained).length;
-    // Log removed EDIDs so that they can be manually checked
+    // Log removed IDs so that they can be manually checked
     if (Object.keys(recordStats.removed).length && !program.quiet) {
-        console.log('Removed EDIDs:', Object.keys(recordStats.removed).join(', '));
+        console.log('Removed IDs:', Object.keys(recordStats.removed).join(', '));
     }
     // Replace the original
     if (program.write) {
