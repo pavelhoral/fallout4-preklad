@@ -23,7 +23,7 @@ function loadStrings(xmlPath) {
         xmlObject = result;
     });
     xmlObject.SSTXMLRessources.Content[0].String.forEach((string) => {
-        stringTable[string.EDID[0]] = string;
+        stringTable[string.EDID[0] + ' ' + string.REC[0] + ' ' + string.Source[0]] = string;
     });
     return stringTable;
 }
@@ -36,19 +36,19 @@ var firstStrings = loadStrings(program.args[0]),
     },
     stringDiffs = [];
 
-Object.keys(firstStrings).sort().forEach((edid) => {
-    if (!secondStrings[edid] || firstStrings[edid].Dest[0] === ' ') {
+Object.keys(firstStrings).sort().forEach((stringId) => {
+    if (!secondStrings[stringId] || firstStrings[stringId].Dest[0] === ' ') {
         return;
     }
-    if (firstStrings[edid].Dest[0] === secondStrings[edid].Dest[0]) {
+    if (firstStrings[stringId].Dest[0] === secondStrings[stringId].Dest[0]) {
         diffStats.same++;
     } else {
         diffStats.diff++;
         stringDiffs.push({
-            edid: edid,
-            source: firstStrings[edid].Source[0],
-            first: firstStrings[edid].Dest[0],
-            second: secondStrings[edid].Dest[0]
+            id: stringId,
+            source: firstStrings[stringId].Source[0],
+            first: firstStrings[stringId].Dest[0],
+            second: secondStrings[stringId].Dest[0]
         });
     }
 });
@@ -58,7 +58,7 @@ console.log('[COMPARE]', JSON.stringify(diffStats));
 if (program.verbose) {
     stringDiffs.forEach((diff) => {
         console.log('----');
-        console.log(diff.edid, '-', diff.source);
+        console.log(diff.id);
         console.log(diff.first);
         console.log(diff.second);
     });

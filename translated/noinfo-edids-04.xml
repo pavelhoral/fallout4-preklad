@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SSTXMLRessources>
   <Params>
     <Addon>Fallout4</Addon>
@@ -11,6 +10,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Generous_Cait</Source>
       <Dest>CA_CustomEvent_Generous_Cait</Dest>
+    </String>
+    <String List="0">
+      <EDID>mod_armor_Metal_Arm_Material_0</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_EatCorpse_Deacon</EDID>
@@ -111,8 +116,8 @@
     <String List="0">
       <EDID>BunkerKesslerTerminal</EDID>
       <REC>TERM:UNAM</REC>
-      <Source>Tower Tom's been pushing east. In no time will be directly on our trade route. Keeps chasing away (and in one case killing) messengers. Clear we can't deal with him - could be a real problem.</Source>
-      <Dest>Věžák Tom se tlačí na východ. Nebude to dlouho, co se dostane na naši obchodní trasu. Stále odhání (a v jednom případě i zabil) naše poslíčky. Je jasné, že si s ním neporadíme - což by mohl být vážný problém.In no time will be directly on our trade route. Keeps chasing away (and in one case killing) messengers. Clear we can't deal with him - could be a real problem.</Dest>
+      <Source>Tower Tom&apos;s been pushing east. In no time will be directly on our trade route. Keeps chasing away (and in one case killing) messengers. Clear we can&apos;t deal with him - could be a real problem.</Source>
+      <Dest>Věžák Tom se tlačí na východ. Nebude to dlouho, co se dostane na naši obchodní trasu. Stále odhání (a v jednom případě i zabil) naše poslíčky. Je jasné, že si s ním neporadíme - což by mohl být vážný problém.In no time will be directly on our trade route. Keeps chasing away (and in one case killing) messengers. Clear we can&apos;t deal with him - could be a real problem.</Dest>
     </String>
     <String List="0">
       <EDID>CA_Affinity</EDID>
@@ -179,6 +184,18 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_DonateItem_Hancock</Source>
       <Dest>CA_Event_DonateItem_Hancock</Dest>
+    </String>
+    <String List="0">
+      <EDID>OldNorthChurchLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Old North Church</Source>
+      <Dest>Kostel Old North</Dest>
+    </String>
+    <String List="0">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Head</Source>
+      <Dest>Pravá hlava</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_CompanionCrippledHead_Codsworth</EDID>
@@ -283,6 +300,12 @@
       <Dest>CA_Event_DogmeatBleedout_Danse</Dest>
     </String>
     <String List="0">
+      <EDID>DefaultRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_HealDogmeat_Preston</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_HealDogmeat_Preston</Source>
@@ -317,6 +340,12 @@
       <REC>ALCH:DNAM</REC>
       <Source>all Buffout chems</Source>
       <Dest>všechna Buffout chemie</Dest>
+    </String>
+    <String List="0">
+      <EDID>MoleratBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravá noha</Dest>
     </String>
     <String List="0">
       <EDID>BoyHairNone</EDID>
@@ -415,6 +444,12 @@
       <Dest>Danse tě miluje.</Dest>
     </String>
     <String List="0">
+      <EDID>sSpace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_DonateItem_Piper</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_DonateItem_Piper</Source>
@@ -463,10 +498,22 @@
       <Dest>Codsworthovi se to protiví.</Dest>
     </String>
     <String List="0">
+      <EDID>HairColor04Silver</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Silver</Source>
+      <Dest>Stříbro</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_CompanionCrippledHead_Cait</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_CompanionCrippledHead_Cait</Source>
       <Dest>CA_Event_CompanionCrippledHead_Cait</Dest>
+    </String>
+    <String List="0">
+      <EDID>RR101TouristBostonCommonMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Boston Common</Source>
+      <Dest>Bostonský park</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_CompanionCrippledHead_Deacon</EDID>
@@ -527,6 +574,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Violent_Preston</Source>
       <Dest>CA_CustomEvent_Violent_Preston</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000F7406]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Brotherhood of Steel</Source>
+      <Dest>Bratrstvo oceli</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_HackComputer_Hancock</EDID>
@@ -665,6 +718,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_CompanionCrippledArm_Codsworth</Source>
       <Dest>CA_Event_CompanionCrippledArm_Codsworth</Dest>
+    </String>
+    <String List="0">
+      <EDID>DefaultBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
     </String>
     <String List="0">
       <EDID>CA_Cait_Loves</EDID>
@@ -829,6 +888,12 @@
       <Dest>CA_CustomEvent_Generous_Danse</Dest>
     </String>
     <String List="0">
+      <EDID>CatBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_JumpFromHeight_Deacon</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_JumpFromHeight_Deacon</Source>
@@ -977,6 +1042,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_EnterVertibird_Codsworth</Source>
       <Dest>CA_Event_EnterVertibird_Codsworth</Dest>
+    </String>
+    <String List="0">
+      <EDID>RR101TouristStateHouseMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>New State House</Source>
+      <Dest>Nová vládní budova</Dest>
     </String>
     <String List="0">
       <EDID>CA_Deacon_Dislikes</EDID>
@@ -1171,10 +1242,22 @@
       <Dest>CA_Event_HealCompanion_Deacon</Dest>
     </String>
     <String List="0">
+      <EDID>RR101TouristFaneuilHallMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Faneuil Hall</Source>
+      <Dest>Hala Faneuil</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Cait_Threshold_Disdain</EDID>
       <REC>MESG:FULL</REC>
       <Source>Cait is unhappy with you.</Source>
       <Dest>Cait je s tebou nespokojená.</Dest>
+    </String>
+    <String List="0">
+      <EDID>HuntingRifle</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchý epický</Dest>
     </String>
     <String List="0">
       <EDID>CA_CustomEvent_Mean_Codsworth</EDID>
@@ -1193,6 +1276,12 @@
       <REC>CMPO:FULL</REC>
       <Source>Gold</Source>
       <Dest>Zlato</Dest>
+    </String>
+    <String List="0">
+      <EDID>RadStagFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Bug Faction</Source>
+      <Dest>Brouci</Dest>
     </String>
     <String List="0">
       <EDID>BrokenMonorailLocation</EDID>
@@ -1387,9 +1476,15 @@
       <Dest>CA_CustomEvent_Generous_MacCready</Dest>
     </String>
     <String List="0">
+      <EDID>ChameleonEffectStealthBoy</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source />
+      <Dest />
+    </String>
+    <String List="0">
       <EDID>BrassPlaque_PaulReveresHouse_a</EDID>
       <REC>ACTI:FULL</REC>
-      <Source>Paul Revere's House</Source>
+      <Source>Paul Revere&apos;s House</Source>
       <Dest>Dům Paula Revera</Dest>
     </String>
     <String List="0">
@@ -1453,6 +1548,12 @@
       <Dest>CA_Event_ChemAddiction_Danse</Dest>
     </String>
     <String List="0">
+      <EDID>GoodneighborOldStateHouse</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Old State House</Source>
+      <Dest>Stará vládní budova</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Deacon_Threshold_Hatred</EDID>
       <REC>MESG:FULL</REC>
       <Source>Deacon hates you.</Source>
@@ -1463,6 +1564,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Violent_Piper</Source>
       <Dest>CA_CustomEvent_Violent_Piper</Dest>
+    </String>
+    <String List="0">
+      <EDID>SubDoor02LeftLoad</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
     </String>
     <String List="0">
       <EDID>c_Asbestos</EDID>
@@ -1501,10 +1608,22 @@
       <Dest>CA_Event_Drink_Codsworth</Dest>
     </String>
     <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchý</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_CompanionCrippledHead_Preston</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_CompanionCrippledHead_Preston</Source>
       <Dest>CA_Event_CompanionCrippledHead_Preston</Dest>
+    </String>
+    <String List="0">
+      <EDID>DogmeatBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravé kopyto</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_CompanionCrippledArm_Hancock</EDID>
@@ -1593,8 +1712,8 @@
     <String List="0">
       <EDID>BunkerKesslerTerminal</EDID>
       <REC>TERM:UNAM</REC>
-      <Source>That two-bit thief Zeller. Takes in one hand and then hits our caravans with the other. Got to play dumb. At this point, worth hiring some help. Someone reliable, someone that can take out his "army."</Source>
-      <Dest>Zeller, ten zlodějíček druhého nálevu. Vztáhne nad nás ochranou ruku a druhou udeří na naše karavany. Dělám, že nic nevím. Ale teď je už třeba najmout pomoc. Někoho spolehlivého, někoho, kdo zvládne vyřídit tu jeho "armádu."</Dest>
+      <Source>That two-bit thief Zeller. Takes in one hand and then hits our caravans with the other. Got to play dumb. At this point, worth hiring some help. Someone reliable, someone that can take out his &quot;army.&quot;</Source>
+      <Dest>Zeller, ten zlodějíček druhého nálevu. Vztáhne nad nás ochranou ruku a druhou udeří na naše karavany. Dělám, že nic nevím. Ale teď je už třeba najmout pomoc. Někoho spolehlivého, někoho, kdo zvládne vyřídit tu jeho &quot;armádu.&quot;</Dest>
     </String>
     <String List="0">
       <EDID>CA_CustomEvent_PlayerEncumbered_Nick</EDID>
@@ -1661,6 +1780,12 @@
       <REC>MGEF:FULL</REC>
       <Source>CA_AddictionEffect</Source>
       <Dest>CA_AddictionEffect</Dest>
+    </String>
+    <String List="0">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Concrete</Source>
+      <Dest>Beton</Dest>
     </String>
     <String List="0">
       <EDID>CA_CustomEvent_Peaceful_Curie</EDID>
@@ -1735,6 +1860,12 @@
       <Dest>Bowlingová koule</Dest>
     </String>
     <String List="0">
+      <EDID>mirelurkBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levé kopyto</Dest>
+    </String>
+    <String List="0">
       <EDID>Bowl_Generic_Prewar</EDID>
       <REC>MISC:FULL</REC>
       <Source>Clean Bowl</Source>
@@ -1749,7 +1880,7 @@
     <String List="0">
       <EDID>BunkerKesslerTerminal</EDID>
       <REC>TERM:UNAM</REC>
-      <Source>Jared's drop - mainly Jet and Psycho. Took a pass on Chem for Kids, but AJ's still got the best prices on the normal garbage. As long as he accepts chems it won't be a problem paying him off.</Source>
+      <Source>Jared&apos;s drop - mainly Jet and Psycho. Took a pass on Chem for Kids, but AJ&apos;s still got the best prices on the normal garbage. As long as he accepts chems it won&apos;t be a problem paying him off.</Source>
       <Dest>Jaredovo úkryt - hlavně Jet a Psycho. Chemii jsem vynechala kvůli dětem, ale na normální krámy má AJ nejlepší ceny. Dokud bere chemii, tak nebude problém ho vyplatit.</Dest>
     </String>
     <String List="0">
@@ -1785,7 +1916,7 @@
     <String List="0">
       <EDID>BunkerKesslerTerminal</EDID>
       <REC>TERM:FULL</REC>
-      <Source>Kessler's Terminal</Source>
+      <Source>Kessler&apos;s Terminal</Source>
       <Dest>Kessleřin Terminál</Dest>
     </String>
     <String List="0">
@@ -1805,6 +1936,12 @@
       <REC>TERM:WNAM</REC>
       <Source>Synths Are Out There!</Source>
       <Dest>Jsou mezi námi!</Dest>
+    </String>
+    <String List="0">
+      <EDID>DmndMyrnaTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Synths Are Out There!</Source>
+      <Dest>Synťáci jsou tu!</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_ChemUse_Codsworth</EDID>
@@ -2009,6 +2146,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_HackComputer_Piper</Source>
       <Dest>CA_Event_HackComputer_Piper</Dest>
+    </String>
+    <String List="0">
+      <EDID>MS07aEarlsBodyParts</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Examine</Source>
+      <Dest>Prozkoumat</Dest>
     </String>
     <String List="0">
       <EDID>c_Cloth</EDID>
@@ -2245,6 +2388,12 @@
       <Dest>CA_Event_HealCompanion_Preston</Dest>
     </String>
     <String List="0">
+      <EDID>RR101OldCornerBookstoreMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Old Corner Bookstore</Source>
+      <Dest>Knihkupectví Old Corner</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_HealDogmeat_X688</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_HealDogmeat_X688</Source>
@@ -2317,6 +2466,12 @@
       <Dest>CA_Event_DropCapsUsefulItem_Cait</Dest>
     </String>
     <String List="0">
+      <EDID>FloraFungusBrain02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Brain Fungus</Source>
+      <Dest>Mozkovka</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_CustomEvent_Mean_X688</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Mean_X688</Source>
@@ -2333,6 +2488,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Violent_X688</Source>
       <Dest>CA_CustomEvent_Violent_X688</Dest>
+    </String>
+    <String List="0">
+      <EDID>RR101TouristGranaryBuryingMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Granary Burying Grounds</Source>
+      <Dest>Pohřebiště Sýpka</Dest>
     </String>
     <String List="0">
       <EDID>c_Acid</EDID>
@@ -2357,6 +2518,18 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Peaceful_Hancock</Source>
       <Dest>CA_CustomEvent_Peaceful_Hancock</Dest>
+    </String>
+    <String List="0">
+      <EDID>MS18</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Bullet</Source>
+      <Dest>Bullet</Dest>
+    </String>
+    <String List="0">
+      <EDID>sSeasonSpring</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Spring</Source>
+      <Dest>Pružiny</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_JumpFromHeight_Piper</EDID>
@@ -2395,10 +2568,22 @@
       <Dest>Curie se to protiví.</Dest>
     </String>
     <String List="0">
+      <EDID>zUnusedCave</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Breakheart Banks</Source>
+      <Dest>Breakheartův břeh</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_CustomEvent_Nice_Preston</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_CustomEvent_Nice_Preston</Source>
       <Dest>CA_CustomEvent_Nice_Preston</Dest>
+    </String>
+    <String List="0">
+      <EDID>BostonCommon02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Boylston Club</Source>
+      <Dest>Boylstonský klub</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_ChemUse_Danse</EDID>
@@ -2447,6 +2632,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_CompanionCrippledArm_Deacon</Source>
       <Dest>CA_Event_CompanionCrippledArm_Deacon</Dest>
+    </String>
+    <String List="0">
+      <EDID>HumanSkinBase07</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Copper</Source>
+      <Dest>Měď</Dest>
     </String>
     <String List="0">
       <EDID>CA_CustomEvent_Peaceful_Deacon</EDID>
@@ -2563,6 +2754,12 @@
       <Dest>CA_Event_HackComputer_Cait</Dest>
     </String>
     <String List="0">
+      <EDID>workshopScrapRecipe_Tree</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0">
       <EDID>CA_Event_CompanionCrippledArm_Strong</EDID>
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_CompanionCrippledArm_Strong</Source>
@@ -2579,6 +2776,12 @@
       <REC>DIAL:FULL</REC>
       <Source>CA_Event_EnterVertibird_Danse</Source>
       <Dest>CA_Event_EnterVertibird_Danse</Dest>
+    </String>
+    <String List="0">
+      <EDID>CabotHouse01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Cabot House</Source>
+      <Dest>Sídlo Cabotů</Dest>
     </String>
     <String List="0">
       <EDID>CA_Event_EnterPowerArmor_Codsworth</EDID>
@@ -2735,6 +2938,24 @@
       <REC>CMPO:FULL</REC>
       <Source>Fertilizer</Source>
       <Dest>Hnojivo</Dest>
+    </String>
+    <String List="1">
+      <EDID>terminalHackedStatusEmpty</EDID>
+      <REC>MESG:DESC</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="1">
+      <EDID>MS13MarowskiPhoto</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source />
+      <Dest />
+    </String>
+    <String List="2">
+      <EDID>[00144F58]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source> </Source>
+      <Dest> </Dest>
     </String>
   </Content>
 </SSTXMLRessources>
