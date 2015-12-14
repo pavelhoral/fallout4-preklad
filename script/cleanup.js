@@ -9,7 +9,7 @@ var fs = require('fs'),
 
 program.
     usage('[options] <file ...>').
-    option('-q, --quiet', 'Suppress printing information about removed strings.').
+    option('-v, --verbose', 'Print out identifiers of removed strings.').
     option('-w, --write', 'Replace original file with the cleaned version.').
     parse(process.argv);
 
@@ -105,7 +105,7 @@ function cleanupBatch(batch) {
     stringArray = stringArray.filter((string) => {
         var stringId = getStringId(string),
             retain = stringId && stringCompare(firstId, stringId) <= 0 && stringCompare(stringId, lastId) <= 0;
-        if (string.Dest[0] == '  ') {
+        if (string.Dest[0] === ' ') {
             return false; // Do not include empty translations
         } else if (retain) {
             recordStats.retained[string.EDID[0]] = true;
@@ -119,7 +119,7 @@ function cleanupBatch(batch) {
     });
     cleanupStats.records = Object.keys(recordStats.retained).length;
     // Log removed IDs so that they can be manually checked
-    if (Object.keys(recordStats.removed).length && !program.quiet) {
+    if (Object.keys(recordStats.removed).length && program.verbose) {
         console.log('Removed IDs:', Object.keys(recordStats.removed).join(', '));
     }
     // Replace the original
