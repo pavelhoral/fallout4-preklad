@@ -223,6 +223,12 @@
       <Dest>Útočná puška</Dest>
     </String>
     <String List="0">
+      <EDID>[000B3CBA]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Museum of Witchcraft</Source>
+      <Dest>Muzeum čarodějnictví</Dest>
+    </String>
+    <String List="0">
       <EDID>AbRaceMirelurkQueen</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Mirelurk abilities</Source>
@@ -239,6 +245,12 @@
       <REC>SPEL:FULL</REC>
       <Source>Armorer</Source>
       <Dest>Zbrojíř</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B24EE]</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>BoSM01Greetings</Source>
+      <Dest>BoSM01Greetings</Dest>
     </String>
     <String List="0">
       <EDID>abRadscorpionRaceEffect</EDID>
@@ -448,7 +460,7 @@
       <EDID>AAA_StandardGun</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Ostřelovací puška</Dest>
+      <Dest>Odstřelovací puška</Dest>
     </String>
     <String List="0">
       <EDID>[0009B1B1]</EDID>
@@ -460,7 +472,7 @@
       <EDID>AbernathyFarmLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Abernathy Farm</Source>
-      <Dest>Abernathy Farm</Dest>
+      <Dest>Abernathyho farma</Dest>
     </String>
     <String List="0">
       <EDID>[0018673A]</EDID>
@@ -649,6 +661,12 @@
       <Dest>+&lt;mag&gt; Health</Dest>
     </String>
     <String List="0">
+      <EDID>[0005483F]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Mahkra Fishpacking</Source>
+      <Dest>Zpracování ryb Mahkra</Dest>
+    </String>
+    <String List="0">
       <EDID>AbFortifyCharisma</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Charisma</Source>
@@ -802,7 +820,7 @@
       <EDID>[0006F5D4]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Abernathy Farm</Source>
-      <Dest>Abernathy Farm</Dest>
+      <Dest>Abernathyho farma</Dest>
     </String>
     <String List="0">
       <EDID>AbFortifyCraftMechanical</EDID>
@@ -923,6 +941,12 @@
       <REC>NPC_:FULL</REC>
       <Source>Abigail Finch</Source>
       <Dest>Abigail Finchová</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0004D53E]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Parsons Creamery</Source>
+      <Dest>Parsonská mlékárna</Dest>
     </String>
     <String List="0">
       <EDID>AbPerkRadResistance</EDID>
@@ -1093,6 +1117,18 @@
       <Dest>Protectron Abilities</Dest>
     </String>
     <String List="0">
+      <EDID>[0002B9A4]</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>MinRecruit04RadiantSettlementIntro</Source>
+      <Dest>MinRecruit04RadiantSettlementIntro</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0002B4D0]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Hagen Satellite Array</Source>
+      <Dest>Satelitní síť pevnosti Hagen</Dest>
+    </String>
+    <String List="0">
       <EDID>abHandyHoverFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Handy Hover VFX</Source>
@@ -1129,6 +1165,12 @@
       <Dest>Poštovní náměstí</Dest>
     </String>
     <String List="0">
+      <EDID>[0006F322]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Garden Terrace</Source>
+      <Dest>Zahradní terasa</Dest>
+    </String>
+    <String List="0">
       <EDID>AbFortifyActorAnimationMult</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Actor Speed Mult</Source>
@@ -1156,7 +1198,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelLaser_Super_A</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Sniper Barrel</Source>
-      <Dest>Hlaveň pro ostřelovače</Dest>
+      <Dest>Hlaveň pro odstřelovače</Dest>
     </String>
     <String List="0">
       <EDID>[000A96F0]</EDID>
@@ -1168,7 +1210,7 @@
       <EDID>AAA_mod_TEMPLATE_Grip_Better1</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Comfort Grip</Source>
-      <Dest>Komfortní pažba</Dest>
+      <Dest>Komfortní rukojeť</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_BarrelPlasma_Shotgun_B</EDID>
@@ -1348,7 +1390,7 @@
       <EDID>AAA_mod_TEMPLATE_Grip_StockMarksmans</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Marksman's Stock</Source>
-      <Dest>Ostrostřelecká pažba</Dest>
+      <Dest>Střelecká pažba</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_Receiver_Heavier</EDID>
@@ -1420,13 +1462,13 @@
       <EDID>AAA_mod_TEMPLATE_BarrelPlasma_Sniper_A</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Sniper Barrel</Source>
-      <Dest>Hlaveň pro ostřelovače</Dest>
+      <Dest>Hlaveň pro odstřelovače</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_BarrelLaser_Super_B</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Improved Sniper Barrel</Source>
-      <Dest>Vylepšená hlaveň pro ostřelovače</Dest>
+      <Dest>Vylepšená hlaveň pro odstřelovače</Dest>
     </String>
     <String List="0">
       <EDID>[000A96E0]</EDID>
@@ -1546,7 +1588,7 @@
       <EDID>AAA_mod_TEMPLATE_GripShotgun_StockMarksmans</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Marksman's Stock</Source>
-      <Dest>Ostrostřelecká pažba</Dest>
+      <Dest>Střelecká pažba</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_Mag_Large</EDID>
@@ -1792,7 +1834,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelPlasma_Sniper_B</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Improved Sniper Barrel</Source>
-      <Dest>Vylepšená hlaveň pro ostřelovače</Dest>
+      <Dest>Vylepšená hlaveň pro odstřelovače</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_PlasmaReceiver_MoreDamage1_and_ArmorPiercing2</EDID>
@@ -1846,7 +1888,7 @@
       <EDID>[0009C390]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Hawthorne Estate</Source>
-      <Dest>Hawthornova pozůstalost</Dest>
+      <Dest>Hawthornova usedlost</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_Barrel_FinnedLong</EDID>
@@ -1967,6 +2009,12 @@
       <REC>OMOD:FULL</REC>
       <Source>Fine-tuned Beam Focuser</Source>
       <Dest>Vyladěný zaměřovač paprsku</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000B4654]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Rocky Cave</Source>
+      <Dest>Skalnatá jeskyně</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_Muzzle_BayonetLarge</EDID>
@@ -2230,7 +2278,7 @@
       <EDID>AAA_mod_TEMPLATE_Scope_SightsIronGlow</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Glow Sights</Source>
-      <Dest>Svítící mířidla</Dest>
+      <Dest>Tritiová mířidla</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_Scope_TargetingBox</EDID>
@@ -3157,12 +3205,6 @@
       <Dest>Stříli dvě kulky najednou.</Dest>
     </String>
     <String List="1">
-      <EDID>AAA_mod_TEMPLATE_BarrelShotgun_LightLong</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source>Superior range. Better recoil. Narrow spread.</Source>
-      <Dest>Mimořádný dostřel. Menší zpětný ráz a rozptyl.</Dest>
-    </String>
-    <String List="1">
       <EDID>AAA_mod_TEMPLATE_LaserReceiver_MoreDamage1_BetterCriticals2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior critical shot damage and ammo capacity. Better accuracy. Improved damage.</Source>
@@ -3521,12 +3563,6 @@
       <REC>OMOD:DESC</REC>
       <Source>Adds burning damage. Improved range.</Source>
       <Dest>Přidává poškození popálením. Lepší dostřel.</Dest>
-    </String>
-    <String List="1">
-      <EDID>AAA_mod_TEMPLATE_BarrelShotgun_Long</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source>Superior range. Better recoil. Narrow spread.</Source>
-      <Dest>Mimořádný dostřel. Menší zpětný ráz a rozptyl.</Dest>
     </String>
     <String List="1">
       <EDID>AAA_mod_TEMPLATE_Receiver_MoreDamage1</EDID>
