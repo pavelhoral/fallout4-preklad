@@ -1,4 +1,96 @@
 /**
+ * Modfile entry type constant pool.
+ * Contains type names mapped onto their UINT32LE equivalents.
+ */
+class ModfileType {
+
+    encode(type) {
+        return type.charCodeAt(0) +
+                (type.charCodeAt(1) << 8) +
+                (type.charCodeAt(2) << 16) +
+                (type.charCodeAt(3) << 24);
+    }
+
+}
+
+/**
+ * Create and populate default MODFILE_TYPE pool.
+ */
+var MODFILE_TYPES = new ModfileType();
+[
+    'GRUP', 'EDID', 'OFST'
+].forEach((type) => {
+    MODFILE_TYPES[type] = MODFILE_TYPES.encode(type);
+});
+
+/**
+ * Create internal freezed implementation.
+ */
+var FREEZED_TYPES = Object.freeze(MODFILE_TYPES);
+
+/**
+ * Define default modfile parsing handler.
+ * Serves both as base and example handler implementation.
+ */
+class ModfileHandler {
+
+    constructor() {
+        this.parsingStack = [{
+            label: 'ROOT',
+            children: []
+        }];
+    }
+
+    /**
+     * Handle group based entry.
+     */
+    handleGroup(label, parse) {
+        var head = this.parsingStack[this.parsingStack.length - 1];
+        // Push group on the stack
+        this.parsingStack.push({
+            label: label,
+            children: []
+        });
+        // Parse children entries
+        parse(this);
+        // Remove from stack and add to parent
+        head.children.push(this.parsingStack.pop());
+    }
+
+    /**
+     * Handle record based entry.
+     */
+    handleRecord(type, dataSize, flags, formId, parse) {
+        var head = this.parsingStack[this.parsingStack.length - 1];
+        // Push record on the stack
+        this.parsingStack.push({
+            type: type,
+            dataSize: dataSize,
+            flags: flags,
+            formId: formId
+        });
+        // Parse children entries
+        parse(this);
+        // Remove from stack and add to parent
+        head.children.push(this.parsingStack.pop());
+    }
+
+    /**
+     * Handle field based entry.
+     */
+    handleField(type, dataSize, buffer, offset) {
+        var head = this.parsingStack[this.parsingStack.length - 1];
+        // Add editor identifier
+        if (type == FREEZED_TYPES.EDID) {
+            head.editorId = buffer.toString('ascii', offset, dataSize);
+        }
+    }
+
+}
+
+// TODO XXX Bordel nize...
+
+/**
  * Simple parser for Bethesda's ESM/ESP modfiles.
  *
  * Handler's signature is {@code handle(context, read, parse)}.
