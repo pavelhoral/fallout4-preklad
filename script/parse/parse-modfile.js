@@ -100,24 +100,21 @@ class ModfileHandler {
 
 /**
  * Simple parser for Bethesda's ESM/ESP modfiles.
- *
- * Handler's signature is {@code handle(context, read, parse)}.
- *  - {object} context Parsing context.
- *  - {Function} read Read the current entry.
- *  - {Function} parse Parse child entries.
- *
- * Important context properties are:
- *  - {string} $type Type of the current entry.
- *  - {Number} $offset Source offset of the current entry.
+ * Parser reads provided data source and processes entries via provided entry handler.
  */
 class ModfileParser {
 
-    constructor(source, context) {
+    constructor(source) {
+        // Set source
         this.source = source;
-        this.context = Object.assign({}, context || {});
+        // Freeze ourselves
+        Object.freeze(this);
     }
 
+    // TODO XXX Bordel níže
+
     parse(handler) {
+
         this.result = new ModGroup('GRUP', null);
         this.result.label = 'ROOT';
         while (this.offset < this.buffer.byteLength) {

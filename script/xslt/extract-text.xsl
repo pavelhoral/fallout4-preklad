@@ -6,6 +6,7 @@
     <xsl:output method="text" indent="no" />
     <xsl:template match="String">
         <xsl:value-of select="Source/text()" />
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="text()|@*"></xsl:template>
 </xsl:stylesheet>
