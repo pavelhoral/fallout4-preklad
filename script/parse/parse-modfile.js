@@ -11,6 +11,14 @@ class ModfileType {
                 (type.charCodeAt(3) << 24);
     }
 
+    decode(type) {
+        return String.fromCharCode(
+                type & 0xff,
+                type >> 8 & 0xff,
+                type >> 16 & 0xff,
+                type >> 24 & 0xff);
+    }
+
 }
 
 /**
@@ -82,7 +90,7 @@ class ModfileHandler {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Add editor identifier
         if (type == FREEZED_TYPES.EDID) {
-            head.editorId = buffer.toString('ascii', offset, dataSize);
+            head.editorId = buffer.toString('ascii', offset, dataSize - 1);
         }
     }
 
