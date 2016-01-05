@@ -52,7 +52,7 @@ class ModfileHandler {
     /**
      * Handle group based entry.
      */
-    handleGroup(label, parse) {
+    handleGroup(type, label, parse) {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Push group on the stack
         this.parsingStack.push({
@@ -68,12 +68,12 @@ class ModfileHandler {
     /**
      * Handle record based entry.
      */
-    handleRecord(type, dataSize, flags, formId, parse) {
+    handleRecord(type, size, flags, formId, parse) {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Push record on the stack
         this.parsingStack.push({
             type: type,
-            dataSize: dataSize,
+            size: size,
             flags: flags,
             formId: formId
         });
@@ -86,17 +86,15 @@ class ModfileHandler {
     /**
      * Handle field based entry.
      */
-    handleField(type, dataSize, buffer, offset) {
+    handleField(type, size, buffer, offset) {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Add editor identifier
         if (type == FREEZED_TYPES.EDID) {
-            head.editorId = buffer.toString('ascii', offset, dataSize - 1);
+            head.editorId = buffer.toString('ascii', offset, size - 1);
         }
     }
 
 }
-
-// TODO XXX Bordel nize...
 
 /**
  * Simple parser for Bethesda's ESM/ESP modfiles.
@@ -111,83 +109,87 @@ class ModfileParser {
         Object.freeze(this);
     }
 
-    // TODO XXX Bordel níže
-
+    /**
+     * Start modfile parsing with the given handler.
+     */
     parse(handler) {
-
-        this.result = new ModGroup('GRUP', null);
-        this.result.label = 'ROOT';
-        while (this.offset < this.buffer.byteLength) {
-            this.result.$children.push(this.parseNext(this.result));
-        }
-        return this.result;
+        while (this.parseNext(handler)) { /* no-op */ }
     }
 
-    parseNext(parent) {
-        var type = readChar4(this.array, this.offset);
-        if (type === 'GRUP') {
-            return this.parseGroup(parent);
+    /**
+     * Parse next entry and return its size in bytes.
+     */
+    parseNext(handler, assert) {
+        var buffer = this.source.read(24),
+            type = buffer.length < 24 ? signature.readUInt32LE(0) : null;
+        if (assert && type === null) {
+            throw new Error("Unexpected end of source reached.");
+        } else if (type === FREEZED_TYPES.GRUP) {
+            return this.parseGroup(buffer, handler);
         } else {
-            return this.parseRecord(type, parent);
+            return this.parseRecord(type, buffer, handler);
         }
     }
 
-    parseGroup(parent) {
-        var view = new DataView(this.buffer, this.offset),
-            group = new ModGroup('GRUP', parent),
-            start = this.offset;
-        group.size = view.getUint32(4, true);
-        group.type = view.getInt32(12, true);
-        group.offset = start + 24;
-        if (group.type === 0) {
-            group.label = readChar4(this.array, this.offset + 8);
-        } else {
-            group.label = view.getUint32(8, true);
-        }
-        this.offset += 24;
-        while (this.offset - start < group.size) {
-            group.$children.push(this.parseNext(group));
-        }
-        return group;
-    }
-
-    parseRecord(type, parent) {
-        var view = new DataView(this.buffer, this.offset),
-            record = new ModRecord(type, parent);
-        record.size = view.getUint32(4, true);
-        record.flags = view.getUint32(8, true);
-        record.id = view.getUint32(12, true);
-        record.revision = view.getUint32(16, true);
-        record.version = view.getUint16(20, true);
-        record.offset = this.offset + 24;
-        this.offset += 24;
-        if (record.flags & 0x00040000) {
-            this.offset += record.size;
-        } else {
-            this.parseFields(record, record.size);
-        }
-        return record;
-    }
-
-    parseFields(parent, size) {
-        var start = this.offset,
-            field = null;
-        while (this.offset < start + size) {
-            field = this.parseField(parent);
-            this.onfield(parent, field);
-            if (field.$type === 'OFST') {
-                break; // Stop on OFST field
+    /**
+     * Parse group based entry.
+     */
+    parseGroup(buffer, handler) {
+        var size = buffer.readUInt32LE(4),
+            label = buffer.readUInt32LE(8),
+            type = buffer.readInt32LE(12),
+            skip = size - 24;
+        handler.handleGroup(type, label, (handler) => {
+            while (skip > 0) {
+                skip -= this.parseNext(handler, true);
             }
-        }
-        this.offset = start + size;
+        });
+        this.source.skip(skip);
+        return size - 24;
     }
 
-    parseField(parent) {
-        var field = new ModField(readChar4(this.array, this.offset), parent);
-        field.size = this.view.getUint16(this.offset + 4, true);
-        field.offset = this.offset + 6;
-        this.offset += 6 + field.size;
-        return field;
+    /**
+     * Parse record based entry.
+     */
+    parseRecord(type, buffer, handler) {
+        var size = buffer.readUInt32LE(4),
+            flags = buffer.readUInt32LE(8),
+            formId = buffer.readUInt32LE(12),
+            skip = size;
+        handler.handleRecord(type, size, flags, formId, (handler) => {
+            var buffer = this.source.read(size);
+            if (record.flags & 0x00040000) {
+
+            }
+            parseFields(buffer, handler);
+            skip = 0;
+        });
+        this.source.skip(skip);
+        return size;
+    }
+
+    /**
+     * Parse field based entries.
+     */
+    parseFields(buffer, handler) {
+        var offset = 0;
+        while (offset < buffer.length) {
+            offset += this.parseField(offset);
+        }
+        return buffer.length;
+    }
+
+    /**
+     * Parse field at the specified offset.
+     */
+    parseField(buffer, offset, handler) {
+        var type = buffer.readUInt32LE(offset),
+            size = buffer.readUInt16LE(offset + 4);
+        if (type === FREEZED_TYPES.OFST) {
+            return buffer.length - offset;
+        }
+        handler.handleField(type, size, buffer, offset + 6);
+        return size + 6;
     }
 
 }
