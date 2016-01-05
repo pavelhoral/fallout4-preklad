@@ -1,8 +1,17 @@
+"use strict";
+
 /**
  * Modfile entry type constant pool.
  * Contains type names mapped onto their UINT32LE equivalents.
  */
 class ModfileType {
+
+    constructor(types) {
+        types.forEach((type) => {
+            this[type] = this.encode(type);
+        });
+        Object.freeze(this);
+    }
 
     encode(type) {
         return type.charCodeAt(0) +
@@ -20,21 +29,15 @@ class ModfileType {
     }
 
 }
+module.exports.ModfileType = ModfileType;
 
 /**
- * Create and populate default MODFILE_TYPE pool.
+ * Create basic MODFILE_TYPE pool.
  */
-var MODFILE_TYPES = new ModfileType();
-[
+var MODFILE_TYPES = new ModfileType([
     'GRUP', 'EDID', 'OFST'
-].forEach((type) => {
-    MODFILE_TYPES[type] = MODFILE_TYPES.encode(type);
-});
-
-/**
- * Create internal freezed implementation.
- */
-var FREEZED_TYPES = Object.freeze(MODFILE_TYPES);
+]);
+module.exports.MODFILE_TYPES = MODFILE_TYPES;
 
 /**
  * Define default modfile parsing handler.
@@ -89,12 +92,13 @@ class ModfileHandler {
     handleField(type, size, buffer, offset) {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Add editor identifier
-        if (type == FREEZED_TYPES.EDID) {
+        if (type == MODFILE_TYPES.EDID) {
             head.editorId = buffer.toString('ascii', offset, size - 1);
         }
     }
 
 }
+module.exports.ModfileHandler = ModfileHandler;
 
 /**
  * Simple parser for Bethesda's ESM/ESP modfiles.
@@ -121,10 +125,10 @@ class ModfileParser {
      */
     parseNext(handler, assert) {
         var buffer = this.source.read(24),
-            type = buffer.length < 24 ? signature.readUInt32LE(0) : null;
+            type = buffer.length === 24 ? buffer.readUInt32LE(0) : null;
         if (assert && type === null) {
             throw new Error("Unexpected end of source reached.");
-        } else if (type === FREEZED_TYPES.GRUP) {
+        } else if (type === MODFILE_TYPES.GRUP) {
             return this.parseGroup(buffer, handler);
         } else {
             return this.parseRecord(type, buffer, handler);
@@ -159,7 +163,7 @@ class ModfileParser {
         handler.handleRecord(type, size, flags, formId, (handler) => {
             var buffer = this.source.read(size);
             if (record.flags & 0x00040000) {
-
+                // TODO GZIP handling
             }
             parseFields(buffer, handler);
             skip = 0;
@@ -185,7 +189,7 @@ class ModfileParser {
     parseField(buffer, offset, handler) {
         var type = buffer.readUInt32LE(offset),
             size = buffer.readUInt16LE(offset + 4);
-        if (type === FREEZED_TYPES.OFST) {
+        if (type === MODFILE_TYPES.OFST) {
             return buffer.length - offset;
         }
         handler.handleField(type, size, buffer, offset + 6);
@@ -193,3 +197,4 @@ class ModfileParser {
     }
 
 }
+module.exports.ModfileParser = ModfileParser;

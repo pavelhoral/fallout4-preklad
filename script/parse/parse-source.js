@@ -1,3 +1,5 @@
+"use strict";
+
 var fs = require('fs');
 
 /**
@@ -32,11 +34,12 @@ class DataSource {
 class FileSource extends DataSource {
 
     constructor(path, bufferSize) {
+        super();
         this.fileDesc = fs.openSync(path, 'r');
         this.filePosition = 0;
-        this.readBuffer = new Buffer(bufferSize || 0x3fff);
-        this.readLength = 0;
-        this.readOffset = 0;
+        this.sourceBuffer = new Buffer(bufferSize || 0x3fff);
+        this.bufferLength = 0;
+        this.bufferOffset = 0;
     }
 
     close() {
@@ -47,14 +50,14 @@ class FileSource extends DataSource {
      * Read another portion of the file into the target buffer.
      */
     readFile(buffer, length) {
-        var reminderLength = this.readLength - this.readOffset;
+        var reminderLength = this.bufferLength - this.bufferOffset;
         // Copy buffer reminder to the beginning of the target buffer
-        this.readBuffer.copy(buffer, 0, this.readOffset, this.readLength);
+        this.sourceBuffer.copy(buffer, 0, this.bufferOffset, this.bufferLength);
         // Reset read length and position
-        this.readLength = 0;
-        this.readOffset = 0;
+        this.bufferLength = 0;
+        this.bufferOffset = 0;
         // Try to read the rest of the buffer
-        var bytesRead = fs.readSync(buffer, reminderLength, length - reminderLength, this.filePosition);
+        var bytesRead = fs.readSync(this.fileDesc, buffer, reminderLength, length - reminderLength, this.filePosition);
         this.filePosition += bytesRead;
         return buffer.slice(0, bytesRead);
     }
@@ -63,18 +66,18 @@ class FileSource extends DataSource {
      * Read data using the internal buffer.
      */
     readBuffer(length) {
-        if (this.readOffset + length > this.readLength) {
-            this.readLength = this.readFile(this.readBuffer, this.readBuffer.length).length;
+        if (this.bufferOffset + length > this.bufferLength) {
+            this.bufferLength = this.readFile(this.sourceBuffer, this.sourceBuffer.length).length;
         }
-        if (this.readOffset + length > this.readLength) {
-            length = this.readLength - this.readOffset;
+        if (this.bufferOffset + length > this.bufferLength) {
+            length = this.bufferLength - this.bufferOffset;
         }
-        this.readOffset += length;
-        return this.readBuffer.slice(this.readOffset - length, this.readOffset);
+        this.bufferOffset += length;
+        return this.sourceBuffer.slice(this.bufferOffset - length, this.bufferOffset);
     }
 
     read(length) {
-        if (length > this.buffer.length) {
+        if (length > this.sourceBuffer.length) {
             return this.readFile(new Buffer(length), length);
         } else {
             return this.readBuffer(length);
@@ -82,12 +85,13 @@ class FileSource extends DataSource {
     }
 
     skip(length) {
-        this.readOffset += length;
-        if (this.readOffset > this.readLength) {
-            this.filePosition += this.readOffset - this.readLength;
-            this.readOffset = 0;
-            this.readLength = 0;
+        this.bufferOffset += length;
+        if (this.bufferOffset > this.bufferLength) {
+            this.filePosition += this.bufferOffset - this.bufferLength;
+            this.bufferOffset = 0;
+            this.bufferLength = 0;
         }
     }
 
 }
+module.exports.FileSource = FileSource;
