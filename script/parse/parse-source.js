@@ -49,7 +49,7 @@ class FileSource extends DataSource {
     /**
      * Read another portion of the file into the target buffer.
      */
-    readFile(buffer, length) {
+    readFile(buffer) {
         var reminderLength = this.bufferLength - this.bufferOffset;
         // Copy buffer reminder to the beginning of the target buffer
         this.sourceBuffer.copy(buffer, 0, this.bufferOffset, this.bufferLength);
@@ -57,9 +57,9 @@ class FileSource extends DataSource {
         this.bufferLength = 0;
         this.bufferOffset = 0;
         // Try to read the rest of the buffer
-        var bytesRead = fs.readSync(this.fileDesc, buffer, reminderLength, length - reminderLength, this.filePosition);
+        var bytesRead = fs.readSync(this.fileDesc, buffer, reminderLength, buffer.length - reminderLength, this.filePosition);
         this.filePosition += bytesRead;
-        return buffer.slice(0, bytesRead);
+        return buffer.slice(0, reminderLength + bytesRead);
     }
 
     /**
@@ -67,10 +67,10 @@ class FileSource extends DataSource {
      */
     readBuffer(length) {
         if (this.bufferOffset + length > this.bufferLength) {
-            this.bufferLength = this.readFile(this.sourceBuffer, this.sourceBuffer.length).length;
+            this.bufferLength = this.readFile(this.sourceBuffer).length;
         }
         if (this.bufferOffset + length > this.bufferLength) {
-            length = this.bufferLength - this.bufferOffset;
+            length = this.bufferLength;
         }
         this.bufferOffset += length;
         return this.sourceBuffer.slice(this.bufferOffset - length, this.bufferOffset);
@@ -78,7 +78,7 @@ class FileSource extends DataSource {
 
     read(length) {
         if (length > this.sourceBuffer.length) {
-            return this.readFile(new Buffer(length), length);
+            return this.readFile(new Buffer(length));
         } else {
             return this.readBuffer(length);
         }

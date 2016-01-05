@@ -17,15 +17,10 @@ if (!program.args.length) {
 function extractInnrs() {
     var modfileSource = new parseSource.FileSource(program.args[0]),
         modfileParser = new parseModfile.ModfileParser(modfileSource),
-        MODFILE_TYPES = new parseModfile.ModfileType(['KYWD', 'INNR']);
-    modfileParser.parse({
-        handleRecord: function() {
-
-        },
-        handleGroup: function(type, label) {
-            console.log(MODFILE_TYPES.decode(label));
-        }
-    });
+        MODFILE_TYPES = new parseModfile.ModfileType(['KYWD', 'INNR']),
+        modfileHandler = new parseModfile.ModfileHandler();
+    modfileParser.parse(modfileHandler);
+    modfileSource.close();
 }
 
 extractInnrs();

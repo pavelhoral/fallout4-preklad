@@ -93,7 +93,7 @@ class ModfileHandler {
         var head = this.parsingStack[this.parsingStack.length - 1];
         // Add editor identifier
         if (type == MODFILE_TYPES.EDID) {
-            head.editorId = buffer.toString('ascii', offset, size - 1);
+            head.editorId = buffer.toString('ascii', offset, offset + size - 1);
         }
     }
 
@@ -126,17 +126,18 @@ class ModfileParser {
     parseNext(handler, assert) {
         var buffer = this.source.read(24),
             type = buffer.length === 24 ? buffer.readUInt32LE(0) : null;
-        if (assert && type === null) {
+        if (assert && !type) {
             throw new Error("Unexpected end of source reached.");
         } else if (type === MODFILE_TYPES.GRUP) {
             return this.parseGroup(buffer, handler);
-        } else {
-            return this.parseRecord(type, buffer, handler);
+        } else if (type !== null) {
+            return this.parseRecord(type, buffer, handler) + 24;
         }
+        return 0; // EOF
     }
 
     /**
-     * Parse group based entry.
+     * Parse group based entry and return its size (including header).
      */
     parseGroup(buffer, handler) {
         var size = buffer.readUInt32LE(4),
@@ -149,11 +150,11 @@ class ModfileParser {
             }
         });
         this.source.skip(skip);
-        return size - 24;
+        return size;
     }
 
     /**
-     * Parse record based entry.
+     * Parse record based entry and return size of its data.
      */
     parseRecord(type, buffer, handler) {
         var size = buffer.readUInt32LE(4),
@@ -162,10 +163,10 @@ class ModfileParser {
             skip = size;
         handler.handleRecord(type, size, flags, formId, (handler) => {
             var buffer = this.source.read(size);
-            if (record.flags & 0x00040000) {
+            if (flags & 0x00040000) {
                 // TODO GZIP handling
             }
-            parseFields(buffer, handler);
+            this.parseFields(buffer, handler);
             skip = 0;
         });
         this.source.skip(skip);
@@ -178,7 +179,7 @@ class ModfileParser {
     parseFields(buffer, handler) {
         var offset = 0;
         while (offset < buffer.length) {
-            offset += this.parseField(offset);
+            offset += this.parseField(buffer, offset, handler);
         }
         return buffer.length;
     }
