@@ -35,20 +35,20 @@ class StringsParser {
     }
 
     parse(handler) {
-        var count = buffer.readUInt32LE(0),
+        var count = this.buffer.readUInt32LE(0),
             start = (count + 1) * 8;
         for (let i = 8; i < start; i += 8) {
             handler.handleString(
                     this.buffer.readUInt32LE(i),
-                    this.parseString(this.buffer.readUInt32LE(i + 4)));
+                    this.parseString(start + this.buffer.readUInt32LE(i + 4)));
         }
     }
 
     parseString(offset) {
-        var start = this.padded ? offset + 4 : offset;
+        var start = this.padded ? offset + 4 : offset,
             end = start;
         if (this.padded) {
-            end += this.buffer.readUInt32LE(offset);
+            end += this.buffer.readUInt32LE(offset) - 1;
         } else {
             while (this.buffer[end] != 0 || end >= this.buffer.length) {
                 end++;
@@ -78,13 +78,13 @@ class StringsReader {
 
     readFile(filename, encoding, target) {
         var buffer = fs.readFileSync(filename),
-            padded = path.extname(filename) === '.STRINGS';
+            padded = path.extname(filename) !== '.STRINGS';
         return this.readBuffer(buffer, padded, encoding, target);
     }
 
-    readByModfile(filename, encoding) {
+    readByModfile(filename, language, encoding) {
         var extensions = ['.STRINGS', '.DLSTRINGS', '.ILSTRINGS'],
-            basename = path.basename(filename).replace(/\.[^\.]+$/, ''),
+            basename = path.basename(filename).replace(/\.[^\.]+$/, '') + '_' + language,
             dirname = path.join(path.dirname(filename), 'Strings'),
             strings = {};
         extensions.forEach((extension) => {
