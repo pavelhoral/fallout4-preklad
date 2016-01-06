@@ -2,13 +2,15 @@
 
 /**
  * Modfile entry type constant pool.
- * Contains type names mapped onto their UINT32LE equivalents.
+ * Contains type names mapped onto their UINT32LE equivalents and vice-versa.
  */
 class ModfileType {
 
     constructor(types) {
         types.forEach((type) => {
-            this[type] = this.encode(type);
+            var encoded = this.encode(type);
+            this[type] = encoded;
+            this[encoded] = type;
         });
         Object.freeze(this);
     }
