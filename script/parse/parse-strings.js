@@ -82,12 +82,11 @@ class StringsReader {
         return this.readBuffer(buffer, padded, encoding, target);
     }
 
-    readByModfile(filename, language, encoding) {
-        var extensions = ['.STRINGS', '.DLSTRINGS', '.ILSTRINGS'],
-            basename = path.basename(filename).replace(/\.[^\.]+$/, '') + '_' + language,
+    readByModfile(filename, language, encoding, extensions) {
+        var basename = path.basename(filename).replace(/\.[^\.]+$/, '') + '_' + language,
             dirname = path.join(path.dirname(filename), 'Strings'),
             strings = {};
-        extensions.forEach((extension) => {
+        (extensions || ['.STRINGS', '.DLSTRINGS', '.ILSTRINGS']).forEach((extension) => {
             this.readFile(path.join(dirname, basename + extension), encoding, strings);
         });
         return strings;
