@@ -144,11 +144,11 @@
       <Source>Pipe talks up her paper with random person</Source>
       <Dest>Piper vychvaluje její noviny náhodným lidem</Dest>
     </String>
-    <String List="0" Partial="1">
+    <String List="0">
       <EDID>CoffeeCup01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Coffee Cup</Source>
-      <Dest>Kávový šálek</Dest>
+      <Dest>Hrnek na kávu</Dest>
     </String>
     <String List="0">
       <EDID>CatBodyPartData</EDID>
@@ -190,7 +190,7 @@
       <EDID>CIS_RacialComments_Hancock</EDID>
       <REC>QUST:FULL</REC>
       <Source>NPC says something about companion's race, they respond</Source>
-      <Dest>NPC říká něco o původu společníka, který odpovídá</Dest>
+      <Dest>NPC říká něco o původu společníka, oni odpovídají</Dest>
     </String>
     <String List="0">
       <EDID>CombatShotgun</EDID>
@@ -220,13 +220,13 @@
       <EDID>CIS_RacialComments_Template</EDID>
       <REC>QUST:FULL</REC>
       <Source>NPC says something about companion's race, they respond</Source>
-      <Dest>NPC říká něco o původu společníka, který odpovídá</Dest>
+      <Dest>NPC říká něco o původu společníka, oni odpovídají</Dest>
     </String>
     <String List="0">
       <EDID>CoffeePot01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Coffee Pot</Source>
-      <Dest>Kávová konev</Dest>
+      <Dest>Konvice na kávu</Dest>
     </String>
     <String List="0">
       <EDID>CIS_ChatWithNPCFaction_Strong</EDID>
@@ -472,7 +472,7 @@
       <EDID>CombatRifle</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0">
       <EDID>CharlesViewAmpitheatreMapMarkerRef</EDID>
@@ -538,7 +538,7 @@
       <EDID>CIS_EnterNewLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>Companion says something on entering location for first time</Source>
-      <Dest>Společník říká něco poprvé při vstupu do lokace</Dest>
+      <Dest>Společník něco říká při prvním vstupu do lokace</Dest>
     </String>
     <String List="0">
       <EDID>CeilingCageLightShort</EDID>
@@ -802,7 +802,7 @@
       <EDID>CIS_RacialComments_X6-88</EDID>
       <REC>QUST:FULL</REC>
       <Source>NPC says something about companion's race, they respond</Source>
-      <Dest>NPC říká něco o původu společníka, který odpovídá</Dest>
+      <Dest>NPC říká něco o původu společníka, oni odpovídají</Dest>
     </String>
     <String List="0">
       <EDID>CedricHopton</EDID>
@@ -1024,7 +1024,7 @@
       <EDID>CIS_RacialComments_Valentine</EDID>
       <REC>QUST:FULL</REC>
       <Source>NPC says something about companion's race, they respond</Source>
-      <Dest>NPC říká něco o původu společníka, který odpovídá</Dest>
+      <Dest>NPC říká něco o původu společníka, oni odpovídají</Dest>
     </String>
     <String List="0">
       <EDID>CIS_ChatWithNPC_Piper</EDID>
@@ -1138,7 +1138,7 @@
       <EDID>CigarBoxSanFran</EDID>
       <REC>MISC:FULL</REC>
       <Source>Box of San Francisco Sunlights</Source>
-      <Dest>Bedna doutníků San Franciská záře</Dest>
+      <Dest>Krabička doutníků San Franciská záře</Dest>
     </String>
     <String List="0">
       <EDID>CIS_ChatWithNPCFaction_Piper</EDID>
@@ -1192,7 +1192,7 @@
       <EDID>CombatShotgun</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0">
       <EDID>ClothesPrewarHouseDress</EDID>
@@ -1366,7 +1366,7 @@
       <EDID>CoffeeCup01clean</EDID>
       <REC>MISC:FULL</REC>
       <Source>Clean Coffee Cup</Source>
-      <Dest>Čistý kávový šálek</Dest>
+      <Dest>Čistý hrnek na kávu</Dest>
     </String>
     <String List="0">
       <EDID>ClarenceCodman</EDID>
@@ -1420,7 +1420,7 @@
       <EDID>ClothesNat</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Nat's Dress</Source>
-      <Dest>Natyiny šaty</Dest>
+      <Dest>Natiiny šaty</Dest>
     </String>
     <String List="0">
       <EDID>ClothesSuitClean_Tan</EDID>
@@ -1492,7 +1492,7 @@
       <EDID>CombatZoneMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Combat Zone</Source>
-      <Dest>Bojiště</Dest>
+      <Dest>Bojová aréna</Dest>
     </String>
     <String List="0">
       <EDID>COMCodsworthGreeting</EDID>
@@ -1516,7 +1516,7 @@
       <EDID>CIS_DeaconGiveInfoFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>People Deacon will discuss</Source>
-      <Dest>Lidé, s kterými bude Deacon debatovat</Dest>
+      <Dest>Lidé, s kterými bude Deacon diskutovat</Dest>
     </String>
     <String List="0">
       <EDID>CeilingLamp01ShortOn</EDID>
@@ -1528,7 +1528,7 @@
       <EDID>CigarBox</EDID>
       <REC>MISC:FULL</REC>
       <Source>Cigar Box</Source>
-      <Dest>Kartón cigaret</Dest>
+      <Dest>Krabička doutníků</Dest>
     </String>
     <String List="0">
       <EDID>ClothesWinterHat</EDID>
@@ -1744,13 +1744,13 @@
       <EDID>CoffeePot01clean</EDID>
       <REC>MISC:FULL</REC>
       <Source>Untarnished Coffee Pot</Source>
-      <Dest>Nezašlý kávový šálek</Dest>
+      <Dest>Zachovalá konvice na kávu</Dest>
     </String>
     <String List="0">
       <EDID>CombatZoneHoldingCell</EDID>
       <REC>CELL:FULL</REC>
       <Source>Combat Zone Holding Cell</Source>
-      <Dest>Zadržovací cely Bojiště</Dest>
+      <Dest>Zadržovací cely bojové arény</Dest>
     </String>
     <String List="0">
       <EDID>ChemistrySetBeaker02</EDID>
@@ -1888,7 +1888,7 @@
       <EDID>CIS_RacialComments_Codsworth</EDID>
       <REC>QUST:FULL</REC>
       <Source>NPC says something about companion's race, they respond</Source>
-      <Dest>NPC říká něco o původu společníka, který odpovídá</Dest>
+      <Dest>NPC říká něco o původu společníka, oni odpovídají</Dest>
     </String>
     <String List="0">
       <EDID>COMCodsworth_SharedFollowerSkippedIntro</EDID>
@@ -2140,7 +2140,7 @@
       <EDID>ClothesDog_DogCollarChain</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Chain Dog Collar</Source>
-      <Dest>Řetězový obojek pro psa</Dest>
+      <Dest>Řetězový psí obojek</Dest>
     </String>
     <String List="0">
       <EDID>ClothesWastelandDress</EDID>
@@ -2248,19 +2248,19 @@
       <EDID>COMCaitQuestVault95Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Initiate Toxin Purge</Source>
-      <Dest>Spustit vyloučení toxinů</Dest>
+      <Dest>Spustit detoxikaci</Dest>
     </String>
     <String List="0">
       <EDID>COMCaitQuestVault95Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>*Error* Purge Unavailable</Source>
-      <Dest>*Error* vyloučení nedostupné</Dest>
+      <Dest>*Error* Detoxikace nedostupná</Dest>
     </String>
     <String List="0">
       <EDID>COMCaitQuestVault95Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Initiate Toxin Purge</Source>
-      <Dest>Spustit vyloučení toxinů</Dest>
+      <Dest>Spustit detoxikaci</Dest>
     </String>
     <String List="0">
       <EDID>ClothesSuitDirty_Black</EDID>
@@ -2278,13 +2278,13 @@
       <EDID>COMCaitQuest</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Wait for Cait to get into the Clean Room Chair</Source>
-      <Dest>Počkej až si Cait sedne do křesla ve sterilní místnosti</Dest>
+      <Dest>Počkej, až si Cait sedne do křesla ve sterilní místnosti</Dest>
     </String>
     <String List="0">
       <EDID>COMCaitQuestVault95Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>*Error* No Subject Detected</Source>
-      <Dest>*Error* Nenalezen žádný subject</Dest>
+      <Dest>*Error* Nenalezen žádný subjekt</Dest>
     </String>
     <String List="0">
       <EDID>ClothesSuitDirty_Striped</EDID>
@@ -2320,7 +2320,7 @@
       <EDID>COMCaitQuestVault95Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Initiate Toxin Purge</Source>
-      <Dest>Spustit vyloučení toxinů</Dest>
+      <Dest>Spustit detoxikaci</Dest>
     </String>
     <String List="0">
       <EDID>ClothesMobsterhat</EDID>
@@ -2380,7 +2380,7 @@
       <EDID>CityDiamondCity01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Diamond City was constructed in the remains of Boston's world-renowned baseball stadium.</Source>
-      <Dest>Diamond City bylo vybudováno na pozůstatcích světoznámého Bostonského baseballového stadiónu.</Dest>
+      <Dest>Diamond City bylo vybudováno na pozůstatcích světoznámého bostonského baseballového stadiónu.</Dest>
     </String>
     <String List="0">
       <EDID>ClothesDog_DogCollarDouble</EDID>
@@ -2422,7 +2422,7 @@
       <EDID>CoffeePot01_Rare</EDID>
       <REC>MISC:FULL</REC>
       <Source>Luxobrew Coffee Pot</Source>
-      <Dest>Kávový šálek Luxovar</Dest>
+      <Dest>Konvice na kávu Luxovar</Dest>
     </String>
     <String List="0">
       <EDID>CharlestownDrugDenLocation</EDID>
@@ -2452,7 +2452,7 @@
       <EDID>CityDiamondCity05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Diamond City's newspaper, Publick Occurrences, gets its name from the first newspaper ever published in Boston, in 1690.</Source>
-      <Dest>Noviny v Diamond City, Veřejné záležitosti, získaly své jméno po prvních novinách, které byly publikovány v Bostonu v roce 1690.</Dest>
+      <Dest>Veřejné záležitosti, noviny vydávané v Diamond City, získaly své jméno po prvních novinách, které byly publikovány v Bostonu v roce 1690.</Dest>
     </String>
     <String List="0">
       <EDID>CityDiamondCity10</EDID>
@@ -2464,19 +2464,19 @@
       <EDID>CityGoodneighbor07</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Goodneighbor was founded in the year 2240, by a group of criminals who were banished from Diamond City.</Source>
-      <Dest>Dobré sousedství bylo založen roku 2240 skupinou kriminálních živlů, kteří byli vyhnáni z Diamond City.</Dest>
+      <Dest>Dobré sousedství bylo založeno roku 2240 skupinou kriminálních živlů, kteří byli vyhnáni z Diamond City.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Old State House, once one of Boston's most renowned historic buildings, now serves as the headquarters of Goodneighbor's mayor, Hancock. According to popular legend, the leader took his name when he took the famous statesman's outfit, once on display.</Source>
-      <Dest>Staré sídlo vlády, jedna z nejznámějších historických budov v Bostonu, nyní slouží jako sídlo starosty Dobrého sousedství, Hancocka. Podle lidové pověsti přišel starosta ke svému jménu když si vzal na přehlídku oblek tohoto slavného státníka.</Dest>
+      <Dest>Staré sídlo vlády, kdysi jedna z nejznámějších historických budov v Bostonu, nyní slouží jako sídlo starosty Dobrého sousedství, Hancocka. Podle lidové pověsti přišel starosta ke svému jménu, když si vzal na přehlídku oblek tohoto slavného státníka.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Bobbi No-Nose is a small-time operator with big-time plans. Every place she sets up shop inevitably turns into a base of operations.</Source>
-      <Dest>Bobbi Beznoska je sice drobná podnikatelka, ale oplývá nápady velkého formátu. Každé místo, ve kterém si otevře obchod, se tak nakonec nevyhnutelně stane dějištěm různých kšeftíků.</Dest>
+      <Dest>Bobbi Beznoska je drobná podnikatelka oplívající nápady velkého formátu. Každé místo, ve kterém si otevře obchod, se tak nakonec nevyhnutelně stane dějištěm různých kšeftíků.</Dest>
     </String>
     <String List="0">
       <EDID>CityDiamondCity08</EDID>
@@ -2488,43 +2488,43 @@
       <EDID>CityDiamondCity07</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Science Center has been instrumental in helping maintain Diamond City's power, robotics and agriculture.</Source>
-      <Dest>Vědecké centrum bylo nápomocno při údržbě energetiky, robotiky a zemědělství v Diamond CIty.</Dest>
+      <Dest>Vědecké centrum bylo nápomocno při udržování energetiky, robotiky a zemědělství v Diamond City.</Dest>
     </String>
     <String List="0">
       <EDID>CityDiamondCity11</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Valentine's Detective Agency is run by private investigator Nick Valentine, who has helped many of the residents of Diamond City over the years.</Source>
-      <Dest>Detektivní agenturu Valentine vede soukromý detektiv Nick Valentine, který v průběhu let pomohl spoustě obyvatel Diamond CIty.</Dest>
+      <Dest>Detektivní agenturu Valentine vede soukromý detektiv Nick Valentine, který v průběhu let pomohl mnohým obyvatelům Diamond City.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor09</EDID>
       <REC>LSCR:DESC</REC>
       <Source>In Goodneighbor, taking the law into your own hands isn't only allowed, it's expected. The settlement has one overriding rule - respect others, or face the consequences.</Source>
-      <Dest>Vzít právo do vlastních rukou je v Dobrém sousedství nejen dovoleno, ale přímo vyžadováno. V osadě platí pouze jediné pravidlo - respektuj ostatní nebo čel následkům.</Dest>
+      <Dest>Vzít právo do vlastních rukou, je v Dobrém sousedství nejen dovoleno, ale přímo vyžadováno. V osadě platí pouze jediné pravidlo - respektuj ostatní, nebo čel následkům.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor06</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Goodneighbor was built in and around the remains of Boston's old red light district, Scollay Square.</Source>
-      <Dest>Dobré sousedství bylo postaveno na pozůstatcích Bostonslé vykřičené čtvrti, Scollayova náměstí, a v jejím těsném okolí.</Dest>
+      <Dest>Dobré sousedství bylo postaveno na pozůstatcích bostonské vykřičené čtvrti, Scollayova náměstí a v jejich těsném okolí.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor08</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Goodneighbor's residents come from every walk of life, and the settlement welcomes anyone strong enough to remain free, from robots and Ghouls to criminals and chem addicts.</Source>
-      <Dest>Obyvatelé Dobrého sousedství pocházejí ze všech sociálních vrstev a kolonie uvítá každého kdo je dost silný na to, aby zůstal svobodný. Od robotů a gúlů po kriminálníky a závisláky.</Dest>
+      <Dest>Obyvatelé Dobrého sousedství pocházejí ze všech sociálních vrstev a kolonie uvítá každého, kdo je dost silný na to, aby zůstal svobodný. Od robotů a ghúlů po kriminálníky a drogově závislé.</Dest>
     </String>
     <String List="0">
       <EDID>CityDiamondCity06</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Diamond City Radio broadcasts the most popular music from before the war, as well as more recent news stories.</Source>
-      <Dest>Rádio v Diamond City vysílá nejpopulárnější hudbu z doby před válkou, a stejně tak i nejnovější zprávy.</Dest>
+      <Dest>Rádio v Diamond City vysílá jak nejnovější zprávy, tak i nejpopulárnější hudbu z doby před válkou.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Built in the remnants of an old subway station, the Third Rail offers live jazz, stiff drinks, and a good chance to meet bad people.</Source>
-      <Dest>Třetí kolej, vybudována na pozůstatcích staré stanice metra, nabízí živou jazzovou muziku, pořádné pití a jedinečnou příležitost potkat špatnou společnost.</Dest>
+      <Dest>Třetí kolej, vybudována na pozůstatcích staré stanice metra, nabízí živou jazzovou muziku, dobré pití a jedinečnou příležitost potkat špatné lidi.</Dest>
     </String>
     <String List="0">
       <EDID>ClothesMacCreadyHat</EDID>
@@ -2542,13 +2542,13 @@
       <EDID>CityGoodneighbor02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Now little more than a flophouse, Goodneighbor's Hotel Rexford was once the center of a thriving chem trade.</Source>
-      <Dest>Nyní pouze o trochu víc než jen ubytovna, býval Hotel Rexford kdysi živým centrem obchodu s drogami.</Dest>
+      <Dest>Kdysi živé centrum obchodu z drogami, nyní je Hotel Rexford o trochu víc než jen ubytovna.</Dest>
     </String>
     <String List="0">
       <EDID>CityDiamondCity03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Diamond City's non-denominational All Faiths Chapel offers services and counseling for all of Diamond City's residents, regardless of religion.</Source>
-      <Dest>Necírkevní Kaple všeho vyznání v Diamond City nabízí služby a poradenství pro všechny obyvatele Diamond City, bez ohledu na vyznání.</Dest>
+      <Dest>Kaple všeho vyznání nabízí služby a poradenství pro všechny obyvatele Diamond City bez ohledu na jejich víru.</Dest>
     </String>
     <String List="0">
       <EDID>ClothesScientistCabot</EDID>
@@ -2566,7 +2566,7 @@
       <EDID>CityDiamondCity09</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Colonial Taphouse is Diamond City's upscale tavern, where the settlement's more wealthy residents drink, socialize, and generally look down on everyone else.</Source>
-      <Dest>Koloniální pivnice je prvotřídní hospodou v Diamond City, kde majetnější obyvatelé popíjejí, baví se a obecně pohrdají všemi ostatními.</Dest>
+      <Dest>Koloniální pivnice je prvotřídní hospodou v Diamond City, kde majetnější obyvatelé popíjejí, baví se a pohrdají všemi ostatními.</Dest>
     </String>
     <String List="0">
       <EDID>CityGoodneighbor04</EDID>
@@ -2578,7 +2578,7 @@
       <EDID>Combat11</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use the bash button to deliver a melee attack with any ranged weapon.</Source>
-      <Dest>Použij tlačítko pro ránu zblízka, abys praštil nepřítele s jakýmkoliv typem zbraní.</Dest>
+      <Dest>Použij tlačítko pro ránu zblízka, abys praštil nepřítele jakoukoliv zbraní na dálku.</Dest>
     </String>
     <String List="0">
       <EDID>Chems08DaddyO</EDID>
@@ -2626,7 +2626,7 @@
       <EDID>Combat10</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Actively blocking against a melee attacker might cause them to recoil, and deal no damage.</Source>
-      <Dest>Aktivní blokování útoku zblízka může útočníka odrazit a nepůsobit tak žádné poškození.</Dest>
+      <Dest>Aktivní blokování útoku zblízka může útočníka odrazit a nezpůsobit tak žádné poškození.</Dest>
     </String>
     <String List="0">
       <EDID>Chems13AddictionCure</EDID>
@@ -2638,13 +2638,13 @@
       <EDID>Combat08</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Actively blocking against a melee attacker might cause them to recoil, and render their attack useless.</Source>
-      <Dest>Aktivní blokování útoku zblízka může útočníka odrazit a učinit tak jejich útok neúčelným.</Dest>
+      <Dest>Aktivní blokování útoku zblízka může útočníka odrazit a zmařit tak jejich útok.</Dest>
     </String>
     <String List="0">
       <EDID>Combat02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>You can run faster with your weapon holstered, and fastest when sprinting.</Source>
-      <Dest>Se schovanou zbraní můžeš běhat rychleji a nejrychleji při sprintu.</Dest>
+      <Dest>Se schovanou zbraní můžeš běhat rychleji, a ještě rychleji při sprintu.</Dest>
     </String>
     <String List="0">
       <EDID>Combat03</EDID>
@@ -2662,7 +2662,7 @@
       <EDID>Combat05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Crouching will both improve your accuracy, and activate sneak mode.</Source>
-      <Dest>Skrčení zvýší tvoji přesnost a také aktivuje plížení.</Dest>
+      <Dest>Skrčení zvýší tvoji přesnost a také aktivuje režim plížení.</Dest>
     </String>
     <String List="0">
       <EDID>Combat06</EDID>
@@ -2674,13 +2674,13 @@
       <EDID>Combat09</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Weapons and creatures can deliver four different types of damage: Ballistic, Energy, Radiation and Poison. Some enemies are naturally resistant against certain forms of damage, but specialized armor can also offer the same protection.  </Source>
-      <Dest>Zbraně a stvoření mohou způsobit čtyři různé druhy poškození: balistické, energetické, radiací a jedem. Někteří nepřátelé jsou přirozeně odolní vůči určitému druhu poškození. Tuto ochranu mohou nabídnout i specializovaná brnění.</Dest>
+      <Dest>Zbraně a stvoření mohou způsobit čtyři různé druhy poškození: balistické, energetické, poškození radiací a jedem. Někteří nepřátelé jsou přirozeně odolní vůči určitému druhu poškození. Tuto ochranu mohou nabídnout i specializovaná brnění.</Dest>
     </String>
     <String List="0">
       <EDID>Combat13</EDID>
       <REC>LSCR:DESC</REC>
       <Source>To throw a grenade or Molotov cocktail, first equip it, and then hold the Bash/Power Attack button.</Source>
-      <Dest>Pokud chceš hodit granát nebo molotovův koktejl, nejdřív se jimi vybav a pak podrž tlačítko pro silný útok / ránu zblízka.</Dest>
+      <Dest>Pokud chceš hodit granát nebo Molotovův koktejl, nejdřív se jimi vybav, a pak podrž tlačítko pro silný útok/ránu zblízka.</Dest>
     </String>
     <String List="0">
       <EDID>Combat15CriticalMeter</EDID>
@@ -2752,13 +2752,13 @@
       <EDID>Combat14</EDID>
       <REC>LSCR:DESC</REC>
       <Source>When you set off a hostile mine, it will begin beeping a rapid countdown before exploding. If you're quick enough, you can activate the mine within that time to disarm it.</Source>
-      <Dest>Pokud aktivuješ nepřátelskou minu, začne před explozí pípat rychlý odpočet. Jsi-li dostatečně rychlý, můžeš ji během této chvíle deaktivovat.</Dest>
+      <Dest>Pokud aktivuješ nepřátelskou minu, začne před explozí pípat krátký odpočet. Jsi-li dostatečně rychlý, můžeš ji během této chvíle deaktivovat.</Dest>
     </String>
     <String List="0">
       <EDID>Combat07</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Melee attacks on enemies can stagger them, interrupting their attacks.</Source>
-      <Dest>Útoky nablízko mohou nepřátele překvapit a přerušit tak jejich útok.</Dest>
+      <Dest>Útoky nablízko mohou donutit nepřátele zavrávorat, a tím tak přerušit jejich útok.</Dest>
     </String>
     <String List="0">
       <EDID>ClothesPrewarHouseDress01NonPlayableA</EDID>
@@ -2920,7 +2920,7 @@
       <EDID>CircuitBoardAssaultron</EDID>
       <REC>MISC:FULL</REC>
       <Source>Assaultron Circuit Board</Source>
-      <Dest>Plošný spoj Assaultronu</Dest>
+      <Dest>Plošný spoj Assaultrona</Dest>
     </String>
     <String List="0">
       <EDID>ClothesDeaconScientist</EDID>
@@ -3040,7 +3040,7 @@
       <EDID>CombatRifle</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>Jednoduchý epický</Dest>
+      <Dest>Jednoduchá epická</Dest>
     </String>
     <String List="0">
       <EDID>CartWheeledGarage01</EDID>
@@ -3440,7 +3440,7 @@ Chceš opravit rádiový vysílač?</Dest>
       <EDID>COMCaitQuest</EDID>
       <REC>QUST:CNAM</REC>
       <Source>I've arrived at Valut 95 with Cait. I'm hoping the facility contains whatever it is we need to cure her addiction to Psycho.</Source>
-      <Dest>Cait se mnou dorazila k Valutu 95. Doufám, že v tomto zařízení najdeme to, co je potřeba k vyléčení její závislosti na Psychu, ať už je to cokoliv.</Dest>
+      <Dest>Cait se mnou dorazila k Valutu 95. Doufám, že zde nalezneme vše, co je potřeba k vyléčení její závislosti na Psychu, ať už je to cokoliv.</Dest>
     </String>
     <String List="1">
       <EDID>Chemist04</EDID>
