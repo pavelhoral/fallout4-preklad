@@ -190,11 +190,11 @@ Sue is mean and not nice&#xD;
 That is why I shot her twice&#xD;
 &#xD;
 THE END</Source>
-      <Dest>O Sue&#xD;
+      <Dest>     O Sue&#xD;
 Napsal: Griswold&#xD;
 &#xD;
-Sue is mean and not nice&#xD;
-That is why I shot her twice&#xD;
+Sue se chová zle a protivně,&#xD;
+proto střelil jsem do ní kulky dvě.&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -268,13 +268,13 @@ KONEC</Dest>
       <EDID>GJMessage01</EDID>
       <REC>MESG:ITXT</REC>
       <Source>My son is missing.</Source>
-      <Dest>Ztratil se mi syn.</Dest>
+      <Dest>Ztratil se můj syn.</Dest>
     </String>
     <String List="0">
       <EDID>FloraFern02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraInstituteGourdVine01</EDID>
@@ -286,7 +286,7 @@ KONEC</Dest>
       <EDID>GoodneighborBobbisPlace</EDID>
       <REC>CELL:FULL</REC>
       <Source>Bobbi's Place</Source>
-      <Dest>Bobbiho byt</Dest>
+      <Dest>Bobbin byt</Dest>
     </String>
     <String List="0">
       <EDID>GroundMolerat</EDID>
@@ -298,7 +298,7 @@ KONEC</Dest>
       <EDID>GJTerminal02</EDID>
       <REC>TERM:ITXT</REC>
       <Source>I don't want to talk about it.</Source>
-      <Dest>Něchci o tom mluvit.</Dest>
+      <Dest>Nechci o tom mluvit.</Dest>
     </String>
     <String List="0">
       <EDID>GunNut02</EDID>
@@ -349,16 +349,16 @@ KONEC</Dest>
 &#xD;
                DO NOT READ!!!&#xD;
               (this means you)</Source>
-      <Dest>MAJETEK GRISWOLDA&#xD;
+      <Dest>            MAJETEK GRISWOLDA&#xD;
 &#xD;
-               NEČÍST!!!&#xD;
-              (ano vy)</Dest>
+               ZÁKAZ ČTENÍ!!!&#xD;
+              (tím myslím tebe)</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHotelWorkerF01</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Hotel Worker</Source>
-      <Dest>Hotel Worker</Dest>
+      <Dest>Pracovník hotelu</Dest>
     </String>
     <String List="0">
       <EDID>GreenHsPlanter01Carrot</EDID>
@@ -370,7 +370,7 @@ KONEC</Dest>
       <EDID>ForestHillsStationMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>West Roxbury Station</Source>
-      <Dest>Nádraží v západním Roxbury</Dest>
+      <Dest>Stanice Západní Roxbury</Dest>
     </String>
     <String List="0">
       <EDID>FollowersCompanionMenuWait</EDID>
@@ -406,7 +406,7 @@ KONEC</Dest>
       <EDID>ForestGroveMarshMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Forest Grove Marsh</Source>
-      <Dest>Lesní bažinný hájek</Dest>
+      <Dest>Močál Forest Grove</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHancocksTerminal</EDID>
@@ -490,7 +490,7 @@ KONEC</Dest>
       <EDID>GreenHsPlanter01Carrot</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FortifyCharisma</EDID>
@@ -514,7 +514,7 @@ KONEC</Dest>
       <EDID>GreenHsPlanterTato01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GJMessage02</EDID>
@@ -526,7 +526,7 @@ KONEC</Dest>
       <EDID>Globe01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Antique Globe</Source>
-      <Dest>Starožitný globus</Dest>
+      <Dest>Starožitný glóbus</Dest>
     </String>
     <String List="0">
       <EDID>FXFireSheild</EDID>
@@ -586,13 +586,13 @@ KONEC</Dest>
       <EDID>FloraFern01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraCornStalk02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FortifyEndurance</EDID>
@@ -604,7 +604,7 @@ KONEC</Dest>
       <EDID>GreenHsPlanterTato01</EDID>
       <REC>FLOR:FULL</REC>
       <Source>Tato planter</Source>
-      <Dest>Květináč na brajče</Dest>
+      <Dest>Květináč na brajčata</Dest>
     </String>
     <String List="0">
       <EDID>FrostResist</EDID>
@@ -664,7 +664,7 @@ Hotel Rexford (100) - Marowski už není to, co býval.&#xD;
 &#xD;
 Zabij nebo buď zabit (550) - Kleo je dobrá ve své taktice "sexy a děsivá". To mohu potvrdit.&#xD;
 &#xD;
-Daisy's Discounts (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto cokoli.</Dest>
+Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto cokoli.</Dest>
     </String>
     <String List="0">
       <EDID>GunnerBarnes</EDID>
@@ -676,7 +676,7 @@ Daisy's Discounts (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto
       <EDID>FloraCornStalk01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GreenHsDoorSm01</EDID>
@@ -702,7 +702,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FloraWildMutfruit</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>Fusebox01</EDID>
@@ -720,7 +720,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GreenHsPlanter01Mutfruit</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GraygardenLocation</EDID>
@@ -858,7 +858,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FloraMutfruit01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborGuard</EDID>
@@ -906,7 +906,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FloraInstituteGourdVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborTheMemoryDenLocation</EDID>
@@ -918,7 +918,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborOldStateHouse</EDID>
       <REC>CELL:FULL</REC>
       <Source>Old State House</Source>
-      <Dest>Stará státní budova</Dest>
+      <Dest>Staré sídlo vlády</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHancocksTerminal</EDID>
@@ -926,7 +926,7 @@ Alespoň, že to nyní funguje.</Dest>
       <Source>Diamond City: Rumors that Valentine has gone missing. Skinny Malone possibly involved. Assasinated? Doubtful, Valentine is more resourceful than that.&#xD;
 &#xD;
 </Source>
-      <Dest>Diamond City: Povídá se, že se Valentine ztratil. Nejspíše za to může Hubeňour Malone. Mrtvý? Pochybuji, vsadím se, že ho unesli kvůli informacím.</Dest>
+      <Dest>Diamond City: Povídá se, že se Valentine ztratil. Nejspíše za to může Hubeňour Malone. Mrtvý? Pochybuji... Valentine je na to moc dobrý.</Dest>
     </String>
     <String List="0">
       <EDID>FootLocker01</EDID>
@@ -1112,7 +1112,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborBobbisPlaceLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Bobbi's Place</Source>
-      <Dest>Bobbiho byt</Dest>
+      <Dest>Bobbin byt</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHotelRexfordLocation</EDID>
@@ -1172,7 +1172,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>ForestGroveMarshLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Forest Grove Marsh</Source>
-      <Dest>Lesní bažinný hájek</Dest>
+      <Dest>Močál Forest Grove</Dest>
     </String>
     <String List="0">
       <EDID>GreenetechGeneticsLocation</EDID>
@@ -1328,7 +1328,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FloraTatoPlant01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GJMessage02</EDID>
@@ -1388,7 +1388,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GreenHsPlanterGourd01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraTarberryFloat01</EDID>
@@ -1453,7 +1453,7 @@ KONEC</Dest>
       <EDID>FloraGourdVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GunnerFaction</EDID>
@@ -1471,7 +1471,7 @@ KONEC</Dest>
       <EDID>fragGrenadelProjectileChild</EDID>
       <REC>PROJ:FULL</REC>
       <Source>Shrapnel Projectile</Source>
-      <Dest>Šrapnelová střela</Dest>
+      <Dest>Šrapnelový pojektil</Dest>
     </String>
     <String List="0">
       <EDID>FloodedPlaygroundMapMarkerRef</EDID>
@@ -1519,7 +1519,7 @@ KONEC</Dest>
       <EDID>GreenHsPlanterMelon01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FusionPulseCharge</EDID>
@@ -1591,7 +1591,7 @@ KONEC</Dest>
       <EDID>FloraTatoPlant02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GJTerminal01</EDID>
@@ -1651,7 +1651,7 @@ KONEC</Dest>
       <EDID>FloraTarberryFloat01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborTheMemoryDen</EDID>
@@ -1675,7 +1675,7 @@ KONEC</Dest>
       <EDID>FloraTarberryFloat02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GJTerminal02</EDID>
@@ -1765,7 +1765,7 @@ KONEC</Dest>
       <EDID>FloraMelonVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FlatbedCart</EDID>
@@ -1789,7 +1789,7 @@ KONEC</Dest>
       <EDID>GreenHsPlanter01Corn</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GraygardenHomestead01</EDID>
@@ -1857,14 +1857,14 @@ I really like to watch men die.&#xD;
 I hope nobody kills me.&#xD;
 So I can kill them instead.&#xD;
       The end.</Source>
-      <Dest>O Smrti&#xD;
+      <Dest>      O Smrti&#xD;
 Napsal: Griswold&#xD;
 &#xD;
-Hle, smrt. Zabíjí a mrzačí.&#xD;
-Miluji běs na tváři mrtvých.&#xD;
+Hle, umřít. Zabít, zmrzačit.&#xD;
+Rád pozorují lidi umírat.&#xD;
 &#xD;
-Doufám, že mě nezabijí.&#xD;
-Ráději bych zabil já je.&#xD;
+Doufám, že mě nikdo nezabije,&#xD;
+abych mohl zabít já je.&#xD;
       Konec.</Dest>
     </String>
     <String List="0">
@@ -1902,12 +1902,12 @@ Lo to be the best shooter ever&#xD;
 Lo to be Griswold, Best raider ever&#xD;
 &#xD;
 THE END</Source>
-      <Dest>O Griswoldovi&#xD;
+      <Dest>      O Griswoldovi&#xD;
 Napsal: Griswold&#xD;
 &#xD;
-Jak silný a krásný&#xD;
-On vždy nejlepší střelec byl &#xD;
-Griswold, nejlepší najezdník to byl&#xD;
+Hle býti drsný a krásný,&#xD;
+hle býti nejlepší střelec vůbec,&#xD;
+hle býti Griswold, nejlepší najezdník.&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -1945,7 +1945,7 @@ KONEC</Dest>
       <EDID>FloraRazorgrain02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraTatoPlant02</EDID>
@@ -2065,7 +2065,7 @@ KONEC</Dest>
       <EDID>GoodneighborHancocksTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>Brotherhood of Steel just showed up in a big way. Need to get some eyes there. Can't afford not to know their plans.</Source>
-      <Dest>Bratrstvo oceli se zase předvedlo ve velkém stylu. Musím se tam jít podívat. Musím zjistit, co mají za lubem.</Dest>
+      <Dest>Bratrstvo oceli se zase předvedlo ve velkém stylu. Musím se tam jít podívat. Nemohu si dovolit nevědět, co mají za lubem.</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborWarehouse02Location</EDID>
@@ -2089,7 +2089,7 @@ KONEC</Dest>
       <EDID>FloraRazorgrain01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FollowersCompanionMenuFollow</EDID>
@@ -2131,7 +2131,7 @@ KONEC</Dest>
       <EDID>FloraCarrotPlant</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FortHagen02</EDID>
@@ -2314,13 +2314,13 @@ Opravit terminál v provozovně &#xD;
       <EDID>FloraInsCornStalk02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraInsCornStalk01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FortifyCarryWeight</EDID>
@@ -2482,7 +2482,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FloraWildTarberryFloat01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FourLeafClover02</EDID>
@@ -2524,7 +2524,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FloraWildTarberryFloat02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>Gunslinger05</EDID>
@@ -2854,7 +2854,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FloraFungusGlowing01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -2882,7 +2882,7 @@ Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina j
       <EDID>FloraWildGourdVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraSiltBean01</EDID>
@@ -2894,13 +2894,13 @@ Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina j
       <EDID>FloraWildTatoPlant01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraWildMelonVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GlowingFungus</EDID>
@@ -2928,7 +2928,7 @@ Asi bych si měl jít lehnout...</Dest>
       <EDID>FloraFungusGlowing06</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborKleoTerminal</EDID>
@@ -2944,7 +2944,7 @@ Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</D
       <EDID>FloraWildCarrotPlant</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -2980,13 +2980,13 @@ Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</D
       <EDID>FloraFungusBrain03</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraFungusGlowing02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3026,7 +3026,7 @@ Alespoň ten hulvát spí ve sklepě a ne v pokoji pro hosty. Bůh ví, v jakýc
       <EDID>FloraHubFlower02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborFredTerminal</EDID>
@@ -3053,7 +3053,7 @@ Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stim
       <EDID>FloraFungusBrain01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborFredTerminal</EDID>
@@ -3071,7 +3071,7 @@ Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stim
       <EDID>FloraBloodLeaf02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GammaGun</EDID>
@@ -3115,7 +3115,7 @@ Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
       <EDID>FloraHubFlower01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GaussRifle</EDID>
@@ -3127,7 +3127,7 @@ Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
       <EDID>FloraFungusBrain02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraWildTatoPlant01</EDID>
@@ -3281,7 +3281,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Contingency Plan: Hancock</Source>
-      <Dest>Plán: Hancock</Dest>
+      <Dest>Rezervní plán: Hancock</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborKleoTerminal</EDID>
@@ -3305,7 +3305,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>FloraSiltBean01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraFungusGlowing06</EDID>
@@ -3341,7 +3341,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>FloraBloodLeaf01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3353,13 +3353,13 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>FloraWildTatoPlant02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraFungusGlowing05</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3417,7 +3417,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>FloraFungusGlowing03</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3429,13 +3429,13 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>FloraSiltBean02</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FloraFungusGlowing04</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GoodneighborKleoTerminal</EDID>
@@ -3477,7 +3477,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>FloraWildCornStalk01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FortifyVATSAccuracyChemPerk</EDID>
@@ -3489,7 +3489,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>FloraWildRazorgrain01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>FourLeafClover04</EDID>
@@ -3692,7 +3692,7 @@ Faktury&#xD;
       <EDID>FloraGSWildMelonVine01</EDID>
       <REC>FLOR:ATTX</REC>
       <Source>Harvest</Source>
-      <Dest>Sklízet</Dest>
+      <Dest>Sklidit</Dest>
     </String>
     <String List="0">
       <EDID>GeneralGameplay08</EDID>
@@ -3794,7 +3794,7 @@ Faktury&#xD;
       <EDID>GeneralGameplay15FusionCoreCheckpoints</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Pre-war military checkpoints, scattered throughout the Commonwealth, are a great place to find Fusion Cores.</Source>
-      <Dest>Předválečná vojenská stanoviště, rozesetá po celém Commonwealthu, jsou skvělým místem pro hledání fúzních jader.</Dest>
+      <Dest>Předválečná vojenská kontrolní stanoviště, rozesetá po celém Commonwealthu, jsou skvělým místem pro hledání fúzních jader.</Dest>
     </String>
     <String List="0">
       <EDID>GiddyupButtercupBody</EDID>
