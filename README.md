@@ -1,47 +1,47 @@
-# Pøeklad Fallout 4
+ï»¿# PÅ™eklad Fallout 4
 
-Toto je základní projekt pro èeskı fanouškovskı pøeklad hry Fallout 4.
+Toto je zÃ¡kladnÃ­ projekt pro ÄeskÃ½ fanouÅ¡kovskÃ½ pÅ™eklad hry Fallout 4.
 
-## Rozdìlení sloek
+## RozdÄ›lenÃ­ sloÅ¾ek
 
- * `assets` - zdrojové datové sobory pøekladu
- * `flash` - zdrojové flash projekty v FlashDevelop
- * `script` - NodeJS skripty pro práci s projektem
- * `target` - soubory finální modifikace
- * `translated` - XML s pøeloenımi dávkami
- * `workload` - definice pøekladovıch dávek
+ * `assets` - zdrojovÃ© datovÃ© sobory pÅ™ekladu
+ * `flash` - zdrojovÃ© flash projekty v FlashDevelop
+ * `script` - NodeJS skripty pro prÃ¡ci s projektem
+ * `target` - soubory finÃ¡lnÃ­ modifikace
+ * `translated` - XML s pÅ™eloÅ¾enÃ½mi dÃ¡vkami
+ * `workload` - definice pÅ™ekladovÃ½ch dÃ¡vek
  
 ## Skripty v projektu
 
-Pro spuštìní skriptù je nutné mít nainstalován 
+Pro spuÅ¡tÄ›nÃ­ skriptÅ¯ je nutnÃ© mÃ­t nainstalovÃ¡n 
 
-Skripty v projektu jsou NodeJS skripty a Pro práci s projektem je nutné mít *NodeJS* a úspìšná instalace závislostí pomocí pøíkazu `npm install`.
+Skripty v projektu jsou NodeJS skripty a Pro prÃ¡ci s projektem je nutnÃ© mÃ­t *NodeJS* a ÃºspÄ›Å¡nÃ¡ instalace zÃ¡vislostÃ­ pomocÃ­ pÅ™Ã­kazu `npm install`.
 
-Spuštìní skriptu:
+SpuÅ¡tÄ›nÃ­ skriptu:
 
     node script/nazev_skriptu.js [parametry]
 
-Existující skripty:
+ExistujÃ­cÃ­ skripty:
 
- * `cleanup.js <XML>` - smae z pøekladového XML texty, které nepatøí do pøíslušné dávky
- * `compare.js <XML1> <XML2>` - porovná rozdíly a shody mezi dvìmi pøekladovımi soubory
- * `combine.js <XML1> <XML2>` - spojí dva a více pøekladovıch souborù do jednoho
- * `modfile.js` - pokroèilá manipulace s ESM soubory
+ * `cleanup.js <XML>` - smaÅ¾e z pÅ™ekladovÃ©ho XML texty, kterÃ© nepatÅ™Ã­ do pÅ™Ã­sluÅ¡nÃ© dÃ¡vky
+ * `compare.js <XML1> <XML2>` - porovnÃ¡ rozdÃ­ly a shody mezi dvÄ›mi pÅ™ekladovÃ½mi soubory
+ * `combine.js <XML1> <XML2>` - spojÃ­ dva a vÃ­ce pÅ™ekladovÃ½ch souborÅ¯ do jednoho
+ * `modfile.js` - pokroÄilÃ¡ manipulace s ESM soubory
 
-## Vıvoj Flashe
+## VÃ½voj Flashe
 
-Projekty ve sloce `flash` jsou psány v IDE "FlashDevelop":http://www.flashdevelop.org/. 
-Pro sestavení projektù je nutné mít nainstalován "Flex SDK":http://www.adobe.com/devnet/flex/flex-sdk-download.html.
+Projekty ve sloÅ¾ce `flash` jsou psÃ¡ny v IDE "FlashDevelop":http://www.flashdevelop.org/. 
+Pro sestavenÃ­ projektÅ¯ je nutnÃ© mÃ­t nainstalovÃ¡n "Flex SDK":http://www.adobe.com/devnet/flex/flex-sdk-download.html.
 
-## Instalace pøekladu
+## Instalace pÅ™ekladu
 
-Postup pro vytvoøení finálního pøekladu:
+Postup pro vytvoÅ™enÃ­ finÃ¡lnÃ­ho pÅ™ekladu:
 
  * `node script/combine.js -a -o full.xml`
- * naèíst vygenerované XML do pøekladaèe 
+ * naÄÃ­st vygenerovanÃ© XML do pÅ™ekladaÄe 
  * exportovat *Export STRINGS as...* do `target/Strings`
 
-Postup pro instalaci pøekladu do hry: 
+Postup pro instalaci pÅ™ekladu do hry: 
 
- * obsah sloky `target` nahrát do `{fallout.home}/Data`
- * `FalloutCustom.ini` ze sloky `target` nahrát do `~/My Documents/My Games/Fallout4/`
+ * obsah sloÅ¾ky `target` nahrÃ¡t do `{fallout.home}/Data`
+ * `FalloutCustom.ini` ze sloÅ¾ky `target` nahrÃ¡t do `~/My Documents/My Games/Fallout4/`
