@@ -10,15 +10,10 @@ var parseSource = require('./parse/parse-source'),
     util = require('util');
 
 program.
-    usage('[options] <modfile>').
-    parse(process.argv);
+    option('-m, --modfile <path>', 'Specify modfile to use.');
 
-if (!program.args.length) {
-    program.help();
-}
-
-function readStrings(modfile) {
-    return new parseStrings.StringsReader().readByModfile(program.args[0], 'en');
+function readStrings() {
+    return new parseStrings.StringsReader().readByModfile(program.modfile, 'en');
 }
 
 function renderInnr(innr) {
@@ -36,16 +31,46 @@ function renderInnr(innr) {
     return rows.join('\n');
 }
 
-function extractInnrs(modfile) {
-    var modfileSource = new parseSource.FileSource(modfile),
-        modfileParser = new parseModfile.ModfileParser(modfileSource),
-        innrExtractor = new modfileInnr.InnrExtractor(readStrings(modfile));
-    modfileParser.parse(innrExtractor);
-    modfileSource.close();
-    Object.keys(innrExtractor.innrs).forEach(key =>  {
-        console.log(key);
-        console.log(renderInnr(innrExtractor.innrs[key]));
+/**
+ * INNR extraction command.
+ */
+program.
+    command('innrs').
+    description('Extract INNR records as tab separated values.').
+    action(() => {
+        var modfileSource = new parseSource.FileSource(program.modfile),
+            modfileParser = new parseModfile.ModfileParser(modfileSource),
+            innrExtractor = new modfileInnr.InnrExtractor(readStrings());
+        modfileParser.parse(innrExtractor);
+        modfileSource.close();
+        Object.keys(innrExtractor.innrs).forEach(key =>  {
+            console.log('[INNR]', key);
+            console.log(renderInnr(innrExtractor.innrs[key]));
+        });
     });
-}
 
-extractInnrs(program.args[0]);
+
+
+/**
+ * DIAL extraction command.
+ */
+program.
+    command('dials').
+    description('Extract DIAL identifiers with their respective INFOs.').
+    action(() => {
+        console.log('RUNNING DIAL');
+    });
+
+/**
+ * Fallback command.
+ */
+program.
+    command('*').
+    action(() => {
+        console.error('[ERROR] Unknown command \'' + program.args[0] + '\'.');
+    });
+
+program.parse(process.argv);
+if (!program.args.length) {
+    program.help();
+}
