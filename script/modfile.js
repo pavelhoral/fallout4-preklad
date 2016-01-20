@@ -6,20 +6,39 @@ var parseSource = require('./parse/parse-source'),
     parseModfile = require('./parse/parse-modfile'),
     parseStrings = require('./parse/parse-strings'),
     modfileInnr = require('./modfile/innr'),
+    modfileDial = require('./modfile/dial'),
     program = require('commander'),
-    util = require('util');
+    util = require('util'),
+    fs = require('fs');
 
 program.
-    option('-m, --modfile <path>', 'Specify modfile to use.');
+    option('-m, --modfile <path>', 'Specify modfile to use.').
+    option('-o, --output <path>', 'Write output to the specified file.');
 
 function readStrings() {
     return new parseStrings.StringsReader().readByModfile(program.modfile, 'en');
 }
 
-function renderInnr(innr) {
-    var rowCount = Math.max.apply(null, innr.map(part => part.choices.length)),
+function readModfile(handler) {
+    var modfileSource = new parseSource.FileSource(program.modfile),
+        modfileParser = new parseModfile.ModfileParser(modfileSource);
+    modfileParser.parse(handler);
+    modfileSource.close();
+    return handler;
+}
+
+function writeOutput(data) {
+    if (program.output) {
+        fs.writeFileSync(program.output, data);
+    } else {
+        console.log(data);
+    }
+}
+
+function renderInnrs(innrs) {
+    var rowCount = Math.max.apply(null, innrs.map(part => part.choices.length)),
         rows = [];
-    innr.forEach((part) => {
+    innrs.forEach((part) => {
         for (let i = 0; i < part.choices.length; i++) {
             rows[i] = (rows[i] || '') + (part.choices[i].name || '') + '\t"' +
                     part.choices[i].conditions.join('\n') + '"\t';
@@ -38,18 +57,22 @@ program.
     command('innrs').
     description('Extract INNR records as tab separated values.').
     action(() => {
-        var modfileSource = new parseSource.FileSource(program.modfile),
-            modfileParser = new parseModfile.ModfileParser(modfileSource),
-            innrExtractor = new modfileInnr.InnrExtractor(readStrings());
-        modfileParser.parse(innrExtractor);
-        modfileSource.close();
+        var innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings())),
+            resultData = [];
         Object.keys(innrExtractor.innrs).forEach(key =>  {
-            console.log('[INNR]', key);
-            console.log(renderInnr(innrExtractor.innrs[key]));
+            resultData.push('[INNR] ' + key);
+            resultData.push(renderInnrs(innrExtractor.innrs[key]));
         });
+        writeOutput(resultData.join('\n'));
     });
 
-
+function renderDials(dials) {
+    var resultData = [];
+    Object.keys(dials).filter(id => dials[id].length).sort().forEach((id) => {
+        resultData.push('[DIAL] ' + id + ' [INFO] ' + dials[id].join(' '));
+    });
+    return resultData.join('\n');
+}
 
 /**
  * DIAL extraction command.
@@ -58,7 +81,8 @@ program.
     command('dials').
     description('Extract DIAL identifiers with their respective INFOs.').
     action(() => {
-        console.log('RUNNING DIAL');
+         var dialExtractor = readModfile(new modfileDial.DialExtractor());
+         writeOutput(renderDials(dialExtractor.dials));
     });
 
 /**
