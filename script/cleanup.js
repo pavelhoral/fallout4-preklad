@@ -12,6 +12,7 @@ program.
     usage('[options] <file ...>').
     option('-v, --verbose', 'Print out identifiers of removed strings.').
     option('-w, --write', 'Replace original file with the cleaned version.').
+    option('-b, --batch [batch]', 'Name of the batch to use for cleanup.').
     parse(process.argv);
 
 if (!program.args.length) {
@@ -86,11 +87,11 @@ function cleanupBatch(batch) {
     return cleanupStats;
 }
 
-program.args.forEach((filePath) => {
+program.args.forEach((filename) => {
     try {
-        var batch = resolveBatch(filePath),
+        var batch = resolveBatch(filename, program.batch),
             stats = cleanupBatch(batch);
-        console.log('[CLEANUP]', batch.xmlName, JSON.stringify(stats));
+        console.log('[CLEANUP]', batch.name, JSON.stringify(stats));
     } catch (error) {
         console.error('[ERROR]', error.message);
     }

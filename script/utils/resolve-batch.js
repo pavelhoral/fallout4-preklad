@@ -1,6 +1,11 @@
 var fs = require('fs'),
     path = require('path');
 
+var BATCH_FILE_TYPES = {
+    'translated': '.xml',
+    'workload': '.txt'
+}
+
 /**
  * Validate that the given path is path for a readable file.
  */
@@ -13,35 +18,35 @@ function validateFilePath(filePath) {
 }
 
 /**
- * Resolve the given file path to a valid SST XML file path.
+ * Resolve filename to a batch based file path.
  */
-function resolveXmlPath(filePath) {
-    var xmlPath = filePath;
-    if (!validateFilePath(xmlPath)) {
-        xmlPath = path.resolve(__dirname, '../../translated', xmlPath);
+function resolveBatchPath(filename, type) {
+    var batchPath = filename;
+    if (!validateFilePath(batchPath)) {
+        batchPath = path.resolve(__dirname, '../..', type, batchPath);
     }
-    if (!validateFilePath(xmlPath)) {
-        xmlPath = xmlPath + '.xml';
+    if (!validateFilePath(batchPath)) {
+        batchPath = batchPath + BATCH_FILE_TYPES[type];
     }
-    if (!validateFilePath(xmlPath)) {
-        throw new Error('Invalid filename \'' + filePath + '\'.');
+    if (!validateFilePath(batchPath)) {
+        throw new Error('Invalid filename \'' + batchPath + '\'.');
     }
-    return xmlPath;
+    return batchPath;
 }
 
 /**
- * Resolve the SST XML name or file path to a valid translation batch.
+ * Resolve filename to a translation batch based.
  */
-function resolveBatch(filePath) {
-    var xmlPath = resolveXmlPath(filePath),
-        xmlName = path.basename(xmlPath),
-        txtPath = path.resolve(__dirname, '../../workload', xmlName.replace(/\.xml$/i, '.txt'));
+function resolveBatch(filename, name) {
+    var xmlPath = resolveBatchPath(filename, 'translated'),
+        batchName = name || path.basename(xmlPath).replace(/\.xml$/i, ''),
+        txtPath = resolveBatchPath(batchName, 'workload');
     if (!validateFilePath(txtPath)) {
-        throw new Error('Unable to load batch definition for \'' + filePath + '\'.');
+        throw new Error('Unable to load batch definition for \'' + (name || filename) + '\'.');
     }
     return {
+        name: batchName,
         xmlPath: xmlPath,
-        xmlName: xmlName,
         txtPath: txtPath
     };
 }
