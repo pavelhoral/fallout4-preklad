@@ -1,0 +1,5 @@
+syntax: regexp
+^\.project$
+^node_modules$
+^flash/[a-zA-Z_-]+/obj$
+^flash/[a-zA-Z_-]+/bin$
