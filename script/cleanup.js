@@ -4,15 +4,15 @@
 var fs = require('fs'),
     path = require('path'),
     xml2js = require('xml2js'),
-    compare = require('compare.js'),
     program = require('commander'),
     resolveBatch = require('./utils/resolve-batch');
 
 program.
     usage('[options] <file ...>').
-    option('-v, --verbose', 'Print out identifiers of removed strings.').
     option('-w, --write', 'Replace original file with the cleaned version.').
     option('-b, --batch [batch]', 'Name of the batch to use for cleanup.').
+    option('-m, --missing', 'Print out identifiers of missing strings.').
+    option('-r, --removed', 'Print out identifiers of removed strings.').
     parse(process.argv);
 
 if (!program.args.length) {
@@ -20,29 +20,32 @@ if (!program.args.length) {
 }
 
 /**
- * Get identifier for the SST XML string entry.
+ * Read EDIDs belonging to the given batch.
  */
-function getStringId(string) {
-    if (string.REC[0].indexOf('INFO:') === 0) {
-        string.Source[0].substring(1, 7);
-    } else {
-        return string.EDID[0];
+function readBatchEdids(batch) {
+    var rows = fs.readFileSync(batch.txtPath, { encoding: 'utf-8' }).trim().split('\n'),
+        dialog = path.basename(batch.txtPath).indexOf('noinfo-') === -1;
+    if (dialog) {
+        rows = rows.reduce((edids, row) => {
+            row.substring(row.indexOf('[INFO]') + 7).split(' ').forEach((edid) => edids.push(edid));
+        }, []);
     }
+    return rows;
 }
 
 /**
  * Cleanup translation file for the given batch.
  */
 function cleanupBatch(batch) {
-    var batchIds = fs.readFileSync(batch.txtPath, { encoding: 'utf-8' }).trim().split('\n'),
-        dialog = path.basename(batch.txtPath).indexOf('noinfo-') === -1,
-        firstId = dialog ? batchIds[0].substring(8, 14) : batchIds[0],
-        lastId = dialog ? batchIds[batchIds.length - 1].substring(8, 14) : batchIds[batchIds.length - 1],
-        stringCompare = compare.caseInsensitive(),
-        xmlParser = new xml2js.Parser(),
+    // Read batch EDIDs
+    var edids = readBatchEdids(batch).reduce((edids, edid) => {
+        edids[edid] = false;
+        return edids;
+    }, {});
+    // Parse XML strings
+    var xmlParser = new xml2js.Parser(),
         xmlBuilder = new xml2js.Builder(),
         xmlObject = null;
-    // Parse XML input
     xmlParser.parseString(fs.readFileSync(batch.xmlPath, { encoding: 'utf-8' }), (error, result) => {
         xmlObject = result;
     });
@@ -60,24 +63,27 @@ function cleanupBatch(batch) {
             chars: 0
         };
     stringArray = stringArray.filter((string) => {
-        var stringId = getStringId(string),
-            retain = stringId && stringCompare(firstId, stringId) <= 0 && stringCompare(stringId, lastId) <= 0;
-        if (string.Dest[0] === ' ') {
-            return false; // Do not include empty translations
-        } else if (retain) {
-            recordStats.retained[string.EDID[0]] = true;
+        var edid = string.EDID[0],
+            retain = edids[edid] !== undefined;
+        if (retain) {
+            edids[edid] = true;
+            recordStats.retained[edid] = true;
             cleanupStats.retained++;
             cleanupStats.chars += string.Dest[0].length;
         } else {
-            recordStats.removed[string.EDID[0]] = true;
+            recordStats.removed[edid] = true;
             cleanupStats.removed++;
         }
         return retain;
     });
     cleanupStats.records = Object.keys(recordStats.retained).length;
-    // Log removed IDs so that they can be manually checked
-    if (Object.keys(recordStats.removed).length && program.verbose) {
-        console.log('Removed IDs:', Object.keys(recordStats.removed).join(', '));
+    // Log removed IDs
+    if (program.removed) {
+        console.log('[INFO] Removed IDs:', Object.keys(recordStats.removed).join(', '));
+    }
+    // Log missing IDs
+    if (program.missing) {
+        console.log('[INFO] Missing IDs:', Object.keys(edids).filter(edid => edids[edid]).join(', '));
     }
     // Replace the original
     if (program.write) {
