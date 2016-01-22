@@ -157,6 +157,12 @@
       <Dest>Deathclaw Abilities</Dest>
     </String>
     <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol</Source>
+      <Dest>Pistole</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkMadScientist</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Mad Scientist</Source>
@@ -175,6 +181,18 @@
       <Dest>Pošuk do zbraní</Dest>
     </String>
     <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol Auto</Source>
+      <Dest>Pistole automat</Dest>
+    </String>
+    <String List="0">
+      <EDID>02Metal03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkStrongBack</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Strong Back</Source>
@@ -191,6 +209,12 @@
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Action Points recovery rate</Source>
       <Dest>+&lt;mag&gt; Action Points recovery rate</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
     </String>
     <String List="0">
       <EDID>[000A7CBF]</EDID>
@@ -319,6 +343,12 @@
       <Dest>Budova Brookline</Dest>
     </String>
     <String List="0">
+      <EDID>02Metal03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkCyborg</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Cyborg</Source>
@@ -349,10 +379,22 @@
       <Dest>Fortify Fire Resist</Dest>
     </String>
     <String List="0">
+      <EDID>2DJamDefaultActivateSelfTrigger</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0">
       <EDID>AbRaceMirkelurkHunter</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Mirelurk abilities</Source>
       <Dest>Mirelurk abilities</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>.44</Source>
+      <Dest>.44</Dest>
     </String>
     <String List="0">
       <EDID>AbFortifyCraftExplosive</EDID>
@@ -451,10 +493,22 @@
       <Dest>Závislost na Mentatech</Dest>
     </String>
     <String List="0">
+      <EDID>02Metal03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkBombBuilder</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Bomb Builder</Source>
       <Dest>Stavitel bomb</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchá</Dest>
     </String>
     <String List="0">
       <EDID>AAA_StandardGun</EDID>
@@ -553,10 +607,28 @@
       <Dest>Fortify Cryo Resist</Dest>
     </String>
     <String List="0">
+      <EDID>02Metal03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkQuickHands</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Quick Hands</Source>
       <Dest>Rychlé ruce</Dest>
+    </String>
+    <String List="0">
+      <EDID>2DJamDefaultActivateSelfPOWERARMOR</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Power Armor</Source>
+      <Dest>Energozbroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>2DJAMElevatorTrigger</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Elevator</Source>
+      <Dest>Výtah</Dest>
     </String>
     <String List="0">
       <EDID>AbPerkArmorer</EDID>
@@ -631,6 +703,12 @@
       <Dest>Závislost na Psychu</Dest>
     </String>
     <String List="0">
+      <EDID>02Metal03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0">
       <EDID>abAssaultronHeadFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Assaultron Head VFX</Source>
@@ -661,10 +739,28 @@
       <Dest>+&lt;mag&gt; Health</Dest>
     </String>
     <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol Semi-Auto</Source>
+      <Dest>Pistole poloautomat</Dest>
+    </String>
+    <String List="0">
       <EDID>[0005483F]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Mahkra Fishpacking</Source>
       <Dest>Zpracování ryb Mahkra</Dest>
+    </String>
+    <String List="0">
+      <EDID>2DJamDefaultActivateSelfPOWERARMOR</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Enter</Source>
+      <Dest>Nastoupit</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>10mm</Source>
+      <Dest>10mm</Dest>
     </String>
     <String List="0">
       <EDID>AbFortifyCharisma</EDID>
@@ -791,6 +887,12 @@
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Health</Source>
       <Dest>+&lt;mag&gt; Health</Dest>
+    </String>
+    <String List="0">
+      <EDID>2DJAMElevatorTrigger</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Use Elevator</Source>
+      <Dest>Použít výtah</Dest>
     </String>
     <String List="0">
       <EDID>AAA_StandardGun</EDID>
@@ -943,6 +1045,12 @@
       <Dest>Abigail Finchová</Dest>
     </String>
     <String List="0">
+      <EDID>02Metal03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0">
       <EDID>[0004D53E]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Parsons Creamery</Source>
@@ -977,6 +1085,12 @@
       <REC>REFR:FULL</REC>
       <Source>Mass Fusion Disposal Site</Source>
       <Dest>Skládka Fúzních závodů</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Random</Source>
+      <Dest>Náhodná</Dest>
     </String>
     <String List="0">
       <EDID>[00191F00]</EDID>
@@ -1163,6 +1277,12 @@
       <REC>REFR:FULL</REC>
       <Source>Postal Square</Source>
       <Dest>Poštovní náměstí</Dest>
+    </String>
+    <String List="0">
+      <EDID>35CourtMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>35 Court</Source>
+      <Dest>Dvůr 35</Dest>
     </String>
     <String List="0">
       <EDID>[0006F322]</EDID>
@@ -2737,16 +2857,52 @@
       <Dest>Závislost na Borůvkových Mentatech</Dest>
     </String>
     <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Pistol</Source>
+      <Dest>Jednoduchá pistole</Dest>
+    </String>
+    <String List="0">
       <EDID>[001AC2E1]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Relay Tower 0DB-521</Source>
       <Dest>Vysílací věž 0DB-521</Dest>
     </String>
     <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Random Pistol</Source>
+      <Dest>Náhodná pistole</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Very Short</Source>
+      <Dest>Velmi krátká</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Scoped Pistol</Source>
+      <Dest>Pistole s optikou</Dest>
+    </String>
+    <String List="0">
       <EDID>[001B4AAF]</EDID>
       <REC>KYWD:FULL</REC>
       <Source>Furniture</Source>
       <Dest>Nábytek</Dest>
+    </String>
+    <String List="0">
+      <EDID>35CourtLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>35 Court</Source>
+      <Dest>Dvůr 35</Dest>
     </String>
     <String List="0">
       <EDID>AAA_mod_TEMPLATE_RailwayRifle_Receiver_Automatic1</EDID>
@@ -3049,10 +3205,58 @@
       <Dest>Mr Handy Abilities</Dest>
     </String>
     <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Scoped Pistol Epic</Source>
+      <Dest>Pistole s optikou epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol Auto Epic</Source>
+      <Dest>Pistole automat epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol Semi-Auto Epic</Source>
+      <Dest>Pistole poloautomat epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pistol Epic</Source>
+      <Dest>Pistole epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Random Epic</Source>
+      <Dest>Náhodná epická</Dest>
+    </String>
+    <String List="0">
       <EDID>AbFortifyFusionCore</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Fusion Core</Source>
       <Dest>Fortify Fusion Core</Dest>
+    </String>
+    <String List="0">
+      <EDID>10mm</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Random Pistol Epic</Source>
+      <Dest>Náhodná pistole epická</Dest>
     </String>
     <String List="0">
       <EDID>AbFortifyFusionCore</EDID>
@@ -3061,10 +3265,22 @@
       <Dest>+&lt;mag&gt; Intelligence</Dest>
     </String>
     <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Very Short Epic</Source>
+      <Dest>Velmí krátká epická</Dest>
+    </String>
+    <String List="0">
       <EDID>AbPerkNuclearPhysicist</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Nuclear Physicist</Source>
       <Dest>Jaderný fyzik</Dest>
+    </String>
+    <String List="0">
+      <EDID>44</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Pistol Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
     </String>
     <String List="0">
       <EDID>AbCourserSpeedEffect</EDID>
@@ -3203,6 +3419,12 @@
       <REC>OMOD:DESC</REC>
       <Source>Shoots two bullets at once.</Source>
       <Dest>Stříli dvě kulky najednou.</Dest>
+    </String>
+    <String List="1">
+      <EDID>AAA_mod_TEMPLATE_BarrelShotgun_LightLong</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Superior range. Better recoil. Narrow spread.</Source>
+      <Dest>Mimořádný dostřel. Menší zpětný ráz a rozptyl.</Dest>
     </String>
     <String List="1">
       <EDID>AAA_mod_TEMPLATE_LaserReceiver_MoreDamage1_BetterCriticals2</EDID>
@@ -3563,6 +3785,12 @@
       <REC>OMOD:DESC</REC>
       <Source>Adds burning damage. Improved range.</Source>
       <Dest>Přidává poškození popálením. Lepší dostřel.</Dest>
+    </String>
+    <String List="1">
+      <EDID>AAA_mod_TEMPLATE_BarrelShotgun_Long</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Superior range. Better recoil. Narrow spread.</Source>
+      <Dest>Mimořádný dostřel. Menší zpětný ráz a rozptyl.</Dest>
     </String>
     <String List="1">
       <EDID>AAA_mod_TEMPLATE_Receiver_MoreDamage1</EDID>
