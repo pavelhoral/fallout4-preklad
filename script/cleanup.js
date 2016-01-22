@@ -83,7 +83,7 @@ function cleanupBatch(batch) {
     }
     // Log missing IDs
     if (program.missing) {
-        console.log('[INFO] Missing IDs:', Object.keys(edids).filter(edid => edids[edid]).join(', '));
+        console.log('[INFO] Missing IDs:', Object.keys(edids).filter(edid => !edids[edid]).join(', '));
     }
     // Replace the original
     if (program.write) {
