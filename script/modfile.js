@@ -5,8 +5,6 @@
 var parseSource = require('./parse/parse-source'),
     parseModfile = require('./parse/parse-modfile'),
     parseStrings = require('./parse/parse-strings'),
-    modfileInnr = require('./modfile/innr'),
-    modfileDial = require('./modfile/dial'),
     program = require('commander'),
     util = require('util'),
     fs = require('fs');
@@ -57,7 +55,8 @@ program.
     command('innrs').
     description('Extract INNR records as tab separated values.').
     action(() => {
-        var innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings())),
+        var modfileInnr = require('./modfile/innr'),
+            innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings())),
             resultData = [];
         Object.keys(innrExtractor.innrs).forEach(key =>  {
             resultData.push('[INNR] ' + key);
@@ -81,8 +80,25 @@ program.
     command('dials').
     description('Extract DIAL identifiers with their respective INFOs.').
     action(() => {
-         var dialExtractor = readModfile(new modfileDial.DialExtractor());
-         writeOutput(renderDials(dialExtractor.dials));
+        var modfileDial = require('./modfile/dial'),
+            dialExtractor = readModfile(new modfileDial.DialExtractor());
+        writeOutput(renderDials(dialExtractor.dials));
+    });
+
+/**
+ * OMOD search command.
+ */
+program.
+    command('omods <keyword>').
+    description('Search items and their modifications based on keyword the given.').
+    action(() => {
+        var modfileOmod = require('./modfile/omod'),
+            omodExtractor = readModfile(new modfileOmod.OmodExtractor(program.args[0])),
+            resultData = [];
+        omodExtractor.result.forEach((match) => {
+            resultData.push('[' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' + match.editorId);
+        });
+        writeOutput(resultData.join('\n'));
     });
 
 /**

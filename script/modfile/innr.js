@@ -28,7 +28,7 @@ class InnrExtractor {
         }
         this.context = {
             type: type,
-            formId: formId,
+            formId: formId
         };
         if (type === MODFILE_TYPES.KYWD) {
             parse(this);
