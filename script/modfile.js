@@ -1,6 +1,6 @@
 "use strict";
 /**
- * Clean-up translation files by removing any string which does not belong into its EDID range.
+ * Walk through ESN and extract various data.
  */
 var parseSource = require('./parse/parse-source'),
     parseModfile = require('./parse/parse-modfile'),
@@ -11,10 +11,11 @@ var parseSource = require('./parse/parse-source'),
 
 program.
     option('-m, --modfile <path>', 'Specify modfile to use.').
+    option('-l, --language <lang>', 'Language specifier.').
     option('-o, --output <path>', 'Write output to the specified file.');
 
 function readStrings() {
-    return new parseStrings.StringsReader().readByModfile(program.modfile, 'en');
+    return new parseStrings.StringsReader().readByModfile(program.modfile, program.language || 'en');
 }
 
 function readModfile(handler) {
