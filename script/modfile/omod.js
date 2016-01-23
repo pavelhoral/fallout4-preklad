@@ -5,18 +5,6 @@ var MODFILE_TYPES = new parseModfile.ModfileType([
     'KYWD', 'KWDA', 'DATA', 'EDID', 'OMOD', 'WEAP', 'ARMO'
 ]);
 
-function createPattern(formId) {
-    var buffer = new Buffer(16);
-    buffer.writeUInt32LE(4, 0);
-    buffer.writeUInt32LE(2, 4);
-    buffer.writeUInt32LE(31, 8);
-    buffer.writeUInt32LE(formId, 12);
-    return {
-        kwda: formId,
-        data: buffer
-    };
-}
-
 /**
  * ModfileHandler implementation for finding ARMO, WEAP and OMOD records by KYWD.
  */
@@ -24,7 +12,7 @@ class OmodExtractor {
 
     constructor(keyword) {
         this.keyword = keyword;
-        this.pattern = {};
+        this.pattern = null;
         this.result = [];
         this.context = null;
     }
@@ -54,11 +42,11 @@ class OmodExtractor {
         if (type === MODFILE_TYPES.EDID) {
             this.context.editorId = buffer.toString('ascii', offset, offset + size - 1);
             if (this.context.type == MODFILE_TYPES.KYWD && this.keyword === this.context.editorId) {
-                this.pattern = createPattern(this.context.formId);
+                this.pattern = this.context.formId;
             }
         } else if (type === MODFILE_TYPES.KWDA) {
             for (; size > 0; size -= 4, offset += 4) {
-                if (buffer.readUInt32LE(offset) === this.pattern.kwda) {
+                if (buffer.readUInt32LE(offset) === this.pattern) {
                     this.context.match = true;
                 }
             }
@@ -71,15 +59,25 @@ class OmodExtractor {
         var includeCount = buffer.readUInt32LE(offset),
             propertyCount = buffer.readUInt32LE(offset + 4),
             keywordCount = buffer.readUInt32LE(offset + 20),
-            propertyOffset = offset + 28 + keywordCount * 4;
-        if (includeCount !== 0) {
+            propertyOffset = offset + 28 + keywordCount * 4,
+            propertyType = null;
+        if (includeCount !== 0 || !this.pattern) {
             return false;
         }
         for (; propertyCount > 0; propertyCount--, propertyOffset += 24) {
-            if (buffer.slice(propertyOffset, propertyOffset + 16).equals(this.pattern.data)) {
+            if (buffer.readUInt32LE(propertyOffset) !== 4) {
+                continue; // FormID value type
+            } else if (buffer.readUInt32LE(propertyOffset + 4) !== 2) {
+                continue; // ADD combinator
+            }
+            propertyType = buffer.readUInt32LE(propertyOffset + 8);
+            if (propertyType !== 3 && propertyType !== 31) {
+                continue; // Armor and Weapon keywords
+            } else if (buffer.readUInt32LE(propertyOffset + 12) === this.pattern) {
                 return true;
             }
         }
+        return false;
     }
 
 }

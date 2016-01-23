@@ -10,7 +10,8 @@ var fs = require('fs'),
 program.
     usage('[options] <file ...>').
     option('-a, --all', 'Combine all translated files.').
-    option('-o, --output [file]', 'Write combined result into a file.').
+    option('-i, --ignore <pattern>', 'Ignore pattern when using --all option.').
+    option('-o, --output <file>', 'Write combined result into a file.').
     parse(process.argv);
 
 if (program.all && program.args.length || !program.all && program.args.length < 2) {
@@ -19,9 +20,13 @@ if (program.all && program.args.length || !program.all && program.args.length < 
 
 var files = program.args;
 if (program.all) {
-    files = fs.readdirSync(path.resolve(__dirname, '../translated')).map(filename => {
-        return path.resolve(__dirname, '../translated', filename);
-    });
+    files = fs.readdirSync(path.resolve(__dirname, '../translated')).
+            filter((filename) => {
+                return !program.ignore || !filename.startsWith(program.ignore);
+            }).
+            map(filename => {
+                return path.resolve(__dirname, '../translated', filename);
+            });
 }
 
 function loadXml(xmlPath) {
