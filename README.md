@@ -15,18 +15,17 @@ Toto je základní projekt pro český fanouškovský překlad hry Fallout 4.
 
 Pro spuštění skriptů je nutné mít nainstalován
 
-Skripty v projektu jsou NodeJS skripty a Pro práci s projektem je nutné mít *NodeJS* a úspěšná instalace závislostí pomocí příkazu `npm install`.
-
-Spuštění skriptu:
+Skripty v projektu jsou NodeJS skripty. Pro spuštění skriptu je nutná instalace závislostí pomocí příkazu `npm install`.
 
     node script/nazev_skriptu.js [parametry]
 
-Existující skripty:
+Existující skripty (pro informace o parametrech stačí spustit s `--help`):
 
- * `cleanup.js <XML>` - smaže z překladového XML texty, které nepatří do příslušné dávky
- * `compare.js <XML1> <XML2>` - porovná rozdíly a shody mezi dvěmi překladovými soubory
- * `combine.js <XML1> <XML2>` - spojí dva a více překladových souborů do jednoho
+ * `cleanup.js` - smaže z překladového XML texty, které nepatří do příslušné dávky
+ * `compare.js` - porovná rozdíly a shody mezi dvěmi překladovými soubory
+ * `combine.js` - spojí dva a více překladových souborů do jednoho
  * `modfile.js` - pokročilá manipulace s ESM soubory
+ * `strings.js` - vyhledávání v překladových STRINGS souborech
 
 ## Vývoj Flashe
 
