@@ -1,0 +1,3785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>sBloodSplatterAlpha01OPTFilename</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Textures\Blood\ScreenBloodAlpha01OPT.dds</Source>
+      <Dest>Textures\Blood\ScreenBloodAlpha01OPT.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New Player</Source>
+      <Dest>Nový hráč</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantRemoveWornItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Unable to remove the worn item.</Source>
+      <Dest>Vybavený předmět nelze odstranit.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConfirmDisenchant</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to destroy this item and learn its effects?</Source>
+      <Dest>Opravdu chceš zničit tento předmět a naučit se jeho účinky?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFirstOrdSuffix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>st</Source>
+      <Dest>.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContractedDisease</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have contracted</Source>
+      <Dest>Postihla tě nemoc</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDeviceRemoved</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The storage device you selected is no longer available.  You will need to select a new device the next time you save.  Until then, Autosave is disabled.</Source>
+      <Dest>Vybrané úložné zařízení již není k dispozici. Při dalším uložení budeš muset vybrat nové zařízení. Do té doby bude automatické ukládání vypnuto.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContainerStealChance</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TO STEAL</Source>
+      <Dest>UKRÁST</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBloodSplatterFlare01Filename</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Textures\Blood\FXBloodFlare.dds</Source>
+      <Dest>Textures\Blood\FXBloodFlare.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Attack</Source>
+      <Dest>Útok</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayNewLifeFestival</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New Life Festival</Source>
+      <Dest>Nové slavnosti života</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantmentsLearned</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You learned the %s enchantment from destroying this item.</Source>
+      <Dest>You learned the %s enchantment from destroying this item.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLoading</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Autoloading...</Source>
+      <Dest>Automatické načítání...</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo6</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Legendary</Source>
+      <Dest>Legendární</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor1</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor1</Source>
+      <Dest>sHairColor1</Dest>
+    </String>
+    <String List="0">
+      <EDID>sClearSelections</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Clear Selections</Source>
+      <Dest>Zrušit výběr</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor0</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor0</Source>
+      <Dest>sHairColor0</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultCellName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wilderness</Source>
+      <Dest>Divočina</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCanNotReadBook</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot read a book while in combat.</Source>
+      <Dest>Během boje nemůžeš číst knihu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo2</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Superior</Source>
+      <Dest>Mimořádná</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HP</Source>
+      <Dest>BZ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDaySaturday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Saturday</Source>
+      <Dest>Sobota</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDropEquippedItemWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Current action must complete before item can be dropped.</Source>
+      <Dest>Vybavený předmět budeš moci položit, až dokončíš stávající akci.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipGeneric</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot equip this item.</Source>
+      <Dest>Tímto předmětem se nemůžeš vybavit.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypeMurder</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Murder</Source>
+      <Dest>Vražda</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFindingContentMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Looking for content.  Please wait.</Source>
+      <Dest>Hledám obsah.  Prosím čekej.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap4</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Flawless</Source>
+      <Dest>Dokonalá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDestruction</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DESTRUCTION</Source>
+      <Dest>DESTRUCTION</Dest>
+    </String>
+    <String List="0">
+      <EDID>sGenderMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>male</Source>
+      <Dest>muž</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor5</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor5</Source>
+      <Dest>sHairColor5</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBooks</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>BOOKS</Source>
+      <Dest>KNIHY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContinue</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Continue</Source>
+      <Dest>Pokračovat</Dest>
+    </String>
+    <String List="0">
+      <EDID>sGotAwayWithStealing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>got away with stealing.</Source>
+      <Dest>má na kontě další krádež.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCancel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cancel</Source>
+      <Dest>Zrušit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultOrdSuffix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>th</Source>
+      <Dest>.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipBrokenItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Broken items cannot be equipped until they have been repaired.</Source>
+      <Dest>Rozbité předměty musíš nejprve opravit, jinak se jimi nelze vybavit.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCurrentLocation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Current Location</Source>
+      <Dest>Tvoje poloha</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCorruptContentMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Some of your downloaded content is corrupt and could not be loaded.</Source>
+      <Dest>Část staženého obsahu je poškozena a nelze ji načíst.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayEmperorsBirthday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Emperor's Birthday</Source>
+      <Dest>Císařovy narozeniny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnterItemName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enter Item Name.</Source>
+      <Dest>Zadej jméno předmětu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHeavyArmorNoJump</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your heavy armor prevents you from jumping.</Source>
+      <Dest>Tvá těžká zbroj ti brání ve výskoku.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor11</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor11</Source>
+      <Dest>sHairColor11</Dest>
+    </String>
+    <String List="0">
+      <EDID>sChangeItemSelection</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Change Item Selection</Source>
+      <Dest>Změnit výběr předmětů</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConstructibleMenuDescription</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose an item to create.</Source>
+      <Dest>Zvol předmět k vytvoření.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor2</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor2</Source>
+      <Dest>sHairColor2</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDiscoveredText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Discovered</Source>
+      <Dest/>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap3</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Exquisite</Source>
+      <Dest>Znamenitá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sApparel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>APPAREL</Source>
+      <Dest>OBLEČENÍ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor3</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor3</Source>
+      <Dest>sHairColor3</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDayWednesday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wednesday</Source>
+      <Dest>Středa</Dest>
+    </String>
+    <String List="0">
+      <EDID>sArmorEnchantments</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ARMOR ENCHANTMENTS</Source>
+      <Dest>VYLEPŠENÍ ZBROJE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sChoose</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose</Source>
+      <Dest>Zvolit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectAlreadyAdded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Effect has already been added.  Edit the effect instead.</Source>
+      <Dest>Účinek byl již přidán. Upravit stávající účinek?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDisableHelp</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Disable Help</Source>
+      <Dest>Vypnout nápovědu</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFailedActivation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot use this at this time.</Source>
+      <Dest>Tohle teď nemůžeš použít.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Damage</Source>
+      <Dest>Poškození</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor13</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor13</Source>
+      <Dest>sHairColor13</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCreate</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Create</Source>
+      <Dest>Vyrobit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnableHelp</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enable Help</Source>
+      <Dest>Aktivovat nápovědu</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDayFriday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Friday</Source>
+      <Dest>Pátek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAlteration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ALTERATION</Source>
+      <Dest>PROMĚNY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayFirstPlanting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>First Planting</Source>
+      <Dest>První setí</Dest>
+    </String>
+    <String List="0">
+      <EDID>sChemsAddicted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have become addicted to %s.</Source>
+      <Dest>Získána závislost na %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAttributeDrained</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>is being drained.</Source>
+      <Dest>je vysávána.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCursorFilename</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Interface\Icons\Misc\cursor.dds</Source>
+      <Dest>Interface\Icons\Misc\cursor.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDayMonday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Monday</Source>
+      <Dest>Pondělí</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFavorites</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>FAVORITES</Source>
+      <Dest>OBLÍBENÉ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnterName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enter character name.</Source>
+      <Dest>Zadej jméno postavy.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplaySecs</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>secs</Source>
+      <Dest>sek.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContinueText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Continue Running Executable?</Source>
+      <Dest>Pokračovat ve spouštění kódu?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchanting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchanting</Source>
+      <Dest>Enchanting</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHarvest</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>for</Source>
+      <Dest>pro</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAreaText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Area</Source>
+      <Dest>Oblast</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantRepairPastMax</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CANNOT REPAIR PAST %.0f%s</Source>
+      <Dest>OPRAVA NAD %.0f%s NENÍ MOŽNÁ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConjuration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CONJURATION</Source>
+      <Dest>VYVOLÁVÁNÍ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHandToHandIcon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Icons\Weapons\HandToHand.dds</Source>
+      <Dest>Icons\Weapons\HandToHand.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sExplosionSplashParticles</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Effects\ExplosionSplash.NIF</Source>
+      <Dest>Effects\ExplosionSplash.NIF</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayNorthWindsPrayer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>North Wind's Prayer</Source>
+      <Dest>Modlitba severního větru</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor9</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor9</Source>
+      <Dest>sHairColor9</Dest>
+    </String>
+    <String List="0">
+      <EDID>sApprenticeDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Easy</Source>
+      <Dest>Lehká</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap5</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Epic</Source>
+      <Dest>Epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>sGold</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>gold</Source>
+      <Dest>zlato</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAlreadyPlacedMine</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>An active mine has already been placed on this enemy.</Source>
+      <Dest>Na tohoto nepřítele již byla připevněna aktivní výbušnina.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHeavyArmorSink</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your heavy armor is causing you to sink.</Source>
+      <Dest>Tvá těžká zbroj tě táhné ke dnu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sClose</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Close</Source>
+      <Dest>Zavřít</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAttributeDamaged</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>has been damaged.</Source>
+      <Dest>- předmět byl poškozen.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCanNotTrainAnymore</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must level up to train more.</Source>
+      <Dest>Další výcvik se ti odemkne až na nové úrovni.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor10</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor10</Source>
+      <Dest>sHairColor10</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDaySunday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sunday</Source>
+      <Dest>Neděle</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDiscoveredIngredientEffectEating</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s discovered from %s.</Source>
+      <Dest>Získáváš %s z předmětu %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDurationText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Duration</Source>
+      <Dest>Trvání</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBroken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>[Locked - Broken]</Source>
+      <Dest>[uzamčeno - zaseknuto]</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDropQuestItemWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quest Items cannot be removed from your Inventory.</Source>
+      <Dest>Úkolové předměty nelze odstranit z inventáře.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipPowerArmor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Power armor training is required to equip this item.</Source>
+      <Dest>Trénink energozbroje je nutný pro použití tohoto předmětu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoSaving</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Autosaving...</Source>
+      <Dest>Automatické ukládání...</Dest>
+    </String>
+    <String List="0">
+      <EDID>sArmorSmithing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Armor Smithing</Source>
+      <Dest>Výroba zbroje</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoSaveDisabledDueToLackOfSpace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Save location full. Disabling Autosave.</Source>
+      <Dest>Prostor pro uložení je plný. Automatické ukládání je nyní vypnuto.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAlreadyKnown</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You already know</Source>
+      <Dest>Tuto schopnost již ovládáš:</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDisableXBoxController</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Please connect a controller to continue.</Source>
+      <Dest>Prosím pro pokračování připoj ovladač.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sChemsWithdrawal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You are suffering from %s withdrawal.</Source>
+      <Dest>Trpíš abstinenčními příznaky na %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DEFAULT MESSAGE TEXT</Source>
+      <Dest>VÝCHOZÍ TEXT ZPRÁVY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDeleteSuccessful</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Save game deleted.</Source>
+      <Dest>Uložená hra byla smazána.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor15</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor15</Source>
+      <Dest>sHairColor15</Dest>
+    </String>
+    <String List="0">
+      <EDID>sExit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Exit</Source>
+      <Dest>Odejít</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEssentialCharacterDown</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>is badly wounded.</Source>
+      <Dest>má těžké zranění.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHigh</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>High</Source>
+      <Dest>Vysoká</Dest>
+    </String>
+    <String List="0">
+      <EDID>sArmor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ARMOR</Source>
+      <Dest>ZBROJ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap2</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Superior</Source>
+      <Dest>Mimořádná</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor14</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor14</Source>
+      <Dest>sHairColor14</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypePickpocket</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Pickpocket</Source>
+      <Dest>Kapsářství</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCraft</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Craft</Source>
+      <Dest>Vyrobit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sExpert</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Expert</Source>
+      <Dest>Expert</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFurnitureSleep</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sleep</Source>
+      <Dest>Spát</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo5</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Epic</Source>
+      <Dest>Epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBloodSplatterColor01OPTFilename</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Textures\Blood\ScreenBloodColor01OPT.dds</Source>
+      <Dest>Textures\Blood\ScreenBloodColor01OPT.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutosaveAbbrev</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AUTO</Source>
+      <Dest>AUTO</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDiscoveredEffects</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Discovered effects</Source>
+      <Dest>Objevené efekty</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantQuickSave</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't Quicksave while the game is paused.</Source>
+      <Dest>Je-li hra pozastavena, není rychlé uložení dostupné.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayMerchantsFestival</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Merchant's Festival</Source>
+      <Dest>Kupecká slavnost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantUnequipGeneric</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot unequip this item.</Source>
+      <Dest>Tento předmět není možné sundat.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFullHealth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You are already at full health.</Source>
+      <Dest>Tvé zdraví je již na maximu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypeTrespass</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Trespass</Source>
+      <Dest>Nepovolený vstup</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCurrentObjective</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CURRENT OBJECTIVE</Source>
+      <Dest>AKTUÁLNÍ ÚKOL</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypeAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Attack</Source>
+      <Dest>Útok</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCriticalStrike</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Critical Strike on</Source>
+      <Dest>Kritický zásah:</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo4</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Flawless</Source>
+      <Dest>Dokonalá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEquipItemOnPlayer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>was equipped.</Source>
+      <Dest>- vybaveno.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayMidYearCelebration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mid Year Celebration</Source>
+      <Dest>Oslavy poloviny roku</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDeleteSaveGame</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to delete this save game?</Source>
+      <Dest>Chceš opravdu smazat tuto uloženou pozici?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sExpertDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hard</Source>
+      <Dest>Těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>sGenderFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>female</Source>
+      <Dest>žena</Dest>
+    </String>
+    <String List="0">
+      <EDID>sArmorRating</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Armor Rating</Source>
+      <Dest>Kvalita zbroje</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCanNotEquipWornEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot equip this item right now.</Source>
+      <Dest>Tímto předmětem se nyní nemůžeš vyzbrojit.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchant item?</Source>
+      <Dest>Enchant item?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor4</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor4</Source>
+      <Dest>sHairColor4</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCleared</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cleared.</Source>
+      <Dest>Vyčištěno.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypeSteal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Steal</Source>
+      <Dest>Krádež</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCreatedPotionNamePrefix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Potion of </Source>
+      <Dest>Lektvar</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBleedingOutMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't continue fighting.</Source>
+      <Dest>Nemůžeš pokračovat v boji.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFood</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>FOOD</Source>
+      <Dest>JÍDLO</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo3</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Exquisite</Source>
+      <Dest>Znamenitá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sBloodTextureDefault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Blood\DecalsBloodSplatterBlend01.dds</Source>
+      <Dest>Blood\DecalsBloodSplatterBlend01.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAnimationCanNotUnequip</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot change weapons while attacking.</Source>
+      <Dest>Nemůžeš si změnit zbraň, když zrovna útočíš.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCreatedPoisonNamePrefix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Poison of </Source>
+      <Dest>Jed</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor6</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor6</Source>
+      <Dest>sHairColor6</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDone</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Done</Source>
+      <Dest>Hotovo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFileNotFound</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>File does not exist</Source>
+      <Dest>Soubor neexistuje</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAnimationCanNotEquipArmor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot change armor while attacking.</Source>
+      <Dest>Nemůžeš si změnit zbroj, když zrovna útočíš.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchantment</Source>
+      <Dest>Enchantment</Dest>
+    </String>
+    <String List="0">
+      <EDID>sControllerOption</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Turn off Controller in the Controls section of the Settings menu to switch back to Keyboard/Mouse.</Source>
+      <Dest>Chceš-li přepnout zpátky na ovládání klávesnicí a myší, vypni ovladač v sekci Ovládání v nabídce Nastavení.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sChemsWornOff</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s has worn off.</Source>
+      <Dest>Odezněl účinek pro %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor8</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor8</Source>
+      <Dest>sHairColor8</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantQuickLoad</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't Quickload while the game is paused.</Source>
+      <Dest>Je-li hra pozastavena, není rychlé načítání dostupné.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantSaveNow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot save right now.</Source>
+      <Dest>Nyní není povoleno hru uložit.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayJestersDay</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Jester's Day</Source>
+      <Dest>Den šašků</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCreated</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Created.</Source>
+      <Dest>Vyrobeno.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap1</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fine</Source>
+      <Dest>Dobrá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAnimationCanNotEquipWeapon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot change weapons while attacking.</Source>
+      <Dest>Nemůžeš si změnit zbraň, když zrovna útočíš.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor7</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor7</Source>
+      <Dest>sHairColor7</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayHarvestsEnd</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Harvest's End</Source>
+      <Dest>Konec žní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContainerPlaceChance</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TO PLACE</Source>
+      <Dest>POLOŽIT</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEmpty</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Empty</Source>
+      <Dest>Nic</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContainerItemsTitle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Inventory</Source>
+      <Dest>Inventář</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDayTuesday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Tuesday</Source>
+      <Dest>Úterý</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDayThursday</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Thursday</Source>
+      <Dest>Čtvrtek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHairColor12</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sHairColor12</Source>
+      <Dest>sHairColor12</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixWeap6</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Legendary</Source>
+      <Dest>Legendární</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHealthDataPrefixArmo1</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fine</Source>
+      <Dest>Dobrá</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantMenuDescription</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose an item to destroy and learn its Enchantment, or combine an Item, Enchantment, and Soul Gem to create magic items.</Source>
+      <Dest>Choose an item to destroy and learn its Enchantment, or combine an Item, Enchantment, and Soul Gem to create magic items.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFastTravelNoTravelHealthDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't fast travel while taking health damage.</Source>
+      <Dest>Nemůžeš použít rychlé cestování, pokud něco poškozuje tvé zdraví.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConfirmAttribute</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Increase %s?</Source>
+      <Dest>Zvýšit: %s?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCanNotTrainHigher</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This NPC cannot help you train any higher.</Source>
+      <Dest>Tato postava ti již nemůže pomoci v dalším tréninku.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplayMins</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>mins</Source>
+      <Dest>min.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCrimeTypeEscape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Escape Jail</Source>
+      <Dest>Útěk z vězení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplaySec</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sec</Source>
+      <Dest>sek.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplayHours</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>hours</Source>
+      <Dest>hod.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDungeonCleared</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Dungeon Cleared!</Source>
+      <Dest>Dungeon Cleared!</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplayMin</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>min</Source>
+      <Dest>min.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplayHour</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>hour</Source>
+      <Dest>hod.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDisenchant</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Disenchant</Source>
+      <Dest>Disenchant</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantMustChooseItems</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose an item, enchantment, and soul gem.</Source>
+      <Dest>Choose an item, enchantment, and soul gem.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantmentKnown</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The enchantment on this item is already known.</Source>
+      <Dest>The enchantment on this item is already known.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantInsufficientCharge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Insufficient charge for enchantment.</Source>
+      <Dest>Insufficient charge for enchantment.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultCubeMap</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cubemaps\CaveGreenCube_e.dds</Source>
+      <Dest>Cubemaps\CaveGreenCube_e.dds</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDwarven</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DWARVEN</Source>
+      <Dest>DWARVEN</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEbony</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>EBONY</Source>
+      <Dest>EBONY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sGlass</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>GLASS</Source>
+      <Dest>SKLO</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHide</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HIDE</Source>
+      <Dest>KŮŽE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantDeconstructMenuDescription</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose an item to destroy and learn its effects.</Source>
+      <Dest>Choose an item to destroy and learn its effects.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDaedric</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DAEDRIC</Source>
+      <Dest>DAEDRIC</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDragon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DRAGON</Source>
+      <Dest>DRAGON</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCombatCannotActivate</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot use this while in combat.</Source>
+      <Dest>Tento předmět nelze v boji použít.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDraugr</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DRAUGR</Source>
+      <Dest>DRAUGR</Dest>
+    </String>
+    <String List="0">
+      <EDID>sFalmer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>FALMER</Source>
+      <Dest>FALMER</Dest>
+    </String>
+    <String List="0">
+      <EDID>sElven</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ELVEN</Source>
+      <Dest>ELVEN</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCharGenControlsDisabled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your hands are bound.</Source>
+      <Dest>Tvé ruce jsou svázané.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConstructibleMenuConfirm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to create this item?</Source>
+      <Dest>Chceš vytvořit tento předmět?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnchantArmorIncompatible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chosen enchantment cannot be applied to this item.</Source>
+      <Dest>Chosen enchantment cannot be applied to this item.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoSavingLong</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Autosaving...</Source>
+      <Dest>Automatické ukládání...</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidFloor01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlat02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotLeftMiniRocketLauncher</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>SentryBotLeftRocketLauncher</Source>
+      <Dest>SentryBotLeftRocketLauncher</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_CoffeeCup</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Coffee Cup</Source>
+      <Dest>Šálek kávy</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Dad</Source>
+      <Dest>Táta</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Legal Musings&#xD;
+&#xD;
+Saving the Commonwealth of Masachusetts, one underpriviledged citizen at a time...</Source>
+      <Dest>Právní úvahy&#xD;
+&#xD;
+Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po druhém...</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Underwear model from Braintree. Beautiful, intelligent, totally weird. All she's ever wanted is Stimpaks. 10+ per week. My imagination continues to run wild.</Source>
+      <Dest>Modelka spodního prádla z Braintree. Krásná, inteligentní, naprosto divná. Jediné, co kdy chtěla, byly Stimpaky. 10 a více týdně. Moje představivost jede na plné obrátky.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>My favorite tin foil hat wearing nut job. Good for 7 ampules of Daytripper a week. Guess he's a one-a-day kind of guy. Whatever helps the man groove.</Source>
+      <Dest>Můj oblíbený blbeček s alobalovou čepicí. Dobrý tak na 7 dávek Výletníka týdně. Asi jede ve stylu "jedenou denně". Proti gustu, ...</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunBabyVoiceOnly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>SentryBot</Source>
+      <Dest>SentryBot</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Malcolm</Source>
+      <Dest>Malcolm</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Business</Source>
+      <Dest>Obchod</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Rosa</Source>
+      <Dest>Rosa</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryBasementJahani</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Root Cellar</Source>
+      <Dest>Spíž</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Tricycle01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tricycle</Source>
+      <Dest>Tříkolka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_SugarBomb_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Sugar Bombs</Source>
+      <Dest>Cukrové Bomby</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterSupports01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor Supports</Source>
+      <Dest>Podpěry</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Cop. Longtime Buffout customer. Running into supply problems. We've had a good thing for years, I'd hate to end it now. And I don't exactly want to risk him getting all noble and law-abiding if he can't get what he wants. That would end VERY badly for me.</Source>
+      <Dest>Policajt. Stálý zákazník na Buffout. Začínám mít problémy se zásobami. Několik let nám to dobře šlapalo, tak by mě mrzelo to teď ukončit. A taky nechci riskovat, že by najednou chtěl být čestný a zákona dbající, pokud by nedostal to, co chce. To by pro mě skončilo DOST špatně.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickBrokePick</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You broke a bobby pin.</Source>
+      <Dest>Zlomil jsi vlásenku.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Sanctuary Hills</Source>
+      <Dest>Sanctuary Hills</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Boston</Source>
+      <Dest>Boston</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Got to pick a good moment to present it. Special time? After he gets the job? After his speech? BEFORE his speech? Just when we're out having fun as a family? Super dad deserves super appreciation!</Source>
+      <Dest>Musím najít vhodný moment, kdy mu to předvedu. Nějakou speciální událost? Po tom, co tu práci dostane? PŘED jeho proslovem? Nebo když budeme jako rodina na procházce? Super táta potřebuje super uznání.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyFloor05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotMaxHeatLevel</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>MaxHtLvl</Source>
+      <Dest>MaxHtLvl</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCap01A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Outer Cap</Source>
+      <Dest>Stěna - venkovní</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidFloor02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>The new infant care subroutines are pretty amazing, and I trust Codsworth with Shaun implicity. So why can't he draw my bath water at anything over 70 degrees? I swear he's doing it on purpose, trying to be funny, but it's getting old. Time to take him in and have some junk rewired (or whatever it is they do).</Source>
+      <Dest>Podprogramy pro péči o kojence jsou opravdu úžasné a bezmezně Codsworthovi s Shaunem důvěřuji. Tak proč mi není schopen zařídit vodu ve vaně s více než 70 stupni? Přísahám, že to dělá naschvál, aby byl vtipnej, ale mě to už nebaví. Je na čase s ním zajít do servisu a nechat nějaké nesmysly předrátovat (nebo co tam dělají).</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBridgeFree01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge 02</Source>
+      <Dest>Mostek 02</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter04A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter04C</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyRailing03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Balcony Railing</Source>
+      <Dest>Balkónové zábradlí</Dest>
+    </String>
+    <String List="0">
+      <EDID>SaugusIronWorksMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Saugus Ironworks</Source>
+      <Dest>Železárny Saugus</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Thursday, October 28</Source>
+      <Dest>Čtvrtek, 28. října</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Halloween Costume Materials List</Source>
+      <Dest>Seznam věcí na halloweenský kostým</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Still good for a couple hits of Daddy-O a week. Pretentious pseudo-intellectual asshole, but his money's good.</Source>
+      <Dest>Stále dobrý na pár Taťkových šleh týdně. Domýšlivej pseudo intelektuální debil, ale platí dobře.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sheffield</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sheffield</Source>
+      <Dest>Sheffield</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter01B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Sunday, October 31</Source>
+      <Dest>Neděle, 31. října</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Legal Musings&#xD;
+&#xD;
+Saving the Commonwealth of Masachusetts, one underpriviledged citizen at a time...</Source>
+      <Dest>Právní úvahy&#xD;
+&#xD;
+Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po druhém...</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunChildHologram</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>SecurityBarBase01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Latch Bar</Source>
+      <Dest>Západka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Totally high-strung and needs to relax. I keep telling him that, offering to help, but so far, no dice. By the looks of the guy, he's self-medicating with pie.</Source>
+      <Dest>Totálně vynervovaný a potřeboval by si taky někdy odpočinout. Stále mu to opakuju a nabízím pomoc, ale zatím bez úspěchu. Podle jeho vzhledu si nejspíše sám ordinuje řádné porce dortíků.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Anders</Source>
+      <Dest>Anders</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Misc.</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressFileFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Maam</Source>
+      <Dest>paní</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Sanctuary Hills</Source>
+      <Dest>Sanctuary Hills</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Ward</Source>
+      <Dest>Ward</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotLeftMinigun</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Sentry Bot Left Minigun</Source>
+      <Dest>Levý rotační kulomet strážního robota</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Back Leg</Source>
+      <Dest>Zadní noha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>They still owe me for that last X-Cell delivery. Occurred to me - was it even for them? Because, so help me God, if I find out they're juicing up those dogs, we're going to have words about more than the money. But we're probably beyond words anyway. I know they have a floor safe in there - I've seen it. Master bedroom, under the dresser. Can't be that tough to crack.</Source>
+      <Dest>Stále mi dluží za tu poslední dodávku X-Cellu. Napadlo mě, jestli to vůbec bylo pro ně? Protože, bůh mi pomáhej, pokud zjistím že to perou do těch psů, tak si budeme muset zásadně promluvit nejen o penězích. Ale asi jsme stejně už dávno za hranicí pro rozhovor. Vím, že mají v domě podlahový sejf - viděl jsem ho. Hlavní ložnice, pod šatníkem. Nemůže být těžké ho otevřít.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBridgeFree01Support01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge Supports</Source>
+      <Dest>Mostkové podpěry</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Saturday, October 23</Source>
+      <Dest>Sobota, 23. října</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>8:00 pm - Date Night!&#xD;
+&#xD;
+Concord's getting a little tired. Thinking we'll head into Boston. Italian?</Source>
+      <Dest>20:00 - Rande!&#xD;
+&#xD;
+Concord se stává malinko unavený. Myslím, že zamíříme do Bostonu. Něco italského?</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Personal Stuff &#xD;
+&#xD;
+(Codsworth, if I find you reading this I'm going to turn you into a floating ice cream machine.)</Source>
+      <Dest>Osobní věci&#xD;
+&#xD;
+(Codsworthe, pokud tě načapu, jak si tohle čteš, tak z tebe udělám vznášející se automat na zmrzlinu.)</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>- Red felt&#xD;
+- Red ribbon&#xD;
+- Little red booties&#xD;
+- Use eyebrow pencil to draw on a little mustache?&#xD;
+- Check Hubris and see if they have a little plastic pitchfork</Source>
+      <Dest>- Červená plsť&#xD;
+- Rudý stuha&#xD;
+- Malé červené botičky&#xD;
+- Použít tužku na oči pro nakreslení malého knírku?&#xD;
+- Zkontrolovat u Hubris, jestli mají malé plastové vidle</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Personal Calendar</Source>
+      <Dest>Osobní kalendář</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunChild</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter03B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBridgeFree02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge 01</Source>
+      <Dest>Mostek 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>SecurityGuardClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Security Guard</Source>
+      <Dest>Bezpečnostní brána</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>We WILL cruise America!</Source>
+      <Dest>PROCESTUJEME Ameriku!</Dest>
+    </String>
+    <String List="0">
+      <EDID>Science04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Science!</Source>
+      <Dest>Věda!</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>McDermott</Source>
+      <Dest>McDermott</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Restoration Project Terminal</Source>
+      <Dest>Terminál projektu renovace</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunHolotapeMQ302</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Shaun's Holotape</Source>
+      <Dest>Shaunova holopáska</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyRailingDbl01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Railing Double 01</Source>
+      <Dest>Dvojité zábradlí 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>ALL DAY - Halloween! &#xD;
+&#xD;
+We're still torn on Shaun's costume, but I think we've got it narrowed down to two. I say cop, but my better half thinks a tiny devil would be adorable. (She's got a point.) &#xD;
+&#xD;
+Figure we'll take him trick or treating around 6:00, before it gets too dark. And that'll get me home in time to stop that Rosa kid from TP'ing the house. </Source>
+      <Dest>CELÝ DEN - Halloween! &#xD;
+&#xD;
+Stále nemáme jasno o Shaunově kostýmu, ale myslím, že jsme výběr zůžili na dvě varianty. Já říkám policista, moje lepší polovička si myslí, že malý ďáblík by byl roztomilý (v tom má pravdu). &#xD;
+&#xD;
+Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní se vrátit domů včas, abych zabráníl tomu hajzlíkovi od Rosy, aby mi naházel toaleťáky přes střechu. </Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunChildHologram</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Mom</Source>
+      <Dest>Máma</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentinelSite01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Sentinel Site Prescott</Source>
+      <Dest>Strážnice Prescott</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Veteran's Hall Speech - Early Outline</Source>
+      <Dest>Řeč v Síni veteránů - hrubý nástřel</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShengKawolski</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sheng Kawolski</Source>
+      <Dest>Sheng Kawolski</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Isaacs</Source>
+      <Dest>Isaacs</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Concord</Source>
+      <Dest>Concord</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Codsworth Service Reminder</Source>
+      <Dest>Upomínka na Codsworthův servis</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsHawthorneHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Hawthorne Residence</Source>
+      <Dest>Howthornovo sídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlatEnd01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut01C</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Williams</Source>
+      <Dest>Williams</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunBabyVoiceOnly</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyFloor01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotRightMiniRocketLauncher</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>SentryBotRightRocketLauncher</Source>
+      <Dest>SentryBotRightRocketLauncher</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryRosaHouse</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Rosa Residence</Source>
+      <Dest>Rosy sídlo </Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallHalfL01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Baker</Source>
+      <Dest>Baker</Dest>
+    </String>
+    <String List="0">
+      <EDID>SecurityGateSmLatch02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Security Gate</Source>
+      <Dest>Bezpečnostní brána</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsDonoghueHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Donoghue Residence</Source>
+      <Dest>Donoghuovo sídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyFloor03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BaseballGlove_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Baseball Glove</Source>
+      <Dest>Baseballová rukavice</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlat03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlatEnd02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyFloor04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof01Hole01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotRightMinigun</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Sentry Bot Right Minigun</Source>
+      <Dest>Pravý rotačný kulomet strážního robota</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Mom</Source>
+      <Dest>Máma</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyRailing04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Balcony Railing</Source>
+      <Dest>Balkónové zábradlí</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Jahani</Source>
+      <Dest>Jahani</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SandyCovesHome01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Sandy Coves Convalescent Home</Source>
+      <Dest>Zotavovna Písečná zátoka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SandyCovesConvalesentHomeMapMarker001</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sandy Coves Convalescent Home</Source>
+      <Dest>Zotavovna Písečná zátoka</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlat01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Mom</Source>
+      <Dest>Máma</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Personal</Source>
+      <Dest>Osobní</Dest>
+    </String>
+    <String List="0">
+      <EDID>Science02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Science!</Source>
+      <Dest>Věda!</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>DiPietro</Source>
+      <Dest>DiPietro</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCap01B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Outer Cap</Source>
+      <Dest>Stěna - venkovní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickContainer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have unlocked the container.</Source>
+      <Dest>Odemkl jsi kontejner.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickDoor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have unlocked the door.</Source>
+      <Dest>Odemkl jsi dveře.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Progress</Source>
+      <Dest>Postup</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Potential new customer in Charlestown. Wants Med-X. Seems oddly desperate. Might be a cop trying too hard - need to move slowly.</Source>
+      <Dest>Potenciální nový zákazník v Charlestownu. Chce Med-X. Tváří se až podivně zoufale. Možná jde o policajta - musím jednat opatrně.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut03A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Sanctuary Hills</Source>
+      <Dest>Sanctuary Hills</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsPlayerHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Your Residence</Source>
+      <Dest>Tvoje sídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>SaugusIronworksLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Saugus Ironworks</Source>
+      <Dest>Železárny Saugus</Dest>
+    </String>
+    <String List="0">
+      <EDID>SandyCovesConvalescentHomeLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Sandy Coves Convalescent Home</Source>
+      <Dest>Zotavovna Písečná zátoka</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScrapPalaceLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Scrap Palace</Source>
+      <Dest>Šrotiště</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Sepulsky</Source>
+      <Dest>Sepulsky</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotMaxHeatLevel</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>MaxHeatLevel</Source>
+      <Dest>MaxHeatLevel</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Fusion Cores</Source>
+      <Dest>Fúzní jádra</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrounger01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrounger</Source>
+      <Dest>Příživník</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunChild</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Shaun</Source>
+      <Dest>Shaun</Dest>
+    </String>
+    <String List="0">
+      <EDID>Science03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Science!</Source>
+      <Dest>Věda!</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHillsRosaHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Rosa Residence</Source>
+      <Dest>Rosy sídlo </Dest>
+    </String>
+    <String List="0">
+      <EDID>ShamrockTaphouse01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Shamrock Taphouse</Source>
+      <Dest>Pivnice Trojlístek</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShamrockTaphouseMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Shamrock Taphouse</Source>
+      <Dest>Pivnice Trojlístek</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScriptEvent_CIS_Manager</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Manages CIS_ScriptEventSenderActorScript sent events</Source>
+      <Dest>Manages CIS_ScriptEventSenderActorScript sent events</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Duchesne</Source>
+      <Dest>Duchesne</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Personal Stuff &#xD;
+&#xD;
+(Codsworth, if I find you reading this I'm going to turn you into a floating ice cream machine.)</Source>
+      <Dest>Osobní věci&#xD;
+&#xD;
+(Codsworthe, pokud tě načapu, jak si tohle čteš, tak z tebe udělám vznášející se automat na zmrzlinu.)</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>8:00 pm - Speech at the Veterans Hall&#xD;
+&#xD;
+You'd think someone who's been shot at on a battlefield could handle a bunch of grizzled vets, but I'm nervous as Hell. Picturing them in their underwear is not an option. &#xD;
+&#xD;
+(Side note: game 4 of the World Series is being played in the city this afternoon, and Boston's primed to win for the first time in forever. I would KILL for tickets.)</Source>
+      <Dest>20:00 - Řeč v Síni veteránů&#xD;
+&#xD;
+Člověk, na koho v bitvách opakovaně stříleli, by mohl zvládnout bandu šedivých veteránů, ale jsem pekelně nerzvózní. Představovat si je ve spodním prádle tomu nepomůže. &#xD;
+&#xD;
+(Poznámka: 4. hra světové série se hraje ve městě tenhle večer... a bostnoští mají poprvé za dlohou dobu nejlepší šanci vyhrát. Pro lístky bych VRAŽDIL.)</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Family Terminal</Source>
+      <Dest>Rodinný terminál</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickNoPicks</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No bobby pins.</Source>
+      <Dest>Nemáš žádné vlásenky.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyRailing02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Balcony Railing</Source>
+      <Dest>Balkónové zábradlí</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryMailboxEmpty</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Mailbox</Source>
+      <Dest>Poštovní schránka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Case File Notes - Massachusetts vs. Silva</Source>
+      <Dest>Poznámky k případu - Massachusetts vs. Silva</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBridge01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge 01</Source>
+      <Dest>Mostek 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Mom's Files</Source>
+      <Dest>Máminy soubory</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof03Hole02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickGateFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This lock is too difficult.</Source>
+      <Dest>Tento zámek je moc obtížný.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackSteps01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Steps 01</Source>
+      <Dest>Schodiště 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallHalfB01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Inner Half 01</Source>
+      <Dest>Stěna - vnitřní polovina 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut01B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScrewDriver01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Screwdriver</Source>
+      <Dest>Šroubovák</Dest>
+    </String>
+    <String List="0">
+      <EDID>Science01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Science!</Source>
+      <Dest>Věda!</Dest>
+    </String>
+    <String List="0">
+      <EDID>shaun</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Father</Source>
+      <Dest>Otec</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShawHighSchoolLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Shaw High School</Source>
+      <Dest>Shawova střední škola</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallHalfR01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Shishkebab</Source>
+      <Dest>Šiškebab</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyFloor02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor</Source>
+      <Dest>Podlaha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Case File Notes - Blanks vs. Kelley</Source>
+      <Dest>Poznámky k případu - Blanks vs. Kelley</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Sanctuary Hills</Source>
+      <Dest>Sanctuary Hills</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBalconyRailing01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Balcony Railing</Source>
+      <Dest>Balkónové zábradlí</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>O'Keefe</Source>
+      <Dest>O'Keefe</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Holtape Reminder</Source>
+      <Dest>Holopásková upomínka</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut01A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Ledger Terminal</Source>
+      <Dest>Účetní terminál</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCap01Door01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Outer Cap with Doorway</Source>
+      <Dest>Stěna - venkovní s dveřmi</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Gina shouldn't have even had me review this one. It's a pretty clear non-starter. Two professional fighters go at it in the ring, one of them loses - badly - and claims the winner cheated. Doesn't say how, and nothing backs up his claim. Seems like a pretty clear case of soreloseritis. Boo hoo. Pass.&#xD;
+</Source>
+      <Dest>Gina by mě vůbec neměla nechat tohle posuzovat. Celkem jasný ztracený případ. Dva profesionální bojovníci vstoupí do ringu, jeden z nich prohraje - ošklivě - a tvrdí, že vítěz podvádel. Neřekne jak a nemá nic, čím by své tvrzení podpořil. Zdá se mi jako jasný přpad boleprohrytýdy. Boo hoo. Další.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallFlat04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall</Source>
+      <Dest>Stěna</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal4</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Welcome, Red Rocket Employee!</Source>
+      <Dest>Vítej, zaměstnanče Red Rocketu!</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Kind of crazy to think of how far Louis and I have come these past four months. And I'm not just talking about the car. I hate getting all poetic, but rebuilding this Corvega really has helped rebuild our relationship. He still misses his dad - God knows we both do - but he's learning that his madre ain't so bad. &#xD;
+&#xD;
+As for the Corvega: Most of the body work is done, generally speaking. Might not be pretty (yet!) but it's there. Interior needs new upholstery. Louis insist on leather - we'll see.&#xD;
+&#xD;
+As for the engine. Ugh. Estoy Perdido. I'm trying, but there's only so much I can learn from books without any real training. I'm goig to have to bite the bullet and talk to the folks at Red Rocket. </Source>
+      <Dest>Docela šílené, když si představím, jak daleko jsme se s Louisem za posledních pár měsíců dostali. A to nemluvím jen o tom autě. Nesnáším romantické kecy, ale renovace téhle Corvegy nám opravdu pomohlo obnovit náš vztah. Stále mu chybí jeho táta - bože, chybí nám oboum - ale zjišťuje, že ani jeho madre není tak špatná.&#xD;
+&#xD;
+Co se týká Corvegy: Většina práce na karosérii je hotová, celkem vzato. Možná to není nejhezčí (zatím!), ale je to hotové. Interiér bude chtít nové čalounění. Louis trvá na kůži - uvidíme.&#xD;
+&#xD;
+Co se týká motoru. Uf. Estory Perdido. Snažím se, ale z knížek jde vyčíst jen něco, bez toho, aniž to člověk opravdu zkoušel. Budu muset kousnout do kyselého jablka a promluvit si s chlapama z Red Rocket.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Legal Musings&#xD;
+&#xD;
+Saving the Commonwealth of Masachusetts, one underpriviledged citizen at a time...</Source>
+      <Dest>Právní úvahy&#xD;
+&#xD;
+Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po druhém...</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Some student at C.I.T. - Wants Daytripper, X-Cell and an entire palette (yes, palette) of Mentats. Not sure if he's doing crazy experiments, dealing to the other eggheads, or on the verge of a nervous breakdown. Don't care, so long as the money's good.</Source>
+      <Dest>Nějaký student na C.I.T. - chce Výletníka, X-Cell a komplet nabídku (ano, všechny typy) Mentatů. Nejsem si jistý, zda dělá nějaké šílené experimenty, dýluje ostatním šprtům, a nebo je na pokraji nervového zhroucení. Dokud dobře platí, tak nezájem.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnIn01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Inner Corner with Roof</Source>
+      <Dest>Stěna - vnitřní roh se střechou</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidSupports01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Floor Supports</Source>
+      <Dest>Podpěry</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Welcome, Red Rocket Employee!</Source>
+      <Dest>Vítej, zaměstnanče Red Rocketu!</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressDisplayFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mum</Source>
+      <Dest>mámo</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut03B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Clothes7SuitGO</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Suit</Source>
+      <Dest>Oblek</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShengKawolski</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Sheng</Source>
+      <Dest>Sheng</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_TriFoldFlag</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>American Flag</Source>
+      <Dest>Americká vlajka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterHouseTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Humans Only - Codsworth, Eyes Off!!</Source>
+      <Dest>Jen pro lidi - Codsworthe, oči pryč!!</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnInCap01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Inner Corner</Source>
+      <Dest>Stěna - vnitřní roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter01A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_CoffeePot</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Coffee Pot</Source>
+      <Dest>Konvice na kávu</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickKeyOnly</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Only %s can unlock.</Source>
+      <Dest>Jen %s může odemknout.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Family Terminal</Source>
+      <Dest>Rodinný terminál</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>War. War is hell.&#xD;
+&#xD;
+Back when my great-great grandfather was in the Army, the U.S. ended World War II by dropping atomic bombs on Hiroshima and Nagasaki.&#xD;
+&#xD;
+We've come so far since then, haven't we? Technology has given us domestic robots, fusion-powered cars, portable computers. But we're fooling ourselves.&#xD;
+&#xD;
+Today, in 2077, we're on the brink of total war. What good are high-tech toys now? They can help us escape, but we can't escape the violence in our hearts.&#xD;
+&#xD;
+War is hell. And if we don't change our ways... we're all going to burn.&#xD;
+&#xD;
+(Note: Too weak, too bleak. Focus on family and future.)</Source>
+      <Dest>Válka. Válka je peklo.&#xD;
+&#xD;
+V době, kdy byl můj pra-pradedeček v armádě, amerika ukončila druhou světovou válku svržením atomových bomb na Hirošimu a Nagasaki.&#xD;
+&#xD;
+Od té doby jsme ušli dlouho cestu, je to tak? Technologie nám nadělila domácí roboty, fúzně poháněné automobily, přenostné počítače.  &#xD;
+We've come so far since then, haven't we? Technology has given us domestic robots, fusion-powered cars, portable computers. Ale klameme sami sebe.&#xD;
+&#xD;
+Dnes, v roce 2077, jsme na pokraji totální války. K čemu nám jsou naše technické hračky teď? Mohou nám pomoci uniknout, ale uniknout násilí v našem srdci nemůžeme. &#xD;
+&#xD;
+Válka je peklo. A pokud se nezměníme... všichni shoříme.&#xD;
+&#xD;
+(Poznámka: Nepřesvědčivé, pochmurné. Zaměřit se na rodinu a budoucnost.)</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Still trying to get her some Buffout. Didn't expect the rationing to affect this, but it is what it is.</Source>
+      <Dest>Stále se jí snažím splašit nějaký Buffout. Nečekal jsem, že tohle příděly taky ovlivní, ale bohužel je to tak.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Tuesday, October 26</Source>
+      <Dest>Úterý, 26. října</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>I just can't see how the Commonwealth even has a case here.&#xD;
+&#xD;
+Corsino Silva, 23 year-old Roxbury resident of Cape Verdean descent, charged with the armed robbery of a Slocum's Joe coffee shop. But there's simply no hard evidence. Just the word of Cozelli, and even her description of the suspect barely matches Cruz. &#xD;
+&#xD;
+I think this is the one - the case that gets me back in the game. We've got plenty saved, so I can take it pro bono. Corsino Cruz is just some poor fool who's being set up as the bad guy because the state needs him to be. The Hell with that. He's innocent, and I'm going to prove it.&#xD;
+&#xD;
+Time to show Shaun how tough his mommy really is.&#xD;
+</Source>
+      <Dest>Já prostě nechápu, jak může z tohohle Commonwealth vytvořit případ.&#xD;
+&#xD;
+Corsino Silva, 23 letý obyvatel Roxbury, potomek obyvatel Cape Verdan, obviněný z ozbrojené loupeže v bistru Slocumovy koblihy. Ale prostě chybí nějaké zásadní důkazy. Jen na základě tvrzení Cozelli a dokonce i její popis podezřelého jen ztěžka pasuje na Cruze.&#xD;
+&#xD;
+Myslím že by to mohl být ono - případ, který mě dostane zpátky do hry. Máme celkem dost našetříno, takže bych to mohla udělat "pro bono". Corsin Cruz je jen další chudák, prezentovaný jako zločinec jen proto, že to tak stát chce. K čertu s takovým přístupem. Je nevinný a já to dokážu.&#xD;
+&#xD;
+Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnosti je.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sanctuary</Source>
+      <Dest>Sanctuary</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCap03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall - Outer Cap</Source>
+      <Dest>Stěna - venkovní</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Kids are usually a no-go, but this girl's got style, and she's not interested in getting tweaked. Ordered 20 blood packs. Some Halloween stunt or something. Or hell, maybe she's really a vampire. What do I care - she's got her daddy's money.</Source>
+      <Dest>Dětem obvykle neprodávám, ale tahle holka má styl a nechce se sjíždět. Objednala 20 krevních balíčků. Asi Halloweenský kousek nebo něco takového. A nebo, sakra, je to fakt upírka. Ale co se starám - hlavně, že má tátovy prachy.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Needed Parts</Source>
+      <Dest>Potřebuji součástky</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof02Hole01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Young married couple, good for a couple Daytripper per week. Easy order, cool people, no brainer.</Source>
+      <Dest>Mladý manželský páreček, dobrý na pár Výletníků týdně. Jednoduché sehnat, v pohodě lidi, super kšeft.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scalpel</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Scalpel</Source>
+      <Dest>Skalpel</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryWorkshopResourceContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal3</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>The old lady has upped her Daddy-O order. Weird, but profitable.</Source>
+      <Dest>Stará pani navýšila objednávku Taťkovy šlehy. Divné, ale výdělečné.</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter04B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>He wants something called Psycho. I'm not sure the stuff even exists. And if it does, do I really want this neanderthal using it? Guess it depends on how much he's willing to spend. I'll put some feelers out to my Army connection, see where that goes.</Source>
+      <Dest>Chce něco, čemu se říká Psycho. Nejsem si jistý, jestli taková věc vůbec existuje. A pokud ano, opravdu to budu chtít dát takovému neandrtálovi? Asi záleží, kolik je za to ochotný utratit. Zkusím svoje armádní kontakty a uvidíme, kam se dostanu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scarlett</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Scarlett</Source>
+      <Dest>Scarlett</Dest>
+    </String>
+    <String List="0">
+      <EDID>SaugusIronworks01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Saugus Ironworks</Source>
+      <Dest>Železárny Saugus</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScrapPalaceMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Scrap Palace</Source>
+      <Dest>Šrotiště</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Sanctuary Hills</Source>
+      <Dest>Sanctuary Hills</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Professional</Source>
+      <Dest>Profesní</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut01D</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>shaun</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Father</Source>
+      <Dest>Otec</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackFreeColumnInt01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Column</Source>
+      <Dest>Sloupek</Dest>
+    </String>
+    <String List="0">
+      <EDID>SaugusIronworks02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Saugus Blast Furnace</Source>
+      <Dest>Vysoké pece Saugust</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancRosaHouseTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>- Exhaust manifold&#xD;
+- A completely rebuilt engine! Ay Dios Mio.&#xD;
+- Chryslus exhaust system - 2073 or later&#xD;
+- Coolant tank&#xD;
+- Seat belts&#xD;
+- Louis wants a roll cage. I don't know how fast he wants to go, but I promise him we'll at least achieve the baseline 0-60 in .5 seconds. </Source>
+      <Dest>- Výfukové rozvody&#xD;
+- Komplet repasovaný motor! Ay Dios Mio.&#xD;
+- Výfukový systém Chryslus - 2073 nebo novější&#xD;
+- Nádrž chladiče&#xD;
+- Bezpečnostní pásy&#xD;
+- Lous chce bezpečnostní rám. Nevím, jak rychle chce jezdit, ale slibuji mu, že se dostaneme minimálně na 0-100 za 6 vteřin. </Dest>
+    </String>
+    <String List="0">
+      <EDID>ShamrockTaphouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Shamrock Taphouse</Source>
+      <Dest>Pivnice Trojlístek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingGateFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requires a higher level Hacker perk.</Source>
+      <Dest>Vyžaduje vyšší úroveň Hacker perku.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SelfDestructBot</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Unarmed Bot</Source>
+      <Dest>Neozbrojený robot</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneHouseTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>"We're in the business of happiness."</Source>
+      <Dest>"Naší komoditou je štěstí."</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>7:00 pm - Drinks with Fox Company&#xD;
+&#xD;
+Go 108th!&#xD;
+&#xD;
+(Probability of us getting drunk and singing "The Snows of Anchorage" 5 times - 110%)</Source>
+      <Dest>19:00 pm - pitka s liščí rotou&#xD;
+&#xD;
+Do toho 108.!&#xD;
+&#xD;
+(Pravděpodobnost, že nás opijí a donutí pětkrát zpívat "Sněhy v Anchorage" - 110%)</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof03Hole01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryMailbox</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Mailbox</Source>
+      <Dest>Poštovní schránka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterHouseTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Dad's Files</Source>
+      <Dest>Tátovy soubory</Dest>
+    </String>
+    <String List="0">
+      <EDID>SecurityGateSmLatch01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Security Gate</Source>
+      <Dest>Bezpečnostní brána</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShawHighSchool01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Shaw High School</Source>
+      <Dest>Shawova střední škola</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof02Hole02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterHouseTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Family Terminal</Source>
+      <Dest>Rodinný terminál</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancPlayerCharacterDadSubTerminal1</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Dad</Source>
+      <Dest>Táta</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal2</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Wants Med-X. As much as I can get. Hasn't told me why, not really my business. Guessing there's some sort of long-term pain management going on. Disease?</Source>
+      <Dest>Chce Med-X. Tolik, kolik může sehnat. Neřekl mi proč, ale vlastně mi do toho nic není. Tipuji, že jde o nějaký plán na dlouhodobé zmírnění bolestí. Nemoc?</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scissors</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Scissors</Source>
+      <Dest>Nůžky</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter05B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuter05A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall and Roof</Source>
+      <Dest>Stěna a střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>SancHawthorneSubTerminal1</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Russell</Source>
+      <Dest>Russell</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackWallOuterCrnOut03C</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Wall Corner</Source>
+      <Dest>Stěna - roh</Dest>
+    </String>
+    <String List="0">
+      <EDID>SecurityBarBase02</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Latch Bar</Source>
+      <Dest>Západka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentinelSiteLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Sentinel Site</Source>
+      <Dest>Strážnice</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_NukaColaBottleFull</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Nuka Cola</Source>
+      <Dest>Nuka Cola</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_FancyLadCakes</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Fancy Lad Snack Cakes</Source>
+      <Dest>Dortíky Rozmarný mladík</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_InstaMash_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>InstaMash</Source>
+      <Dest>InstaKaše</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BottleWine01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Wine</Source>
+      <Dest>Víno</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BottleBourbon01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Bourbon</Source>
+      <Dest>Bourbon</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BlamcoMacAndCheese_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Blamco Mac and Cheese</Source>
+      <Dest>Blamco Mac se sýrem</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_PrewarFlagpoleUSA01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Flag</Source>
+      <Dest>Vlajka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ClothesFatiguesGO</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Military Fatigues</Source>
+      <Dest>Vojenská uniforma</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_SalisburySteak_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Salisbury Steak</Source>
+      <Dest>Salisburský steak</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ToyBlock03</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Toy Block</Source>
+      <Dest>Hrací kostka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ToyCar</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Toy Car</Source>
+      <Dest>Autíčko</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Camera_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Camera</Source>
+      <Dest>Fotoaparát</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BabyBottleClean01empty</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Baby Bottle</Source>
+      <Dest>Dětská lahev</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_CigarettePack_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Cigarettes</Source>
+      <Dest>Cigarety</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_watch</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Watch</Source>
+      <Dest>Hodinky</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ClothesBlueDressGO</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Blue Dress</Source>
+      <Dest>Modré šaty</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ClothesOutfitShirtGO</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Shirt</Source>
+      <Dest>Košile</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_MilkBottle</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Milk</Source>
+      <Dest>Mléko</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Holotape</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Holotape</Source>
+      <Dest>Holopáska</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ClothesOutfitSweaterVestGO</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Sweater Vest</Source>
+      <Dest>Svetrová vesta</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ToyBlock01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Toy Block</Source>
+      <Dest>Hrací kostka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ToyTeddyBearClean01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Teddy Bear</Source>
+      <Dest>Medvídek</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Baseball_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Baseball</Source>
+      <Dest>Baseball</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_AbraxoClean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Abraxo</Source>
+      <Dest>Abraxo</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BabyBottleClean02milk</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Baby Bottle</Source>
+      <Dest>Dětská lahev</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_DogBowl_Clean</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Dog Bowl</Source>
+      <Dest>Miska pro psa</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_ToyBlock04</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Toy Block</Source>
+      <Dest>Hrací kostka</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScaraTerminalKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Scara's Terminal Key</Source>
+      <Dest>Klíč k terminálu Scarové</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shelf_GroceryStore_OneSided</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shelf</Source>
+      <Dest>Polička</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_BabyBook01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>You're SPECIAL!</Source>
+      <Dest>Jsi SPECIAL!</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_GrognakApr</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grognak Comic</Source>
+      <Dest>Komiks o Grognakovi</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shelf_GroceryStore_TwoSided</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shelf</Source>
+      <Dest>Polička</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_JournalSurgical</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Science Journal</Source>
+      <Dest>Vědecký časopis</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_GrognakMar</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grognak Comic</Source>
+      <Dest>Komiks o Grognakovi</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryWorkshopResourceContainerOLD</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrapper01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrapper</Source>
+      <Dest>Šroťák</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShenleysOysterBar01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Shenley's Oyster Bar</Source>
+      <Dest>Shenleyin ústřicový bar</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShenleysOysterBarLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Shenley's Oyster Bar</Source>
+      <Dest>Shenleyin ústřicový bar</Dest>
+    </String>
+    <String List="0">
+      <EDID>SensorModule</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sensor Module</Source>
+      <Dest>Senzorický modul</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrounger03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrounger</Source>
+      <Dest>Příživník</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScienceCenterVendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Vendor</Source>
+      <Dest>Obchodník</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Shoulder Left</Source>
+      <Dest>Levé rameno</Dest>
+    </String>
+    <String List="0">
+      <EDID>SentryBotBodyPartData</EDID>
+      <REC>BPTD:BPTN</REC>
+      <Source>Shoulder Right</Source>
+      <Dest>Pravé rameno</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShaunHolotapeInst308</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Shaun's Holotape</Source>
+      <Dest>Shaunova holopáska</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrounger02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrounger</Source>
+      <Dest>Příživník</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryHills01</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Sanctuary Hills represents the latest in planned communities, and is home to a diverse range of families.</Source>
+      <Dest>Sanctuary Hills představuje moderní satelitní městěčko, které je domovem širokému spektru rodin.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrapper02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrapper</Source>
+      <Dest>Šroťák</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctACT_Diploma</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Law Diploma</Source>
+      <Dest>Právnický diplom</Dest>
+    </String>
+    <String List="0">
+      <EDID>SettlementLocationsList</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Settlement Locations List</Source>
+      <Dest>Seznam osad</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Oil_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Oil - 25</Source>
+      <Dest>Zásilka oleje - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Gears_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Gears - 25</Source>
+      <Dest>Zásilka převodů - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Circuitry_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Circuitry - 50</Source>
+      <Dest>Zásilka obvodů - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Cork_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Cork - 25</Source>
+      <Dest>Zásilka korku - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Rubber_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Rubber - 25</Source>
+      <Dest>Zásilka gumy - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Copper_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Copper - 25</Source>
+      <Dest>Zásilka mědi - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Circuitry_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Circuitry - 25</Source>
+      <Dest>Zásilka obvodů - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>Scrounger04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Scrounger</Source>
+      <Dest>Příživník</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Cloth_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Cloth - 25</Source>
+      <Dest>Zásilka tkaniny - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Aluminum_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Aluminum - 50</Source>
+      <Dest>Zásilka hliníku - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Aluminum_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Aluminum - 25</Source>
+      <Dest>Zásilka hliníku - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Glass_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Glass - 25</Source>
+      <Dest>Zásilka skla - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Adhesive_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Adhesive - 25</Source>
+      <Dest>Zásilka lepidla - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShipmentItemList</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>ShipmentItemList</Source>
+      <Dest>ShipmentItemList</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackMidRoof01B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Roof</Source>
+      <Dest>Střecha</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Fiberglass_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Fiberglass - 25</Source>
+      <Dest>Zásilka sklolaminátu - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_acid_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Acid - 25</Source>
+      <Dest>Zásilka kyseliny - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Antiseptic_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Antiseptic - 25</Source>
+      <Dest>Zásilka antiseptika - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_AntiBallisticFiber_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Ballistic Fiber - 25</Source>
+      <Dest>Zásilka balistického vlákna - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Lead_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Lead - 25</Source>
+      <Dest>Zásilka olova - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Steel_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Steel - 50</Source>
+      <Dest>Zásilka oceli - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Crystal_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Crystal - 25</Source>
+      <Dest>Zásilka křišťálu - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Fertilizer_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Fertilizer - 25</Source>
+      <Dest>Zásilka hnojiva - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Plastic_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Plastic - 25</Source>
+      <Dest>Zásilka plastu - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Wood_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Wood - 100</Source>
+      <Dest>Zásilka dřeva - 100</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Adhesive_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Adhesive - 50</Source>
+      <Dest>Zásilka lepidla - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Wood_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Wood - 50</Source>
+      <Dest>Zásilka dřeva - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Asbestos_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Asbestos - 25</Source>
+      <Dest>Zásilka azbestu - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_NuclearMaterial_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Nuclear Material - 25</Source>
+      <Dest>Zásilka jaderného materiálu - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShackBridgeFree02_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge 01</Source>
+      <Dest>Mostek 01</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Leather_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Leather - 25</Source>
+      <Dest>Zásilka kůže - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Concrete_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Concrete - 50</Source>
+      <Dest>Zásilka betonu - 50</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Ceramic_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Ceramic - 25</Source>
+      <Dest>Zásilka keramiky - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Screws_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Screws - 25</Source>
+      <Dest>Zásilka šroubů - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Steel_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Steel - 100</Source>
+      <Dest>Zásilka oceli - 100</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Gold_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Gold - 25</Source>
+      <Dest>Zásilka zlata - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Silver_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Silver - 25</Source>
+      <Dest>Zásilka stříbra - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Springs_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Springs - 25</Source>
+      <Dest>Zásilka pružin - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>shipment_Fiberoptics_small</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Fiber Optics - 25</Source>
+      <Dest>Zásilka optických vláken - 25</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchá</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shishkebab</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan_Postwar_Cheap03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan02_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SandbagWall01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sandbag Wall</Source>
+      <Dest>Zeď z pytlů s pískem</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood01_Brkn</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood02_Ramp</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan04_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryMailboxStand</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mailbox Stand</Source>
+      <Dest>Stojan na poštovní schránku</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood02_Brkn</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan_Postwar_Cheap02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan03_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan_Postwar_Cheap01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>SandbagWallNoSkirt01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sandbag Wall</Source>
+      <Dest>Zeď z pytlů s pískem</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shack_Single_Plywood01_Ramp</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Plywood</Source>
+      <Dest>Překližka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan01_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>SanctuaryMailboxStatic_UseSparingly</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mailbox</Source>
+      <Dest>Poštovní schránka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan_Postwar_Cheap04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingRejected</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Entry denied.</Source>
+      <Dest>Vstup odepřen.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCannotScrap</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This item cannot be scrapped.</Source>
+      <Dest>Tento předmět nemůže být sešrotován.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingDudRemoved</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Dud Removed.</Source>
+      <Dest>Odstraněno.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingTriesReset</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Tries Reset.</Source>
+      <Dest>Pokusy resetovány.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sExitWorkbenchMenu</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Exit Station?</Source>
+      <Dest>Opustit pracoviště?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultEmotionalState</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AnimFaceArchetypeNeutral</Source>
+      <Dest>AnimFaceArchetypeNeutral</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressDisplayMiss</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Miss</Source>
+      <Dest>slečno</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantFindQuickLoad</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No quicksave found.</Source>
+      <Dest>Nebylo nalezeno žádné rychlé uložení.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDisram</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingAccepted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Password Accepted.</Source>
+      <Dest>Heslo přijato.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEffectsListDisplaySecsShort</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>s</Source>
+      <Dest>s</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipPA</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must be in Power Armor to equip this.</Source>
+      <Dest>Pro použití tohoto předmětu musíš být v energozbroji.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEjectTape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eject Holotape</Source>
+      <Dest>Vysunout holopásku</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantPlaceItemInContainer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot store that here.</Source>
+      <Dest>Toto zde nemůžeš uschovat.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantFavoriteItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot favorite that item.</Source>
+      <Dest>Tento předmět nelze přidat do oblíbených.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressFileMr</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mister</Source>
+      <Dest>pane</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDialogResponseNegative</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Negative</Source>
+      <Dest>Negativní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickTerminal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This is opened with a terminal.</Source>
+      <Dest>Toto se otvírá přes terminál.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipNonPA</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot equip this while in Power Armor.</Source>
+      <Dest>Tento předmět není možné použít v energozbroji.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipAttackCondition</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cannot equip weapon, your arm is damaged.</Source>
+      <Dest>S poškozenou rukou nemůžeš zbraň použít.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sEnterNameGeneric</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enter name.</Source>
+      <Dest>Zadej jméno.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingLikeness</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Likeness=%d</Source>
+      <Dest>Podobnost=%d</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDialogResponseNeutral</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Neutral</Source>
+      <Dest>Neutrální</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConfirmExitWorkshopMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to exit Workshop mode?</Source>
+      <Dest>Chceš opustit dílenský režim?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickInaccessible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This cannot be opened.</Source>
+      <Dest>Toto nejde otevřít.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressDisplayMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sir</Source>
+      <Dest>pane</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingLockout</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Init Lockout</Source>
+      <Dest>Zahájit uzamčení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDialogResponsePositive</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Positive</Source>
+      <Dest>Pozitivní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackIneligible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>A %s skill of %d is required to hack this terminal.</Source>
+      <Dest>Dovednost %s musí být na úrovni %d, jinak tento terminál nenabouráš.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCannotRepairMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the requirements to repair this item.</Source>
+      <Dest>Na opravu tohoto předmětu nemáš dostatek materiálu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sAutoLockPickNoKey</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This is unlocked elsewhere.</Source>
+      <Dest>Toto se odemyká odjinud.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingKeyOnly</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s needed for terminal.</Source>
+      <Dest>Pro přístup k terminálu potřebuješ %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sContainerActivate</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>[$OWNER]'s [$CONTAINER]</Source>
+      <Dest>[$CONTAINER] ([$OWNER])</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHackingError</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Error</Source>
+      <Dest>Chyba</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressFileMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sir</Source>
+      <Dest>pane</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantExitPowerArmor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't exit your armor here.</Source>
+      <Dest>Na tomto místě nelze vylézt z energozbroje.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCannotBuildMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the requirements to create this item.</Source>
+      <Dest>Na vytvoření tohoto předmětu nemáš dostatek materiálu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressDisplayMr</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mister</Source>
+      <Dest>pane</Dest>
+    </String>
+    <String List="0">
+      <EDID>sCantEquipMods</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mods can only be attached at a workbench.</Source>
+      <Dest>Úpravy je možné provádět pouze u dílenského stolu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDefaultPlayerAddressFileMiss</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Miss</Source>
+      <Dest>slečno</Dest>
+    </String>
+    <String List="0">
+      <EDID>sDialogResponseQuestion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Question</Source>
+      <Dest>Otázka</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sedan_Postwar_Cheap01_GREYGARDEN</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0">
+      <EDID>sConfirmContainerTakeAll</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to take all?</Source>
+      <Dest>Opravdu chceš vzít vše?</Dest>
+    </String>
+    <String List="1">
+      <EDID>Science03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 3 high-tech mods.</Source>
+      <Dest>Získej přístup k high-tech úpravám 3. úrovně.</Dest>
+    </String>
+    <String List="1">
+      <EDID>SentryBotMaxHeatLevel</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>The Maximum Heat Level for SentryBot</Source>
+      <Dest>The Maximum Heat Level for SentryBot</Dest>
+    </String>
+    <String List="1">
+      <EDID>Science04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 4 high-tech mods.</Source>
+      <Dest>Získej přístup k high-tech modifikacím 4. úrovně.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Science02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 2 high-tech mods.</Source>
+      <Dest>Získej přístup k high-tech úpravám 2. úrovně.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Science01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Take full advantage of advanced technology with access to base level and Rank 1 high-tech mods.</Source>
+      <Dest>Získej všechny výhody pokročilých technologií s přístupem k high-tech úpravám na základní a 1. úrovni. </Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrounger01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You know just how to scavenge to keep the fight going, and find more ammunition in containers.</Source>
+      <Dest>Víš jak správně prohledávat smetí, abys nemusel utíkat z bitvy a nacházel více munice v různých kontejnerech.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrapper01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Waste not, want not! You can salvage uncommon components like screws, aluminum, and copper when scrapping weapons and armor.</Source>
+      <Dest>Neplýtvat, nepotřebovat! Při sešrotování zbraní nebo zbroje můžeš získat neobvyklé komponenty, jako jsou šrouby, hliník a měď.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrounger03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more ammunition in containers.</Source>
+      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrounger02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more ammunition in containers.</Source>
+      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrapper02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You can salvage rare components like circuitry, nuclear material, and fiberoptics when scrapping weapons and armor. Items with favorited components are highlighted.</Source>
+      <Dest>Při sešrotování zbraní nebo zbroje můžeš získat cenné komponenty, jako jsou obvody, jaderný materiál nebo optická vlákna. Předměty obsahující hledané komponenty jsou zvýrazněné.</Dest>
+    </String>
+    <String List="1">
+      <EDID>Scrounger04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more ammunition in containers.</Source>
+      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
