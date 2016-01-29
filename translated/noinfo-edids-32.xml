@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>sMenuDisplayPlayTime</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Play Time</Source>
+      <Dest>Odehraný čas</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameAverage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Advanced</Source>
+      <Dest>Pokročilý</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastRangedUnderwater</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot cast ranged spells underwater.</Source>
+      <Dest>You cannot cast ranged spells underwater.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastPowerUsed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Powers can only be used once a day.</Source>
+      <Dest>Powers can only be used once a day.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameVeryHard</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Master</Source>
+      <Dest>Nejtěžší</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeVoicePower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Voice Power</Source>
+      <Dest>Síla hlasu</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Low</Source>
+      <Dest>Nízké</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayQuicksaveName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quicksave</Source>
+      <Dest>Rychlé uložení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayNewSave</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New Save</Source>
+      <Dest>Nová uložená pozice</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastShoutWhileCasting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot shout while casting a spell.</Source>
+      <Dest>You cannot shout while casting a spell.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLearningEnchantments</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Learning Enchantments</Source>
+      <Dest>Učení očarování</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidaySecondPlanting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Second Planting</Source>
+      <Dest>Druhé setí</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemCreateLock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Create</Source>
+      <Dest>Vyrobit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnhanceWeaponNoWeapon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must have a weapon drawn.</Source>
+      <Dest>Musíš mít vytasenou zbraň.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastCastWhileShouting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot cast a spell while shouting.</Source>
+      <Dest>You cannot cast a spell while shouting.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLoadingContentMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Loading extra content. Please wait.</Source>
+      <Dest>Načítá se další obsah. Prosím čekej.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLoadingArea</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Loading area...</Source>
+      <Dest>Načítám oblast...</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayTalesAndTallows</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Tales and Tallows</Source>
+      <Dest>Příběhy a svíčky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemSecondsPlural</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>secs</Source>
+      <Dest>sek.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemRestore</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Restore</Source>
+      <Dest>Obnovit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagnitudeText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Magnitude</Source>
+      <Dest>Velikost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicProjectileTypeSpray</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Spray</Source>
+      <Dest>Sprška</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIllusion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ILLUSION</Source>
+      <Dest>ILUZE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicFireAndForget</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fire and Forget</Source>
+      <Dest>Naváděná střela</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicConstantEffect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Constant Effect</Source>
+      <Dest>Stálý účinek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Damage</Source>
+      <Dest>Poškození</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemPercent</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%</Source>
+      <Dest>%</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameImpossible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requires Key</Source>
+      <Dest>Vyžaduje klíč</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectResisted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s is too powerful for %s.</Source>
+      <Dest>%s má vysokou odolnost. %s nepůsobí.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMapMarkerAdded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Map updated.</Source>
+      <Dest>Mapa aktualizována.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicConcentration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Concentration</Source>
+      <Dest>Koncentrace</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockBroken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The lock has been broken.</Source>
+      <Dest>Zámek je vylomen.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLevelAbbrev</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Level</Source>
+      <Dest>Úroveň</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeSpell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Spell</Source>
+      <Dest>Kouzlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sKeys</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>KEYS</Source>
+      <Dest>KLÍČE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sImprovement</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Improvement</Source>
+      <Dest>Vylepšení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMedium</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Medium</Source>
+      <Dest>Střední</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIngredient</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ingredient</Source>
+      <Dest>Přísada</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSchoolDestruction</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Destruction</Source>
+      <Dest>Destruction</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicProjectileTypeFog</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fog</Source>
+      <Dest>Mlha</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypePower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Power</Source>
+      <Dest>Vrozená schopnost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeLesserPower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Lesser Power</Source>
+      <Dest>Nižší moc</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeAbility</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ability</Source>
+      <Dest>Schopnost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemUpToLevel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>up to level</Source>
+      <Dest>až do úrovně</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemFeet</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ft</Source>
+      <Dest>stop</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLevelProgress</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Level Progress</Source>
+      <Dest>Postup na další úroveň</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemTooHeavy</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The item is too heavy to carry.</Source>
+      <Dest>Tento předmět je příliš těžký.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemLock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Lock</Source>
+      <Dest>Zámek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sJunk</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Junk</Source>
+      <Dest>Veteš</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayDayString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Day</Source>
+      <Dest>Den</Dest>
+    </String>
+    <String List="0">
+      <EDID>sJourneymanDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Average</Source>
+      <Dest>Běžná</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeLevelled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Levelled Spell</Source>
+      <Dest>Kouzlo vylepšeno</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliveryTargetActor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Target Actor</Source>
+      <Dest>Cílová postava</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayOldLifeFestival</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Old Life Festival</Source>
+      <Dest>Staré slavnosti života</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnchantmentTypeScroll</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scroll</Source>
+      <Dest>Svitek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLocked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Locked</Source>
+      <Dest>Zamčeno</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSchoolRestoration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Restoration</Source>
+      <Dest>Restoration</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnchantmentTypeWeapon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weapon</Source>
+      <Dest>Zbraň</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeWortcraft</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wortcraft</Source>
+      <Dest>Slovo-um</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayXBoxSaveMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Saving content. Please don't turn off your console.</Source>
+      <Dest>Probíhá ukládání. Prosím nevypínej konzoli.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnchantmentTypeApparel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Apparel</Source>
+      <Dest>Výstroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypePotion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Potion</Source>
+      <Dest>Lektvar</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicProjectileTypeBall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ball</Source>
+      <Dest>Koule</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemPointsPlural</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>pts</Source>
+      <Dest>bodů</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemFortify</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fortify</Source>
+      <Dest>Posílení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagnitudeIsLevelText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Target Level</Source>
+      <Dest>Úroveň cíle</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypePoison</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Poison</Source>
+      <Dest>Jed</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayWitchesFestival</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Witches' Festival</Source>
+      <Dest>Slavnosti čarodějek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemPointsSingular</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>pt</Source>
+      <Dest>bod</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicProjectileTypeBolt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Bolt</Source>
+      <Dest>Blesk</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchantment</Source>
+      <Dest>Očarování</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnchantmentTypeStaff</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Staff</Source>
+      <Dest>Hůl</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameHard</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Expert</Source>
+      <Dest>Těžký</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInaccessible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>[INACCESSIBLE]</Source>
+      <Dest>[NEPŘÍSTUPNÉ]</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastMultiCast</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot cast this spell while casting another.</Source>
+      <Dest>You cannot cast this spell while casting another.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscPlayerDeadMenuOption</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Main Menu</Source>
+      <Dest>Hlavní nabídka</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemOn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>on</Source>
+      <Dest>zapnuto</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMisc</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>MISC</Source>
+      <Dest>RŮZNÉ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemFor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>for</Source>
+      <Dest>pro</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliveryAimed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Aimed</Source>
+      <Dest>Zacíleno</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeAddiction</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Addiction</Source>
+      <Dest>Závislost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIngredients</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>INGREDIENTS</Source>
+      <Dest>PŘÍSADY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSchoolAlteration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Alteration</Source>
+      <Dest>Alteration</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliveryStrike</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Strike</Source>
+      <Dest>Úder</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemIn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>in</Source>
+      <Dest>v</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscConstantEffect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Constant Effect</Source>
+      <Dest>Stálý účinek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliverySelf</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Self</Source>
+      <Dest>Osobní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeStaffEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Staff Enchantment</Source>
+      <Dest>Očarování hole</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIngredientFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ingredient had no effect.</Source>
+      <Dest>Přísada neměla žádný účinek.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTelekinesisNoRecast</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You're already holding something.</Source>
+      <Dest>Již něco držíš.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameEasy</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Novice</Source>
+      <Dest>Lehký</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemSecondsSingular</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sec</Source>
+      <Dest>sek.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sKnownEffects</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Known Effects</Source>
+      <Dest>Známé účinky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLoadFromMainMenu</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to load this game?</Source>
+      <Dest>Opravdu chceš načíst tuto hru?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidaySunsRest</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sun's Rest</Source>
+      <Dest>Sluneční klid</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLostController</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The controller has been disconnected. Click OK to use the Keyboard/Mouse, or reconnect the controller and press the A Button.</Source>
+      <Dest>Ovladač byl odpojen. Stiskněte OK pro použití klávesnice / myši, nebo připojte ovladač zpět a stikněte tlačítko A.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeScroll</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scroll</Source>
+      <Dest>Svitek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMaster</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Master</Source>
+      <Dest>Nejtěžší</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicTypeDisease</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Disease</Source>
+      <Dest>Nemoc</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLoadWhilePlaying</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to load this game?  All unsaved progress will be lost.</Source>
+      <Dest>Určitě chceš načíst tuto hru? Veškerý neuložený postup bude ztracen.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscQuestName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInvalidPickpocket</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot place items in a container while pickpocketing.</Source>
+      <Dest>Při kapsářství nemůžeš vkládat věci zpět.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliveryTargetLocation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Target Location</Source>
+      <Dest>Umístění cíle</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSchoolIllusion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Illusion</Source>
+      <Dest>Illusion</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayNoSaves</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No saved games.</Source>
+      <Dest>Žádné uložené pozice.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sImperial</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>IMPERIAL</Source>
+      <Dest>IMPERIAL</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockpickInsufficientPerks</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required perk to pick this lock.</Source>
+      <Dest>Pro odemčení tohoto zámku nemáš požadovaný perk.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscPlayerDeadMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Reloading the most recent save game.</Source>
+      <Dest>Načítám poslední uloženou pozici.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayLevelString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Level</Source>
+      <Dest>Úroveň</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Item</Source>
+      <Dest>Předmět</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscPlayerDeadLoadOption</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Reload</Source>
+      <Dest>Znovu načíst</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemAbsorb</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Absorb</Source>
+      <Dest>Pohlcuje</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplaySave</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Save</Source>
+      <Dest>Pozice</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSchoolConjuration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Conjuration</Source>
+      <Dest>Conjuration</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastInsufficientMagicka</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You don't have enough Magicka.</Source>
+      <Dest>You don't have enough Magicka.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayUnknownLocationString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Unknown Location</Source>
+      <Dest>Neznámá lokace</Dest>
+    </String>
+    <String List="0">
+      <EDID>sJourneyman</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Common</Source>
+      <Dest>Běžná</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayShortXBoxSaveMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Saving...</Source>
+      <Dest>Ukládání...</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicDeliveryTouch</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Contact</Source>
+      <Dest>Dotek</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicCastInsufficientItemCharge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your item has insufficient charge.</Source>
+      <Dest>Your item has insufficient charge.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMasterDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Very Hard</Source>
+      <Dest>Velmi těžká</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidaySouthWindsPrayer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>South Wind's Prayer</Source>
+      <Dest>Modlitba jižního větru</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolidayWarriorsFestival</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Warrior's Festival</Source>
+      <Dest>Slavnosti válečníků</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLearn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Learn</Source>
+      <Dest>Naučit se</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLoading</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Loading...</Source>
+      <Dest>Načítám...</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDisplayAutosaveName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Autosave</Source>
+      <Dest>Automatické ukládání</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInsufficientGoldToTrain</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have insufficient gold to train.</Source>
+      <Dest>Pro další trénink nemáš dostatek zlata.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sImpossibleLock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This lock cannot be picked. It requires a key to open.</Source>
+      <Dest>Tento zámek není možné odemknout. Potřebuješ klíč.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEnhanceWeaponWeaponEnchanted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your current weapon is already enchanted.</Source>
+      <Dest>Tvá zbraň je již očarována.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLarge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Large</Source>
+      <Dest>Obrovský</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIgnoreText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ignore</Source>
+      <Dest>Ignorovat</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectItemDrain</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Drain</Source>
+      <Dest>Vysátí</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLevelUpAvailable</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've leveled up! Pick a new perk in the Pip-Boy.</Source>
+      <Dest>Dosáhl jsi nové úrovně. Vyber si nový perk ve svém Pip-Boyovi.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLackRequiredToCreate</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required components to create this item.</Source>
+      <Dest>Pro vytvoření tohoto předmětu ti chybí potřebné komponenty.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLackRequiredToImprove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required components to improve this item.</Source>
+      <Dest>Pro vylepšení tohoto předmětu ti chybí potřebné komponenty.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicEffectNotApplied</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s resisted %s.</Source>
+      <Dest>%s odolává účinku %s.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLeather</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LEATHER</Source>
+      <Dest>KŮŽE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sIron</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>IRON</Source>
+      <Dest>ŽELEZO</Dest>
+    </String>
+    <String List="0">
+      <EDID>sJewelry</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>JEWELRY</Source>
+      <Dest>ŠPERKY</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLackRequiredPerksToImprove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required perks to improve this item</Source>
+      <Dest>Pro vylepšení tohoto předmětu nemáš požadovaný perk</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemTooExpensive</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You don't have enough gold.</Source>
+      <Dest>Nemáš dostatek zlata.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLackRequiredSkillToImprove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required skill to improve this item.</Source>
+      <Dest>Pro vylepšení tohoto předmětu nemáš požadovanou schopnost.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLackRequiredPerkToImproveMagical</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the perk to improve magical items.</Source>
+      <Dest>Nemáš perk pro vylepšování magických předmětů.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicGuideNoPath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No direct path seen.</Source>
+      <Dest>Žádná přímá cesta.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicGuideNoMarker</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No active quest.</Source>
+      <Dest>Žádný aktivní úkol.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DAMAGE</Source>
+      <Dest>POŠKOZENÍ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDArmorRating</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ARMOR RATING</Source>
+      <Dest>KVALITA ZBROJE</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDFailed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Failed</Source>
+      <Dest>Neúspěšný</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDStarted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Started</Source>
+      <Dest>Začátek:</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Completed</Source>
+      <Dest>Dokončeno:</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlocumsJoeHQLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Slocum's Joe Corporate HQ</Source>
+      <Dest>Ředitelství Slovumových koblih</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0">
+      <EDID>SilverLocket</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Silver Locket</Source>
+      <Dest>Stříbrný medailon</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>Shovel01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shovel</Source>
+      <Dest>Lopata</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunter</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1teleportTest</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1teleportTest</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0">
+      <EDID>SMChairInvSit01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>Křeslo</Dest>
+    </String>
+    <String List="0">
+      <EDID>Simone</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Simone</Source>
+      <Dest>Simone</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Sledgehammer</Source>
+      <Dest>Perlík</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkylanesFlight1981MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Skylanes Flight 1981</Source>
+      <Dest>Skylanes let 1981</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1teleportTest</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkylanesFlightLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Skylanes Flight 1981</Source>
+      <Dest>Skylanes let 1981</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlocumsJoeCorporateHQMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Slocum's Joe Corporate HQ</Source>
+      <Dest>Ředitelství Slovumových koblih</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinSynthGen1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShoppingBasket</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shopping Basket</Source>
+      <Dest>Nákupní košík</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShotGlass01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shot Glass</Source>
+      <Dest>Panák</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkylanesMoneyMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>$2500 Cash</Source>
+      <Dest>$2500 hotovost</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkylanesDashMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>-</Source>
+      <Dest>-</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkGlowingKing</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deep King</Source>
+      <Dest>Hlubinný král</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkDeepKing</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deep King</Source>
+      <Dest>Hlubinný král</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <EDID>SkeetoSpit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Skeeto Spit</Source>
+      <Dest>Skeeto Spit</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignEmployeesOnly01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRestroomWashHands01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignHardwareElectrical</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRestroomMale01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRestroom02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRestroomFemale01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignEmployeesHandWash01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignHardwareTools</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRestricted01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignHardwarePlumbing</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignNoSmoking01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLevelUpPromptText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hold [Pipboy] to open Perk chart.</Source>
+      <Dest>Podrž [Pipboy] pro otevření přehledu perků.</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterDirt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterSandRock</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterNestMud</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterWater</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterCaveMud</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignOutOfOrder</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SmallShrapnelProjectileChild</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Shrapnel Projectile</Source>
+      <Dest>Střepina</Dest>
+    </String>
+    <String List="0">
+      <EDID>SiltBean</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Silt Bean</Source>
+      <Dest>Červené fazole</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShoppingCart01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Shopping Cart</Source>
+      <Dest>Nákupní vozík</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlocumsJoeHQOffice</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Slocum's Joe Offices</Source>
+      <Dest>Kanceláře Slocumových koblih</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTime</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Slow Time</Source>
+      <Dest>Zpomalení času</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkKingDirt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkKing</Source>
+      <Dest>MirelurkKing</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkKingWater</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkKing</Source>
+      <Dest>MirelurkKing</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTimeEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Slow Time</Source>
+      <Dest>Zpomalení času</Dest>
+    </String>
+    <String List="0">
+      <EDID>SkinMirelurkHunterGlow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>MirelurkHunter</Source>
+      <Dest>MirelurkHunter</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTimeChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Chem: Slow Time</Source>
+      <Dest>Chemikálie: Zpomalení času</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTimeChem</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Slows time for &lt;dur&gt; seconds.</Source>
+      <Dest>Zpomalí čas na &lt;dur&gt; vteřin.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sledgehammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchá</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoPark_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoEnter02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_WrongWay02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Ped01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowR03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR102</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowL03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoPark03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Ped03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Park01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Metro01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad25MPH01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_StreetGen02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Metro03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SinkBroken02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sink</Source>
+      <Dest>Dřez</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_DeadEnd02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoPark02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_StreetGen_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR101</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_PostTall02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_WrongWay03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Park02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowL01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoPark01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoTruck01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Ped02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowR02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoEnter_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_DeadEnd03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_WrongWay01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoadConcord01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoTruck_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Metro_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Metro02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Caution02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoTruck03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoTruck02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SinkBroken01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sink</Source>
+      <Dest>Dřez</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowR01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_DeadEnd_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Park03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Park_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_DeadEnd01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Ped_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Arrow_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Caution_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_StreetGen03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH25_01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH75_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_PostTall01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_ArrowL02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Caution03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoRight01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_WrongWay_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>ShoppingCart01Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shopping Cart</Source>
+      <Dest>Nákupní vozík</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Caution01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_StreetGen01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoEnter03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveRight_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayR02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoLeft_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_NoEnter01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Yield_NoPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_RR_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnLeft01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_CurveLeft02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_Stop02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_OneWayL_NoPost01Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_MPH45_03Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignRoad_TurnRight02Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameTerminal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requires Terminal</Source>
+      <Dest>Vyžaduje terminál</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignalStrengthMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Courser Signal Strength - %f%%</Source>
+      <Dest>Síla signálu Lovce - %f%%</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignSmallEngineRepair</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>SignNoTrespassingGovtProperty</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>sign</Source>
+      <Dest>cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sign_DontFeedTheBears01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>Sign_DontFeedTheBears02</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMMQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Minutemen Quests Completed</Source>
+      <Dest>Splněné úkoly Minutemanů</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatAssaults</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Assaults</Source>
+      <Dest>Napadení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyHourAbbreviation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>h</Source>
+      <Dest>h</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyDayAbbreviation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>d</Source>
+      <Dest>d</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMiscObjectivesCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Misc Objectives Completed</Source>
+      <Dest>Splněné úkoly Různé</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerWeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weight</Source>
+      <Dest>Hmotnost</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <EDID>sHUDCommandRide</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ride</Source>
+      <Dest>Ride</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameBarred</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Barred</Source>
+      <Dest>Zablokovaný</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPocketsPicked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Pockets Picked</Source>
+      <Dest>Vybrané kapsy</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPantsExploded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Pants Exploded</Source>
+      <Dest>Odpálené spoďáry</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatParalyzingPunches</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Paralyzing Punches</Source>
+      <Dest>Omračující údery</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDDrink</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>WATER&#xD;
+DRINK</Source>
+      <Dest>PITÍ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatDungeonsCleared</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Locations Cleared</Source>
+      <Dest>Vyčištěné lokace</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardCharge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>charge</Source>
+      <Dest>náboj</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerArmor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DR</Source>
+      <Dest>ODZ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigameAtomicCommand</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSAtomicCommand</Source>
+      <Dest>HSAtomicCommand</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigameZetaInvaders</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSZetaInvaders</Source>
+      <Dest>HSZetaInvaders</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFusionCoresConsumed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fusion Cores Used</Source>
+      <Dest>Použitá fúzní jádra</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPeopleKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>People Killed</Source>
+      <Dest>Zabití lidé</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatHoursWaiting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hours Waiting</Source>
+      <Dest>Prochozené hodiny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandDrink</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Drink Water</Source>
+      <Dest>Napij se</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameChained</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chained</Source>
+      <Dest>Připoutaný</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInvalidTagString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>[...]</Source>
+      <Dest>[...]</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMainQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Main Quests Completed</Source>
+      <Dest>Splněné hlavní úkoly</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatBoSQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brotherhood of Steel Quests Completed</Source>
+      <Dest>Splněné úkoly Bratrstva oceli</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardACC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>acc</Source>
+      <Dest>pře</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFoodCooked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Food Cooked</Source>
+      <Dest>Uvařené jídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyMinuteAbbreviation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>m</Source>
+      <Dest>m</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatInstQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Institute Quests Completed</Source>
+      <Dest>Splněné úkoly Institutu</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRadXTaken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Rad-X Taken</Source>
+      <Dest>Použité Rad-X</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHolotape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Holotape</Source>
+      <Dest>Holopáska</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatCorpsesEaten</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Corpses Eaten</Source>
+      <Dest>Sežrané mrtvoly</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatCapsFound</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Caps Found</Source>
+      <Dest>Nalezené zátky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandFollow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Follow</Source>
+      <Dest>Následuj</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatChestsLooted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chests Looted</Source>
+      <Dest>Vybrané bedny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardCND</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>cnd</Source>
+      <Dest>stav</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyHours</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> hours</Source>
+      <Dest> hod.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandRetrieve</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Get</Source>
+      <Dest>Přines</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatChemsTaken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chems Taken</Source>
+      <Dest>Použité chemikálie</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandAssign</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Assign</Source>
+      <Dest>Přiřadit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardROF</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ROF</Source>
+      <Dest>KAD</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerMoney</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Caps</Source>
+      <Dest>Zátky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardStolen</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>stolen</Source>
+      <Dest>kradený</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardAMMO</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ammo</Source>
+      <Dest>munice</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDXP</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>XP</Source>
+      <Dest>ZK</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFood</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Food</Source>
+      <Dest>Jídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyDays</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> days</Source>
+      <Dest> d.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDLevelUp</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LEVEL UP!</Source>
+      <Dest>NOVÁ ÚROVEŇ!</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatChemsCrafted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chems Crafted</Source>
+      <Dest>Vytvořené chemikálie</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMurders</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Murders</Source>
+      <Dest>Vraždy</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMostCapsCarried</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Most Caps Carried</Source>
+      <Dest>Největší hotovost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandInspect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Inspect</Source>
+      <Dest>Prozkoumej</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatBuildings</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Buildings</Source>
+      <Dest>Budovy</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockpickingCaught</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've been caught lockpicking. The owner is now hostile.</Source>
+      <Dest>Byl jsi přichicen. Majitel je nyní nepřátelský.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardDR</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>dr</Source>
+      <Dest>odz</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatCreaturesKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Creatures Killed</Source>
+      <Dest>Zabité stvůry</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatSandmanKills</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sandman Kills</Source>
+      <Dest>Zabití pana Hajaji</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMenuDispalyMinutes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> minutes</Source>
+      <Dest> min.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatLocksPicked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Locks Picked</Source>
+      <Dest>Otevřené zámky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerMoneySingularLabel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>cap</Source>
+      <Dest>zátka</Dest>
+    </String>
+    <String List="0">
+      <EDID>sLockLevelNameinaccessible</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Inaccessible</Source>
+      <Dest>Nedostupný</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardRNG</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>rng</Source>
+      <Dest>dos</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRobotsKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Robots Killed</Source>
+      <Dest>Zabití roboti</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatDaysPassed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Days Passed</Source>
+      <Dest>Uplynulé dny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandHeal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stimpak</Source>
+      <Dest>Stimpak</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMysteriousStrangerVisits</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mysterious Stranger Visits</Source>
+      <Dest>Návštěvy tajemného cizince</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPeople</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>People</Source>
+      <Dest>Lidé</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRobotsDisabled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Robots Hacked</Source>
+      <Dest>Vyřazení roboti</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigameGrognak</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSGrognak</Source>
+      <Dest>HSGrognak</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardMax</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Max %s</Source>
+      <Dest>Max. %s</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInvestedInStore</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've invested in this store.</Source>
+      <Dest>Investoval jsi do tohoto obchodu.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRadAwayTaken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>RadAway Taken</Source>
+      <Dest>Použité RadAway</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardAR</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>dr</Source>
+      <Dest>odz</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInvestConfirm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Invest %u caps?</Source>
+      <Dest>Investovat %u zátek?</Dest>
+    </String>
+    <String List="0">
+      <EDID>sImmortalModeDeath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player would have died.</Source>
+      <Dest>Hráč by zemřel.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandCall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Command</Source>
+      <Dest>Vydat příkaz</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandInspectChair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sit</Source>
+      <Dest>Sedni</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatJunkCollected</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Junk Collected</Source>
+      <Dest>Posbíraná veteš</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatItemsStolen</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Items Stolen</Source>
+      <Dest>Ukradené předměty</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatArmorImproved</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Armor Mods Crafted</Source>
+      <Dest>Sestrojené úpravy zbroje</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardVAL</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>val</Source>
+      <Dest>hod</Dest>
+    </String>
+    <String List="0">
+      <EDID>sKinectCantInit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The Kinect Sensor has failed to initialize. Voice commands have been disabled. Ensure that your Kinect Sensor is connected and updated.</Source>
+      <Dest>Kinect senzor se nepodařilo načíst. Hlasové ovládání bylo vypnuto. Ujisti se, že je Kinect senzor připojen a updatován.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRRQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Railroad Quests Completed</Source>
+      <Dest>Splněné úkoly Železnice</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPlantsHarvested</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Plants Harvested</Source>
+      <Dest>Sklizené plody</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatBobbleheadsCollected</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Bobbleheads Collected</Source>
+      <Dest>Nalezené Bambulky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMagicSlowTimeNoRecast</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Time is already slowed.</Source>
+      <Dest>Čas je již zpomalený.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatPower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Power</Source>
+      <Dest>Energie</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quests Completed</Source>
+      <Dest>Splněné úkoly</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinesDisarmed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mines Disarmed</Source>
+      <Dest>Zneškodněné miny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFoodEaten</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Food Eaten</Source>
+      <Dest>Zkonzumované jídlo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFatmanDeaths</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fatman Deaths</Source>
+      <Dest>Smrt Tlusťochem</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardWT</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>wt</Source>
+      <Dest>hmo</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatCriticalStrikes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Critical Strikes</Source>
+      <Dest>Kritické zásahy</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigameJangles</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSJangles</Source>
+      <Dest>HSJangles</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerMoneySingularList</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Bottle Cap</Source>
+      <Dest>Zátka od lahve</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Attack</Source>
+      <Dest>Zaútoč</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigamePipfall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSPipfall</Source>
+      <Dest>HSPipfall</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDRads</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>RADS</Source>
+      <Dest>RAD.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandEnter</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enter</Source>
+      <Dest>Nastoupit</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatMinigameRedMenace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HSRedMenace</Source>
+      <Dest>HSRedMenace</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatComputersHacked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Computers Hacked</Source>
+      <Dest>Nabourané počítače</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatBackstabs</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Backstabs</Source>
+      <Dest>Podpásovky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandMove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Go</Source>
+      <Dest>Jdi</Dest>
+    </String>
+    <String List="0">
+      <EDID>sKinectAllyTooFarToTrade</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your follower is too far to trade with.</Source>
+      <Dest>Tvůj společník je příliš daleko na to, abys s ním mohl obchodovat.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatItemsScrapped</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Items Scrapped</Source>
+      <Dest>Sešrotované předměty</Dest>
+    </String>
+    <String List="0">
+      <EDID>sKinectNotCalibrated</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your Kinect Sensor has not been calibrated. Voice commands have been disabled. Please use the Kinect Tuner to calibrate your Kinect Sensor.</Source>
+      <Dest>Tvůj Kinect senzor není zkalibrován. Hlasové ovládání bylo vypnuto. Prosím použij Kinect Tuner pro správné zkalibrování Kinect senzoru.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDCommandStay</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stay</Source>
+      <Dest>Zůstaň</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatHoursSlept</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hours Slept</Source>
+      <Dest>Naspané hodiny</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatHappiness</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Happiness</Source>
+      <Dest>Spokojenost</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatAnimalsKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Animals Killed</Source>
+      <Dest>Zabitá zvířata</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatLocationsDiscovered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Locations Discovered</Source>
+      <Dest>Objevené lokace</Dest>
+    </String>
+    <String List="0">
+      <EDID>sItemCardDMG</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>dmg</Source>
+      <Dest>poš</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatObjectsBuilt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Objects Built</Source>
+      <Dest>Sestavené objekty</Dest>
+    </String>
+    <String List="0">
+      <EDID>sInventoryPlayerDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Damage</Source>
+      <Dest>Poškození</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTimeJet</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Jet: Slow Time</Source>
+      <Dest>Jet: Zpomalení času</Dest>
+    </String>
+    <String List="0">
+      <EDID>SlowTimeJet</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Slows time for &lt;dur&gt; seconds.</Source>
+      <Dest>Zpomalí čas na &lt;dur&gt; vteřin.</Dest>
+    </String>
+    <String List="0">
+      <EDID>sHUDFailed_UpperCase</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>FAILED</Source>
+      <Dest>NEÚSPĚŠNÝ</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFourLeafClovers</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Four Leaf Clovers</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatGrandSlams</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Grand Slams</Source>
+      <Dest>Velkolepé odpaly</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatCoresEjected</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cores Ejected</Source>
+      <Dest>Vysunutá jádra</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatRicochets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ricochets</Source>
+      <Dest>Odražené střely</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatInvestmentsMade</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Investments Made</Source>
+      <Dest>Provedené investice</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatAnimalsFriended</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Animals Friended</Source>
+      <Dest>Spřátelená zvířata</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatFitsOfRage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fits of Rage</Source>
+      <Dest>Záchvaty zuřivosti</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatLegendaryEnemiesKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Legendary Enemies Killed</Source>
+      <Dest>Zabití legendární nepřátelé</Dest>
+    </String>
+    <String List="0" Partial="1">
+      <EDID>sMiscStatMoneyShots</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Money Shots</Source>
+      <Dest>Money Shots</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatIntimidations</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Intimidations</Source>
+      <Dest>Zastrašení</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatGrimReaperSprints</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Grim Reaper Sprints</Source>
+      <Dest>Řádění smrtky</Dest>
+    </String>
+    <String List="0">
+      <EDID>sMiscStatBrightIdeas</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Bright Ideas</Source>
+      <Dest>Chytré nápady</Dest>
+    </String>
+    <String List="1">
+      <EDID>SleepWellRestedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel Well Rested.</Source>
+      <Dest>Cítíš se odpočatý.</Dest>
+    </String>
+    <String List="1">
+      <EDID>SleepQuietReflectionMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel a sense of Quiet Reflection.</Source>
+      <Dest>Cítíš tíché rozjímání.</Dest>
+    </String>
+    <String List="1">
+      <EDID>SleepLoversEmbraceMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel your Lover's Embrace.</Source>
+      <Dest>Cítíš obětí své lásky.</Dest>
+    </String>
+    <String List="1">
+      <EDID>SignalStrengthMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Courser Signal Strength - %10.2f%%</Source>
+      <Dest>Síla signálu Lovce - %10.2f%%</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
