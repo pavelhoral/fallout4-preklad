@@ -826,7 +826,7 @@
       <EDID>BoxingGlove</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0" sID="01A6DC">
       <EDID>CA_Event_Drink_Deacon</EDID>
@@ -1036,7 +1036,7 @@
       <EDID>BrahminBodyPartData</EDID>
       <REC id="2">BPTD:BPTN</REC>
       <Source>Right Legs</Source>
-      <Dest>Right Legs</Dest>
+      <Dest>Pravé nohy</Dest>
     </String>
     <String List="0" sID="01C874">
       <EDID>c_Ceramic</EDID>
@@ -2818,7 +2818,7 @@
       <EDID>BunkerKesslerTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Tower Tom's been pushing east. In no time will be directly on our trade route. Keeps chasing away (and in one case killing) messengers. Clear we can't deal with him - could be a real problem.</Source>
-      <Dest>Věžák Tom se tlačí na východ. Nebude to trvat dlouho a dostane se na naší obchodní trasu. Stále odhání (a v jednom případě i zabil) naše poslíčky. Je jasné, že s ním nemůžeme jednat - což může být opravdu problém.</Dest>
+      <Dest>Věžák Tom se tlačí na východ. Nebude to trvat dlouho a dostane se na naší obchodní trasu. Stále odhání (a v jednom případě i zabil) naše poslíčky. Je jasné, že s ním nemůžeme jednat - může to být opravdu problém.</Dest>
     </String>
     <String List="0" sID="0318A7">
       <EDID>BunkerKesslerTerminal</EDID>
@@ -2836,7 +2836,7 @@
       <EDID>BunkerKesslerTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>That two-bit thief Zeller. Takes in one hand and then hits our caravans with the other. Got to play dumb. At this point, worth hiring some help. Someone reliable, someone that can take out his "army."</Source>
-      <Dest>Zeller, ten zlodějíček druhého nálevu. Jednou rukou bere, a pak útočí na naše karavany tou druhou. Dělám, že nic nevím. Ale už je načase najmout nějakou pomoc. Někoho spolehlivého, někoho, kdo zvládne vyřídit tu jeho "armádu."</Dest>
+      <Dest>Zeller, ten zlodějíček druhého nálevu. Jednou rukou bere, a tou druhou pak útočí na naše karavany. Tvářím se, že o tom nevím. Je načase najmout nějakou pomoc. Někoho spolehlivého, někoho, kdo zvládne vyřídit tu jeho "armádu."</Dest>
     </String>
     <String List="0" sID="031987">
       <EDID>CA_Event_EatCorpse_Danse</EDID>
@@ -2860,7 +2860,7 @@
       <EDID>BunkerKesslerTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Jared's drop - mainly Jet and Psycho. Took a pass on Chem for Kids, but AJ's still got the best prices on the normal garbage. As long as he accepts chems it won't be a problem paying him off.</Source>
-      <Dest>Jaredův úkryt - hlavně Jet a Psycho. Chemii jsem vynechala kvůli dětem, ale na obyčejné blbosti má AJ pořád nejlepší ceny. Dokud se dá platit chemií, tak nebude problém ho vyplatit.</Dest>
+      <Dest>Vyplacení Jareda - hlavně Jet a Psycho. Chemii jsem vynechala kvůli dětem, ale tyhhle běžný blbosti má AJ pořád nejlepší ceny. Dokud Jared přijímá chemii, tak nebude problém ho vyplatit.</Dest>
     </String>
     <String List="0" sID="0319F0">
       <EDID>CA_Event_EatCorpse_Cait</EDID>
@@ -2908,7 +2908,7 @@
       <EDID>BunkerKesslerTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Monthly with Wire, no issues. Not even a hint of trouble with his boys, thankfully. Getting pressure to lower payment. Hello, remember last time? Maybe some sort of cap equivalent will work?</Source>
-      <Dest>Měsíčně s Drátem, žádné potíže. Ani náznak nějakých problémů s jeho hochy, díky bohu. Trošku tlačí na snížení platby. Haló, pamatujete posledně? Možná by fungovala nějaká náhrada za zátky?</Dest>
+      <Dest>Měsíčně s Drátem, žádné potíže. Ani náznak nějakých problémů s jeho hochy, díky bohu. Ostatní tlačí na snížení platby. Vážení, pamatujete posledně? Možná by fungovala nějaká náhrada za zátky?</Dest>
     </String>
     <String List="0" sID="031AA7">
       <EDID>CA_Event_EatCorpse_Hancock</EDID>
@@ -3256,145 +3256,145 @@
       <EDID>CA_Cait_Threshold_Admiration</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait admires you.</Source>
-      <Dest>Cait admires you.</Dest>
+      <Dest>Cait tě obdivuje.</Dest>
     </String>
     <String List="1" sID="015B61">
       <EDID>CA_Cait_Threshold_Disdain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait is unhappy with you.</Source>
-      <Dest>Cait is unhappy with you.</Dest>
+      <Dest>Cait je s tebou nespokojená.</Dest>
     </String>
     <String List="1" sID="017A02">
       <EDID>CA_Cait_Threshold_Neutral</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait tolerates you.</Source>
-      <Dest>Cait tolerates you.</Dest>
+      <Dest>Cait tě toleruje.</Dest>
     </String>
     <String List="1" sID="018FC5">
       <EDID>CA_Cait_Likes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait liked that.</Source>
-      <Dest>Cait liked that.</Dest>
+      <Dest>Cait se to líbí.</Dest>
     </String>
     <String List="1" sID="019D2E">
       <EDID>CA_Deacon_Threshold_Admiration</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon admires you.</Source>
-      <Dest>Deacon admires you.</Dest>
+      <Dest>Deacon tě obdivuje.</Dest>
     </String>
     <String List="1" sID="01A0F4">
       <EDID>CA_Codsworth_Dislikes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth disliked that.</Source>
-      <Dest>Codsworth disliked that.</Dest>
+      <Dest>Codsworthovi se to nelíbí.</Dest>
     </String>
     <String List="1" sID="01CB87">
       <EDID>CA_Codsworth_Threshold_Infatuation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth idolizes you.</Source>
-      <Dest>Codsworth idolizes you.</Dest>
+      <Dest>Codsworth tě zbožňuje.</Dest>
     </String>
     <String List="1" sID="01CCE8">
       <EDID>CA_Codsworth_Threshold_Hatred</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth hates you.</Source>
-      <Dest>Codsworth hates you.</Dest>
+      <Dest>Codsworth tě nesnáší.</Dest>
     </String>
     <String List="1" sID="01D35A">
       <EDID>CA_Cait_Dislikes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait disliked that.</Source>
-      <Dest>Cait disliked that.</Dest>
+      <Dest>Cait se to nelíbí.</Dest>
     </String>
     <String List="1" sID="01D35E">
       <EDID>CA_Cait_Hates</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait hated that.</Source>
-      <Dest>Cait hated that.</Dest>
+      <Dest>Cait se to protiví.</Dest>
     </String>
     <String List="1" sID="01D363">
       <EDID>CA_Cait_Loves</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait loved that.</Source>
-      <Dest>Cait loved that.</Dest>
+      <Dest>Cait tě miluje.</Dest>
     </String>
     <String List="1" sID="01D478">
       <EDID>CA_Deacon_Dislikes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon disliked that.</Source>
-      <Dest>Deacon disliked that.</Dest>
+      <Dest>Deaconovi se to nelíbí.</Dest>
     </String>
     <String List="1" sID="01D47B">
       <EDID>CA_Deacon_Hates</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon hated that.</Source>
-      <Dest>Deacon hated that.</Dest>
+      <Dest>Deaconovi se to protiví.</Dest>
     </String>
     <String List="1" sID="01D480">
       <EDID>CA_Deacon_Likes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon liked that.</Source>
-      <Dest>Deacon liked that.</Dest>
+      <Dest>Deaconovi se to líbí.</Dest>
     </String>
     <String List="1" sID="01D482">
       <EDID>CA_Deacon_Loves</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon loved that.</Source>
-      <Dest>Deacon loved that.</Dest>
+      <Dest>Deacon to zbožňuje.</Dest>
     </String>
     <String List="1" sID="01D484">
       <EDID>CA_Deacon_Threshold_Disdain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon is unhappy with you.</Source>
-      <Dest>Deacon is unhappy with you.</Dest>
+      <Dest>Deacon je s tebou nespokojený.</Dest>
     </String>
     <String List="1" sID="01D488">
       <EDID>CA_Deacon_Threshold_Hatred</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon hates you.</Source>
-      <Dest>Deacon hates you.</Dest>
+      <Dest>Deacon tě nesnáší.</Dest>
     </String>
     <String List="1" sID="01D48E">
       <EDID>CA_Deacon_Threshold_Neutral</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon tolerates you.</Source>
-      <Dest>Deacon tolerates you.</Dest>
+      <Dest>Deacon tě toleruje.</Dest>
     </String>
     <String List="1" sID="01D496">
       <EDID>CA_Codsworth_Hates</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth hated that.</Source>
-      <Dest>Codsworth hated that.</Dest>
+      <Dest>Codsworthovi se to protiví.</Dest>
     </String>
     <String List="1" sID="01D499">
       <EDID>CA_Codsworth_Likes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth liked that.</Source>
-      <Dest>Codsworth liked that.</Dest>
+      <Dest>Codsworthovi se to líbí.</Dest>
     </String>
     <String List="1" sID="01D49B">
       <EDID>CA_Codsworth_Loves</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth loved that.</Source>
-      <Dest>Codsworth loved that.</Dest>
+      <Dest>Codsworth to zbožňuje.</Dest>
     </String>
     <String List="1" sID="01D49D">
       <EDID>CA_Codsworth_Threshold_Admiration</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth admires you.</Source>
-      <Dest>Codsworth admires you.</Dest>
+      <Dest>Codsworth tě obdivuje.</Dest>
     </String>
     <String List="1" sID="01D4A1">
       <EDID>CA_Codsworth_Threshold_Disdain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth is unhappy with you.</Source>
-      <Dest>Codsworth is unhappy with you.</Dest>
+      <Dest>Codsworth je s tebou nespokojený.</Dest>
     </String>
     <String List="1" sID="01D4AE">
       <EDID>CA_Codsworth_Threshold_Neutral</EDID>
       <REC>MESG:DESC</REC>
       <Source>Codsworth tolerates you.</Source>
-      <Dest>Codsworth tolerates you.</Dest>
+      <Dest>Codsworth tě toleruje.</Dest>
     </String>
     <String List="1" sID="01D7C0">
       <EDID>CA_Custom</EDID>
@@ -3412,97 +3412,97 @@
       <EDID>CA_Cait_Threshold_Hatred</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait hates you.</Source>
-      <Dest>Cait hates you.</Dest>
+      <Dest>Cait tě nesnáší.</Dest>
     </String>
     <String List="1" sID="024A09">
       <EDID>CA_Cait_Threshold_Infatuation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait idolizes you.</Source>
-      <Dest>Cait idolizes you.</Dest>
+      <Dest>Cait tě zbožňuje.</Dest>
     </String>
     <String List="1" sID="02A1C4">
       <EDID>CA_Curie_Hates</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie hated that.</Source>
-      <Dest>Curie hated that.</Dest>
+      <Dest>Curie se to protiví.</Dest>
     </String>
     <String List="1" sID="02A1C6">
       <EDID>CA_Danse_Hates</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse hated that.</Source>
-      <Dest>Danse hated that.</Dest>
+      <Dest>Dansemu se to protiví.</Dest>
     </String>
     <String List="1" sID="02A2B5">
       <EDID>CA_Danse_Dislikes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse disliked that.</Source>
-      <Dest>Danse disliked that.</Dest>
+      <Dest>Dansemu se to nelíbí.</Dest>
     </String>
     <String List="1" sID="02A2F5">
       <EDID>CA_Danse_Loves</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse loved that.</Source>
-      <Dest>Danse loved that.</Dest>
+      <Dest>Danse to zbožňuje.</Dest>
     </String>
     <String List="1" sID="02A39B">
       <EDID>CA_Danse_Likes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse liked that.</Source>
-      <Dest>Danse liked that.</Dest>
+      <Dest>Dansemu se to líbí.</Dest>
     </String>
     <String List="1" sID="02A3C3">
       <EDID>CA_Curie_Likes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie liked that.</Source>
-      <Dest>Curie liked that.</Dest>
+      <Dest>Curie se to líbí.</Dest>
     </String>
     <String List="1" sID="02A3E2">
       <EDID>CA_Curie_Loves</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie loved that.</Source>
-      <Dest>Curie loved that.</Dest>
+      <Dest>Curie to zbožňuje.</Dest>
     </String>
     <String List="1" sID="02A468">
       <EDID>CA_Curie_Dislikes</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie disliked that.</Source>
-      <Dest>Curie disliked that.</Dest>
+      <Dest>Curie se to nelíbí.</Dest>
     </String>
     <String List="1" sID="0308CF">
       <EDID>Buffjet</EDID>
       <REC>ALCH:DESC</REC>
       <Source>Slow Time, +3 Strength, +3 Endurance, +65 max Health and +35 max AP for 15 seconds.</Source>
-      <Dest>Slow Time, +3 Strength, +3 Endurance, +65 max Health and +35 max AP for 15 seconds.</Dest>
+      <Dest>Zpomaluje čas, +3 síla, +3 odolnost, +65 max zdraví a +35 max AB na 15 sekund.</Dest>
     </String>
     <String List="1" sID="03097D">
       <EDID>Bufftats</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+3 Strength, +3 Endurance, +65 max Health and +3 Perception for 8 minutes.</Source>
-      <Dest>+3 Strength, +3 Endurance, +65 max Health and +3 Perception for 8 minutes.</Dest>
+      <Dest>+3 síla, +3 odolnost, +65 max zdraví a +3 vnímání na 8 minut.</Dest>
     </String>
     <String List="1" sID="030995">
       <EDID>Buffout</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+2 Strength, +2 Endurance and +50 max Health for 5 minutes.</Source>
-      <Dest>+2 Strength, +2 Endurance and +50 max Health for 5 minutes.</Dest>
+      <Dest>+2 síla, +2 odolnost a +50 max zdraví na 5 minut.</Dest>
     </String>
     <String List="1" sID="030A3E">
       <EDID>Bubble_Turret_Laser6shot</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Laser mod for the bubble turret</Source>
-      <Dest>Laser mod for the bubble turret</Dest>
+      <Dest>Laserová úprava kulovou věž</Dest>
     </String>
     <String List="1" sID="030B5C">
       <EDID>Bubble_Turret_Laser</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Laser mod for the bubble turret</Source>
-      <Dest>Laser mod for the bubble turret</Dest>
+      <Dest>Laserová úprava pro kulovou věž</Dest>
     </String>
     <String List="1" sID="030BBA">
       <EDID>Bubble_Turret_Ballistic1shot</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Ballistic mod for the bubble turret</Source>
-      <Dest>Ballistic mod for the bubble turret</Dest>
+      <Dest>Balistická úprava pro kulovou věž</Dest>
     </String>
     <String List="1" sID="030C01">
       <EDID>Bubble_Turret_Ballistic3shot</EDID>
@@ -3520,85 +3520,85 @@
       <EDID>CA_Danse_Threshold_Disdain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse is unhappy with you.</Source>
-      <Dest>Danse is unhappy with you.</Dest>
+      <Dest>Danse je s tebou nespokojený.</Dest>
     </String>
     <String List="1" sID="03200C">
       <EDID>CA_Danse_Threshold_Hatred</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse hates you.</Source>
-      <Dest>Danse hates you.</Dest>
+      <Dest>Danse tě nesnáší.</Dest>
     </String>
     <String List="1" sID="03201F">
       <EDID>CA_Danse_Threshold_Neutral</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse tolerates you.</Source>
-      <Dest>Danse tolerates you.</Dest>
+      <Dest>Danse tě toleruje.</Dest>
     </String>
     <String List="1" sID="0320AC">
       <EDID>CA_Curie_Threshold_Romance</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie loves you.</Source>
-      <Dest>Curie loves you.</Dest>
+      <Dest>Curie tě miluje.</Dest>
     </String>
     <String List="1" sID="03212F">
       <EDID>CA_Deacon_Threshold_Infatuation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Deacon idolizes you.</Source>
-      <Dest>Deacon idolizes you.</Dest>
+      <Dest>Deacon tě zbožňuje.</Dest>
     </String>
     <String List="1" sID="03221E">
       <EDID>CA_Cait_Threshold_Romance</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cait loves you.</Source>
-      <Dest>Cait loves you.</Dest>
+      <Dest>Cait tě miluje.</Dest>
     </String>
     <String List="1" sID="032273">
       <EDID>CA_Curie_Threshold_Admiration</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie admires you.</Source>
-      <Dest>Curie admires you.</Dest>
+      <Dest>Curie tě obdivuje.</Dest>
     </String>
     <String List="1" sID="032415">
       <EDID>CA_Curie_Threshold_Disdain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie is unhappy with you.</Source>
-      <Dest>Curie is unhappy with you.</Dest>
+      <Dest>Curie je s tebou nespokojená.</Dest>
     </String>
     <String List="1" sID="03249A">
       <EDID>CA_Curie_Threshold_Hatred</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie hates you.</Source>
-      <Dest>Curie hates you.</Dest>
+      <Dest>Curie tě nesnáší.</Dest>
     </String>
     <String List="1" sID="0324A2">
       <EDID>CA_Curie_Threshold_Neutral</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie tolerates you.</Source>
-      <Dest>Curie tolerates you.</Dest>
+      <Dest>Curie tě toleruje.</Dest>
     </String>
     <String List="1" sID="0324A5">
       <EDID>CA_Danse_Threshold_Admiration</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse admires you.</Source>
-      <Dest>Danse admires you.</Dest>
+      <Dest>Danse tě obdivuje.</Dest>
     </String>
     <String List="1" sID="0324AB">
       <EDID>CA_Danse_Threshold_Infatuation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse idolizes you.</Source>
-      <Dest>Danse idolizes you.</Dest>
+      <Dest>Danse tě zbožňuje.</Dest>
     </String>
     <String List="1" sID="0324B7">
       <EDID>CA_Danse_Threshold_Romance</EDID>
       <REC>MESG:DESC</REC>
       <Source>Danse loves you.</Source>
-      <Dest>Danse loves you.</Dest>
+      <Dest>Danse tě miluje.</Dest>
     </String>
     <String List="1" sID="032527">
       <EDID>CA_Curie_Threshold_Infatuation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Curie idolizes you.</Source>
-      <Dest>Curie idolizes you.</Dest>
+      <Dest>Curie tě zbožňuje.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
