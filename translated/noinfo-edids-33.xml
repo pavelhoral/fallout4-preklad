@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="000031">
+      <EDID>sOwned</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Owned</Source>
+      <Dest>Obsazeno</Dest>
+    </String>
+    <String List="0" sID="000051">
+      <EDID>sRemoveCrimeGold</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>bounty removed from</Source>
+      <Dest>bounty removed from</Dest>
+    </String>
+    <String List="0" sID="0000C5">
+      <EDID>sRSMMouth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mouth</Source>
+      <Dest>Ústa</Dest>
+    </String>
+    <String List="0" sID="0000EC">
+      <EDID>sSeasonSpring</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Spring</Source>
+      <Dest>Jaro</Dest>
+    </String>
+    <String List="0" sID="000179">
+      <EDID>sSneakDanger</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DANGER</Source>
+      <Dest>NEBEZPEČÍ</Dest>
+    </String>
+    <String List="0" sID="000329">
+      <EDID>sStealHorse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to steal this horse?</Source>
+      <Dest>Opravdu chceš ukrást tohoto koně?</Dest>
+    </String>
+    <String List="0" sID="00033D">
+      <EDID>sRSMAge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Age</Source>
+      <Dest>Věk</Dest>
+    </String>
+    <String List="0" sID="0005AA">
+      <EDID>sSecondOrdSuffix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>nd</Source>
+      <Dest>.</Dest>
+    </String>
+    <String List="0" sID="0005D1">
+      <EDID>sRSMChinLength</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chin Length</Source>
+      <Dest>Délka brady</Dest>
+    </String>
+    <String List="0" sID="000796">
+      <EDID>sRepairCost</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cost: %d caps</Source>
+      <Dest>Cena: %d zátek</Dest>
+    </String>
+    <String List="0" sID="0007B4">
+      <EDID>sRepairSkillTooLow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%d%s REPAIR SKILL NEEDED</Source>
+      <Dest>POTŘEBUJEŠ %d%s BODŮ V OPRAVOVÁNÍ</Dest>
+    </String>
+    <String List="0" sID="00086F">
+      <EDID>sRSMChinForward</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chin Forward</Source>
+      <Dest>Vyčnívání brady</Dest>
+    </String>
+    <String List="0" sID="0008BF">
+      <EDID>sScrolls</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SCROLLS</Source>
+      <Dest>SVITKY</Dest>
+    </String>
+    <String List="0" sID="000AD3">
+      <EDID>sRSMHeadPresets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Presets</Source>
+      <Dest>Předvolby</Dest>
+    </String>
+    <String List="0" sID="000D8C">
+      <EDID>sRSMHair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hair</Source>
+      <Dest>Vlasy</Dest>
+    </String>
+    <String List="0" sID="000DC3">
+      <EDID>sSeasonSummer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Summer</Source>
+      <Dest>Léto</Dest>
+    </String>
+    <String List="0" sID="000E6F">
+      <EDID>sServeSentenceQuestion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to serve your time in jail?</Source>
+      <Dest>Opravdu si chceš si odpykat svůj trest ve vězení?</Dest>
+    </String>
+    <String List="0" sID="000EFE">
+      <EDID>sSoulLevelNameLesser</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Lesser</Source>
+      <Dest>Malá</Dest>
+    </String>
+    <String List="0" sID="00108C">
+      <EDID>sRepairServicesTitle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair Services</Source>
+      <Dest>Opravy</Dest>
+    </String>
+    <String List="0" sID="0010AA">
+      <EDID>sNoRepairInCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot repair items while in combat.</Source>
+      <Dest>V boji nemůžeš opravovat předměty.</Dest>
+    </String>
+    <String List="0" sID="001228">
+      <EDID>sOn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ON</Source>
+      <Dest>ZAP</Dest>
+    </String>
+    <String List="0" sID="001278">
+      <EDID>sPoisonBowConfirmMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to poison your next shot with the </Source>
+      <Dest>Chceš otrávit tvoji další střelu:</Dest>
+    </String>
+    <String List="0" sID="0012E0">
+      <EDID>sNoSpareParts</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NO USABLE SPARE PARTS</Source>
+      <Dest>ŽÁDNÉ POUŽITELNÉ NÁHRADNÍ DÍLY</Dest>
+    </String>
+    <String List="0" sID="001338">
+      <EDID>sSaveFailed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Save failed.</Source>
+      <Dest>Uložení selhalo.</Dest>
+    </String>
+    <String List="0" sID="00147B">
+      <EDID>sNoFastTravelHostileActorsNear</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel when enemies are nearby.</Source>
+      <Dest>Nemůžeš použít rychlé cestování, když jsou poblíž nepřátelé.</Dest>
+    </String>
+    <String List="0" sID="00149D">
+      <EDID>sPickpocket</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Pickpocket</Source>
+      <Dest>Kapsářství</Dest>
+    </String>
+    <String List="0" sID="00191B">
+      <EDID>sNoFastTravelCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel during combat!</Source>
+      <Dest>Rychlé cestování nemůžeš použít, když jsi v bitvě!</Dest>
+    </String>
+    <String List="0" sID="001B88">
+      <EDID>sReturn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Return</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0" sID="001E7D">
+      <EDID>sPronounObjMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>him</Source>
+      <Dest>ho</Dest>
+    </String>
+    <String List="0" sID="00201E">
+      <EDID>sRemoveItemfromInventory</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Removed.</Source>
+      <Dest>odstraněn z inventáře.</Dest>
+    </String>
+    <String List="0" sID="002137">
+      <EDID>sOverEncumbered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You're carrying too much and can't run!</Source>
+      <Dest>Neseš příliš velkou váhu a nemůžeš běhat!</Dest>
+    </String>
+    <String List="0" sID="002152">
+      <EDID>sRSMLipColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Lip Color</Source>
+      <Dest>Barva rtů</Dest>
+    </String>
+    <String List="0" sID="00230E">
+      <EDID>sRewardXPIcon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Interface\Shared\Messages\glow_XP_Gain.dds</Source>
+      <Dest>Interface\Shared\Messages\glow_XP_Gain.dds</Dest>
+    </String>
+    <String List="0" sID="002354">
+      <EDID>sSaveGameNoLongerAvailable</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The save game is no longer available.  Returning to game.</Source>
+      <Dest>Tato uložená pozice již není k dispozici.  Probíhá návrat do hry.</Dest>
+    </String>
+    <String List="0" sID="002368">
+      <EDID>sNumberAbbrev</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No.</Source>
+      <Dest>č. </Dest>
+    </String>
+    <String List="0" sID="002503">
+      <EDID>sRepairItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair</Source>
+      <Dest>Opravit</Dest>
+    </String>
+    <String List="0" sID="00252A">
+      <EDID>sRestartToUseNewContent</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New content has been added.  You will need to restart to use this content.  All unsaved progress will be lost.</Source>
+      <Dest>Byl přidán nový obsah. Hra musí být restartována, abys mohl obsah použít. Veškerý neuložený postup bude ztracen.</Dest>
+    </String>
+    <String List="0" sID="0025F1">
+      <EDID>sRSMPaint</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>War Paint</Source>
+      <Dest>Válečné pomalování</Dest>
+    </String>
+    <String List="0" sID="00292E">
+      <EDID>sMonthMay</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>May</Source>
+      <Dest>Květen</Dest>
+    </String>
+    <String List="0" sID="002945">
+      <EDID>sRemove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Remove</Source>
+      <Dest>Odstranit</Dest>
+    </String>
+    <String List="0" sID="002A26">
+      <EDID>sRead</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Read</Source>
+      <Dest>Přečíst</Dest>
+    </String>
+    <String List="0" sID="002AEC">
+      <EDID>sQuickLoading</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quickloading...</Source>
+      <Dest>Rychle načítám...</Dest>
+    </String>
+    <String List="0" sID="002AF4">
+      <EDID>sNoWaitInCell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait in this location.</Source>
+      <Dest>V této oblasti nemůžeš čekat.</Dest>
+    </String>
+    <String List="0" sID="002CB8">
+      <EDID>sRSMCheekColorLower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cheek Color Lower</Source>
+      <Dest>Odstín spodních lící</Dest>
+    </String>
+    <String List="0" sID="002EA9">
+      <EDID>sNoTalkFleeing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> is fleeing for their life.</Source>
+      <Dest> běží o život.</Dest>
+    </String>
+    <String List="0" sID="002EC7">
+      <EDID>sRadioStationDiscovered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s signal found.</Source>
+      <Dest>%s signál nalezen.</Dest>
+    </String>
+    <String List="0" sID="002F58">
+      <EDID>sNext</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Next</Source>
+      <Dest>Další</Dest>
+    </String>
+    <String List="0" sID="002FE5">
+      <EDID>sNoSitOnOwnedFurniture</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sit on owned furniture.</Source>
+      <Dest>Nemůžeš sedět na místě, které patří někomu jinému.</Dest>
+    </String>
+    <String List="0" sID="003165">
+      <EDID>sPCRelationshipPositiveChangeText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> is now your </Source>
+      <Dest> je nyní tvůj </Dest>
+    </String>
+    <String List="0" sID="0031AE">
+      <EDID>sSelectItemToRepair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CHOOSE ITEM TO REPAIR WITH</Source>
+      <Dest>ZVOL NÁSTROJ, KTERÝ CHCEŠ NECHAT OPRAVIT</Dest>
+    </String>
+    <String List="0" sID="0031B6">
+      <EDID>sNoSleepInAir</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep in the air.</Source>
+      <Dest>Nemůžeš spát ve vzduchu.</Dest>
+    </String>
+    <String List="0" sID="0031D0">
+      <EDID>sSaveNotAvailable</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No valid save game found.</Source>
+      <Dest>Nebyla nalezena žádná platná uložená pozice.</Dest>
+    </String>
+    <String List="0" sID="003229">
+      <EDID>sMonthJuly</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>July</Source>
+      <Dest>Červenec</Dest>
+    </String>
+    <String List="0" sID="003508">
+      <EDID>sRadioSignalLost</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s signal lost.</Source>
+      <Dest>%s signál ztracen.</Dest>
+    </String>
+    <String List="0" sID="003599">
+      <EDID>sNoChildUse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Children cannot use that.</Source>
+      <Dest>Děti toto nemohou použít.</Dest>
+    </String>
+    <String List="0" sID="003669">
+      <EDID>sQuestCompletedText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quest completed</Source>
+      <Dest>Úkol dokončen</Dest>
+    </String>
+    <String List="0" sID="00389C">
+      <EDID>sRSMBrowForward</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brow Forward</Source>
+      <Dest>Vyčnívání obočí</Dest>
+    </String>
+    <String List="0" sID="00398A">
+      <EDID>sNoWaitTrespass</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait while trespassing.</Source>
+      <Dest>Nemůžeš čekat během vloupání.</Dest>
+    </String>
+    <String List="0" sID="003996">
+      <EDID>sRequirements</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requirements</Source>
+      <Dest>Požadavky</Dest>
+    </String>
+    <String List="0" sID="003A44">
+      <EDID>sRSMEyelinerColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eyeliner Color</Source>
+      <Dest>Barva linky</Dest>
+    </String>
+    <String List="0" sID="003C45">
+      <EDID>sNoSleepInCell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep in this location.</Source>
+      <Dest>V této oblasti nemůžeš spát.</Dest>
+    </String>
+    <String List="0" sID="003CD7">
+      <EDID>sRSMComplexion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Complexion</Source>
+      <Dest>Pleť</Dest>
+    </String>
+    <String List="0" sID="003E14">
+      <EDID>sNoRestart</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No, keep playing.</Source>
+      <Dest>Ne, pokračovat v hraní.</Dest>
+    </String>
+    <String List="0" sID="0040B3">
+      <EDID>sNoSleepTakingHealthDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep while taking health damage.</Source>
+      <Dest>Nemůžeš spát, když ti ubývá zdraví.</Dest>
+    </String>
+    <String List="0" sID="00438A">
+      <EDID>sRanksText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ranks</Source>
+      <Dest>Úrovně</Dest>
+    </String>
+    <String List="0" sID="004445">
+      <EDID>sRSMSex</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sex</Source>
+      <Dest>Pohlaví</Dest>
+    </String>
+    <String List="0" sID="0047B7">
+      <EDID>sPotions</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>POTIONS</Source>
+      <Dest>LEKTVARY</Dest>
+    </String>
+    <String List="0" sID="004986">
+      <EDID>sRemoteActivation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This object is activated from somewhere else.</Source>
+      <Dest>Tento objekt je aktivován z jiného místa.</Dest>
+    </String>
+    <String List="0" sID="0049BF">
+      <EDID>sRSMBrowHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brow Height</Source>
+      <Dest>Výška obočí</Dest>
+    </String>
+    <String List="0" sID="0049E0">
+      <EDID>sRequirementsText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requires: </Source>
+      <Dest>Vyžaduje: </Dest>
+    </String>
+    <String List="0" sID="0049EA">
+      <EDID>sSexFemalePossessive</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>her</Source>
+      <Dest>její</Dest>
+    </String>
+    <String List="0" sID="004BA6">
+      <EDID>sSexMalePronoun</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>he</Source>
+      <Dest>on</Dest>
+    </String>
+    <String List="0" sID="004BBD">
+      <EDID>sSneakHidden</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HIDDEN</Source>
+      <Dest>SKRYTÝ</Dest>
+    </String>
+    <String List="0" sID="004BD8">
+      <EDID>sRSMBrowTypes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brow Type</Source>
+      <Dest>Typ obočí</Dest>
+    </String>
+    <String List="0" sID="004CF0">
+      <EDID>sSoulGems</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SOUL GEMS</Source>
+      <Dest>KAMENY DUŠÍ</Dest>
+    </String>
+    <String List="0" sID="004D04">
+      <EDID>sNoSleepWhileAlarm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep while guards are pursuing you.</Source>
+      <Dest>Nemůžeš spát, když tě pronásledují stráže.</Dest>
+    </String>
+    <String List="0" sID="004D96">
+      <EDID>sSearch</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Search</Source>
+      <Dest>Prohledat</Dest>
+    </String>
+    <String List="0" sID="004E3E">
+      <EDID>sRSMHead</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="005094">
+      <EDID>sSortMethod</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sort</Source>
+      <Dest>Seřadit</Dest>
+    </String>
+    <String List="0" sID="0050F8">
+      <EDID>sPrevious</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Previous</Source>
+      <Dest>Předchozí</Dest>
+    </String>
+    <String List="0" sID="005281">
+      <EDID>sObjectInUse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This object is already in use by someone else.</Source>
+      <Dest>Tento předmet již používá někdo jiný.</Dest>
+    </String>
+    <String List="0" sID="0052C1">
+      <EDID>sMissingImage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Data\Textures\Interface\Shared\missing_image.dds</Source>
+      <Dest>Data\Textures\Interface\Shared\missing_image.dds</Dest>
+    </String>
+    <String List="0" sID="0052D9">
+      <EDID>sRSMEyeTypes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Shape</Source>
+      <Dest>Tvar očí</Dest>
+    </String>
+    <String List="0" sID="005537">
+      <EDID>sSplashParticles</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Effects\waterSplash.NIF</Source>
+      <Dest>Effects\waterSplash.NIF</Dest>
+    </String>
+    <String List="0" sID="005541">
+      <EDID>sRSMEyes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eyes</Source>
+      <Dest>Oči</Dest>
+    </String>
+    <String List="0" sID="005A55">
+      <EDID>sRSMJawHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Jaw Height</Source>
+      <Dest>Výška čelisti</Dest>
+    </String>
+    <String List="0" sID="005A5F">
+      <EDID>sMissingName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>&lt;Missing Name&gt;</Source>
+      <Dest>&lt;Chybějící jméno&gt;</Dest>
+    </String>
+    <String List="0" sID="005B15">
+      <EDID>sRSMJawForward</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Jaw Forward</Source>
+      <Dest>Vyčnívání čelisti</Dest>
+    </String>
+    <String List="0" sID="005BCC">
+      <EDID>sPoisonNoWeaponMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must first equip a weapon to poison it.</Source>
+      <Dest>Nejdříve musíš vzít zbraň do ruky, abys ji mohl otrávit.</Dest>
+    </String>
+    <String List="0" sID="005D2D">
+      <EDID>sName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Name</Source>
+      <Dest>Jméno</Dest>
+    </String>
+    <String List="0" sID="005E67">
+      <EDID>sPlayerDisarmedMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have been disarmed!</Source>
+      <Dest>Byl jsi odzbrojen!</Dest>
+    </String>
+    <String List="0" sID="005ECA">
+      <EDID>sSkillIncreased</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s Increased to %i</Source>
+      <Dest>%s se zvyšuje na %i</Dest>
+    </String>
+    <String List="0" sID="0063A7">
+      <EDID>sMonthSeptember</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>September</Source>
+      <Dest>Září</Dest>
+    </String>
+    <String List="0" sID="0064CA">
+      <EDID>sRSMHairPresets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hair</Source>
+      <Dest>Vlasy</Dest>
+    </String>
+    <String List="0" sID="006860">
+      <EDID>sQuestFailed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quest FAILED</Source>
+      <Dest>Úkol se NEZDAŘIL</Dest>
+    </String>
+    <String List="0" sID="006A0C">
+      <EDID>sOptional</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Optional</Source>
+      <Dest>Volitelné</Dest>
+    </String>
+    <String List="0" sID="006D77">
+      <EDID>sQuicksaveAbbrev</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>QUICK</Source>
+      <Dest>RYCHLÉ</Dest>
+    </String>
+    <String List="0" sID="006DCC">
+      <EDID>sRestartSignedOut</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have signed out of your profile and will now be returned to the main menu.</Source>
+      <Dest>Odhlásil jsi se ze svého profilu. Probíhý návrat do hlavní nabídky.</Dest>
+    </String>
+    <String List="0" sID="006ECB">
+      <EDID>sRSMNeckColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Neck Color</Source>
+      <Dest>Odstín krku</Dest>
+    </String>
+    <String List="0" sID="006F64">
+      <EDID>sRSMFacialHairColorPresets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Facial Hair Color</Source>
+      <Dest>Barva vousů</Dest>
+    </String>
+    <String List="0" sID="0070B1">
+      <EDID>sSelfRange</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Self</Source>
+      <Dest>Osobní</Dest>
+    </String>
+    <String List="0" sID="007108">
+      <EDID>sMonthDecember</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>December</Source>
+      <Dest>Prosinec</Dest>
+    </String>
+    <String List="0" sID="00714B">
+      <EDID>sPowers</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>POWERS</Source>
+      <Dest>VROZENÉ SÍLY</Dest>
+    </String>
+    <String List="0" sID="00729F">
+      <EDID>sNoSleepTrespass</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep while trespassing.</Source>
+      <Dest>Nemůžeš spát během vloupání.</Dest>
+    </String>
+    <String List="0" sID="007603">
+      <EDID>sRSMChinWidth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chin Width</Source>
+      <Dest>Šířka brady</Dest>
+    </String>
+    <String List="0" sID="007654">
+      <EDID>sPronounRefFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>herself</Source>
+      <Dest>herself</Dest>
+    </String>
+    <String List="0" sID="007699">
+      <EDID>sNoWaitWhileAlarm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait while guards are pursuing you.</Source>
+      <Dest>Nemůžeš čekat, když tě pronásledují stráže.</Dest>
+    </String>
+    <String List="0" sID="0077A1">
+      <EDID>sRSMMouthForward</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mouth Forward</Source>
+      <Dest>Vyčnívání úst</Dest>
+    </String>
+    <String List="0" sID="00784C">
+      <EDID>sSneakAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sneak Attack on</Source>
+      <Dest>Útok z krytu na</Dest>
+    </String>
+    <String List="0" sID="007C4D">
+      <EDID>sQuickSaving</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quicksaving...</Source>
+      <Dest>Rychle ukládám...</Dest>
+    </String>
+    <String List="0" sID="007DBC">
+      <EDID>sRSMFacialHairPresets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Facial Hair</Source>
+      <Dest>Vousy</Dest>
+    </String>
+    <String List="0" sID="007EF7">
+      <EDID>sRSMMouthHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mouth Height</Source>
+      <Dest>Výška úst</Dest>
+    </String>
+    <String List="0" sID="00833C">
+      <EDID>sNoviceDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Very Easy</Source>
+      <Dest>Velmí snadná</Dest>
+    </String>
+    <String List="0" sID="0086B1">
+      <EDID>sRSMScars</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scars</Source>
+      <Dest>Jizvy</Dest>
+    </String>
+    <String List="0" sID="00886E">
+      <EDID>sSmall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Small</Source>
+      <Dest>Malý</Dest>
+    </String>
+    <String List="0" sID="0088D8">
+      <EDID>sShouts</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SHOUTS</Source>
+      <Dest>ŘEVY</Dest>
+    </String>
+    <String List="0" sID="008927">
+      <EDID>sRSMChinColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Chin Color</Source>
+      <Dest>Odstín brady</Dest>
+    </String>
+    <String List="0" sID="0089D6">
+      <EDID>sSoulGem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Soul Gem</Source>
+      <Dest>Kámen duší</Dest>
+    </String>
+    <String List="0" sID="008A6E">
+      <EDID>sSuccessfulSneakAttackEnd</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>X damage!</Source>
+      <Dest>X zranění!</Dest>
+    </String>
+    <String List="0" sID="008D9E">
+      <EDID>sPronounRefMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>himself</Source>
+      <Dest>himself</Dest>
+    </String>
+    <String List="0" sID="009258">
+      <EDID>sPronounIntFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>herself</Source>
+      <Dest>herself</Dest>
+    </String>
+    <String List="0" sID="0092CF">
+      <EDID>sRenameItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Rename Item</Source>
+      <Dest>Přejmenovat předmět</Dest>
+    </String>
+    <String List="0" sID="009375">
+      <EDID>sTakeAll</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Take All</Source>
+      <Dest>Vzít vše</Dest>
+    </String>
+    <String List="0" sID="0094F4">
+      <EDID>sNoPickPocketAgain</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> has already caught you.</Source>
+      <Dest> tě již nachytal.</Dest>
+    </String>
+    <String List="0" sID="00971E">
+      <EDID>sOpen</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Open</Source>
+      <Dest>Otevřít</Dest>
+    </String>
+    <String List="0" sID="009782">
+      <EDID>sOKText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OK</Source>
+      <Dest>OK</Dest>
+    </String>
+    <String List="0" sID="009788">
+      <EDID>sSaveGameNoMasterFilesFound</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>None of the master files used in this save game are loaded.  Returning to game.</Source>
+      <Dest>Žádný z hlavních herních souborů použitých v této uložené pozici není načten.  Probíhá návrat do hry.</Dest>
+    </String>
+    <String List="0" sID="0097E8">
+      <EDID>sRSMBrowWidth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brow Width</Source>
+      <Dest>Šířka obočí</Dest>
+    </String>
+    <String List="0" sID="009A0F">
+      <EDID>sSelect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Select</Source>
+      <Dest>Zvolit</Dest>
+    </String>
+    <String List="0" sID="009A10">
+      <EDID>sMiscUnknownEffect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>(Unknown Effect)</Source>
+      <Dest>(Neznámý účinek)</Dest>
+    </String>
+    <String List="0" sID="009AAC">
+      <EDID>sRSMCheekColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cheek Color</Source>
+      <Dest>Odstín tváří</Dest>
+    </String>
+    <String List="0" sID="009AE5">
+      <EDID>sMonthAugust</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>August</Source>
+      <Dest>Srpen</Dest>
+    </String>
+    <String List="0" sID="009C85">
+      <EDID>sSaveGameCorruptMenuMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The save game is corrupt and cannot be loaded.</Source>
+      <Dest>Tato uložen pozice je poškozená a nelze ji načíst.</Dest>
+    </String>
+    <String List="0" sID="009D49">
+      <EDID>sRSMMouthTypes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mouth Shape</Source>
+      <Dest>Tvar úst</Dest>
+    </String>
+    <String List="0" sID="009EC7">
+      <EDID>sSmithingMenuDescription</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose an item to improve.</Source>
+      <Dest>Zvol předmět pro vylepšení.</Dest>
+    </String>
+    <String List="0" sID="00A064">
+      <EDID>sMonthFebruary</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>February</Source>
+      <Dest>Únor</Dest>
+    </String>
+    <String List="0" sID="00A137">
+      <EDID>sRSMTone</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Skin Tone</Source>
+      <Dest>Odstín kůže</Dest>
+    </String>
+    <String List="0" sID="00A16A">
+      <EDID>sOk</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OK</Source>
+      <Dest>OK</Dest>
+    </String>
+    <String List="0" sID="00A1AF">
+      <EDID>sSoulLevelNameGrand</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Grand</Source>
+      <Dest>Obří</Dest>
+    </String>
+    <String List="0" sID="00A239">
+      <EDID>sSpellAdded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New Spell Learned.</Source>
+      <Dest>Nové kouzlo</Dest>
+    </String>
+    <String List="0" sID="00A2DD">
+      <EDID>sSoulGemTooSmall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No soul gem large enough.</Source>
+      <Dest>Nemáš dostatečně velký kámen duší.</Dest>
+    </String>
+    <String List="0" sID="00A34F">
+      <EDID>sNotEnoughVendorGold</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Transaction value: %d gold.&#xD;
+Vendor only has %d gold.</Source>
+      <Dest>Hodnota transakce: %d zlaťáků.&#xD;
+Obchodník má pouze %d zlaťáků.</Dest>
+    </String>
+    <String List="0" sID="00A3A2">
+      <EDID>sPlayerSetMarkerName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Custom Destination</Source>
+      <Dest>Vlastní značka</Dest>
+    </String>
+    <String List="0" sID="00A3CF">
+      <EDID>sNoText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No</Source>
+      <Dest>Ne</Dest>
+    </String>
+    <String List="0" sID="00A46F">
+      <EDID>sRandomDoorTeleportFailureMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This door leads nowhere.</Source>
+      <Dest>Tyto dveře nikam nevedou.</Dest>
+    </String>
+    <String List="0" sID="00A493">
+      <EDID>sPronounObjFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>her</Source>
+      <Dest>ji</Dest>
+    </String>
+    <String List="0" sID="00A55A">
+      <EDID>sQuantity</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quantity</Source>
+      <Dest>Počet</Dest>
+    </String>
+    <String List="0" sID="00A560">
+      <EDID>sNoJumpWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can not drop objects while in the air.</Source>
+      <Dest>Nemůžeš odkládat předměty ve vzduchu.</Dest>
+    </String>
+    <String List="0" sID="00A6A0">
+      <EDID>sOutOfLockpicks</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You are out of bobby pins.</Source>
+      <Dest>Nemáš žádné vlásenky.</Dest>
+    </String>
+    <String List="0" sID="00A893">
+      <EDID>sPoisonConfirmMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to poison the </Source>
+      <Dest>Chceš otrávit</Dest>
+    </String>
+    <String List="0" sID="00A905">
+      <EDID>sSexMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>male</Source>
+      <Dest>muž</Dest>
+    </String>
+    <String List="0" sID="00A9E2">
+      <EDID>sRSMCheekboneWidth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cheekbone Width</Source>
+      <Dest>Šířka lícních kostí</Dest>
+    </String>
+    <String List="0" sID="00ABC5">
+      <EDID>sSpace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0" sID="00ABEA">
+      <EDID>sRestoration</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>RESTORATION</Source>
+      <Dest>RESTORATION</Dest>
+    </String>
+    <String List="0" sID="00ACFC">
+      <EDID>sMonthJanuary</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>January</Source>
+      <Dest>Leden</Dest>
+    </String>
+    <String List="0" sID="00AE79">
+      <EDID>sSaveGameIsCorrupt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The save game is corrupt.  Returning to game.</Source>
+      <Dest>Tato uložená pozice je poškozená. The save game is corrupt.  Probíhá návrat do hry.</Dest>
+    </String>
+    <String List="0" sID="00B0CE">
+      <EDID>sRSMEyeHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Height</Source>
+      <Dest>Výška očí</Dest>
+    </String>
+    <String List="0" sID="00B115" Partial="1">
+      <EDID>sOpenedContainer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Opened the container with a key.</Source>
+      <Dest>Otevřel jsi úložiště klíčem.</Dest>
+    </String>
+    <String List="0" sID="00B1F9">
+      <EDID>sSexMalePossessive</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>his</Source>
+      <Dest>jeho</Dest>
+    </String>
+    <String List="0" sID="00B2D6">
+      <EDID>sNone</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>None</Source>
+      <Dest>Nic</Dest>
+    </String>
+    <String List="0" sID="00B6F3">
+      <EDID>sRSMRace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Race</Source>
+      <Dest>Rasa</Dest>
+    </String>
+    <String List="0" sID="00B729">
+      <EDID>sNoLockPickIfCrimeAlert</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't pick a lock while being pursued by guards.</Source>
+      <Dest>Nemůžeš otvírat zámky, když tě pronásledují stráže.</Dest>
+    </String>
+    <String List="0" sID="00B8A7">
+      <EDID>sRSMNoseLength</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Nose Length</Source>
+      <Dest>Délka nosu</Dest>
+    </String>
+    <String List="0" sID="00BA6C">
+      <EDID>sSneakCaution</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CAUTION</Source>
+      <Dest>UPOZORNĚNÍ</Dest>
+    </String>
+    <String List="0" sID="00BA94">
+      <EDID>sSexFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>female</Source>
+      <Dest>žena</Dest>
+    </String>
+    <String List="0" sID="00BC67">
+      <EDID>sRSMEyeWidth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Width</Source>
+      <Dest>Šířka očí</Dest>
+    </String>
+    <String List="0" sID="00C082">
+      <EDID>sNoRepairHostileActorsNear</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot repair items when enemies are nearby.</Source>
+      <Dest>Nemůžeš opravovat předměty, když jsou nablízku nepřátelé.</Dest>
+    </String>
+    <String List="0" sID="00C0A0">
+      <EDID>sRepair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>REPAIR</Source>
+      <Dest>OPRAVIT</Dest>
+    </String>
+    <String List="0" sID="00C20A">
+      <EDID>sSoulLevelNamePetty</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Petty</Source>
+      <Dest>Drobná</Dest>
+    </String>
+    <String List="0" sID="00C23B">
+      <EDID>sRSMEyeSocketUpperColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Shadow</Source>
+      <Dest>Oční stíny</Dest>
+    </String>
+    <String List="0" sID="00C27B">
+      <EDID>sRSMName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Name</Source>
+      <Dest>Jméno</Dest>
+    </String>
+    <String List="0" sID="00C6AB">
+      <EDID>sRestartToUseProfileContent</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>In order to use the downloaded content associated with this profile, you will need to restart.</Source>
+      <Dest>Musíš restartovat hru, abys mohl použít stažený obsah navázaný na tento profil.</Dest>
+    </String>
+    <String List="0" sID="00C770">
+      <EDID>sRSMDirt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Dirt</Source>
+      <Dest>Špína</Dest>
+    </String>
+    <String List="0" sID="00C796">
+      <EDID>sQuestUpdatedText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quest updated</Source>
+      <Dest>Úkol aktualizován</Dest>
+    </String>
+    <String List="0" sID="00C7E5">
+      <EDID>sPlayerLeavingBorderRegion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot go that way.</Source>
+      <Dest>Tímto směrem nemůžeš jít.</Dest>
+    </String>
+    <String List="0" sID="00C807">
+      <EDID>sServeTimeQuestion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you just want to serve your time?</Source>
+      <Dest>Opravdu si chceš svůj trest odpracovat?</Dest>
+    </String>
+    <String List="0" sID="00C887">
+      <EDID>sPCRelationshipNegativeChangeText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> is no longer your </Source>
+      <Dest> již není tvůj </Dest>
+    </String>
+    <String List="0" sID="00C899">
+      <EDID>sQuitEnchanting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quit enchanting?</Source>
+      <Dest>Quit enchanting?</Dest>
+    </String>
+    <String List="0" sID="00CD95">
+      <EDID>sQuestAddedText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quest added</Source>
+      <Dest>Nový úkol</Dest>
+    </String>
+    <String List="0" sID="00CDE5">
+      <EDID>sRestartBecauseContentRemoved</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The game must restart now because downloaded content has been removed.</Source>
+      <Dest>Hra musí být nyní restartována, protože byl stažený obsah odstraněn.</Dest>
+    </String>
+    <String List="0" sID="00CEE4">
+      <EDID>sNoFastTravelAlarm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel while guards are pursuing you.</Source>
+      <Dest>Nemůžeš použít rychlé cestování, pokud tě pronásledují stráže.</Dest>
+    </String>
+    <String List="0" sID="00CF78">
+      <EDID>sPronounPosObjMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>his</Source>
+      <Dest>jeho</Dest>
+    </String>
+    <String List="0" sID="00CFC0">
+      <EDID>sRangeText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Range</Source>
+      <Dest>Rozsah</Dest>
+    </String>
+    <String List="0" sID="00D030">
+      <EDID>sNo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No</Source>
+      <Dest>Ne</Dest>
+    </String>
+    <String List="0" sID="00D092">
+      <EDID>sShoutAdded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Word of Power Learned.</Source>
+      <Dest>Word of Power Learned.</Dest>
+    </String>
+    <String List="0" sID="00D319">
+      <EDID>sNoItemsToRepair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No items to repair.</Source>
+      <Dest>Nemáš žádný předmět k opravě.</Dest>
+    </String>
+    <String List="0" sID="00D33F">
+      <EDID>sRepairAllItems</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair All (%d)</Source>
+      <Dest>Opravit vše (%d)</Dest>
+    </String>
+    <String List="0" sID="00D3CE">
+      <EDID>sRSMLaughLines</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Laugh Lines</Source>
+      <Dest>Vrásky po smíchu</Dest>
+    </String>
+    <String List="0" sID="00D3DF">
+      <EDID>sSeasonWinter</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Winter</Source>
+      <Dest>Zima</Dest>
+    </String>
+    <String List="0" sID="00D41E">
+      <EDID>sPickpocketFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've been caught pickpocketing.</Source>
+      <Dest>Byl jsi přichycen při kapsářství.</Dest>
+    </String>
+    <String List="0" sID="00D4E6">
+      <EDID>sMonthNovember</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>November</Source>
+      <Dest>Listopad</Dest>
+    </String>
+    <String List="0" sID="00D5B7">
+      <EDID>sPlayTime</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Play Time</Source>
+      <Dest>Odehraný čas</Dest>
+    </String>
+    <String List="0" sID="00D5C1">
+      <EDID>sNoTalkUnConscious</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> is unconscious.</Source>
+      <Dest> je v bezvědomí.</Dest>
+    </String>
+    <String List="0" sID="00D743">
+      <EDID>sTargetRange</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Target</Source>
+      <Dest>Cíl</Dest>
+    </String>
+    <String List="0" sID="00D79C">
+      <EDID>sNoWaitInAir</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait in the air.</Source>
+      <Dest>Nemůžeš čekat, když jsi ve vzduchu.</Dest>
+    </String>
+    <String List="0" sID="00D800">
+      <EDID>sRSMCheekboneHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Cheekbone Height</Source>
+      <Dest>Výška lícních kostí</Dest>
+    </String>
+    <String List="0" sID="00D80A">
+      <EDID>sRSMJawWidth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Jaw Width</Source>
+      <Dest>Šířka čelisti</Dest>
+    </String>
+    <String List="0" sID="00D867">
+      <EDID>sNoSleepInOwnedBed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep in an owned bed.</Source>
+      <Dest>Nemůžeš spát v posteli, která patří někomu jinému.</Dest>
+    </String>
+    <String List="0" sID="00D8F8">
+      <EDID>sPreviousSelection</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Previous Selection</Source>
+      <Dest>Předchozí výběr</Dest>
+    </String>
+    <String List="0" sID="00D92C">
+      <EDID>sRSMSkinColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Skin Tone</Source>
+      <Dest>Odstín kůže</Dest>
+    </String>
+    <String List="0" sID="00DA97">
+      <EDID>sTake</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Take</Source>
+      <Dest>Vzít</Dest>
+    </String>
+    <String List="0" sID="00DB20">
+      <EDID>sSaveGameOldVersion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SAVE OBSOLETE</Source>
+      <Dest>ULOŽENÁ POZICE JE NEKOMPATIBILNÍ</Dest>
+    </String>
+    <String List="0" sID="00DB9E">
+      <EDID>sMonthMarch</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>March</Source>
+      <Dest>Březen</Dest>
+    </String>
+    <String List="0" sID="00DBBC">
+      <EDID>sMonthJune</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>June</Source>
+      <Dest>Červen</Dest>
+    </String>
+    <String List="0" sID="00DCF1">
+      <EDID>sRSMFace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Face</Source>
+      <Dest>Obličej</Dest>
+    </String>
+    <String List="0" sID="00DD10">
+      <EDID>sPronounPosObjFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>her</Source>
+      <Dest>její</Dest>
+    </String>
+    <String List="0" sID="00DD4E">
+      <EDID>sNoSleepHostileActorsNear</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep when enemies are nearby.</Source>
+      <Dest>Nemůžeš spát, když jsou nablízku nepřátelé.</Dest>
+    </String>
+    <String List="0" sID="00DD7C">
+      <EDID>sNoFastTravelUndiscovered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have not discovered this location yet.</Source>
+      <Dest>Tuto oblast jsi ještě neobjevil.</Dest>
+    </String>
+    <String List="0" sID="00DE1E">
+      <EDID>sOpenWithKey</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Unlocked with %s.</Source>
+      <Dest>K odemčení byl použit %s.</Dest>
+    </String>
+    <String List="0" sID="00DE50">
+      <EDID>sPronounFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>she</Source>
+      <Dest>ona</Dest>
+    </String>
+    <String List="0" sID="00DEF3">
+      <EDID>sNoEatQuestItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can not eat quest items.</Source>
+      <Dest>Úkolový předmět sníst nemůžeš.</Dest>
+    </String>
+    <String List="0" sID="00DF3C">
+      <EDID>sRepairSkill</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair Skill</Source>
+      <Dest>Dovednost opravování</Dest>
+    </String>
+    <String List="0" sID="00DF67">
+      <EDID>sPronounPosMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>his</Source>
+      <Dest>jeho</Dest>
+    </String>
+    <String List="0" sID="00DF7E">
+      <EDID>sSit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sit</Source>
+      <Dest>Posadit se</Dest>
+    </String>
+    <String List="0" sID="00DFB2">
+      <EDID>sRSMNoseHeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Nose Height</Source>
+      <Dest>Výška nosu</Dest>
+    </String>
+    <String List="0" sID="00DFE9">
+      <EDID>sSaveGameCorrupt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SAVE CORRUPT</Source>
+      <Dest>ULOŽENÁ POZICE JE POŠKOZENÁ</Dest>
+    </String>
+    <String List="0" sID="00E088">
+      <EDID>sParticleArrayAttachExcludeList</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Node1,Node2,Node3</Source>
+      <Dest>Node1,Node2,Node3</Dest>
+    </String>
+    <String List="0" sID="00E181">
+      <EDID>sSoulCaptured</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Soul captured!</Source>
+      <Dest>Duše polapena!</Dest>
+    </String>
+    <String List="0" sID="00E1B8">
+      <EDID>sRSMNoseColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Nose Color</Source>
+      <Dest>Odstín nosu</Dest>
+    </String>
+    <String List="0" sID="00E336">
+      <EDID>sRSMNoseTypes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Nose Type</Source>
+      <Dest>Typ nosu</Dest>
+    </String>
+    <String List="0" sID="00E438">
+      <EDID>sRSMNameWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Start game as %s?</Source>
+      <Dest>Začít hru jako %s?</Dest>
+    </String>
+    <String List="0" sID="00E439">
+      <EDID>sPronounMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>he</Source>
+      <Dest>on</Dest>
+    </String>
+    <String List="0" sID="00E49E">
+      <EDID>sScrollEquipped</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> equipped.</Source>
+      <Dest>vybaveno.</Dest>
+    </String>
+    <String List="0" sID="00E560">
+      <EDID>sSoulLevelNameGreater</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Greater</Source>
+      <Dest>Velká</Dest>
+    </String>
+    <String List="0" sID="00E5A8">
+      <EDID>sSaveGameContentIsMissing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This save relies on content that is no longer present. Some objects may no longer be available. Continue Loading?</Source>
+      <Dest>Tato pozice závisí na obsahu, který již není k dispozici. Některé objekty nemusejí být dostupné. Má se pozice přesto načíst?</Dest>
+    </String>
+    <String List="0" sID="00E5B7">
+      <EDID>sNotEnoughRoomWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You do not have enough room to drop this object.</Source>
+      <Dest>K odložení tohoto předmětu nemáš dostatek místa.</Dest>
+    </String>
+    <String List="0" sID="00E6E2">
+      <EDID>sRetryText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Retry</Source>
+      <Dest>Znovu</Dest>
+    </String>
+    <String List="0" sID="00E6FB">
+      <EDID>sSoulLevelNameCommon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Common</Source>
+      <Dest>Běžná</Dest>
+    </String>
+    <String List="0" sID="00E767">
+      <EDID>sMonthOctober</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>October</Source>
+      <Dest>Říjen</Dest>
+    </String>
+    <String List="0" sID="00E7A8">
+      <EDID>sNormalWeaponsResisted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your attack has no effect.</Source>
+      <Dest>Tvůj útok nemá žádný účinek.</Dest>
+    </String>
+    <String List="0" sID="00E8AF">
+      <EDID>sRSMHairColorPresets</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hair Color</Source>
+      <Dest>Barva vlasů</Dest>
+    </String>
+    <String List="0" sID="00E96B">
+      <EDID>sNoWaitTakingHealthDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait while taking health damage.</Source>
+      <Dest>Nemůžeš čekat, když ti ubývá zdraví.</Dest>
+    </String>
+    <String List="0" sID="00E9E2">
+      <EDID>sOff</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OFF</Source>
+      <Dest>VYP</Dest>
+    </String>
+    <String List="0" sID="00EAC3">
+      <EDID>sSexFemalePronoun</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>she</Source>
+      <Dest>ona</Dest>
+    </String>
+    <String List="0" sID="00EB31">
+      <EDID>sSaveSuccessful</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Save successful.</Source>
+      <Dest>Uložení se zdařilo.</Dest>
+    </String>
+    <String List="0" sID="00EB58">
+      <EDID>sSteal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Steal</Source>
+      <Dest>Ukrást</Dest>
+    </String>
+    <String List="0" sID="00EB76">
+      <EDID>sNoFastTravelCell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel from this location.</Source>
+      <Dest>Z této oblasti nelze použít rychlé cestování.</Dest>
+    </String>
+    <String List="0" sID="00EBCD">
+      <EDID>sRSMEyeColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Color</Source>
+      <Dest>Barva očí</Dest>
+    </String>
+    <String List="0" sID="00EC91">
+      <EDID>sTalk</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Talk</Source>
+      <Dest>Oslovit:</Dest>
+    </String>
+    <String List="0" sID="00ECF4">
+      <EDID>sPronounPosFemale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>hers</Source>
+      <Dest>její</Dest>
+    </String>
+    <String List="0" sID="00ED93">
+      <EDID>sPronounIntMale</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>himself</Source>
+      <Dest>himself</Dest>
+    </String>
+    <String List="0" sID="00EE04">
+      <EDID>sRewardXP</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Experience Points Earned.</Source>
+      <Dest>Získané body zkušenosti.</Dest>
+    </String>
+    <String List="0" sID="00F017">
+      <EDID>sRSMEyeDepth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Depth</Source>
+      <Dest>Hloubka očí</Dest>
+    </String>
+    <String List="0" sID="00F04C">
+      <EDID>sSuccessfulSneakAttackMain</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sneak attack for </Source>
+      <Dest>Kradmý útok za</Dest>
+    </String>
+    <String List="0" sID="00F0DB">
+      <EDID>sNoMoreFollowers</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have too many followers.</Source>
+      <Dest>Máš příliš mnoho společníků.</Dest>
+    </String>
+    <String List="0" sID="00F141">
+      <EDID>sPoisonAlreadyPoisonedMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The current weapon is already poisoned.</Source>
+      <Dest>Stávající zbraň je již otrávená.</Dest>
+    </String>
+    <String List="0" sID="00F16A">
+      <EDID>sMonthApril</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>April</Source>
+      <Dest>Duben</Dest>
+    </String>
+    <String List="0" sID="00F264">
+      <EDID>sNoFastTravelOverencumbered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You're carrying too much and can't fast travel!</Source>
+      <Dest>Neseš příliš velký náklad, a proto nemůžeš použít rychlé cestování!</Dest>
+    </String>
+    <String List="0" sID="00F355">
+      <EDID>sRSMEyeSocketLowerColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Eye Tint</Source>
+      <Dest>Odstín očí</Dest>
+    </String>
+    <String List="0" sID="00F391">
+      <EDID>sRSMForeheadColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Forehead Color</Source>
+      <Dest>Odstín čela</Dest>
+    </String>
+    <String List="0" sID="00F4A7">
+      <EDID>sPotionCreationFailed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Potion creation failed.</Source>
+      <Dest>Výroba lektvaru se nezdařila.</Dest>
+    </String>
+    <String List="0" sID="00F4AA">
+      <EDID>sSeasonFall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fall</Source>
+      <Dest>Podzim</Dest>
+    </String>
+    <String List="0" sID="00F588">
+      <EDID>sRide</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Ride</Source>
+      <Dest>Nasednout</Dest>
+    </String>
+    <String List="0" sID="00F5FB">
+      <EDID>sSneakDetected</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DETECTED</Source>
+      <Dest>ODHALEN</Dest>
+    </String>
+    <String List="0" sID="00F75C">
+      <EDID>sSaveOverSaveGame</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to overwrite this save game?</Source>
+      <Dest>Opravdu chceš tuto uloženou hru přepsat?</Dest>
+    </String>
+    <String List="0" sID="00F7D0">
+      <EDID>sRSMBrow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Brow</Source>
+      <Dest>Čelo</Dest>
+    </String>
+    <String List="0" sID="00F8B5">
+      <EDID>sRSMBody</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Body</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="00F916">
+      <EDID>sNoWaitHostileActorsNear</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait when enemies are nearby.</Source>
+      <Dest>Nemůžeš čekat, když jsou nablízku nepřátelé.</Dest>
+    </String>
+    <String List="0" sID="00FB12">
+      <EDID>sRSMWeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weight</Source>
+      <Dest>Váha</Dest>
+    </String>
+    <String List="0" sID="00FE4A">
+      <EDID>sNoFastTravelInAir</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel while jumping or falling.</Source>
+      <Dest>Ve výskoku nebo pádu nemůžeš použít rychlé cestování.</Dest>
+    </String>
+    <String List="0" sID="010023">
+      <EDID>sStealFrom</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Steal From</Source>
+      <Dest>Vykrást</Dest>
+    </String>
+    <String List="0" sID="010240">
+      <EDID>sNoFastTravelScriptBlock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fast travel is currently unavailable from this location.</Source>
+      <Dest>Rychlé cestování je v tuto chvíli z této oblasti nedostupné.</Dest>
+    </String>
+    <String List="0" sID="010796">
+      <EDID>sRSMConfirm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Finish and name your character?</Source>
+      <Dest>Ukončit tvorbu a pojmenovat postavu?</Dest>
+    </String>
+    <String List="0" sID="0111FE">
+      <EDID>sNoSleepWarnToLeave</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep while being asked to leave.</Source>
+      <Dest>Nemůžeš spát, když máš odejít.</Dest>
+    </String>
+    <String List="0" sID="011202">
+      <EDID>sNoWaitWarnToLeave</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait while being asked to leave.</Source>
+      <Dest>Nemůžeš čekat, když máš odejít.</Dest>
+    </String>
+    <String List="0" sID="0112AE">
+      <EDID>sNoKeyDropWarning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot drop keys.</Source>
+      <Dest>Klíče nemůžeš odložit.</Dest>
+    </String>
+    <String List="0" sID="011327">
+      <EDID>sRSMConfirmDestruction</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Change preset and lose your changes?</Source>
+      <Dest>Změnit předvolby a zahodit současné změny?</Dest>
+    </String>
+    <String List="0" sID="011762">
+      <EDID>sOf</EDID>
+      <REC>GMST:DATA</REC>
+      <Source> of </Source>
+      <Dest> z </Dest>
+    </String>
+    <String List="0" sID="011779">
+      <EDID>sSceneBlockingActorActivation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This individual is busy.</Source>
+      <Dest>Tato osoba je zaneprázdněna.</Dest>
+    </String>
+    <String List="0" sID="0117A3">
+      <EDID>sRSMPaintColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>War Paint Color</Source>
+      <Dest>Válečné barvy</Dest>
+    </String>
+    <String List="0" sID="0117A5">
+      <EDID>sPrisoner</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Prisoner</Source>
+      <Dest>Vězeň</Dest>
+    </String>
+    <String List="0" sID="0117FC">
+      <EDID>sNoFastTravelDefault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel at this time.</Source>
+      <Dest>Teď nemůžeš použít rychlé cestování.</Dest>
+    </String>
+    <String List="0" sID="011805">
+      <EDID>sRSMDirtColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Dirt Color</Source>
+      <Dest>Odstín špíny</Dest>
+    </String>
+    <String List="0" sID="011829">
+      <EDID>sNoWaitDefault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait at this time.</Source>
+      <Dest>Teď nemůžeš čekat.</Dest>
+    </String>
+    <String List="0" sID="011837">
+      <EDID>sOrcish</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ORCISH</Source>
+      <Dest>ORKSKÉ</Dest>
+    </String>
+    <String List="0" sID="011852">
+      <EDID>sNoSleepDefault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep at this time.</Source>
+      <Dest>Teď nemůžeš spát.</Dest>
+    </String>
+    <String List="0" sID="011870">
+      <EDID>sRSMComplexionColor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Complexion Color</Source>
+      <Dest>Barva pleti</Dest>
+    </String>
+    <String List="0" sID="0118B2">
+      <EDID>sSteel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>STEEL</Source>
+      <Dest>OCEL</Dest>
+    </String>
+    <String List="0" sID="0118CA">
+      <EDID>sStudded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>STUDDED</Source>
+      <Dest>OKOVANÉ</Dest>
+    </String>
+    <String List="0" sID="0121F2">
+      <EDID>sSmithingConfirm</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Do you want to improve this item?</Source>
+      <Dest>Chceš vylepšit tento předmět?</Dest>
+    </String>
+    <String List="0" sID="012233">
+      <EDID>sPoisonUnableToPoison</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Current weapon cannot be poisoned.</Source>
+      <Dest>Stávající zbraň nemůže být otrávena.</Dest>
+    </String>
+    <String List="0" sID="012258">
+      <EDID>sPoisoned</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have been poisoned.</Source>
+      <Dest>Byl jsi otráven.</Dest>
+    </String>
+    <String List="0" sID="012332">
+      <EDID>sNotAllowedToUseAutoDoorsWhileonHorse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Dismount Horse before going through door.</Source>
+      <Dest>Sesedni z koně před vchodem do dveří.</Dest>
+    </String>
+    <String List="0" sID="01244A">
+      <EDID>sQuitAlchemy</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Quit alchemy?</Source>
+      <Dest>Quit alchemy?</Dest>
+    </String>
+    <String List="0" sID="012680">
+      <EDID>sOr</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>or</Source>
+      <Dest>nebo</Dest>
+    </String>
+    <String List="0" sID="01282A">
+      <EDID>Sniper03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sniper</Source>
+      <Dest>Odstřelovač</Dest>
+    </String>
+    <String List="0" sID="01312E">
+      <EDID>SplineEndpointMarker</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Connect Power</Source>
+      <Dest>Připojit elektřinu</Dest>
+    </String>
+    <String List="0" sID="0141AF">
+      <EDID>sNoBatteryMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Fusion Core required for operation.</Source>
+      <Dest>Pro fungování je potřeba fúzní jádro.</Dest>
+    </String>
+    <String List="0" sID="014593">
+      <EDID>sPropModNameWeapfSpeed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weapon Speed</Source>
+      <Dest>Rychlost zbraně</Dest>
+    </String>
+    <String List="0" sID="015699">
+      <EDID>sPropModNameWeapfReloadSpeed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Reload Speed</Source>
+      <Dest>Rychlost přebíjení</Dest>
+    </String>
+    <String List="0" sID="0157DC">
+      <EDID>StealthBoy</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Stealth Boy</Source>
+      <Dest>Tichošlápek</Dest>
+    </String>
+    <String List="0" sID="015825">
+      <EDID>SpellVANS</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>VANS</Source>
+      <Dest>VANS</Dest>
+    </String>
+    <String List="0" sID="015890">
+      <EDID>StarlightDriveInMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Starlight Drive In</Source>
+      <Dest>Autokino Světlo hvězd</Dest>
+    </String>
+    <String List="0" sID="015930">
+      <EDID>SpotlightUp_Off</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>SetDressing\</Source>
+      <Dest>SetDressing\</Dest>
+    </String>
+    <String List="0" sID="015A16">
+      <EDID>sPropModNameWeapcNumProjectiles</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Number of Projectiles</Source>
+      <Dest>Počet projektilů</Dest>
+    </String>
+    <String List="0" sID="016133">
+      <EDID>SolarPowered01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Solar Powered</Source>
+      <Dest>Sluníčkový člověk</Dest>
+    </String>
+    <String List="0" sID="01621B">
+      <EDID>sPropModNameWeapfAimModelRecoilMaxDegPerShot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Recoil</Source>
+      <Dest>Zpětný ráz</Dest>
+    </String>
+    <String List="0" sID="016869">
+      <EDID>SMLiftInvJump01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>Židle</Dest>
+    </String>
+    <String List="0" sID="016BFB">
+      <EDID>sPropModNameWeapfAimModelBaseStability</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stability</Source>
+      <Dest>Stabilita</Dest>
+    </String>
+    <String List="0" sID="017B1C">
+      <EDID>StanSlavin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Stan Slavin</Source>
+      <Dest>Stan Slavin</Dest>
+    </String>
+    <String List="0" sID="018598">
+      <EDID>SteakBloatfly</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Baked Bloatfly</Source>
+      <Dest>Pečená megamoucha</Dest>
+    </String>
+    <String List="0" sID="019401">
+      <EDID>sPropModNameArmousRating</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Damage Resistance</Source>
+      <Dest>Odolnost vůči zranění</Dest>
+    </String>
+    <String List="0" sID="01B430">
+      <EDID>Spatula</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Spatula</Source>
+      <Dest>Obracečka</Dest>
+    </String>
+    <String List="0" sID="01B79D">
+      <EDID>Spoon_03_Silver</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Silver Table Spoon</Source>
+      <Dest>Stříbrná lžíce</Dest>
+    </String>
+    <String List="0" sID="01C04C">
+      <EDID>SquirrelStick</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Squirrel On A Stick</Source>
+      <Dest>Veverka na špejli</Dest>
+    </String>
+    <String List="0" sID="01CAFC">
+      <EDID>Solomon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Solomon</Source>
+      <Dest>Solomon</Dest>
+    </String>
+    <String List="0" sID="01D140">
+      <EDID>sPropModNameWeapfSecondaryDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Melee Damage</Source>
+      <Dest>Poškození zblízka</Dest>
+    </String>
+    <String List="0" sID="01D5B3">
+      <EDID>StarlightDriveInLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Starlight Drive-In</Source>
+      <Dest>Autokino Světlo hvězd</Dest>
+    </String>
+    <String List="0" sID="01D656">
+      <EDID>SpectacleIslandInteriorLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Spectacle Island</Source>
+      <Dest>Ostrov Spectacle</Dest>
+    </String>
+    <String List="0" sID="01D6A8">
+      <EDID>SpectacleIslandLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Spectacle Island</Source>
+      <Dest>Ostrov Spectacle</Dest>
+    </String>
+    <String List="0" sID="01DA09">
+      <EDID>Sniper01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sniper</Source>
+      <Dest>Odstřelovač</Dest>
+    </String>
+    <String List="0" sID="01DA0B">
+      <EDID>Sniper02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sniper</Source>
+      <Dest>Odstřelovač</Dest>
+    </String>
+    <String List="0" sID="01FD61">
+      <EDID>Spoon_02_StainlessSteel</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Table Spoon</Source>
+      <Dest>Polévková lžíce</Dest>
+    </String>
+    <String List="0" sID="01FFA3">
+      <EDID>SmithingToolSaw01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Saw</Source>
+      <Dest>Pila</Dest>
+    </String>
+    <String List="0" sID="0206C2">
+      <EDID>Sneak01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sneak</Source>
+      <Dest>Plížení</Dest>
+    </String>
+    <String List="0" sID="0210F4">
+      <EDID>StanSlavin</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Stan</Source>
+      <Dest>Stan</Dest>
+    </String>
+    <String List="0" sID="02194A">
+      <EDID>sPropModNameWeapfOutOfRangeDamageMult</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Damage Penalty</Source>
+      <Dest>Zeslabení poškození</Dest>
+    </String>
+    <String List="0" sID="021E28">
+      <EDID>sPropModNameWeapfAttackActionPointCost</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Action Point Cost</Source>
+      <Dest>Spotřeba akčních bodů</Dest>
+    </String>
+    <String List="0" sID="02340F">
+      <EDID>SPECIAL_INT_1</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>SPECIAL Intelligence 1</Source>
+      <Dest>SPECIAL inteligence 1</Dest>
+    </String>
+    <String List="0" sID="023F78">
+      <EDID>SquirrelBits</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Squirrel Bits</Source>
+      <Dest>Veverčí kousky</Dest>
+    </String>
+    <String List="0" sID="02468C">
+      <EDID>SpectacleIslandMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Spectacle Island</Source>
+      <Dest>Ostrov Spectacle</Dest>
+    </String>
+    <String List="0" sID="0249A1">
+      <EDID>sPropModNameWeapfAimModelRecoilHipMult</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hip Recoil</Source>
+      <Dest>Zpětný ráz při střelbě od boku</Dest>
+    </String>
+    <String List="0" sID="024C22">
+      <EDID>sPropModNameWeapfAimModelMaxConeDegrees</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Spread</Source>
+      <Dest>Rozptyl</Dest>
+    </String>
+    <String List="0" sID="024CA8">
+      <EDID>SteakDeathclaw</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Deathclaw Steak</Source>
+      <Dest>Steak z párače</Dest>
+    </String>
+    <String List="0" sID="02503F">
+      <EDID>Spoon_01_Plastic</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Plastic Spoon</Source>
+      <Dest>Plastová lžíce</Dest>
+    </String>
+    <String List="0" sID="025071">
+      <EDID>SouthBostonCheckpointMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>S. Boston Military Checkpoint</Source>
+      <Dest>Vojenské stanoviště Boston-jih</Dest>
+    </String>
+    <String List="0" sID="026CCC">
+      <EDID>SquirrelStew</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Squirrel Stew</Source>
+      <Dest>Veverka se zeleninou</Dest>
+    </String>
+    <String List="0" sID="026E71">
+      <EDID>sPropModNameWeapuAimModelRecoilShotsForRunaway</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Shots before Recoil</Source>
+      <Dest>Počet výstřelů před zpětným rázem</Dest>
+    </String>
+    <String List="0" sID="026F4B">
+      <EDID>SmithingToolSaw02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Hack Saw</Source>
+      <Dest>Rámová pila</Dest>
+    </String>
+    <String List="0" sID="02792A">
+      <EDID>SouthBostonCheckpointLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>South Boston Military Checkpoint</Source>
+      <Dest>Vojenské stanoviště Boston-jih</Dest>
+    </String>
+    <String List="0" sID="027A2E">
+      <EDID>SquirrelBitsCrispy</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Crispy Squirrel Bits</Source>
+      <Dest>Křupavé veverčí kousky</Dest>
+    </String>
+    <String List="0" sID="028270">
+      <EDID>sPropModNameWeapeSoundLevel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sound Level</Source>
+      <Dest>Hlasitost</Dest>
+    </String>
+    <String List="0" sID="0284EC">
+      <EDID>SplineSparks</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>SplineSparks</Source>
+      <Dest>SplineSparks</Dest>
+    </String>
+    <String List="0" sID="029018">
+      <EDID>SteakRadroach</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Grilled Radroach</Source>
+      <Dest>Grilovaný radioaktivní šváb</Dest>
+    </String>
+    <String List="0" sID="029023">
+      <EDID>SouthBostonPDLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>South Boston Police Department</Source>
+      <Dest>Policejní oddělení Boston-jih</Dest>
+    </String>
+    <String List="0" sID="0291DE">
+      <EDID>Soap</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Soap</Source>
+      <Dest>Mýdlo</Dest>
+    </String>
+    <String List="0" sID="02988B">
+      <EDID>SouffleDeathclaw</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Deathclaw Wellingham</Source>
+      <Dest>Páračský Wellingham</Dest>
+    </String>
+    <String List="0" sID="029BA7">
+      <EDID>StaggerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Stagger</Source>
+      <Dest>Stagger</Dest>
+    </String>
+    <String List="0" sID="02A039">
+      <EDID>SpotlightExplosion</EDID>
+      <REC>EXPL:FULL</REC>
+      <Source>OnLightBulbEXP</Source>
+      <Dest>OnLightBulbEXP</Dest>
+    </String>
+    <String List="0" sID="02A54C">
+      <EDID>steakMolerat</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mole Rat Chunks</Source>
+      <Dest>Kousky krtkopotkana</Dest>
+    </String>
+    <String List="0" sID="02A6D2">
+      <EDID>steakBrahmin</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Ribeye Steak</Source>
+      <Dest>Brahmíní steak</Dest>
+    </String>
+    <String List="0" sID="02A6DC">
+      <EDID>steakRadStag</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Grilled Radstag</Source>
+      <Dest>Grilovaný mutajelen</Dest>
+    </String>
+    <String List="0" sID="02A771">
+      <EDID>steakMirelurkSoftshell</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Cooked Softshell Meat</Source>
+      <Dest>Vařený měkký plíživec</Dest>
+    </String>
+    <String List="0" sID="02A7AA">
+      <EDID>steakMirelurk</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Roasted Mirelurk Meat</Source>
+      <Dest>Pečený plíživec</Dest>
+    </String>
+    <String List="0" sID="02A8F9">
+      <EDID>SteakRadscorpion</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Radscorpion Steak</Source>
+      <Dest>Steak z radškorpiona</Dest>
+    </String>
+    <String List="0" sID="02A8FF">
+      <EDID>steakYaoGuai</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Yao Guai Ribs</Source>
+      <Dest>Žebra yao guai</Dest>
+    </String>
+    <String List="0" sID="02A935">
+      <EDID>steakDog</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mutt Chops</Source>
+      <Dest>Podvraťácká kotleta</Dest>
+    </String>
+    <String List="0" sID="02A941">
+      <EDID>steakStingwing</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Stingwing Filet</Source>
+      <Dest>Filet z šídlovážky</Dest>
+    </String>
+    <String List="0" sID="02A9DE">
+      <EDID>SteakBloodbug</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Bloodbug Steak</Source>
+      <Dest>Krvomáří steak</Dest>
+    </String>
+    <String List="0" sID="02C2F3">
+      <EDID>SpellPA_Stealth</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Stealth Field</Source>
+      <Dest>Pole neviditelnosti</Dest>
+    </String>
+    <String List="0" sID="02C427">
+      <EDID>SouthBoston25</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Church</Source>
+      <Dest>Kostel</Dest>
+    </String>
+    <String List="0" sID="02C499">
+      <EDID>SouthBostonPoliceDepartment01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>South Boston Police Department</Source>
+      <Dest>Policejní oddělení Boston-jih</Dest>
+    </String>
+    <String List="0" sID="02C640">
+      <EDID>Spoon_Wooden</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wooden Spoon</Source>
+      <Dest>Dřevěná lžíce</Dest>
+    </String>
+    <String List="0" sID="02C670">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>If my time overseas taught me one thing, it's that war changes people.  When I first laced my boots in Georgia I thought enlisting the Army was just a way to blow shit up in the name of God and Uncle Sam. I was a self-centered kid who wanted to play with guns.  Now I understand what service really means, and what looking out for this bunch of teamsters means, too.&#xD;
+&#xD;
+It may not be the same as guard duty for a camp of 800 soldiers, but it's something.</Source>
+      <Dest>Pokud mě válka v zámoří něčemu naučila, tak tomu, že mění lidi. Když jsem si poprvé zavázal boty v Georgii, myslel jsem, že členství v armádě je jenom záminka pro vyhazování věci do vzduchu ve jménu boha a strýčka Sama. Byl jsem sebestředné děcko, které si chtělo hrát se zbraněmi. Teď už chápu co služba opravdu znamená a taky co znamená dávat pozor na tuhle bandu parťáků.  &#xD;
+&#xD;
+Možná to není stejné jako strážit tábor o 800 vojácích, ale stále je to něco.</Dest>
+    </String>
+    <String List="0" sID="02C6C2">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Foreman's Terminal</Source>
+      <Dest>Předákův terminál</Dest>
+    </String>
+    <String List="0" sID="02C70D">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>I was sleeping in my chair when it happened.  They must have missed the city with  the big one - Framingham's gone from what little I heard on the radio before it went quiet.  Things aren't too good here, either.  At least I've got my little castle here to hole up in.  I'd probably have been vaporized if I had been doing my regular thing when it came.  Thanks, Lavonne...  </Source>
+      <Dest>Spal jsem ve svém křesle, když se to stalo.  Museli minout město s něčím velkým - Farmingham je pryč, podle toho co jsem slyšel ve vysílačce, než se odmlčeli.  Tady to taky není zrovna dobré.  Alespoň mám svůj malý hrad, ve kterém se mohu zakopat. Pravděpodobně bych byl seškvařen, pokud bych normálně pracoval, když to přišlo. Díky, Lavonno...  </Dest>
+    </String>
+    <String List="0" sID="02C73B">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Roger really came through for me.  This work site is right by the old neighborhood and the Union had a placement program for vets that helped me get the foreman gig without too much fuss.  I've got to buy the old bird a beer next I see him.</Source>
+      <Dest>Roger mi opravdu vyšel vstříc.  Tohle pracoviště je hned v mém sousedství a odbory mají speciální program pro zaměstnávání veteránů, který mi pomohl sehnat místo předáka bez větších problémů. Musím tomu starému pardálovi koupit pivo, až ho příště uvidím.</Dest>
+    </String>
+    <String List="0" sID="02C740">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>x©¯&amp;-ÚyûuÕ×ê@K£Ñ;93~Ý-¸¦ ·ÍL&gt;ómÎ~Çkf&gt;Ñö.[Wz¯å.FÕ^ÝNq-çCç¢ÑcQ3ÃuïnIõ$ ßVÁ&gt;Ñ÷óý¯ÖN"Y-uªNÜùÑÁÇÞ'EäÙ¦.%¦ojù4â¯YO&#xD;
+¢òú&gt;/tO¶æt²æäÖ'%J´Ú'¢z¥Ê*¯ZôüFM9[°|Üâÿ ] ÛzS¢¸=%"ÉÛJ):Z¥fkÊÃ2"»Í½¾b¤!)¤Ú{d©-itoþ&gt;r§¸÷Æs:õW'¡bZJ&gt;Tge[$[	HEå_KÄv+ ¶÷ÉàhpèÑ|;s&amp;Ðò÷&amp;#Ñ2óéþQÑu¾xÉ"¦-ì8~gWÝ"õp?ÌNvcYY\Ý7-Ñx[&amp;ö¢ÌÆOW|áôöXuF7SêÆ"4Wy0ûG%íòU+4e\7gà¥0V}Û_lò»¸ßD&amp;N¼.ì ¢Ô¯"nÝäåLsÈ®ÒpÆ+1C</Source>
+      <Dest>x©¯&amp;-ÚyûuÕ×ê@K£Ñ;93~Ý-¸¦ ·ÍL&gt;ómÎ~Çkf&gt;Ñö.[Wz¯å.FÕ^ÝNq-çCç¢ÑcQ3ÃuïnIõ$ ßVÁ&gt;Ñ÷óý¯ÖN"Y-uªNÜùÑÁÇÞ'EäÙ¦.%¦ojù4â¯YO&#xD;
+¢òú&gt;/tO¶æt²æäÖ'%J´Ú'¢z¥Ê*¯ZôüFM9[°|Üâÿ ] ÛzS¢¸=%"ÉÛJ):Z¥fkÊÃ2"»Í½¾b¤!)¤Ú{d©-itoþ&gt;r§¸÷Æs:õW'¡bZJ&gt;Tge[$[	HEå_KÄv+ ¶÷ÉàhpèÑ|;s&amp;Ðò÷&amp;#Ñ2óéþQÑu¾xÉ"¦-ì8~gWÝ"õp?ÌNvcYY\Ý7-Ñx[&amp;ö¢ÌÆOW|áôöXuF7SêÆ"4Wy0ûG%íòU+4e\7gà¥0V}Û_lò»¸ßD&amp;N¼.ì ¢Ô¯"nÝäåLsÈ®ÒpÆ+1C</Dest>
+    </String>
+    <String List="0" sID="02C774">
+      <EDID>SouthBoston19</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>High School</Source>
+      <Dest>Střední škola</Dest>
+    </String>
+    <String List="0" sID="02C777">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>ô§GuÌlaÖº|k®Ãºù¡¼&lt;s-èÂI£k&#xD;
+w§'LÇÍó(úSw7§:¸7¥)©ÝmË³.â-á'&gt;ÃéY¥Çc[vDÈÄd:üû§¹ÓA®lA¹ÔÌ:¹£Nû.#j1É%¡tênnÉFÓhP-ì§:¸¤§£ h_§Vslæ&lt;§h` §-%-çë°fÀ¾L?8ß"Ù©£ @pbÀ¨(cPæîÎMÓöiôq¸  ·àÆ§Bl§·^zvqH^è%'´£×·` (&#xD;
+ *è§,@4Ü&amp;]ÿÚ Â(|]Ð+Á1ÑÃÄA(qèãó}`·Ê=_~g+&#xD;
+(å?É:Y3©Ma¶Ou®a§¤ÑÃÿ ®¦ÂôØÆ¡%0vNpMx^aå1¸þ	OÎB%åa ÆüJW'%y®Á.OðHï¾@¶2¦zj£Ç&amp;¥k'øÉÍ_£èãÙÅ4&amp;7(ù°¾¯^.-</Source>
+      <Dest>ô§GuÌlaÖº|k®Ãºù¡¼&lt;s-èÂI£k&#xD;
+w§'LÇÍó(úSw7§:¸7¥)©ÝmË³.â-á'&gt;ÃéY¥Çc[vDÈÄd:üû§¹ÓA®lA¹ÔÌ:¹£Nû.#j1É%¡tênnÉFÓhP-ì§:¸¤§£ h_§Vslæ&lt;§h` §-%-çë°fÀ¾L?8ß"Ù©£ @pbÀ¨(cPæîÎMÓöiôq¸  ·àÆ§Bl§·^zvqH^è%'´£×·` (&#xD;
+ *è§,@4Ü&amp;]ÿÚ Â(|]Ð+Á1ÑÃÄA(qèãó}`·Ê=_~g+&#xD;
+(å?É:Y3©Ma¶Ou®a§¤ÑÃÿ ®¦ÂôØÆ¡%0vNpMx^aå1¸þ	OÎB%åa ÆüJW'%y®Á.OðHï¾@¶2¦zj£Ç&amp;¥k'øÉÍ_£èãÙÅ4&amp;7(ù°¾¯^.-</Dest>
+    </String>
+    <String List="0" sID="02C781">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>File Integrity: 0.2%</Source>
+      <Dest>Integrita souboru: 0.2%</Dest>
+    </String>
+    <String List="0" sID="02C88D">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>2) War...</Source>
+      <Dest>2) Válka...</Dest>
+    </String>
+    <String List="0" sID="02C8D6">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Saf»y Rep''rts</Source>
+      <Dest>Bezp»st zpr''y</Dest>
+    </String>
+    <String List="0" sID="02C935">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>4) The Day After</Source>
+      <Dest>4) Den poté</Dest>
+    </String>
+    <String List="0" sID="02C963">
+      <EDID>Sneak02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sneak</Source>
+      <Dest>Plížení</Dest>
+    </String>
+    <String List="0" sID="02C9AF">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Strange call from Lavonne.  Haven't seen her since the briefing room in Portland, and now she calls me up about her nephew's baseball team?  She must have been speaking in code, and I don't like what I think she meant.  Sending the team home to be with their families.  I'll just say it's a Union thing.</Source>
+      <Dest>Záhadný hovor od Lavonny.  Neviděl jsem ji od setkání při brífinku v Portlandu a teď mi volá kvůli baseballovému týmu jejího synovce?  Musela to být nějaká kódová řeč a opravdu se mi nelíbí, co tím nejspíš myslela. Posílám kluky domů, aby byli se svými rodinami. Prostě řeknu, že jde o odborovou záležitost.</Dest>
+    </String>
+    <String List="0" sID="02C9D4">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="2">TERM:RNAM</REC>
+      <Source>Loading...</Source>
+      <Dest>Načítám...</Dest>
+    </String>
+    <String List="0" sID="02CA52">
+      <EDID>Sneak04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sneak</Source>
+      <Dest>Plížení</Dest>
+    </String>
+    <String List="0" sID="02CA5A">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Foreman's Terminal</Source>
+      <Dest>Předákův terminál</Dest>
+    </String>
+    <String List="0" sID="02CA6E">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>ERROR IT-089: DATA Corruption Present&#xD;
+Loc%l 4#0][ La3or Un&amp;@n&#xD;
+MEM+R S//$%CE 18?9&#xD;
+================&#xD;
+Please Choose:</Source>
+      <Dest>CHYBA IT-089: Detekováno poškození dat&#xD;
+Lok%l 4#0][ La3or Un&amp;@n&#xD;
+MEM+R S//$%CE 18?9&#xD;
+================&#xD;
+Prosím zvolte:</Dest>
+    </String>
+    <String List="0" sID="02CAB5">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="3">TERM:RNAM</REC>
+      <Source>Loading...</Source>
+      <Dest>Načítám...</Dest>
+    </String>
+    <String List="0" sID="02CB9D">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Financi§l Reßort§</Source>
+      <Dest>Finančn§ zpßáv§</Dest>
+    </String>
+    <String List="0" sID="02CC12">
+      <EDID>Sneak03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sneak</Source>
+      <Dest>Plížení</Dest>
+    </String>
+    <String List="0" sID="02CC59">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>1) New Leaves</Source>
+      <Dest>1) Nová kapitola</Dest>
+    </String>
+    <String List="0" sID="02CC76">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>Loading...</Source>
+      <Dest>Načítám...</Dest>
+    </String>
+    <String List="0" sID="02CCC7">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>Loading...</Source>
+      <Dest>Načítám...</Dest>
+    </String>
+    <String List="0" sID="02CD25">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Loaded Foreman Log Files&#xD;
+NOTE: Union Article 21:16-C protects the contents of this log file from federal search, seizure, or subpoena.&#xD;
+&#xD;
+Welcome, Foreman.</Source>
+      <Dest>Načteny soubory s předákovy záznamy&#xD;
+POZNÁMKA: Odborový článek 21:16-C ochraňuje obsah tohoto souboru před federální prohlídkou, zabavením a použitím v právním řízení.&#xD;
+&#xD;
+Vítejte, předáku.</Dest>
+    </String>
+    <String List="0" sID="02CD60">
+      <EDID>SouthBoston35TerminalForemanLogs</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>3) Incoming?</Source>
+      <Dest>3) Přicházejí?</Dest>
+    </String>
+    <String List="0" sID="02CD6C">
+      <EDID>Sneak05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Sneak</Source>
+      <Dest>Plížení</Dest>
+    </String>
+    <String List="0" sID="02CDEB">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="2">TERM:RNAM</REC>
+      <Source>File Integrity: 99.1%</Source>
+      <Dest>Integrita souboru: 99.1%</Dest>
+    </String>
+    <String List="0" sID="02CE13">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Foreman's Log</Source>
+      <Dest>Předákovy záznamy</Dest>
+    </String>
+    <String List="0" sID="02CEBE">
+      <EDID>SouthBoston35</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Factory</Source>
+      <Dest>Továrna</Dest>
+    </String>
+    <String List="0" sID="02CF18">
+      <EDID>SouthBoston35Terminal</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>File Integrity: 1.9%</Source>
+      <Dest>Integrita souboru: 1.9%</Dest>
+    </String>
+    <String List="0" sID="02D8AE">
+      <EDID>SpellPA_RustyKnuckles</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Rusty Knuckles</Source>
+      <Dest>Rezavý boxer</Dest>
+    </String>
+    <String List="0" sID="02FC4E">
+      <EDID>SmithingToolHammer02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Blacksmith Hammer</Source>
+      <Dest>Kovářské kladivo</Dest>
+    </String>
+    <String List="0" sID="02FDCE">
+      <EDID>SmithingToolHammer01B</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Masonry Hammer</Source>
+      <Dest>Zednické kladivo</Dest>
+    </String>
+    <String List="0" sID="0301BF">
+      <EDID>SmithingToolHammer03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Claw Hammer</Source>
+      <Dest>Tesařské kladivo</Dest>
+    </String>
+    <String List="0" sID="0305D4">
+      <EDID>SmithingToolTongs01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Tongs</Source>
+      <Dest>Kleště</Dest>
+    </String>
+    <String List="0" sID="030627">
+      <EDID>SmithingToolHammer01A</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Tack Hammer</Source>
+      <Dest>Čalounické kladivo</Dest>
+    </String>
+    <String List="0" sID="031965">
+      <EDID>SteadyAim01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Steady Aim</Source>
+      <Dest>Pevná ruka</Dest>
+    </String>
+    <String List="0" sID="031976">
+      <EDID>SteadyAim02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Steady Aim</Source>
+      <Dest>Pevná ruka</Dest>
+    </String>
+    <String List="0" sID="031A0B">
+      <EDID>SolarPowered03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Solar Powered</Source>
+      <Dest>Sluníčkový člověk</Dest>
+    </String>
+    <String List="0" sID="031A98">
+      <EDID>SolarPowered02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Solar Powered</Source>
+      <Dest>Sluníčkový člověk</Dest>
+    </String>
+    <String List="0" sID="031B98">
+      <EDID>SniperPushEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Push Actor Away - Sniper</Source>
+      <Dest>Push Actor Away - Sniper</Dest>
+    </String>
+    <String List="0" sID="031FC4">
+      <EDID>SPECIALIntelligence</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned.</Source>
+      <Dest>Inteligence je míra tvé mentální bystrosti a ovlivňuje množství získaných zkušeností.</Dest>
+    </String>
+    <String List="0" sID="032031">
+      <EDID>SPECIALPerception</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Perception is your sense of environmental awareness and affects the hit chance in V.A.T.S.</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S.</Dest>
+    </String>
+    <String List="0" sID="03212A">
+      <EDID>SPECIALEndurance</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting.</Source>
+      <Dest>Odolnost je míra tvé celkové fyzické zdatnosti. Ovlivňuje tvé celkové zdraví a rychlost úbytku akčních bodů při sprintování.</Dest>
+    </String>
+    <String List="0" sID="0322A0">
+      <EDID>SPECIALCharisma</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter.</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost při přemlouvání v rozhovorech a ceny při obchodování.</Dest>
+    </String>
+    <String List="0" sID="0322E3">
+      <EDID>SPECIALLuck</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits.</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů.</Dest>
+    </String>
+    <String List="0" sID="0324AD">
+      <EDID>SPECIALStrength</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Strength is a measure of your raw physical power.  It affects how much you can carry, and determines the effectiveness of all melee attacks.</Source>
+      <Dest>Síla je mírou tvé hrubé fyzické zdatnosti.  Ovlivňuje kolik toho uneseš a určuje účinnost všech tvých útoků zblízka.</Dest>
+    </String>
+    <String List="0" sID="032592">
+      <EDID>SPECIALAgility</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It determines your Action Points in V.A.T.S. and your ability to sneak.</Source>
+      <Dest>Hbitost je míra tvé celkové obratnosti a reflexů. Hbitost určuje počet akčních bodů ve V.A.T.S. a tvoji schopnost plížení.</Dest>
+    </String>
+    <String List="0" sID="032707">
+      <EDID>Stealth04</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>The Stealth Boy is a personal device that generates a modulating refraction field. Using it effectively renders the wearer invisible for a short period of time.</Source>
+      <Dest>Tichošlápek je osobní zařízení generující a modulující refrakční pole. Při  použití je nositel na krátkou dobu prakticky neviditelný.</Dest>
+    </String>
+    <String List="0" sID="0328A3">
+      <EDID>Stealth01</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Running is noisier than walking and makes you easier to detect. To effectively sneak, stay low and slow.</Source>
+      <Dest>Běh je hlasitější než chůze a činí tě snažším k odhalení. Pro plížení zůstaň přikrčen a pohybuj se pomalu.</Dest>
+    </String>
+    <String List="0" sID="0329AC">
+      <EDID>Stealth02</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Your chances of successfully using stealth - and staying hidden - are affected by a variety of factors, like light level, noise generated, clothing weight, and enemies' line of sight.</Source>
+      <Dest>Tvá šance úspěšného plížení - a schopnosti zůstat skrytý - jsou ovlivněny mnoha faktory, jako je světlo, hluk, váha zbroje a zorné pole nepřátel.</Dest>
+    </String>
+    <String List="0" sID="032B16">
+      <EDID>Stealth03</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>While it's great for illuminating dark areas, the light generated from your Pip-Boy light actually makes you less stealthy. If you want to effectively sneak, turn it off.</Source>
+      <Dest>Vedle toho, že je světlo Pip-Boye skvělé pro osvětlení tmavých koutů, tak i více odhaluje tvoji pozici. Pokud se chceš opravdu plížit, tak světlo vypni.</Dest>
+    </String>
+    <String List="0" sID="033293">
+      <EDID>steakMutantHound</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mutant Hound Chops</Source>
+      <Dest>Kotleta ze zmutovaného ohaře</Dest>
+    </String>
+    <String List="0" sID="033D98">
+      <EDID>SteakMirelurkQueen</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mirelurk Queen Steak</Source>
+      <Dest>Steak z královny plíživců</Dest>
+    </String>
+    <String List="0" sID="034097">
+      <EDID>StaggerSelfEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Stagger</Source>
+      <Dest>Stagger</Dest>
+    </String>
+    <String List="0" sID="03416D">
+      <EDID>SouthBostonHighSchoolLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>South Boston HighSchool</Source>
+      <Dest>Střední škola v jižním Bostonu</Dest>
+    </String>
+    <String List="0" sID="034175">
+      <EDID>SouthBostonFactoryLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Factory</Source>
+      <Dest>Továrna</Dest>
+    </String>
+    <String List="0" sID="034178">
+      <EDID>SouthBostonChurchLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Church</Source>
+      <Dest>Kostel</Dest>
+    </String>
+    <String List="0" sID="0342FC">
+      <EDID>sRadSoundTierThresholds</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>1,5,10,20,30,50</Source>
+      <Dest>1,5,10,20,30,50</Dest>
+    </String>
+    <String List="0" sID="03503E">
+      <EDID>SportsCar03_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="03505E">
+      <EDID>StationWagon03A_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="03507C">
+      <EDID>StationWagon_Postwar_Cheap03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0350A4">
+      <EDID>StationWagon04A_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0350A5">
+      <EDID>SportsCar_Postwar_Cheap03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0350A8">
+      <EDID>StationWagonWhite01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0350C4">
+      <EDID>StationWagonBlack01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035136">
+      <EDID>SportsCar_Postwar_Cheap04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0351D9">
+      <EDID>StationWagon_Postwar_Cheap02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0351E2">
+      <EDID>SportsCar04_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0351FD">
+      <EDID>SportsCar01_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="03523F">
+      <EDID>StationWagon01A_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="03526F">
+      <EDID>SportsCar_Postwar_Cheap02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0352B2">
+      <EDID>StationWagon_Postwar_Cheap04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0352CC">
+      <EDID>StationWagon04B_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0352D0">
+      <EDID>StationWagon03B_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035314">
+      <EDID>StationWagonWhiteTrunkOpen01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035339">
+      <EDID>StationWagon02A_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035343">
+      <EDID>SportsCar_Postwar_Cheap01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0353A4">
+      <EDID>StationWagon01B_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0353CC">
+      <EDID>StationWagon_Postwar_Cheap01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="0353E2">
+      <EDID>StationWagonBlue01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035405">
+      <EDID>SportsCar02_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035444">
+      <EDID>SportsCar01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035464">
+      <EDID>StationWagon02B_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035480">
+      <EDID>SpectacleIslandPowerSourcePrimitive</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Generator</Source>
+      <Dest>Generátor</Dest>
+    </String>
+    <String List="0" sID="035588">
+      <EDID>SpectacleIsland14BarrelStaticColA</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Radioactive Barrels</Source>
+      <Dest>Radioaktivní barely</Dest>
+    </String>
+    <String List="0" sID="035633">
+      <EDID>sSpeechChallengeFailed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Persuasion Attempt Failed.</Source>
+      <Dest>Pokus o přesvědčení selhal.</Dest>
+    </String>
+    <String List="0" sID="035660">
+      <EDID>StationWagon05A_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Car</Source>
+      <Dest>Auto</Dest>
+    </String>
+    <String List="0" sID="035672">
+      <EDID>SpectacleIsland4BarrelStaticColA</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Radioactive Barrels</Source>
+      <Dest>Radioaktivní barely</Dest>
+    </String>
+    <String List="0" sID="03596A">
+      <EDID>sPropModNameWeapfCriticalDamageMult</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fCriticalDamageMult</Source>
+      <Dest>fCriticalDamageMult</Dest>
+    </String>
+    <String List="0" sID="03596B">
+      <EDID>sPropModNameWeapfMinPowerPerShot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fMinPowerPerShot</Source>
+      <Dest>fMinPowerPerShot</Dest>
+    </String>
+    <String List="0" sID="03596D">
+      <EDID>sRankSuffix10</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>X</Source>
+      <Dest>X</Dest>
+    </String>
+    <String List="0" sID="03596E">
+      <EDID>sMiscStatSynthsKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Synths Killed</Source>
+      <Dest>Zabití syntetikové</Dest>
+    </String>
+    <String List="0" sID="035972">
+      <EDID>sMiscStatSpeechSuccesses</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Persuasion Successes</Source>
+      <Dest>Úspěšné přesvědčování</Dest>
+    </String>
+    <String List="0" sID="035973">
+      <EDID>sPerkAdded</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>%s Added</Source>
+      <Dest>%s přidán</Dest>
+    </String>
+    <String List="0" sID="03597C">
+      <EDID>sPleaseWaitHolotape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Loading holotape.  Please wait...</Source>
+      <Dest>Načítám holopásku.  Prosím čekejte...</Dest>
+    </String>
+    <String List="0" sID="03597E">
+      <EDID>sNoEatItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You shouldn't eat that.</Source>
+      <Dest>Tohle bys neměl jíst.</Dest>
+    </String>
+    <String List="0" sID="035980">
+      <EDID>sPropModNameWeapfSightedTransitionSeconds</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fSightedTransitionSeconds</Source>
+      <Dest>fSightedTransitionSeconds</Dest>
+    </String>
+    <String List="0" sID="035983">
+      <EDID>sStatsPlayerHealth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>HP</Source>
+      <Dest>BZ</Dest>
+    </String>
+    <String List="0" sID="035985">
+      <EDID>sMiscStatSneakAttacks</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Sneak Attacks</Source>
+      <Dest>Útoky z krytu</Dest>
+    </String>
+    <String List="0" sID="03598D">
+      <EDID>sMiscStatWorkshopsUnlocked</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Workshops Unlocked</Source>
+      <Dest>Odemčené dílny</Dest>
+    </String>
+    <String List="0" sID="035993">
+      <EDID>sMiscStatTimesAddicted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Times Addicted</Source>
+      <Dest>Počet závislostí</Dest>
+    </String>
+    <String List="0" sID="035995">
+      <EDID>sModMenuNoWeaponsToMod</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have no weapons to modify.</Source>
+      <Dest>Nemáš žádné zbraně k úpravě.</Dest>
+    </String>
+    <String List="0" sID="035996">
+      <EDID>sRankSuffix08</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VIII</Source>
+      <Dest>VIII</Dest>
+    </String>
+    <String List="0" sID="03599A">
+      <EDID>sOutOfUserDiskSpace</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The maximum number of saves has been reached. Please delete older saves in order to be able to create a new one.</Source>
+      <Dest>Dosáhl jsi maximálního počtu uložených pozic. Prosím smaž staré uložené pozice, abys mohl vytvořit pozice nové.</Dest>
+    </String>
+    <String List="0" sID="03599F">
+      <EDID>sPropModNameWeapfColorRemappingIndex</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fColorRemappingIndex</Source>
+      <Dest>fColorRemappingIndex</Dest>
+    </String>
+    <String List="0" sID="0359A0">
+      <EDID>sQuestTitle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>QUESTS</Source>
+      <Dest>ÚKOLY</Dest>
+    </String>
+    <String List="0" sID="0359A3">
+      <EDID>sPropModNameArmoEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchantment</Source>
+      <Dest>Enchantment</Dest>
+    </String>
+    <String List="0" sID="0359AA">
+      <EDID>sPropModNameWeappFastEquipSound</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>pFastEquipSound</Source>
+      <Dest>pFastEquipSound</Dest>
+    </String>
+    <String List="0" sID="0359C6">
+      <EDID>sNoAmmo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Missing required ammo.</Source>
+      <Dest>Chybí ti požadovaná munice.</Dest>
+    </String>
+    <String List="0" sID="0359D0">
+      <EDID>sPresencePlayingLevel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Level: %d</Source>
+      <Dest>Úroveň: %d</Dest>
+    </String>
+    <String List="0" sID="0359D1">
+      <EDID>sPropModNameWeapEnchantment</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enchantment</Source>
+      <Dest>Enchantment</Dest>
+    </String>
+    <String List="0" sID="0359D2">
+      <EDID>sPropModNameWeapfAimModelRecoilDiminishSpringForce</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fAimModelRecoilDiminishSpringForce</Source>
+      <Dest>fAimModelRecoilDiminishSpringForce</Dest>
+    </String>
+    <String List="0" sID="0359D3">
+      <EDID>sNextRankAvailableText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NEXT RANK AVAILABLE!</Source>
+      <Dest>DOSTUPNÁ DALŠÍ ÚROVEŇ!</Dest>
+    </String>
+    <String List="0" sID="0359D6">
+      <EDID>sModMenuNone</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>None</Source>
+      <Dest>Nic</Dest>
+    </String>
+    <String List="0" sID="0359D7">
+      <EDID>sPropModNameArmofColorRemappingIndex</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fColorRemappingIndex</Source>
+      <Dest>fColorRemappingIndex</Dest>
+    </String>
+    <String List="0" sID="0359DC">
+      <EDID>sModMenuNoArmorToMod</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have no armor to modify.</Source>
+      <Dest>Nemáš žádnou zbroj k úpravě.</Dest>
+    </String>
+    <String List="0" sID="0359E1">
+      <EDID>sStatsPlayerXP</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>XP</Source>
+      <Dest>ZK</Dest>
+    </String>
+    <String List="0" sID="0359E6">
+      <EDID>sPlayTape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Play Tape</Source>
+      <Dest>Přehrát pásku</Dest>
+    </String>
+    <String List="0" sID="0359E8">
+      <EDID>sRankSuffix09</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>IX</Source>
+      <Dest>IX</Dest>
+    </String>
+    <String List="0" sID="0359EC">
+      <EDID>sPropModNameArmouiHealth</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>uiHealth</Source>
+      <Dest>uiHealth</Dest>
+    </String>
+    <String List="0" sID="0359F5">
+      <EDID>sRankSuffix03</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>III</Source>
+      <Dest>III</Dest>
+    </String>
+    <String List="0" sID="0359F6">
+      <EDID>sMiscStatStimpaksTaken</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stimpaks Taken</Source>
+      <Dest>Použité stimpaky</Dest>
+    </String>
+    <String List="0" sID="035A05">
+      <EDID>sModMenuCannotBuild</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Requirements not met.</Source>
+      <Dest>Požadavky nejsou splněny.</Dest>
+    </String>
+    <String List="0" sID="035A09">
+      <EDID>sNoWaitTakingRadDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot wait while taking radiation damage.</Source>
+      <Dest>Nemůžeš čekat, když jsi zraňován radiací.</Dest>
+    </String>
+    <String List="0" sID="035A0C">
+      <EDID>sMiscStatTrespasses</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Trespasses</Source>
+      <Dest>Počet nepovolených vstupů</Dest>
+    </String>
+    <String List="0" sID="035A0D">
+      <EDID>sPresenceInMenu</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>In Menu</Source>
+      <Dest>V hlavní nabídce</Dest>
+    </String>
+    <String List="0" sID="035A0E">
+      <EDID>sPANoPowerExitPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No Power. Hold [Activate] to Exit.</Source>
+      <Dest>Bez energie. Podrž [Activate] k vystoupení.</Dest>
+    </String>
+    <String List="0" sID="035A2D">
+      <EDID>sMiscStatWeaponsImproved</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weapon Mods Crafted</Source>
+      <Dest>Vyrobené úpravy zbraní</Dest>
+    </String>
+    <String List="0" sID="035A30">
+      <EDID>sRankSuffix05</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>V</Source>
+      <Dest>V</Dest>
+    </String>
+    <String List="0" sID="035A33">
+      <EDID>sMiscStatTurretsKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Turrets Killed</Source>
+      <Dest>Zabité věže</Dest>
+    </String>
+    <String List="0" sID="035A3E">
+      <EDID>sRankSuffix02</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>II</Source>
+      <Dest>II</Dest>
+    </String>
+    <String List="0" sID="035A43">
+      <EDID>sNoFastTravelVertibirdExterior</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can only travel to an exterior location on a Vertibird.</Source>
+      <Dest>Ve vertibirdu můžeš cestovat jen k venkovní lokaci.</Dest>
+    </String>
+    <String List="0" sID="035A47">
+      <EDID>sRankSuffixXX</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>X+</Source>
+      <Dest>X+</Dest>
+    </String>
+    <String List="0" sID="035A4A">
+      <EDID>sStatsPlayerAP</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AP</Source>
+      <Dest>AB</Dest>
+    </String>
+    <String List="0" sID="035A53">
+      <EDID>sRankSuffix07</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VII</Source>
+      <Dest>VII</Dest>
+    </String>
+    <String List="0" sID="035A54">
+      <EDID>sStatsPlayerLevel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Level</Source>
+      <Dest>Úroveň</Dest>
+    </String>
+    <String List="0" sID="035A5D">
+      <EDID>sRankSuffix01</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>I</Source>
+      <Dest>I</Dest>
+    </String>
+    <String List="0" sID="035A5F">
+      <EDID>sStopTape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stop Tape</Source>
+      <Dest>Stop páska</Dest>
+    </String>
+    <String List="0" sID="035A61">
+      <EDID>sMiscStatSkillBooksRead</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Magazines Found</Source>
+      <Dest>Nalezené časopisy</Dest>
+    </String>
+    <String List="0" sID="035A69">
+      <EDID>sRequirementsNone</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>none</Source>
+      <Dest>žádné</Dest>
+    </String>
+    <String List="0" sID="035A6C">
+      <EDID>sPleaseWaitLogin</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Accessing system.  Please wait...</Source>
+      <Dest>Přistupuji k systému.  Prosím čekejte...</Dest>
+    </String>
+    <String List="0" sID="035A6F">
+      <EDID>sReverbClassNames</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Default|Class A|Class B|Class C|Class D|Class E</Source>
+      <Dest>Default|Class A|Class B|Class C|Class D|Class E</Dest>
+    </String>
+    <String List="0" sID="035A71">
+      <EDID>sPADisallowed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't do that while in Power Armor.</Source>
+      <Dest>Tohle nemůžeš dělat, když jsi v energozbroji.</Dest>
+    </String>
+    <String List="0" sID="035A73">
+      <EDID>sNoNeedToRepairMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This item does not need to be repaired.</Source>
+      <Dest>Tento předmět nepotřebuje opravit.</Dest>
+    </String>
+    <String List="0" sID="035A78">
+      <EDID>sMiscStatSideQuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Side Quests Completed</Source>
+      <Dest>Splněné vedlejší úkoly</Dest>
+    </String>
+    <String List="0" sID="035A80">
+      <EDID>sPropModNameWeapfCriticalChargeBonus</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fCriticalChargeBonus</Source>
+      <Dest>fCriticalChargeBonus</Dest>
+    </String>
+    <String List="0" sID="035A81">
+      <EDID>sPropModNameWeapcAccuracyBonus</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>cAccuracyBonus</Source>
+      <Dest>cAccuracyBonus</Dest>
+    </String>
+    <String List="0" sID="035A85">
+      <EDID>sPipboyUnavailable</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>The Pip-Boy is unavailable.</Source>
+      <Dest>Pip-Boy není dostupný.</Dest>
+    </String>
+    <String List="0" sID="035A87">
+      <EDID>sRadioStationDefaultName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Radio</Source>
+      <Dest>Radiový</Dest>
+    </String>
+    <String List="0" sID="035A8E">
+      <EDID>sRankSuffix06</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VI</Source>
+      <Dest>VI</Dest>
+    </String>
+    <String List="0" sID="035A92">
+      <EDID>sPARequred</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must be in Power Armor to use this.</Source>
+      <Dest>Musíš být v energozbroji, abys toto šlo použít.</Dest>
+    </String>
+    <String List="0" sID="035A93">
+      <EDID>sModMenuNoPowerArmorToMod</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>No pieces equipped on Power Armor to modify.</Source>
+      <Dest>Energozbroj nemá žádné upravitelné části.</Dest>
+    </String>
+    <String List="0" sID="035AA2">
+      <EDID>sModMenuCannotDetach</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Mod cannot be detached.</Source>
+      <Dest>Úprava nemůže být demontována.</Dest>
+    </String>
+    <String List="0" sID="035AA4">
+      <EDID>sPropModNameWeapeStaggerValue</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>eStaggerValue</Source>
+      <Dest>eStaggerValue</Dest>
+    </String>
+    <String List="0" sID="035AA5">
+      <EDID>sPropModNameWeapfFullPowerSeconds</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>fFullPowerSeconds</Source>
+      <Dest>fFullPowerSeconds</Dest>
+    </String>
+    <String List="0" sID="035AA7">
+      <EDID>sRankSuffix04</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>IV</Source>
+      <Dest>IV</Dest>
+    </String>
+    <String List="0" sID="035AAB">
+      <EDID>sStealTakeBack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've been caught stealing. The owner will try to take the item back.</Source>
+      <Dest>Byl jsi přichicen při krádeži. Majitel se pokusí si vzít předměty zpátky.</Dest>
+    </String>
+    <String List="0" sID="035AAC">
+      <EDID>sMiscStatWater</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Water</Source>
+      <Dest>Voda</Dest>
+    </String>
+    <String List="0" sID="035AB1">
+      <EDID>sScrapItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scrap item?</Source>
+      <Dest>Sešrotovat předmět?</Dest>
+    </String>
+    <String List="0" sID="035AB7">
+      <EDID>sMiscStatWeaponsDisarmed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weapons Disarmed</Source>
+      <Dest>Zneškodněné zbraně</Dest>
+    </String>
+    <String List="0" sID="035ABC">
+      <EDID>sNoSleepTakingRadDamage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot sleep while taking radiation damage.</Source>
+      <Dest>Nemůžeš spát, když jsi zraňován radiací.</Dest>
+    </String>
+    <String List="0" sID="035D4E">
+      <EDID>SpellPA_CommonArm</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>PA Common Arm</Source>
+      <Dest>EZ obyčejná ruka</Dest>
+    </String>
+    <String List="0" sID="035DDD">
+      <EDID>SpellPA_ImpactLandingAggro</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>SpellPA_ImpactLandingAggro</Source>
+      <Dest>SpellPA_ImpactLandingAggro</Dest>
+    </String>
+    <String List="0" sID="036163">
+      <EDID>sMiscStatWastelandWhispers</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wasteland Whispers</Source>
+      <Dest>Šeptání pustiny</Dest>
+    </String>
+    <String List="0" sID="0361F8">
+      <EDID>sMiscStatSuppyLinesCreated</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Supply Lines Created</Source>
+      <Dest>Vytvořené obchodní trasy</Dest>
+    </String>
+    <String List="0" sID="0362AF">
+      <EDID>StealthBoyBonuses</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Stealth Boy Bonuses</Source>
+      <Dest>Bonusy pro Tichošlápka</Dest>
+    </String>
+    <String List="0" sID="036501">
+      <EDID>sPlayedFutureRetroHolotape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PlayedFutureRetroHolotape</Source>
+      <Dest>PlayedFutureRetroHolotape</Dest>
+    </String>
+    <String List="0" sID="036514">
+      <EDID>sStealAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You've been caught stealing. The owner is now hostile.</Source>
+      <Dest>Byl jsi přichycen při krádeži. Majitel je nyní nepřátelský.</Dest>
+    </String>
+    <String List="1" sID="01B682">
+      <EDID>Sneak01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Become whisper, become shadow. You are 20% harder to detect while sneaking.</Source>
+      <Dest>Buď vánkem, buď stínem. Při plížení jsi o 20% obtížněji zpozorovatelný.</Dest>
+    </String>
+    <String List="1" sID="01DA0D">
+      <EDID>Sniper03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic, scoped rifles gain +25% accuracy to head shots in V.A.T.S.</Source>
+      <Dest>Neautomatické pušky s optikou získávají +25% k přesnosti při střelbě na hlavu v režimu V.A.T.S.</Dest>
+    </String>
+    <String List="1" sID="01EBF3">
+      <EDID>Sniper02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic, scoped rifles have a chance of knocking down your target.</Source>
+      <Dest>Neautomatické pušky s optikou mají šanci poslat cíl k zemi.</Dest>
+    </String>
+    <String List="1" sID="0223AC">
+      <EDID>Sniper01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>It's all about focus. You have improved control and can hold your breath longer when aiming with scopes.</Source>
+      <Dest>Vše je jen o soustředění. Při míření přes optiku máš vylepšenou kontrolu a můžeš zadržet dech na delší dobu.</Dest>
+    </String>
+    <String List="1" sID="025DAF">
+      <EDID>SolarPowered01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Catch some rays! Gain +2 to Strength and Endurance between the hours of 6:00 a.m. and 6:00 p.m.</Source>
+      <Dest>Nachytej více paprsků! Získej +2 k síle a odolnosti v čase mezi 6:00 a 18:00.</Dest>
+    </String>
+    <String List="1" sID="02C7BC">
+      <EDID>Sneak03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You are now 40% harder to detect while sneaking, and no longer trigger enemy mines.</Source>
+      <Dest>Při plížení jsi o 40% obtížnějí zpozorovatelný a navíc neaktivuješ nepřátelské miny.</Dest>
+    </String>
+    <String List="1" sID="02C99D">
+      <EDID>Sneak02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You are now 30% harder to detect while sneaking, and no longer trigger floor-based traps.</Source>
+      <Dest>Při plížení jsi o 30% obtížněji zpozorovatelný a navíc nespouštíš podlahové pasti.</Dest>
+    </String>
+    <String List="1" sID="02CA84">
+      <EDID>Sneak04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You are now 50% harder to detect while sneaking, and running no longer adversely affects stealth.</Source>
+      <Dest>Při plížení jsi o 50% obtížněji zpozorovatelný a běh již nemá nepříznivý vliv na tvé krytí.</Dest>
+    </String>
+    <String List="1" sID="02CC68">
+      <EDID>Sneak05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Engaging stealth causes distant enemies to lose you.</Source>
+      <Dest>Přechod do krytu způsobí, že tě vzdálenější nepřátelé okamžitě ztratí.</Dest>
+    </String>
+    <String List="1" sID="0307AC">
+      <EDID>steakMirelurk</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+10 AP for 30 minutes.</Source>
+      <Dest>+10 AB na 30 minut.</Dest>
+    </String>
+    <String List="1" sID="03080F">
+      <EDID>steakStingwing</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+1 Perception for 1 hour.</Source>
+      <Dest>+1 vnímání na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="0308E0">
+      <EDID>SteakRadscorpion</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+25 Energy Resist for 1 hour.</Source>
+      <Dest>+25 odolnost proti energetickému poškození na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="0309E7">
+      <EDID>steakYaoGuai</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+15 Damage Resist for 1 hour.</Source>
+      <Dest>+15 odolnost vůči zranění na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="0309F2">
+      <EDID>SteakBloodbug</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+15 Max Health for 1 hour.</Source>
+      <Dest>+15 maximální zdraví na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="030A47">
+      <EDID>steakMirelurkSoftshell</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+15 AP for 1 Hour.</Source>
+      <Dest>+15 AB na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="03194B">
+      <EDID>SolarPowered03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Sunlight regenerates your lost Health.</Source>
+      <Dest>Sluneční svit obnovuje tvé ztracené zdraví.</Dest>
+    </String>
+    <String List="1" sID="031A01">
+      <EDID>SteadyAim01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Stay on target! Hip-fire accuracy is improved when firing any gun.</Source>
+      <Dest>Změř se na cíl! Vylepšená přesnost střelby od boku pro všechny střelné zbraně.</Dest>
+    </String>
+    <String List="1" sID="031AAF">
+      <EDID>SteadyAim02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Hip-fire accuracy is improved even more when firing any gun.</Source>
+      <Dest>Ještě větší přesnost při střelbě od boku pro všechny střelné zbraně.</Dest>
+    </String>
+    <String List="1" sID="031B10">
+      <EDID>SolarPowered02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Sunlight slowly heals your radiation damage.</Source>
+      <Dest>Sluneční svit postupně léčí tvé zranění radiací.</Dest>
+    </String>
+    <String List="1" sID="031FBC">
+      <EDID>steakRadStag</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+25 Carry Weight for 1 hour</Source>
+      <Dest>+25 nosnost na jednu hodinu.</Dest>
+    </String>
+    <String List="1" sID="03218E">
+      <EDID>SquirrelStew</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+2% XP gain for 2 hours.</Source>
+      <Dest>+2% k získaným XP po 2 hodiny.</Dest>
+    </String>
+    <String List="1" sID="0323F4">
+      <EDID>steakMolerat</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+5 AP for 15 minutes.</Source>
+      <Dest>+5 AB na 15 minut.</Dest>
+    </String>
+    <String List="1" sID="033C19">
+      <EDID>SteakMirelurkQueen</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+2 Endurance for 1 hour.</Source>
+      <Dest>+2 odolnost na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="0356AC">
+      <EDID>steakMutantHound</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Remove 50 points of Radiation.</Source>
+      <Dest>Odstraňuje 50 bodů radiace.</Dest>
+    </String>
+    <String List="1" sID="0356E9">
+      <EDID>SteakBloatfly</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Increased Radiation Resistance.</Source>
+      <Dest>Zvýšená odolnost vůči radiaci.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

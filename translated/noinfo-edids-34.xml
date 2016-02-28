@@ -1,0 +1,3901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="000140">
+      <EDID>sTopicSubtypeTextServiceRepair</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair</Source>
+      <Dest>Repair</Dest>
+    </String>
+    <String List="0" sID="00017C">
+      <EDID>sTopicSubtypeTextCombatAllyKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AllyKilled</Source>
+      <Dest>AllyKilled</Dest>
+    </String>
+    <String List="0" sID="0002A9">
+      <EDID>sTopicSubtypeTextCombatAvoidThreat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AvoidThreat</Source>
+      <Dest>AvoidThreat</Dest>
+    </String>
+    <String List="0" sID="0004D2">
+      <EDID>sYesText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Yes</Source>
+      <Dest>Ano</Dest>
+    </String>
+    <String List="0" sID="000507">
+      <EDID>sTopicSubtypeTextMiscellaneousEnterBowZoomBreath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>EnterBowZoomBreath</Source>
+      <Dest>EnterBowZoomBreath</Dest>
+    </String>
+    <String List="0" sID="000662">
+      <EDID>sWeaponSmithing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weapon Smithing</Source>
+      <Dest>Výroba zbraně</Dest>
+    </String>
+    <String List="0" sID="00067A">
+      <EDID>sTopicSubtypeTextPlayerDialogueForceGreet</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ForceGreet</Source>
+      <Dest>ForceGreet</Dest>
+    </String>
+    <String List="0" sID="000DE5">
+      <EDID>sTimeSpanMidnight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>midnight</Source>
+      <Dest>půlnoc</Dest>
+    </String>
+    <String List="0" sID="000EA9">
+      <EDID>sTopicSubtypeTextMiscellaneousExitBowZoomBreath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ExitBowZoomBreath</Source>
+      <Dest>ExitBowZoomBreath</Dest>
+    </String>
+    <String List="0" sID="00155A">
+      <EDID>sTopicSubtypeTextServiceServiceRefusal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ServiceRefusal</Source>
+      <Dest>ServiceRefusal</Dest>
+    </String>
+    <String List="0" sID="0016F5">
+      <EDID>sVatsAiming</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Aiming</Source>
+      <Dest>Míření</Dest>
+    </String>
+    <String List="0" sID="001BCB">
+      <EDID>sYesToAllText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Yes to all</Source>
+      <Dest>Ano, všem</Dest>
+    </String>
+    <String List="0" sID="001E7F">
+      <EDID>sTimeSpanSunset</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sunset</Source>
+      <Dest>soumrak</Dest>
+    </String>
+    <String List="0" sID="002159">
+      <EDID>sVATSMessageNoAmmo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You don't have enough ammo.</Source>
+      <Dest>Nemáš dostatek munice.</Dest>
+    </String>
+    <String List="0" sID="0028C5">
+      <EDID>sYesRestart</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Yes, restart the game.</Source>
+      <Dest>Ano, restartovat hru.</Dest>
+    </String>
+    <String List="0" sID="0028F1">
+      <EDID>sVatsSelect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Select</Source>
+      <Dest>Výběr</Dest>
+    </String>
+    <String List="0" sID="002DCE">
+      <EDID>sTopicSubtypeTextServiceRepairExit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>RepairExit</Source>
+      <Dest>RepairExit</Dest>
+    </String>
+    <String List="0" sID="003337">
+      <EDID>sWeapons</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>WEAPONS</Source>
+      <Dest>ZBRANĚ</Dest>
+    </String>
+    <String List="0" sID="003372">
+      <EDID>sTimeSpanAfternoon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>afternoon</Source>
+      <Dest>odpoledne</Dest>
+    </String>
+    <String List="0" sID="003B11">
+      <EDID>sTopicSubtypeTextCombatMurder</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Murder</Source>
+      <Dest>Murder</Dest>
+    </String>
+    <String List="0" sID="003B29">
+      <EDID>sTopicSubtypeTextMiscellaneousPursueIdleTopic</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PursueIdleTopic</Source>
+      <Dest>PursueIdleTopic</Dest>
+    </String>
+    <String List="0" sID="003E69">
+      <EDID>sWeaponEnchantments</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>WEAPON ENCHANTMENTS</Source>
+      <Dest>OČAROVÁNÍ ZBRANÍ</Dest>
+    </String>
+    <String List="0" sID="0041A5">
+      <EDID>sTopicSubtypeTextMiscellaneousGoodbye</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Goodbye</Source>
+      <Dest>Goodbye</Dest>
+    </String>
+    <String List="0" sID="0043E5">
+      <EDID>sTopicSubtypeTextMiscellaneousTimeToGo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TimeToGo</Source>
+      <Dest>TimeToGo</Dest>
+    </String>
+    <String List="0" sID="00443F">
+      <EDID>sTopicSubtypeTextCombatAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Attack</Source>
+      <Dest>Attack</Dest>
+    </String>
+    <String List="0" sID="00481D">
+      <EDID>sTopicSubtypeTextDetectionLostIdle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LostIdle</Source>
+      <Dest>LostIdle</Dest>
+    </String>
+    <String List="0" sID="0049D6">
+      <EDID>sTopicSubtypeTextCombatAssault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Assault</Source>
+      <Dest>Assault</Dest>
+    </String>
+    <String List="0" sID="004D4E">
+      <EDID>sTopicSubtypeTextMiscellaneousActorCollidewithActor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ActorCollidewithActor</Source>
+      <Dest>ActorCollidewithActor</Dest>
+    </String>
+    <String List="0" sID="004D56">
+      <EDID>sTopicSubtypeTextDetectionNormalToAlert</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NormalToAlert</Source>
+      <Dest>NormalToAlert</Dest>
+    </String>
+    <String List="0" sID="0052AD">
+      <EDID>sTopicSubtypeTextCombatPowerAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PowerAttack</Source>
+      <Dest>PowerAttack</Dest>
+    </String>
+    <String List="0" sID="005531">
+      <EDID>sTopicSubtypeTextCombatAssaultNC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AssaultNC</Source>
+      <Dest>AssaultNC</Dest>
+    </String>
+    <String List="0" sID="0059AA">
+      <EDID>sTouchRange</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Strike</Source>
+      <Dest>Udeřit</Dest>
+    </String>
+    <String List="0" sID="005CD0">
+      <EDID>sTopicSubtypeTextCombatPickpocketNC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PickpocketNC</Source>
+      <Dest>PickpocketNC</Dest>
+    </String>
+    <String List="0" sID="005F0A">
+      <EDID>sTopicSubtypeTextServiceBarterExit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>BarterExit</Source>
+      <Dest>BarterExit</Dest>
+    </String>
+    <String List="0" sID="0060B1">
+      <EDID>sTopicSubtypeTextCombatHit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hit</Source>
+      <Dest>Hit</Dest>
+    </String>
+    <String List="0" sID="00625E">
+      <EDID>sTopicSubtypeTextMiscellaneousStandonFurniture</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>StandonFurniture</Source>
+      <Dest>StandonFurniture</Dest>
+    </String>
+    <String List="0" sID="006528">
+      <EDID>sTopicSubtypeTextMiscellaneousSwingMeleeWeapon</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SwingMeleeWeapon</Source>
+      <Dest>SwingMeleeWeapon</Dest>
+    </String>
+    <String List="0" sID="006647">
+      <EDID>sTopicSubtypeTextDetectionLostToCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LostToCombat</Source>
+      <Dest>LostToCombat</Dest>
+    </String>
+    <String List="0" sID="006711">
+      <EDID>sTopicSubtypeTextCombatTaunt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Taunt</Source>
+      <Dest>Taunt</Dest>
+    </String>
+    <String List="0" sID="00671D" Partial="1">
+      <EDID>sTo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>To</Source>
+      <Dest>Pro</Dest>
+    </String>
+    <String List="0" sID="00684C">
+      <EDID>sTopicSubtypeTextCombatBleedOut</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>BleedOut</Source>
+      <Dest>BleedOut</Dest>
+    </String>
+    <String List="0" sID="006AF2">
+      <EDID>sTopicSubtypeTextCombatTrespassAgainstNC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TrespassAgainstNC</Source>
+      <Dest>TrespassAgainstNC</Dest>
+    </String>
+    <String List="0" sID="006B30">
+      <EDID>sVATSMessageLowAP</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Not Enough AP</Source>
+      <Dest>Nedostatek AB</Dest>
+    </String>
+    <String List="0" sID="006B32">
+      <EDID>sValue</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Value</Source>
+      <Dest>Hodnota</Dest>
+    </String>
+    <String List="0" sID="006F86">
+      <EDID>sTopicSubtypeTextMiscellaneousHello</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hello</Source>
+      <Dest>Hello</Dest>
+    </String>
+    <String List="0" sID="00701F">
+      <EDID>sYour</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your</Source>
+      <Dest>Tvůj</Dest>
+    </String>
+    <String List="0" sID="0071AD">
+      <EDID>sTopicSubtypeTextCombatVoicePowerEndShort</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VoicePowerEndShort</Source>
+      <Dest>VoicePowerEndShort</Dest>
+    </String>
+    <String List="0" sID="00740A">
+      <EDID>sTeammateOverencumbered</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>can't carry any more.</Source>
+      <Dest>již více věcí neunese.</Dest>
+    </String>
+    <String List="0" sID="007A0B">
+      <EDID>sTopicSubtypeTextDetectionAlertIdle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AlertIdle</Source>
+      <Dest>AlertIdle</Dest>
+    </String>
+    <String List="0" sID="007B32">
+      <EDID>sTopicSubtypeTextMiscellaneousEnterSprintBreath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>EnterSprintBreath</Source>
+      <Dest>EnterSprintBreath</Dest>
+    </String>
+    <String List="0" sID="007DFB">
+      <EDID>sTopicSubtypeTextMiscellaneousShootBow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ShootBow</Source>
+      <Dest>ShootBow</Dest>
+    </String>
+    <String List="0" sID="008269">
+      <EDID>sTopicSubtypeTextMiscellaneousOutofBreath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OutofBreath</Source>
+      <Dest>OutofBreath</Dest>
+    </String>
+    <String List="0" sID="008466">
+      <EDID>sTopicSubtypeTextMiscellaneousSharedInfo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SharedInfo</Source>
+      <Dest>SharedInfo</Dest>
+    </String>
+    <String List="0" sID="0084FE">
+      <EDID>sTopicSubtypeTextCombatBlock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Block</Source>
+      <Dest>Block</Dest>
+    </String>
+    <String List="0" sID="008640">
+      <EDID>sTopicSubtypeTextCombatFlee</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Flee</Source>
+      <Dest>Flee</Dest>
+    </String>
+    <String List="0" sID="008858">
+      <EDID>sTopicSubtypeTextServiceTrainingExit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TrainingExit</Source>
+      <Dest>TrainingExit</Dest>
+    </String>
+    <String List="0" sID="008BBB">
+      <EDID>sTimeSpanSunrise</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>sunrise</Source>
+      <Dest>svítání</Dest>
+    </String>
+    <String List="0" sID="008CEE">
+      <EDID>sTopicSubtypeTextServiceTraining</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Training</Source>
+      <Dest>Training</Dest>
+    </String>
+    <String List="0" sID="008F77">
+      <EDID>sTopicSubtypeTextCombatYield</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Yield</Source>
+      <Dest>Yield</Dest>
+    </String>
+    <String List="0" sID="0093F7">
+      <EDID>sTopicSubtypeTextMiscellaneousCombatGrunt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CombatGrunt</Source>
+      <Dest>CombatGrunt</Dest>
+    </String>
+    <String List="0" sID="0095B2">
+      <EDID>sTopicSubtypeTextCombatPickpocketCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PickpocketCombat</Source>
+      <Dest>PickpocketCombat</Dest>
+    </String>
+    <String List="0" sID="009ADA">
+      <EDID>sWeaponBreak</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your weapon has broken.</Source>
+      <Dest>Tvá zbraň se rozbila.</Dest>
+    </String>
+    <String List="0" sID="009BED">
+      <EDID>sUnlock</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Unlock</Source>
+      <Dest>Odemknout</Dest>
+    </String>
+    <String List="0" sID="009DA1">
+      <EDID>sTopicSubtypeTextMiscellaneousObserveCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ObserveCombat</Source>
+      <Dest>ObserveCombat</Dest>
+    </String>
+    <String List="0" sID="009FDB">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerCastSelfSpell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PlayerCastSelfSpell</Source>
+      <Dest>PlayerCastSelfSpell</Dest>
+    </String>
+    <String List="0" sID="009FE3">
+      <EDID>sTopicSubtypeTextCombatVoicePowerStartLong</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VoicePowerStartLong</Source>
+      <Dest>VoicePowerStartLong</Dest>
+    </String>
+    <String List="0" sID="00A02D">
+      <EDID>sVatsAimed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Aimed</Source>
+      <Dest>Zaměřeno</Dest>
+    </String>
+    <String List="0" sID="00A15E">
+      <EDID>sTopicSubtypeTextCombatSteal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Steal</Source>
+      <Dest>Steal</Dest>
+    </String>
+    <String List="0" sID="00A723">
+      <EDID>sTopicSubtypeTextPlayerDialogueCustom</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>...</Source>
+      <Dest>...</Dest>
+    </String>
+    <String List="0" sID="00A95D">
+      <EDID>sTopicSubtypeTextServiceRecharge</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Recharge</Source>
+      <Dest>Recharge</Dest>
+    </String>
+    <String List="0" sID="00AB7E">
+      <EDID>sTopicSubtypeTextDetectionLostToNormal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LostToNormal</Source>
+      <Dest>LostToNormal</Dest>
+    </String>
+    <String List="0" sID="00B211">
+      <EDID>sVDSGManual</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VDSG MANUAL</Source>
+      <Dest>VDSG MANUÁL</Dest>
+    </String>
+    <String List="0" sID="00B485">
+      <EDID>sTopicSubtypeTextDetectionCombatToNormal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CombatToNormal</Source>
+      <Dest>CombatToNormal</Dest>
+    </String>
+    <String List="0" sID="00BC09">
+      <EDID>sTopicSubtypeTextMiscellaneousJump</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Jump</Source>
+      <Dest>Jump</Dest>
+    </String>
+    <String List="0" sID="00BD04">
+      <EDID>sYes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Yes</Source>
+      <Dest>Ano</Dest>
+    </String>
+    <String List="0" sID="00BE3E">
+      <EDID>sWeight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Weight</Source>
+      <Dest>Hmotnost</Dest>
+    </String>
+    <String List="0" sID="00BF04">
+      <EDID>sUnequipItemOnPlayer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>was unequipped</Source>
+      <Dest>- odloženo</Dest>
+    </String>
+    <String List="0" sID="00C183">
+      <EDID>sTopicSubtypeTextMiscellaneousIdle</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Idle</Source>
+      <Dest>Idle</Dest>
+    </String>
+    <String List="0" sID="00C38D">
+      <EDID>sTopicSubtypeTextDetectionNormalToCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NormalToCombat</Source>
+      <Dest>NormalToCombat</Dest>
+    </String>
+    <String List="0" sID="00C94A">
+      <EDID>sUse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Use</Source>
+      <Dest>Použít</Dest>
+    </String>
+    <String List="0" sID="00CB8B">
+      <EDID>sTopicSubtypeTextPlayerDialogueRumors</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Heard any rumors lately?</Source>
+      <Dest>Heard any rumors lately?</Dest>
+    </String>
+    <String List="0" sID="00CBE1">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerinIronSights</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PlayerinIronSights</Source>
+      <Dest>PlayerinIronSights</Dest>
+    </String>
+    <String List="0" sID="00CD09">
+      <EDID>sTopicSubtypeTextMiscellaneousDestroyObject</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DestroyObject</Source>
+      <Dest>DestroyObject</Dest>
+    </String>
+    <String List="0" sID="00D1DD">
+      <EDID>sTopicSubtypeTextDetectionAlertToNormal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AlertToNormal</Source>
+      <Dest>AlertToNormal</Dest>
+    </String>
+    <String List="0" sID="00D58D">
+      <EDID>sVDSGPlate</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VDSG Plate</Source>
+      <Dest>VDSG deska</Dest>
+    </String>
+    <String List="0" sID="00D596">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerCastProjectileSpell</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PlayerCastProjectileSpell</Source>
+      <Dest>PlayerCastProjectileSpell</Dest>
+    </String>
+    <String List="0" sID="00D5E8">
+      <EDID>sTopicSubtypeTextMiscellaneousNoticeCorpse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NoticeCorpse</Source>
+      <Dest>NoticeCorpse</Dest>
+    </String>
+    <String List="0" sID="00D87C">
+      <EDID>sTopicSubtypeTextCombatStealFromNC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>StealFromNC</Source>
+      <Dest>StealFromNC</Dest>
+    </String>
+    <String List="0" sID="00DA57">
+      <EDID>sTopicSubtypeTextDetectionAlertToCombat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AlertToCombat</Source>
+      <Dest>AlertToCombat</Dest>
+    </String>
+    <String List="0" sID="00DC09">
+      <EDID>sTopicSubtypeTextMiscellaneousPickpocketTopic</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PickpocketTopic</Source>
+      <Dest>PickpocketTopic</Dest>
+    </String>
+    <String List="0" sID="00DEA3">
+      <EDID>sTopicSubtypeTextCombatMurderNC</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>MurderNC</Source>
+      <Dest>MurderNC</Dest>
+    </String>
+    <String List="0" sID="00DF42">
+      <EDID>sTopicSubtypeTextDetectionCombatToLost</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CombatToLost</Source>
+      <Dest>CombatToLost</Dest>
+    </String>
+    <String List="0" sID="00DFD0">
+      <EDID>sVatsBodyPart</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Body Part</Source>
+      <Dest>Část těla</Dest>
+    </String>
+    <String List="0" sID="00E037">
+      <EDID>sTopicSubtypeTextMiscellaneousZKeyObject</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ZKeyObject</Source>
+      <Dest>ZKeyObject</Dest>
+    </String>
+    <String List="0" sID="00E0D1">
+      <EDID>sTopicSubtypeTextCombatVoicePowerEndLong</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VoicePowerEndLong</Source>
+      <Dest>VoicePowerEndLong</Dest>
+    </String>
+    <String List="0" sID="00E22F">
+      <EDID>sWitnessKilled</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Last witness killed.</Source>
+      <Dest>Poslední svědek zabit.</Dest>
+    </String>
+    <String List="0" sID="00E2B6">
+      <EDID>sTopicSubtypeTextServiceTravel</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Travel</Source>
+      <Dest>Travel</Dest>
+    </String>
+    <String List="0" sID="00E30F">
+      <EDID>sTopicSubtypeTextCombatAcceptYield</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AcceptYield</Source>
+      <Dest>AcceptYield</Dest>
+    </String>
+    <String List="0" sID="00E32C">
+      <EDID>sTopicSubtypeTextCombatTrespass</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Trespass</Source>
+      <Dest>Trespass</Dest>
+    </String>
+    <String List="0" sID="00E41C">
+      <EDID>sTopicSubtypeTextCombatBash</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Bash</Source>
+      <Dest>Bash</Dest>
+    </String>
+    <String List="0" sID="00E5FC">
+      <EDID>sTopicSubtypeTextCombatVoicePowerStartShort</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>VoicePowerStartShort</Source>
+      <Dest>VoicePowerStartShort</Dest>
+    </String>
+    <String List="0" sID="00E703">
+      <EDID>sTimePM</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PM</Source>
+      <Dest>odp.</Dest>
+    </String>
+    <String List="0" sID="00E78A">
+      <EDID>sTimeHours</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hours</Source>
+      <Dest>Hodiny</Dest>
+    </String>
+    <String List="0" sID="00EA6B">
+      <EDID>sTopicSubtypeTextServiceRechargeExit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>RechargeExit</Source>
+      <Dest>RechargeExit</Dest>
+    </String>
+    <String List="0" sID="00ED99">
+      <EDID>sTimeSpanNight</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>night</Source>
+      <Dest>noc</Dest>
+    </String>
+    <String List="0" sID="00EDB7">
+      <EDID>sTimeAM</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>AM</Source>
+      <Dest>dop.</Dest>
+    </String>
+    <String List="0" sID="00EE36">
+      <EDID>sTimeSpanMorning</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>morning</Source>
+      <Dest>ráno</Dest>
+    </String>
+    <String List="0" sID="00EF51">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerShout</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>PlayerShout</Source>
+      <Dest>PlayerShout</Dest>
+    </String>
+    <String List="0" sID="00EF6F">
+      <EDID>sTopicSubtypeTextMiscellaneousLockedObject</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LockedObject</Source>
+      <Dest>LockedObject</Dest>
+    </String>
+    <String List="0" sID="00EFA7">
+      <EDID>sTopicSubtypeTextMiscellaneousKnockOverObject</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>KnockOverObject</Source>
+      <Dest>KnockOverObject</Dest>
+    </String>
+    <String List="0" sID="00F029">
+      <EDID>sVatsTarget</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Target</Source>
+      <Dest>Cíl</Dest>
+    </String>
+    <String List="0" sID="00F0E5">
+      <EDID>sTopicSubtypeTextCombatDeath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Death</Source>
+      <Dest>Death</Dest>
+    </String>
+    <String List="0" sID="00F5F8">
+      <EDID>sTopicSubtypeTextSceneDialogueCustom</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>...</Source>
+      <Dest>...</Dest>
+    </String>
+    <String List="0" sID="00F923">
+      <EDID>sVATSMessageZeroChance</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have zero chance to hit.</Source>
+      <Dest>Máš nulovou šanci na zásah.</Dest>
+    </String>
+    <String List="0" sID="00FA07">
+      <EDID>sWaitHere</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wait There</Source>
+      <Dest>Počkej tady</Dest>
+    </String>
+    <String List="0" sID="00FC3E">
+      <EDID>sTimeMinutes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Minutes</Source>
+      <Dest>minuty</Dest>
+    </String>
+    <String List="0" sID="00FC42">
+      <EDID>sThirdOrdSuffix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>rd</Source>
+      <Dest>.</Dest>
+    </String>
+    <String List="0" sID="00FC60">
+      <EDID>sTimeSpanEvening</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>evening</Source>
+      <Dest>večer</Dest>
+    </String>
+    <String List="0" sID="011261">
+      <EDID>sTopicSubtypeTextDetectionDetectFriendDie</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>DetectFriendDie</Source>
+      <Dest>DetectFriendDie</Dest>
+    </String>
+    <String List="0" sID="01179D">
+      <EDID>sTeammateCantGiveOutfit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Your teammate already owns that armor.</Source>
+      <Dest>Tvůj společník již tuto zbroj má.</Dest>
+    </String>
+    <String List="0" sID="0118B9">
+      <EDID>sWood</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>WOOD</Source>
+      <Dest>DŘEVO</Dest>
+    </String>
+    <String List="0" sID="0118E3">
+      <EDID>sTeammateCantTakeOutfit</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You can't take your teammate's starting armor.</Source>
+      <Dest>Nemůžeš odebrat svému společníkovi počáteční zbroj.</Dest>
+    </String>
+    <String List="0" sID="01219C">
+      <EDID>sTopicSubtypeTextMiscellaneousLeaveWaterBreath</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LeaveWaterBreath</Source>
+      <Dest>LeaveWaterBreath</Dest>
+    </String>
+    <String List="0" sID="012979">
+      <EDID>SuperMutantSuiciderBomb</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bomb</Source>
+      <Dest>Bomba</Dest>
+    </String>
+    <String List="0" sID="012C39">
+      <EDID>terminalSpotlightID</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Spotlight</Source>
+      <Dest>Reflektor</Dest>
+    </String>
+    <String List="0" sID="012DBA">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>LeftLeg</Source>
+      <Dest>LeftLeg</Dest>
+    </String>
+    <String List="0" sID="012FC7">
+      <EDID>SubDoor02LeftLoad</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0132E4">
+      <EDID>SunshineTidingsCoopLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Sunshine Tidings Co-op</Source>
+      <Dest>Družstvo Slunná poselství</Dest>
+    </String>
+    <String List="0" sID="0135EC">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>RightFoot</Source>
+      <Dest>RightFoot</Dest>
+    </String>
+    <String List="0" sID="013A93">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="11">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="013AB0">
+      <EDID>SynthHeadGen1-5</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen1-5</Source>
+      <Dest>SynthHeadGen1-5</Dest>
+    </String>
+    <String List="0" sID="013B9C">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>RaiderRightFoot</Source>
+      <Dest>RaiderRightFoot</Dest>
+    </String>
+    <String List="0" sID="014061">
+      <EDID>SubDoor01Left</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01450D">
+      <EDID>SynthGen2Race</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Gen 2 Synth</Source>
+      <Dest>Syntetik 2. generace</Dest>
+    </String>
+    <String List="0" sID="014566">
+      <EDID>Takahashi</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Takahashi</Source>
+      <Dest>Takahashi</Dest>
+    </String>
+    <String List="0" sID="014A33">
+      <EDID>TaffingtonBoatHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Taffington Boathouse</Source>
+      <Dest>Taffingtonská loděnice</Dest>
+    </String>
+    <String List="0" sID="014B48">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Camera</Source>
+      <Dest>Kamera</Dest>
+    </String>
+    <String List="0" sID="014F21">
+      <EDID>SteamTMetalDoor02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="014FB7">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>SMBehemothCOM</Source>
+      <Dest>SMBehemothCOM</Dest>
+    </String>
+    <String List="0" sID="014FE0">
+      <EDID>SurgicalTray01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Surgical Tray</Source>
+      <Dest>Chirurgický tácek</Dest>
+    </String>
+    <String List="0" sID="015467">
+      <EDID>SubDoor02Right</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0154D5">
+      <EDID>TaffingtonBoatHouseMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Taffington Boathouse</Source>
+      <Dest>Taffingtonská loděnice</Dest>
+    </String>
+    <String List="0" sID="01561C">
+      <EDID>terminalTurretStatusDead</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>ERROR</Source>
+      <Dest>CHYBA</Dest>
+    </String>
+    <String List="0" sID="015961">
+      <EDID>SupervisorGreene</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Greene</Source>
+      <Dest>Zelený</Dest>
+    </String>
+    <String List="0" sID="015A9B">
+      <EDID>SubwaySuesTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Next time I see Griswold, shoot him three times.</Source>
+      <Dest>Střelit Griswolda třikrát, až ho příště uvidím.</Dest>
+    </String>
+    <String List="0" sID="015ACD">
+      <EDID>TedHuntley</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ted Huntley</Source>
+      <Dest>Ted Huntley</Dest>
+    </String>
+    <String List="0" sID="015B38">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>LeftArm</Source>
+      <Dest>LeftArm</Dest>
+    </String>
+    <String List="0" sID="015C98">
+      <EDID>StrongBack01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strong Back</Source>
+      <Dest>Stěhovák</Dest>
+    </String>
+    <String List="0" sID="015D27">
+      <EDID>TheCastleAttackersHoldingCell</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Holding Cell</Source>
+      <Dest>Zadržovací cela</Dest>
+    </String>
+    <String List="0" sID="016018">
+      <EDID>TeddyBear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Teddy Bear</Source>
+      <Dest>Medvídek</Dest>
+    </String>
+    <String List="0" sID="016060">
+      <EDID>terminalSpotlightStatusDetected</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Alert - Intruder Detected</Source>
+      <Dest>Poplach - detekován vetřelec</Dest>
+    </String>
+    <String List="0" sID="01639E">
+      <EDID>SupermutantBlindfold</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Watcher's Bandage</Source>
+      <Dest>Strážcův obvaz</Dest>
+    </String>
+    <String List="0" sID="0168A2">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Tail</Source>
+      <Dest>Zadeček</Dest>
+    </String>
+    <String List="0" sID="016976">
+      <EDID>SupermutantHead</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SupermutantHead</Source>
+      <Dest>SupermutantHead</Dest>
+    </String>
+    <String List="0" sID="016B53">
+      <EDID>SynthHeadGen1-4</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen1-4</Source>
+      <Dest>SynthHeadGen1-4</Dest>
+    </String>
+    <String List="0" sID="016B8A">
+      <EDID>SurgicalScissors</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Bandage Scissors</Source>
+      <Dest>Převazové nůžky</Dest>
+    </String>
+    <String List="0" sID="016D01">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="016DFE">
+      <EDID>TemplateWallTerminal01</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Please insert holotape...</Source>
+      <Dest>Prosím vložte holopásku...</Dest>
+    </String>
+    <String List="0" sID="016E5B">
+      <EDID>SubDoor01Right</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="016F62">
+      <EDID>SubwaySuesTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Sue's Terminal</Source>
+      <Dest>Suin terminál</Dest>
+    </String>
+    <String List="0" sID="0170DE">
+      <EDID>TheCastle01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Castle Tunnels</Source>
+      <Dest>Hradní tunely</Dest>
+    </String>
+    <String List="0" sID="017148">
+      <EDID>Telephone01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Telephone</Source>
+      <Dest>Telefon</Dest>
+    </String>
+    <String List="0" sID="01718D">
+      <EDID>SuperDuperMartMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Super Duper Mart</Source>
+      <Dest>Obchod Super-Duper</Dest>
+    </String>
+    <String List="0" sID="0172BA">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>RightFoot</Source>
+      <Dest>RightFoot</Dest>
+    </String>
+    <String List="0" sID="01749B">
+      <EDID>Switchblade</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Switchblade</Source>
+      <Dest>Vystřelovací nůž</Dest>
+    </String>
+    <String List="0" sID="0174D3">
+      <EDID>terminalhackerTurretSabotageSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Overclocking_Subroutine</Source>
+      <Dest>Overclocking_Subroutine</Dest>
+    </String>
+    <String List="0" sID="017528">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="017558">
+      <EDID>Switchboard</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Switchboard</Source>
+      <Dest>Operační ústředí</Dest>
+    </String>
+    <String List="0" sID="0179FA">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>LeftFoot</Source>
+      <Dest>LeftFoot</Dest>
+    </String>
+    <String List="0" sID="01808A">
+      <EDID>TempBldWoodPDbDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0181E2">
+      <EDID>SyringerProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Syringer Projectile</Source>
+      <Dest>Jehlometný projektil</Dest>
+    </String>
+    <String List="0" sID="018511">
+      <EDID>SubmachineGun</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0" sID="0186AA">
+      <EDID>SwansPondMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Swan's Pond</Source>
+      <Dest>Labuťákův rybníček</Dest>
+    </String>
+    <String List="0" sID="0189C8">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>SupermutantBehemothRoot</Source>
+      <Dest>SupermutantBehemothRoot</Dest>
+    </String>
+    <String List="0" sID="018BB7">
+      <EDID>TemplateWallTerminal01</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Download Holotape</Source>
+      <Dest>Stáhnout holopásku</Dest>
+    </String>
+    <String List="0" sID="01921B">
+      <EDID>Switchblade</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0" sID="01926A">
+      <EDID>terminalHackerDummySafe</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dummy Safe - Should Always be Empty</Source>
+      <Dest>Falešný sejf - měl by být vždy prázdný</Dest>
+    </String>
+    <String List="0" sID="01944E">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="0198E3">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="019D7E">
+      <EDID>TheSlogMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Slog</Source>
+      <Dest>Dřina</Dest>
+    </String>
+    <String List="0" sID="019DC3">
+      <EDID>SubwaySuesTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Note to self.</Source>
+      <Dest>Poznámka pro mě.</Dest>
+    </String>
+    <String List="0" sID="01A0DF">
+      <EDID>SupermutantBehemothRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Behemoth</Source>
+      <Dest>Behemot</Dest>
+    </String>
+    <String List="0" sID="01A333">
+      <EDID>TempNukaColaMachineDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01A375">
+      <EDID>TheSlogVendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01A3CE">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="01A449">
+      <EDID>terminalTurretStatusSearching</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Alert - Searching for Target(s)</Source>
+      <Dest>Poplach - hledám cíl(e)</Dest>
+    </String>
+    <String List="0" sID="01A5A7">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01A7C1">
+      <EDID>SubwayJanitorTerminalWall</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Subway Maintenance Terminal</Source>
+      <Dest>Terminál údržby metra</Dest>
+    </String>
+    <String List="0" sID="01AC21">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="01AD2C">
+      <EDID>ThicketExcavationsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Thicket Excavations</Source>
+      <Dest>Lom Houština</Dest>
+    </String>
+    <String List="0" sID="01B158">
+      <EDID>TheaterMassBayMedicalCenter01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Mass Bay Medical Center</Source>
+      <Dest>Zdravotní středisko Mass Bay</Dest>
+    </String>
+    <String List="0" sID="01B295">
+      <EDID>SuperSledge</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Super Sledge</Source>
+      <Dest>Superkladivo</Dest>
+    </String>
+    <String List="0" sID="01B50A">
+      <EDID>SynthHeadGen1-2</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen1-2</Source>
+      <Dest>SynthHeadGen1-2</Dest>
+    </String>
+    <String List="0" sID="01B5C2">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Weapon</Source>
+      <Dest>Zbraň</Dest>
+    </String>
+    <String List="0" sID="01BB37">
+      <EDID>SteamTMetalDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01BDB0">
+      <EDID>TheSlogChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01C027">
+      <EDID>Swanson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Swanson</Source>
+      <Dest>Swanson</Dest>
+    </String>
+    <String List="0" sID="01C19D">
+      <EDID>TheSlogLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Slog</Source>
+      <Dest>Dřina</Dest>
+    </String>
+    <String List="0" sID="01C98A">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01C9C1">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="01D0BE">
+      <EDID>TedHuntley</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Ted Huntley</Source>
+      <Dest>Ted Huntley</Dest>
+    </String>
+    <String List="0" sID="01D2FD">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01D3BF">
+      <EDID>TheodoreCollins</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Theodore Collins</Source>
+      <Dest>Theodore Collins</Dest>
+    </String>
+    <String List="0" sID="01D4EC">
+      <EDID>SubDoor02Left</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01D503">
+      <EDID>terminalTurretStatusOnline</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Online</Source>
+      <Dest>Aktivní</Dest>
+    </String>
+    <String List="0" sID="01D50E">
+      <EDID>terminalTurretStatusCombat</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Engaging Target</Source>
+      <Dest>Útočím na cíl</Dest>
+    </String>
+    <String List="0" sID="01D50F">
+      <EDID>terminalTurretStatusNonCombat</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>All Clear</Source>
+      <Dest>Žádný cíl</Dest>
+    </String>
+    <String List="0" sID="01D51A">
+      <EDID>terminalTurretStatusFrenzied</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Error #0XAFC80 (Targeting Data Corrupt)</Source>
+      <Dest>Chyba #0XAFC80 (poškození zaměřovacích dat)</Dest>
+    </String>
+    <String List="0" sID="01D51E">
+      <EDID>terminalTurretStatusSabotaged</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Error #0XBEB61 (Invalid Cycler Speed)</Source>
+      <Dest>Chyba #0XBEB61 (neplatná interval časovače)</Dest>
+    </String>
+    <String List="0" sID="01D57C">
+      <EDID>terminalHackedDoorStatusOpen</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Open</Source>
+      <Dest>Otevřeno</Dest>
+    </String>
+    <String List="0" sID="01D582">
+      <EDID>terminalHackedDoorStatusClosed</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Closed</Source>
+      <Dest>Zavřeno</Dest>
+    </String>
+    <String List="0" sID="01D587">
+      <EDID>terminalHackedDoorStatusLocked</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Locked</Source>
+      <Dest>Uzamčeno</Dest>
+    </String>
+    <String List="0" sID="01D593">
+      <EDID>SuperDuperMartLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Super Duper Mart</Source>
+      <Dest>Obchod Super-Duper</Dest>
+    </String>
+    <String List="0" sID="01D594">
+      <EDID>SuffolkCountyCharterSchoolLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Suffolk County Charter School</Source>
+      <Dest>Soukromá škola Suffolk County</Dest>
+    </String>
+    <String List="0" sID="01D596">
+      <EDID>ThicketExcavationsLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Thicket Excavations</Source>
+      <Dest>Lom Houština</Dest>
+    </String>
+    <String List="0" sID="01D673">
+      <EDID>TheBigDigLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Big Dig</Source>
+      <Dest>Velký výkop</Dest>
+    </String>
+    <String List="0" sID="01D69A">
+      <EDID>TheCastleLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Castle</Source>
+      <Dest>Hrad</Dest>
+    </String>
+    <String List="0" sID="01D73C">
+      <EDID>Strength</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Strength</Source>
+      <Dest>Síla</Dest>
+    </String>
+    <String List="0" sID="01D787">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="01D872">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01D873">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Left Wings</Source>
+      <Dest>Levá křídla</Dest>
+    </String>
+    <String List="0" sID="01D874">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Right Wings</Source>
+      <Dest>Pravá křídla</Dest>
+    </String>
+    <String List="0" sID="01D875">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01D87B">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01D87C">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01D87E">
+      <EDID>StingwingBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01D89F">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="01D8A0">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01D8A4">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>RightArm</Source>
+      <Dest>RightArm</Dest>
+    </String>
+    <String List="0" sID="01D8A6">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>RightLeg</Source>
+      <Dest>RightLeg</Dest>
+    </String>
+    <String List="0" sID="01D8A7">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="01D8A9">
+      <EDID>SuperMutantBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>LeftFoot</Source>
+      <Dest>LeftFoot</Dest>
+    </String>
+    <String List="0" sID="01D8F6">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="01D8FE">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01D901">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="01D92C">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="01D932">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Camera</Source>
+      <Dest>Kamera</Dest>
+    </String>
+    <String List="0" sID="01D935">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="01D938">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Weapon</Source>
+      <Dest>Zbraň</Dest>
+    </String>
+    <String List="0" sID="01D939">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>RaiderRightFoot</Source>
+      <Dest>RaiderRightFoot</Dest>
+    </String>
+    <String List="0" sID="01D93B">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>RaiderLeftFoot</Source>
+      <Dest>RaiderLeftFoot</Dest>
+    </String>
+    <String List="0" sID="01D975">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="01D97B">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="01D97F">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>RaiderLeftFoot</Source>
+      <Dest>RaiderLeftFoot</Dest>
+    </String>
+    <String List="0" sID="01DA83">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="01DAC7">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="01DE09">
+      <EDID>SubwaySuesTerminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>.,;: Sue's Terminal :;,.&#xD;
+&#xD;
+Touch This &amp; Die Slowly&#xD;
+&#xD;
+(Especially you, Griswold)</Source>
+      <Dest>.,;: Suin terminál :;,.&#xD;
+&#xD;
+Dotkni se toho a pomalu zemřeš&#xD;
+&#xD;
+(Speciálně TY, Griswolde)</Dest>
+    </String>
+    <String List="0" sID="01DEC4">
+      <EDID>TheForgedFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>The Forged</Source>
+      <Dest>Kovaní</Dest>
+    </String>
+    <String List="0" sID="01DEE4">
+      <EDID>ThicketExcavations01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Thicket Excavations</Source>
+      <Dest>Lom Houština</Dest>
+    </String>
+    <String List="0" sID="01E09A">
+      <EDID>TemplateWallTerminal01</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Diagnostic Terminal</Source>
+      <Dest>Diagnostický terminál</Dest>
+    </String>
+    <String List="0" sID="01EF0A">
+      <EDID>SupervisorBrown</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Brown</Source>
+      <Dest>Hnědý</Dest>
+    </String>
+    <String List="0" sID="01FA5D">
+      <EDID>terminalHackedDoorStatusUnlocked</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Unlocked</Source>
+      <Dest>Odemčeno</Dest>
+    </String>
+    <String List="0" sID="01FCF1">
+      <EDID>tempMuseumPlaqueActivator</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>America's Freedom Fighters</Source>
+      <Dest>Američtí bojovníci za svobodu</Dest>
+    </String>
+    <String List="0" sID="01FD51">
+      <EDID>sTerminalHeader</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Welcome to ROBCO Industries (TM) Termlink</Source>
+      <Dest>Vítejte v Termlinku ROBCO Industries (TM)</Dest>
+    </String>
+    <String List="0" sID="02042D">
+      <EDID>StingwingRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Stingwing</Source>
+      <Dest>Šídlovážka</Dest>
+    </String>
+    <String List="0" sID="020AD6">
+      <EDID>SynthGen2BodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="020BA9">
+      <EDID>TheaterHub360</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Hub 360</Source>
+      <Dest>Hub 360</Dest>
+    </String>
+    <String List="0" sID="020BD4">
+      <EDID>StingwingFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Stingwing Faction</Source>
+      <Dest>Frakce šídlovážek</Dest>
+    </String>
+    <String List="0" sID="020E5E">
+      <EDID>Sturges</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sturges</Source>
+      <Dest>Sturges</Dest>
+    </String>
+    <String List="0" sID="021DE5">
+      <EDID>StingwingPoisonEffectNPC</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Stingwing Poison</Source>
+      <Dest>Jed šídlovážek</Dest>
+    </String>
+    <String List="0" sID="021EDA">
+      <EDID>SupervisorGreene</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Supervisor Greene</Source>
+      <Dest>Dohlížitel Zelený</Dest>
+    </String>
+    <String List="0" sID="022647">
+      <EDID>SynthBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="022BC9">
+      <EDID>SynthHeadGen1-3</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen1-3</Source>
+      <Dest>SynthHeadGen1-3</Dest>
+    </String>
+    <String List="0" sID="022E93">
+      <EDID>terminalHackedPlayerAllyFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Allied</Source>
+      <Dest>Spojenec</Dest>
+    </String>
+    <String List="0" sID="023092">
+      <EDID>SunshineTidingsCoopMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Sunshine Tidings Co-op</Source>
+      <Dest>Družstvo Slunná poselství</Dest>
+    </String>
+    <String List="0" sID="0230F0">
+      <EDID>Thistle</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Thistle</Source>
+      <Dest>Bodlák</Dest>
+    </String>
+    <String List="0" sID="023429">
+      <EDID>SupervisorWhite</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Supervisor White</Source>
+      <Dest>Dohlížitel Bílý</Dest>
+    </String>
+    <String List="0" sID="023985">
+      <EDID>Strength</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>STR</Source>
+      <Dest>SIL</Dest>
+    </String>
+    <String List="0" sID="0239F6">
+      <EDID>SynthHeadGen1</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen1</Source>
+      <Dest>SynthHeadGen1</Dest>
+    </String>
+    <String List="0" sID="023A32">
+      <EDID>SubmachineGun</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Submachine Gun</Source>
+      <Dest>Samopal</Dest>
+    </String>
+    <String List="0" sID="023B29">
+      <EDID>TheodoreCollins</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Theodore</Source>
+      <Dest>Theodore</Dest>
+    </String>
+    <String List="0" sID="023B62">
+      <EDID>terminalTurretStatusOffline</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Offline</Source>
+      <Dest>Neaktivní</Dest>
+    </String>
+    <String List="0" sID="023BE5">
+      <EDID>SuperDuperMart01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Super Duper Mart</Source>
+      <Dest>Obchod Super-Duper</Dest>
+    </String>
+    <String List="0" sID="023C39">
+      <EDID>SynthGen2HeadRear</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2HeadRear</Source>
+      <Dest>SynthGen2HeadRear</Dest>
+    </String>
+    <String List="0" sID="023CEC">
+      <EDID>SuffolkCountyCharterSchoolMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Suffolk County Charter School</Source>
+      <Dest>Soukromá škola Suffolk County</Dest>
+    </String>
+    <String List="0" sID="023D87">
+      <EDID>terminalSpotlightStatusAllClear</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>No Intruder Detected</Source>
+      <Dest>Nedetekován žádný vetřelec</Dest>
+    </String>
+    <String List="0" sID="023FBE">
+      <EDID>SynthHeadGen2</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthHeadGen2</Source>
+      <Dest>SynthHeadGen2</Dest>
+    </String>
+    <String List="0" sID="023FDC">
+      <EDID>SynthGen1Race</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="02454E">
+      <EDID>terminalHackedStatusError</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Error</Source>
+      <Dest>Chyba</Dest>
+    </String>
+    <String List="0" sID="024861">
+      <EDID>Tarberry</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Tarberry</Source>
+      <Dest>Dehtůvka</Dest>
+    </String>
+    <String List="0" sID="02498C">
+      <EDID>TemplateWallTerminal01</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Run Diagnostics</Source>
+      <Dest>Spustit diagnostiku</Dest>
+    </String>
+    <String List="0" sID="024B1D">
+      <EDID>TaliaMcGovern</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Talia McGovern</Source>
+      <Dest>Talia McGovernová</Dest>
+    </String>
+    <String List="0" sID="024CB1">
+      <EDID>SurgicalScalpel</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Surgical Scalpel</Source>
+      <Dest>Chirurgický skalpel</Dest>
+    </String>
+    <String List="0" sID="024DB1">
+      <EDID>SweetRoll</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Sweet Roll</Source>
+      <Dest>Sladký bochánek</Dest>
+    </String>
+    <String List="0" sID="024E0C">
+      <EDID>SteamTMetalDoorLoad01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="025161">
+      <EDID>SupervisorBrown</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Supervisor Brown</Source>
+      <Dest>Dohlížitel Hnědý</Dest>
+    </String>
+    <String List="0" sID="025417">
+      <EDID>StingwingPoisonEffectPlayer</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Stingwing Poison</Source>
+      <Dest>Jed šídlovážek</Dest>
+    </String>
+    <String List="0" sID="025541">
+      <EDID>SugarBombs_PreWar</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Sugar Bombs</Source>
+      <Dest>Cukrové bomby</Dest>
+    </String>
+    <String List="0" sID="0257A9">
+      <EDID>TaliaMcGovern</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Talia McGovern</Source>
+      <Dest>Talia McGovernová</Dest>
+    </String>
+    <String List="0" sID="02592C">
+      <EDID>Stimpak</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Stimpak</Source>
+      <Dest>Stimpak</Dest>
+    </String>
+    <String List="0" sID="025930">
+      <EDID>SupermutantEyes</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SupermutantEyes</Source>
+      <Dest>SupermutantEyes</Dest>
+    </String>
+    <String List="0" sID="025A2C">
+      <EDID>SwansPondLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Swan's Pond</Source>
+      <Dest>Labuťákův rybníček</Dest>
+    </String>
+    <String List="0" sID="025A3C">
+      <EDID>SwitchDoorExSmLatch02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Security Gate</Source>
+      <Dest>Bezpečnostní brána</Dest>
+    </String>
+    <String List="0" sID="0262DF">
+      <EDID>SupermutantBehemothBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="026363">
+      <EDID>TheBigDig01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Dig</Source>
+      <Dest>Velký výkop</Dest>
+    </String>
+    <String List="0" sID="026689">
+      <EDID>Swanson</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Swanson</Source>
+      <Dest>Swanson</Dest>
+    </String>
+    <String List="0" sID="026773">
+      <EDID>SugarBombs</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Sugar Bombs</Source>
+      <Dest>Cukrové bomby</Dest>
+    </String>
+    <String List="0" sID="0269AF">
+      <EDID>SuffolkCountyCharterSchool01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Suffolk County Charter School</Source>
+      <Dest>Soukromá škola Suffolk County</Dest>
+    </String>
+    <String List="0" sID="026BF6">
+      <EDID>SwitchboardLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Switchboard</Source>
+      <Dest>Operační ústředí</Dest>
+    </String>
+    <String List="0" sID="026F6B">
+      <EDID>sWorkshopNPCConfirmCaravan</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Assign supply line to %s?</Source>
+      <Dest>Přiřadit zásobovací trasu do: %s?</Dest>
+    </String>
+    <String List="0" sID="02708F">
+      <EDID>terminalHackerSpeakerFearHazard</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Pseudo Gunfire</Source>
+      <Dest>Pseudo střelba</Dest>
+    </String>
+    <String List="0" sID="027324">
+      <EDID>SynthGen2Eyes</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2Eyes</Source>
+      <Dest>SynthGen2Eyes</Dest>
+    </String>
+    <String List="0" sID="0274B7">
+      <EDID>SynthGen1Eyes</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthEyesGen1</Source>
+      <Dest>SynthEyesGen1</Dest>
+    </String>
+    <String List="0" sID="02766E">
+      <EDID>Thomas</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brother Thomas</Source>
+      <Dest>Bratr Thomas</Dest>
+    </String>
+    <String List="0" sID="027BBC">
+      <EDID>TellMeMoreDisplayAnimated</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tell Me More Button</Source>
+      <Dest>Tell Me More Button</Dest>
+    </String>
+    <String List="0" sID="027D09">
+      <EDID>Tato</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Tato</Source>
+      <Dest>Brajče</Dest>
+    </String>
+    <String List="0" sID="02868A">
+      <EDID>SurgicalCutter</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Bone Cutter</Source>
+      <Dest>Oscilační pilka</Dest>
+    </String>
+    <String List="0" sID="0289D4">
+      <EDID>SubwayTicket</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Subway Token</Source>
+      <Dest>Žeton do metra</Dest>
+    </String>
+    <String List="0" sID="028AD5">
+      <EDID>terminalTurretStatusSomeDead</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>LOSSES SUSTAINED</Source>
+      <Dest>ZTRÁTA ZAZNAMENÁNA</Dest>
+    </String>
+    <String List="0" sID="028C90">
+      <EDID>Teapot</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Teapot</Source>
+      <Dest>Čajový konvice</Dest>
+    </String>
+    <String List="0" sID="028CF9">
+      <EDID>Teacup01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Teacup</Source>
+      <Dest>Čajový šálek</Dest>
+    </String>
+    <String List="0" sID="028EB2">
+      <EDID>TeacupSaucer01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Saucer</Source>
+      <Dest>Podšálek</Dest>
+    </String>
+    <String List="0" sID="028F08">
+      <EDID>terminalHackerTurretConfidenceSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>turretConfidence</Source>
+      <Dest>turretConfidence</Dest>
+    </String>
+    <String List="0" sID="029695">
+      <EDID>TablePatio01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Patio Table</Source>
+      <Dest>Stůl na verandu</Dest>
+    </String>
+    <String List="0" sID="0298AD">
+      <EDID>TempTutorialCommandModeMessage01</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Command Mode</Source>
+      <Dest>Příkazový režim</Dest>
+    </String>
+    <String List="0" sID="029A34">
+      <EDID>synth_rubber_MatHoles</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MatHoles</Source>
+      <Dest>mod_synthrubber_MatHoles</Dest>
+    </String>
+    <String List="0" sID="029E17">
+      <EDID>synth_rubber_Lleg</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Lleg</Source>
+      <Dest>mod_synthrubber_Lleg</Dest>
+    </String>
+    <String List="0" sID="029F8B">
+      <EDID>synth_rubber_Head1</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Head1</Source>
+      <Dest>mod_synthrubber_Head1</Dest>
+    </String>
+    <String List="0" sID="029FBD">
+      <EDID>synth_rubber_Rarm</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Rarm</Source>
+      <Dest>mod_synthrubber_Rarm</Dest>
+    </String>
+    <String List="0" sID="02A029">
+      <EDID>synth_rubber_Rleg</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Rleg</Source>
+      <Dest>mod_synthrubber_Rleg</Dest>
+    </String>
+    <String List="0" sID="02A09E">
+      <EDID>synth_rubber_Torso</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Torso</Source>
+      <Dest>mod_synthrubber_Torso</Dest>
+    </String>
+    <String List="0" sID="02A14C">
+      <EDID>synth_rubber_Larm</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Larm</Source>
+      <Dest>mod_synthrubber_Larm</Dest>
+    </String>
+    <String List="0" sID="02A611">
+      <EDID>SupermutantClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Supermutant</Source>
+      <Dest>Supermutant</Dest>
+    </String>
+    <String List="0" sID="02A987">
+      <EDID>stewRadStag</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Radstag Stew</Source>
+      <Dest>Mutajelení vývar</Dest>
+    </String>
+    <String List="0" sID="02AC36">
+      <EDID>SynthGen2Mouth</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2Mouth</Source>
+      <Dest>SynthGen2Mouth</Dest>
+    </String>
+    <String List="0" sID="02AD56">
+      <EDID>SynthGen2HeadRearValentine</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2HeadRearValentine</Source>
+      <Dest>SynthGen2HeadRearValentine</Dest>
+    </String>
+    <String List="0" sID="02AFAA">
+      <EDID>SynthTeleportGrenade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Synth Relay Grenade</Source>
+      <Dest>Syntetikův transportní granát</Dest>
+    </String>
+    <String List="0" sID="02B368">
+      <EDID>TeleportOutSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Teleport Out</Source>
+      <Dest>Teleport Out</Dest>
+    </String>
+    <String List="0" sID="02B428">
+      <EDID>TeleportInSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Teleport In</Source>
+      <Dest>Teleport In</Dest>
+    </String>
+    <String List="0" sID="02B431">
+      <EDID>StingwingBarb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Stingwing Barb</Source>
+      <Dest>Bodec šídlovážky</Dest>
+    </String>
+    <String List="0" sID="02B462">
+      <EDID>TeleportOutSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport Out</Source>
+      <Dest>Teleport Out</Dest>
+    </String>
+    <String List="0" sID="02B48E">
+      <EDID>TeleportInSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport In</Source>
+      <Dest>Teleport In</Dest>
+    </String>
+    <String List="0" sID="02B5EB">
+      <EDID>TarberryWild</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Wild Tarberry</Source>
+      <Dest>Divoká dehtůvka</Dest>
+    </String>
+    <String List="0" sID="02B6AF">
+      <EDID>SuperSledge</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="02B74E">
+      <EDID>TaxidermyMolerat01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mounted Molerat Head</Source>
+      <Dest>Přidělané krtkopotkaní hlavy</Dest>
+    </String>
+    <String List="0" sID="02B7E0">
+      <EDID>StrongBack03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strong Back</Source>
+      <Dest>Stěhovák</Dest>
+    </String>
+    <String List="0" sID="02B9CF">
+      <EDID>TaxidermyRadStag01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mounted Radstag Heads</Source>
+      <Dest>Přidělané mutajelení hlavy</Dest>
+    </String>
+    <String List="0" sID="02BA5A">
+      <EDID>SuperSledge</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0" sID="02BAD0">
+      <EDID>TaxidermyMirelurk01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mounted Mirelurk Claw</Source>
+      <Dest>Přidělané plíživčí klepeta</Dest>
+    </String>
+    <String List="0" sID="02BB0B">
+      <EDID>TaxidermyBrahmin01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Mounted Brahmin Heads</Source>
+      <Dest>Přidělané hlavy brahmíny</Dest>
+    </String>
+    <String List="0" sID="02BB2D">
+      <EDID>StrongBack02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strong Back</Source>
+      <Dest>Stěhovák</Dest>
+    </String>
+    <String List="0" sID="02C356">
+      <EDID>Theater27TickerTapeLounge</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Ticker Tape Lounge</Source>
+      <Dest>Telegrafní salónek</Dest>
+    </String>
+    <String List="0" sID="02C57B">
+      <EDID>Theater16PearwoodResidences01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Pearwood Residences</Source>
+      <Dest>Rezidence Pearwood</Dest>
+    </String>
+    <String List="0" sID="02D15B">
+      <EDID>SynthDeathItem</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Synth Component</Source>
+      <Dest>Součást syntetika</Dest>
+    </String>
+    <String List="0" sID="02D6B3">
+      <EDID>SteamTMetalDoorLoad02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="02DDC0">
+      <EDID>Switchblade</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="02E288">
+      <EDID>TheaterDrifterDogShug</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Shug</Source>
+      <Dest>Cukrouš</Dest>
+    </String>
+    <String List="0" sID="02E2EA">
+      <EDID>TheaterDrifterDogRuby</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ruby</Source>
+      <Dest>Rubín</Dest>
+    </String>
+    <String List="0" sID="02E47F">
+      <EDID>TheaterDrifterDando</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dando</Source>
+      <Dest>Floutek</Dest>
+    </String>
+    <String List="0" sID="02E4B2">
+      <EDID>TheaterDrifterSlim</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Slim</Source>
+      <Dest>Slim</Dest>
+    </String>
+    <String List="0" sID="02EFD0">
+      <EDID>SynthTeleportGrenadeProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Synth Beacon Grenade</Source>
+      <Dest>Syntetikův naváděcí granát</Dest>
+    </String>
+    <String List="0" sID="02F699">
+      <EDID>Theater_MassBayMedicalCenterLoctation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Mass Bay Medical Center</Source>
+      <Dest>Zdravotní středisko Mass Bay</Dest>
+    </String>
+    <String List="0" sID="02F94C">
+      <EDID>Theater_TickerTapeLoungeLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Ticker Tape Lounge</Source>
+      <Dest>Telegrafní salónek</Dest>
+    </String>
+    <String List="0" sID="02FE6E">
+      <EDID>StorytimeSimon_TheNewSquirrel_Holotape02</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>The New Squirrel- Tape 2</Source>
+      <Dest>Nová veverka - páska 2</Dest>
+    </String>
+    <String List="0" sID="03001D">
+      <EDID>Theater_PearwoodResidencesLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Pearwood Residences</Source>
+      <Dest>Rezidence Pearwood</Dest>
+    </String>
+    <String List="0" sID="03008B">
+      <EDID>Theater_Hub360Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Hub 360</Source>
+      <Dest>Hub 360</Dest>
+    </String>
+    <String List="0" sID="03012B">
+      <EDID>TEMP_TelevisionTrailer_TEMP</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Television</Source>
+      <Dest>Televize</Dest>
+    </String>
+    <String List="0" sID="0301C2">
+      <EDID>StorytimeSimon_TheNewSquirrel_Holotape01</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>The New Squirrel- Tape 1</Source>
+      <Dest>Nová veverka - páska 1</Dest>
+    </String>
+    <String List="0" sID="0304D9">
+      <EDID>StorytimeSimon_TheNewSquirrel_Holotape03</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>The New Squirrel- Tape 3</Source>
+      <Dest>Nová veverka - páska 3</Dest>
+    </String>
+    <String List="0" sID="030695">
+      <EDID>StorytimeSimonVoiceNPC</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Storytime Simon</Source>
+      <Dest>Pohádkový Simon</Dest>
+    </String>
+    <String List="0" sID="03093C">
+      <EDID>SubmachineGun</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="0309FA">
+      <EDID>SubmachineGun</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Silver Shroud Gun</Source>
+      <Dest>Zbraň Stříbrného rubáše</Dest>
+    </String>
+    <String List="0" sID="030A0A">
+      <EDID>SupermutantHeadStrong</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SupermutantHeadStrong</Source>
+      <Dest>SupermutantHeadStrong</Dest>
+    </String>
+    <String List="0" sID="030A24">
+      <EDID>TheaterTickerTape_Safe</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe</Source>
+      <Dest>Sejf</Dest>
+    </String>
+    <String List="0" sID="030A29">
+      <EDID>Takahashi</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Základní</Dest>
+    </String>
+    <String List="0" sID="030DD9">
+      <EDID>synth_rubber_MaterialHoles1</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MaterialHoles1</Source>
+      <Dest>mod_synthrubber_MaterialHoles1</Dest>
+    </String>
+    <String List="0" sID="030E31">
+      <EDID>synth_rubber_Heads</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_Heads</Source>
+      <Dest>mod_synthrubber_Heads</Dest>
+    </String>
+    <String List="0" sID="030E8F">
+      <EDID>synth_rubber_MaterialHolesNone</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MaterialHolesNone</Source>
+      <Dest>mod_synthrubber_MaterialHolesNone</Dest>
+    </String>
+    <String List="0" sID="030EF0">
+      <EDID>TheSlog_NoteTim</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Snack Bar Note</Source>
+      <Dest>List z bufetu</Dest>
+    </String>
+    <String List="0" sID="030F6D">
+      <EDID>synth_rubber_MaterialHoles2</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MaterialHoles2</Source>
+      <Dest>mod_synthrubber_MaterialHoles2</Dest>
+    </String>
+    <String List="0" sID="030F91">
+      <EDID>synth_rubber_MaterialHoles</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MaterialHoles</Source>
+      <Dest>mod_synthrubber_MaterialHoles</Dest>
+    </String>
+    <String List="0" sID="030F94">
+      <EDID>synth_rubber_MaterialHoles3</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>mod_synthrubber_MaterialHoles3</Source>
+      <Dest>mod_synthrubber_MaterialHoles3</Dest>
+    </String>
+    <String List="0" sID="030FDF">
+      <EDID>TheaterMassBayDoorName_Station</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Medical Center Station North</Source>
+      <Dest>Stanice Zdravotní středisko</Dest>
+    </String>
+    <String List="0" sID="031094">
+      <EDID>TheaterHub360DoorName_Pool</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rooftop Pool</Source>
+      <Dest>Střešní bazén</Dest>
+    </String>
+    <String List="0" sID="03111A">
+      <EDID>TatoWild</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Tato Flower</Source>
+      <Dest>Plané brajče</Dest>
+    </String>
+    <String List="0" sID="03116D">
+      <EDID>TheaterHub360DoorName_Patio</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Cafe Patio</Source>
+      <Dest>Kavárenská terasa</Dest>
+    </String>
+    <String List="0" sID="0311BE">
+      <EDID>TheaterMassBayMedicalCenter02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Mass Bay Medical Radiology</Source>
+      <Dest>Radiologické centrum Mass Bay</Dest>
+    </String>
+    <String List="0" sID="031268">
+      <EDID>SynthGen1Head1</EDID>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="0312B3">
+      <EDID>SynthGen1Head1</EDID>
+      <REC id="2">ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0" sID="0312FA">
+      <EDID>SynthGen1Head3</EDID>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="031313">
+      <EDID>SynthGen1Head4</EDID>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="031318">
+      <EDID>SynthGen1Head4</EDID>
+      <REC id="2">ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0" sID="03133D">
+      <EDID>SynthGen1Head4</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0" sID="03136E">
+      <EDID>SynthGen1Head1</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0" sID="0313A9">
+      <EDID>SynthGen1Head3</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0" sID="03140E">
+      <EDID>SynthGen1Head2</EDID>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="03144B">
+      <EDID>SwanFragment</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Swan Boat Fragments</Source>
+      <Dest>Zbytky labutí loďky</Dest>
+    </String>
+    <String List="0" sID="03153B">
+      <EDID>SynthGen1Head3</EDID>
+      <REC id="2">ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0" sID="03158E">
+      <EDID>SynthGen1Head5</EDID>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Gen 1 Synth</Source>
+      <Dest>Syntetik 1. generace</Dest>
+    </String>
+    <String List="0" sID="031681">
+      <EDID>SynthGen1Head5</EDID>
+      <REC id="2">ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0" sID="0316BE">
+      <EDID>SynthGen1Head2</EDID>
+      <REC id="2">ARMO:FULL</REC>
+      <Source>Raider Heavy Metal Armor</Source>
+      <Dest>Nájezdnická těžká železná zbroj</Dest>
+    </String>
+    <String List="0" sID="0316DB">
+      <EDID>SynthGen1Head5</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0" sID="0316EC">
+      <EDID>SynthGen1Head2</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Raider Metal Armor</Source>
+      <Dest>Nájezdnická železná zbroj</Dest>
+    </String>
+    <String List="0" sID="031745">
+      <EDID>synth_gen1_Head1</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>synth_gen1_Head1</Source>
+      <Dest>synth_gen1_Head1</Dest>
+    </String>
+    <String List="0" sID="0318D1">
+      <EDID>StrongBack04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strong Back</Source>
+      <Dest>Stěhovák</Dest>
+    </String>
+    <String List="0" sID="03195F">
+      <EDID>SweetRollBirthday</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Happy Birthday Sweet Roll</Source>
+      <Dest>Narozeninový sladký bochánek</Dest>
+    </String>
+    <String List="0" sID="031B19">
+      <EDID>TEMP_TelevisionPrewarTrailer_TEMP</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Television</Source>
+      <Dest>Televize</Dest>
+    </String>
+    <String List="0" sID="031B48">
+      <EDID>SupermutantHat3</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Aviator Cap</Source>
+      <Dest>Supermutantská zbroj (letecká helma)</Dest>
+    </String>
+    <String List="0" sID="031B54">
+      <EDID>SupermutantArmor1_Arms</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Arm Guards</Source>
+      <Dest>Supermutantská zbroj (chrániče rukou)</Dest>
+    </String>
+    <String List="0" sID="031B68">
+      <EDID>SupermutantArmor0_Arms</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Heavy Gauntlets</Source>
+      <Dest>Supermutantí zbroj (těžké rukavice)</Dest>
+    </String>
+    <String List="0" sID="031B77">
+      <EDID>SupermutantArmor1_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Cowl Armor</Source>
+      <Dest>Supermutantská zbroj (krytý trup)</Dest>
+    </String>
+    <String List="0" sID="031BD2">
+      <EDID>SupermutantArmor0_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Light Body Armor</Source>
+      <Dest>Supermutantí zbroj (lehký trup)</Dest>
+    </String>
+    <String List="0" sID="031BF9">
+      <EDID>SupermutantArmor2_Arms</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Bracers</Source>
+      <Dest>Supermutantská zbroj (chrániče)</Dest>
+    </String>
+    <String List="0" sID="031C07">
+      <EDID>SupermutantArmor2_Lower</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Leg Armor</Source>
+      <Dest>Supermutantská zbroj (nohy)</Dest>
+    </String>
+    <String List="0" sID="031C76">
+      <EDID>SupermutantHat1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Helmet</Source>
+      <Dest>Supermutantská zbroj (helma)</Dest>
+    </String>
+    <String List="0" sID="031CCB">
+      <EDID>SupermutantArmor1_Lower</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Leg Guards</Source>
+      <Dest>Supermutantská zbroj (chrániče nohou)</Dest>
+    </String>
+    <String List="0" sID="031D52">
+      <EDID>SupermutantRags1_Lower</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Waistcloth</Source>
+      <Dest>Supermutantská zbroj (bederní rouška)</Dest>
+    </String>
+    <String List="0" sID="031E59">
+      <EDID>SupermutantRags2_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Chest Harness</Source>
+      <Dest>Supermutantská zbroj (hrudní pancíř)</Dest>
+    </String>
+    <String List="0" sID="031EA0">
+      <EDID>SupermutantArmor2_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Heavy Armor</Source>
+      <Dest>Supermutantská zbroj (těžký trup)</Dest>
+    </String>
+    <String List="0" sID="031EA7">
+      <EDID>SupermutantArmor3_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Shogun Body Armor</Source>
+      <Dest>Supermutantská zbroj (shógunský trup)</Dest>
+    </String>
+    <String List="0" sID="031F61">
+      <EDID>SupermutantHat2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Bladed Helmet</Source>
+      <Dest>Supermutantská zbroj (helma s čepelí)</Dest>
+    </String>
+    <String List="0" sID="031F79">
+      <EDID>SupermutantHat4</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Cage Helmet</Source>
+      <Dest>Supermutantská zbroj (klecová helma)</Dest>
+    </String>
+    <String List="0" sID="031F8E">
+      <EDID>SupermutantRags2_Arms</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Wrist Wraps</Source>
+      <Dest>Supermutantská zbroj (bandáž zápěstí)</Dest>
+    </String>
+    <String List="0" sID="031FA5">
+      <EDID>SupermutantRags1_Torso</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Shoulder Rags</Source>
+      <Dest>Supermutantská zbroj (ramenní přehoz)</Dest>
+    </String>
+    <String List="0" sID="0320E0">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>World Series</Source>
+      <Dest>Světová série</Dest>
+    </String>
+    <String List="0" sID="03211E">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Jason's Game</Source>
+      <Dest>Jasonova hra</Dest>
+    </String>
+    <String List="0" sID="032152">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>We had a really strange day today. We were supposed to go shop for Halloween costumes. But this morning we looked out the windows and saw people smashing the arch outside. There were lots of police there, but nobody made them stop.&#xD;
+&#xD;
+Later, a bus showed up and lots of our neighbors started getting on.  I saw some of the police come into our building, and Mama took us up to the roof to play.  I thought that would be fun, but we had to be real quiet and stay outside for a long, long time.  Mama wouldn't let us go back inside until it was really cold and dark outside.  She cried when Papa finally came hom.  Grownups are weird.</Source>
+      <Dest>Dnešek byl opravdu velmi prapodivný. Měli jsme v plánu jít nakupovat věci pro halloweenské kostýmy. Jenomže ráno jsme se podívali z okna ven a viděli dav lidí, jak rozbíjí vstupní bránu. Bylo tam hodně policistů, ale nikdo se je nepokoušel zastavit.&#xD;
+&#xD;
+Později přijel autobus a spousta našich sousedů do něj začalo nastupovat.  Viděla jsem nějakého policistu vejít do naší budovy a máma nás vzala hrát si na střechu.  Myslela jsem, že to bude sranda, ale museli jsme být opravdu potichu a venku jsme nakonec zůstali moc moc dlouho.  Maminka nás nepustila dovnitř dřívě, než byla venku opravdu zima a tma.  Plakala, když nakonec přišel tatínek domů.  Dospěláci jsou divní.</Dest>
+    </String>
+    <String List="0" sID="032174">
+      <EDID>TheaterPOI_Terminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Personal Logs</Source>
+      <Dest>Osobní záznamy</Dest>
+    </String>
+    <String List="0" sID="032285">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>I don't see why we have to live at Uncle Marshall's house, but Mama says this is our home now. I liked our old apartment in Pearwood!  We don't even have our own rooms here.  Everyone has to spend all day in the back room, and it's smelly.&#xD;
+&#xD;
+Everyone is being weird here, too.  I asked when Auntie Song is going to get home but Uncle wouldn't answer, and Mama started crying.  Mikey even pushed me down and tried to kick me before Papa pulled him off and sent him to sit in the corner.&#xD;
+&#xD;
+Papa told me later that Auntie was going away to a camp for a while.  That sounds fun to me, and I had a bunch of questions about it.  Papa just told me it's not for kids, and I shouldn't bring it up anymore.&#xD;
+</Source>
+      <Dest>Nechápu, proč musíme bydlet v domě strýčka Marshalla, ale máma říká, že teď je to náš domov. Měla jsem ráda náš starý byt v Pearwoodu!  Dokonce tu nemáme ani svoje vlastní pokoje.  Každý musí trávit celý den v zadní místnosti a tam to zapáchá.&#xD;
+&#xD;
+A každý se tu chová taky nějak divně.  Zeptala jsem se, kdy přijde tetička Song domů, ale strýček neodpověděl a máma začala plakat.  Mikey mě dokonce shodil na zem a snažil se mě kopnout, než ho tatínek odtáhl a poslal sedět do kouta.&#xD;
+&#xD;
+Táta mi později řekl, že tetička odjela na nějakou dobu do tábora.  To mi znělo jako zábavný výlet, a tak jsem měla hned několik otázek.  Táta mi jenom sdělil, že to není nic pro děti a že se na to už nemám nikdy ptát.</Dest>
+    </String>
+    <String List="0" sID="0322AB">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Sirens!</Source>
+      <Dest>Sirény!</Dest>
+    </String>
+    <String List="0" sID="0322D0">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Moving in</Source>
+      <Dest>Stěhování</Dest>
+    </String>
+    <String List="0" sID="032379">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>I hate it here. I just want to die.&#xD;
+&#xD;
+The World Series started, and Boston is playing! But I can't even go upstairs to watch! Mama says there are bad people in the neighborhood today, and we shouldn't disturb them if they visit Uncle Marshall.  So we're stuck in the room all day.  AGAIN.&#xD;
+&#xD;
+The TV upstairs is full blast, but I still can't hear what's going on.  I tried to call Jason so he could tell me the score, but Mama got really mad when she saw me with the phone.  She said it's silly to be worried about a stupid game! &#xD;
+&#xD;
+It's BASEBALL, how can she not get it!? UGH, just kill me now. </Source>
+      <Dest>Nesnáším to tu. Chci už jenom zemřít.&#xD;
+&#xD;
+Světová série začala a Boston hraje! Ale já nemůžu ani jít nahoru, abych se mohla dívat! Máma říká, že jsou dneska v okolí zlí lidé a my bychom je neměli rušit, kdyby strýčka Marshalla navštívíli.  Takže jsme celý den zavření v místnosti.  ZASE. &#xD;
+&#xD;
+Televize nahoře jede na plný pecky, ale já stejně neslyším, co se děje.  Snažila jsem se dovolat Jasonovi, aby mi řekl, jaké je skóre, ale máma se opravdu naštvala, když mě viděla s telefonem v ruce.  Řekla, že je směšné se tak moc starat o nějakou hloupou hru!&#xD;
+&#xD;
+Vždyť to je BASEBALL, co na tom nechápe!? UF, prostě mě zabijte.</Dest>
+    </String>
+    <String List="0" sID="032382">
+      <EDID>TeleportPlayer1stSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport In Player 1st</Source>
+      <Dest>Teleport In Player 1st</Dest>
+    </String>
+    <String List="0" sID="032464">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>Scary People</Source>
+      <Dest>Děsiví lidé</Dest>
+    </String>
+    <String List="0" sID="03246F">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="5">TERM:UNAM</REC>
+      <Source>There were people up in the house yesterday who came in while were were sleeping.  Someone they brought with them was crying. I think there was a fight.  They broke a bunch of stuff and said a lot of cuss words.&#xD;
+&#xD;
+Papa and Uncle said we are going to wait till they go to sleep then try to make a run for it.&#xD;
+</Source>
+      <Dest>Nahoře v domě byly včera nějací lidé, kteří přišli, když jsme spali.  Někdo, koho přivedli, brečel. Myslím, že spolu bojovali.  Zničili několik věcí a říkali spoustu neslušných slov.&#xD;
+&#xD;
+Táta a strýček říkali, že počkáme až půjdou spát a pak se pokusíme utéct.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="032480">
+      <EDID>TeleportPlayer3rdSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport In Player 3rd</Source>
+      <Dest>Teleport In Player 3rd</Dest>
+    </String>
+    <String List="0" sID="0324BB">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>=================================================&#xD;
+         Personal Logs for User &lt;Kim Wu&gt;&#xD;
+=================================================&#xD;
+&#xD;
+</Source>
+      <Dest>=================================================&#xD;
+       Osobní záznamy uživatele &lt;Kim Wu&gt;&#xD;
+=================================================&#xD;
+&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="0324E8">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Personal Logs</Source>
+      <Dest>Osobní záznamy</Dest>
+    </String>
+    <String List="0" sID="0324E9">
+      <EDID>TheaterPOI_Terminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Terminal</Source>
+      <Dest>Terminál</Dest>
+    </String>
+    <String List="0" sID="032507">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>The Gate</Source>
+      <Dest>Brána</Dest>
+    </String>
+    <String List="0" sID="03255B">
+      <EDID>TheaterPOI_Terminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>      &#xD;
+===================================================         &lt;User.Profile:  "Kim Wu"&gt;          =&#xD;
+==================================================&#xD;
+&#xD;
+&#xD;
+</Source>
+      <Dest>      &#xD;
+===================================================      &lt;Uživatel.Profil:  "Kim Wu"&gt;          =&#xD;
+==================================================&#xD;
+&#xD;
+&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="032561">
+      <EDID>TeleportPlayerInSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Teleport Player</Source>
+      <Dest>Teleport Player</Dest>
+    </String>
+    <String List="0" sID="032579">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Terminal</Source>
+      <Dest>Terminál</Dest>
+    </String>
+    <String List="0" sID="0325B8">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Everything's gone crazy.&#xD;
+&#xD;
+Those loud sirens came on and woke me up.  They didn't turn off this time, and Uncle Marshall came running downstairs.  Then we heard a HUGE BOOM!&#xD;
+&#xD;
+The grownups were arguing about whether we should leave. Mama is staying here with me and Mikey.  I wanted to go with Papa, but he said I have to take care of Mama and Mikey.&#xD;
+&#xD;
+Papa put on a big coat and a scarf and a hat - he looked silly!  He took all the money from the jar and said we had to stay put while he and Uncle Marshall went to try to buy food and water.</Source>
+      <Dest>Všechno se zbláznilo.&#xD;
+&#xD;
+Tyhle hlasité sirény začaly houkat a vzbudily mě. Tentokrát nepřestaly a strýček Marshall přiběhl k nám dolů.  Pak jsme slyšeli OBROVSKOU RÁNU!&#xD;
+&#xD;
+Dospěláci se dohadují, zda máme odejít. Máma tu zůstává se mnou a s Mikeyem.  Chtěla jsem jít s tátou, ale řekl, že musím dávat pozor na mámu a Mikeyho.&#xD;
+&#xD;
+Táta si oblékl velký plášť, šálu a čepici - vypadal směšně!  Vzal všechny peníze ze sklenice a řekl, že tu máme počkat a on se strýčkem Marshallem se půjdou pokusit koupit jídlo a vodu.</Dest>
+    </String>
+    <String List="0" sID="0325CE">
+      <EDID>sWorkshopRatingSafety</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Defense</Source>
+      <Dest>Obrana</Dest>
+    </String>
+    <String List="0" sID="0325F7">
+      <EDID>TheaterPOI_SubTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Papa says I'm not allowed to play downstairs with Jason any more. I want to scream. We were playing this holotape his big brother traded for at school.  He said we should learn something from it. &#xD;
+&#xD;
+But when Papa saw me playing it he took it out and made Jason go home.  He was really mad, and made me go to my room. I can hear him on the phone with Uncle, arguing about the Red Menace game. I didn't do anything! It's not fair!!</Source>
+      <Dest>Táta mi oznámil, že už si nesmím hrát dole s Jasonem. Chce se mi křičet. Hráli jsme takovou holopásku, kterou za něco ve škole vyměnil jeho starší brácha.  Říkal, že se z ní něco dozvíme.&#xD;
+&#xD;
+Ale když táta viděl, jak ji hrajeme, vyndal jí a Jasona okamžitě poslal domů.  Byl opravdu naštvaný a donutil mě jít do mého pokoje. Slyším ho, jak mluví se strýčkem, jak se hádají o hře Rudá hrozba. Vždyť jsem nic neudělala! Je to nespravedlivé!!</Dest>
+    </String>
+    <String List="0" sID="0326AF">
+      <EDID>Template_effect_mod_LegendaryWeaponSender</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Test_effect_mod_LegendaryWeaponSender</Source>
+      <Dest>Test_effect_mod_LegendaryWeaponSender</Dest>
+    </String>
+    <String List="0" sID="032ACF">
+      <EDID>TeleportPlayerOut3rdSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport Out Player 3rd</Source>
+      <Dest>Teleport Out Player 3rd</Dest>
+    </String>
+    <String List="0" sID="032BD4">
+      <EDID>Template_effect_mod_LegendaryWeaponListener</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Test_effect_mod_LegendaryWeaponReceiver</Source>
+      <Dest>Test_effect_mod_LegendaryWeaponReceiver</Dest>
+    </String>
+    <String List="0" sID="032C9F">
+      <EDID>TeleportPlayerOut1stSpellEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Teleport Out Player 1st</Source>
+      <Dest>Teleport Out Player 1st</Dest>
+    </String>
+    <String List="0" sID="032CF1">
+      <EDID>Template_mod_Legendary_Weapon_EnchantmentSenderReceiver</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Test</Source>
+      <Dest>Test</Dest>
+    </String>
+    <String List="0" sID="032D49">
+      <EDID>TeleportPlayerOutSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Teleport Player</Source>
+      <Dest>Teleport Player</Dest>
+    </String>
+    <String List="0" sID="0338C5">
+      <EDID>stringHitActivator</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>stringHitActivator</Source>
+      <Dest>stringHitActivator</Dest>
+    </String>
+    <String List="0" sID="033C3B">
+      <EDID>Supermutant</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Supermutant</Source>
+      <Dest>Supermutant</Dest>
+    </String>
+    <String List="0" sID="033F2A">
+      <EDID>Synths</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Synths</Source>
+      <Dest>Syntetikové</Dest>
+    </String>
+    <String List="0" sID="03444C">
+      <EDID>SynthGen2RaceValentine</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Gen 2 Synth</Source>
+      <Dest>Syntetik 2. generace</Dest>
+    </String>
+    <String List="0" sID="034630">
+      <EDID>TeddyBearClean</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Teddy Bear</Source>
+      <Dest>Medvídek</Dest>
+    </String>
+    <String List="0" sID="0346B9">
+      <EDID>SuperSledge</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchá</Dest>
+    </String>
+    <String List="0" sID="0346F2">
+      <EDID>Switchblade</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0" sID="0347A0">
+      <EDID>SubmachineGun</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>Silver Shroud Epic</Source>
+      <Dest>Rubášova epická</Dest>
+    </String>
+    <String List="0" sID="0348A6">
+      <EDID>SubmachineGun</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0" sID="034909">
+      <EDID>SuperSledge</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epická</Dest>
+    </String>
+    <String List="0" sID="034980">
+      <EDID>SuperSledge</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
+    </String>
+    <String List="0" sID="034984">
+      <EDID>Switchblade</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchá epická</Dest>
+    </String>
+    <String List="0" sID="0349AC">
+      <EDID>Switchblade</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchá</Dest>
+    </String>
+    <String List="0" sID="034B92">
+      <EDID>StreetLampPost01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034CC2">
+      <EDID>StreetLamp01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034DA1">
+      <EDID>StreetLampBanner04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034E14">
+      <EDID>StreetLamp01Base01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp Base</Source>
+      <Dest>Patice lampy</Dest>
+    </String>
+    <String List="0" sID="034E4A">
+      <EDID>StreetLampBanner06</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034E51">
+      <EDID>SupermutantMouth</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SupermutantMouth</Source>
+      <Dest>SupermutantMouth</Dest>
+    </String>
+    <String List="0" sID="034E5E">
+      <EDID>StreetLampBanner03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034E83">
+      <EDID>StreetLampBase01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp Base</Source>
+      <Dest>Patice lampy</Dest>
+    </String>
+    <String List="0" sID="034E91">
+      <EDID>StreetLamp01Post01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034EFA">
+      <EDID>StreetLampBanner02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034F06">
+      <EDID>SynthGen2SkinValentine</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2SkinValentine</Source>
+      <Dest>SynthGen2SkinValentine</Dest>
+    </String>
+    <String List="0" sID="034F1E">
+      <EDID>StreetLamp03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034F36">
+      <EDID>StreetLampBanner01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034F86">
+      <EDID>StreetLamp02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="034F8B">
+      <EDID>SynthGen2PartsValentine</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>SynthGen2PartsValentine</Source>
+      <Dest>SynthGen2PartsValentine</Dest>
+    </String>
+    <String List="0" sID="034FD9">
+      <EDID>sWorkshopNPCCaravanFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This person cannot be assigned to a supply line.</Source>
+      <Dest>Tato osoba nemůže být přiřazena k zásobovací trase.</Dest>
+    </String>
+    <String List="0" sID="03502F">
+      <EDID>StreetLampBanner05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Street Lamp</Source>
+      <Dest>Pouliční lampa</Dest>
+    </String>
+    <String List="0" sID="035034">
+      <EDID>SubDoor02LeftLoadNoPackageLockUnlock</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0351B0">
+      <EDID>StepLadderClosed</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="0351B1">
+      <EDID>Tent_Forest01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tent</Source>
+      <Dest>Stan</Dest>
+    </String>
+    <String List="0" sID="035247">
+      <EDID>TerminalBrokenCorded01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Broken Terminal</Source>
+      <Dest>Rozbitý terminál</Dest>
+    </String>
+    <String List="0" sID="035385">
+      <EDID>TerminalBroken01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Broken Terminal</Source>
+      <Dest>Rozbitý terminál</Dest>
+    </String>
+    <String List="0" sID="03538A">
+      <EDID>StepLadderClosedSmall</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="0353DF">
+      <EDID>TerminalBrokenCorded02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Broken Terminal</Source>
+      <Dest>Rozbitý terminál</Dest>
+    </String>
+    <String List="0" sID="03542B">
+      <EDID>StepLadderOpenSmall</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="035432">
+      <EDID>SynthMelee</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Unarmed Bot</Source>
+      <Dest>Neozbrojený robot</Dest>
+    </String>
+    <String List="0" sID="035486">
+      <EDID>TerminalBroken02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Broken Terminal</Source>
+      <Dest>Rozbitý terminál</Dest>
+    </String>
+    <String List="0" sID="035489">
+      <EDID>StepLadderOpen</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="03596C">
+      <EDID>sWorkshopMenuBuildText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>BUILD WITH</Source>
+      <Dest>POSTAV S POUŽITÍM</Dest>
+    </String>
+    <String List="0" sID="035971">
+      <EDID>sTopicSubtypeTextCombatOrderTakeCover</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OrderTakeCover</Source>
+      <Dest>OrderTakeCover</Dest>
+    </String>
+    <String List="0" sID="035978">
+      <EDID>sTopicSubtypeTextCommandDialogueFollow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Follow</Source>
+      <Dest>Follow</Dest>
+    </String>
+    <String List="0" sID="03597B">
+      <EDID>sTopicSubtypeTextCommandDialogueCall</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Call</Source>
+      <Dest>Call</Dest>
+    </String>
+    <String List="0" sID="035986">
+      <EDID>sTopicSubtypeTextCombatOrderFallback</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OrderFallback</Source>
+      <Dest>OrderFallback</Dest>
+    </String>
+    <String List="0" sID="035988">
+      <EDID>sWorkshopRatingPopulation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Population</Source>
+      <Dest>Populace</Dest>
+    </String>
+    <String List="0" sID="035990">
+      <EDID>sTopicSubtypeTextMiscellaneousImpatientQuestion</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ImpatientQuestion</Source>
+      <Dest>ImpatientQuestion</Dest>
+    </String>
+    <String List="0" sID="035992">
+      <EDID>sVATSFollowerTarget</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Invalid Target.</Source>
+      <Dest>Neplatný cíl.</Dest>
+    </String>
+    <String List="0" sID="0359A5">
+      <EDID>sTopicSubtypeTextMiscellaneousGreeting</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Greeting</Source>
+      <Dest>Greeting</Dest>
+    </String>
+    <String List="0" sID="0359A6">
+      <EDID>sWorkshopRatingHappiness</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Happiness</Source>
+      <Dest>Spokojenost</Dest>
+    </String>
+    <String List="0" sID="0359A8">
+      <EDID>sTopicSubtypeTextCommandDialogueRetrieve</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Retrieve</Source>
+      <Dest>Retrieve</Dest>
+    </String>
+    <String List="0" sID="0359A9">
+      <EDID>sTopicSubtypeTextFavorAgree</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Agree</Source>
+      <Dest>Agree</Dest>
+    </String>
+    <String List="0" sID="0359B0">
+      <EDID>sTopicSubtypeTextCommandDialogueShowRelationships</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ShowRelationships</Source>
+      <Dest>ShowRelationships</Dest>
+    </String>
+    <String List="0" sID="0359B1">
+      <EDID>sVATSMsgRemoveMeleeCommand</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Melee target out of range. Removing attack commands.</Source>
+      <Dest>Cíl je pro boj zblízka mimo dosah. Ruším příkazy k útoku.</Dest>
+    </String>
+    <String List="0" sID="0359B3">
+      <EDID>sWorkshopCannotRepairItemPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You do not have components to repair %s:</Source>
+      <Dest>[%s] Nemáš potřebné součástky pro opravu:</Dest>
+    </String>
+    <String List="0" sID="0359B4">
+      <EDID>sTopicSubtypeTextMiscellaneousImpatientPostitive</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ImpatientPostitive</Source>
+      <Dest>ImpatientPostitive</Dest>
+    </String>
+    <String List="0" sID="0359B8">
+      <EDID>sWorkshopRatingPower</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Power</Source>
+      <Dest>Elektřina</Dest>
+    </String>
+    <String List="0" sID="0359BA">
+      <EDID>sTopicSubtypeTextCommandDialogueCustom</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Custom</Source>
+      <Dest>Custom</Dest>
+    </String>
+    <String List="0" sID="0359BF">
+      <EDID>sTopicSubtypeTextCommandDialogueStay</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Stay</Source>
+      <Dest>Stay</Dest>
+    </String>
+    <String List="0" sID="0359C3">
+      <EDID>sTerminalLinkKeywordPrefix</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LinkTerminal</Source>
+      <Dest>LinkTerminal</Dest>
+    </String>
+    <String List="0" sID="0359CA">
+      <EDID>sWorkshopNotEnoughCopper</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the required copper to string wire.</Source>
+      <Dest>Pro vytvoření kabelu nemáš dostatek potřebné mědi.</Dest>
+    </String>
+    <String List="0" sID="0359CE">
+      <EDID>sTerminalPasswordRequired</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Password Required</Source>
+      <Dest>Vyžadováno heslo</Dest>
+    </String>
+    <String List="0" sID="0359CF">
+      <EDID>sWorkshopNPCConfirmNewHome</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Set %s as new home?</Source>
+      <Dest>Nastavit %s jako nový domov?</Dest>
+    </String>
+    <String List="0" sID="0359D8">
+      <EDID>sTopicSubtypeTextCombatRetreat</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Retreat</Source>
+      <Dest>Retreat</Dest>
+    </String>
+    <String List="0" sID="0359DB">
+      <EDID>sTopicSubtypeTextMiscellaneousImpatientNeutral</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ImpatientNeutral</Source>
+      <Dest>ImpatientNeutral</Dest>
+    </String>
+    <String List="0" sID="0359E0">
+      <EDID>sWorkshopNPCCommandFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This person cannot be commanded by you.</Source>
+      <Dest>Této osobě nemůžeš dávat příkazy.</Dest>
+    </String>
+    <String List="0" sID="0359E3">
+      <EDID>sWorkshopWallItemsStored</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Clamped items were stored in the Workbench.</Source>
+      <Dest>Přimontované předměty byly uloženy v dílně.</Dest>
+    </String>
+    <String List="0" sID="0359E5">
+      <EDID>sWorkshopItemsUsed</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Workshop Items Used:</Source>
+      <Dest>Použité dílenské předměty:</Dest>
+    </String>
+    <String List="0" sID="0359EB">
+      <EDID>sTerminalLockout</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This terminal has locked you out.</Source>
+      <Dest>Terminál je zablokován.</Dest>
+    </String>
+    <String List="0" sID="0359ED">
+      <EDID>sTopicSubtypeTextFavorShow</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Show</Source>
+      <Dest>Show</Dest>
+    </String>
+    <String List="0" sID="0359F0">
+      <EDID>sWorkshopRatingBeds</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Beds</Source>
+      <Dest>Postele</Dest>
+    </String>
+    <String List="0" sID="0359F1">
+      <EDID>sWorkshopRatingFood</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Food</Source>
+      <Dest>Jídlo</Dest>
+    </String>
+    <String List="0" sID="0359F7">
+      <EDID>sTopicSubtypeTextCommandDialogueRelease</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Release</Source>
+      <Dest>Release</Dest>
+    </String>
+    <String List="0" sID="035A08">
+      <EDID>sTopicSubtypeTextCombatOrderMoveUp</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OrderMoveUp</Source>
+      <Dest>OrderMoveUp</Dest>
+    </String>
+    <String List="0" sID="035A14">
+      <EDID>sTopicSubtypeTextCombatCoverMe</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>CoverMe</Source>
+      <Dest>CoverMe</Dest>
+    </String>
+    <String List="0" sID="035A19">
+      <EDID>sTerminalChooseHolotape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Choose Holotape To Load</Source>
+      <Dest>Zvolte holopásku k načtení</Dest>
+    </String>
+    <String List="0" sID="035A24">
+      <EDID>sTopicSubtypeTextFavorMoralRefusal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>MoralRefusal</Source>
+      <Dest>MoralRefusal</Dest>
+    </String>
+    <String List="0" sID="035A28">
+      <EDID>sTopicSubtypeTextCombatThrowGrenade</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ThrowGrenade</Source>
+      <Dest>ThrowGrenade</Dest>
+    </String>
+    <String List="0" sID="035A2C">
+      <EDID>sWorkshopMenuPromptText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Hold [TogglePOV] to open Workshop menu.</Source>
+      <Dest>Podrž [TogglePOV] pro otevření dílenské nabídky.</Dest>
+    </String>
+    <String List="0" sID="035A31">
+      <EDID>sWorkshopScrapItemPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scrap %s?</Source>
+      <Dest>[%s] Sešrotovat?</Dest>
+    </String>
+    <String List="0" sID="035A35">
+      <EDID>sWorkshopRatingWater</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Water</Source>
+      <Dest>Voda</Dest>
+    </String>
+    <String List="0" sID="035A39">
+      <EDID>sTopicSubtypeTextCombatUNUSED01</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>UNUSED01</Source>
+      <Dest>UNUSED01</Dest>
+    </String>
+    <String List="0" sID="035A3F">
+      <EDID>sTerminalLogin</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LOGIN ADMIN</Source>
+      <Dest>ADMINISTRÁTORSKÉ PŘIHLÁŠENÍ</Dest>
+    </String>
+    <String List="0" sID="035A40">
+      <EDID>sTopicSubtypeTextCommandDialogueMove</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Move</Source>
+      <Dest>Move</Dest>
+    </String>
+    <String List="0" sID="035A44">
+      <EDID>sWorkshopRepairItemPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Repair %s for:</Source>
+      <Dest>[%s] opravit  s použitím:</Dest>
+    </String>
+    <String List="0" sID="035A48">
+      <EDID>sTopicSubtypeTextCombatOrderFlank</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>OrderFlank</Source>
+      <Dest>OrderFlank</Dest>
+    </String>
+    <String List="0" sID="035A4B">
+      <EDID>sWorkshopMenuComponentsText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>COMPONENTS</Source>
+      <Dest>KOMPONENTY</Dest>
+    </String>
+    <String List="0" sID="035A4E">
+      <EDID>sWorkshopNPCConfirmDefault</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Confirm travel?</Source>
+      <Dest>Potvrdit cestu?</Dest>
+    </String>
+    <String List="0" sID="035A55">
+      <EDID>sWorkshopItemStored</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Item stored in the Workbench.</Source>
+      <Dest>Předmět byl uložen do dílenského kontejneru.</Dest>
+    </String>
+    <String List="0" sID="035A57">
+      <EDID>sTerminalLoadHolotape</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Load Holotape</Source>
+      <Dest>Načíst holopásku</Dest>
+    </String>
+    <String List="0" sID="035A5A">
+      <EDID>sTopicSubtypeTextCommandDialogueAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Attack</Source>
+      <Dest>Attack</Dest>
+    </String>
+    <String List="0" sID="035A5E">
+      <EDID>sTopicSubtypeTextCommandDialogueReject</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Reject</Source>
+      <Dest>Reject</Dest>
+    </String>
+    <String List="0" sID="035A64">
+      <EDID>sTopicSubtypeTextFavorRefuse</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Refuse</Source>
+      <Dest>Refuse</Dest>
+    </String>
+    <String List="0" sID="035A68">
+      <EDID>sWaterName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Water</Source>
+      <Dest>Voda</Dest>
+    </String>
+    <String List="0" sID="035A6D">
+      <EDID>sWorkshopContainerContentsTransferred</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Contents transferred to the Workbench.</Source>
+      <Dest>Předměty přesunuty do dílenského kontejneru.</Dest>
+    </String>
+    <String List="0" sID="035A77">
+      <EDID>sTopicSubtypeTextFavorTrade</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Trade</Source>
+      <Dest>Trade</Dest>
+    </String>
+    <String List="0" sID="035A7E">
+      <EDID>sTopicSubtypeTextMiscellaneousSceneChoice</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SceneChoice</Source>
+      <Dest>SceneChoice</Dest>
+    </String>
+    <String List="0" sID="035A84">
+      <EDID>sWorkshopMenuRepairText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>REPAIR WITH</Source>
+      <Dest>OPRAVIT S POUŽITÍM</Dest>
+    </String>
+    <String List="0" sID="035A86">
+      <EDID>sTopicSubtypeTextCombatSuppressiveFire</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SuppressiveFire</Source>
+      <Dest>SuppressiveFire</Dest>
+    </String>
+    <String List="0" sID="035A8B">
+      <EDID>sWorkshopStoreItemPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Store %s in the Workshop?</Source>
+      <Dest>[%s] Uložit v dílně?</Dest>
+    </String>
+    <String List="0" sID="035A8F">
+      <EDID>sTopicSubtypeTextCommandDialogueEnter</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Enter</Source>
+      <Dest>Enter</Dest>
+    </String>
+    <String List="0" sID="035A94">
+      <EDID>sTopicSubtypeTextMiscellaneousWaitingForPlayerInput</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>WaitingForPlayerInput</Source>
+      <Dest>WaitingForPlayerInput</Dest>
+    </String>
+    <String List="0" sID="035A95">
+      <EDID>sTopicSubtypeTextCommandDialogueAssign</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Assign</Source>
+      <Dest>Assign</Dest>
+    </String>
+    <String List="0" sID="035A9C">
+      <EDID>sWorkshopMenuScrapText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SCRAP FOR</Source>
+      <Dest>SEŠROTOVAT NA</Dest>
+    </String>
+    <String List="0" sID="035A9D">
+      <EDID>sWorkshopCanBuildNoMore</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Nothing more can be built.</Source>
+      <Dest>Už nelze postavit nic dalšího.</Dest>
+    </String>
+    <String List="0" sID="035AA0">
+      <EDID>sTerminalActivateText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>$Use</Source>
+      <Dest>$Use</Dest>
+    </String>
+    <String List="0" sID="035AA9">
+      <EDID>sWireDisplayName</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wire</Source>
+      <Dest>Kabel</Dest>
+    </String>
+    <String List="0" sID="035AAD">
+      <EDID>sTopicSubtypeTextCommandDialogueHeal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Heal</Source>
+      <Dest>Heal</Dest>
+    </String>
+    <String List="0" sID="035AB0">
+      <EDID>sWorkshopThousandsAbbreviation</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>K</Source>
+      <Dest>tis.</Dest>
+    </String>
+    <String List="0" sID="035AB2">
+      <EDID>sTopicSubtypeTextMiscellaneousImpatientNegative</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ImpatientNegative</Source>
+      <Dest>ImpatientNegative</Dest>
+    </String>
+    <String List="0" sID="035AB3">
+      <EDID>sTopicSubtypeTextCommandDialogueInspect</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Inspect</Source>
+      <Dest>Inspect</Dest>
+    </String>
+    <String List="0" sID="035AB6">
+      <EDID>sTrespassing</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You're currently trespassing. Owner will become hostile if you stay.</Source>
+      <Dest>Vstoupil jsi bez dovolení na cizí území. Pokud neodejdeš, začne být majitel nepřátelský.</Dest>
+    </String>
+    <String List="0" sID="035ABA">
+      <EDID>sTerminalNoHolotapes</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You have no holotapes in your inventory.</Source>
+      <Dest>V inventáři nemáš žádné holopásky.</Dest>
+    </String>
+    <String List="0" sID="035ABB">
+      <EDID>sTopicSubtypeTextDetectionNormalToLost</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>NormalToLost</Source>
+      <Dest>NormalToLost</Dest>
+    </String>
+    <String List="0" sID="035ABD">
+      <EDID>sValidMidairFootsteps</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>JumpDown,JumpFall,JumpUp,PowerArmorHardLanding</Source>
+      <Dest>JumpDown,JumpFall,JumpUp,PowerArmorHardLanding</Dest>
+    </String>
+    <String List="0" sID="035ABE">
+      <EDID>sWorkshopNPCMoveFail</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>This person cannot be moved from this settlement.</Source>
+      <Dest>Tato osoba nemůže opustit tuto osadu.</Dest>
+    </String>
+    <String List="0" sID="035ABF">
+      <EDID>sTopicSubtypeTextFavorExitFavorState</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>ExitFavorState</Source>
+      <Dest>ExitFavorState</Dest>
+    </String>
+    <String List="0" sID="035ADC">
+      <EDID>sTopicSubtypeTextCombatPairedAttack</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Paired Attack</Source>
+      <Dest>Paired Attack</Dest>
+    </String>
+    <String List="0" sID="035B05">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerActivateTerminals</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Activate Terminals</Source>
+      <Dest>Player Activate Terminals</Dest>
+    </String>
+    <String List="0" sID="035B30">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerAquireFeaturedItem</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Aquire Featured Item</Source>
+      <Dest>Player Aquire Featured Item</Dest>
+    </String>
+    <String List="0" sID="035B41">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerActivateFurniture</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Activate Furniture</Source>
+      <Dest>Player Activate Furniture</Dest>
+    </String>
+    <String List="0" sID="035B57">
+      <EDID>sTopicSubtypeTextCombatCrippledLimb</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Crippled Limb</Source>
+      <Dest>Crippled Limb</Dest>
+    </String>
+    <String List="0" sID="035B8D">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerActivateContainer</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Activate Container</Source>
+      <Dest>Player Activate Container</Dest>
+    </String>
+    <String List="0" sID="035BA9">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerActivateDoor</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Activate Door</Source>
+      <Dest>Player Activate Door</Dest>
+    </String>
+    <String List="0" sID="035BC4">
+      <EDID>sTopicSubtypeTextMiscellaneousPlayerActivateActivators</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Player Activate Activators</Source>
+      <Dest>Player Activate Activators</Dest>
+    </String>
+    <String List="0" sID="035BE0">
+      <EDID>sTopicSubtypeTextFavorPathingRefusal</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Pathing Refusal</Source>
+      <Dest>Pathing Refusal</Dest>
+    </String>
+    <String List="0" sID="035CE6">
+      <EDID>SynthGen2</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>SynthGen2</Source>
+      <Dest>SynthGen2</Dest>
+    </String>
+    <String List="0" sID="035FEB">
+      <EDID>SupermutantArmor2_Lower_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Leg Armor</Source>
+      <Dest>Supermutantská zbroj (nohy)</Dest>
+    </String>
+    <String List="0" sID="036008">
+      <EDID>SupermutantHat2_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Bladed Helmet</Source>
+      <Dest>Supermutantská zbroj (helma s čepelí)</Dest>
+    </String>
+    <String List="0" sID="036022">
+      <EDID>SupermutantArmor0_Torso_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Light Body Armor</Source>
+      <Dest>Supermutantí zbroj (lehký trup)</Dest>
+    </String>
+    <String List="0" sID="036045">
+      <EDID>SupermutantArmor0_Arms_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Heavy Gauntlets</Source>
+      <Dest>Supermutantí zbroj (těžké rukavice)</Dest>
+    </String>
+    <String List="0" sID="036049">
+      <EDID>SupermutantArmor1_Arms_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Arm Guards</Source>
+      <Dest>Supermutantská zbroj (chrániče rukou)</Dest>
+    </String>
+    <String List="0" sID="03604B">
+      <EDID>SupermutantArmor1_Lower_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Leg Guards</Source>
+      <Dest>Supermutantská zbroj (chrániče nohou)</Dest>
+    </String>
+    <String List="0" sID="03604C">
+      <EDID>SupermutantArmor1_Torso_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Cowl Armor</Source>
+      <Dest>Supermutantská zbroj (krytý trup)</Dest>
+    </String>
+    <String List="0" sID="03604D">
+      <EDID>SupermutantArmor2_Arms_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Bracers</Source>
+      <Dest>Supermutantská zbroj (chrániče)</Dest>
+    </String>
+    <String List="0" sID="03604E">
+      <EDID>SupermutantArmor2_Torso_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Heavy Armor</Source>
+      <Dest>Supermutantská zbroj (těžký trup)</Dest>
+    </String>
+    <String List="0" sID="03604F">
+      <EDID>SupermutantHat1_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Helmet</Source>
+      <Dest>Supermutantská zbroj (helma)</Dest>
+    </String>
+    <String List="0" sID="036050">
+      <EDID>SupermutantHat3_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Aviator Cap</Source>
+      <Dest>Supermutantská zbroj (letecká helma)</Dest>
+    </String>
+    <String List="0" sID="036051">
+      <EDID>SupermutantHat4_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Cage Helmet</Source>
+      <Dest>Supermutantská zbroj (klecová helma)</Dest>
+    </String>
+    <String List="0" sID="036052">
+      <EDID>SupermutantRags1_Lower_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Waistcloth</Source>
+      <Dest>Supermutantská zbroj (bederní rouška)</Dest>
+    </String>
+    <String List="0" sID="036053">
+      <EDID>SupermutantRags1_Torso_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Shoulder Rags</Source>
+      <Dest>Supermutantská zbroj (ramenní přehoz)</Dest>
+    </String>
+    <String List="0" sID="036054">
+      <EDID>SupermutantRags2_Arms_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Wrist Wraps</Source>
+      <Dest>Supermutantská zbroj (bandáž zápěstí)</Dest>
+    </String>
+    <String List="0" sID="036055">
+      <EDID>SupermutantRags2_Torso_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Chest Harness</Source>
+      <Dest>Supermutantská zbroj (hrudní pancíř)</Dest>
+    </String>
+    <String List="0" sID="0360E2">
+      <EDID>SynthGen2Armored</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>SynthGen2Armored</Source>
+      <Dest>SynthGen2Armored</Dest>
+    </String>
+    <String List="0" sID="036124">
+      <EDID>SynthGen2Partial</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>SynthGen2Partial</Source>
+      <Dest>SynthGen2Partial</Dest>
+    </String>
+    <String List="0" sID="036138">
+      <EDID>SynthCourser</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>SynthCourser</Source>
+      <Dest>SynthCourser</Dest>
+    </String>
+    <String List="0" sID="03615C">
+      <EDID>SuperMutantSuicideChains_Playable</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Chains</Source>
+      <Dest>Supermutantská zbroj (řetězy)</Dest>
+    </String>
+    <String List="0" sID="0361E1">
+      <EDID>SuperMutantSuicideChains</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Chains</Source>
+      <Dest>Supermutantská zbroj (řetězy)</Dest>
+    </String>
+    <String List="0" sID="03620D">
+      <EDID>SuperMutantArmor1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Super Mutant Armor</Source>
+      <Dest>Supermutantská zbroj</Dest>
+    </String>
+    <String List="0" sID="0362C3">
+      <EDID>TestGammaGun</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>MS09ForcePush</Source>
+      <Dest>MS09ForcePush</Dest>
+    </String>
+    <String List="0" sID="0362C4">
+      <EDID>TestGammaGun</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Gamma Gun</Source>
+      <Dest>Gama zbraň</Dest>
+    </String>
+    <String List="0" sID="0362C5">
+      <EDID>TestGammaGun</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>MS09JackRadiation</Source>
+      <Dest>MS09JackRadiation</Dest>
+    </String>
+    <String List="0" sID="0362C6">
+      <EDID>TestGammaGun</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Standard Epic - Dish Long</Source>
+      <Dest>Standard Epic - Dish Long</Dest>
+    </String>
+    <String List="0" sID="0362C7">
+      <EDID>TestGammaGun</EDID>
+      <REC id="7">WEAP:FULL</REC>
+      <Source>Standard Epic - Grip Better</Source>
+      <Dest>Standard Epic - Grip Better</Dest>
+    </String>
+    <String List="0" sID="0362C8">
+      <EDID>TestGammaGun</EDID>
+      <REC id="6">WEAP:FULL</REC>
+      <Source>MS09ForcePush Epic</Source>
+      <Dest>MS09ForcePush Epic</Dest>
+    </String>
+    <String List="0" sID="0362CA">
+      <EDID>TestGammaGun</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="0362CB">
+      <EDID>TestGammaGun</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>MS09JackRadiation Epic</Source>
+      <Dest>MS09JackRadiation Epic</Dest>
+    </String>
+    <String List="0" sID="03650B">
+      <EDID>sWNPCSendTo</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>SEND %s TO</Source>
+      <Dest>[%s] POSLAT DO:</Dest>
+    </String>
+    <String List="0" sID="03650E">
+      <EDID>sWorkshopAutExitCanceledMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Workshop auto exit canceled.</Source>
+      <Dest>Automatické ukončení dílenského režimu zrušeno.</Dest>
+    </String>
+    <String List="0" sID="03650F">
+      <EDID>sWorkshopOutsideBuildableAreaMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Outside buildable area. Workshop Auto exit in %.0fs.</Source>
+      <Dest>Mimo stavitelnou oblast. Automatické ukončení dílenského režimu za %.0fs.</Dest>
+    </String>
+    <String List="0" sID="036510">
+      <EDID>sWorkshopLeaveWorkshopModeMessage</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Leaving Workshop mode.</Source>
+      <Dest>Probíhá ukončení dílenského režimu.</Dest>
+    </String>
+    <String List="0" sID="036513">
+      <EDID>sWorkshopScrapPrompt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Scrap?</Source>
+      <Dest>Sešrotovat?</Dest>
+    </String>
+    <String List="0" sID="036515">
+      <EDID>sWorkshopWire</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Wire</Source>
+      <Dest>Kabel</Dest>
+    </String>
+    <String List="1" sID="01352E">
+      <EDID>terminalHackedStatusError</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Error&gt;</Source>
+      <Dest>&lt;Chyba&gt;</Dest>
+    </String>
+    <String List="1" sID="013A13">
+      <EDID>terminalHackedDoorStatusLocked</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Locked</Source>
+      <Dest>Uzamčeno</Dest>
+    </String>
+    <String List="1" sID="015C3D">
+      <EDID>terminalHackedStatusEmpty</EDID>
+      <REC>MESG:DESC</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="1" sID="018BD5">
+      <EDID>SupermutantBehemothRace</EDID>
+      <REC>RACE:DESC</REC>
+      <Source/>
+      <Dest/>
+    </String>
+    <String List="1" sID="01D4FE">
+      <EDID>terminalTurretStatusDead</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>ERROR - CATASTROPHIC DAMAGE</Source>
+      <Dest>CHYBA - KATASTROFICKÉ POŠKOZENÍ</Dest>
+    </String>
+    <String List="1" sID="01D504">
+      <EDID>terminalTurretStatusOnline</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Online</Source>
+      <Dest>Aktivní</Dest>
+    </String>
+    <String List="1" sID="01D50D">
+      <EDID>terminalTurretStatusOffline</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Offline</Source>
+      <Dest>Neaktivní</Dest>
+    </String>
+    <String List="1" sID="01D581">
+      <EDID>terminalHackedDoorStatusOpen</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Open</Source>
+      <Dest>Otevřeno</Dest>
+    </String>
+    <String List="1" sID="01D584">
+      <EDID>terminalHackedDoorStatusClosed</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Closed</Source>
+      <Dest>Zavřeno</Dest>
+    </String>
+    <String List="1" sID="01D586">
+      <EDID>terminalHackedDoorStatusUnlocked</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Unlocked</Source>
+      <Dest>Odemčeno</Dest>
+    </String>
+    <String List="1" sID="01D73B">
+      <EDID>Strength</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks.</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzícké síly. Určuje, jak těžký náklad uneseš a sílu všech útoků vedených zblízka.</Dest>
+    </String>
+    <String List="1" sID="01D9C4">
+      <EDID>StrongBack01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>What are you, part pack mule? Gain +25 to carry weight.</Source>
+      <Dest>Kdo jsi... kříženec se stěhovací mulou? Získej +25 k nosnosti.</Dest>
+    </String>
+    <String List="1" sID="028815">
+      <EDID>TempWorkshopTutorialMessage2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can store items you have built in your workshop inventory by selecting a previously built item and pressing A.&#xD;
+&#xD;
+You need resources to build new items.  Things in the world that highlight yellow in workshop can be scrapped for resources.&#xD;
+&#xD;
+Light bulbs and other items may require power.  To power them build a generator and power conduit and connect them with wire.</Source>
+      <Dest>Postavené předměty můžeš uschovat v dílně, pokud je vybereš a stiskneš A.  &#xD;
+&#xD;
+Pro stavbu nových předmětů podřebuješ komponenty.  Předměty ve světě zvýrazněné v žlutou barvou mohou být sešrotovány na potřebné komponenty.&#xD;
+&#xD;
+Žárovky a jiné předměty mohou vyžadovat elektřinu.  Pro napájení postav elektrický generátor, sloupy elektrického vedení a propoj je kabelem.</Dest>
+    </String>
+    <String List="1" sID="028AD6">
+      <EDID>terminalTurretStatusSomeDead</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>ERROR - CATASTROPHIC DAMAGE</Source>
+      <Dest>CHYBA - KATASTROFICKÉ POŠKOZENÍ</Dest>
+    </String>
+    <String List="1" sID="028B9F">
+      <EDID>TempWorkshopTutorialMessage1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are now in Workshop Mode.   Use the Back button to exit and enter workshop mode while in the area of the workbench.   &#xD;
+&#xD;
+Select items to build from the build menu using the D-pad to navigate.  &#xD;
+&#xD;
+X will build a selected item.&#xD;
+&#xD;
+If an item in the world is highlighted green it can be placed or selected.  If it is highlighted RED it cannot be placed. </Source>
+      <Dest>Jsi nyní v dílenském režimu.   Použij tlačítko Zpět pro ukončení nebo spuštění režimu v oblasti dílenského stolu.   &#xD;
+&#xD;
+Vyber položky ke stavbě ze stavební nabídky za pomoci D-tlačítek.  &#xD;
+&#xD;
+X postaví zvolenou položku.&#xD;
+&#xD;
+Pokud je položka v prostředí označena zeleně, může být umístěna nebo označena.  Pokud je označena ČERVENÉ, není možné ji postavit. </Dest>
+    </String>
+    <String List="1" sID="029712">
+      <EDID>TempTutorialCommandModeMessage01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You've been joined by a follower.&#xD;
+&#xD;
+Followers will travel with you and come to your aid in combat, as well as occasionally helping to find enemies, items, or performing other services.&#xD;
+&#xD;
+Followers can be given specific direction with COMMAND MODE.  To enter command mode, look at your follower and press (A).  While in Command Mode, you can instruct your follower to move around the environment, attack enemies, or interact with certain objects.&#xD;
+&#xD;
+To dismiss a follower, simply use the "DISMISS" command in dialogue.  A dismissed follower can usually be found where you first encountered each other and asked to resume following.</Source>
+      <Dest>Přidal se k tobě společník.&#xD;
+&#xD;
+Společníci s tebou budou cestovat, bojovat po tvém boku a občas i pomáhat nalézt nepřátele, předměty anebo provádět jiné služby. &#xD;
+&#xD;
+Společníci mohou být vedeni za pomoci PŘÍKAZOVÉHO REŽIMU.  Pro vstup do příkazového režimu stiskni (A).  V rámci boje můžeš zaúkolovat společníka pro přesun na pozici, útok na nepřítele nebo interakci s vybranými objekty.&#xD;
+&#xD;
+Pro propuštění společníka použij příkaz "PROPUSTIT" v příkazovém dialogu. Propuštěný společník může být obvykle nalezen tam, kde jste se poprvé potkali a rozhodli pro následování.</Dest>
+    </String>
+    <String List="1" sID="02A419">
+      <EDID>TemporaryAngerLevel</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>0 == no longer upset&#xD;
+1 == upset (for a short period of time)&#xD;
+2 == extremely upset (for a long period of time)&#xD;
+The player recently did something that the Companion did not like. Useful for conditionalizing cheery and happy hellos and idles not to play. 1 happens whenever they take negative affinity, 2 is set for things like murder</Source>
+      <Dest>0 == no longer upset&#xD;
+1 == upset (for a short period of time)&#xD;
+2 == extremely upset (for a long period of time)&#xD;
+The player recently did something that the Companion did not like. Useful for conditionalizing cheery and happy hellos and idles not to play. 1 happens whenever they take negative affinity, 2 is set for things like murder</Dest>
+    </String>
+    <String List="1" sID="02B666">
+      <EDID>StrongBack03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>When overencumbered, you can use Action Points to run.</Source>
+      <Dest>Pokud jsi přetížený, můžeš použít akční body pro běh.</Dest>
+    </String>
+    <String List="1" sID="02BA52">
+      <EDID>StrongBack02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You now have +50 to carry weight.</Source>
+      <Dest>Nyní máš +50 k nosnosti.</Dest>
+    </String>
+    <String List="1" sID="0309C6">
+      <EDID>stewRadStag</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+30 Energy Resist for 1 hour.</Source>
+      <Dest>+30 odolnost proti energetickému poškození na 1 hodinu.</Dest>
+    </String>
+    <String List="1" sID="031124">
+      <EDID>TheSlog_NoteTim</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Well, this is it. I can't believe I'm gonna die in a fucking snack bar. I know I should have propped the door open. Two steps in and I heard the click behind me. All because Brian said there might be a snow cone machine in here. Goodbye, cruel world.</Source>
+      <Dest>No a je to tady. Nemůžu uvěřit, že chcípnu v zasranym bufetu. Je mi jasný, že jsem měl ty otevřený dveře zapřít. Dva kroky dovnitř, a pak jsem za sebou uslyšel zaklapnutí. A to všechno jenom proto, že Brian řekl, že tu je může být automat na zmrzlinu.  Sbohem krutý světe.</Dest>
+    </String>
+    <String List="1" sID="03189D">
+      <EDID>StrongBack04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>When overencumbered, you can fast travel.</Source>
+      <Dest>Pokud jsi přetížený, můžeš rychle cestovat.</Dest>
+    </String>
+    <String List="1" sID="032CEF">
+      <EDID>Template_mod_Legendary_Weapon_EnchantmentSenderReceiver</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Test Enchantment</Source>
+      <Dest>Testovací očarování</Dest>
+    </String>
+    <String List="1" sID="034663" Partial="1">
+      <EDID>StingwingRace</EDID>
+      <REC>RACE:DESC</REC>
+      <Source>injured bite back 180</Source>
+      <Dest>injured bite back 180</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

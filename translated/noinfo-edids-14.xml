@@ -1,0 +1,5429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="0001D9" Partial="1">
+      <EDID>GreenTintDark</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GreenTintDark</Source>
+      <Dest>GreenTintDark</Dest>
+    </String>
+    <String List="0" sID="0001E5" Partial="1">
+      <EDID>GreenTintLight</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GreenTintLight</Source>
+      <Dest>GreenTintLight</Dest>
+    </String>
+    <String List="0" sID="00876E" Partial="1">
+      <EDID>GreenTintAverage</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GreenTintAverage</Source>
+      <Dest>GreenTintAverage</Dest>
+    </String>
+    <String List="0" sID="0127B7">
+      <EDID>Gumdrops</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Gum Drops</Source>
+      <Dest>Žvýkací bonbóny</Dest>
+    </String>
+    <String List="0" sID="012886">
+      <EDID>FortifyActionPointsChem</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="012972">
+      <EDID>GunnerWinlock</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Winlock</Source>
+      <Dest>Winlock</Dest>
+    </String>
+    <String List="0" sID="0129DA">
+      <EDID>Gunslinger02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gunslinger</Source>
+      <Dest>Pistolník</Dest>
+    </String>
+    <String List="0" sID="012A18">
+      <EDID>GasCanister</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gas Canister</Source>
+      <Dest>Kanystr na benzín</Dest>
+    </String>
+    <String List="0" sID="012B0D">
+      <EDID>GJMessageCookeTopicList</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>My son is missing.</Source>
+      <Dest>Ztratil se mi syn.</Dest>
+    </String>
+    <String List="0" sID="012B43">
+      <EDID>GJTerminal02</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0" sID="012B85">
+      <EDID>FortifyIntelligence</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Intelligence</Source>
+      <Dest>Fortify Intelligence</Dest>
+    </String>
+    <String List="0" sID="012D79">
+      <EDID>GrimReaperSprint01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Grim Reaper's Sprint</Source>
+      <Dest>Řádění smrtky</Dest>
+    </String>
+    <String List="0" sID="012E78">
+      <EDID>GoodneighborDrifterTemplate00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Drifter</Source>
+      <Dest>Tulák</Dest>
+    </String>
+    <String List="0" sID="0130B9">
+      <EDID>FortifyStrengthAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Strength</Source>
+      <Dest>Alcohol: Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="013212">
+      <EDID>FlareGun</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Flare Gun</Source>
+      <Dest>Signální pistole</Dest>
+    </String>
+    <String List="0" sID="0133F6">
+      <EDID>GorillaRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Gorilla</Source>
+      <Dest>Gorila</Dest>
+    </String>
+    <String List="0" sID="01345B">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Follow</Source>
+      <Dest>Následuj mě</Dest>
+    </String>
+    <String List="0" sID="0134B8">
+      <EDID>GlowingOneReanimate</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reanimate</Source>
+      <Dest>Reanimate</Dest>
+    </String>
+    <String List="0" sID="013515">
+      <EDID>Gutsy02LeftArmCombatRifle</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Combat Rifle</Source>
+      <Dest>Taktická puška</Dest>
+    </String>
+    <String List="0" sID="01353A">
+      <EDID>FortStrong01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fort Strong Armory</Source>
+      <Dest>Sklad zbraní v pevnosti Strong</Dest>
+    </String>
+    <String List="0" sID="01361C">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>On Life</Source>
+      <Dest>O Životě</Dest>
+    </String>
+    <String List="0" sID="013711">
+      <EDID>FloraRazorgrain02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Razorgrain</Source>
+      <Dest>Ostrozrno</Dest>
+    </String>
+    <String List="0" sID="01375A">
+      <EDID>GJTerminal01</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Fake Terminal</Source>
+      <Dest>Falešný terminál</Dest>
+    </String>
+    <String List="0" sID="013876">
+      <EDID>Gutsy02LeftArmLaserGunAuto</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Laser Gun</Source>
+      <Dest>Laserová zbraň</Dest>
+    </String>
+    <String List="0" sID="013B73">
+      <EDID>FortifyActionPointsChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Chem: Fortify Action Points</Source>
+      <Dest>Chem: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="013BBF">
+      <EDID>GriswoldsTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Griswold's Terminal</Source>
+      <Dest>Griswoldův terminál</Dest>
+    </String>
+    <String List="0" sID="013C7A">
+      <EDID>Fork_02_StainlessSteel_Prewar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Fork</Source>
+      <Dest>Vidlička</Dest>
+    </String>
+    <String List="0" sID="013DCB">
+      <EDID>Gourd</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Gourd</Source>
+      <Dest>Tykev</Dest>
+    </String>
+    <String List="0" sID="013EF9">
+      <EDID>Fork_03_Silver</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Silver Fork</Source>
+      <Dest>Stříbrná vidlička</Dest>
+    </String>
+    <String List="0" sID="013F2B">
+      <EDID>GeneralAtomicsFactory01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>General Atomics Factory</Source>
+      <Dest>Továrna General Atomics</Dest>
+    </String>
+    <String List="0" sID="0140CE">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>     On Sue&#xD;
+By: Griswold&#xD;
+&#xD;
+Sue is mean and not nice&#xD;
+That is why I shot her twice&#xD;
+&#xD;
+THE END</Source>
+      <Dest>     O Sue&#xD;
+Napsal: Griswold&#xD;
+&#xD;
+Sue se chová zle a protivně,&#xD;
+proto střelil jsem do ní kulky dvě.&#xD;
+&#xD;
+KONEC</Dest>
+    </String>
+    <String List="0" sID="01410F">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Here</Source>
+      <Dest>Sem</Dest>
+    </String>
+    <String List="0" sID="014365">
+      <EDID>GJTerminal02</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Fake Terminal</Source>
+      <Dest>Falešný terminál</Dest>
+    </String>
+    <String List="0" sID="01447E">
+      <EDID>GoodneighborAmariLabKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Doctor Amari's Lab Key</Source>
+      <Dest>Klíč od laboratoře doktorky Amari</Dest>
+    </String>
+    <String List="0" sID="0144A5">
+      <EDID>GoodneighborMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Goodneighbor</Source>
+      <Dest>Dobré sousedství</Dest>
+    </String>
+    <String List="0" sID="014515">
+      <EDID>GoodneighborKleosHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>KL-E-0's House</Source>
+      <Dest>Dům KL-E-0</Dest>
+    </String>
+    <String List="0" sID="0145AD">
+      <EDID>Floorlamp01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="014629">
+      <EDID>FlatbedCart_Small</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Flatbed Cart</Source>
+      <Dest>Vozík</Dest>
+    </String>
+    <String List="0" sID="0146BF">
+      <EDID>FourLeafFishpackingMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Four Leaf Fishpacking Plant</Source>
+      <Dest>Konzervárna Čtyřlístek</Dest>
+    </String>
+    <String List="0" sID="014823">
+      <EDID>Ghoulish01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Ghoulish</Source>
+      <Dest>Ghúl</Dest>
+    </String>
+    <String List="0" sID="0149EA">
+      <EDID>Followers</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Dogmeat</Source>
+      <Dest>Žeryk</Dest>
+    </String>
+    <String List="0" sID="014CD6">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Defensive</Source>
+      <Dest>Defensivní</Dest>
+    </String>
+    <String List="0" sID="014E0A">
+      <EDID>GJMessage01</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>My son is missing.</Source>
+      <Dest>Ztratil se můj syn.</Dest>
+    </String>
+    <String List="0" sID="014F0B">
+      <EDID>FloraFern02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="015325">
+      <EDID>FloraInstituteGourdVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gourd</Source>
+      <Dest>Tykev</Dest>
+    </String>
+    <String List="0" sID="015821">
+      <EDID>GoodneighborBobbisPlace</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Bobbi's Place</Source>
+      <Dest>Bobbin byt</Dest>
+    </String>
+    <String List="0" sID="015924">
+      <EDID>GroundMolerat</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Ground Mole Rat</Source>
+      <Dest>Krtkopotkan</Dest>
+    </String>
+    <String List="0" sID="0159B0">
+      <EDID>GJTerminal02</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>I don't want to talk about it.</Source>
+      <Dest>Nechci o tom mluvit.</Dest>
+    </String>
+    <String List="0" sID="015B2B">
+      <EDID>GunNut02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun Nut</Source>
+      <Dest>Pošuk do zbraní</Dest>
+    </String>
+    <String List="0" sID="015C18">
+      <EDID>GreaterMassBloodClinicMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Greater Mass Blood Clinic</Source>
+      <Dest>Ústřední krevní klinika</Dest>
+    </String>
+    <String List="0" sID="015DFC">
+      <EDID>GoodneighborWarehouse01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="015FD9">
+      <EDID>GeneralAtomicsCommercialCenterMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>General Atomics Galleria</Source>
+      <Dest>Obchodní galerie General Atomics</Dest>
+    </String>
+    <String List="0" sID="016073">
+      <EDID>GraygardenChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0162C5">
+      <EDID>FortifyHealthChem</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="01659C">
+      <EDID>GJTerminal01</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Rumors</Source>
+      <Dest>Zvěsti</Dest>
+    </String>
+    <String List="0" sID="0165BD">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>          PROPERTY OF GRISWOLD&#xD;
+&#xD;
+               DO NOT READ!!!&#xD;
+              (this means you)</Source>
+      <Dest>            MAJETEK GRISWOLDA&#xD;
+&#xD;
+               ZÁKAZ ČTENÍ!!!&#xD;
+              (tím myslím tebe)</Dest>
+    </String>
+    <String List="0" sID="01675D">
+      <EDID>GoodneighborHotelWorkerF01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hotel Worker</Source>
+      <Dest>Pracovník hotelu</Dest>
+    </String>
+    <String List="0" sID="01686A">
+      <EDID>GreenHsPlanter01Carrot</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carrot planter</Source>
+      <Dest>Květináč na mrkev</Dest>
+    </String>
+    <String List="0" sID="01687C">
+      <EDID>ForestHillsStationMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>West Roxbury Station</Source>
+      <Dest>Stanice Západní Roxbury</Dest>
+    </String>
+    <String List="0" sID="016901">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Go Home</Source>
+      <Dest>Vrať se domů</Dest>
+    </String>
+    <String List="0" sID="016960">
+      <EDID>FortHagen01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fort Hagen</Source>
+      <Dest>Pevnost Hagen</Dest>
+    </String>
+    <String List="0" sID="016BE1">
+      <EDID>Gunslinger03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gunslinger</Source>
+      <Dest>Pistolník</Dest>
+    </String>
+    <String List="0" sID="016C59">
+      <EDID>FloorlampNoFrillies</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="016DF5">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>On Death</Source>
+      <Dest>O Smrti</Dest>
+    </String>
+    <String List="0" sID="016EF8">
+      <EDID>ForestGroveMarshMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Forest Grove Marsh</Source>
+      <Dest>Močál Forest Grove</Dest>
+    </String>
+    <String List="0" sID="016F0C">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Traders report increased gunner activity around quarry. Keep an eye on this.</Source>
+      <Dest>Obchodníci hlásí zvýšenou aktivitu Ranařů kolem kamenolomu. Dávejte si pozor.</Dest>
+    </String>
+    <String List="0" sID="017081">
+      <EDID>GraygardenWorker01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mr Handy</Source>
+      <Dest>Pan Šikulka</Dest>
+    </String>
+    <String List="0" sID="0170EF">
+      <EDID>FloorlampNoShadeOn</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="01716F">
+      <EDID>GJTerminal02</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Somebody killed my wife and took him.</Source>
+      <Dest>Někdo zabil moji ženu a unesl ho.</Dest>
+    </String>
+    <String List="0" sID="017252">
+      <EDID>FortifyCharismaAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Charisma</Source>
+      <Dest>Alcohol: Fortify Charisma</Dest>
+    </String>
+    <String List="0" sID="01730F">
+      <EDID>GenericBrawlPreventLimbDamageEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Prevent Limb Damage</Source>
+      <Dest>Prevent Limb Damage</Dest>
+    </String>
+    <String List="0" sID="01735A">
+      <EDID>FloraGourdVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gourd</Source>
+      <Dest>Tykev</Dest>
+    </String>
+    <String List="0" sID="0173A5">
+      <EDID>GateLocked</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Secure</Source>
+      <Dest>Zabezpečit</Dest>
+    </String>
+    <String List="0" sID="017419">
+      <EDID>GreenHsPlanter01Corn</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Corn planter</Source>
+      <Dest>Květináč na kukuřici</Dest>
+    </String>
+    <String List="0" sID="0176DE">
+      <EDID>Goodneighbor</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Goodneighbor</Source>
+      <Dest>Dobré sousedství</Dest>
+    </String>
+    <String List="0" sID="017745">
+      <EDID>GlassTtube</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Test Tube</Source>
+      <Dest>Baňka</Dest>
+    </String>
+    <String List="0" sID="017766">
+      <EDID>FortifyDamageResist</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>dr</Source>
+      <Dest>dr</Dest>
+    </String>
+    <String List="0" sID="017916">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Quiet</Source>
+      <Dest>Potichu</Dest>
+    </String>
+    <String List="0" sID="017998">
+      <EDID>GreenHsPlanter01Carrot</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="017A4C">
+      <EDID>FortifyCharisma</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="017A91">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>RightFoot</Source>
+      <Dest>RightFoot</Dest>
+    </String>
+    <String List="0" sID="017ABF">
+      <EDID>GJTerminal01</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Barter</Source>
+      <Dest>Směnit</Dest>
+    </String>
+    <String List="0" sID="017C39">
+      <EDID>GreenHsPlanterTato01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="017C3B">
+      <EDID>GJMessage02</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>I don't want to talk about it.</Source>
+      <Dest>Nechci o tom mluvit.</Dest>
+    </String>
+    <String List="0" sID="017C4E">
+      <EDID>Globe01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Antique Globe</Source>
+      <Dest>Starožitný glóbus</Dest>
+    </String>
+    <String List="0" sID="017E1B">
+      <EDID>FXFireSheild</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fire Shield Visuals</Source>
+      <Dest>Fire Shield Visuals</Dest>
+    </String>
+    <String List="0" sID="017E1E">
+      <EDID>FraternalPost11501</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fraternal Post 115</Source>
+      <Dest>Bratrská pevnost 115</Dest>
+    </String>
+    <String List="0" sID="017E25">
+      <EDID>GoodneighborWarehouse01Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="017F99">
+      <EDID>FortifyCharisma</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Charisma</Source>
+      <Dest>Fortify Charisma</Dest>
+    </String>
+    <String List="0" sID="017FED">
+      <EDID>GoodneighborWarehouse03</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="01801C">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Intel Report: Quarry</Source>
+      <Dest>Hlášení: Kamenolom</Dest>
+    </String>
+    <String List="0" sID="0182BB">
+      <EDID>FuseBox_Box</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Fuse Box</Source>
+      <Dest>Pojistky</Dest>
+    </String>
+    <String List="0" sID="0182F8">
+      <EDID>FredAllen</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Fred</Source>
+      <Dest>Fred</Dest>
+    </String>
+    <String List="0" sID="018393">
+      <EDID>FortifyHealth</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="01859C">
+      <EDID>FloraFern01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="01867E">
+      <EDID>FloraCornStalk02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="018797">
+      <EDID>FortifyEndurance</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Endurance</Source>
+      <Dest>Fortify Endurance</Dest>
+    </String>
+    <String List="0" sID="018FDB">
+      <EDID>GreenHsPlanterTato01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tato planter</Source>
+      <Dest>Květináč na brajčata</Dest>
+    </String>
+    <String List="0" sID="0191C7">
+      <EDID>FrostResist</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Cold Resistance</Source>
+      <Dest>Odolnost vůči chladu</Dest>
+    </String>
+    <String List="0" sID="0191E7">
+      <EDID>Gutsy01RightArmSawOBSOLETE</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Saw</Source>
+      <Dest>Pila</Dest>
+    </String>
+    <String List="0" sID="019265">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>On Sue (new)</Source>
+      <Dest>O Sue (nová)</Dest>
+    </String>
+    <String List="0" sID="0192BF">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické možnosti dočasného společníka</Dest>
+    </String>
+    <String List="0" sID="0193F5">
+      <EDID>GNNMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gunners Plaza</Source>
+      <Dest>Ústředí Ranařů</Dest>
+    </String>
+    <String List="0" sID="019461">
+      <EDID>FootBridge01_Prewar</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Shack Bridge 01</Source>
+      <Dest>Rozpadlý most 01</Dest>
+    </String>
+    <String List="0" sID="0195B4">
+      <EDID>GreenetechGenetics01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Greenetech Genetics</Source>
+      <Dest>Greenetech Genetics</Dest>
+    </String>
+    <String List="0" sID="01973A">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Third Rail (1,000) - Gotta hand it to Charlie and Magnolia, they keep the caps coming.&#xD;
+&#xD;
+Hotel Rexford (100) - Marowski ain't what he used to be.&#xD;
+&#xD;
+Kill or Be Killed (550) - Kleo's good at the "sexy and scary" routine. I can relate.&#xD;
+&#xD;
+Daisy's Discounts (480) - Good old Daisy. Can buy/sell anything.</Source>
+      <Dest>Třetí kolej (1,000) - Musím to přenechat Charliemu a Magnolii. Oni vždy dokáží zajistit dostatek zátek.&#xD;
+&#xD;
+Hotel Rexford (100) - Marowski už není to, co býval.&#xD;
+&#xD;
+Zabij nebo buď zabit (550) - Kleo je dobrá ve své taktice "sexy a děsivá". To mohu potvrdit.&#xD;
+&#xD;
+Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto cokoli.</Dest>
+    </String>
+    <String List="0" sID="019969">
+      <EDID>GunnerBarnes</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Barnes</Source>
+      <Dest>Barnes</Dest>
+    </String>
+    <String List="0" sID="019A4B">
+      <EDID>FloraCornStalk01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="019B11">
+      <EDID>GreenHsDoorSm01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="019E7F">
+      <EDID>GriswoldsTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Finally got all the terminals wired up. Took a while to get the turrets playing nice, especially.  I have to remember to get something nice for Jake after what happened to his pet molerat...&#xD;
+&#xD;
+I wish Sue didn't have to be such a pain about this taking a while.  Just because she can load up a few holotapes doesn't mean she knows the first thing about how complicated this old crap is.&#xD;
+&#xD;
+Whatever. It works now.</Source>
+      <Dest>Konečně jsou všechny terminály zapojeny. Nejvíce daly zabrat ty věže. Nesmím zapomenout dát něco pěkného Jackovi, chudák jeho mazlíček...&#xD;
+&#xD;
+Kéž by Sue nedělala takové divadlo, jenom kvůli tomu, že to déle trvalo. Jenom proto, že dokáže spustit pár holopásek, neznamená, že chápe kompikovanost takového přístroje.&#xD;
+&#xD;
+Alespoň, že to nyní funguje.</Dest>
+    </String>
+    <String List="0" sID="019EDF">
+      <EDID>FloraWildMutfruit</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="019EF9">
+      <EDID>Fusebox01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Fusebox</Source>
+      <Dest>Pojistky</Dest>
+    </String>
+    <String List="0" sID="019FAF">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>On Sue</Source>
+      <Dest>O Sue</Dest>
+    </String>
+    <String List="0" sID="019FDF">
+      <EDID>GreenHsPlanter01Mutfruit</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="019FEB">
+      <EDID>GraygardenLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Graygarden</Source>
+      <Dest>Šedá zahrada</Dest>
+    </String>
+    <String List="0" sID="01A0F2">
+      <EDID>FloraCornStalk01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Corn</Source>
+      <Dest>Kukuřice</Dest>
+    </String>
+    <String List="0" sID="01A24B">
+      <EDID>GorskiCabin01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Root Cellar</Source>
+      <Dest>Osobní kryt</Dest>
+    </String>
+    <String List="0" sID="01A513">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>BACK</Source>
+      <Dest>ZPĚT</Dest>
+    </String>
+    <String List="0" sID="01A5CB">
+      <EDID>GibsonPointPierMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gibson Point Pier</Source>
+      <Dest>Gibsonovo přístaviště</Dest>
+    </String>
+    <String List="0" sID="01A7AE">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Stay Free, Hancock. Stay Free.</Source>
+      <Dest>Uvolni se Hancocku. Uvolni se.</Dest>
+    </String>
+    <String List="0" sID="01A86A">
+      <EDID>GoodneighborTheThirdRail</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Third Rail</Source>
+      <Dest>Třetí kolej</Dest>
+    </String>
+    <String List="0" sID="01A904">
+      <EDID>GraygardenFarmVendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01A97D">
+      <EDID>GoodneighborDaisyKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Daisy's House Key</Source>
+      <Dest>Klíč od Daisyna domu</Dest>
+    </String>
+    <String List="0" sID="01A9A0">
+      <EDID>GreenHsPlanterMelon01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Melon planter</Source>
+      <Dest>Květináč na melouny</Dest>
+    </String>
+    <String List="0" sID="01AD11">
+      <EDID>Followers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Follower &amp; Companion System Control Quest</Source>
+      <Dest>Základy kontroly následovníků a společníků</Dest>
+    </String>
+    <String List="0" sID="01AE18">
+      <EDID>Gunslinger04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gunslinger</Source>
+      <Dest>Pistolník</Dest>
+    </String>
+    <String List="0" sID="01AE67" Partial="1">
+      <EDID>GirlHair01_Hairline</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GirlHair01_Hairline</Source>
+      <Dest>GirlHair01_Hairline</Dest>
+    </String>
+    <String List="0" sID="01AEAA">
+      <EDID>FortifyActionPoints</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="01B074">
+      <EDID>FortifyResistRadsChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Chem: Radiation Resistance</Source>
+      <Dest>Chem: Radiation Resistance</Dest>
+    </String>
+    <String List="0" sID="01B125">
+      <EDID>FragMineProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Frag Mine</Source>
+      <Dest>Tříštivá mina</Dest>
+    </String>
+    <String List="0" sID="01B19E">
+      <EDID>GunNut03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun Nut</Source>
+      <Dest>Pošuk do zbraní</Dest>
+    </String>
+    <String List="0" sID="01B40F">
+      <EDID>GNNLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>GNN</Source>
+      <Dest>GNN</Dest>
+    </String>
+    <String List="0" sID="01B7D1">
+      <EDID>FolderPapers01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Folder</Source>
+      <Dest>Složka</Dest>
+    </String>
+    <String List="0" sID="01B9AF" Partial="1">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>GorillaRoot</Source>
+      <Dest>GorillaRoot</Dest>
+    </String>
+    <String List="0" sID="01B9BC">
+      <EDID>GeorgeCooper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>George Cooper</Source>
+      <Dest>George Cooper</Dest>
+    </String>
+    <String List="0" sID="01BA13">
+      <EDID>GriswoldsTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Systems Wired Up</Source>
+      <Dest>Systémy zapojeny</Dest>
+    </String>
+    <String List="0" sID="01BA79">
+      <EDID>FloraMutfruit01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="01BB21">
+      <EDID>GoodneighborGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Neighborhood Watch</Source>
+      <Dest>Domobrana</Dest>
+    </String>
+    <String List="0" sID="01BC31">
+      <EDID>FuseBox_Lid</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Fuse Box Lid</Source>
+      <Dest>Dvířka k pojistkám</Dest>
+    </String>
+    <String List="0" sID="01BC36">
+      <EDID>GJTerminal02</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="01BD61">
+      <EDID>FloraTatoPlant01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tato Plant</Source>
+      <Dest>Brajče</Dest>
+    </String>
+    <String List="0" sID="01BD86">
+      <EDID>GrapeMentats</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Grape Mentats</Source>
+      <Dest>Grepové Mentaty</Dest>
+    </String>
+    <String List="0" sID="01BDE3">
+      <EDID>FourLeafClover01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Four Leaf Clover</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0" sID="01BF04">
+      <EDID>Floorlamp01On</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="01BF29">
+      <EDID>FloraInstituteGourdVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="01C024">
+      <EDID>GoodneighborTheMemoryDenLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Memory Den</Source>
+      <Dest>Hnízdečko vzpomínek</Dest>
+    </String>
+    <String List="0" sID="01C07C">
+      <EDID>GoodneighborOldStateHouse</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Old State House</Source>
+      <Dest>Staré sídlo vlády</Dest>
+    </String>
+    <String List="0" sID="01C123">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Diamond City: Rumors that Valentine has gone missing. Skinny Malone possibly involved. Assasinated? Doubtful, Valentine is more resourceful than that.&#xD;
+&#xD;
+</Source>
+      <Dest>Diamond City: Povídá se, že se Valentine ztratil. Nejspíše za to může Hubeňour Malone. Mrtvý? Pochybuji... Valentine je na to moc dobrý.</Dest>
+    </String>
+    <String List="0" sID="01C2C4">
+      <EDID>FootLocker01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Footlocker</Source>
+      <Dest>Bedna na osobní věci</Dest>
+    </String>
+    <String List="0" sID="01C2E5">
+      <EDID>GorskiCabinLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Gorski Cabin</Source>
+      <Dest>Gorskiho chata</Dest>
+    </String>
+    <String List="0" sID="01C47D">
+      <EDID>GeneralAtomicsGalleriaLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>General Atomics Galleria</Source>
+      <Dest>Obchodní galerie General Atomics</Dest>
+    </String>
+    <String List="0" sID="01C68D">
+      <EDID>GreenHsDoorSm02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01C7BB">
+      <EDID>GeneralAtomicsFactoryLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>General Atomics Factory</Source>
+      <Dest>Továrna General Atomics</Dest>
+    </String>
+    <String List="0" sID="01C7DC">
+      <EDID>FloorlampNoShadeOff</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="01CA21">
+      <EDID>GwinnettBreweryLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Gwinnett Brewery</Source>
+      <Dest>Pivovar Gwinnett</Dest>
+    </String>
+    <String List="0" sID="01CB6B">
+      <EDID>GoodneighborWarehouse02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="01CB82">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>On Griswold</Source>
+      <Dest>O Griswoldovi</Dest>
+    </String>
+    <String List="0" sID="01CCCB">
+      <EDID>FortifyHealth</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Health</Source>
+      <Dest>Fortify Health</Dest>
+    </String>
+    <String List="0" sID="01CFDA">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Tactics</Source>
+      <Dest>Taktika</Dest>
+    </String>
+    <String List="0" sID="01D1ED">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Trade</Source>
+      <Dest>Obchodovat</Dest>
+    </String>
+    <String List="0" sID="01D1EE">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Wait</Source>
+      <Dest>Počkej</Dest>
+    </String>
+    <String List="0" sID="01D1EF">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Command Mode</Source>
+      <Dest>Velící režim</Dest>
+    </String>
+    <String List="0" sID="01D1F0">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0" sID="01D1F1">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Temp Companion Command Menu</Source>
+      <Dest>Velící možnosti dočasného společníka</Dest>
+    </String>
+    <String List="0" sID="01D1F4">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Aggressive</Source>
+      <Dest>Agresivní</Dest>
+    </String>
+    <String List="0" sID="01D1F8">
+      <EDID>FloraRazorgrain01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Razorgrain</Source>
+      <Dest>Ostrozrno</Dest>
+    </String>
+    <String List="0" sID="01D1FB">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické možnosti dočasného společníka</Dest>
+    </String>
+    <String List="0" sID="01D1FD">
+      <EDID>Gardenhose01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Garden Hose</Source>
+      <Dest>Zahradní hadice</Dest>
+    </String>
+    <String List="0" sID="01D2A0">
+      <EDID>Gutsy02LeftArmLaserGunAuto</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Automatic Laser Rifle</Source>
+      <Dest>Automatická laserová puška</Dest>
+    </String>
+    <String List="0" sID="01D383">
+      <EDID>GJMessage01</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Rumors.</Source>
+      <Dest>Zvěsti.</Dest>
+    </String>
+    <String List="0" sID="01D389">
+      <EDID>GJMessage02</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Somebody kidnapped him while I was frozen.</Source>
+      <Dest>Někdo ho unesl během kryo spánku.</Dest>
+    </String>
+    <String List="0" sID="01D38E">
+      <EDID>GJMessageCookeTopicList</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>I need a drink.</Source>
+      <Dest>Potřebuji skleničku.</Dest>
+    </String>
+    <String List="0" sID="01D391">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0" sID="01D393">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Far</Source>
+      <Dest>Vzdáleně</Dest>
+    </String>
+    <String List="0" sID="01D394">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Medium</Source>
+      <Dest>Normálně</Dest>
+    </String>
+    <String List="0" sID="01D395">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Near</Source>
+      <Dest>Poblíž</Dest>
+    </String>
+    <String List="0" sID="01D398">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0" sID="01D59C">
+      <EDID>FortHagenSatelliteArrayLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fort Hagen Satellite Array</Source>
+      <Dest>Satelity v pevnosti Hagen</Dest>
+    </String>
+    <String List="0" sID="01D5A1">
+      <EDID>GoodneighborBobbisPlaceLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Bobbi's Place</Source>
+      <Dest>Bobbin byt</Dest>
+    </String>
+    <String List="0" sID="01D5A2">
+      <EDID>GoodneighborHotelRexfordLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Hotel Rexford</Source>
+      <Dest>Hotel Rexford</Dest>
+    </String>
+    <String List="0" sID="01D5A8">
+      <EDID>FloraWildMutfruit</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Mutfruit</Source>
+      <Dest>Divoké ovoce</Dest>
+    </String>
+    <String List="0" sID="01D5AF">
+      <EDID>FloraFern02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mutated Fern</Source>
+      <Dest>Zmutovaná kapradina</Dest>
+    </String>
+    <String List="0" sID="01D5F5">
+      <EDID>GoodneighborOldStateHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Old State House</Source>
+      <Dest>Stará státní budova</Dest>
+    </String>
+    <String List="0" sID="01D5F6">
+      <EDID>GoodneighborLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Goodneighbor</Source>
+      <Dest>Dobré sousedství</Dest>
+    </String>
+    <String List="0" sID="01D610">
+      <EDID>FourLeafFishpackingLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Four Leaf Fishpacking Plant</Source>
+      <Dest>Konzervárna Čtyřlístek</Dest>
+    </String>
+    <String List="0" sID="01D617">
+      <EDID>FraternalPost115Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fraternal Post 115</Source>
+      <Dest>Bratrská pevnost 115</Dest>
+    </String>
+    <String List="0" sID="01D63D">
+      <EDID>GreaterMassBloodClinicLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Greater Mass Blood Clinic</Source>
+      <Dest>Ústřední krevní klinika</Dest>
+    </String>
+    <String List="0" sID="01D64E" Partial="1">
+      <EDID>GreatLinks18Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Great Links 18</Source>
+      <Dest>Great Links 18</Dest>
+    </String>
+    <String List="0" sID="01D65E">
+      <EDID>ForestGroveMarshLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Forest Grove Marsh</Source>
+      <Dest>Močál Forest Grove</Dest>
+    </String>
+    <String List="0" sID="01D6A6">
+      <EDID>GreenetechGeneticsLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Greenetech Genetics</Source>
+      <Dest>Greenetech Genetics</Dest>
+    </String>
+    <String List="0" sID="01D707">
+      <EDID>FortHagenLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fort Hagen</Source>
+      <Dest>Pevnost Hagen</Dest>
+    </String>
+    <String List="0" sID="01D726">
+      <EDID>FortHagenInteriorLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fort Hagen</Source>
+      <Dest>Pevnost Hagen</Dest>
+    </String>
+    <String List="0" sID="01D72C">
+      <EDID>GreenetechGeneticsLocationInterior</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Greenetech Genetics</Source>
+      <Dest>Greenetech Genetics</Dest>
+    </String>
+    <String List="0" sID="01D72D">
+      <EDID>FortHagenWorkshopLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fort Hagen Red Rocket</Source>
+      <Dest>Red rocket v pevnosti Hagen</Dest>
+    </String>
+    <String List="0" sID="01D737">
+      <EDID>GraygardenHomesteadLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Graygarden Homestead</Source>
+      <Dest>Dům Šedá zahrada</Dest>
+    </String>
+    <String List="0" sID="01D76B">
+      <EDID>FrostResist</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>Cryo Resist</Source>
+      <Dest>Odolnost vůči kryo chladu</Dest>
+    </String>
+    <String List="0" sID="01D910" Partial="1">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>GorillaCOM</Source>
+      <Dest>GorillaCOM</Dest>
+    </String>
+    <String List="0" sID="01D911">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="01D912">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="01D914">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01D919">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="01D91A">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="01D91C">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>LeftFoot</Source>
+      <Dest>LeftFoot</Dest>
+    </String>
+    <String List="0" sID="01D937">
+      <EDID>GlowingSeaEdgeMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Edge of the Glowing Sea</Source>
+      <Dest>Na břehu Svítícího moře</Dest>
+    </String>
+    <String List="0" sID="01D987">
+      <EDID>Gunslinger01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gunslinger</Source>
+      <Dest>Pistolník</Dest>
+    </String>
+    <String List="0" sID="01D9AD">
+      <EDID>GJTerminal01</EDID>
+      <REC id="2">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="01D9BF">
+      <EDID>GunNut01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun Nut</Source>
+      <Dest>Pošuk do zbraní</Dest>
+    </String>
+    <String List="0" sID="01DA16">
+      <EDID>FortuneFinder01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortune Finder</Source>
+      <Dest>Zlatokop</Dest>
+    </String>
+    <String List="0" sID="01DA31" Partial="1">
+      <EDID>GunFu01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun-Fu</Source>
+      <Dest>Gun-Fu</Dest>
+    </String>
+    <String List="0" sID="01DC51">
+      <EDID>GunNut04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun Nut</Source>
+      <Dest>Pošuk do zbraní</Dest>
+    </String>
+    <String List="0" sID="01DC57">
+      <EDID>Followers</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Companion</Source>
+      <Dest>Společník</Dest>
+    </String>
+    <String List="0" sID="01DDB7">
+      <EDID>FortifyIntelligenceChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Chem: Fortify Intelligence</Source>
+      <Dest>Chem: Fortify Intelligence</Dest>
+    </String>
+    <String List="0" sID="01DE54">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Intel Report: Valentine</Source>
+      <Dest>Hlášení: Valentine</Dest>
+    </String>
+    <String List="0" sID="01DEAA">
+      <EDID>FourLeafFishpacking02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Marowski's Chem Lab</Source>
+      <Dest>Marowskiho chemická laboratoř</Dest>
+    </String>
+    <String List="0" sID="01E011">
+      <EDID>FloraTatoPlant01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="01E102">
+      <EDID>GJMessage02</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Somebody killed my wife and took him.</Source>
+      <Dest>Někdo zabil moji ženu a unesl ho.</Dest>
+    </String>
+    <String List="0" sID="01E145">
+      <EDID>GJTerminal02</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="01E21B">
+      <EDID>GoodneighborKleoKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>KL-E-0's House Key</Source>
+      <Dest>Klíč od domu KL-E-0</Dest>
+    </String>
+    <String List="0" sID="01EA74">
+      <EDID>GoodneighborHotelRexford</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Hotel Rexford</Source>
+      <Dest>Hotel Rexford</Dest>
+    </String>
+    <String List="0" sID="01F4A7">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Griswold's Poetry Journal</Source>
+      <Dest>Griswoldova básnická sbírka</Dest>
+    </String>
+    <String List="0" sID="01F5DE">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Intel Report: Brotherhood</Source>
+      <Dest>Hlášení: Bratrstvo</Dest>
+    </String>
+    <String List="0" sID="01F633">
+      <EDID>GwinnettBrewery01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Gwinnett Restaurant</Source>
+      <Dest>Restaurant Gwinnett</Dest>
+    </String>
+    <String List="0" sID="01F86F">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Monthly Collections</Source>
+      <Dest>Měsíční sbírky</Dest>
+    </String>
+    <String List="0" sID="01F875">
+      <EDID>FortStrongLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Fort Strong</Source>
+      <Dest>Pevnost Strong</Dest>
+    </String>
+    <String List="0" sID="01FB2F">
+      <EDID>GreenHsPlanterGourd01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="01FC0D">
+      <EDID>FloraTarberryFloat01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tarberry</Source>
+      <Dest>Dehetinka</Dest>
+    </String>
+    <String List="0" sID="01FC66">
+      <EDID>FortifyStrength</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Strength</Source>
+      <Dest>Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="01FCB3">
+      <EDID>GoodneighborWarehouse03Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="01FF5E">
+      <EDID>FortifyDamageResist</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Damage Resistance</Source>
+      <Dest>Fortify Damage Resistance</Dest>
+    </String>
+    <String List="0" sID="020581">
+      <EDID>FredAllen</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fred Allen</Source>
+      <Dest>Fred Allen</Dest>
+    </String>
+    <String List="0" sID="0207C5">
+      <EDID>GatlingLaser</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Gatling Laser</Source>
+      <Dest>Laserový rotační kulomet</Dest>
+    </String>
+    <String List="0" sID="020B40">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>     On Sue&#xD;
+By: Griswold&#xD;
+&#xD;
+Sue is pretty. Sue is nice.&#xD;
+Sue can shoot real good&#xD;
+even at night.&#xD;
+&#xD;
+I love Sue.&#xD;
+&#xD;
+THE END</Source>
+      <Dest>O Sue&#xD;
+Napsal: Griswold&#xD;
+&#xD;
+Sue je krásná. Sue je milá.&#xD;
+Ani v noci by mě nezabila&#xD;
+&#xD;
+Miluji Sue.&#xD;
+&#xD;
+KONEC</Dest>
+    </String>
+    <String List="0" sID="020BCD">
+      <EDID>FloraGourdVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="020BF3">
+      <EDID>GunnerFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Gunners</Source>
+      <Dest>Ranaři</Dest>
+    </String>
+    <String List="0" sID="0210F3">
+      <EDID>FloorlampNoShadeBrokenBulb</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="0210F9">
+      <EDID>fragGrenadelProjectileChild</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Shrapnel Projectile</Source>
+      <Dest>Šrapnelový pojektil</Dest>
+    </String>
+    <String List="0" sID="021587">
+      <EDID>FloodedPlaygroundMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Westing Estate</Source>
+      <Dest>Západní pozemky</Dest>
+    </String>
+    <String List="0" sID="0215BB">
+      <EDID>FloraMutfruit01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mutfruit Plant</Source>
+      <Dest>Ovoce</Dest>
+    </String>
+    <String List="0" sID="021DB8">
+      <EDID>FurnitureTester</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Furniture Tester</Source>
+      <Dest>Tester nábytku</Dest>
+    </String>
+    <String List="0" sID="022094">
+      <EDID>GhoulFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Ghoul Faction</Source>
+      <Dest>Frakce Ghúlů</Dest>
+    </String>
+    <String List="0" sID="0221D4">
+      <EDID>GibsonPointPierLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Gibson Point Pier</Source>
+      <Dest>Gibsonovo přístaviště</Dest>
+    </String>
+    <String List="0" sID="022457">
+      <EDID>GreenHsPlanter01Mutfruit</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mutfruit planter</Source>
+      <Dest>Květináč na ovoce</Dest>
+    </String>
+    <String List="0" sID="0226A4">
+      <EDID>GoodneighborGuardPatroller</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Neighborhood Watch</Source>
+      <Dest>Domobrana</Dest>
+    </String>
+    <String List="0" sID="022775">
+      <EDID>GJTerminal01</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="0" sID="02297D">
+      <EDID>GreenHsPlanterMelon01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0229AB">
+      <EDID>FusionPulseCharge</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Fusion Pulse Charge</Source>
+      <Dest>Fúzní detonátor</Dest>
+    </String>
+    <String List="0" sID="022D0A">
+      <EDID>GlowingOneRadiationBurst</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Burst</Source>
+      <Dest>Radiation Burst</Dest>
+    </String>
+    <String List="0" sID="022E94">
+      <EDID>GreenetechGenetics02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Greenetech Genetics</Source>
+      <Dest>Greenetech Genetics</Dest>
+    </String>
+    <String List="0" sID="022FB4">
+      <EDID>GeneralAtomicsFactoryMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>General Atomics Factory</Source>
+      <Dest>Továrna General Atomics</Dest>
+    </String>
+    <String List="0" sID="02346E">
+      <EDID>FloraTarberryFloat02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tarberry</Source>
+      <Dest>Dehetinka</Dest>
+    </String>
+    <String List="0" sID="023480">
+      <EDID>GJ_Defrag_Holotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>RobCo Defragmenter</Source>
+      <Dest>RobCo Defragmenter</Dest>
+    </String>
+    <String List="0" sID="023588">
+      <EDID>GoodneighborHancocksStrongroomLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Hancock's Strongroom</Source>
+      <Dest>Hancockův trezor</Dest>
+    </String>
+    <String List="0" sID="023597">
+      <EDID>GNN01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Gunners Plaza</Source>
+      <Dest>Ústředí Ranařů</Dest>
+    </String>
+    <String List="0" sID="0235AE">
+      <EDID>GorillaBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="0235EA">
+      <EDID>GraygardenWorker03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mr Handy</Source>
+      <Dest>Pan Šikulka</Dest>
+    </String>
+    <String List="0" sID="023771" Partial="1">
+      <EDID>GhoulChildHeadRear</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GhoulChildHeadRear</Source>
+      <Dest>GhoulChildHeadRear</Dest>
+    </String>
+    <String List="0" sID="02383E">
+      <EDID>FloraTatoPlant02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="02389B">
+      <EDID>GJTerminal01</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>My son is missing</Source>
+      <Dest>Ztratil se mi syn</Dest>
+    </String>
+    <String List="0" sID="0238EB">
+      <EDID>FortStrongMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Strong</Source>
+      <Dest>Pevnost Strong</Dest>
+    </String>
+    <String List="0" sID="0239CC">
+      <EDID>GoodneighborMemoryDenKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Memory Den Key</Source>
+      <Dest>Klíč od Hnízdečka vzpomínek</Dest>
+    </String>
+    <String List="0" sID="0239E8">
+      <EDID>GasTrapDummy</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>GasTrap Dummy</Source>
+      <Dest>Figurína s výbušinou</Dest>
+    </String>
+    <String List="0" sID="023A6F">
+      <EDID>GhoulBaseTEMP</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ghoul</Source>
+      <Dest>Ghúl</Dest>
+    </String>
+    <String List="0" sID="023D37">
+      <EDID>fragGrenade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Fragmentation Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0" sID="023DC6">
+      <EDID>Fork_01_Plastic</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Plastic Fork</Source>
+      <Dest>Plastová vidlička</Dest>
+    </String>
+    <String List="0" sID="023E04">
+      <EDID>FortHagenMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Hagen</Source>
+      <Dest>Pevnost Hagen</Dest>
+    </String>
+    <String List="0" sID="023FDB">
+      <EDID>GlowingSeaChildrenFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Children of Atom Faction</Source>
+      <Dest>Frakce Děti Atoma</Dest>
+    </String>
+    <String List="0" sID="02404D">
+      <EDID>FloraTarberryFloat01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="024177">
+      <EDID>GoodneighborTheMemoryDen</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Memory Den</Source>
+      <Dest>Hnízdečko vzpomínek</Dest>
+    </String>
+    <String List="0" sID="02422F">
+      <EDID>GunnerBarnes</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Barnes</Source>
+      <Dest>Barnes</Dest>
+    </String>
+    <String List="0" sID="02423E">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Griswold's Poetry Journal</Source>
+      <Dest>Griswoldova básnická sbírka</Dest>
+    </String>
+    <String List="0" sID="02428A">
+      <EDID>FloraTarberryFloat02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="024427">
+      <EDID>GJTerminal02</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Somebody kidnapped him while I was frozen</Source>
+      <Dest>Někdo ho unesl během kryo spánku.</Dest>
+    </String>
+    <String List="0" sID="0244D9">
+      <EDID>GwinnettBreweryMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Gwinnett Restaurant</Source>
+      <Dest>Restaurant Gwinnett</Dest>
+    </String>
+    <String List="0" sID="0244F8">
+      <EDID>Fuse</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Fuse</Source>
+      <Dest>Pojistka</Dest>
+    </String>
+    <String List="0" sID="024583">
+      <EDID>GraygardenMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Graygarden</Source>
+      <Dest>Šedá zahrada</Dest>
+    </String>
+    <String List="0" sID="024587">
+      <EDID>GlassPitcher01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Glass Pitcher</Source>
+      <Dest>Skleněný džbánek</Dest>
+    </String>
+    <String List="0" sID="0245A8">
+      <EDID>GJTerminal01</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="024720">
+      <EDID>GJTerminal01</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="0247E6">
+      <EDID>GunnerWinlock</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Winlock</Source>
+      <Dest>Winlock</Dest>
+    </String>
+    <String List="0" sID="02482A">
+      <EDID>FusionCoreWeapon</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Fusion Core Ejector</Source>
+      <Dest>Ejektor fúzních jader</Dest>
+    </String>
+    <String List="0" sID="02493B">
+      <EDID>Glory</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Glory</Source>
+      <Dest>Glory</Dest>
+    </String>
+    <String List="0" sID="0249BE">
+      <EDID>GNN02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Gunners Plaza Basement</Source>
+      <Dest>Sklepení v ústředí Ranařů</Dest>
+    </String>
+    <String List="0" sID="024ACA">
+      <EDID>FortifyAgility</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Agility</Source>
+      <Dest>Fortify Agility</Dest>
+    </String>
+    <String List="0" sID="024AFA">
+      <EDID>fragMine</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Fragmentation Mine</Source>
+      <Dest>Tříštivá mina</Dest>
+    </String>
+    <String List="0" sID="024B94">
+      <EDID>G9-81</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>G9-81</Source>
+      <Dest>G9-81</Dest>
+    </String>
+    <String List="0" sID="024B99">
+      <EDID>FloraMelonVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="024CBE">
+      <EDID>FlatbedCart</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Flatbed Cart</Source>
+      <Dest>Vozík</Dest>
+    </String>
+    <String List="0" sID="024CE0">
+      <EDID>FortifyPerception</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Perception</Source>
+      <Dest>Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="024D9B">
+      <EDID>GourdInstitute</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Gourd</Source>
+      <Dest>Tykev</Dest>
+    </String>
+    <String List="0" sID="024E4B">
+      <EDID>GreenHsPlanter01Corn</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="024E57">
+      <EDID>GraygardenHomestead01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Graygarden Homestead</Source>
+      <Dest>Dům Šedá zahrada</Dest>
+    </String>
+    <String List="0" sID="024E7C">
+      <EDID>GJTerminal02</EDID>
+      <REC id="2">TERM:RNAM</REC>
+      <Source>   </Source>
+      <Dest>   </Dest>
+    </String>
+    <String List="0" sID="024F28">
+      <EDID>GhoulChildRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Human</Source>
+      <Dest>Člověk</Dest>
+    </String>
+    <String List="0" sID="024F6D">
+      <EDID>Glory</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Glory</Source>
+      <Dest>Glory</Dest>
+    </String>
+    <String List="0" sID="025010">
+      <EDID>GwinnettBrewery02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Gwinnett Main Brewery</Source>
+      <Dest>Hlavní místnost pivovaru Gwinnett</Dest>
+    </String>
+    <String List="0" sID="02507D">
+      <EDID>GammaGun</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Gamma Gun</Source>
+      <Dest>Gama zbraň</Dest>
+    </String>
+    <String List="0" sID="025171">
+      <EDID>FortifyAgility</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="02523D">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Loiter</Source>
+      <Dest>Poflakovat se</Dest>
+    </String>
+    <String List="0" sID="025242">
+      <EDID>Fork_02_StainlessSteel</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Dinner Fork</Source>
+      <Dest>Slavnostní vidlička</Dest>
+    </String>
+    <String List="0" sID="0253FF">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>      On Death&#xD;
+By: Griswold&#xD;
+&#xD;
+Lo, to die. To kill, to maim.&#xD;
+I really like to watch men die.&#xD;
+&#xD;
+I hope nobody kills me.&#xD;
+So I can kill them instead.&#xD;
+      The end.</Source>
+      <Dest>      O Smrti&#xD;
+Napsal: Griswold&#xD;
+&#xD;
+Hle, umřít. Zabít, zmrzačit.&#xD;
+Rád pozorují lidi umírat.&#xD;
+&#xD;
+Doufám, že mě nikdo nezabije,&#xD;
+abych mohl zabít já je.&#xD;
+      Konec.</Dest>
+    </String>
+    <String List="0" sID="025412">
+      <EDID>FortifyHealthChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Chem: Fortify Health</Source>
+      <Dest>Chem: Fortify Health</Dest>
+    </String>
+    <String List="0" sID="0254D6">
+      <EDID>FloorlampNoFrilliesOn</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="025516">
+      <EDID>GeneralAtomicsGalleria01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Back Alley Bowling</Source>
+      <Dest>Bowling v Zadní uličce</Dest>
+    </String>
+    <String List="0" sID="025519">
+      <EDID>GenericGoHome</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>use this to make sure actors get home</Source>
+      <Dest>využitím této možnosti jim umožníš návrat domů</Dest>
+    </String>
+    <String List="0" sID="0256C1">
+      <EDID>GriswoldJournalTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>     On Griswold&#xD;
+By: Griswold&#xD;
+&#xD;
+Lo to be tough and handsome&#xD;
+Lo to be the best shooter ever&#xD;
+Lo to be Griswold, Best raider ever&#xD;
+&#xD;
+THE END</Source>
+      <Dest>      O Griswoldovi&#xD;
+Napsal: Griswold&#xD;
+&#xD;
+Hle býti drsný a krásný,&#xD;
+hle býti nejlepší střelec vůbec,&#xD;
+hle býti Griswold, nejlepší najezdník.&#xD;
+&#xD;
+KONEC</Dest>
+    </String>
+    <String List="0" sID="0256DF">
+      <EDID>GaussRifle</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Gauss Rifle</Source>
+      <Dest>Gaussova puška</Dest>
+    </String>
+    <String List="0" sID="02580C">
+      <EDID>GJMessageCookeTopicList</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>What's the news around town?</Source>
+      <Dest>Něco nového ve městě?</Dest>
+    </String>
+    <String List="0" sID="02598D">
+      <EDID>FraternalPost115MapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fraternal Post 115</Source>
+      <Dest>Bratrská pevnost 115</Dest>
+    </String>
+    <String List="0" sID="02598F">
+      <EDID>FloraCarrotPlant</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carrot</Source>
+      <Dest>Mrkev</Dest>
+    </String>
+    <String List="0" sID="025AC0">
+      <EDID>FloorJackGarage01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Floor Jack</Source>
+      <Dest>Pojízdný zvedák</Dest>
+    </String>
+    <String List="0" sID="025B0D">
+      <EDID>FloraRazorgrain02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="025B18">
+      <EDID>FloraTatoPlant02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tato Plant</Source>
+      <Dest>Brajče</Dest>
+    </String>
+    <String List="0" sID="025B90">
+      <EDID>GeorgeCooper</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>George</Source>
+      <Dest>George</Dest>
+    </String>
+    <String List="0" sID="025B99">
+      <EDID>GoodneighborDaisysHouseLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Daisy's House</Source>
+      <Dest>Daisyn dům</Dest>
+    </String>
+    <String List="0" sID="025D11">
+      <EDID>GhoulRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Ghoul</Source>
+      <Dest>Ghúl</Dest>
+    </String>
+    <String List="0" sID="025E98">
+      <EDID>FuseBox_Trigger</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Fuse Box</Source>
+      <Dest>Pojistky</Dest>
+    </String>
+    <String List="0" sID="025F12">
+      <EDID>FortifyActionPoints</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Action Points</Source>
+      <Dest>Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="026153">
+      <EDID>FlightDataRecorder</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Flight Data Recorder</Source>
+      <Dest>Černá skříňka</Dest>
+    </String>
+    <String List="0" sID="0262C6">
+      <EDID>GhoulNonFeralFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Ghoul Faction</Source>
+      <Dest>Frakce Ghúlů</Dest>
+    </String>
+    <String List="0" sID="0263F5">
+      <EDID>FourLeafFishpacking01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Four Leaf Fishpacking Plant</Source>
+      <Dest>Konzervárna Čtyřlístek</Dest>
+    </String>
+    <String List="0" sID="0264FC">
+      <EDID>GriswoldsHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Griswold's Poetry Collection</Source>
+      <Dest>Griswoldova básnická sbírka</Dest>
+    </String>
+    <String List="0" sID="02652C">
+      <EDID>Geneva</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Geneva</Source>
+      <Dest>Geneva</Dest>
+    </String>
+    <String List="0" sID="02656C">
+      <EDID>FloraCornStalk02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Corn</Source>
+      <Dest>Kukuřice</Dest>
+    </String>
+    <String List="0" sID="0266A4">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Hancock's Terminal</Source>
+      <Dest>Hancockův terminál</Dest>
+    </String>
+    <String List="0" sID="026AE8">
+      <EDID>FloraFern01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mutated Fern</Source>
+      <Dest>Zmutovaná kapradina</Dest>
+    </String>
+    <String List="0" sID="026C04">
+      <EDID>GlowingOneBlood</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Irradiated Blood</Source>
+      <Dest>Krev postižená radiací</Dest>
+    </String>
+    <String List="0" sID="026C81">
+      <EDID>GoodneighborTheThirdRailLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Third Rail</Source>
+      <Dest>Třetí kolej</Dest>
+    </String>
+    <String List="0" sID="026D70">
+      <EDID>FortifyCharismaAlcohol</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="026DDE">
+      <EDID>GooPile01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Goo Pile</Source>
+      <Dest>Hromádka slizu</Dest>
+    </String>
+    <String List="0" sID="026F6D">
+      <EDID>FortifyLimbRegenRate</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Limb Regeneration</Source>
+      <Dest>Limb Regeneration</Dest>
+    </String>
+    <String List="0" sID="0270FF">
+      <EDID>GoodneighborHancocksTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Brotherhood of Steel just showed up in a big way. Need to get some eyes there. Can't afford not to know their plans.</Source>
+      <Dest>Bratrstvo oceli se zase předvedlo ve velkém stylu. Musím se tam jít podívat. Nemohu si dovolit nevědět, co mají za lubem.</Dest>
+    </String>
+    <String List="0" sID="0271AE">
+      <EDID>GoodneighborWarehouse02Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="02722E">
+      <EDID>GJMessageCookeTopicList</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Goodbye.</Source>
+      <Dest>Nashledanu.</Dest>
+    </String>
+    <String List="0" sID="0273EF" Partial="1">
+      <EDID>GirlHair01</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GirlHair01</Source>
+      <Dest>GirlHair01</Dest>
+    </String>
+    <String List="0" sID="027491">
+      <EDID>FloraRazorgrain01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="027606">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické možnosti dočasného společníka</Dest>
+    </String>
+    <String List="0" sID="02760F">
+      <EDID>GJMessage01</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Barter.</Source>
+      <Dest>Směnit.</Dest>
+    </String>
+    <String List="0" sID="02783F">
+      <EDID>FloraMelonVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Melon</Source>
+      <Dest>Meloun</Dest>
+    </String>
+    <String List="0" sID="027B46">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zpět</Dest>
+    </String>
+    <String List="0" sID="027F36">
+      <EDID>GraygardenWorker02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mr Handy</Source>
+      <Dest>Pan Šikulka</Dest>
+    </String>
+    <String List="0" sID="028162">
+      <EDID>GenericBrawlConfidenceBoost</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Brawl confidence</Source>
+      <Dest>Nabuzenost</Dest>
+    </String>
+    <String List="0" sID="02831E">
+      <EDID>FloraCarrotPlant</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="028425">
+      <EDID>FortHagen02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fort Hagen Command Center</Source>
+      <Dest>Velící středisko pevnosti Hagen</Dest>
+    </String>
+    <String List="0" sID="0286EE">
+      <EDID>GreenHsPlanterGourd01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gourd planter</Source>
+      <Dest>Květináč na tykve</Dest>
+    </String>
+    <String List="0" sID="0288ED">
+      <EDID>GlowingSeaPOIDB01Holotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Skylanes Flight 1665 Final Transmission</Source>
+      <Dest>Poslední komunikace s letem Skylanes 1665</Dest>
+    </String>
+    <String List="0" sID="02893D">
+      <EDID>GlowingSeaPlayerRadiationOLD</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Radiace Svítícího moře</Dest>
+    </String>
+    <String List="0" sID="0289BB">
+      <EDID>GlowingSeaPlayerRadiationRadStormEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Glowing Sea Radiation</Dest>
+    </String>
+    <String List="0" sID="0289E1">
+      <EDID>GlowingSeaPOIDB01Pilot01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Pilot</Source>
+      <Dest>Pilot</Dest>
+    </String>
+    <String List="0" sID="028C87">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>...Communication Link Established&#xD;
+Roof Access Security lock engaged. Sealing door...</Source>
+      <Dest>...Spojení bylo úspěšné&#xD;
+Záměk přístupu na střechu byl uzamčen. Uzavírám dveře...</Dest>
+    </String>
+    <String List="0" sID="028D46">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Terminal</Source>
+      <Dest>Terminál</Dest>
+    </String>
+    <String List="0" sID="028D52">
+      <EDID>GlowingSeaPOIDB01_CargoManifest</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Skylanes Smuggling Manifest</Source>
+      <Dest>Seznam pašovaných věcí Skylanes</Dest>
+    </String>
+    <String List="0" sID="028D8D">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Close Roof Access Door</Source>
+      <Dest>Uzavřít přístupové dveře na střechu</Dest>
+    </String>
+    <String List="0" sID="028DA4">
+      <EDID>GlowingSeaPOIDB02Key</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Church Safe Key</Source>
+      <Dest>Bezpečnostní klíč kostela</Dest>
+    </String>
+    <String List="0" sID="028E13">
+      <EDID>GlowingSeaPOIDB02Note</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Office Duties</Source>
+      <Dest>Služební povinnosti</Dest>
+    </String>
+    <String List="0" sID="028E81">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>...Communication Link Established&#xD;
+Roof Access Security lock released. Opening door...</Source>
+      <Dest>...Spojení bylo úspěšné&#xD;
+Záměk přístupu na střechu byl odemčen. Otevírám dveře...</Dest>
+    </String>
+    <String List="0" sID="028EDD">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Open Roof Access Door</Source>
+      <Dest>Otevřít přístupové dveře na střechu</Dest>
+    </String>
+    <String List="0" sID="028F7D">
+      <EDID>GwinnettBreweryMapMarkerRef2</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Gwinnett Brewery</Source>
+      <Dest>Pivovar Gwinnett</Dest>
+    </String>
+    <String List="0" sID="028F80">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>-------------------------------&#xD;
+Repair Shop Terminal&#xD;
+-------------------------------&#xD;
+</Source>
+      <Dest>-------------------------------&#xD;
+Opravit terminál v provozovně &#xD;
+-------------------------------</Dest>
+    </String>
+    <String List="0" sID="0295CA">
+      <EDID>Grill01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Grill</Source>
+      <Dest>Grill</Dest>
+    </String>
+    <String List="0" sID="0295D1">
+      <EDID>Globe_02_clean</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Clean Globe</Source>
+      <Dest>Čistý globus</Dest>
+    </String>
+    <String List="0" sID="02992C">
+      <EDID>Globe_02_ruined</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Globe</Source>
+      <Dest>Globus</Dest>
+    </String>
+    <String List="0" sID="02A52A">
+      <EDID>FortifyResistFire</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Fire Resist</Source>
+      <Dest>Fortify Fire Resist</Dest>
+    </String>
+    <String List="0" sID="02A54F">
+      <EDID>FloraInsCornStalk02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Corn</Source>
+      <Dest>Kukuřice</Dest>
+    </String>
+    <String List="0" sID="02A5AB">
+      <EDID>FortifyCarryWeight</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Carry Weight</Source>
+      <Dest>Fortify Carry Weight</Dest>
+    </String>
+    <String List="0" sID="02A625">
+      <EDID>FortifyResistCryo</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Cryo Resist</Source>
+      <Dest>Fortify Cryo Resist</Dest>
+    </String>
+    <String List="0" sID="02A695">
+      <EDID>FortifyResistPoison</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Poison Resist</Source>
+      <Dest>Fortify Poison Resist</Dest>
+    </String>
+    <String List="0" sID="02A746">
+      <EDID>FortifyHealRate</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Increases heal rate.</Source>
+      <Dest>Increases heal rate.</Dest>
+    </String>
+    <String List="0" sID="02A768">
+      <EDID>FortifyNightEye</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Night Eye</Source>
+      <Dest>Fortify Night Eye</Dest>
+    </String>
+    <String List="0" sID="02A7F3">
+      <EDID>FloraInsCornStalk01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Corn</Source>
+      <Dest>Kukuřice</Dest>
+    </String>
+    <String List="0" sID="02A822">
+      <EDID>FortifyExperience</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Experience</Source>
+      <Dest>Fortify Experience</Dest>
+    </String>
+    <String List="0" sID="02A93F">
+      <EDID>FloraInsCornStalk02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="02A95D">
+      <EDID>FloraInsCornStalk01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="02A96A">
+      <EDID>FortifyCarryWeight</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Carry Weight</Source>
+      <Dest>+&lt;mag&gt; Carry Weight</Dest>
+    </String>
+    <String List="0" sID="02A9A0">
+      <EDID>FortifyMeleeDamage</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Melee Damage</Source>
+      <Dest>Fortify Melee Damage</Dest>
+    </String>
+    <String List="0" sID="02A9B7">
+      <EDID>FortifyHealRate</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Incr. Heal Rate</Source>
+      <Dest>Incr. Heal Rate</Dest>
+    </String>
+    <String List="0" sID="02A9DB">
+      <EDID>FortifyWaterBreathing</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Water Breathing</Source>
+      <Dest>Water Breathing</Dest>
+    </String>
+    <String List="0" sID="02AA23">
+      <EDID>FortifyRadHealthMax</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Rad Health Max</Source>
+      <Dest>Fortify Rad Health Max</Dest>
+    </String>
+    <String List="0" sID="02AA31">
+      <EDID>GhoulSkin1</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin1</Source>
+      <Dest>GhoulSkin1</Dest>
+    </String>
+    <String List="0" sID="02AA54">
+      <EDID>GhoulSkin7</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin7</Source>
+      <Dest>GhoulSkin7</Dest>
+    </String>
+    <String List="0" sID="02AAB8">
+      <EDID>FortifyRadHealthMax</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="02AAD3">
+      <EDID>GhoulSkin6</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin6</Source>
+      <Dest>GhoulSkin6</Dest>
+    </String>
+    <String List="0" sID="02AAFA">
+      <EDID>GhoulSkin2</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin2</Source>
+      <Dest>GhoulSkin2</Dest>
+    </String>
+    <String List="0" sID="02AC32">
+      <EDID>GhoulSkin3</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin3</Source>
+      <Dest>GhoulSkin3</Dest>
+    </String>
+    <String List="0" sID="02AC45">
+      <EDID>GhoulSkin5</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin5</Source>
+      <Dest>GhoulSkin5</Dest>
+    </String>
+    <String List="0" sID="02AC58">
+      <EDID>GhoulSkin4</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>GhoulSkin4</Source>
+      <Dest>GhoulSkin4</Dest>
+    </String>
+    <String List="0" sID="02AFDE">
+      <EDID>FortifyStrengthHIDDEN</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Strength</Source>
+      <Dest>Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="02B08F">
+      <EDID>FortifyDamageResistHIDDEN</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>dr</Source>
+      <Dest>dr</Dest>
+    </String>
+    <String List="0" sID="02B279">
+      <EDID>FortifyDamageResistHIDDEN</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Damage Resistance</Source>
+      <Dest>Fortify Damage Resistance</Dest>
+    </String>
+    <String List="0" sID="02B32F">
+      <EDID>FortifyMeleeDamagePercChemPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortify Melee Damage 50%</Source>
+      <Dest>Vylepší zranění na blízko o 50%</Dest>
+    </String>
+    <String List="0" sID="02B36C" Partial="1">
+      <EDID>FortifyCritChance25xChemPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>FortifyCritChance25xChemPerk</Source>
+      <Dest>FortifyCritChance25xChemPerk</Dest>
+    </String>
+    <String List="0" sID="02B387">
+      <EDID>FortifyVATSAccuracyChem</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>+10% VATS Accuracy</Source>
+      <Dest>+10% VATS Accuracy</Dest>
+    </String>
+    <String List="0" sID="02B3D9">
+      <EDID>Fury</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Fury</Source>
+      <Dest>Běs</Dest>
+    </String>
+    <String List="0" sID="02B3E1">
+      <EDID>FortifyBuySell10ChemPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortify Buy/Sell 10%</Source>
+      <Dest>Vylepší nákup/prodej o 10%</Dest>
+    </String>
+    <String List="0" sID="02B441">
+      <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortify Sneak Attack Bonus</Source>
+      <Dest>Vylepší bonus k útoku zkrytu</Dest>
+    </String>
+    <String List="0" sID="02B460">
+      <EDID>FortifyVATSAccuracyChem</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+10% VATS Accuracy</Source>
+      <Dest>+10% VATS Accuracy</Dest>
+    </String>
+    <String List="0" sID="02B4C8">
+      <EDID>GrimReaperSprint03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Grim Reaper's Sprint</Source>
+      <Dest>Řádění smrtky</Dest>
+    </String>
+    <String List="0" sID="02B655">
+      <EDID>FloraWildTarberryFloat02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Tarberry</Source>
+      <Dest>Divoká dehetinka</Dest>
+    </String>
+    <String List="0" sID="02B65D">
+      <EDID>Ghoulish02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Ghoulish</Source>
+      <Dest>Ghúl</Dest>
+    </String>
+    <String List="0" sID="02B67A">
+      <EDID>FloraWildTarberryFloat01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="02B77A">
+      <EDID>FourLeafClover02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Four Leaf Clover</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0" sID="02B7B4">
+      <EDID>GrimReaperSprint02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Grim Reaper's Sprint</Source>
+      <Dest>Řádění smrtky</Dest>
+    </String>
+    <String List="0" sID="02B7EB">
+      <EDID>FourLeafClover03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Four Leaf Clover</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0" sID="02B93F">
+      <EDID>Grognak_HolotapeGame</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Grognak &amp; The Ruby Ruins</Source>
+      <Dest>Grognak &amp; Rubínové ruiny</Dest>
+    </String>
+    <String List="0" sID="02B9C0">
+      <EDID>Ghoulish03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Ghoulish</Source>
+      <Dest>Ghúl</Dest>
+    </String>
+    <String List="0" sID="02B9D6">
+      <EDID>FloraWildTarberryFloat01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Tarberry</Source>
+      <Dest>Divoká dehetinka</Dest>
+    </String>
+    <String List="0" sID="02BA96">
+      <EDID>FloraWildTarberryFloat02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="02BAA9">
+      <EDID>Gunslinger05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gunslinger</Source>
+      <Dest>Pistolník</Dest>
+    </String>
+    <String List="0" sID="02BCAE">
+      <EDID>GSPOIRJ03_RadioDisplayName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Reactor Emergency Frequency</Source>
+      <Dest>Reaktor krizové frekvence</Dest>
+    </String>
+    <String List="0" sID="02BE72">
+      <EDID>FusionCoreKnightWeapon</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Fusion Core Ejector</Source>
+      <Dest>Ejektor fúzních jader</Dest>
+    </String>
+    <String List="0" sID="02C775">
+      <EDID>FortifyActionPointsAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Action Points</Source>
+      <Dest>Alcohol: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="02C80A">
+      <EDID>GS_FeralGhoul05glowingSeaClothed</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alt Feral Ghoul Glowing Sea</Source>
+      <Dest>Divoký ghúl od Svítivého moře</Dest>
+    </String>
+    <String List="0" sID="02C824">
+      <EDID>FortifyHealthAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Health</Source>
+      <Dest>Alcohol: Fortify Health</Dest>
+    </String>
+    <String List="0" sID="02C93A">
+      <EDID>FortifyLuckAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Luck</Source>
+      <Dest>Alcohol: Fortify Luck</Dest>
+    </String>
+    <String List="0" sID="02CAE2">
+      <EDID>FortifyEnduranceAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Endurance</Source>
+      <Dest>Alcohol: Fortify Endurance</Dest>
+    </String>
+    <String List="0" sID="02CBD1">
+      <EDID>GlowingSeaCraterMapMarkerREF</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Crater of Atom</Source>
+      <Dest>Kráter Atomu</Dest>
+    </String>
+    <String List="0" sID="02CD82">
+      <EDID>GS_FeralGhoul05glowingSea</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alt Feral Ghoul Glowing Sea</Source>
+      <Dest>Divoký ghúl od Svítivého moře</Dest>
+    </String>
+    <String List="0" sID="02CE63">
+      <EDID>FortifyAgilityAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Fortify Agility</Source>
+      <Dest>Alcohol: Fortify Agility</Dest>
+    </String>
+    <String List="0" sID="02D1EA" Partial="1">
+      <EDID>GhoulChildEyesAO</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GhoulChildEyesAO</Source>
+      <Dest>GhoulChildEyesAO</Dest>
+    </String>
+    <String List="0" sID="02D3D4" Partial="1">
+      <EDID>GhoulChildEyesWet</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GhoulChildEyesWet</Source>
+      <Dest>GhoulChildEyesWet</Dest>
+    </String>
+    <String List="0" sID="02D42C" Partial="1">
+      <EDID>GirlHair02</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GirlHair02</Source>
+      <Dest>GirlHair02</Dest>
+    </String>
+    <String List="0" sID="02D5AE" Partial="1">
+      <EDID>GhoulChildEyesLashes</EDID>
+      <REC>HDPT:FULL</REC>
+      <Source>GhoulChildEyesLashes</Source>
+      <Dest>GhoulChildEyesLashes</Dest>
+    </String>
+    <String List="0" sID="02D7F9">
+      <EDID>FortifyResistFireFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Fire Resist Food</Source>
+      <Dest>Fortify Fire Resist Food</Dest>
+    </String>
+    <String List="0" sID="02D901">
+      <EDID>FortifyActionPointsFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Action Points Food</Source>
+      <Dest>Fortify Action Points Food</Dest>
+    </String>
+    <String List="0" sID="02D932">
+      <EDID>FortifyAgilityFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Agility Food</Source>
+      <Dest>Fortify Agility Food</Dest>
+    </String>
+    <String List="0" sID="02D975">
+      <EDID>FortifyAgilityFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="02D9AF">
+      <EDID>FortifyActionPointsFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="02D9B3">
+      <EDID>FortifyResistPoisonFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Poison Resist Food</Source>
+      <Dest>Fortify Poison Resist Food</Dest>
+    </String>
+    <String List="0" sID="02DA09">
+      <EDID>FortifyResistRadsFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Resistance Food</Source>
+      <Dest>Radiation Resistance Food</Dest>
+    </String>
+    <String List="0" sID="02DB9D">
+      <EDID>FortifyCarryWeightFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Carry Weight Food</Source>
+      <Dest>Fortify Carry Weight Food</Dest>
+    </String>
+    <String List="0" sID="02DBA2">
+      <EDID>FortifyHealthFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Health Food</Source>
+      <Dest>Fortify Health Food</Dest>
+    </String>
+    <String List="0" sID="02DBC8">
+      <EDID>FortifyDamageResistFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>dr</Source>
+      <Dest>dr</Dest>
+    </String>
+    <String List="0" sID="02DC3E">
+      <EDID>FortifyEnduranceFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Endurance Food</Source>
+      <Dest>Fortify Endurance Food</Dest>
+    </String>
+    <String List="0" sID="02DCA3">
+      <EDID>FortifyDamageResistFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Damage Resistance Food</Source>
+      <Dest>Fortify Damage Resistance Food</Dest>
+    </String>
+    <String List="0" sID="02DD24">
+      <EDID>FortifyPerceptionFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Perception Food</Source>
+      <Dest>Fortify Perception Food</Dest>
+    </String>
+    <String List="0" sID="02DD37">
+      <EDID>FortifyCarryWeightFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Carry Weight</Source>
+      <Dest>+&lt;mag&gt; Carry Weight</Dest>
+    </String>
+    <String List="0" sID="02DD42">
+      <EDID>FortifyHealthFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="02DD85">
+      <EDID>FortifyStrengthFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Strength Food</Source>
+      <Dest>Fortify Strength Food</Dest>
+    </String>
+    <String List="0" sID="02DD94">
+      <EDID>FortifyMeleeDamageFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Melee Damage Food</Source>
+      <Dest>Fortify Melee Damage Food</Dest>
+    </String>
+    <String List="0" sID="02E2A0">
+      <EDID>GoodneighborGuardGhoulOnly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Neighborhood Watch</Source>
+      <Dest>Domobrana</Dest>
+    </String>
+    <String List="0" sID="02E2E1">
+      <EDID>GoodneighborGuardHumanOnly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Neighborhood Watch</Source>
+      <Dest>Domobrana</Dest>
+    </String>
+    <String List="0" sID="02E387">
+      <EDID>Glass_Generic</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Drinking Glass</Source>
+      <Dest>Sklenice na pití</Dest>
+    </String>
+    <String List="0" sID="02E402">
+      <EDID>Glass_Generic_Prewar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Clean Drinking Glass</Source>
+      <Dest>Čistá sklenice na pití</Dest>
+    </String>
+    <String List="0" sID="02E7F1">
+      <EDID>fragGrenadeProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Fragmentation Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0" sID="02EE8E">
+      <EDID>Freeze</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Freeze</Source>
+      <Dest>Mráz</Dest>
+    </String>
+    <String List="0" sID="02F253">
+      <EDID>Freeze</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>FRZ</Source>
+      <Dest>MRZ</Dest>
+    </String>
+    <String List="0" sID="02F622">
+      <EDID>GlowingSea_COA_Virgil_Note</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Note from Brother Hoberman</Source>
+      <Dest>Poznámky bratra Hobermana</Dest>
+    </String>
+    <String List="0" sID="02F9B0">
+      <EDID>FortuneFinder02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortune Finder</Source>
+      <Dest>Zlatokop</Dest>
+    </String>
+    <String List="0" sID="02F9B2">
+      <EDID>FortuneFinder03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortune Finder</Source>
+      <Dest>Zlatokop</Dest>
+    </String>
+    <String List="0" sID="02FE55">
+      <EDID>Gutsy01LeftArmSawOBSOLETE</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Saw</Source>
+      <Dest>Pila</Dest>
+    </String>
+    <String List="0" sID="03044D">
+      <EDID>GenericOwnershipFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>No NPCs in this, use for doors nobody should open</Source>
+      <Dest>Uvnitř nikdo není, otevři s tím uzamčené dveře</Dest>
+    </String>
+    <String List="0" sID="030BEF">
+      <EDID>FortStrong02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fort Strong Sublevel</Source>
+      <Dest>Podzemní část pevnosti Strong</Dest>
+    </String>
+    <String List="0" sID="030C25">
+      <EDID>FolderPapers02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Detective Case File</Source>
+      <Dest>Detektivní složka</Dest>
+    </String>
+    <String List="0" sID="030DC0">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Contingency Plan: Neighborhood Watch</Source>
+      <Dest>Plán: Domobrana</Dest>
+    </String>
+    <String List="0" sID="030DCB">
+      <EDID>FloraFungusGlowing03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="030DDA">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Fred Allen's Terminal</Source>
+      <Dest>Terminál Freda Allena</Dest>
+    </String>
+    <String List="0" sID="030DDF">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Magnolia</Source>
+      <Dest>Magnolia</Dest>
+    </String>
+    <String List="0" sID="030DEA">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Contingency Plan: Bobbi</Source>
+      <Dest>Plán: Bobbi</Dest>
+    </String>
+    <String List="0" sID="030E11">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Mayor Hancock's memories are... well, let's just say if you thought he was handsome and dangerous now, you should've seen him before he turned ghoul. And I thought I knew how to have a good time...</Source>
+      <Dest>Vzpomínky majora Hancocka jsou... jak to říci, pokud jste si mysleli, že je stále krásný a nebezpečný, měli jste přijít dříve než se proměnil na ghúla. A to jsem si myslela, že vím, jak se bavit...</Dest>
+    </String>
+    <String List="0" sID="030E15">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Irma's Terminal</Source>
+      <Dest>Irmin terminál</Dest>
+    </String>
+    <String List="0" sID="030E16">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Have a Plan to Kill Everyone You Meet.</Source>
+      <Dest>Měj připravený plán na zabití všech, které potkáš.</Dest>
+    </String>
+    <String List="0" sID="030E21">
+      <EDID>FloraFungusGlowing01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030E23">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>I love the irony of a staunch opponent of the Den coming in to sample the goods. Temptation. It gets us all in the end.&#xD;
+&#xD;
+Reminder to myself: Daisy may not look it now, but there's a reason she's lived to be such a ripe, old age. Best that no one knows she ever came here. I don't need a reason for the hellion side of her coming out, looking for pay back.</Source>
+      <Dest>Miluji tu ironii vytrvalého odpůrce Hnízdečka vzpomínek, když si může čichnout k neřesti. Pokušení. To nás vždy nakonec doběhne.&#xD;
+&#xD;
+Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina její dlouhověkosti. Ještěže nikdo neví, že sem přišla. Nechci, aby se v ní probudila temná stránka osobnosti hledající odplatu.</Dest>
+    </String>
+    <String List="0" sID="030E3A">
+      <EDID>FloraFungusBrain02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Brain Fungus</Source>
+      <Dest>Mozkovka</Dest>
+    </String>
+    <String List="0" sID="030E41">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Kill bodyguard first. Strangulation while she sleeps. Then load all doses of chems in the Old State House with poisons. Collateral damage possible, but losses acceptable without too much disruption to the business.</Source>
+      <Dest>První zabij ochranku. Uškrtit ve spánku. Poté naplň všechny nádoby na chemikálie ve Staré státní budově jedem. Ztráty na civilistech jsou možné, ale akceptovatelné pokud to příliš nepoškodí obchod.</Dest>
+    </String>
+    <String List="0" sID="030E43">
+      <EDID>FloraWildGourdVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030E46">
+      <EDID>FloraSiltBean01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Silt Bean</Source>
+      <Dest>Červené fazole</Dest>
+    </String>
+    <String List="0" sID="030E57">
+      <EDID>FloraWildTatoPlant01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030E5B">
+      <EDID>FloraWildMelonVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030E74">
+      <EDID>GlowingFungus</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="030E88">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Had to get Rufus to rebuild this terminal. I was on the Psycho high and I was typing and I just... man it was like I couldn't NOT be angry. Just started PUNCHING the keys, man! PUNCHING THEM! PUNCHING AND PUNCHING AND...&#xD;
+&#xD;
+I think maybe I should lie down...</Source>
+      <Dest>Musel jsem zavolat Rufa, aby mi pomohl znovu postavit tento terminál. Zrovna jsem jel na Psychu a snažil jsem se něco napsat... A ačkoli mě nemohlo nic v tu chvíli vytočit, najednou jsem bušil do kláves! BUŠIL DO NICH! BUŠIL A BUŠIL DO NICH a...&#xD;
+&#xD;
+Asi bych si měl jít lehnout...</Dest>
+    </String>
+    <String List="0" sID="030EB5">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Stan Slavin</Source>
+      <Dest>Stan Slavin</Dest>
+    </String>
+    <String List="0" sID="030EB8">
+      <EDID>FloraFungusGlowing06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030ED0">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="5">TERM:UNAM</REC>
+      <Source>A fellow working girl. Deserves a chance.&#xD;
+&#xD;
+Burn down the Third Rail as a warning. If she resists after that, clean shot to the head.</Source>
+      <Dest>Spolupravovnice si zaslouží šanci.&#xD;
+&#xD;
+Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</Dest>
+    </String>
+    <String List="0" sID="030EE5">
+      <EDID>FloraWildCarrotPlant</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030EE8">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Mister Rubins has a standing deal to trade room and board in exchange for various handyman services.</Source>
+      <Dest>Panu Rubinsovi je nabízeno ubytování a strava výměnou za údržbářské práce.</Dest>
+    </String>
+    <String List="0" sID="030F1C">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="5">TERM:UNAM</REC>
+      <Source>Our entire staff for this hotel comprises myself and one remaining janitor, who I think only works here for easy access to Fred's chem stash.</Source>
+      <Dest>Já a ještě jeden údržbář, který zde pracuje snad jen kvůli snadnějšímu přístupu k Fredovo skladu s chemikáliemi, tvoříme všechny zaměstnance hotelu.</Dest>
+    </String>
+    <String List="0" sID="030F3B">
+      <EDID>FloraFungusGlowing05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="030F3F">
+      <EDID>FloraFungusGlowing04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="030F4E">
+      <EDID>FloraFungusBrain01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Brain Fungus</Source>
+      <Dest>Mozkovka</Dest>
+    </String>
+    <String List="0" sID="030F4F">
+      <EDID>FloraFungusBrain03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030F7C">
+      <EDID>FloraFungusGlowing02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030F7D">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Client: Fred Allen</Source>
+      <Dest>Klient: Fred Allen</Dest>
+    </String>
+    <String List="0" sID="030F82">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Contingency Plan: Whitechapel Charlie</Source>
+      <Dest>Plán: Whitechapel Charlie</Dest>
+    </String>
+    <String List="0" sID="030FAB">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Ghoul from Vault-Tec</Source>
+      <Dest>Ghúl z Vault-Tecu</Dest>
+    </String>
+    <String List="0" sID="030FAC">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Despite my sensible objections, Marowski has allowed Fred Allen to relocate the trifling remains of this family's once vast chem business to the basement.&#xD;
+&#xD;
+At least that oaf sleeps down there instead of in the guest rooms. Heaven knows what kind of sty he's wallowing in.</Source>
+      <Dest>Navzdory mým námitkám, Marowski povolil Fredovi Allenovi, aby přemístil pozůstatky dříve obrovského rodinného podniku s chemikáliemi do sklepa.&#xD;
+&#xD;
+Alespoň ten hulvát spí ve sklepě a ne v pokoji pro hosty. Bůh ví, v jakých prasečinách se plácá.</Dest>
+    </String>
+    <String List="0" sID="030FAD">
+      <EDID>FloraWildTatoPlant02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Tato Blossom</Source>
+      <Dest>Květ divokého brajčete</Dest>
+    </String>
+    <String List="0" sID="030FB6">
+      <EDID>FloraHubFlower02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="030FD1">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Experiment One: Punch through a board.&#xD;
+Results: Oh yeah. That was easy.&#xD;
+&#xD;
+Experiment Two: Punch through TEN boards.&#xD;
+Results: I'm invincible! This is like, some comic-book level strength.&#xD;
+&#xD;
+Experiment Three: Punch through STEEL boards, man!&#xD;
+Results: Typing with my left hand. Gotta cook some Stimpaks.&#xD;
+</Source>
+      <Dest>Experiment jedna: Prorazit pěstí desku.&#xD;
+Výsledek: No jasně, to je jednoduché.&#xD;
+&#xD;
+Experiment dva: Prorazit pěstí DESET desek.&#xD;
+Výsledek: Jsem nepřemožitelný! Mám sílu jak komiksový hrdina.&#xD;
+&#xD;
+Experiment tři: Prorazit pěstí železnou desku!&#xD;
+Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stimpaky.</Dest>
+    </String>
+    <String List="0" sID="03100A">
+      <EDID>FloraFungusBrain01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="031017">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Chem Diary: Psycho</Source>
+      <Dest>Deník chemikálií: Psycho</Dest>
+    </String>
+    <String List="0" sID="03104E">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Occassionally rents a room here for "the acoustics" whatever that means.</Source>
+      <Dest>Příležitostně pronajímá pokoj pro "akustiku", ať už to znamená cokoli.</Dest>
+    </String>
+    <String List="0" sID="031052">
+      <EDID>FloraBloodLeaf02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="03107C">
+      <EDID>GammaGun</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="031080">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Fred Allen at the Hotel Rexford keeps coming in, high as the day is long. One day he comes in on Jet, and asks for a memory of him being on Buffout. He says it's "for an experiment."&#xD;
+&#xD;
+Getting stoned on Jet, and then playing a memory of yourself being stoned on Buffout WHILE you're still stoned on Jet...&#xD;
+&#xD;
+Well, you have to admire his committment.</Source>
+      <Dest>Fred Allen z hotelu Rexfort přichází každý den nametený. Jednou na Jetu se pídil po tom, jak se choval, když měl Buffout. Vše je prý pro "vědecké účely."&#xD;
+&#xD;
+Sjet se Jetem a dívat se na sny o sobě sama při účincích Buffoutu...&#xD;
+&#xD;
+Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
+    </String>
+    <String List="0" sID="03108A">
+      <EDID>FloraSiltBean02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Silt Bean</Source>
+      <Dest>Červené fazole</Dest>
+    </String>
+    <String List="0" sID="03108D">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>Contingency Plan: Magnolia</Source>
+      <Dest>Plán: Magnolia</Dest>
+    </String>
+    <String List="0" sID="0310A0">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Contingency Plan: Daisy</Source>
+      <Dest>Plán: Daisy</Dest>
+    </String>
+    <String List="0" sID="0310A2">
+      <EDID>FloraHubFlower01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0310A4">
+      <EDID>GaussRifle</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="0310AA">
+      <EDID>FloraFungusBrain02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0310B7">
+      <EDID>FloraWildTatoPlant01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Tato Blossom</Source>
+      <Dest>Květ divokého brajčete</Dest>
+    </String>
+    <String List="0" sID="0310B8">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Stan will always have a place here, of course. And to think, we used to have dozens of good men like him looking after this place.</Source>
+      <Dest>Stan zde bude mít své místo na vždy. Když pomyslím, že se dříve na jeho pozici hlásily desítky stejně schopných, jako byl on.</Dest>
+    </String>
+    <String List="0" sID="0310BE">
+      <EDID>FloraFungusGlowing01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="0310CF">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>All of his memories are about that Silver Shroud radio show he's always going on about. That reminds me, I keep telling him to keep all of his posters and toys inside his room. They always seem to spill out into the main floor.&#xD;
+&#xD;
+Poor Kent. People may gossip about the Den taking advantage of him, but the truth is he's our biggest charity case. If I lived to be over 200, I know I'd be tired of the real world, too. What's the harm in letting him dream a little longer than the next fella?&#xD;
+&#xD;
+Amari put in some safety settings into his Memory Lounger so he doesn't starve himself to death. Far as I'm concerned, if he wants to live out the rest of his days plugged in and occassionally waking up to eat and stare at his poster collection, that's his choice.</Source>
+      <Dest>Všechny jeho vzpomínky se váží na rádio Silver Shroud a show, kterou vždy sledoval. To mi připomíná, jak jsem mu vždy připomínala, aby nechával všechny plakáty a hračky u sebe v pokoji. Často totiž bývaly rozházené po chodbě.&#xD;
+&#xD;
+Chudák Kent. Lidé říkají, že ho Hnízdečko vzpomínek jen využívá, ale je pravda, že je to případ sám pro sebe. Kdybych žila více jak 200 let, reálný svět by pro mě asi také přestal být zajímavý. Koneckonců jakou škodu může natropit nechat ho snít o něco déle?&#xD;
+&#xD;
+Amari zavedla nějaká bezpečnostní opatření v Hnízdečku vzpomínek, aby nemohl umřít hladem. Jestliže chce po zbytek života jen snít o své sbírce plakátů a probudit se jen na jídlo a pití, je to jeho volba.</Dest>
+    </String>
+    <String List="0" sID="0310D1">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Chem Diary: Buffout</Source>
+      <Dest>Deník chemikálií: Buffout</Dest>
+    </String>
+    <String List="0" sID="0310D6">
+      <EDID>FloraWildGourdVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Gourd Blossom</Source>
+      <Dest>Květ divoké tykve</Dest>
+    </String>
+    <String List="0" sID="0310DD">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Clair Hutchins, Hotel Manager</Source>
+      <Dest>Clair Hutchins, ředitel hotelu</Dest>
+    </String>
+    <String List="0" sID="0310DE">
+      <EDID>FloraHubFlower02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>HubFlower</Source>
+      <Dest>Centrálka</Dest>
+    </String>
+    <String List="0" sID="0310E2">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Oh, man. JET! That's why they call it JET, man! Wooo! I'm flying! FLYING BABY!</Source>
+      <Dest>Neuvěřitelné. JET! Proto se to jmenuje JET! Jooo! Já letím! LETÍM SAKRA!</Dest>
+    </String>
+    <String List="0" sID="0310E3">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>The secret to being a great chem dealer? Personal experience, man. That's why I'm going to try everything. But chemistry is like, science, you know? So we're gonna log every hit I take.&#xD;
+&#xD;
+The better I can understand the high, the better I can sell that to the customers. I swear, sometimes I scare myself I'm so smart.</Source>
+      <Dest>Tajemství úspěšného dealera chemikálií? Osobní zkušenost. Proto zkusím naprosto všechno. Ale chemie je něco jako věda, jasné? Takže se pokusím naprosto všechno zaznamenat.&#xD;
+&#xD;
+Čím lépe porozumím účinkům, tím jednodušeji to prodám svým zákazníkům. Občas mě děsí, jak jsem geniální.</Dest>
+    </String>
+    <String List="0" sID="0310E4">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Top Experiment: Try Everything</Source>
+      <Dest>Nejdůležitější experiment: Vyzkoušet vše</Dest>
+    </String>
+    <String List="0" sID="0310E6">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Client: Daisy</Source>
+      <Dest>Klient: Daisy</Dest>
+    </String>
+    <String List="0" sID="0310E7">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Clair's memories are quite vivid. Amari says she must have "one of those brains" with great attention to detail. Maybe that's why she's so meticulous.&#xD;
+&#xD;
+Oh, and she sure had a cute husband back when she was younger. I can see why she misses him.</Source>
+      <Dest>Vzpomínky Clair jsou dost jasné. Amari říká, že má "výjimečný mozek" se smyslem pro detail. Možná proto je tak puntičkářská.&#xD;
+&#xD;
+Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</Dest>
+    </String>
+    <String List="0" sID="0310E8">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Client: Clair Hutchins</Source>
+      <Dest>Klient: Clair Hutchins</Dest>
+    </String>
+    <String List="0" sID="0310EA">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Pay off one of his associates. Good help is so hard to hold onto these days.</Source>
+      <Dest>Podplať jeho spolupracovníky. Oddaní lidé jsou dnes nedostatkové zboží.</Dest>
+    </String>
+    <String List="0" sID="0310ED">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Wait until Super Mutant or Raider attack. High explosives at key areas of the defensive perimeter. Relocation necessary afterwards as Goodneighbor would be left vulnerable.</Source>
+      <Dest>Vyčkej dokud nezaútočí supermutant nebo nájezdníci. Výbušniny musí být na taktických pozicích v obraném perimetru. Nutné následně přemístit, jinak by bylo Dobré sousedství zranitelné.</Dest>
+    </String>
+    <String List="0" sID="0310F8">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Fred Allen</Source>
+      <Dest>Fred Allen</Dest>
+    </String>
+    <String List="0" sID="031105">
+      <EDID>FloraWildMelonVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Melon Blossom</Source>
+      <Dest>Květ divokého melounu</Dest>
+    </String>
+    <String List="0" sID="03110C">
+      <EDID>GoodneighborFredAllenPassword</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Fred Allen's Password</Source>
+      <Dest>Heslo Freda Allena</Dest>
+    </String>
+    <String List="0" sID="031113">
+      <EDID>GourdWild</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Gourd Blossom</Source>
+      <Dest>Květ tykve</Dest>
+    </String>
+    <String List="0" sID="03111B">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Chem Diary: Jet</Source>
+      <Dest>Deník chemikálií: Jet</Dest>
+    </String>
+    <String List="0" sID="03111F">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>Staff</Source>
+      <Dest>Zaměstnanci</Dest>
+    </String>
+    <String List="0" sID="031122">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Contingency Plan: Hancock</Source>
+      <Dest>Rezervní plán: Hancock</Dest>
+    </String>
+    <String List="0" sID="03113A">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Kleo's Terminal</Source>
+      <Dest>Terminál Kleo</Dest>
+    </String>
+    <String List="0" sID="03113E">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>When In Doubt, Do It All</Source>
+      <Dest>Když pochybujete, vemte si všechno</Dest>
+    </String>
+    <String List="0" sID="03113F">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Hotel Registry</Source>
+      <Dest>Registr hotelu</Dest>
+    </String>
+    <String List="0" sID="031140">
+      <EDID>FloraSiltBean01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="031144">
+      <EDID>FloraFungusGlowing06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="03114B">
+      <EDID>GoodneighborIrmaPassword</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Irma's Terminal Password</Source>
+      <Dest>Heslo Irmina terminálu</Dest>
+    </String>
+    <String List="0" sID="03114D">
+      <EDID>FloraBloodLeaf02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>BloodLeaf</Source>
+      <Dest>Krvelístek</Dest>
+    </String>
+    <String List="0" sID="03114F">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Oh man, I feel, like, "loquacious." I don't even know what that MEANS, man! But it's like my brain is just putting it all together faster than I can even process it.</Source>
+      <Dest>Wow, cítím se neuvěřitelně "výhovorně". Vždyť já ani nevím, co to slovo ZNAMENÁ! Zdá se, že můj mozek pracuje tak rychle, že nestíhám kontrolovat, co říkám.</Dest>
+    </String>
+    <String List="0" sID="031152">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Client: Kent Connolly</Source>
+      <Dest>Klient: Kent Connolly</Dest>
+    </String>
+    <String List="0" sID="031154">
+      <EDID>FloraBloodLeaf01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="031155">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>No other name given. He's upstairs in the guest rooms and rarely leaves. At least he's quiet.</Source>
+      <Dest>Neprozradil své jméno. Nachází se nahoře a jen výjimečně opouští pokoj. Alespoň je potichu.</Dest>
+    </String>
+    <String List="0" sID="031177">
+      <EDID>FloraWildTatoPlant02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="031179">
+      <EDID>FloraFungusGlowing05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="03117F">
+      <EDID>GoodneighborHotelRegister</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Rufus Rubins</Source>
+      <Dest>Rufus Rubins</Dest>
+    </String>
+    <String List="0" sID="031181">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Sensors picked up digging sounds recently. Workers and guards being hired at high rates.&#xD;
+&#xD;
+Wait until night. Sneak into hideout. Dismantle lights then kill one by one.</Source>
+      <Dest>Senzor v poslední době zaznamenal hloubení tunelu. Je najímáno více nových pracovníků a stráží.&#xD;
+&#xD;
+Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.</Dest>
+    </String>
+    <String List="0" sID="03118D" Partial="1">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Here's to Good Times and Good Memories.</Source>
+      <Dest>Here's to Good Times and Good Memories.</Dest>
+    </String>
+    <String List="0" sID="031193">
+      <EDID>FloraBloodLeaf01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>BloodLeaf</Source>
+      <Dest>Krvelístek</Dest>
+    </String>
+    <String List="0" sID="031198">
+      <EDID>FloraWildCarrotPlant</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Carrot Flower</Source>
+      <Dest>Divoká mrkev</Dest>
+    </String>
+    <String List="0" sID="0311B1">
+      <EDID>FloraFungusBrain03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Brain Fungus</Source>
+      <Dest>Mozkovka</Dest>
+    </String>
+    <String List="0" sID="0311B2">
+      <EDID>GoodneighborHotelRexfordPassword</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Hotel Registry Password</Source>
+      <Dest>Heslo do registru hotelu</Dest>
+    </String>
+    <String List="0" sID="0311D4">
+      <EDID>FloraFungusGlowing02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glowing Fungus</Source>
+      <Dest>Zářící houbičky</Dest>
+    </String>
+    <String List="0" sID="0311E5">
+      <EDID>FloraFungusGlowing03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0311E7">
+      <EDID>GoodneighborIrmaTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Client: Hancock</Source>
+      <Dest>Klient: Hancock</Dest>
+    </String>
+    <String List="0" sID="0311EA">
+      <EDID>FloraSiltBean02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0311EF">
+      <EDID>FloraFungusGlowing04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0311F5">
+      <EDID>GoodneighborKleoTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Laser shot at long range. She is too close to home for outright assault to be viable without suspicion.</Source>
+      <Dest>Laser dokáže zasáhnout i daleký cíl. Je příliš blízko domova, než aby spustila přímý útok a nevzbudila na sebe podezření.</Dest>
+    </String>
+    <String List="0" sID="031206">
+      <EDID>GoodneighborFredTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Chem Diary: Mentats</Source>
+      <Dest>Deník chemikálií: Mentaty</Dest>
+    </String>
+    <String List="0" sID="03120D">
+      <EDID>FloraHubFlower01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>HubFlower</Source>
+      <Dest>Centrálka</Dest>
+    </String>
+    <String List="0" sID="0312D3">
+      <EDID>FloraWildCornStalk01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Corn</Source>
+      <Dest>Divoká kukuřice</Dest>
+    </String>
+    <String List="0" sID="0312FE">
+      <EDID>FloraWildRazorgrain01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wild Razorgrain</Source>
+      <Dest>Divoké ostrozrno</Dest>
+    </String>
+    <String List="0" sID="03132B">
+      <EDID>GenericCombatant</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Combatant</Source>
+      <Dest>Bojovník</Dest>
+    </String>
+    <String List="0" sID="031461">
+      <EDID>FloraWildCornStalk01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0314B7">
+      <EDID>FortifyVATSAccuracyChemPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortify VATS Accuracy Chem</Source>
+      <Dest>Chemikálie vylepšující přesnost v režimu VATS</Dest>
+    </String>
+    <String List="0" sID="0314CD">
+      <EDID>FloraWildRazorgrain01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="03175F">
+      <EDID>FourLeafClover04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Four Leaf Clover</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0" sID="031946" Partial="1">
+      <EDID>GunFu03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun-Fu</Source>
+      <Dest>Gun-Fu</Dest>
+    </String>
+    <String List="0" sID="031A72">
+      <EDID>Ghoulish03PerkExclusionFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>ghouls in this will not be picked as allies</Source>
+      <Dest>ghúlové nebudou přátelští</Dest>
+    </String>
+    <String List="0" sID="031AF3" Partial="1">
+      <EDID>GunFu02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Gun-Fu</Source>
+      <Dest>Gun-Fu</Dest>
+    </String>
+    <String List="0" sID="032033">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>William Thomas</Source>
+      <Dest>William Thomas</Dest>
+    </String>
+    <String List="0" sID="03204B">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Customer: Jerod Beene&#xD;
+&#xD;
+Problem: Jerod brought in his "Mr. Handy" after noticing it constantly bumping into things around the house.&#xD;
+&#xD;
+Labor: 8 hours&#xD;
+&#xD;
+Mechanic Report: Two of the three optical sensors have been wired incorrectly causing the bot to mistranslate incoming data on its surroundings. This bot has been so heavily modified I'm sure it's breaking all kinds of federal laws.</Source>
+      <Dest>Zákazník: Jerod Beene&#xD;
+&#xD;
+Stížnost: Jerod přišel reklamovat "Pana Šikulku" poté co zjistil, že doma neustále naráží do věcí.&#xD;
+&#xD;
+Oprava: 8 hodin&#xD;
+&#xD;
+Odpověď mechanika: Dva ze tří senzorů byly zapojeny chybně, což způsobovalo špatnou orientaci v prostoru. Příchozí data nebyla vyhodnocována správně. Tento robot byl podomácku upraven a jsem si jistý, že tato vylepšení porušují mnoho federálních nařízení.</Dest>
+    </String>
+    <String List="0" sID="032140">
+      <EDID>GlowingSeaPOIJB03_Terminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Invoices</Source>
+      <Dest>Faktury</Dest>
+    </String>
+    <String List="0" sID="032185">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Customer: Jessica McCann&#xD;
+&#xD;
+Problem: Jessica brought in her company's Protectron after several co-workers complained of a mildew smell coming from the bot. When asked about any potential causes, Jessica reported that the company did host a happy hour last week and things may have gotten a little out of control. The Protectron may or may have not been involved in a pool party. &#xD;
+&#xD;
+Labor: 4 hours&#xD;
+&#xD;
+Mechanic Report: The lower compartment was completely filled with water. Drained, cleaned, rinsed, and dried.</Source>
+      <Dest>Zákazník: Jessica McCann&#xD;
+&#xD;
+Stížnost: Jessica reklamuje firemního Protektrona. Několik spolupracovníků si začalo stěžovat na zápach plísně vycházející z robota. Na dotaz co mohlo zapříčinit tuto vadu, odpověděla, že to může mít souvislost s malou oslavou minulý týden, kdy se vše poněkud zvrhlo a je pravděpodobné namočení v bazénku. &#xD;
+&#xD;
+Oprava: 4 hodiny&#xD;
+&#xD;
+Odpověď mechanika: Spodní prostor byl plný vody. Vyluxován, očištěn, propláchnut a usušen.</Dest>
+    </String>
+    <String List="0" sID="032278">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Customer: William Thomas&#xD;
+&#xD;
+Problem: Mr. Handy randomly loses mobility and falls to the ground about four time a day. Asked if he knew what could've caused the issue, Will reported seeing the neighborhood kids throwing baseballs at the robot. However, no physical damage noticed upon inspection.&#xD;
+&#xD;
+Labor: 16 hours&#xD;
+&#xD;
+Mechanic Report: Although no physical harm was noticed, one of the guys did find some loose screws inside. Upon further inspection it was determined that the propulsion fail switch was being activated by one or more of the loose screws causing the Handy to fall to the ground.</Source>
+      <Dest>Zákazník: William Thomas&#xD;
+&#xD;
+Stížnost: Pan Šikulka bezdůvodně padá na zem minimálně čtyřikrát za den. Na dotaz co by mohlo vadu zapříčiňovat, odpověděl, že viděl sousedovy děti házet po robotovi baseballové míčky. Na první pohled není vidět mechanické poškození.&#xD;
+&#xD;
+Oprava: 16 hodin&#xD;
+&#xD;
+Odpověď mechanika: Ačkoli nebylo nalezeno žádné mechanické poškození, jeden z mechaniků objevil uvolněný šroubek. Po důkladnějším prohlédnutí, došlo ke zjištění, že pohon byl nepříznivě ovlivňován několika takovými šroubky, což mohlo zapříčinit pád robota na zem.</Dest>
+    </String>
+    <String List="0" sID="0322BA">
+      <EDID>FXFireHitVisuals</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>FX Shader Fire</Source>
+      <Dest>FX Shader Fire</Dest>
+    </String>
+    <String List="0" sID="032312">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Jerod Beene</Source>
+      <Dest>Jerod Beene</Dest>
+    </String>
+    <String List="0" sID="0324B2">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>-------------------------------&#xD;
+Invoices&#xD;
+-------------------------------&#xD;
+</Source>
+      <Dest>-------------------------------&#xD;
+Faktury&#xD;
+-------------------------------</Dest>
+    </String>
+    <String List="0" sID="03250F">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Terminal</Source>
+      <Dest>Terminál</Dest>
+    </String>
+    <String List="0" sID="0325CB">
+      <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Jessica McCann</Source>
+      <Dest>Jessica McCann</Dest>
+    </String>
+    <String List="0" sID="03272B">
+      <EDID>FortifyMeleeDamageFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; melee damage</Source>
+      <Dest>+&lt;mag&gt; melee damage</Dest>
+    </String>
+    <String List="0" sID="032760">
+      <EDID>GeneralGameplay09ChemistryStation</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Use a Chemistry Station to create useful chems and medicines.</Source>
+      <Dest>V chemické laboratoři lze vyrobit mnoho užitečných chemikálií a léků.</Dest>
+    </String>
+    <String List="0" sID="0327B7">
+      <EDID>GiddyupButtercupHead</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Giddyup Buttercup Head</Source>
+      <Dest>Napoliho hlava</Dest>
+    </String>
+    <String List="0" sID="0327C6">
+      <EDID>GeneralGameplay14LevelUp</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Every time you level up, your Health increases and you get to choose a new perk.</Source>
+      <Dest>Při každém postupu o úrověň výše se zvýší počet zdraví a můžete si vybrat nový perk.</Dest>
+    </String>
+    <String List="0" sID="03281A">
+      <EDID>GeneralGameplay23DownedCompanion</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>If a companion goes down in combat, use a Stimpak on them to bring them back into the fight.</Source>
+      <Dest>Pokud společník v souboji padne, zpět na nohy mu pomůže jeden stimpak.</Dest>
+    </String>
+    <String List="0" sID="032885">
+      <EDID>GeneralGameplay11WeaponsWorkbench</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Use a Weapons Workbench to make useful modifications to most of your weapons.</Source>
+      <Dest>Ponk na úpravu zbraní umožňuje modifikovat většinu arzenálu.</Dest>
+    </String>
+    <String List="0" sID="03295B">
+      <EDID>GeneralGameplay12ArmorWorkbench</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Use an Armor Workbench to modify your armor and increase its resistances.</Source>
+      <Dest>Ponk na úpravu zbroje umožňuje modifikovat různé druhy zbroje a navýšit jejich odolnost.</Dest>
+    </String>
+    <String List="0" sID="03298D">
+      <EDID>GeneralGameplay18Barber</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Want to change your hairstyle? Visit a barber in one of the major settlements.</Source>
+      <Dest>Chcete si změnit účes? Ve větších osadách můžete navštívit místního holiče.</Dest>
+    </String>
+    <String List="0" sID="0329C7">
+      <EDID>GeneralGameplay10CookingStation</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>You can use a Cooking Station to create recipes from the various ingredients you find, like wild plants and meat from slain creatures.</Source>
+      <Dest>Kuchařské stanoviště umožňuje uvařit dle připravených receptů a využít tak plodů divokých rostlin či masa zabité zvěře.</Dest>
+    </String>
+    <String List="0" sID="032B8C">
+      <EDID>GeneralGameplay21QuestTargets</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>If you have too many quest targets, check the Quests section of your Pip-Boy to see if you have more than one active quest. In the Miscellaneous category, you can turn each objective on or off.</Source>
+      <Dest>Máte příliš mnoho cílů na minimapě? Nahlédněte od sekce úkolů v Pit-Boyovi a zkontrolujte, kolik jich je aktivních. V kategorii Různé lze tyto cíle vypnout a zapnout.</Dest>
+    </String>
+    <String List="0" sID="032BB1">
+      <EDID>GlowingSeaPOIDB06Int</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Parking Garage</Source>
+      <Dest>Parkovací garáže</Dest>
+    </String>
+    <String List="0" sID="032BC1">
+      <EDID>FloraGSWildMelonVine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ash Blossom</Source>
+      <Dest>Popelavý květ</Dest>
+    </String>
+    <String List="0" sID="032C30">
+      <EDID>FloraGSWildMelonVine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="032D66">
+      <EDID>GeneralGameplay08</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Use the Pip-Boy to tune into different radio stations. If you close the Pip-Boy while the radio is on, it will continue playing until you go back into the Pip-Boy and turn it off.</Source>
+      <Dest>Pomocí Pip-Boye lze naladit různé rádiové stanice. Ty hrají i po zavření Pip-Boye a je nutné je manuálně vypnout.</Dest>
+    </String>
+    <String List="0" sID="032D87">
+      <EDID>GeneralGameplay02</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Sleeping in any bed will fully restore your Health and heal any crippled body parts.</Source>
+      <Dest>Spánek v posteli obnoví celé zdraví a vyléčí zmrzačené části těla.</Dest>
+    </String>
+    <String List="0" sID="032DD7">
+      <EDID>GeneralGameplay19ReconstructiveSurgery</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Tired of the same old look? A reconstructive surgeon can give you a whole new face...</Source>
+      <Dest>Unaveni všedností vlastního vzhledu? Plastický chirurg Vás dokáže změnit k nepoznání...</Dest>
+    </String>
+    <String List="0" sID="032DE5">
+      <EDID>GeneralGameplay01</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>You can restore Health by using a Stimpak, eating food, visiting a doctor, drinking from a water source, or sleeping in a bed.</Source>
+      <Dest>Obnovit zdraví lze pomocí stimpaku, jídlem, návštěvou doktora, pitím vody a spánkem v posteli.</Dest>
+    </String>
+    <String List="0" sID="032DEB">
+      <EDID>GiddyupButtercupFLeg</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Giddyup Buttercup Front Leg</Source>
+      <Dest>Napoliho přední noha</Dest>
+    </String>
+    <String List="0" sID="032DEC">
+      <EDID>GeneralGameplay03</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Drinking from a water source is always a tactical choice - you will usually restore lost Health, but raise your radiation level.</Source>
+      <Dest>Pití vody z potoka je vždy riziko - obnoví se část zdraví, ale zároveň vzroste úroveň radiace.</Dest>
+    </String>
+    <String List="0" sID="032DEF">
+      <EDID>GeneralGameplay04</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for for a limited time.</Source>
+      <Dest>Spánek v cizí či vlastní posteli poskytne bonus "Svěží", který na omezenou dobu zvyšuje získané zkušenosti.</Dest>
+    </String>
+    <String List="0" sID="032DF0">
+      <EDID>GeneralGameplay05</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Combat too hard or too easy? You can change the game's difficulty at any time.</Source>
+      <Dest>Jsou souboje moc lehké, nebo příliš těžké? Obtížnost lze kdykoli změnit.</Dest>
+    </String>
+    <String List="0" sID="032DF2">
+      <EDID>GeneralGameplay06</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Need a real challenge? Try Survival difficulty. Health restoration will be severely reduced.</Source>
+      <Dest>Je libo výzvu? Zkuste obtížnost O Přežití. Obnova zdraví je zde značně snížena.</Dest>
+    </String>
+    <String List="0" sID="032DF3">
+      <EDID>GeneralGameplay07</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>The higher the difficulty setting, the greater your chance of finding Legendary items.</Source>
+      <Dest>Čím vyšší stupeň obtížnosti, tím větší šance na nalezení legendárních předmětů.</Dest>
+    </String>
+    <String List="0" sID="032E13">
+      <EDID>GeneralGameplay13PowerArmorStation</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Use a Power Armor Station to repair and make modifications to your Power Armor.</Source>
+      <Dest>Stanice energozbroje slouží k opravám a modifikacím všech energozbrojí.</Dest>
+    </String>
+    <String List="0" sID="032E2D">
+      <EDID>GeneralGameplay20ActiveQuest</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>When you get a new quest, it will not become active unless you have no other active quests. Check the Quests section in your Pip-Boy to see which quests are active.</Source>
+      <Dest>Nový úkol se automaticky neoznačí jako aktivní, jestliže už je nějaký takto označen. Spravovat úkoly lze v příslušné sekci Pip-Boye.</Dest>
+    </String>
+    <String List="0" sID="032E2E">
+      <EDID>GeneralGameplay22Shops</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Most shops are open during daylight hours, and closed at night.</Source>
+      <Dest>Většina obchodů je ve dne otevřená a v noci zavřená.</Dest>
+    </String>
+    <String List="0" sID="032E4B">
+      <EDID>GiddyupButtercup</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Giddyup Buttercup</Source>
+      <Dest>Napoli</Dest>
+    </String>
+    <String List="0" sID="032E69">
+      <EDID>GlowingSeaPOIDB05Int</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Red Rocket</Source>
+      <Dest>Red Rocket</Dest>
+    </String>
+    <String List="0" sID="032E8B">
+      <EDID>GeneralGameplay16TalkPickpocket</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>To talk to a person, activate them while standing up. To attempt a pickpocket, activate them while in Sneak mode.</Source>
+      <Dest>Spustit dialog lze pouze v klasickém postoji. Naopak pokus o kapsářství umožňuje jenom pozice ve skrytu.</Dest>
+    </String>
+    <String List="0" sID="032EE6">
+      <EDID>GeneralGameplay15FusionCoreCheckpoints</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Pre-war military checkpoints, scattered throughout the Commonwealth, are a great place to find Fusion Cores.</Source>
+      <Dest>Předválečná vojenská kontrolní stanoviště, rozesetá po celém Commonwealthu, jsou skvělým místem pro hledání fúzních jader.</Dest>
+    </String>
+    <String List="0" sID="033015">
+      <EDID>GiddyupButtercupBody</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Giddyup Buttercup Body</Source>
+      <Dest>Napoliho trup</Dest>
+    </String>
+    <String List="0" sID="033037">
+      <EDID>GiddyupButtercupBLeg</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Giddyup Buttercup Back Leg</Source>
+      <Dest>Napoliho zadní noha</Dest>
+    </String>
+    <String List="0" sID="03308B">
+      <EDID>GeneralGameplay17Doctors</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Doctors, located in most settlements, provide a variety of services. They can heal all wounds (including crippled limbs), cure radiation damage and cure addiction to chems and alcohol. Most of them also sell medical supplies. </Source>
+      <Dest>Většina vesnic má vlastního doktora, kteří poskytují všemožné služby. Dokáží vyléčit veškeré rány (včetně zmrzačených končetin), zranění radiace či závislost na alkoholu a chemikáliích. Zpravidla i prodávají lékařský materiál.</Dest>
+    </String>
+    <String List="0" sID="033139">
+      <EDID>GhoulRace</EDID>
+      <REC id="52">RACE:FMRN</REC>
+      <Source>Nose - Tip</Source>
+      <Dest>Nos - Špička</Dest>
+    </String>
+    <String List="0" sID="03316C">
+      <EDID>GhoulRace</EDID>
+      <REC id="50">RACE:FMRN</REC>
+      <Source>Nose - Bridge</Source>
+      <Dest>Nos - Kořen</Dest>
+    </String>
+    <String List="0" sID="03317D">
+      <EDID>GhoulRace</EDID>
+      <REC id="30">RACE:FMRN</REC>
+      <Source>Jowls -  Lower</Source>
+      <Dest>Čelisti - Spodní</Dest>
+    </String>
+    <String List="0" sID="033185">
+      <EDID>GhoulRace</EDID>
+      <REC id="42">RACE:FMRN</REC>
+      <Source>Nostrils</Source>
+      <Dest>Nosní dírky</Dest>
+    </String>
+    <String List="0" sID="0331C4">
+      <EDID>GhoulRace</EDID>
+      <REC id="10">RACE:FMRN</REC>
+      <Source>Nostrils</Source>
+      <Dest>Nosní dírky</Dest>
+    </String>
+    <String List="0" sID="0331EA">
+      <EDID>GhoulRace</EDID>
+      <REC id="28">RACE:FMRN</REC>
+      <Source>Eyelids - Top</Source>
+      <Dest>Oční víčka - Vrchní</Dest>
+    </String>
+    <String List="0" sID="033285">
+      <EDID>GhoulRace</EDID>
+      <REC id="21">RACE:FMRN</REC>
+      <Source>Mouth - Full</Source>
+      <Dest>Ústa - Celá</Dest>
+    </String>
+    <String List="0" sID="033286">
+      <EDID>GhoulRace</EDID>
+      <REC id="39">RACE:FMRN</REC>
+      <Source>Ears - Middle</Source>
+      <Dest>Uši - Střed</Dest>
+    </String>
+    <String List="0" sID="0332A5">
+      <EDID>GhoulRace</EDID>
+      <REC id="45">RACE:FMRN</REC>
+      <Source>Temples</Source>
+      <Dest>Spánky</Dest>
+    </String>
+    <String List="0" sID="0332B0">
+      <EDID>GhoulRace</EDID>
+      <REC id="3">RACE:FMRN</REC>
+      <Source>Cheekbones</Source>
+      <Dest>Lícní kosti</Dest>
+    </String>
+    <String List="0" sID="0332D6">
+      <EDID>GhoulRace</EDID>
+      <REC id="15">RACE:FMRN</REC>
+      <Source>Neck</Source>
+      <Dest>Krk</Dest>
+    </String>
+    <String List="0" sID="033319">
+      <EDID>GhoulRace</EDID>
+      <REC id="57">RACE:FMRN</REC>
+      <Source>Forehead</Source>
+      <Dest>Čelo</Dest>
+    </String>
+    <String List="0" sID="033320">
+      <EDID>GhoulRace</EDID>
+      <REC id="44">RACE:FMRN</REC>
+      <Source>Jaw - Middle</Source>
+      <Dest>Čelist - Střed</Dest>
+    </String>
+    <String List="0" sID="033321">
+      <EDID>FortifyWaterBreathing</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Can breathe underwater.</Source>
+      <Dest>Can breathe underwater.</Dest>
+    </String>
+    <String List="0" sID="033354">
+      <EDID>GhoulRace</EDID>
+      <REC id="36">RACE:FMRN</REC>
+      <Source>Cheeks</Source>
+      <Dest>Líce</Dest>
+    </String>
+    <String List="0" sID="033363">
+      <EDID>GhoulRace</EDID>
+      <REC id="13">RACE:FMRN</REC>
+      <Source>Temples</Source>
+      <Dest>Spánky</Dest>
+    </String>
+    <String List="0" sID="033369">
+      <EDID>GhoulRace</EDID>
+      <REC id="2">RACE:FMRN</REC>
+      <Source>Eyebrows - Outer</Source>
+      <Dest>Obočí - Vnější</Dest>
+    </String>
+    <String List="0" sID="03337C">
+      <EDID>GhoulRace</EDID>
+      <REC id="6">RACE:FMRN</REC>
+      <Source>Ears - Top</Source>
+      <Dest>Uši - Vrchol</Dest>
+    </String>
+    <String List="0" sID="033385">
+      <EDID>GhoulRace</EDID>
+      <REC id="48">RACE:FMRN</REC>
+      <Source>Eyes</Source>
+      <Dest>Oči</Dest>
+    </String>
+    <String List="0" sID="0333E8">
+      <EDID>GhoulRace</EDID>
+      <REC id="20">RACE:FMRN</REC>
+      <Source>Nose - Tip</Source>
+      <Dest>Nos - Špička</Dest>
+    </String>
+    <String List="0" sID="033404">
+      <EDID>GhoulRace</EDID>
+      <REC id="63">RACE:FMRN</REC>
+      <Source>Nose - Ridge</Source>
+      <Dest>Nos - Hřbet</Dest>
+    </String>
+    <String List="0" sID="03340D">
+      <EDID>GhoulRace</EDID>
+      <REC id="37">RACE:FMRN</REC>
+      <Source>Ears - Full</Source>
+      <Dest>Uši - Celé</Dest>
+    </String>
+    <String List="0" sID="033421">
+      <EDID>GhoulRace</EDID>
+      <REC id="55">RACE:FMRN</REC>
+      <Source>Mouth - Top</Source>
+      <Dest>Ústa - Vrchní</Dest>
+    </String>
+    <String List="0" sID="03349F">
+      <EDID>GhoulRace</EDID>
+      <REC id="33">RACE:FMRN</REC>
+      <Source>Eyebrows - Inner</Source>
+      <Dest>Obočí - Vnitřní</Dest>
+    </String>
+    <String List="0" sID="0334A6">
+      <EDID>GhoulRace</EDID>
+      <REC id="29">RACE:FMRN</REC>
+      <Source>Eyelids - Bottom</Source>
+      <Dest>Oční víčka - Spodní</Dest>
+    </String>
+    <String List="0" sID="0334AC">
+      <EDID>GhoulRace</EDID>
+      <REC id="18">RACE:FMRN</REC>
+      <Source>Nose - Bridge</Source>
+      <Dest>Nos - Kořen</Dest>
+    </String>
+    <String List="0" sID="03353A">
+      <EDID>FortifyXPBonusFoodPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Food XP Bonus</Source>
+      <Dest>Jídlo přidávající bonus k ZK</Dest>
+    </String>
+    <String List="0" sID="03354A">
+      <EDID>GhoulRace</EDID>
+      <REC id="31">RACE:FMRN</REC>
+      <Source>Nose - Ridge</Source>
+      <Dest>Nos - Hřbet</Dest>
+    </String>
+    <String List="0" sID="033559">
+      <EDID>GhoulRace</EDID>
+      <REC id="14">RACE:FMRN</REC>
+      <Source>Chin</Source>
+      <Dest>Brada</Dest>
+    </String>
+    <String List="0" sID="03357B">
+      <EDID>GhoulRace</EDID>
+      <REC id="12">RACE:FMRN</REC>
+      <Source>Jaw - Middle</Source>
+      <Dest>Čelist - Střed</Dest>
+    </String>
+    <String List="0" sID="0335E1">
+      <EDID>GhoulRace</EDID>
+      <REC id="23">RACE:FMRN</REC>
+      <Source>Mouth - Top</Source>
+      <Dest>Ústa - Vrchní</Dest>
+    </String>
+    <String List="0" sID="033643">
+      <EDID>GhoulRace</EDID>
+      <REC id="16">RACE:FMRN</REC>
+      <Source>Eyes</Source>
+      <Dest>Oči</Dest>
+    </String>
+    <String List="0" sID="033644">
+      <EDID>GhoulRace</EDID>
+      <REC id="5">RACE:FMRN</REC>
+      <Source>Ears - Full</Source>
+      <Dest>Uši - Celé</Dest>
+    </String>
+    <String List="0" sID="0336C9">
+      <EDID>GhoulRace</EDID>
+      <REC id="46">RACE:FMRN</REC>
+      <Source>Chin</Source>
+      <Dest>Brada</Dest>
+    </String>
+    <String List="0" sID="03370C">
+      <EDID>GhoulRace</EDID>
+      <REC id="19">RACE:FMRN</REC>
+      <Source>Eyebrows - Middle</Source>
+      <Dest>Obočí - Střed</Dest>
+    </String>
+    <String List="0" sID="03372C">
+      <EDID>GhoulRace</EDID>
+      <REC id="34">RACE:FMRN</REC>
+      <Source>Eyebrows - Outer</Source>
+      <Dest>Obočí - Vnější</Dest>
+    </String>
+    <String List="0" sID="033788">
+      <EDID>GhoulRace</EDID>
+      <REC id="59">RACE:FMRN</REC>
+      <Source>Jowls - Upper</Source>
+      <Dest>Čelisti - Vrchní</Dest>
+    </String>
+    <String List="0" sID="033794">
+      <EDID>GhoulRace</EDID>
+      <REC id="4">RACE:FMRN</REC>
+      <Source>Cheeks</Source>
+      <Dest>Líce</Dest>
+    </String>
+    <String List="0" sID="0337CB">
+      <EDID>GhoulRace</EDID>
+      <REC id="27">RACE:FMRN</REC>
+      <Source>Jowls - Upper</Source>
+      <Dest>Čelisti - Vrchní</Dest>
+    </String>
+    <String List="0" sID="0337E4">
+      <EDID>GhoulRace</EDID>
+      <REC id="61">RACE:FMRN</REC>
+      <Source>Eyelids - Bottom</Source>
+      <Dest>Oční víčka - Spodní</Dest>
+    </String>
+    <String List="0" sID="0337EF">
+      <EDID>GhoulRace</EDID>
+      <REC id="0">RACE:FMRN</REC>
+      <Source>Eyebrows - Full</Source>
+      <Dest>Obočí - Celé</Dest>
+    </String>
+    <String List="0" sID="0337F5">
+      <EDID>GhoulRace</EDID>
+      <REC id="40">RACE:FMRN</REC>
+      <Source>Earlobes</Source>
+      <Dest>Ušní lalůčky</Dest>
+    </String>
+    <String List="0" sID="033895">
+      <EDID>GhoulRace</EDID>
+      <REC id="43">RACE:FMRN</REC>
+      <Source>Jaw - Outer</Source>
+      <Dest>Čelist - Vnější</Dest>
+    </String>
+    <String List="0" sID="0338B1">
+      <EDID>GhoulRace</EDID>
+      <REC id="62">RACE:FMRN</REC>
+      <Source>Jowls - Lower</Source>
+      <Dest>Čelisti - Spodní</Dest>
+    </String>
+    <String List="0" sID="0338B3">
+      <EDID>GhoulRace</EDID>
+      <REC id="41">RACE:FMRN</REC>
+      <Source>Nose - Full</Source>
+      <Dest>Nos - Celý</Dest>
+    </String>
+    <String List="0" sID="0338CE">
+      <EDID>FortifyXPBonusFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Food: Fortify XP Bonus</Source>
+      <Dest>Food: Fortify XP Bonus</Dest>
+    </String>
+    <String List="0" sID="0338EE">
+      <EDID>GhoulRace</EDID>
+      <REC id="26">RACE:FMRN</REC>
+      <Source>Face - Lower</Source>
+      <Dest>Tvář - Spodní</Dest>
+    </String>
+    <String List="0" sID="0338F6">
+      <EDID>GhoulRace</EDID>
+      <REC id="8">RACE:FMRN</REC>
+      <Source>Earlobes</Source>
+      <Dest>Ušní lalůčky</Dest>
+    </String>
+    <String List="0" sID="0338FE">
+      <EDID>GhoulRace</EDID>
+      <REC id="51">RACE:FMRN</REC>
+      <Source>Eyebrows - Middle</Source>
+      <Dest>Obočí - Střed</Dest>
+    </String>
+    <String List="0" sID="033910">
+      <EDID>GhoulRace</EDID>
+      <REC id="24">RACE:FMRN</REC>
+      <Source>Mouth - Bottom</Source>
+      <Dest>Ústa - Spodní</Dest>
+    </String>
+    <String List="0" sID="033927">
+      <EDID>GhoulRace</EDID>
+      <REC id="32">RACE:FMRN</REC>
+      <Source>Eyebrows - Full</Source>
+      <Dest>Obočí - Celé</Dest>
+    </String>
+    <String List="0" sID="033982">
+      <EDID>GhoulRace</EDID>
+      <REC id="56">RACE:FMRN</REC>
+      <Source>Mouth - Bottom</Source>
+      <Dest>Ústa - Spodní</Dest>
+    </String>
+    <String List="0" sID="0339B5">
+      <EDID>GhoulRace</EDID>
+      <REC id="60">RACE:FMRN</REC>
+      <Source>Eyelids - Top</Source>
+      <Dest>Oční víčka - Vrchní</Dest>
+    </String>
+    <String List="0" sID="0339D5">
+      <EDID>GhoulRace</EDID>
+      <REC id="17">RACE:FMRN</REC>
+      <Source>Cheekbones - Back</Source>
+      <Dest>Lícní kosti - Zadní</Dest>
+    </String>
+    <String List="0" sID="0339E4">
+      <EDID>GhoulRace</EDID>
+      <REC id="1">RACE:FMRN</REC>
+      <Source>Eyebrows - Inner</Source>
+      <Dest>Obočí - Vnitřní</Dest>
+    </String>
+    <String List="0" sID="0339E7">
+      <EDID>GhoulRace</EDID>
+      <REC id="49">RACE:FMRN</REC>
+      <Source>Cheekbones - Back</Source>
+      <Dest>Lícní kosti - Zadní</Dest>
+    </String>
+    <String List="0" sID="033A4D">
+      <EDID>GhoulRace</EDID>
+      <REC id="58">RACE:FMRN</REC>
+      <Source>Face - Lower</Source>
+      <Dest>Tvář - Spodní</Dest>
+    </String>
+    <String List="0" sID="033A60">
+      <EDID>GhoulRace</EDID>
+      <REC id="47">RACE:FMRN</REC>
+      <Source>Neck</Source>
+      <Dest>Krk</Dest>
+    </String>
+    <String List="0" sID="033A83">
+      <EDID>GhoulRace</EDID>
+      <REC id="35">RACE:FMRN</REC>
+      <Source>Cheekbones</Source>
+      <Dest>Lícní kosti</Dest>
+    </String>
+    <String List="0" sID="033A88">
+      <EDID>GhoulRace</EDID>
+      <REC id="11">RACE:FMRN</REC>
+      <Source>Jaw - Outer</Source>
+      <Dest>Čelist - Vnější</Dest>
+    </String>
+    <String List="0" sID="033A89">
+      <EDID>GhoulRace</EDID>
+      <REC id="53">RACE:FMRN</REC>
+      <Source>Mouth - Full</Source>
+      <Dest>Ústa - Celá</Dest>
+    </String>
+    <String List="0" sID="033AA0">
+      <EDID>GhoulRace</EDID>
+      <REC id="9">RACE:FMRN</REC>
+      <Source>Nose - Full</Source>
+      <Dest>Nos - Celý</Dest>
+    </String>
+    <String List="0" sID="033B06">
+      <EDID>GhoulRace</EDID>
+      <REC id="54">RACE:FMRN</REC>
+      <Source>Mouth - Corners</Source>
+      <Dest>Ústa - Koutky</Dest>
+    </String>
+    <String List="0" sID="033B32">
+      <EDID>GhoulRace</EDID>
+      <REC id="38">RACE:FMRN</REC>
+      <Source>Ears - Top</Source>
+      <Dest>Uši - Vrchol</Dest>
+    </String>
+    <String List="0" sID="033B4D">
+      <EDID>GhoulRace</EDID>
+      <REC id="25">RACE:FMRN</REC>
+      <Source>Forehead</Source>
+      <Dest>Čelo</Dest>
+    </String>
+    <String List="0" sID="033B7A">
+      <EDID>GhoulRace</EDID>
+      <REC id="7">RACE:FMRN</REC>
+      <Source>Ears - Middle</Source>
+      <Dest>Uši - Střed</Dest>
+    </String>
+    <String List="0" sID="033BD0">
+      <EDID>GhoulRace</EDID>
+      <REC id="22">RACE:FMRN</REC>
+      <Source>Mouth - Corners</Source>
+      <Dest>Ústa - Koutky</Dest>
+    </String>
+    <String List="0" sID="033CAA">
+      <EDID>FortuneFinder04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Fortune Finder</Source>
+      <Dest>Zlatokop</Dest>
+    </String>
+    <String List="0" sID="033DA2">
+      <EDID>GeneralGameplay24Resting</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Need to pass some some time in a hurry? Using any piece of unowned furniture will allow you to "Wait" for up to 24 hours.</Source>
+      <Dest>Nutně potřebujete zabít čas? Jakýkoli kus opuštěného nábytku Vám pomůže "Vyčkat" až 24 hodin.</Dest>
+    </String>
+    <String List="0" sID="033DC8">
+      <EDID>GlowingLootDrop</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Glowing Loot Drop</Source>
+      <Dest>Zářící kořist</Dest>
+    </String>
+    <String List="0" sID="033EBC">
+      <EDID>GammaGunEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Damage Type Gamma</Source>
+      <Dest>Gama poškození</Dest>
+    </String>
+    <String List="0" sID="033ED4">
+      <EDID>GlowingLootDropEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Drop Glowing Loot</Source>
+      <Dest>Drop Glowing Loot</Dest>
+    </String>
+    <String List="0" sID="033EEF">
+      <EDID>FoodPackInstitute</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Institute Food Packet</Source>
+      <Dest>Svačinový balíček z Institutu</Dest>
+    </String>
+    <String List="0" sID="0340A7" Partial="1">
+      <EDID>GammaGun</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>MS09JackRadiation</Source>
+      <Dest>MS09JackRadiation</Dest>
+    </String>
+    <String List="0" sID="0343B8">
+      <EDID>FortifyResistEnergyFood</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Energy Resist Food</Source>
+      <Dest>Fortify Energy Resist Food</Dest>
+    </String>
+    <String List="0" sID="0343DD" Partial="1">
+      <EDID>GammaGun</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>MS09ForcePush</Source>
+      <Dest>MS09ForcePush</Dest>
+    </String>
+    <String List="0" sID="03457D">
+      <EDID>GeneralGameplay25DangerousSouth</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>The Commonwealth is a dangerous place, but tends to get considerably more dangerous the farther south you travel...</Source>
+      <Dest>Commonwealth je nebezpečné místo a směrem na jih se ohrožení výrazně zvyšuje...</Dest>
+    </String>
+    <String List="0" sID="03460C">
+      <EDID>GeneralGameplay26CookedMeat</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>The meat obtained from many of the Wasteland's animals can be specially prepared at Cooking Stations, and turned into food items that can heal radiation damage and provide unique bonuses.</Source>
+      <Dest>Maso ze zvířat z Pustiny lze upravit v Kuchařském stanovišti a proměnit ho v pokrmy léčící zranění z radiace a poskytující různorodé bonusy.</Dest>
+    </String>
+    <String List="0" sID="03465C">
+      <EDID>Green</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Green</Source>
+      <Dest>Zelená</Dest>
+    </String>
+    <String List="0" sID="0346B1">
+      <EDID>FurnitureTesterFemale</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Furniture Tester</Source>
+      <Dest>Tester nábytku</Dest>
+    </String>
+    <String List="0" sID="0346CF">
+      <EDID>FortHagenMapMarker001</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Fort Hagen Filling Station</Source>
+      <Dest>Čerpací stanice v pevnosti Hagen</Dest>
+    </String>
+    <String List="0" sID="0346DE">
+      <EDID>GatlingLaser</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="034705">
+      <EDID>GatlingLaser</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardně epický</Dest>
+    </String>
+    <String List="0" sID="03472B" Partial="1">
+      <EDID>GammaGun</EDID>
+      <REC id="6">WEAP:FULL</REC>
+      <Source>MS09ForcePush Epic</Source>
+      <Dest>MS09ForcePush Epic</Dest>
+    </String>
+    <String List="0" sID="0347C1" Partial="1">
+      <EDID>GammaGun</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>MS09JackRadiation Epic</Source>
+      <Dest>MS09JackRadiation Epic</Dest>
+    </String>
+    <String List="0" sID="0347F6">
+      <EDID>GaussRifle</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="0348F2">
+      <EDID>GammaGun</EDID>
+      <REC id="7">WEAP:FULL</REC>
+      <Source>Standard Epic - Grip Better</Source>
+      <Dest>Standardní epická - vylepšená rukojeť</Dest>
+    </String>
+    <String List="0" sID="034920">
+      <EDID>GammaGun</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Standard Epic - Dish Long</Source>
+      <Dest>Standardně epické - Prodloužení hlavně</Dest>
+    </String>
+    <String List="0" sID="034B30">
+      <EDID>GreenHsFlowerPot_Static01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Pot</Source>
+      <Dest>Květináč</Dest>
+    </String>
+    <String List="0" sID="034D5B">
+      <EDID>FortifyActorSpeedMult</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Actor Speed Mult</Source>
+      <Dest>Fortify Actor Speed Mult</Dest>
+    </String>
+    <String List="0" sID="034D99">
+      <EDID>GlowingOneHealingRadiationBurst</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Burst</Source>
+      <Dest>Radiation Burst</Dest>
+    </String>
+    <String List="0" sID="034EDC">
+      <EDID>GaussRifle</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Sniper</Source>
+      <Dest>Odstřelovací</Dest>
+    </String>
+    <String List="0" sID="034F03">
+      <EDID>GaussRifle</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="034F3E">
+      <EDID>GlowingSeaCraterLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Atom's Glow</Source>
+      <Dest>Atomova záře</Dest>
+    </String>
+    <String List="0" sID="035048">
+      <EDID>GRailRamp01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="03506C">
+      <EDID>GlowingSeaPlayerRadiationOvercastEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Glowing Sea Radiation</Dest>
+    </String>
+    <String List="0" sID="035073">
+      <EDID>GRailCurveRampR01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035081">
+      <EDID>GRailCurveRampR01SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035087">
+      <EDID>GRailStrShort01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0350A9">
+      <EDID>GRailRamp02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0350C2">
+      <EDID>GhoulChildRace</EDID>
+      <REC id="1">RACE:TTGP</REC>
+      <Source>Skin tone</Source>
+      <Dest>Barva kůže</Dest>
+    </String>
+    <String List="0" sID="0350CA">
+      <EDID>GRailRamp01SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0350D3">
+      <EDID>Giggle</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>Giggle</Source>
+      <Dest>Chichot</Dest>
+    </String>
+    <String List="0" sID="0350FB">
+      <EDID>GlowingSeaPlayerRadiationRadStorm</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Radiace Svítícího moře</Dest>
+    </String>
+    <String List="0" sID="0350FC">
+      <EDID>GRailEnd01Haz</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035112">
+      <EDID>GRailEnd01R</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035134">
+      <EDID>GRailRamp02SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="03514E">
+      <EDID>GlowingSeaPlayerRadiationFoggy</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Radiace Svítícího moře</Dest>
+    </String>
+    <String List="0" sID="03517A">
+      <EDID>GRailRWCurveOut768Up128L</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0351D2">
+      <EDID>GRailStr01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0351F8">
+      <EDID>GRailCurveShortR01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035202">
+      <EDID>GRailRWCustomBridgeEndL</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="03520D">
+      <EDID>GRailCurveRampL02SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="03521D">
+      <EDID>GRailEnd02R</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035280">
+      <EDID>GRailStr01SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="03528C">
+      <EDID>GRailCurveRampL01SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0352C9">
+      <EDID>GRailCurveRampL01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0352CB">
+      <EDID>GRailPiece01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035390">
+      <EDID>GRailEnd01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0353DB">
+      <EDID>GRailStrShort01SC01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0353E3">
+      <EDID>GlowingSeaPlayerRadiationFoggyEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Glowing Sea Radiation</Dest>
+    </String>
+    <String List="0" sID="0353EA">
+      <EDID>FXEnchFireHitMolotov</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Ench Molotov</Source>
+      <Dest>Vylepšený molotov</Dest>
+    </String>
+    <String List="0" sID="03545F">
+      <EDID>GRailRWCurveOut1280Up176</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035495">
+      <EDID>GlowingSeaPlayerRadiationOvercast</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Glowing Sea Radiation</Source>
+      <Dest>Radiace Svítícího moře</Dest>
+    </String>
+    <String List="0" sID="0354AE">
+      <EDID>FXFireHitVisualsMolotov</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>FX Shader Fire Molotov</Source>
+      <Dest>FX Shader Fire Molotov</Dest>
+    </String>
+    <String List="0" sID="0354BC">
+      <EDID>GRailCurveRampL02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0354BE">
+      <EDID>GRailEnd02Haz</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="0354D9">
+      <EDID>GRailEnd02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Guard Rail</Source>
+      <Dest>Stážce železnice</Dest>
+    </String>
+    <String List="0" sID="035513">
+      <EDID>FortifyAimStability</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fortify Aim Stability</Source>
+      <Dest>Fortify Aim Stability</Dest>
+    </String>
+    <String List="0" sID="035696">
+      <EDID>FortifyXPBonusFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+2% XP gain for 2 hours.</Source>
+      <Dest>+2% XP gain for 2 hours.</Dest>
+    </String>
+    <String List="0" sID="0356F3">
+      <EDID>GrapeMentats</EDID>
+      <REC>ALCH:DNAM</REC>
+      <Source>all Mentats chems</Source>
+      <Dest>všechny Mentaty</Dest>
+    </String>
+    <String List="0" sID="0356FC">
+      <EDID>FortifyResistRadsFood</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;Mag&gt; Radiation Resistance.</Source>
+      <Dest>+&lt;Mag&gt; Radiation Resistance.</Dest>
+    </String>
+    <String List="0" sID="035763">
+      <EDID>GhoulChildRace</EDID>
+      <REC id="0">RACE:TTGP</REC>
+      <Source>SkinTints</Source>
+      <Dest>OdstínyKůže</Dest>
+    </String>
+    <String List="0" sID="03576D">
+      <EDID>FortifyPerceptionPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Perception</Source>
+      <Dest>Psycho: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="03576E">
+      <EDID>FortifyDamageResistMedX</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>MedX: Fortify Damage Resistance</Source>
+      <Dest>MedX: Fortify Damage Resistance</Dest>
+    </String>
+    <String List="0" sID="03576F">
+      <EDID>FortifyCritChance25xOverdrive</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Overdrive: Fortify Crit Chance +25%</Source>
+      <Dest>Overdrive: Fortify Crit Chance +25%</Dest>
+    </String>
+    <String List="0" sID="035770">
+      <EDID>FortifyRadHealthMaxPsycho</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="035771">
+      <EDID>FortifyHealthBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Health</Source>
+      <Dest>Buff: Fortify Health</Dest>
+    </String>
+    <String List="0" sID="035772">
+      <EDID>FortifyVATSAccuracyMentats</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+10% VATS Accuracy</Source>
+      <Dest>+10% VATS Accuracy</Dest>
+    </String>
+    <String List="0" sID="035773">
+      <EDID>FortifyCharismaDaytripper</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="035774">
+      <EDID>FortifyRadHealthMaxBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Rad Health Max</Source>
+      <Dest>Buff: Fortify Rad Health Max</Dest>
+    </String>
+    <String List="0" sID="035777">
+      <EDID>FortifyActionPointRateJet</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>+AP Regen</Source>
+      <Dest>+AP Regen</Dest>
+    </String>
+    <String List="0" sID="035778">
+      <EDID>FortifyLuckXCell</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Luck</Source>
+      <Dest>+&lt;mag&gt; Luck</Dest>
+    </String>
+    <String List="0" sID="03577A">
+      <EDID>FortifyIntelligenceXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Intelligence</Source>
+      <Dest>XCell: Fortify Intelligence</Dest>
+    </String>
+    <String List="0" sID="03577C">
+      <EDID>FortifyCharismaXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Charisma</Source>
+      <Dest>XCell: Fortify Charisma</Dest>
+    </String>
+    <String List="0" sID="03577D">
+      <EDID>FortifyRadHealthMaxBuff</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="03577F">
+      <EDID>FortifyCharismaXCell</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="035780">
+      <EDID>FortifyCharismaMentats</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="035781">
+      <EDID>FortifyLuckXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Luck</Source>
+      <Dest>XCell: Fortify Luck</Dest>
+    </String>
+    <String List="0" sID="035782">
+      <EDID>FortifyLuckDaytripper</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Luck</Source>
+      <Dest>+&lt;mag&gt; Luck</Dest>
+    </String>
+    <String List="0" sID="035783">
+      <EDID>FortifyActionPointsJet</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="035784">
+      <EDID>FortifyDamageResistPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Damage Resistance</Source>
+      <Dest>Psycho: Fortify Damage Resistance</Dest>
+    </String>
+    <String List="0" sID="035785">
+      <EDID>FortifyBarterMentats</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Buy for 10% lower, Sell for 10% Higher</Source>
+      <Dest>Buy for 10% lower, Sell for 10% Higher</Dest>
+    </String>
+    <String List="0" sID="035786">
+      <EDID>FortifyPerceptionBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Perception</Source>
+      <Dest>Buff: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="035787">
+      <EDID>FortifyCharismaMentats</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Mentats: Fortify Charisma</Source>
+      <Dest>Mentats: Fortify Charisma</Dest>
+    </String>
+    <String List="0" sID="035788">
+      <EDID>FortifyBarterMentats</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buy for 10% lower, Sell for 10% Higher</Source>
+      <Dest>Buy for 10% lower, Sell for 10% Higher</Dest>
+    </String>
+    <String List="0" sID="035789">
+      <EDID>FortifyStrengthXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Strength</Source>
+      <Dest>XCell: Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="03578B">
+      <EDID>FortifyPerceptionDaddyO</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DaddyO: Fortify Perception</Source>
+      <Dest>DaddyO: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="03578C">
+      <EDID>FortifyStrengthPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Strength</Source>
+      <Dest>Psycho: Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="03578D">
+      <EDID>FortifyAgilityXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Agility</Source>
+      <Dest>XCell: Fortify Agility</Dest>
+    </String>
+    <String List="0" sID="035790">
+      <EDID>FortifyActionPointsPsycho</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="035791">
+      <EDID>FortifyPerceptionBuzzBites</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>BuzzBites: Fortify Perception</Source>
+      <Dest>BuzzBites: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="035792">
+      <EDID>FortifyCharismaDaytripper</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Daytripper: Fortify Charisma</Source>
+      <Dest>Daytripper: Fortify Charisma</Dest>
+    </String>
+    <String List="0" sID="035793">
+      <EDID>FortifyEnduranceBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Endurance</Source>
+      <Dest>Buff: Fortify Endurance</Dest>
+    </String>
+    <String List="0" sID="035795">
+      <EDID>FortifyLuckDaytripper</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Daytripper: Fortify Luck</Source>
+      <Dest>Daytripper: Fortify Luck</Dest>
+    </String>
+    <String List="0" sID="035796">
+      <EDID>FortifyEnduranceXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Endurance</Source>
+      <Dest>XCell: Fortify Endurance</Dest>
+    </String>
+    <String List="0" sID="035797">
+      <EDID>FortifyActionPointsBuff</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="035799">
+      <EDID>FortifyIntelligenceDaddyO</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DaddyO: Fortify Intelligence</Source>
+      <Dest>DaddyO: Fortify Intelligence</Dest>
+    </String>
+    <String List="0" sID="03579A">
+      <EDID>FortifyHealthBuff</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="03579C">
+      <EDID>FortifyAgilityXCell</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="03579D">
+      <EDID>FortifyActionPointsPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Action Points</Source>
+      <Dest>Psycho: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="03579E">
+      <EDID>FortifyRadHealthMaxPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Rad Health Max</Source>
+      <Dest>Psycho: Fortify Rad Health Max</Dest>
+    </String>
+    <String List="0" sID="03579F">
+      <EDID>FortifyPerceptionMentats</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Mentats: Fortify Perception</Source>
+      <Dest>Mentats: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="0357A0">
+      <EDID>FortifyPerceptionXCell</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>XCell: Fortify Perception</Source>
+      <Dest>XCell: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="0357A2">
+      <EDID>FortifyActionPointsBuzzBites</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max AP</Source>
+      <Dest>Max AP</Dest>
+    </String>
+    <String List="0" sID="0357A3">
+      <EDID>FortifyDamageResistMedX</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>DMG Resist</Source>
+      <Dest>DMG Resist</Dest>
+    </String>
+    <String List="0" sID="0357A4">
+      <EDID>FortifyHealthPsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Health</Source>
+      <Dest>Psycho: Fortify Health</Dest>
+    </String>
+    <String List="0" sID="0357A5">
+      <EDID>FortifyStrengthBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Strength</Source>
+      <Dest>Buff: Fortify Strength</Dest>
+    </String>
+    <String List="0" sID="0357A6">
+      <EDID>FortifyActionPointsBuff</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Buff: Fortify Action Points</Source>
+      <Dest>Buff: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="0357A7">
+      <EDID>FortifyDamageResistPsycho</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>DMG Resist</Source>
+      <Dest>DMG Resist</Dest>
+    </String>
+    <String List="0" sID="0357A8">
+      <EDID>FortifyEndurancePsycho</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Psycho: Fortify Endurance</Source>
+      <Dest>Psycho: Fortify Endurance</Dest>
+    </String>
+    <String List="0" sID="0357A9">
+      <EDID>FortifyActionPointsBuzzBites</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>BuzzBites: Fortify Action Points</Source>
+      <Dest>BuzzBites: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="0357AA">
+      <EDID>FortifyVATSAccuracyMentats</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Mentats: Fortify VATS Accuracy</Source>
+      <Dest>Mentats: Fortify VATS Accuracy</Dest>
+    </String>
+    <String List="0" sID="0357AB">
+      <EDID>FortifyCritChance25xOverdrive</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+25% Critical Chance</Source>
+      <Dest>+25% Critical Chance</Dest>
+    </String>
+    <String List="0" sID="0357AD">
+      <EDID>FortifyActionPointRateJet</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Increased Action Points recovery rate</Source>
+      <Dest>Increased Action Points recovery rate</Dest>
+    </String>
+    <String List="0" sID="0357AE">
+      <EDID>FortifyActionPointsJet</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Jet: Fortify Action Points</Source>
+      <Dest>Jet: Fortify Action Points</Dest>
+    </String>
+    <String List="0" sID="0357AF">
+      <EDID>FortifyIntelligenceMentats</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Mentats: Fortify Intelligence</Source>
+      <Dest>Mentats: Fortify Intelligence</Dest>
+    </String>
+    <String List="0" sID="0357B0">
+      <EDID>FortifyHealthPsycho</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Max HP</Source>
+      <Dest>Max HP</Dest>
+    </String>
+    <String List="0" sID="0357B7">
+      <EDID>FortifyMeleeDamageFury</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Melee Damage +50%</Source>
+      <Dest>Melee Damage +50%</Dest>
+    </String>
+    <String List="0" sID="0357B8">
+      <EDID>FortifySneakAttackBonusCalmex</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>+2x Sneak Attack Multiplier</Source>
+      <Dest>+2x Sneak Attack Multiplier</Dest>
+    </String>
+    <String List="0" sID="0357C4">
+      <EDID>FortifyDamageResistFury</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>DMG Resist</Source>
+      <Dest>DMG Resist</Dest>
+    </String>
+    <String List="0" sID="0357C8">
+      <EDID>FortifyMeleeDamageFury</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Increases Melee Damage by 50%</Source>
+      <Dest>Increases Melee Damage by 50%</Dest>
+    </String>
+    <String List="0" sID="0357CA">
+      <EDID>FortifyDamageResistFury</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fury: Fortify Damage Resistance</Source>
+      <Dest>Fury: Fortify Damage Resistance</Dest>
+    </String>
+    <String List="0" sID="0357D1">
+      <EDID>FortifyPerceptionCalmex</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Calmex: Fortify Perception</Source>
+      <Dest>Calmex: Fortify Perception</Dest>
+    </String>
+    <String List="0" sID="0357D2">
+      <EDID>FortifySneakAttackBonusCalmex</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+2x Sneak Attack Multiplier</Source>
+      <Dest>+2x Sneak Attack Multiplier</Dest>
+    </String>
+    <String List="0" sID="0357D4">
+      <EDID>FortifyResistRadsRadX</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>RadX: Radiation Resistance</Source>
+      <Dest>RadX: Radiation Resistance</Dest>
+    </String>
+    <String List="0" sID="0357D9">
+      <EDID>FortifyAgilityCalmex</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Calmex: Fortify Agility</Source>
+      <Dest>Calmex: Fortify Agility</Dest>
+    </String>
+    <String List="0" sID="0357DC">
+      <EDID>FortifyAgilityCalmex</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="03603A">
+      <EDID>GeneralGameplay27SkullEnemies</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>If there's a skull displayed next to an enemy's name, it means they're several levels higher than you, and may be difficult to defeat in combat. In such cases, running away and returning when you're stronger might be the wisest course of action.</Source>
+      <Dest>Ikonka lebky vedle jména nepřítele indikuje o mnoho vyšší úroveň než je Vaše, což může vést k velmi nerovnému souboji. Občas se vyplatí vzít nohy na ramena a vrátit se o něco později.</Dest>
+    </String>
+    <String List="0" sID="036299">
+      <EDID>GhoulRace</EDID>
+      <REC id="6">RACE:TTGP</REC>
+      <Source>FaceDetails</Source>
+      <Dest>DetailyTváře</Dest>
+    </String>
+    <String List="0" sID="03629A">
+      <EDID>GhoulRace</EDID>
+      <REC id="19">RACE:TTGP</REC>
+      <Source>Scar5</Source>
+      <Dest>Jizva5</Dest>
+    </String>
+    <String List="0" sID="03629C">
+      <EDID>GhoulRace</EDID>
+      <REC id="21">RACE:TTGP</REC>
+      <Source>Splotchy1</Source>
+      <Dest>Pihy1</Dest>
+    </String>
+    <String List="0" sID="03629D">
+      <EDID>GhoulRace</EDID>
+      <REC id="25">RACE:TTGP</REC>
+      <Source>Spots2</Source>
+      <Dest>Pupínky2</Dest>
+    </String>
+    <String List="0" sID="03629E">
+      <EDID>GhoulRace</EDID>
+      <REC id="27">RACE:TTGP</REC>
+      <Source>Skin tone</Source>
+      <Dest>Barva kůže</Dest>
+    </String>
+    <String List="0" sID="03629F">
+      <EDID>GhoulRace</EDID>
+      <REC id="5">RACE:TTGP</REC>
+      <Source>Scar5</Source>
+      <Dest>Jizva5</Dest>
+    </String>
+    <String List="0" sID="0362A0">
+      <EDID>GhoulRace</EDID>
+      <REC id="22">RACE:TTGP</REC>
+      <Source>Splotchy2</Source>
+      <Dest>Pihy2</Dest>
+    </String>
+    <String List="0" sID="0362A2">
+      <EDID>GhoulRace</EDID>
+      <REC id="11">RACE:TTGP</REC>
+      <Source>Spots2</Source>
+      <Dest>Pupínky2</Dest>
+    </String>
+    <String List="0" sID="0362A3">
+      <EDID>GhoulRace</EDID>
+      <REC id="18">RACE:TTGP</REC>
+      <Source>Scar4</Source>
+      <Dest>Jizva4</Dest>
+    </String>
+    <String List="0" sID="0362A4">
+      <EDID>GhoulRace</EDID>
+      <REC id="15">RACE:TTGP</REC>
+      <Source>Scar1</Source>
+      <Dest>Jizva1</Dest>
+    </String>
+    <String List="0" sID="0362A5">
+      <EDID>GhoulRace</EDID>
+      <REC id="26">RACE:TTGP</REC>
+      <Source>SkinTints</Source>
+      <Dest>SkinTints</Dest>
+    </String>
+    <String List="0" sID="0362A6">
+      <EDID>GhoulRace</EDID>
+      <REC id="0">RACE:TTGP</REC>
+      <Source>Scars</Source>
+      <Dest>Jizvy</Dest>
+    </String>
+    <String List="0" sID="0362A7">
+      <EDID>GhoulRace</EDID>
+      <REC id="9">RACE:TTGP</REC>
+      <Source>Splotchy3</Source>
+      <Dest>Pihy3</Dest>
+    </String>
+    <String List="0" sID="0362A8">
+      <EDID>GhoulRace</EDID>
+      <REC id="4">RACE:TTGP</REC>
+      <Source>Scar4</Source>
+      <Dest>Jizva4</Dest>
+    </String>
+    <String List="0" sID="0362AB">
+      <EDID>GhoulRace</EDID>
+      <REC id="14">RACE:TTGP</REC>
+      <Source>Scars</Source>
+      <Dest>Jizvy</Dest>
+    </String>
+    <String List="0" sID="0362AE">
+      <EDID>GhoulRace</EDID>
+      <REC id="20">RACE:TTGP</REC>
+      <Source>FaceDetails</Source>
+      <Dest>DetailyTváře</Dest>
+    </String>
+    <String List="0" sID="0362B2">
+      <EDID>GhoulRace</EDID>
+      <REC id="12">RACE:TTGP</REC>
+      <Source>SkinTints</Source>
+      <Dest>SkinTints</Dest>
+    </String>
+    <String List="0" sID="0362B3">
+      <EDID>GhoulRace</EDID>
+      <REC id="10">RACE:TTGP</REC>
+      <Source>Spots1</Source>
+      <Dest>Pupínky1</Dest>
+    </String>
+    <String List="0" sID="0362B4">
+      <EDID>GhoulRace</EDID>
+      <REC id="2">RACE:TTGP</REC>
+      <Source>Scar2</Source>
+      <Dest>Jizva2</Dest>
+    </String>
+    <String List="0" sID="0362B5">
+      <EDID>GhoulRace</EDID>
+      <REC id="23">RACE:TTGP</REC>
+      <Source>Splotchy3</Source>
+      <Dest>Pihy3</Dest>
+    </String>
+    <String List="0" sID="0362B6">
+      <EDID>GhoulRace</EDID>
+      <REC id="13">RACE:TTGP</REC>
+      <Source>Skin tone</Source>
+      <Dest>Barva kůže</Dest>
+    </String>
+    <String List="0" sID="0362B7">
+      <EDID>GhoulRace</EDID>
+      <REC id="17">RACE:TTGP</REC>
+      <Source>Scar3</Source>
+      <Dest>Jizva3</Dest>
+    </String>
+    <String List="0" sID="0362B9">
+      <EDID>GhoulRace</EDID>
+      <REC id="24">RACE:TTGP</REC>
+      <Source>Spots1</Source>
+      <Dest>Pupínky1</Dest>
+    </String>
+    <String List="0" sID="0362BA">
+      <EDID>GhoulRace</EDID>
+      <REC id="7">RACE:TTGP</REC>
+      <Source>Splotchy1</Source>
+      <Dest>Pihy1</Dest>
+    </String>
+    <String List="0" sID="0362BB">
+      <EDID>GhoulRace</EDID>
+      <REC id="8">RACE:TTGP</REC>
+      <Source>Splotchy2</Source>
+      <Dest>Pihy2</Dest>
+    </String>
+    <String List="0" sID="0362BC">
+      <EDID>GhoulRace</EDID>
+      <REC id="1">RACE:TTGP</REC>
+      <Source>Scar1</Source>
+      <Dest>Jizva1</Dest>
+    </String>
+    <String List="0" sID="0362BD">
+      <EDID>GhoulRace</EDID>
+      <REC id="16">RACE:TTGP</REC>
+      <Source>Scar2</Source>
+      <Dest>Jizva2</Dest>
+    </String>
+    <String List="0" sID="0362BE">
+      <EDID>GhoulRace</EDID>
+      <REC id="3">RACE:TTGP</REC>
+      <Source>Scar3</Source>
+      <Dest>Jizva3</Dest>
+    </String>
+    <String List="0" sID="036497">
+      <EDID>GeneralGameplay28WeaponRename</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Grown attached to a weapon? Give it a custom name at any Weapons Workbench.</Source>
+      <Dest>Oblíbil jste si nějakou zbraň? Na jakémkoli Ponku na úpravu zbraní ji můžete libovolně pojmenovat.</Dest>
+    </String>
+    <String List="1" sID="013723">
+      <EDID>Ghoulish01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Sure, you're still human - on the outside! Radiation now regenerates your lost Health.</Source>
+      <Dest>Ano, stále jste člověkem - vizuálně! Radiace regeneruje ztracené zdraví.</Dest>
+    </String>
+    <String List="1" sID="014933" Partial="1">
+      <EDID>FollowerState</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>See globals "iFollower_Com_&lt;command&gt;" and the FollowersScript</Source>
+      <Dest>See globals "iFollower_Com_&lt;command&gt;" and the FollowersScript</Dest>
+    </String>
+    <String List="1" sID="016BE0">
+      <EDID>FuseBox_Notification</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This requires a Power Relay Coil.</Source>
+      <Dest>Vyžaduje cívku elektrického relé</Dest>
+    </String>
+    <String List="1" sID="016DAC">
+      <EDID>FourLeafClover01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Feeling lucky? You should! Each hit in V.A.T.S. has a chance of filling your Critical meter.</Source>
+      <Dest>Myslíte, že se Vám štěstí lepí na paty? Je to pravda! Každý zásah v režimu VATS může naplnit schopnost kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="017CD0">
+      <EDID>FollowersCompanionMenuTactics</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické menu dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="01A2E5">
+      <EDID>GateLocked</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This gate can be accessed remotely.</Source>
+      <Dest>Tato brána může mít ovládána vzdáleně.</Dest>
+    </String>
+    <String List="1" sID="01A559">
+      <EDID>FollowersCompanionMenuWait</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické menu dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="01D1F2">
+      <EDID>FollowersCompanionMenuMain</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Temp Companion Command Menu</Source>
+      <Dest>Velící menu dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="01D39A">
+      <EDID>FollowersCompanionMenuFollow</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Temp Companion Tactics Menu</Source>
+      <Dest>Taktické menu dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="01DBDD">
+      <EDID>GenericBrawlPreventLimbDamage</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Limb damage is reduced by 100%.</Source>
+      <Dest>Poškození končetin je sníženo o 100%.</Dest>
+    </String>
+    <String List="1" sID="01E943">
+      <EDID>GenericBrawlWinner</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>add to NPC if they beat player in brawl</Source>
+      <Dest>přidat k NPC pokud porazí hráče v bitce</Dest>
+    </String>
+    <String List="1" sID="02185E">
+      <EDID>FortuneFinder01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You've learned to discover the Wasteland's hidden wealth, and find more bottle caps in containers.</Source>
+      <Dest>Naučili jste se, jak objevit skrytá bohatství Pustiny a získat více zátek z beden.</Dest>
+    </String>
+    <String List="1" sID="022920">
+      <EDID>FollowerForceGreetOn</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>used by FollowersForcegreetPackage - set to 1 to turn on forcegreet&#xD;
+</Source>
+      <Dest>využívá FollowersForcegreetPackage - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+    </String>
+    <String List="1" sID="02573B">
+      <EDID>ForceGreetOn</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>used by ForceGreetPatrolConditional - set to 1 to turn on forcegreet&#xD;
+</Source>
+      <Dest>využívá ForceGreetPatrolConditional - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+    </String>
+    <String List="1" sID="025CA0">
+      <EDID>GenericBrawlLoser</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>add to NPC if they lose to player in brawl</Source>
+      <Dest>přidat k NPC pokud jej hráč porazí v bitce</Dest>
+    </String>
+    <String List="1" sID="027A85" Partial="1">
+      <EDID>Followers</EDID>
+      <REC>QUST:CNAM</REC>
+      <Source>Preston Debug</Source>
+      <Dest>Preston Debug</Dest>
+    </String>
+    <String List="1" sID="02B316">
+      <EDID>FortifyMeleeDamagePercChemPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Melee weapons do 50% more damage.</Source>
+      <Dest>Zbraně na blízko způsobují o 50% větší zranění.</Dest>
+    </String>
+    <String List="1" sID="02B34F">
+      <EDID>FortifyBuySell10ChemPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Buy for 10% lower and sell for 10% higher.</Source>
+      <Dest>Nakupujte o 10% levněji a prodávejte o 10% dráže.</Dest>
+    </String>
+    <String List="1" sID="02B41E">
+      <EDID>FortifyCritChance25xChemPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>25% Crit Chance</Source>
+      <Dest>25% Šance na kritický zásah</Dest>
+    </String>
+    <String List="1" sID="02B427">
+      <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Additional x2 damage with sneak attacks.</Source>
+      <Dest>Zvýšení poškození při útoku zkrytu x2.</Dest>
+    </String>
+    <String List="1" sID="02B4AF">
+      <EDID>Ghoulish02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Radiation now regenerates even more of your lost Health.</Source>
+      <Dest>Radiace regeneruje ještě více ztraceného zdraví.</Dest>
+    </String>
+    <String List="1" sID="02B609">
+      <EDID>FourLeafClover02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Each hit in V.A.T.S. now has an even better chance of filling your Critical meter.</Source>
+      <Dest>Každý zásah ve V.A.T.S. má ještě vyšší šanci na naplnění schopnosti kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="02B70F">
+      <EDID>FollowersCompanionDismissMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=Companion&gt; is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
+      <Dest>&lt;Alias=Companion&gt; jde do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+    </String>
+    <String List="1" sID="02B784">
+      <EDID>Ghoulish03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Radiation now regenerates even more of your lost Health, and some Feral Ghouls will randomly become friendly.</Source>
+      <Dest>Radiace regeneruje ještě více ztraceného zdraví a někteří divocí ghúlové se začnou chovat přátelsky.</Dest>
+    </String>
+    <String List="1" sID="02B79D">
+      <EDID>FourLeafClover03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Each hit in V.A.T.S. now has a very good chance of filling your Critical meter.</Source>
+      <Dest>Každý zásah ve V.A.T.S. má velmi dobrou šanci na naplnění schopnosti kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="02DE02">
+      <EDID>FollowersDogmeatCompanionDismissMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Dogmeat is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
+      <Dest>Žeryk běží do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+    </String>
+    <String List="1" sID="02E46C">
+      <EDID>FollowersCompanionAvailableMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=AvailableMessageActor&gt; is available to be your companion.</Source>
+      <Dest>&lt;Alias=AvailableMessageActor&gt; se může stát společníkem.</Dest>
+    </String>
+    <String List="1" sID="02EE8C">
+      <EDID>Freeze</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>How close to frozen you are from Cryo weapons</Source>
+      <Dest>Jak blízko jste umrznutí při používání Kryo zbraní</Dest>
+    </String>
+    <String List="1" sID="02F9AD">
+      <EDID>FortuneFinder02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more bottle caps in containers.</Source>
+      <Dest>V bedýnkách naleznete více zátek.</Dest>
+    </String>
+    <String List="1" sID="030454">
+      <EDID>FortuneFinder03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more bottle caps in containers.</Source>
+      <Dest>V bedýnkách naleznete více zátek.</Dest>
+    </String>
+    <String List="1" sID="030796">
+      <EDID>Fury</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+50% Melee Damage, +25 Damage Resist and -5 Perception for 8 minutes.</Source>
+      <Dest>+50% poškození na blízko, +25 odolnost vůči poškození a -5 vnímání na 8 minut.</Dest>
+    </String>
+    <String List="1" sID="0315C8">
+      <EDID>FortifyVATSAccuracyChemPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>10% Additional Accuracy while in VATS</Source>
+      <Dest>Zvýšení přesnosti střelby o 10% v režimu VATS</Dest>
+    </String>
+    <String List="1" sID="031945">
+      <EDID>FourLeafClover04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Each hit in V.A.T.S. now has an excellent chance of filling your Critical meter.</Source>
+      <Dest>Každý zásah ve V.A.T.S. má vysokou šanci na naplnění schopnosti kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="033422">
+      <EDID>FortifyXPBonusFoodPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>+2% XP earned.</Source>
+      <Dest>+2% získaných ZK.</Dest>
+    </String>
+    <String List="1" sID="033DC3">
+      <EDID>FollowerEndgameForceGreetOn</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>used by FollowersEndgameForcegreetPackage - set to 1 to turn on forcegreet&#xD;
+</Source>
+      <Dest>využívá FollowersEndgameForcegreetPackage - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+    </String>
+    <String List="1" sID="033E17">
+      <EDID>FortuneFinder04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You find even more bottle caps in containers, and there is a chance of enemies exploding in a shower of caps when you kill them.</Source>
+      <Dest>V bedýnkách naleznete více zátek. Zároveň máte šanci, že nepřátele explodují ve sprchu zátek, po té co je zabijete.</Dest>
+    </String>
+    <String List="1" sID="035DDF">
+      <EDID>FollowersCompanionMurderDismissMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=Companion&gt; won't participate in murder.</Source>
+      <Dest>&lt;Alias=Companion&gt; se odmítá účastnit vraždy.</Dest>
+    </String>
+    <String List="1" sID="035DE1">
+      <EDID>FollowersDogmeatCompanionDismissMessageNameUnknown</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Dog is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
+      <Dest>Pes běží do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
