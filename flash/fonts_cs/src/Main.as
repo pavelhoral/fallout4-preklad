@@ -6,6 +6,7 @@ package {
         
         public function Main() {
             Font.registerFont($BRODY);
+            Font.registerFont($Terminal_Font);
         }
 
     }
