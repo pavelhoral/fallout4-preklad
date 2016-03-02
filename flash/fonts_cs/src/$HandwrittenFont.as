@@ -1,7 +1,7 @@
 package {	
     import flash.text.Font;
 
-    [Embed(source='../lib/ShadowsIntoLightTwo-Regular.ttf', fontName='Shadows Into Light', embedAsCFF='false')]
+    [Embed(source='../lib/Caveat-Regular.ttf', fontName='Caveat', embedAsCFF='false')]
     public class $HandwrittenFont extends Font {
     }
 
