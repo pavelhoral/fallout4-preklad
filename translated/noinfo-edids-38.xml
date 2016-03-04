@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="013226">
+      <EDID>zUnusedSubwayTerminalShowcase</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Terminals &amp; Holotapes, Oh My.</Source>
+      <Dest>Terminals &amp; Holotapes, Oh My.</Dest>
+    </String>
+    <String List="0" sID="013467">
+      <EDID>WorkshopStoreWeapon01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Stand</Source>
+      <Dest>Stánek se zbraněmi</Dest>
+    </String>
+    <String List="0" sID="01361E">
+      <EDID>WorkshopRecipeFilterCrafting</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Crafting</Source>
+      <Dest>Výroba</Dest>
+    </String>
+    <String List="0" sID="01362A">
+      <EDID>WorkshopRecipeFilterVendor02Bar</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Food and Drink</Source>
+      <Dest>Jídlo a pití</Dest>
+    </String>
+    <String List="0" sID="013B26">
+      <EDID>WorkshopVendorChestMisc03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="013B8B">
+      <EDID>WorkshopTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Terminal</Source>
+      <Dest>Terminál</Dest>
+    </String>
+    <String List="0" sID="014029">
+      <EDID>WorkshopWaterPurifierLarge</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Water Purifier - Industrial</Source>
+      <Dest>Čistička vody - průmyslová</Dest>
+    </String>
+    <String List="0" sID="0142F4">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Welcome, Administrator.  Targeting Parameters have been erased and set to ADMIN_USER_GROUP::&lt;Token.Name=Faction&gt;</Source>
+      <Dest>Vítejte, administrátore.  Zaměřovací parametry byly vymazány a nastaveny na ADMIN_UŽIVATEL_SKUPINA::&lt;Token.Name=Faction&gt;</Dest>
+    </String>
+    <String List="0" sID="0149A2">
+      <EDID>WrhsDoorSmMetal01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="014D60">
+      <EDID>WorkshopVendorChestClothing02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0152C9">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="1">TERM:BTXT</REC>
+      <Source>             ERROR &#xD;
+&lt;no Protectron connected&gt;  &#xD;
+             ERROR</Source>
+      <Dest>             CHYBA &#xD;
+&lt;nepřipojen žádný protektron&gt;  &#xD;
+             CHYBA</Dest>
+    </String>
+    <String List="0" sID="0155BF">
+      <EDID>YefimBobrov</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Yefim Bobrov</Source>
+      <Dest>Yefim Bobrov</Dest>
+    </String>
+    <String List="0" sID="015991">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="015B92">
+      <EDID>YangtzeLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Yangtze</Source>
+      <Dest>Yangtze</Dest>
+    </String>
+    <String List="0" sID="016115">
+      <EDID>Z1-14</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Z1-14</Source>
+      <Dest>Z1-14</Dest>
+    </String>
+    <String List="0" sID="0161CF">
+      <EDID>WorkshopResourceContainerHostile</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="016217">
+      <EDID>Wrench02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Combination Wrench</Source>
+      <Dest>Očkoplochý klíč</Dest>
+    </String>
+    <String List="0" sID="01621E">
+      <EDID>WorkshopVendorChestWeapon03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01621F">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levé chodidlo</Dest>
+    </String>
+    <String List="0" sID="016388">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01638D">
+      <EDID>Yarn_01_Cotton</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Cotton Yarn</Source>
+      <Dest>Bavlněná příze</Dest>
+    </String>
+    <String List="0" sID="016489">
+      <EDID>WorkshopVendorChestMisc04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="016558">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>Resetting</Source>
+      <Dest>Resetuji</Dest>
+    </String>
+    <String List="0" sID="01673D">
+      <EDID>zWaystation</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Waystation</Source>
+      <Dest>Zastávka</Dest>
+    </String>
+    <String List="0" sID="0168E4">
+      <EDID>workshopScrapRecipe_TirePile</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tires</Source>
+      <Dest>Pneumatiky</Dest>
+    </String>
+    <String List="0" sID="016A50">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="016D8D">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>Gaining root access...</Source>
+      <Dest>Povolení přístupu do kořenového adresáře...</Dest>
+    </String>
+    <String List="0" sID="016DBD">
+      <EDID>WorkshopVendorChestArmor01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="016E32">
+      <EDID>Z2-47</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Z2-47</Source>
+      <Dest>Z2-47</Dest>
+    </String>
+    <String List="0" sID="01703C">
+      <EDID>WorkshopRecipeFilterResource02Water</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Water</Source>
+      <Dest>Voda</Dest>
+    </String>
+    <String List="0" sID="0177E3">
+      <EDID>WorkshopRecipeFilterMisc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="017DC2">
+      <EDID>WorkshopRecipeFilterVendor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stores</Source>
+      <Dest>Obchody</Dest>
+    </String>
+    <String List="0" sID="017E3F">
+      <EDID>YaoGuaiRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Yao Guai</Source>
+      <Dest>Yao Guai</Dest>
+    </String>
+    <String List="0" sID="0182A2">
+      <EDID>WorkshopTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Initializing...</Source>
+      <Dest>Spouštím...</Dest>
+    </String>
+    <String List="0" sID="018456">
+      <EDID>WorkshopRecipeFilterVendor02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Trader</Source>
+      <Dest>Obchodník</Dest>
+    </String>
+    <String List="0" sID="0184ED">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="01866B">
+      <EDID>xxOLDEncSentryBot2AssaultRifles</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sentry Bot</Source>
+      <Dest>Strážní robot</Dest>
+    </String>
+    <String List="0" sID="01872A">
+      <EDID>WorkshopRecipeFilterFurniture02Containers</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Containers</Source>
+      <Dest>Úložné prostory</Dest>
+    </String>
+    <String List="0" sID="018AF0">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Hijack VIP Escort Protocol</Source>
+      <Dest>Zmocnit se protokolu doprovodu VIP</Dest>
+    </String>
+    <String List="0" sID="018B4F">
+      <EDID>WorkshopVendorChestArmor04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="018C25">
+      <EDID>WorkshopVendorWeapons01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Smiling Larry</Source>
+      <Dest>Usměvavý Larry</Dest>
+    </String>
+    <String List="0" sID="01994F">
+      <EDID>WorkshopVendorChestBar04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="019B2A">
+      <EDID>WorkshopVendorChestWeapon01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="019B37">
+      <EDID>WorkshopWaterPurifier</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Water Purifier</Source>
+      <Dest>Čistička vody</Dest>
+    </String>
+    <String List="0" sID="019CDC">
+      <EDID>WorkshopRecipeFilterFurniture02Chairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Chairs</Source>
+      <Dest>Židle</Dest>
+    </String>
+    <String List="0" sID="01A0EC">
+      <EDID>zUnusedGrenades</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Cellar</Source>
+      <Dest>Sklep</Dest>
+    </String>
+    <String List="0" sID="01A112">
+      <EDID>YefimBobrov</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Yefim</Source>
+      <Dest>Yefim</Dest>
+    </String>
+    <String List="0" sID="01A4A1">
+      <EDID>WrhsDoorMed02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01A98B">
+      <EDID>WorkshopRecipeFilterVendor02Clothing</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Clothing</Source>
+      <Dest>Oděvy</Dest>
+    </String>
+    <String List="0" sID="01AC5D">
+      <EDID>WorkshopStoreClinic02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clinic</Source>
+      <Dest>Klinika</Dest>
+    </String>
+    <String List="0" sID="01AD2D">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>*./admin.protectron_override</Source>
+      <Dest>*./admin.protektron_prepis</Dest>
+    </String>
+    <String List="0" sID="01AF53">
+      <EDID>workshopScrapRecipe_Tire</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="01B0F0">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>BACK</Source>
+      <Dest>ZPĚT</Dest>
+    </String>
+    <String List="0" sID="01B5F9">
+      <EDID>WorkshopVendorChestArmor02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01B640">
+      <EDID>WorkshopVendorChestClothing01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01B6CB">
+      <EDID>WorkshopRecipeFilterResource02Power</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Power</Source>
+      <Dest>Elektřina</Dest>
+    </String>
+    <String List="0" sID="01B790">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="0">TERM:BTXT</REC>
+      <Source>BIOS Version: overlord_injector_active&#xD;
+STATUS: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
+Admin_Group: &lt;Token.Name=Faction&gt;</Source>
+      <Dest>Verze BIOS: vladce_injektor_aktivní&#xD;
+STAV: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
+Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
+    </String>
+    <String List="0" sID="01B814">
+      <EDID>zUnusedCave</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Breakheart Banks</Source>
+      <Dest>Breakheartský záhyb</Dest>
+    </String>
+    <String List="0" sID="01B8B6">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="01BA43">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01BC44">
+      <EDID>WorkshopStoreArmor03</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Emporium</Source>
+      <Dest>Prodejna zbojí</Dest>
+    </String>
+    <String List="0" sID="01BC67">
+      <EDID>WorkshopRecipeFilterResource02Power03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="01BE3A">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Scramble Targeting Parameters</Source>
+      <Dest>Zaměnit zaměřovací parametry</Dest>
+    </String>
+    <String List="0" sID="01C7A7">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>~**~PHAEDR-OS~**~</Source>
+      <Dest>~**~FAIDR-OS~**~</Dest>
+    </String>
+    <String List="0" sID="01C81C">
+      <EDID>zUnusedCellar02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Cellar</Source>
+      <Dest>Sklep</Dest>
+    </String>
+    <String List="0" sID="01CBF9">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>.//READ_THIS</Source>
+      <Dest>.//TOHLE_PRECTI</Dest>
+    </String>
+    <String List="0" sID="01CD9F">
+      <EDID>Yardstick</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Yardstick</Source>
+      <Dest>Měřítko</Dest>
+    </String>
+    <String List="0" sID="01CDC9">
+      <EDID>WorkshopWorldResourceContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="01D0FA">
+      <EDID>WorkshopStoreClinic01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>First Aid Station</Source>
+      <Dest>Stanoviště první pomoci</Dest>
+    </String>
+    <String List="0" sID="01D605">
+      <EDID>WRVRLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>WRVR</Source>
+      <Dest>WRVR</Dest>
+    </String>
+    <String List="0" sID="01D649">
+      <EDID>WorkshopRecipeFilterVendor02Weapons</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Weapons</Source>
+      <Dest>Zbraně</Dest>
+    </String>
+    <String List="0" sID="01D682">
+      <EDID>WreckOfTheFMSNorthernStarLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Wreck of The FMS Northern Star</Source>
+      <Dest>Vrak FMS Northern Star</Dest>
+    </String>
+    <String List="0" sID="01D68A">
+      <EDID>WorkshopRecipeFilterResource02Power03Generators</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Generators</Source>
+      <Dest>Generátory</Dest>
+    </String>
+    <String List="0" sID="01D70E">
+      <EDID>WorkshopStoreMisc01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Stand</Source>
+      <Dest>Stánek se smíšeným zbožím</Dest>
+    </String>
+    <String List="0" sID="01D8C1">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>YaoGuaiRoot</Source>
+      <Dest>YaoGuaiRoot</Dest>
+    </String>
+    <String List="0" sID="01D8C2">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>&gt;&gt;SPOOFING CREDENTIALS&#xD;
+&gt;&gt;RE-CALIBRATING&#xD;
+.&#xD;
+.&#xD;
+&gt;VIP ESCORT PROTOCOL ENGAGED</Source>
+      <Dest>&gt;&gt;EMULUJI POVĚŘENÍ&#xD;
+&gt;&gt;RE-KALIBRACE&#xD;
+.&#xD;
+.&#xD;
+&gt;PROTOKOL VIP DOPROVODU ZAHÁJEN</Dest>
+    </String>
+    <String List="0" sID="01D8C3">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01DC95">
+      <EDID>workshopScrapRecipe_Tree</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="01DC9B">
+      <EDID>workshopScrapRecipe_ScrapCars</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="01DC9E">
+      <EDID>workshopScrapRecipe_CinderBlock</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cinder Block</Source>
+      <Dest>Tvárnice</Dest>
+    </String>
+    <String List="0" sID="01DC9F">
+      <EDID>workshopScrapRecipe_CinderBlockPile</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cinder Blocks</Source>
+      <Dest>Tvárnice</Dest>
+    </String>
+    <String List="0" sID="01DCAF">
+      <EDID>WorkshopVendorChestClothing03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01DCBF">
+      <EDID>WorkshopRecipeFilterDecor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Decorations</Source>
+      <Dest>Dekorace</Dest>
+    </String>
+    <String List="0" sID="01DF9D">
+      <EDID>YangtzeChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="01E511">
+      <EDID>WRVRBroadcastCenterMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>WRVR Broadcast Station</Source>
+      <Dest>Vysílací stanice WRVR</Dest>
+    </String>
+    <String List="0" sID="01E557">
+      <EDID>WrhsDoorSmMetal02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01EE5E">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="01FC06">
+      <EDID>zUnusedFalloutShelter02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Shelter</Source>
+      <Dest>Přístřeší</Dest>
+    </String>
+    <String List="0" sID="01FE28">
+      <EDID>YaoGuaiRoarFearImodExplosion</EDID>
+      <REC>EXPL:FULL</REC>
+      <Source>Roar Fear Imod</Source>
+      <Dest>Řvoucí strach Imod</Dest>
+    </String>
+    <String List="0" sID="020017">
+      <EDID>Wrench01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Adjustable Wrench</Source>
+      <Dest>Stavitelný klíč</Dest>
+    </String>
+    <String List="0" sID="0201FE">
+      <EDID>Z2-47</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Z2</Source>
+      <Dest>Z2</Dest>
+    </String>
+    <String List="0" sID="02035B">
+      <EDID>WorkshopVendorChestWeapon02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0208BF">
+      <EDID>WorkshopWorkbenchInterior</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop</Source>
+      <Dest>Dílna</Dest>
+    </String>
+    <String List="0" sID="020917">
+      <EDID>WorkshopStoreWeapon02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Shop</Source>
+      <Dest>Obchod se zbraněmi</Dest>
+    </String>
+    <String List="0" sID="020C63">
+      <EDID>WorkshopRecipeFilterResource02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="020CB0">
+      <EDID>WorkshopVendorChestMisc01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="020D90">
+      <EDID>WorkshopRecipeFilterResource02Defense</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Defense</Source>
+      <Dest>Obrana</Dest>
+    </String>
+    <String List="0" sID="020DBF">
+      <EDID>WorkshopRecipeFilterQuest</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Special</Source>
+      <Dest>Zvláštní</Dest>
+    </String>
+    <String List="0" sID="021460">
+      <EDID>WorkshopVendorChestBar03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="02207F">
+      <EDID>workshopScrapRecipe_TreeStump</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="022315">
+      <EDID>YaoGuaiRoarFearEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Yao Guai Roar Fear</Source>
+      <Dest>Yao Guai řvoucí strach</Dest>
+    </String>
+    <String List="0" sID="02266E">
+      <EDID>WorkshopRecipeFilterFurniture02Tables</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Tables</Source>
+      <Dest>Stoly</Dest>
+    </String>
+    <String List="0" sID="0228F0">
+      <EDID>WorkshopRecipeFilterBuilding02Metal03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="022DBC">
+      <EDID>WorkshopTurretTripod</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Machinegun Turret</Source>
+      <Dest>Kulometná věž</Dest>
+    </String>
+    <String List="0" sID="023101">
+      <EDID>WorkshopVendorDoctor01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Doc Anderson</Source>
+      <Dest>Doktor Anderson</Dest>
+    </String>
+    <String List="0" sID="0237AA">
+      <EDID>WorkshopStoreArmor01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Stand</Source>
+      <Dest>Stánek se zbrojemi</Dest>
+    </String>
+    <String List="0" sID="023A3F">
+      <EDID>WorkshopRecipeFilterScrap</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Scrap</Source>
+      <Dest>Šrot</Dest>
+    </String>
+    <String List="0" sID="023AAD">
+      <EDID>WorkshopRecipeFilterResource</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Resources</Source>
+      <Dest>Zdroje</Dest>
+    </String>
+    <String List="0" sID="023AF7">
+      <EDID>WRVRBroadcastCenter01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>WRVR Broadcast Center</Source>
+      <Dest>Vysílací centrum WRVR</Dest>
+    </String>
+    <String List="0" sID="023BC7">
+      <EDID>WorkshopVendorChestMisc02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="023C53">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="023CFF">
+      <EDID>Wrench03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wrench</Source>
+      <Dest>Hasák</Dest>
+    </String>
+    <String List="0" sID="024036">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="2">TERM:RNAM</REC>
+      <Source>UPLOADING OVERRIDE PROGRAM</Source>
+      <Dest>NAHRÁVÁM PŘEPISOVACÍ PROGRAM</Dest>
+    </String>
+    <String List="0" sID="024171">
+      <EDID>YumYumDeviledEggs</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Yum Yum Deviled Eggs</Source>
+      <Dest>Ďábelská vejce</Dest>
+    </String>
+    <String List="0" sID="0241E6">
+      <EDID>WorkstationArmorB01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Armor Workstation</Source>
+      <Dest>Ponk na úpravu zbroje</Dest>
+    </String>
+    <String List="0" sID="024661">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="024844">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Override Targeting Parameters</Source>
+      <Dest>Přepsat zaměřovací parametry</Dest>
+    </String>
+    <String List="0" sID="024981">
+      <EDID>WorkshopRecipeFilterResource02Power03Connectors</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Connectors &amp; Switches</Source>
+      <Dest>Konektory a spínače</Dest>
+    </String>
+    <String List="0" sID="0249E8">
+      <EDID>WorkstationChemistryA01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Chemistry Workstation</Source>
+      <Dest>Chemická laboratoř</Dest>
+    </String>
+    <String List="0" sID="024BB4">
+      <EDID>WorkshopVendorChestArmor03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="024EEF">
+      <EDID>YaoGuaiFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Yao Guai Faction</Source>
+      <Dest>Frakce Yao Guai</Dest>
+    </String>
+    <String List="0" sID="025210">
+      <EDID>WorkshopStoreWeapon03</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Emporium</Source>
+      <Dest>Prodejna zbraní</Dest>
+    </String>
+    <String List="0" sID="0253F1">
+      <EDID>WorkshopTurretTripodMounted</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Heavy Machinegun Turret</Source>
+      <Dest>Těžká kulometná věž</Dest>
+    </String>
+    <String List="0" sID="025635">
+      <EDID>WorkshopStoreClinic03</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Surgery Center</Source>
+      <Dest>Chirurgické centrum</Dest>
+    </String>
+    <String List="0" sID="0256EB">
+      <EDID>WorkshopRecipeFilterBuilding02Wood03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="02576A">
+      <EDID>WorkshopStoreMisc03</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Emporium</Source>
+      <Dest>Prodejna smíšeného zboží</Dest>
+    </String>
+    <String List="0" sID="02579F">
+      <EDID>WorkshopRecipeFilterFurniture02Beds</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Beds</Source>
+      <Dest>Postele</Dest>
+    </String>
+    <String List="0" sID="025842">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>CAUTION: Targeting parameters cleared. Turret will fire at all targets, regardless of affiliation.  Exercise caution.</Source>
+      <Dest>VAROVÁNÍ: Zaměřovací parametry vymazány. Věž bude pálit na všechny cíle, bez ohledu na příslušnost.  Postupujte s opatrností.</Dest>
+    </String>
+    <String List="0" sID="025B63">
+      <EDID>WorkshopWorkbenchWireOnly</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop</Source>
+      <Dest>Dílna</Dest>
+    </String>
+    <String List="0" sID="025B74">
+      <EDID>zFAB</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Debug Quest for Ferret's Quests</Source>
+      <Dest>Debugovací úkol pro Ferretovy úkoly</Dest>
+    </String>
+    <String List="0" sID="025BDC">
+      <EDID>WorkshopResourceContainerCastle</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="025CE6">
+      <EDID>WorkstationChemistryB01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Chemistry Workstation</Source>
+      <Dest>Chemická laboratoř</Dest>
+    </String>
+    <String List="0" sID="025E70">
+      <EDID>YangtzeHatch01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Hatch</Source>
+      <Dest>Poklop</Dest>
+    </String>
+    <String List="0" sID="026662">
+      <EDID>WorkshopVendorArmor01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>The Scribe</Source>
+      <Dest>Písař</Dest>
+    </String>
+    <String List="0" sID="0266CC">
+      <EDID>WorkshopStoreMisc02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Shop</Source>
+      <Dest>Obchod se smíšeným zbožím</Dest>
+    </String>
+    <String List="0" sID="02674D">
+      <EDID>WorkshopRecipeFilterVendor02Clinic</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Clinic</Source>
+      <Dest>Klinika</Dest>
+    </String>
+    <String List="0" sID="026935">
+      <EDID>WorkshopRecipeFilterVendor02Armor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Armor</Source>
+      <Dest>Zbroj</Dest>
+    </String>
+    <String List="0" sID="026A0C">
+      <EDID>WrhsDoorMed01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="026BB7">
+      <EDID>WorkshopStoreArmor02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Shop</Source>
+      <Dest>Obchod se zbrojemi</Dest>
+    </String>
+    <String List="0" sID="026CB9">
+      <EDID>WorkshopRecipeFilterBuilding02Wood</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Wood</Source>
+      <Dest>Dřevo</Dest>
+    </String>
+    <String List="0" sID="026D46">
+      <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>          ..// PR0T3TER D3FEkT0R \\..&#xD;
+&#xD;
+- load holotape (must have hardline protectron\s)&#xD;
+&#xD;
+&#xD;
+- let chaos reign!!&#xD;
+&#xD;
+               +-+-+-+-+-+-+-+-+&#xD;
+               |P|h|a|e|d|r|O|S|&#xD;
+               +-+-+-+-+-+-+-+-+</Source>
+      <Dest>          ..// PR0T3TER D3FEkT0R \\..&#xD;
+&#xD;
+- nahrát holopásku (musíte mít přímé spojení s protektronem)&#xD;
+&#xD;
+&#xD;
+- budiž chaos!!&#xD;
+&#xD;
+               +-+-+-+-+-+-+-+&#xD;
+               |F|a|i|d|r|O|S|&#xD;
+               +-+-+-+-+-+-+-+</Dest>
+    </String>
+    <String List="0" sID="026D98">
+      <EDID>WorkshopRecipeFilterResource02Power03Wire</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Wire</Source>
+      <Dest>Kabel</Dest>
+    </String>
+    <String List="0" sID="026EBB">
+      <EDID>YaoGuaiClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Yao Guai</Source>
+      <Dest>Yao Guai</Dest>
+    </String>
+    <String List="0" sID="026FC8">
+      <EDID>Yangtze01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Yangtze</Source>
+      <Dest>Yangtze</Dest>
+    </String>
+    <String List="0" sID="0279D3">
+      <EDID>WorkshopVendorChestWeapon04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="027CC4">
+      <EDID>WorkshopRecipeFilterResource02Food</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Food</Source>
+      <Dest>Jídlo</Dest>
+    </String>
+    <String List="0" sID="027D90">
+      <EDID>WorkshopVendorChestBar01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="027EAC">
+      <EDID>WorkshopWorkbench</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop</Source>
+      <Dest>Dílna</Dest>
+    </String>
+    <String List="0" sID="027FD0">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravé chodidlo</Dest>
+    </String>
+    <String List="0" sID="02815E">
+      <EDID>WorkshopVendorChestBar02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="02828A">
+      <EDID>YaoGuaiBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="028531">
+      <EDID>zPOIJoel06</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Cellar</Source>
+      <Dest>Sklep</Dest>
+    </String>
+    <String List="0" sID="028CE5">
+      <EDID>WorkshopVendorBar01</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Ron</Source>
+      <Dest>Ron</Dest>
+    </String>
+    <String List="0" sID="028D4C">
+      <EDID>WorkshopVendorChestMisc04TraderRylee</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="028F10">
+      <EDID>WorkshopVendorBar01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ron Staples</Source>
+      <Dest>Ron Staples</Dest>
+    </String>
+    <String List="0" sID="0290E5">
+      <EDID>WorkshopSafeFloor01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe</Source>
+      <Dest>Sejf</Dest>
+    </String>
+    <String List="0" sID="029375">
+      <EDID>WorkshopTurretLaser</EDID>
+      <REC id="2">NPC_:FULL</REC>
+      <Source>Laser Turret</Source>
+      <Dest>Laserová věž</Dest>
+    </String>
+    <String List="0" sID="02959F">
+      <EDID>WorkshopTurretLaser</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>LaserRifle</Source>
+      <Dest>LaserRifle</Dest>
+    </String>
+    <String List="0" sID="029605">
+      <EDID>workshopScrapRecipe_ScrapConcreteVerySmall</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cinder Block</Source>
+      <Dest>Tvárnice</Dest>
+    </String>
+    <String List="0" sID="029C80">
+      <EDID>workshopScrapRecipe_WoodVerySmall</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Wood</Source>
+      <Dest>Dřevo</Dest>
+    </String>
+    <String List="0" sID="029CE5">
+      <EDID>WorkshopRecipeFilterFurniture02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="029D51">
+      <EDID>WorkshopTurretLaser</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>AssaultLaser</Source>
+      <Dest>AssaultLaser</Dest>
+    </String>
+    <String List="0" sID="029E48">
+      <EDID>workshopScrapRecipe_Ceramic</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Ceramic</Source>
+      <Dest>Keramika</Dest>
+    </String>
+    <String List="0" sID="02A033">
+      <EDID>workshopScrapRecipe_Paper</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Paper</Source>
+      <Dest>Papír</Dest>
+    </String>
+    <String List="0" sID="02A037">
+      <EDID>workshopScrapRecipe_ScrapMetalVerySmall</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02A720">
+      <EDID>WorkshopTrapRadiation</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radiation Emitter</Source>
+      <Dest>Vyzařovač radiace</Dest>
+    </String>
+    <String List="0" sID="02AAC2">
+      <EDID>workshopScrapRecipe_ScrapHouses</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AB0A">
+      <EDID>workshopScrapRecipe_ScrapStreetLampBase</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02ABD9">
+      <EDID>workshopScrapRecipe_ScrapStreetLamps</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AC5C">
+      <EDID>workshopScrapRecipe_ScrapCarsRusty</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AC5D">
+      <EDID>workshopScrapRecipe_ScrapCarPort</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AC5E">
+      <EDID>workshopScrapRecipe_ScrapCartDiagnosticGarage</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AC5F">
+      <EDID>workshopScrapRecipe_ScrapCartWheeled</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AC61">
+      <EDID>workshopScrapRecipe_ScrapToolRack</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02ACA5">
+      <EDID>workshopScrapRecipe_ScrapHousePad</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AD89">
+      <EDID>workshopScrapRecipe_ScrapFuelPumpsBase</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AE41">
+      <EDID>workshopScrapRecipe_ScrapRoadSign</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AE6E">
+      <EDID>workshopScrapRecipe_TireWithRim</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="02AF35">
+      <EDID>workshopScrapRecipe_ScrapKitchenCabinet</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02AFB3">
+      <EDID>workshopScrapRecipe_TreeRoots</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="02AFFE">
+      <EDID>workshopScrapRecipe_ScrapMetal04</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B048">
+      <EDID>workshopScrapRecipe_ScrapFuelPumps</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B049">
+      <EDID>workshopScrapRecipe_ScrapMetal02</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B04E">
+      <EDID>workshopScrapRecipe_ScrapFurnitureWood</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Wood</Source>
+      <Dest>Staré dřevo</Dest>
+    </String>
+    <String List="0" sID="02B051">
+      <EDID>workshopScrapRecipe_TireStack</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tires</Source>
+      <Dest>Pneumatiky</Dest>
+    </String>
+    <String List="0" sID="02B052">
+      <EDID>workshopScrapRecipe_TreeBlasted</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="02B053">
+      <EDID>workshopScrapRecipe_TreeLarge</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="02B06B">
+      <EDID>workshopScrapRecipe_Bush</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="02B077">
+      <EDID>workshopScrapRecipe_ScrapKitchenCabinetLong</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B0C4">
+      <EDID>workshopScrapRecipe_ScrapRefrigerator</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B17B">
+      <EDID>yellowBelly</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Yellow Belly Syringe</Source>
+      <Dest>Zbabělá injekce</Dest>
+    </String>
+    <String List="0" sID="02B1A8">
+      <EDID>WorkshopVendorChestWeaponRonnieShaw</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="02B219">
+      <EDID>workshopScrapRecipe_ScrapRefrigeratorDoor</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B251">
+      <EDID>workshopScrapRecipe_ScrapMetal08</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B28A">
+      <EDID>workshopScrapRecipe_ScrapMetal06</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="02B4A2">
+      <EDID>WtrStAptsMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Water Street Apartments</Source>
+      <Dest>Apartmány Water Street</Dest>
+    </String>
+    <String List="0" sID="02B50B">
+      <EDID>workshopScrapRecipe_PlayerHouse_Stove</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Stove</Source>
+      <Dest>Sporák</Dest>
+    </String>
+    <String List="0" sID="02B6B7">
+      <EDID>WorkshopStoreClothing01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Stand</Source>
+      <Dest>Stánek s oblečením</Dest>
+    </String>
+    <String List="0" sID="02B6F2">
+      <EDID>ZetaInvaders_HolotapeGame</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Zeta Invaders</Source>
+      <Dest>Zeta Invaders</Dest>
+    </String>
+    <String List="0" sID="02BA88">
+      <EDID>WorkshopStoreClothing02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Shop</Source>
+      <Dest>Obchod s oblečením</Dest>
+    </String>
+    <String List="0" sID="02BB41">
+      <EDID>WorkshopStoreClothing03</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Emporium</Source>
+      <Dest>Prodejna oblečení</Dest>
+    </String>
+    <String List="0" sID="02BC8D">
+      <EDID>zUnusedFinancial23</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Atlantic Offices</Source>
+      <Dest>Atlantické kanceláře</Dest>
+    </String>
+    <String List="0" sID="02BDBA">
+      <EDID>WorkshopScavengingStation</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Scavenging Station</Source>
+      <Dest>Sběřačské stanoviště</Dest>
+    </String>
+    <String List="0" sID="02C03C">
+      <EDID>YangtzeMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Yangtze</Source>
+      <Dest>Yangtze</Dest>
+    </String>
+    <String List="0" sID="02C64B">
+      <EDID>zInstituteRotunda</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>CIT Rotunda</Source>
+      <Dest>Rotunda CIT</Dest>
+    </String>
+    <String List="0" sID="02C67B">
+      <EDID>zUnusedTheaterLaundromat</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="02C7B0">
+      <EDID>WorkshopSwitchInterval01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Interval Switch</Source>
+      <Dest>Intervalový spínač</Dest>
+    </String>
+    <String List="0" sID="02C8C8">
+      <EDID>workshopScrapRecipe_CastleRubble</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Rubble</Source>
+      <Dest>Suť</Dest>
+    </String>
+    <String List="0" sID="02C994">
+      <EDID>zUnusedTheater46A</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="02C9B0">
+      <EDID>WorkshopResourceContainerFarm04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CA2A">
+      <EDID>WorkshopResourceContainerFarm06</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CA45">
+      <EDID>WorkshopResourceContainerFarm01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CA68">
+      <EDID>WorkshopResourceContainerGraygarden</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CA8C">
+      <EDID>WorkshopResourceContainerFarm03</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CBC8">
+      <EDID>WorkshopResourceContainerWarwick</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CD2A">
+      <EDID>WorkshopResourceContainerFarm02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CDCF">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Wall Decorations</Source>
+      <Dest>Nástěnné dekorace</Dest>
+    </String>
+    <String List="0" sID="02CDD8">
+      <EDID>WorkshopResourceContainerAbernathy</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CDE4">
+      <EDID>WorkshopResourceContainerSlog</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CEB5">
+      <EDID>WorkshopResourceContainerFinch</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02CF16">
+      <EDID>WorkshopResourceContainerFarm05</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02D0D7">
+      <EDID>WorkshopSiren01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Siren</Source>
+      <Dest>Siréna</Dest>
+    </String>
+    <String List="0" sID="02D320">
+      <EDID>WorkshopSynthInfiltrator02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Sabotage</Source>
+      <Dest>Sabotáž</Dest>
+    </String>
+    <String List="0" sID="02D559">
+      <EDID>WorkshopResourceContainerDmndPlayerHouse</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="02D758">
+      <EDID>zLexingtonApartments</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Apartments</Source>
+      <Dest>Apartmány</Dest>
+    </String>
+    <String List="0" sID="02DEF4">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Luck</Source>
+      <Dest>Štěstí</Dest>
+    </String>
+    <String List="0" sID="02DF24">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Pick an attribute</Source>
+      <Dest>Vyber vlastnost</Dest>
+    </String>
+    <String List="0" sID="02E058">
+      <EDID>XCell</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>X-Cell</Source>
+      <Dest>X-Cell</Dest>
+    </String>
+    <String List="0" sID="02E14B">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Strength</Source>
+      <Dest>Síla</Dest>
+    </String>
+    <String List="0" sID="02E1E8">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Do Nothing</Source>
+      <Dest>Nedělat nic</Dest>
+    </String>
+    <String List="0" sID="02E3B7">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Agility</Source>
+      <Dest>Hbitost</Dest>
+    </String>
+    <String List="0" sID="02E42A">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Charisma</Source>
+      <Dest>Charisma</Dest>
+    </String>
+    <String List="0" sID="02E470">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Intelligence</Source>
+      <Dest>Inteligence</Dest>
+    </String>
+    <String List="0" sID="02E472">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Endurance</Source>
+      <Dest>Odolnost</Dest>
+    </String>
+    <String List="0" sID="02E66F">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Perception</Source>
+      <Dest>Vnímání</Dest>
+    </String>
+    <String List="0" sID="030173">
+      <EDID>zLexingtonPharmacy</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Pharmacy</Source>
+      <Dest>Lékárna</Dest>
+    </String>
+    <String List="0" sID="030325">
+      <EDID>WorkshopResourceContainerAirport</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="03036D">
+      <EDID>zLexingtonGarage</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Parking Garage</Source>
+      <Dest>Parkoviště</Dest>
+    </String>
+    <String List="0" sID="0305E5">
+      <EDID>zLexingtonLaundromat</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Laundromat</Source>
+      <Dest>Prádelna</Dest>
+    </String>
+    <String List="0" sID="0307A5">
+      <EDID>workshopScrapRecipe_ScrapWaterCooler</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="0307A7">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Flags</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Flags</Source>
+      <Dest>Vlajky</Dest>
+    </String>
+    <String List="0" sID="0307BF">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Paintings</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Paintings</Source>
+      <Dest>Obrazy</Dest>
+    </String>
+    <String List="0" sID="030830">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="030866">
+      <EDID>WorkshopRecipeFilterFurniture02Shelves</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Shelves</Source>
+      <Dest>Police</Dest>
+    </String>
+    <String List="0" sID="03086A">
+      <EDID>workshopScrapRecipe_ScrapUtilitySink</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="0308EA">
+      <EDID>workshopScrapRecipe_ScrapWoodCrates</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Wood Crate</Source>
+      <Dest>Dřevěná bedna</Dest>
+    </String>
+    <String List="0" sID="03090E">
+      <EDID>workshopScrapRecipe_ScrapPhoneBoothGlass</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="03091D">
+      <EDID>workshopScrapRecipe_ScrapWood04</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Wood</Source>
+      <Dest>Staré dřevo</Dest>
+    </String>
+    <String List="0" sID="030969">
+      <EDID>WorkshopRecipeFilterDecor02Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floor Coverings</Source>
+      <Dest>Podlahové dekorace</Dest>
+    </String>
+    <String List="0" sID="03099C">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Signs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Signs</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="0309A9">
+      <EDID>workshopScrapRecipe_ScrapPhoneBooth</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="0309E9">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03MountedCreatures</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Mounted Creatures</Source>
+      <Dest>Zvířecí trofeje</Dest>
+    </String>
+    <String List="0" sID="030A0C">
+      <EDID>WorkshopRecipeFilterDecor02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="030D22">
+      <EDID>workshopScrapRecipe_ScrapBrokenVendingMachine</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="030DAC">
+      <EDID>workshopScrapRecipe_ScrapBathroomToilet</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Toilet</Source>
+      <Dest>Záchod</Dest>
+    </String>
+    <String List="0" sID="030DC3">
+      <EDID>workshopScrapRecipe_ScrapDeerFenceBrokenMetal</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Fence</Source>
+      <Dest>Starý plot</Dest>
+    </String>
+    <String List="0" sID="030E0D">
+      <EDID>WorkshopVendorChestClothing04</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="030EE4">
+      <EDID>workshopScrapRecipe_ScrapLoungeChair</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Lounge Chair</Source>
+      <Dest>Křeslo</Dest>
+    </String>
+    <String List="0" sID="030FA6">
+      <EDID>workshopScrapRecipe_ScrapBathroomSink</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Toilet</Source>
+      <Dest>Záchod</Dest>
+    </String>
+    <String List="0" sID="030FB8">
+      <EDID>workshopScrapRecipe_ScrapDeerFenceBrokenWood</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Fence</Source>
+      <Dest>Starý plot</Dest>
+    </String>
+    <String List="0" sID="0310D7">
+      <EDID>workshopScrapRecipe_ScrapDeerFenceBroken</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Fence</Source>
+      <Dest>Starý plot</Dest>
+    </String>
+    <String List="0" sID="0310FF">
+      <EDID>workshopScrapRecipe_ScrapWoodBarrel</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Wood Barrel</Source>
+      <Dest>Dřevěný sud</Dest>
+    </String>
+    <String List="0" sID="0311A9">
+      <EDID>workshopScrapRecipe_ScrapConstructionBarrier</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Construction Barrier</Source>
+      <Dest>Stavební bariéra</Dest>
+    </String>
+    <String List="0" sID="031210">
+      <EDID>workshopScrapRecipe_ScrapFurnitureKitchenChairs</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>Židle</Dest>
+    </String>
+    <String List="0" sID="031231">
+      <EDID>workshopScrapRecipe_ScrapOfficeFileCabinet</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>File Cabinet</Source>
+      <Dest>Kartotéka</Dest>
+    </String>
+    <String List="0" sID="031349">
+      <EDID>ZeroSPECIALclass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Player Class</Source>
+      <Dest>Třída hráče</Dest>
+    </String>
+    <String List="0" sID="0315B5">
+      <EDID>workshopScrapRecipe_ScrapPictureFrames</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Wood</Source>
+      <Dest>Staré dřevo</Dest>
+    </String>
+    <String List="0" sID="0317BD">
+      <EDID>WorkshopRecipeFilterResource02Power03Lights</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Lights</Source>
+      <Dest>Osvětlení</Dest>
+    </String>
+    <String List="0" sID="031A21">
+      <EDID>WrhsDoorSmMetal02OPQ</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="031A77">
+      <EDID>WrhsDoorSmMetal01OPQ</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="031B41">
+      <EDID>ZetaRadiationPushEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Push Actor Away - Zeta</Source>
+      <Dest>Push Actor Away - Zeta</Dest>
+    </String>
+    <String List="0" sID="031B4D">
+      <EDID>WorkshopRecipeFilterResource03DefenseTraps</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Traps</Source>
+      <Dest>Pasti</Dest>
+    </String>
+    <String List="0" sID="031B59">
+      <EDID>WorkshopRecipeFilterResource03DefenseTurrets</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Turrets</Source>
+      <Dest>Věže</Dest>
+    </String>
+    <String List="0" sID="031D3E">
+      <EDID>WorkshopRecipeFilterResource03DefenseGuardPosts</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Guard Posts</Source>
+      <Dest>Strážní pozice</Dest>
+    </String>
+    <String List="0" sID="032A6D">
+      <EDID>WorkshopTripwireLaser01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Laser Tripwire</Source>
+      <Dest>Laserová past</Dest>
+    </String>
+    <String List="0" sID="032FB5">
+      <EDID>WorkshopTripwireLaser02</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Laser Tripwire</Source>
+      <Dest>Laserová past</Dest>
+    </String>
+    <String List="0" sID="033154">
+      <EDID>WorkshopTrapElectricalArc01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="033313">
+      <EDID>WorkshopTrapElectricalArc01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tesla Arc</Source>
+      <Dest>Tesla oblouk</Dest>
+    </String>
+    <String List="0" sID="0333F3">
+      <EDID>WorkshopTrapFlamethrowerWeap01</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Flamer</Source>
+      <Dest>Plamenomet</Dest>
+    </String>
+    <String List="0" sID="033530">
+      <EDID>WorkshopTrapFlamethrowerWeap02</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="03357A">
+      <EDID>WorkshopTrapFlamethrowerWeap02</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Flamer</Source>
+      <Dest>Plamenomet</Dest>
+    </String>
+    <String List="0" sID="03360E">
+      <EDID>WorkshopTrapAmmoFlamethrowerFuel</EDID>
+      <REC>AMMO:ONAM</REC>
+      <Source>Fuel</Source>
+      <Dest>Palivo</Dest>
+    </String>
+    <String List="0" sID="033704">
+      <EDID>WorkshopSwitchDelay01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Delayed On Switch</Source>
+      <Dest>Opožděný zapínač</Dest>
+    </String>
+    <String List="0" sID="033902">
+      <EDID>WorkshopTrapAmmoFlamethrowerFuel</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Flamer Fuel</Source>
+      <Dest>Palivo do plamenometu</Dest>
+    </String>
+    <String List="0" sID="033A2B">
+      <EDID>WorkshopTrapFlamethrowerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fire</Source>
+      <Dest>Oheň</Dest>
+    </String>
+    <String List="0" sID="033A9B">
+      <EDID>WorkshopTrapFlamethrowerWeap02</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
+    </String>
+    <String List="0" sID="033B0B">
+      <EDID>WorkshopTrapFlamethrower01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Flamethrower Trap</Source>
+      <Dest>Plamenometná past</Dest>
+    </String>
+    <String List="0" sID="033B9E">
+      <EDID>WorkshopTrapFlamethrowerWeap01</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
+    </String>
+    <String List="0" sID="033BBB">
+      <EDID>WorkshopTrapFlamethrowerWeap01</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="033C5E">
+      <EDID>zVitalePumphouse01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Pumphouse</Source>
+      <Dest>Čerpací stanice</Dest>
+    </String>
+    <String List="0" sID="034003">
+      <EDID>WorkshopVendorChestWeaponRonnieShawNoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="034066">
+      <EDID>WorkshopSwitchDelay02</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Delayed Off Switch</Source>
+      <Dest>Opožděný vypínač</Dest>
+    </String>
+    <String List="0" sID="034198">
+      <EDID>WorkshopVendorChestArmor05NoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="03431A">
+      <EDID>WorkshopVendorChestWeapon05NoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0343BE">
+      <EDID>WorkshopVendorChestMisc05NoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="03452D">
+      <EDID>WorkshopTurretLaserHeavy</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Heavy Laser Turret</Source>
+      <Dest>Těžká laserová věž</Dest>
+    </String>
+    <String List="0" sID="03456B">
+      <EDID>workshopScrapRecipe_Loot_Cooler</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Rubble</Source>
+      <Dest>Suť</Dest>
+    </String>
+    <String List="0" sID="03456E">
+      <EDID>workshopScrapRecipe_Loot_ToolChest</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="03456F">
+      <EDID>WorkshopTurretLaserHeavy</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>AssaultLaser</Source>
+      <Dest>AssaultLaser</Dest>
+    </String>
+    <String List="0" sID="034570">
+      <EDID>workshopScrapRecipe_Loot_Suitcase</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Suitcase</Source>
+      <Dest>Kufr</Dest>
+    </String>
+    <String List="0" sID="03457B">
+      <EDID>workshopScrapRecipe_PlayerHouse_Ruin_WetBar02</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Wet Bar</Source>
+      <Dest>Barová skříňka</Dest>
+    </String>
+    <String List="0" sID="034596">
+      <EDID>WorkshopTurretSpotlight</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>Spotlight</Source>
+      <Dest>Reflektor</Dest>
+    </String>
+    <String List="0" sID="0345BE">
+      <EDID>WorkshopTurretShotgun</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Shotgun Turret</Source>
+      <Dest>Brokovnicová věž</Dest>
+    </String>
+    <String List="0" sID="0345C3">
+      <EDID>WorkshopTurretShotgun</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>Shotgun</Source>
+      <Dest>Brokovnice</Dest>
+    </String>
+    <String List="0" sID="0345EC">
+      <EDID>WorkshopResourceContainerFree</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="0345EE">
+      <EDID>WorkshopTurretMissileLauncher</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Missile Turret</Source>
+      <Dest>Raketometná věž</Dest>
+    </String>
+    <String List="0" sID="03460A">
+      <EDID>WorkshopResourceContainerSettlement</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop Container</Source>
+      <Dest>Dílenský kontejner</Dest>
+    </String>
+    <String List="0" sID="03460D">
+      <EDID>WorkshopTurretMissileLauncher</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>MissileLauncher</Source>
+      <Dest>MissileLauncher</Dest>
+    </String>
+    <String List="0" sID="034631">
+      <EDID>WorkshopTurretSpotlight</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Spotlight</Source>
+      <Dest>Reflektor</Dest>
+    </String>
+    <String List="0" sID="034632">
+      <EDID>YaoGuaiHide</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Yao Guai Hide</Source>
+      <Dest>Kůže Yao Guai</Dest>
+    </String>
+    <String List="0" sID="034644">
+      <EDID>workshopScrapRecipe_Loot_Toolbox</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Metal</Source>
+      <Dest>Staré železo</Dest>
+    </String>
+    <String List="0" sID="03468D">
+      <EDID>WorkshopTelevision01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Television</Source>
+      <Dest>Televize</Dest>
+    </String>
+    <String List="0" sID="0346BA">
+      <EDID>workshopScrapRecipe_ScrapWashersandDryers</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Appliance</Source>
+      <Dest>Spotřebič</Dest>
+    </String>
+    <String List="0" sID="034749">
+      <EDID>yellow</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Yellow</Source>
+      <Dest>Žlutá</Dest>
+    </String>
+    <String List="0" sID="0348B3">
+      <EDID>WorkshopTelevision01Table</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Television</Source>
+      <Dest>Televize</Dest>
+    </String>
+    <String List="0" sID="034929">
+      <EDID>WorkshopStrobeLight01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Strobe Light</Source>
+      <Dest>Stroboskopické světlo</Dest>
+    </String>
+    <String List="0" sID="034959">
+      <EDID>WorkshopRecipeFilterFurniture</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Furniture</Source>
+      <Dest>Nábytek</Dest>
+    </String>
+    <String List="0" sID="034A83">
+      <EDID>WorkshopRecipeFilterDecor02Statues</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Statues</Source>
+      <Dest>Sochy</Dest>
+    </String>
+    <String List="0" sID="034B1A">
+      <EDID>WorkshopRecipeFilterBuilding02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="034BBF">
+      <EDID>workshopScrapRecipe_Loot_Medkit</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>First Aid</Source>
+      <Dest>První pomoc</Dest>
+    </String>
+    <String List="0" sID="034BE4">
+      <EDID>workshopScrapRecipe_Loot_AmmoBox</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Ammo Box</Source>
+      <Dest>Muniční bedna</Dest>
+    </String>
+    <String List="0" sID="034C55">
+      <EDID>workshopScrapRecipe_Loot_Woodcrates</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Wood Crate</Source>
+      <Dest>Dřevěná bedna</Dest>
+    </String>
+    <String List="0" sID="034C56">
+      <EDID>workshopScrapRecipe_Loot_Bosstrunks</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Trunk</Source>
+      <Dest>Kufr</Dest>
+    </String>
+    <String List="0" sID="034C9E">
+      <EDID>WorkshopTrapCanChimes01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Can Chimes</Source>
+      <Dest>Plechovková zvonkohra</Dest>
+    </String>
+    <String List="0" sID="034D3C">
+      <EDID>WorkshopTrapCanChimes01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="034DF2">
+      <EDID>WorkshopWallShelfMetal02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Wall Shelf</Source>
+      <Dest>Nástěnná police</Dest>
+    </String>
+    <String List="0" sID="034E06">
+      <EDID>WorkshopWallShelfMetal01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Wall Shelf</Source>
+      <Dest>Nástěnná police</Dest>
+    </String>
+    <String List="0" sID="034E10">
+      <EDID>WorkshopWallShelfWood01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Wall Shelf</Source>
+      <Dest>Nástěnná police</Dest>
+    </String>
+    <String List="0" sID="034E66">
+      <EDID>workshopScrapRecipe_ScrapVaultChairs</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>Židle</Dest>
+    </String>
+    <String List="0" sID="034E93">
+      <EDID>WrhsWoodPallet01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Pallet</Source>
+      <Dest>Paleta</Dest>
+    </String>
+    <String List="0" sID="034EB8">
+      <EDID>WorkshopSwitchDelay02</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Reset</Source>
+      <Dest>Resetovat</Dest>
+    </String>
+    <String List="0" sID="034F08">
+      <EDID>workshopScrapRecipe_MetalBox</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>MetalBox</Source>
+      <Dest>Kovová krabice</Dest>
+    </String>
+    <String List="0" sID="034F09">
+      <EDID>workshopScrapMattress</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Bed</Source>
+      <Dest>Postel</Dest>
+    </String>
+    <String List="0" sID="034F0A">
+      <EDID>workshopScrapRecipe_FloorLamps</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Lamp</Source>
+      <Dest>Lampa</Dest>
+    </String>
+    <String List="0" sID="034F0B">
+      <EDID>workshopScrapRecipe_Mannequins</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Mannequinn</Source>
+      <Dest>Figurína</Dest>
+    </String>
+    <String List="0" sID="034F23">
+      <EDID>workshopScrapRecipe_Cleanrugs</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Rug</Source>
+      <Dest>Rohož</Dest>
+    </String>
+    <String List="0" sID="034F42">
+      <EDID>WorkshopSwitchDelay01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Reset</Source>
+      <Dest>Resetovat</Dest>
+    </String>
+    <String List="0" sID="034FC1">
+      <EDID>WorkshopWallShelfWood02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Wall Shelf</Source>
+      <Dest>Nástěnná police</Dest>
+    </String>
+    <String List="0" sID="034FCB">
+      <EDID>workshopScrapRecipe_ScrapFurnitureCoffeetables</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scrap Wood</Source>
+      <Dest>Staré dřevo</Dest>
+    </String>
+    <String List="0" sID="03519D">
+      <EDID>WrhsDoorSmMetal01static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0351AD">
+      <EDID>workshopScrapRecipe_PlaygroundSwingsets</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Swing Set</Source>
+      <Dest>Houpačka</Dest>
+    </String>
+    <String List="0" sID="035297">
+      <EDID>workshopScrapRecipe_ScrapStepLadders</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="035312">
+      <EDID>workshopScrapRecipe_ScrapBrokenterminal</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Broken Terminal</Source>
+      <Dest>Rozbitý terminál</Dest>
+    </String>
+    <String List="0" sID="035373">
+      <EDID>workshopScrapRecipe_Sandbagwall</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Sandbag Wall</Source>
+      <Dest>Pytle s pískem</Dest>
+    </String>
+    <String List="0" sID="035433">
+      <EDID>WorkshopVendorChestBase</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="035454">
+      <EDID>workshopScrapRecipe_CinderBlockStairs</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cinder Blocks</Source>
+      <Dest>Tvárnice</Dest>
+    </String>
+    <String List="0" sID="03567F">
+      <EDID>workshopScrapRecipe_ScrapVaultcrates</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="0356CB">
+      <EDID>workshopScrapRecipe_ScrapSafes</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Safe</Source>
+      <Dest>Sejf</Dest>
+    </String>
+    <String List="0" sID="0356CD">
+      <EDID>workshopScrapRecipe_ScrapLobsterFloat</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Lobster Float</Source>
+      <Dest>Humří plovák</Dest>
+    </String>
+    <String List="0" sID="03574D">
+      <EDID>workshopScrapRecipe_Radio</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="0357C6">
+      <EDID>workshopScrapRecipe_FloraTarberry</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Tarberry</Source>
+      <Dest>Dehtůvka</Dest>
+    </String>
+    <String List="0" sID="0357E7">
+      <EDID>ZetaRadiationPushRewardEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Push Actor Away - Zeta Reward</Source>
+      <Dest>Push Actor Away - Zeta Reward</Dest>
+    </String>
+    <String List="0" sID="0357EC">
+      <EDID>workshopScrapRecipe_CinderBlockPileLarge</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cinder Blocks</Source>
+      <Dest>Tvárnice</Dest>
+    </String>
+    <String List="0" sID="0357F0">
+      <EDID>WorkshopWorkbenchNonSettlement</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Workshop</Source>
+      <Dest>Dílna</Dest>
+    </String>
+    <String List="0" sID="0357FE">
+      <EDID>workshopScrapRecipe_MuseumDividers</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Divider</Source>
+      <Dest>Příčka</Dest>
+    </String>
+    <String List="0" sID="035FE0">
+      <EDID>WorkshopSuperMutantAttack01</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend &lt;Alias=myLocation&gt;</Source>
+      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="036004">
+      <EDID>WorkshopSynthInfiltrator02</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend &lt;Alias=myLocation&gt;</Source>
+      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="03603E">
+      <EDID>WorkshopSynthInfiltrator01</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend &lt;Alias=myLocation&gt;</Source>
+      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="0360DB">
+      <EDID>WorkshopSuperMutantAttack02</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend &lt;Alias=myLocation&gt;</Source>
+      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+    </String>
+    <String List="1" sID="02DFAD">
+      <EDID>YoureSpecialMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Pick the attribute to improve.</Source>
+      <Dest>Vyber vlastnost k vylepšení.</Dest>
+    </String>
+    <String List="1" sID="02E04D">
+      <EDID>WorkshopSuperMutantAttack01Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; is under attack!</Source>
+      <Dest>&lt;Alias=myLocation&gt; je pod útokem!</Dest>
+    </String>
+    <String List="1" sID="0309F7">
+      <EDID>yellowBelly</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Chance on hit to cause target to flee for 30 seconds.</Source>
+      <Dest>Šance, že po zásahu bude cíl prchat po dobu 30 vteřin.</Dest>
+    </String>
+    <String List="1" sID="030A05">
+      <EDID>XCell</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+2 to all SPECIALs for 2 minutes.</Source>
+      <Dest>+2 pro všechny SPECIAL vlastnosti na 2 minuty.</Dest>
+    </String>
+    <String List="1" sID="034C43">
+      <EDID>WorkshopSynthInfiltrator01Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; is under attack!</Source>
+      <Dest>&lt;Alias=myLocation&gt; je pod útokem!</Dest>
+    </String>
+    <String List="1" sID="034C45">
+      <EDID>WorkshopSynthInfiltrator02Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; is under attack!</Source>
+      <Dest>&lt;Alias=myLocation&gt; je pod útokem!</Dest>
+    </String>
+    <String List="1" sID="0360D1">
+      <EDID>WorkshopSuperMutantAttack02Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; is under attack!</Source>
+      <Dest>&lt;Alias=myLocation&gt; je pod útokem!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
