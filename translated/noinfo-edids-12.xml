@@ -1980,6 +1980,12 @@
       <Source>Legendary Albino Radstag</Source>
       <Dest>Legendární mutajelen albín</Dest>
     </String>
+    <String List="0" sID="02EF7B">
+      <EDID>EnchCryoFreeze</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Cryo Freeze</Source>
+      <Dest>Kryo zmražení</Dest>
+    </String>
     <String List="0" sID="02EF85">
       <EDID>EncSynth05Legendary</EDID>
       <REC>NPC_:FULL</REC>
@@ -2320,7 +2326,7 @@
       <EDID>EncProtectronSubway</EDID>
       <REC id="4">NPC_:FULL</REC>
       <Source>Protectron Steward</Source>
-      <Dest>Protektron Stevard</Dest>
+      <Dest>Protektron stevard</Dest>
     </String>
     <String List="0" sID="030FF9">
       <EDID>EncProtectronSubway</EDID>
@@ -2536,7 +2542,7 @@
       <EDID>EncProtectronConstruction01</EDID>
       <REC id="4">NPC_:FULL</REC>
       <Source>Utility Protectron</Source>
-      <Dest>Užitkový Protektron</Dest>
+      <Dest>Údržbářský protektron</Dest>
     </String>
     <String List="0" sID="031929">
       <EDID>EncProtectronConstruction01</EDID>
@@ -3322,7 +3328,7 @@
       <EDID>EncProtectronPolice01</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Police Protectron</Source>
-      <Dest>Policejní Protektron</Dest>
+      <Dest>Policejní protektron</Dest>
     </String>
     <String List="0" sID="0321D9">
       <EDID>EncProtectronMedic01</EDID>
@@ -4122,7 +4128,7 @@
       <Source>Synth Strider</Source>
       <Dest>Syntetik pěšák</Dest>
     </String>
-    <String List="0" sID="0357CB" Partial="1">
+    <String List="0" sID="0357CB">
       <EDID>EnchModDisarm</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Disarm</Source>
@@ -4666,7 +4672,7 @@
       <EDID>EncProtectron02Legendary</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Legendary Protectron Watcher</Source>
-      <Dest>Legendární Protektron pozorovatel</Dest>
+      <Dest>Legendární protektron pozorovatel</Dest>
     </String>
     <String List="0" sID="036419">
       <EDID>EncBoSSoldier04Legendary</EDID>
@@ -4780,7 +4786,7 @@
       <EDID>EncProtectron03Legendary</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Legendary Protectron Guardian</Source>
-      <Dest>Legendární Protektron strážce</Dest>
+      <Dest>Legendární protektron strážce</Dest>
     </String>
     <String List="0" sID="03643F">
       <EDID>EncBoSSoldier07PowerArmorLegendary</EDID>
