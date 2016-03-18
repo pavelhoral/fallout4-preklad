@@ -94,3 +94,74 @@ class StringsReader {
 
 }
 module.exports.StringsReader = StringsReader;
+
+/**
+ * Strings file serializer.
+ */
+class StringsSerializer {
+
+    constructor(strings, padded, encoding) {
+        this.strings = strings;
+        this.padded = !!padded;
+    }
+
+    serialize() {
+        var stringIds = Object.keys(this.strings),
+            directorySize = stringIds.length * 8,
+            dataSize = 0,
+            stringMap = stringIds.reduce((result, stringId) => {
+                var string = this.strings[stringId];
+                if (!result[string]) {
+                    result[string] = new Buffer(this.strings[stringId], this.encoding);
+                    dataSize += this.padded * 8 + result[string].length + 1;
+                }
+                return result;
+            }, {}),
+            buffer = new Buffer(8 + directorySize + dataSize);
+        // Write header
+        buffer.writeUInt32LE(stringIds.length, 0);
+        buffer.writeUInt32LE(dataSize, 4);
+        // Serialize data
+        Object.keys(stringMap).reduce((offset, string) => {
+            var encoded = stringMap[string],
+                length = encoded.length;
+            stringMap[string] = offset;
+            if (this.padded) {
+                buffer.writeUInt32LE(encoded.length + 1, 8 + directorySize + offset);
+                offset += 4;
+            }
+            encoded.copy(buffer, 8 + directorySize + offset);
+            return offset + encoded.length + 1;
+        }, 0);
+        // Serialize dictionary
+        stringIds.forEach((stringId, index) => {
+            buffer.writeUInt32LE(parseInt(stringId, 16), 8 + index * 8);
+            buffer.writeUInt32LE(stringMap[this.strings[stringId]], 8 + index * 8 + 4);
+        });
+        return buffer;
+    }
+
+}
+module.exports.StringsSerializer = StringsSerializer;
+
+/**
+ * Strings file writer.
+ */
+class StringsWriter {
+
+    constructor(encoding) {
+        this.encoding = encoding || 'utf-8';
+    }
+
+    writeBuffer(strings, padded, encoding) {
+        var stringsSerializer = new StringsSerializer(strings, padded, encoding || this.encoding);
+        return stringsSerializer.serialize();
+    }
+
+    writeFile(strings, filename, encoding) {
+        var outputBuffer = this.writeBuffer(strings, path.extname(filename) !== '.STRINGS', encoding);
+        fs.writeFileSync(filename, outputBuffer);
+    }
+
+}
+module.exports.StringsWriter = StringsWriter;
