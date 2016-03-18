@@ -11,6 +11,7 @@ var fs = require('fs'),
 program.
     usage('[options] <file>').
     option('-t, --target <directory>', 'Target output directory (defaults to cwd).').
+    option('-s, --shadow <directory>', 'Shadow translation source directory.').
     parse(process.argv);
 
 if (program.args.length < 1) {
@@ -26,6 +27,20 @@ function loadXml(xmlPath) {
     return xmlObject;
 }
 
+function applyShadow(strings, shadowPath) {
+    var shadow = new parseStrings.StringsReader().readFile(shadowPath);
+    Object.keys(shadow).forEach((stringId) => {
+        var shadowString = shadow[stringId];
+        if (strings[stringId] !== undefined) {
+            return;
+        }
+        if (shadowString && shadowString != ' ' && shadowString != '  ') {
+            shadowString = '!' + shadowString;
+        }
+        strings[stringId] = shadowString;
+    });
+}
+
 var xmlObject = loadXml(program.args[0]),
     inputParams = xmlObject.SSTXMLRessources.Params[0],
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
@@ -35,8 +50,12 @@ var xmlObject = loadXml(program.args[0]),
     var strings = inputStrings.
             filter((string) => string.$.List == index).
             reduce((result, string) => {
-                result[string.$.sID] = string.Dest[0];
+                result[parseInt(string.$.sID, 16)] = string.Dest[0];
                 return result;
             }, {});
+    if (program.shadow) {
+        applyShadow(strings, path.join(
+                program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type));
+    }
     new parseStrings.StringsWriter().writeFile(strings, targetPrefix + type);
 });

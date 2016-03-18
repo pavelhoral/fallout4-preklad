@@ -135,7 +135,7 @@ class StringsSerializer {
         }, 0);
         // Serialize dictionary
         stringIds.forEach((stringId, index) => {
-            buffer.writeUInt32LE(parseInt(stringId, 16), 8 + index * 8);
+            buffer.writeUInt32LE(stringId | 0, 8 + index * 8);
             buffer.writeUInt32LE(stringMap[this.strings[stringId]], 8 + index * 8 + 4);
         });
         return buffer;
