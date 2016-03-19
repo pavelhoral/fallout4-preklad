@@ -1,0 +1,3787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="012804">
+      <EDID>TruckDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Trailer Door</Source>
+      <Dest>Dveře přívěsu</Dest>
+    </String>
+    <String List="0" sID="0128C3">
+      <EDID>TrainingAG01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="0129B8">
+      <EDID>TurretMountedLaserGunLtBlue</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="012A1F">
+      <EDID>TrapGunMissileGrip</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Gun Brace</Source>
+      <Dest>Držák zbraně</Dest>
+    </String>
+    <String List="0" sID="012E29">
+      <EDID>TurretBubbleBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Body</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="013022">
+      <EDID>TravisMiles</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Travis Miles</Source>
+      <Dest>Travis Miles</Dest>
+    </String>
+    <String List="0" sID="013312">
+      <EDID>TrapTrigTensionExtended</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tension Trigger</Source>
+      <Dest>Pružinový spouštěč</Dest>
+    </String>
+    <String List="0" sID="013C2A">
+      <EDID>TrashBin01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Trash Bin</Source>
+      <Dest>Odpadkový koš</Dest>
+    </String>
+    <String List="0" sID="013F4A">
+      <EDID>TrainingST06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="014006">
+      <EDID>TrainingAG09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="0148C4">
+      <EDID>TrainingEN05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="014976">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Motors</Source>
+      <Dest>Motory</Dest>
+    </String>
+    <String List="0" sID="014A29">
+      <EDID>Toughness01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Toughness</Source>
+      <Dest>Tvrďák</Dest>
+    </String>
+    <String List="0" sID="014E5E">
+      <EDID>TrainingLK09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="015128">
+      <EDID>TrapTrigTensionExtended02</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tension Trigger</Source>
+      <Dest>Pružinový spouštěč</Dest>
+    </String>
+    <String List="0" sID="015173">
+      <EDID>TireWall01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tire Wall</Source>
+      <Dest>Zeď z pneumatik</Dest>
+    </String>
+    <String List="0" sID="01524A">
+      <EDID>TireIron</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Tire Iron</Source>
+      <Dest>Klíč na kola</Dest>
+    </String>
+    <String List="0" sID="0153C2">
+      <EDID>tpSmelterButton</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Smelt Contents</Source>
+      <Dest>Roztavit obsah</Dest>
+    </String>
+    <String List="0" sID="0157AE">
+      <EDID>TrapGrenadeBouquetFrag1Medium</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="016016">
+      <EDID>TiconderogaStation01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Ticonderoga</Source>
+      <Dest>Ticonderoga</Dest>
+    </String>
+    <String List="0" sID="016259">
+      <EDID>TrainingEN06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="0165D0">
+      <EDID>TommyLonegan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tommy Lonegan</Source>
+      <Dest>Tommy Lonegan</Dest>
+    </String>
+    <String List="0" sID="016BCD">
+      <EDID>TrapTripWire_Laser</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Laser Tripwire</Source>
+      <Dest>Laserová past</Dest>
+    </String>
+    <String List="0" sID="016DFC">
+      <EDID>TrainingIN05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="017B79">
+      <EDID>TrapGrenadeBouquetFrag3ExtraLong</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="017B91">
+      <EDID>TrapFloraThistle</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Sklidit</Dest>
+    </String>
+    <String List="0" sID="0183C1">
+      <EDID>TrapTrigTension</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tension Trigger</Source>
+      <Dest>Pružinový spouštěč</Dest>
+    </String>
+    <String List="0" sID="018AD4">
+      <EDID>TrainingIN08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="0190E2">
+      <EDID>TurretMountedLaserGun01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="0192CF">
+      <EDID>TrainingEN03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="01934B">
+      <EDID>TrainingCH09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="019381">
+      <EDID>TrapCanChimes01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Can Chimes</Source>
+      <Dest>Plechovková zvonkohra</Dest>
+    </String>
+    <String List="0" sID="0193FC">
+      <EDID>TrainingST02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="019411">
+      <EDID>TrapElectricalArc</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tesla Arc</Source>
+      <Dest>Teslův oblouk</Dest>
+    </String>
+    <String List="0" sID="019558">
+      <EDID>TurretTripodMachineGunMkI</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Machine Gun</Source>
+      <Dest>Kulometná věž</Dest>
+    </String>
+    <String List="0" sID="0197CD">
+      <EDID>TrapGrenadeBouquetFrag1ExtraLong</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="01994C">
+      <EDID>TravisMiles</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Travis</Source>
+      <Dest>Travis</Dest>
+    </String>
+    <String List="0" sID="019B09">
+      <EDID>TrapGrenadeBouquetFrag1Short</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="019CAC">
+      <EDID>TurretHack_Holotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>turret_override.exe</Source>
+      <Dest>prepsani_veze.exe</Dest>
+    </String>
+    <String List="0" sID="019E6C">
+      <EDID>TrainingAG06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="01A17B">
+      <EDID>TrapElectricArcMagicEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Electricity Damage</Source>
+      <Dest>Electricity Damage</Dest>
+    </String>
+    <String List="0" sID="01A92A">
+      <EDID>TonySavoldi</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tony Savoldi</Source>
+      <Dest>Tony Savoldi</Dest>
+    </String>
+    <String List="0" sID="01AC9B">
+      <EDID>TrainingPE07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01ADB8">
+      <EDID>TrainingCH08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01AF02">
+      <EDID>TrapFloraThistle</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Irradiated Thistle</Source>
+      <Dest>Ozářený bodlák</Dest>
+    </String>
+    <String List="0" sID="01B03C">
+      <EDID>TrapIEDCigarCarton</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Makeshift Bomb</Source>
+      <Dest>Improvizovaná bomba</Dest>
+    </String>
+    <String List="0" sID="01B436">
+      <EDID>TrainingIN03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01B4E8">
+      <EDID>TrapGrenadeBouquetFrag1Long</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="01B801">
+      <EDID>TrainingCH03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01BB09">
+      <EDID>TinCan02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Aluminum Can</Source>
+      <Dest>Hliníková plechovka</Dest>
+    </String>
+    <String List="0" sID="01BE5B">
+      <EDID>ToyTruck_PreWar01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>New Toy Truck</Source>
+      <Dest>Nový náklaďáček</Dest>
+    </String>
+    <String List="0" sID="01C091">
+      <EDID>tpSmelterButton</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Push</Source>
+      <Dest>Stisknout</Dest>
+    </String>
+    <String List="0" sID="01C0E0">
+      <EDID>Turpentine</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Turpentine</Source>
+      <Dest>Terpentýn</Dest>
+    </String>
+    <String List="0" sID="01C205">
+      <EDID>TrinityChurch01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Trinity Church</Source>
+      <Dest>Kostel Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="01C43F">
+      <EDID>TinkerTom</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tinker Tom</Source>
+      <Dest>Dráteník Tom</Dest>
+    </String>
+    <String List="0" sID="01C519">
+      <EDID>TrainingLK03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01C7CF">
+      <EDID>TurretWorkshopBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>TurretWorkshopRoot</Source>
+      <Dest>TurretWorkshopRoot</Dest>
+    </String>
+    <String List="0" sID="01CF8B">
+      <EDID>Toaster_01_PostWar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toaster</Source>
+      <Dest>Toustovač</Dest>
+    </String>
+    <String List="0" sID="01D32F">
+      <EDID>TrainingLK08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01D5D3">
+      <EDID>TurretBubbleBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>TurretMountedRoot</Source>
+      <Dest>TurretMountedRoot</Dest>
+    </String>
+    <String List="0" sID="01D651">
+      <EDID>TrinityTowerLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Trinity Tower</Source>
+      <Dest>Mrakodrap Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="01D6BF">
+      <EDID>TiconderogaStationLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Ticonderoga</Source>
+      <Dest>Ticonderoga</Dest>
+    </String>
+    <String List="0" sID="01D6DA">
+      <EDID>tpShogunsDecapitatorEFFECT</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Decapitate on Death</Source>
+      <Dest>Decapitate on Death</Dest>
+    </String>
+    <String List="0" sID="01D7E4">
+      <EDID>TinCan01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Tin Can</Source>
+      <Dest>Plechovka</Dest>
+    </String>
+    <String List="0" sID="01D8D5">
+      <EDID>TurretWorkshopBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="01D8DD">
+      <EDID>TurretWorkshopBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Barrel</Source>
+      <Dest>Hlaveň</Dest>
+    </String>
+    <String List="0" sID="01D8E7">
+      <EDID>TurretBubbleBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Barrel</Source>
+      <Dest>Hlaveň</Dest>
+    </String>
+    <String List="0" sID="01D98D">
+      <EDID>Toughness02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Toughness</Source>
+      <Dest>Tvrďák</Dest>
+    </String>
+    <String List="0" sID="01D990">
+      <EDID>Toughness03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Toughness</Source>
+      <Dest>Tvrďák</Dest>
+    </String>
+    <String List="0" sID="01DA71">
+      <EDID>TurretMountedAshPile</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Turret</Source>
+      <Dest>Věž</Dest>
+    </String>
+    <String List="0" sID="01DB3E">
+      <EDID>TrainingST05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="01DB49">
+      <EDID>TrainingPE02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DB4B">
+      <EDID>TrainingPE03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DB50">
+      <EDID>TrainingPE04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DB59">
+      <EDID>TrainingEN02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="01DB62">
+      <EDID>TrainingEN04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="01DB67">
+      <EDID>TrainingCH01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01DB6A">
+      <EDID>TrainingCH02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01DB6F">
+      <EDID>TrainingCH04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01DB73">
+      <EDID>TrainingCH05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01DB78">
+      <EDID>TrainingIN01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01DB8F">
+      <EDID>TrainingAG03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="01DB99">
+      <EDID>TrainingAG05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="01DB9B">
+      <EDID>TrainingLK01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01DB9F">
+      <EDID>TrainingLK02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01DBA6">
+      <EDID>TrainingLK04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01DBFA">
+      <EDID>TrainingAG07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="01DBFD">
+      <EDID>TrainingAG08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="01DC00">
+      <EDID>TrainingCH06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="01DC0B">
+      <EDID>TrainingEN08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="01DC17">
+      <EDID>TrainingIN06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01DC1C">
+      <EDID>TrainingIN07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01DC21">
+      <EDID>TrainingIN09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01DC25">
+      <EDID>TrainingLK06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01DC26">
+      <EDID>TrainingLK07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="01DC31">
+      <EDID>TrainingPE06</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DC35">
+      <EDID>TrainingPE08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DC38">
+      <EDID>TrainingPE09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="01DC40">
+      <EDID>TrainingST07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="01DC96">
+      <EDID>Trish</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trish</Source>
+      <Dest>Trish</Dest>
+    </String>
+    <String List="0" sID="01E3E0">
+      <EDID>TraderRylee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trader Rylee</Source>
+      <Dest>Obchodnice Rylee</Dest>
+    </String>
+    <String List="0" sID="01E992">
+      <EDID>TrainingST09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="01EA64">
+      <EDID>Tutorial</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Tutorials</Source>
+      <Dest>Výuka</Dest>
+    </String>
+    <String List="0" sID="01EE04">
+      <EDID>TrainingST01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="01F1D4">
+      <EDID>ToyCar_PreWar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>New Toy Car</Source>
+      <Dest>Nové autíčko</Dest>
+    </String>
+    <String List="0" sID="01F3BD">
+      <EDID>TrapTrigTensionHooked</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Tension Trigger</Source>
+      <Dest>Pružinový spouštěč</Dest>
+    </String>
+    <String List="0" sID="01F918">
+      <EDID>TrainingST08</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="01FF7B">
+      <EDID>TrainingIN02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="01FFFD">
+      <EDID>TurretTripodClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Tripod Turret</Source>
+      <Dest>Věž na trojnožce</Dest>
+    </String>
+    <String List="0" sID="0204A1">
+      <EDID>ToyRocketship</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toy Rocketship</Source>
+      <Dest>Raketa (hračka)</Dest>
+    </String>
+    <String List="0" sID="020622">
+      <EDID>TurretBubbleBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Combat Inhibitor</Source>
+      <Dest>Bojový inhibitor</Dest>
+    </String>
+    <String List="0" sID="020EBA">
+      <EDID>TrainingCH07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Charisma Training</Source>
+      <Dest>Trénink charismatu</Dest>
+    </String>
+    <String List="0" sID="020F84">
+      <EDID>TiconderogaMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ticonderoga</Source>
+      <Dest>Ticonderoga</Dest>
+    </String>
+    <String List="0" sID="021167">
+      <EDID>TrapOilFireHazardEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fire Damage</Source>
+      <Dest>Fire Damage</Dest>
+    </String>
+    <String List="0" sID="021392">
+      <EDID>TrinityPlazaLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Trinity Plaza</Source>
+      <Dest>Náměstí Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="021661">
+      <EDID>TurretBubbleRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Bubble Turret</Source>
+      <Dest>Kulová věž</Dest>
+    </String>
+    <String List="0" sID="0219BC">
+      <EDID>TrainingPE05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="021C30">
+      <EDID>TinkerTom</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Tinker Tom</Source>
+      <Dest>Dráteník Tom</Dest>
+    </String>
+    <String List="0" sID="021D9A">
+      <EDID>Tire01Clean</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="0220B8">
+      <EDID>TrapBarnacle01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Barnacle</Source>
+      <Dest>Korýš</Dest>
+    </String>
+    <String List="0" sID="02219F">
+      <EDID>TrapGrenadeBouquetFrag3Short</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="0222D9">
+      <EDID>Toothbrush</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toothbrush</Source>
+      <Dest>Zubní kartáček</Dest>
+    </String>
+    <String List="0" sID="022420">
+      <EDID>TrinityTower01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Trinity Tower Mid Level</Source>
+      <Dest>Prostřední patra mrakodrapu Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="0226DC">
+      <EDID>TrainingEN09</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="022B3D">
+      <EDID>TinCan03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Can</Source>
+      <Dest>Plechovka</Dest>
+    </String>
+    <String List="0" sID="023139">
+      <EDID>TrainingST04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="023473">
+      <EDID>TrainingAG02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="0236A4">
+      <EDID>TrapOilFireHazard</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Strong Fire Hazard</Source>
+      <Dest>Vysoké nebezpečí požáru</Dest>
+    </String>
+    <String List="0" sID="02389C">
+      <EDID>TurretTripodRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Tripod Turret</Source>
+      <Dest>Věž na trojnožce</Dest>
+    </String>
+    <String List="0" sID="023D8A">
+      <EDID>TrinityPlazaMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Trinity Plaza</Source>
+      <Dest>Náměstí Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="023FCC">
+      <EDID>ToyTruck01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toy Truck</Source>
+      <Dest>Náklaďáček</Dest>
+    </String>
+    <String List="0" sID="0243F1">
+      <EDID>TrainingEN07</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="0245C2">
+      <EDID>TrainingLK05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Luck Training</Source>
+      <Dest>Trénink štěstí</Dest>
+    </String>
+    <String List="0" sID="024665">
+      <EDID>TrainingPE01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Perception Training</Source>
+      <Dest>Trénink vnímání</Dest>
+    </String>
+    <String List="0" sID="024717">
+      <EDID>TricyclePW</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tricycle</Source>
+      <Dest>Tříkolka</Dest>
+    </String>
+    <String List="0" sID="024738">
+      <EDID>TurretBubbleClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Bubble Turret</Source>
+      <Dest>Kulová věž</Dest>
+    </String>
+    <String List="0" sID="0248C7">
+      <EDID>TurretWorkshopBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Combat Inhibitor</Source>
+      <Dest>Bojový inhibitor</Dest>
+    </String>
+    <String List="0" sID="024928">
+      <EDID>ToyCar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toy Car</Source>
+      <Dest>Autíčko</Dest>
+    </String>
+    <String List="0" sID="024941">
+      <EDID>tpBot_ArmsTypeA1</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Bot_ArmsTypeA1</Source>
+      <Dest>Bot_ArmsTypeA1</Dest>
+    </String>
+    <String List="0" sID="024B79">
+      <EDID>TrinityTowerMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Trinity Tower</Source>
+      <Dest>Mrakodrap Svaté trojice</Dest>
+    </String>
+    <String List="0" sID="024F8D">
+      <EDID>TrapGrenadeBouquetFrag3Long</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="024F9B">
+      <EDID>TrainingIN04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Intelligence Training</Source>
+      <Dest>Trénink inteligence</Dest>
+    </String>
+    <String List="0" sID="02513E">
+      <EDID>TrapAmmoFragGrenade</EDID>
+      <REC>AMMO:ONAM</REC>
+      <Source>Grenade</Source>
+      <Dest>Granát</Dest>
+    </String>
+    <String List="0" sID="0254F2">
+      <EDID>TrapGunPistolGrip</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Gun Trap</Source>
+      <Dest>Zbraňová past</Dest>
+    </String>
+    <String List="0" sID="025597">
+      <EDID>Tire01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="0255DB">
+      <EDID>TrapGunRifleGrip</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Gun Brace</Source>
+      <Dest>Držák zbraně</Dest>
+    </String>
+    <String List="0" sID="0258C5">
+      <EDID>ToyWoodenBlock01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wooden Block - I &amp; D</Source>
+      <Dest>Kostička - I a D</Dest>
+    </String>
+    <String List="0" sID="025A62">
+      <EDID>TommyLonegan</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Tommy</Source>
+      <Dest>Tommy</Dest>
+    </String>
+    <String List="0" sID="025C78">
+      <EDID>TrapTrigPlate01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Bathroom Scale</Source>
+      <Dest>Osobní váha</Dest>
+    </String>
+    <String List="0" sID="02608C">
+      <EDID>Toaster_01_Prewar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toaster</Source>
+      <Dest>Toustovač</Dest>
+    </String>
+    <String List="0" sID="026608">
+      <EDID>TrainingST03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Strength Training</Source>
+      <Dest>Trénink síly</Dest>
+    </String>
+    <String List="0" sID="026A46">
+      <EDID>TurretFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Turret Defense System</Source>
+      <Dest>Věžový obranný systém</Dest>
+    </String>
+    <String List="0" sID="0274F7">
+      <EDID>Trudy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trudy</Source>
+      <Dest>Trudy</Dest>
+    </String>
+    <String List="0" sID="027BC4">
+      <EDID>TonySavoldi</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Tony</Source>
+      <Dest>Tony</Dest>
+    </String>
+    <String List="0" sID="027D77">
+      <EDID>TireIron</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
+    </String>
+    <String List="0" sID="027DF7">
+      <EDID>TrapTripWire_Handmade</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Handmade Tripwire</Source>
+      <Dest>Nástražný drát</Dest>
+    </String>
+    <String List="0" sID="027EEE">
+      <EDID>TrainingEN01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Endurance Training</Source>
+      <Dest>Trénink odolnosti</Dest>
+    </String>
+    <String List="0" sID="02801F">
+      <EDID>TrapTripWire_Laser_Wall</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Laser Tripwire</Source>
+      <Dest>Laserová past</Dest>
+    </String>
+    <String List="0" sID="0281AB">
+      <EDID>TrapGrenadeBouquetFrag3Medium</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Grenade Bouquet</Source>
+      <Dest>Granátová kytice</Dest>
+    </String>
+    <String List="0" sID="028549">
+      <EDID>TurretWorkshopBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Body</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="028671">
+      <EDID>TrainingAG04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Agility Training</Source>
+      <Dest>Trénink hbitosti</Dest>
+    </String>
+    <String List="0" sID="028767">
+      <EDID>TSWallace</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>T. S. Wallace</Source>
+      <Dest>T. S. Wallace</Dest>
+    </String>
+    <String List="0" sID="0287A0">
+      <EDID>ToyAlien</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toy Alien</Source>
+      <Dest>Ufonek</Dest>
+    </String>
+    <String List="0" sID="028E77">
+      <EDID>ToggleButton</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>Tlačítko</Dest>
+    </String>
+    <String List="0" sID="029053">
+      <EDID>ToyWoodenBlock03</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wooden Block - B &amp; Y</Source>
+      <Dest>Kostička - B a Y</Dest>
+    </String>
+    <String List="0" sID="02915A">
+      <EDID>ToyWoodenBlock04</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wooden Block - N &amp; S</Source>
+      <Dest>Kostička - N a S</Dest>
+    </String>
+    <String List="0" sID="02924C">
+      <EDID>ToyWoodenBlock02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Wooden Block - V &amp; F</Source>
+      <Dest>Kostička - V a F</Dest>
+    </String>
+    <String List="0" sID="02925D">
+      <EDID>TrapTripWire_Laser_Wall_Child</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Laser Tripwire</Source>
+      <Dest>Laserová past</Dest>
+    </String>
+    <String List="0" sID="0293ED">
+      <EDID>Toothpaste</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Toothpaste</Source>
+      <Dest>Zubní pasta</Dest>
+    </String>
+    <String List="0" sID="029558">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Combat Inhibitor</Source>
+      <Dest>Bojový inhibitor</Dest>
+    </String>
+    <String List="0" sID="029570">
+      <EDID>TrashcanMetalOffice01_Prewar</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Trash Can</Source>
+      <Dest>Popelnice</Dest>
+    </String>
+    <String List="0" sID="029578">
+      <EDID>TurretWorkshopRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Workshop Turret</Source>
+      <Dest>Dílenská věž</Dest>
+    </String>
+    <String List="0" sID="0295A3">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="029871">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>TurretFreeStandingRoot</Source>
+      <Dest>TurretFreeStandingRoot</Dest>
+    </String>
+    <String List="0" sID="0298EB">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Body</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="0298EC">
+      <EDID>TutorialDrinkWater</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Drink Water Tutorial</Source>
+      <Dest>Výuka pitné vody</Dest>
+    </String>
+    <String List="0" sID="029948">
+      <EDID>TrashBin01Empty</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Trash Bin</Source>
+      <Dest>Odpadkový koš</Dest>
+    </String>
+    <String List="0" sID="029C70">
+      <EDID>TrashcanMetalOffice01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Trash Can</Source>
+      <Dest>Popelnice</Dest>
+    </String>
+    <String List="0" sID="029C91">
+      <EDID>TurretTripodBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Barrel</Source>
+      <Dest>Hlaveň</Dest>
+    </String>
+    <String List="0" sID="029DDF">
+      <EDID>TurretMountedLaserGun02</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="029F08">
+      <EDID>TurretMountedLaserGun03</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="02A0E6">
+      <EDID>TurretBubbleLaserGun04</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="02A16B">
+      <EDID>TrapGunPistolGrip</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A1A8">
+      <EDID>TrapGrenadeBouquetFrag3Medium</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A1AC">
+      <EDID>TrapTrigPlate01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A1BA">
+      <EDID>TrapElectricalArc</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A1CD">
+      <EDID>TrapTrigTensionHooked</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A21E">
+      <EDID>TrapTrigTensionExtended02</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A238">
+      <EDID>TrapTrigTension</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A2B3">
+      <EDID>TrapGunRifleGrip</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A2CC">
+      <EDID>TrapGunMissileGrip</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A318">
+      <EDID>TrapIEDCigarCarton</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A33C">
+      <EDID>TrapGrenadeBouquetFrag1Long</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A34B">
+      <EDID>TrapCanChimes01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A3B2">
+      <EDID>TrapTrigTensionExtended</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A3CF">
+      <EDID>TrapGrenadeBouquetFrag1Short</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A457">
+      <EDID>TrapTripWire_Handmade</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A466">
+      <EDID>TrapGrenadeBouquetFrag1ExtraLong</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A490">
+      <EDID>TrapGrenadeBouquetFrag1Medium</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A4B2">
+      <EDID>TrapGrenadeBouquetFrag3Long</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A4B7">
+      <EDID>TrapGrenadeBouquetFrag3Short</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A4FA">
+      <EDID>TrapGrenadeBouquetFrag3ExtraLong</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02A5B0">
+      <EDID>TrapExplOilPool01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Oil</Source>
+      <Dest>Olej</Dest>
+    </String>
+    <String List="0" sID="02A7FC">
+      <EDID>TrapElectricArcMagicEffectV111</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Electricity Damage</Source>
+      <Dest>Electricity Damage</Dest>
+    </String>
+    <String List="0" sID="02B55F">
+      <EDID>TireIron</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
+    <String List="0" sID="02B649">
+      <EDID>Toughness04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Toughness</Source>
+      <Dest>Tvrďák</Dest>
+    </String>
+    <String List="0" sID="02B9E2">
+      <EDID>Toughness05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Toughness</Source>
+      <Dest>Tvrďák</Dest>
+    </String>
+    <String List="0" sID="02BCC6">
+      <EDID>TrapTripWire_Laser_Wall</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02BD25">
+      <EDID>TrapTripWire_Laser_Wall_Child</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02BD90">
+      <EDID>TrapTripWire_Laser</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="02D4C1">
+      <EDID>TireIron</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Epic (Blade Large)</Source>
+      <Dest>Epický (velká čepel)</Dest>
+    </String>
+    <String List="0" sID="02EF91">
+      <EDID>TrapFragGrenadeProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Frag Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0" sID="030880">
+      <EDID>TurretTripodMachineGunMkVII</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Machine Gun Explosive</Source>
+      <Dest>Výbušná kulometná věž</Dest>
+    </String>
+    <String List="0" sID="0308B1">
+      <EDID>tpShogunsDecapitatorEFFECT</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Gets stronger with each human it kills. &lt;Global=ImprovingSword&gt; humans killed.</Source>
+      <Dest>Gets stronger with each human it kills. &lt;Global=ImprovingSword&gt; humans killed.</Dest>
+    </String>
+    <String List="0" sID="03096C">
+      <EDID>TurretTripodMachineGunMkV</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Machine Gun Incendiary</Source>
+      <Dest>Zápalná kulometná věž</Dest>
+    </String>
+    <String List="0" sID="0309B5">
+      <EDID>TurretTripodMachineGunMkIII</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Machine Gun High Power</Source>
+      <Dest>Zesílená kulometná věž</Dest>
+    </String>
+    <String List="0" sID="030B91">
+      <EDID>TrapFragGrenadeProjectile2</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Frag Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0" sID="030BE3">
+      <EDID>TurretBubbleBallistic3shot</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Gun</Source>
+      <Dest>Věžová zbraň</Dest>
+    </String>
+    <String List="0" sID="030C9F">
+      <EDID>TrapFragGrenadeProjectile1</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Frag Grenade</Source>
+      <Dest>Tříštivý granát</Dest>
+    </String>
+    <String List="0" sID="030D05">
+      <EDID>TurretMountedLaserGun6shot</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Laser Gun</Source>
+      <Dest>Věžový laser</Dest>
+    </String>
+    <String List="0" sID="030D80">
+      <EDID>TurretMountedBallistic</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Gun</Source>
+      <Dest>Věžová zbraň</Dest>
+    </String>
+    <String List="0" sID="031225">
+      <EDID>Turpentine_Rare</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Industrial Solvent</Source>
+      <Dest>Průmyslové rozpouštědlo</Dest>
+    </String>
+    <String List="0" sID="031DA8">
+      <EDID>TrinityDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="034560">
+      <EDID>TurretMountedShotgun01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Shotgun</Source>
+      <Dest>Věžová brokovnice</Dest>
+    </String>
+    <String List="0" sID="034577">
+      <EDID>TurretMissileLauncher01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Missile Launcher</Source>
+      <Dest>Věžový raketomet</Dest>
+    </String>
+    <String List="0" sID="0345E6">
+      <EDID>TurretMountedSpotlight01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Turret Spotlight</Source>
+      <Dest>Věžový reflektor</Dest>
+    </String>
+    <String List="0" sID="034636">
+      <EDID>Tricycle01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tricycle</Source>
+      <Dest>Tříkolka</Dest>
+    </String>
+    <String List="0" sID="034655">
+      <EDID>TreeCluster04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034661">
+      <EDID>TreeCluster01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="0346CB">
+      <EDID>TreeCluster05</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="03476F">
+      <EDID>TreeClusterDead01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034795">
+      <EDID>Turquoise</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Turquoise</Source>
+      <Dest>Tyrkysová</Dest>
+    </String>
+    <String List="0" sID="0347BA">
+      <EDID>TreeBlasted04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="0347D4">
+      <EDID>TreeBlasted05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="03480C">
+      <EDID>TreeCluster03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034845">
+      <EDID>TreeCluster02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="03488A">
+      <EDID>TreeCluster09</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="0348A4">
+      <EDID>TreeCluster07</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="0348A8">
+      <EDID>TreeClusterVines01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="03491C">
+      <EDID>TreeCluster06</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034923">
+      <EDID>TreeBlasted03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="03495A">
+      <EDID>TreeCluster08</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034963">
+      <EDID>TreeMapleblasted01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034966">
+      <EDID>TreeClusterDead03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="034967">
+      <EDID>TreeClusterDead02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="0349AE">
+      <EDID>TreeClusterDead04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Tree Cluster</Source>
+      <Dest>Shluk stromů</Dest>
+    </String>
+    <String List="0" sID="0349CB">
+      <EDID>TreeElmUndergrowth01Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Elm Sapling</Source>
+      <Dest>Mladý jilm</Dest>
+    </String>
+    <String List="0" sID="0349CD">
+      <EDID>TirePile01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tires</Source>
+      <Dest>Pneumatiky</Dest>
+    </String>
+    <String List="0" sID="034A01">
+      <EDID>Tire02Clean</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="034A15">
+      <EDID>Tire03Hollow</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="034A20">
+      <EDID>TreeMapleblasted02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034A23">
+      <EDID>Tire02</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="034A2D">
+      <EDID>TreeMapleForest1</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034A3F">
+      <EDID>TreeLogGS01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Burnt Log</Source>
+      <Dest>Spálený kmen</Dest>
+    </String>
+    <String List="0" sID="034A6B">
+      <EDID>Tire03</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="034A75">
+      <EDID>TreeMapleForestsmall1</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034A76">
+      <EDID>TrapRadiation</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radiation Emitter</Source>
+      <Dest>Vyzařovač radiace</Dest>
+    </String>
+    <String List="0" sID="034A88">
+      <EDID>TreeMapleblasted06</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Trunk</Source>
+      <Dest>Pařez javoru</Dest>
+    </String>
+    <String List="0" sID="034A92">
+      <EDID>TireStack01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tires</Source>
+      <Dest>Pneumatiky</Dest>
+    </String>
+    <String List="0" sID="034AA4">
+      <EDID>TreeMapleForest3</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034AAA">
+      <EDID>TurretTripodAshpileMounted</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ash Pile</Source>
+      <Dest>Hromada popela</Dest>
+    </String>
+    <String List="0" sID="034AAB">
+      <EDID>TireRubber01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="034AC2">
+      <EDID>TreeLog02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Log</Source>
+      <Dest>Kmen javoru</Dest>
+    </String>
+    <String List="0" sID="034AC3">
+      <EDID>TreeMapleForest7</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034AD6">
+      <EDID>TreeMapleForestsmall3</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034AE8">
+      <EDID>TreeElmForest02Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Elm Tree</Source>
+      <Dest>Jilm</Dest>
+    </String>
+    <String List="0" sID="034B02">
+      <EDID>TirePile02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tires</Source>
+      <Dest>Pneumatiky</Dest>
+    </String>
+    <String List="0" sID="034B2C">
+      <EDID>TreeMapleForest6</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034B39">
+      <EDID>TreeMapleblasted04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034B74">
+      <EDID>TreeLog01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Log</Source>
+      <Dest>Kmen javoru</Dest>
+    </String>
+    <String List="0" sID="034B78">
+      <EDID>TreeMapleForestsmall2</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034BD6">
+      <EDID>TreeMapleblasted03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Trunk</Source>
+      <Dest>Pařez javoru</Dest>
+    </String>
+    <String List="0" sID="034BFF">
+      <EDID>TrapFlamethrower</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Flamethrower Trap</Source>
+      <Dest>Plamenometná past</Dest>
+    </String>
+    <String List="0" sID="034C09">
+      <EDID>TurretTripodAshpile</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ash Pile</Source>
+      <Dest>Hromada popela</Dest>
+    </String>
+    <String List="0" sID="034C39">
+      <EDID>TreeMapleblasted05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034C42">
+      <EDID>TreeElmUndergrowth02Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Elm Sapling</Source>
+      <Dest>Mladý jilm</Dest>
+    </String>
+    <String List="0" sID="034C5C">
+      <EDID>TreeMapleForest5</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034C61">
+      <EDID>TreeElmForest01Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Elm Tree</Source>
+      <Dest>Jilm</Dest>
+    </String>
+    <String List="0" sID="034C96">
+      <EDID>TrafficCone</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Traffic Cone</Source>
+      <Dest>Dopravní kužel</Dest>
+    </String>
+    <String List="0" sID="034CAA">
+      <EDID>TreeElmTree01Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Elm Tree</Source>
+      <Dest>Jilm</Dest>
+    </String>
+    <String List="0" sID="034CB1">
+      <EDID>TireWall02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tire Wall</Source>
+      <Dest>Zeď z pneumatik</Dest>
+    </String>
+    <String List="0" sID="034D14">
+      <EDID>TurretTripodAshpileCart</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ash Pile</Source>
+      <Dest>Hromada popela</Dest>
+    </String>
+    <String List="0" sID="034D26">
+      <EDID>TreeMapleForest4</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034D2B">
+      <EDID>TreeMapleblasted07</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034D7A">
+      <EDID>TreeMapleForest2</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Maple Tree</Source>
+      <Dest>Javor</Dest>
+    </String>
+    <String List="0" sID="034DBB">
+      <EDID>TreeBlastedForestDestroyedUpright01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Tree</Source>
+      <Dest>Ohořelý strom</Dest>
+    </String>
+    <String List="0" sID="034DBF">
+      <EDID>Tractor01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tractor</Source>
+      <Dest>Traktor</Dest>
+    </String>
+    <String List="0" sID="034E52">
+      <EDID>ToolRackGarage01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tool Rack</Source>
+      <Dest>Stěna na nářadí</Dest>
+    </String>
+    <String List="0" sID="034E79">
+      <EDID>ToiletBroken03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Toilet Bowl</Source>
+      <Dest>Záchodová mísa</Dest>
+    </String>
+    <String List="0" sID="034E9F">
+      <EDID>TreeBlastedForestDestroyedStump01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Stump</Source>
+      <Dest>Ohořelý pařez</Dest>
+    </String>
+    <String List="0" sID="034EC1">
+      <EDID>ToiletBroken02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Broken Toilet</Source>
+      <Dest>Rozbitý záchod</Dest>
+    </String>
+    <String List="0" sID="034EE8">
+      <EDID>TreeBlastedForestDestroyedFallen03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Log</Source>
+      <Dest>Ohořelý kmen</Dest>
+    </String>
+    <String List="0" sID="034F89">
+      <EDID>TreeBlastedForestDestroyedUpright03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Tree</Source>
+      <Dest>Ohořelý strom</Dest>
+    </String>
+    <String List="0" sID="034F95">
+      <EDID>TreeBlastedForestDestroyedStump03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Stump</Source>
+      <Dest>Ohořelý pařez</Dest>
+    </String>
+    <String List="0" sID="034FB3">
+      <EDID>TreeBlastedForestDestroyedFallen01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Log</Source>
+      <Dest>Ohořelý kmen</Dest>
+    </String>
+    <String List="0" sID="034FE4">
+      <EDID>TreeBlastedForestDestroyedUpright02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Tree</Source>
+      <Dest>Ohořelý strom</Dest>
+    </String>
+    <String List="0" sID="034FFD">
+      <EDID>TreeBlastedForestDestroyedStump02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Stump</Source>
+      <Dest>Ohořelý pařez</Dest>
+    </String>
+    <String List="0" sID="034FFE">
+      <EDID>TreeBlastedForestDestroyedFallen02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Blasted Log</Source>
+      <Dest>Ohořelý kmen</Dest>
+    </String>
+    <String List="0" sID="035021">
+      <EDID>ToiletBroken01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Toilet</Source>
+      <Dest>Záchod</Dest>
+    </String>
+    <String List="0" sID="035042">
+      <EDID>TreeSMarsh03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035051">
+      <EDID>TreeFallenSMarsh01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Log</Source>
+      <Dest>Kmen</Dest>
+    </String>
+    <String List="0" sID="035053">
+      <EDID>Truck02Red</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="035054">
+      <EDID>TreeBlastedForestBurntUpright02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035055">
+      <EDID>TreeLeanScrub02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035071">
+      <EDID>Truck02White</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="035072">
+      <EDID>TreeBlasted02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="03507D">
+      <EDID>TreeBlastedM01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0350BC">
+      <EDID>TreeBlastedForestBurntUpright01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="0350D0">
+      <EDID>TreeDriftwoodStump01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0350DB">
+      <EDID>Truck01Blue</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0350E0">
+      <EDID>TreeDriftwoodLog03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Driftwood</Source>
+      <Dest>Náplavové dřevo</Dest>
+    </String>
+    <String List="0" sID="0350E8">
+      <EDID>TreeStumpSMarsh01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0350FA">
+      <EDID>TreeLeanDead06</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="03511D">
+      <EDID>TrashCanMetal_Lid</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Trash Can Lid</Source>
+      <Dest>Víko popelnice</Dest>
+    </String>
+    <String List="0" sID="03512F">
+      <EDID>TrashCanMetal</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Trash Can</Source>
+      <Dest>Popelnice</Dest>
+    </String>
+    <String List="0" sID="035154">
+      <EDID>TreeBlastedForestCluster02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035160">
+      <EDID>TreeStump04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="035173">
+      <EDID>TreeScrubVines04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035176">
+      <EDID>TreeScrubVines02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035187">
+      <EDID>TreeLeanScrub05</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035193">
+      <EDID>Tire03HollowStatic</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tire</Source>
+      <Dest>Pneumatika</Dest>
+    </String>
+    <String List="0" sID="035194">
+      <EDID>TreeScrubVines03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0351A8">
+      <EDID>TreeLeanDead05</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0351C5">
+      <EDID>TreeClusterMound01_Marsh</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0351C8">
+      <EDID>TreeDriftwoodStump02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0351C9">
+      <EDID>TreeBlastedForestBurntFallen02_Top</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Fallen Tree</Source>
+      <Dest>Padlý strom</Dest>
+    </String>
+    <String List="0" sID="0351CF">
+      <EDID>Truck03Red</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0351D4">
+      <EDID>Truck01Red</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0351D6">
+      <EDID>TreeStump03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0351DF">
+      <EDID>TreeDriftwoodLog02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Driftwood</Source>
+      <Dest>Náplavové dřevo</Dest>
+    </String>
+    <String List="0" sID="0351E0">
+      <EDID>TruckHulkStatic</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0351EC">
+      <EDID>TreeBlastedForestBurntFallen01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Fallen Tree</Source>
+      <Dest>Padlý strom</Dest>
+    </String>
+    <String List="0" sID="035207">
+      <EDID>TreeDriftwood01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Driftwood</Source>
+      <Dest>Náplavové dřevo</Dest>
+    </String>
+    <String List="0" sID="035208">
+      <EDID>TreeBlastedForestClusterFallen01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Fallen Trees</Source>
+      <Dest>Padlé stromy</Dest>
+    </String>
+    <String List="0" sID="03520B">
+      <EDID>Truck02Green</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="035214">
+      <EDID>TreeLeanScrub07</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035224">
+      <EDID>TreeDriftwood02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Driftwood</Source>
+      <Dest>Náplavové dřevo</Dest>
+    </String>
+    <String List="0" sID="035238">
+      <EDID>TreeBlastedForestBurntStump01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="03523D">
+      <EDID>TreeSMarsh04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035256">
+      <EDID>TreeBlastedForestBurntUpright03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035259">
+      <EDID>TreeLeanScrub01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="03525E">
+      <EDID>TreefallenBranch02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Branch</Source>
+      <Dest>Větev</Dest>
+    </String>
+    <String List="0" sID="035269">
+      <EDID>TreeClusterMound02_Marsh</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035285">
+      <EDID>TreeBlastedM02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035289">
+      <EDID>TreeLeanScrub06</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="03528A">
+      <EDID>TreeBlastedForestBurntFallen03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Fallen Tree</Source>
+      <Dest>Padlý strom</Dest>
+    </String>
+    <String List="0" sID="0352A5">
+      <EDID>TreeLeanDead04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0352AE">
+      <EDID>TreeLeanDead03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0352D2">
+      <EDID>TreeStumpSMarsh03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0352E9">
+      <EDID>Truck03Blue</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0352EC">
+      <EDID>Truck03White</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0352F7">
+      <EDID>Truck01Green</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="035318">
+      <EDID>Tutorial_PerkMessage</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Tutorial for Perk Message</Source>
+      <Dest>Výuka oznámení perků</Dest>
+    </String>
+    <String List="0" sID="03531A">
+      <EDID>TreeDriftwoodLog01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Driftwood</Source>
+      <Dest>Náplavové dřevo</Dest>
+    </String>
+    <String List="0" sID="035329">
+      <EDID>TreeSMarsh05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035336">
+      <EDID>TreeBlastedForestCluster05</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035346">
+      <EDID>TreeSMarsh01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="03534B">
+      <EDID>Truck03Green</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="035366">
+      <EDID>TreeFallenSMarsh04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Log</Source>
+      <Dest>Kmen</Dest>
+    </String>
+    <String List="0" sID="03537C">
+      <EDID>TreeDriftwoodStump03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="03537F">
+      <EDID>TreeBlastedForestBurntFallen02_Bottom</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Fallen Tree</Source>
+      <Dest>Padlý strom</Dest>
+    </String>
+    <String List="0" sID="035398">
+      <EDID>TreeSMarsh02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="0353AB">
+      <EDID>TreeSMarshRoots01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Roots</Source>
+      <Dest>Kořeny</Dest>
+    </String>
+    <String List="0" sID="0353B0">
+      <EDID>TreeScrubVines01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0353B4">
+      <EDID>TreeLeanDead02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0353C3">
+      <EDID>TreeLeanScrub08</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0353DA">
+      <EDID>Truck01White</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0353E4">
+      <EDID>TreeStump01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0353E7">
+      <EDID>TreeBlastedForestBurntStump03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0353EC">
+      <EDID>TreeBlastedForestCluster01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0353F5">
+      <EDID>TreeBlasted01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="035400">
+      <EDID>TreeLeanDead01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035421">
+      <EDID>TreeBlastedM04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="03542D">
+      <EDID>TreeLeanScrub04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035436">
+      <EDID>TreeStumpSMarsh02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="03543C">
+      <EDID>TreeSMarshRoots02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Roots</Source>
+      <Dest>Kořeny</Dest>
+    </String>
+    <String List="0" sID="035442">
+      <EDID>Truck02Blue</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="03545A">
+      <EDID>TreeBlastedForestBurntStump02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="035470">
+      <EDID>TreeStumpGS01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0354B9">
+      <EDID>TreeDriftwoodStump04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0354C1">
+      <EDID>TreeBlastedM03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Tree</Source>
+      <Dest>Strom</Dest>
+    </String>
+    <String List="0" sID="0354C3">
+      <EDID>TreeBlastedForestCluster03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0354C7">
+      <EDID>TreefallenBranch01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Branch</Source>
+      <Dest>Větev</Dest>
+    </String>
+    <String List="0" sID="0354C8">
+      <EDID>TreeStump02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Stump</Source>
+      <Dest>Pařez</Dest>
+    </String>
+    <String List="0" sID="0354C9">
+      <EDID>Truck_Cheap01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Truck</Source>
+      <Dest>Tahač</Dest>
+    </String>
+    <String List="0" sID="0354CA">
+      <EDID>TreeLeanScrub03</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0354CC">
+      <EDID>TreeBlastedForestCluster04</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="0355F4">
+      <EDID>TreeLeanCluster01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035675">
+      <EDID>TreeLeanCluster02</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Trees</Source>
+      <Dest>Stromy</Dest>
+    </String>
+    <String List="0" sID="035ACF">
+      <EDID>TireIron</EDID>
+      <REC id="4">WEAP:FULL</REC>
+      <Source>Simple</Source>
+      <Dest>Jednoduchý</Dest>
+    </String>
+    <String List="0" sID="035B70">
+      <EDID>TireIron</EDID>
+      <REC id="5">WEAP:FULL</REC>
+      <Source>Simple Epic</Source>
+      <Dest>Jednoduchý epický</Dest>
+    </String>
+    <String List="0" sID="035DD1">
+      <EDID>TrapGunAutoGrip</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="035DD2">
+      <EDID>TrapGunShotgunGrip</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Zneškodnit</Dest>
+    </String>
+    <String List="0" sID="035DD6">
+      <EDID>TrapGunShotgunGrip</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Gun Brace</Source>
+      <Dest>Držák zbraně</Dest>
+    </String>
+    <String List="0" sID="035DD9">
+      <EDID>TrapGunAutoGrip</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Gun Trap</Source>
+      <Dest>Zbraňová past</Dest>
+    </String>
+    <String List="1" sID="012A46">
+      <EDID>TrainingST04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="012B98">
+      <EDID>TrainingCH02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="012D5D">
+      <EDID>TrainingPE03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0131DB">
+      <EDID>TrainingAG05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0139BA">
+      <EDID>TrainingCH07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="013A03">
+      <EDID>TrainingEN05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="014EC1">
+      <EDID>TrainingAG09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01536C">
+      <EDID>TutorialPipboyMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [PipBoy] to bring up the Pip-Boy.</Source>
+      <Dest>Pro použití Pip-Boye stiskni [PipBoy].</Dest>
+    </String>
+    <String List="1" sID="0156BF">
+      <EDID>TrainingST05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="016719">
+      <EDID>Toughness02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You now have +20 Damage Resistance.</Source>
+      <Dest>Nyní máš +20 k odolnosti vůči zranění.</Dest>
+    </String>
+    <String List="1" sID="016CD4">
+      <EDID>TrainingLK06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="016DA2">
+      <EDID>Toughness03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You now have +30 Damage Resistance.</Source>
+      <Dest>Nyní máš +30 k odolnosti vůči zranění.</Dest>
+    </String>
+    <String List="1" sID="017221">
+      <EDID>TrainingLK04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="017AE0">
+      <EDID>TrainingAG08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="017B7C">
+      <EDID>TrainingIN05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="017BF1">
+      <EDID>TrainingPE07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0180E5">
+      <EDID>TrainingEN02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="018306">
+      <EDID>TrainingST02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="018406">
+      <EDID>TutorialAttackMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [PrimaryAttack] to attack.</Source>
+      <Dest>Pro útok stiskni [PrimaryAttack].</Dest>
+    </String>
+    <String List="1" sID="01841D">
+      <EDID>TrainingCH09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0189A6">
+      <EDID>TrainingIN07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="019C55">
+      <EDID>TrainingLK07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01C68F">
+      <EDID>TrainingLK02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01C741">
+      <EDID>TrainingAG06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01C7AE">
+      <EDID>TrainingST09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01D401">
+      <EDID>TutorialEnterVATSMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [VATS] to target enemies in V.A.T.S.</Source>
+      <Dest>Pro aktivaci zaměřovacího režimu V.A.T.S. stiskni [VATS].</Dest>
+    </String>
+    <String List="1" sID="01D55D">
+      <EDID>TutorialLockpick01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>[RotatePick] to move the bobby pin.</Source>
+      <Dest>Pro pohyb s vlásenkou použij [RotatePick].</Dest>
+    </String>
+    <String List="1" sID="01D56A">
+      <EDID>TutorialLockpick03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If the lock resists, release [RotateLock] and use [RotatePick] to reposition the bobby pin.</Source>
+      <Dest>Pokud zámek při otevírání klade odpor, pusť [RotateLock] a použij [RotatePick] pro vhodnější natočení vlásenky.</Dest>
+    </String>
+    <String List="1" sID="01D56C">
+      <EDID>TutorialLockpick04</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>[RotateLock] to attempt to open the lock again.</Source>
+      <Dest>Pro opětovný pokus na otevření zámku použij [RotateLock].</Dest>
+    </String>
+    <String List="1" sID="01D98C">
+      <EDID>Toughness01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>If nothing else, you can take a beating! Instantly gain +10 Damage Resistance.</Source>
+      <Dest>Když už nic jiného, ustojíš pořádnou nakládačku! Okamžitě získáváš +10 k odolnosti vůči zranění.</Dest>
+    </String>
+    <String List="1" sID="01DB34">
+      <EDID>TrainingST01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB36">
+      <EDID>TrainingST03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB3F">
+      <EDID>TrainingPE01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB45">
+      <EDID>TrainingPE02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB51">
+      <EDID>TrainingPE05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB54">
+      <EDID>TrainingEN01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB5F">
+      <EDID>TrainingEN03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB61">
+      <EDID>TrainingEN04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB64">
+      <EDID>TrainingCH01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB6C">
+      <EDID>TrainingCH03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB6D">
+      <EDID>TrainingCH04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB71">
+      <EDID>TrainingCH05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB76">
+      <EDID>TrainingIN01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="01DB79">
+      <EDID>TrainingIN02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="01DB92">
+      <EDID>TrainingAG04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DB9A">
+      <EDID>TrainingLK01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DBA5">
+      <EDID>TrainingLK03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DBF8">
+      <EDID>TrainingAG07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DBFE">
+      <EDID>TrainingCH06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC06">
+      <EDID>TrainingEN06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC08">
+      <EDID>TrainingEN07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC0A">
+      <EDID>TrainingEN08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC0C">
+      <EDID>TrainingEN09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting. Now you instantly gain 1 point!</Source>
+      <Dest>Odolnost je mírou tvé celkové fyzické zdatnosti. Ovlivňuje velikost tvého zdraví a rychlost úbytku akčních bodů při sprintování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC15">
+      <EDID>TrainingIN06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="01DC1E">
+      <EDID>TrainingIN08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="01DC1F">
+      <EDID>TrainingIN09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="01DC29">
+      <EDID>TrainingLK09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC2A">
+      <EDID>TrainingPE06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC37">
+      <EDID>TrainingPE09</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC39">
+      <EDID>TrainingST06</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC3A">
+      <EDID>TrainingST07</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DC42">
+      <EDID>TrainingST08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Strength is a measure of your raw physical power. It affects how much you can carry, and the damage of all melee attacks. Now you instantly gain 1 point!</Source>
+      <Dest>Síla je měřítkem tvé hrubé fyzické zdatnosti. Určuje, kolik toho uneseš a účinnost všech útoků vedených zblízka. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01DEF3">
+      <EDID>TrainingLK08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="01F643">
+      <EDID>TrainingCH08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter. Now you instantly gain 1 point!</Source>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost v přesvědčování při rozhovorech a ceny při obchodování. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="02027C">
+      <EDID>TutorialLockpick02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>[RotateLock] to turn the screwdriver.</Source>
+      <Dest>Pro otočení šroubovákem použij [RotateLock].</Dest>
+    </String>
+    <String List="1" sID="0202B6">
+      <EDID>TrainingIN03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="0228E6">
+      <EDID>TrainingPE04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="022DDD">
+      <EDID>TrainingIN04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned. Now you instantly gain 1 point!</Source>
+      <Dest>Inteligence je mírou tvé mentální bystrosti a ovlivňuje množství získávaných zkušeností. Nyní okamžitě získáváš jeden bod!</Dest>
+    </String>
+    <String List="1" sID="022DEA">
+      <EDID>TrainingAG01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="023781">
+      <EDID>TrainingAG03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="025215">
+      <EDID>TrainingAG02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Agility is a measure of your overall finesse and reflexes. It affects the number of Action Points in V.A.T.S. and your ability to sneak. Now you instantly gain 1 point!</Source>
+      <Dest>Hbitost vyjadřuje míru tvé celkové obratnosti a úroveň tvých reflexů. Ovlivňuje množství akčních bodů v režimu V.A.T.S. a tvou zdatnost v plížení. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0266DE">
+      <EDID>TrainingLK05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits. Now you instantly gain 1 point!</Source>
+      <Dest>Štěstí je mírou celkové přízně tvého osudu a ovlivňuje rychlost dobíjení kritických zásahů. Nyní okamžitě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="027ADB">
+      <EDID>TrainingPE08</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S. Now you instantly gain 1 point!</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje šanci zásahu ve V.A.T.S. Nyní okamžítě získáváš 1 bod!</Dest>
+    </String>
+    <String List="1" sID="0291E9">
+      <EDID>TutorialPowerArmorExitMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Hold [Activate] to exit Power Armor.</Source>
+      <Dest>Pro vystoupení z energozbroje podrž [Activate].</Dest>
+    </String>
+    <String List="1" sID="02944D">
+      <EDID>ToggleButtonInactiveMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This button isn't functioning.</Source>
+      <Dest>Tlačítko není funkční.</Dest>
+    </String>
+    <String List="1" sID="029611">
+      <EDID>TutorialPowerArmorNoCoreMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This Power Armor has no Fusion Core, slowing its movement. Find a Fusion Core to repair it.</Source>
+      <Dest>Energozbroj je bez fúzního jádra a pohyblyvost je významně omezena. Pro obnovení pohybu najdi fúzní jádro.</Dest>
+    </String>
+    <String List="1" sID="029655">
+      <EDID>TutorialIronSights</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Hold [SecondaryAttack] to aim your gun.</Source>
+      <Dest>Pro zamíření zbraně podrž [SecondaryAttack].</Dest>
+    </String>
+    <String List="1" sID="029762">
+      <EDID>TutorialHacking03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The number next to "Likeness" indicates how many letters in your selection match letters in the terminal's password.</Source>
+      <Dest>Číslo uvedené u "Shoda" udává, kolik písmen ve vybraném slově má shodnou pozici s písmeny skutečného hesla k terminálu.</Dest>
+    </String>
+    <String List="1" sID="029784">
+      <EDID>TutorialPowerArmorLowCore02Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Find a new Fusion Core to restore your power level.</Source>
+      <Dest>Pro obnovení energie sežeň nové fúzní jádro.</Dest>
+    </String>
+    <String List="1" sID="0297CF">
+      <EDID>TutorialCompanionsIntro02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can also issue commands from the Companion Menu or by pressing [Activate] while facing your companion at a distance.</Source>
+      <Dest>Rozkazy můžeš společníkovi vydávat skrze dialogovou nabídku nebo vzdáleně stisknutím [Activate] po natočení jeho směrem.</Dest>
+    </String>
+    <String List="1" sID="0298B6">
+      <EDID>TutorialHotkeysMessage_GunStimBaton</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a favorited item with [QuickkeyLeft], [QuickkeyDown], or [QuickkeyRight]. Then press [Accept] to use it.</Source>
+      <Dest>Vyber oblíbený předmět pomocí [QuickkeyLeft], [QuickkeyDown] nebo [QuickkeyRight]. Pro jeho použití stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="0298BF">
+      <EDID>TutorialHotkeysMessage_GunBaton</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a favorited item with [QuickkeyLeft] or [QuickkeyRight]. Then press [Accept] to use it.</Source>
+      <Dest>Vyber oblíbený předmět pomocí [QuickkeyLeft] nebo [QuickkeyRight]. Pro jeho použití stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="0298CA">
+      <EDID>TutorialCommandMessage_OLD</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Activate] to have your companion move, attack, or activate objects.</Source>
+      <Dest>Pro přikázání společníkovi k přesunu, útoku nebo aktivaci objektů stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="0298CB">
+      <EDID>TutorialCommandDogmeatMessage_OLD</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Activate] to have Dogmeat move, attack, or collect items.</Source>
+      <Dest>Pro příkázání Žerykovi k pohybu, útoku nebo sebrání předmětu stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="0298CC">
+      <EDID>TutorialHacking01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [LeftStick] to choose a potential password.</Source>
+      <Dest>Pro vybrání možného hesla použij [LeftStick].</Dest>
+    </String>
+    <String List="1" sID="0298CD">
+      <EDID>TutorialHacking02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Accept] to enter it.</Source>
+      <Dest>Pro jeho zadání stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="0298CE">
+      <EDID>TutorialCooking01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [LeftStick] to move between item categories.</Source>
+      <Dest>Pro pohyb mezi kategoriemi předmětů použij [LeftStick].</Dest>
+    </String>
+    <String List="1" sID="0298D2">
+      <EDID>TutorialCooking02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Activate] to select a category.</Source>
+      <Dest>Pro zvolení kategorie stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="0298DA">
+      <EDID>TutorialAddHotkeys01Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To equip an item as a favorite, press [PipBoy].</Source>
+      <Dest>Pro volbu oblíbených předmětů na vybavení stiskni [PipBoy].</Dest>
+    </String>
+    <String List="1" sID="0298DB">
+      <EDID>TutorialAddHotkeys02Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>On the Inventory (INV) tab, you can favorite items by pressing [RShoulder].</Source>
+      <Dest>Na záložce Inventář (INV) můžeš předměty označovat jako oblíbené stisknutím [RShoulder].</Dest>
+    </String>
+    <String List="1" sID="0298DD">
+      <EDID>TutorialExitCommandMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Pipboy] to stop issuing commands.</Source>
+      <Dest>Pro ukončení zadávání příkazů stiskni [Pipboy].</Dest>
+    </String>
+    <String List="1" sID="0298E2">
+      <EDID>TutorialPowerArmorLowCore01Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>When your Fusion Core is empty, you will be unable to use V.A.T.S. or Power Attacks and will move at a reduced rate.</Source>
+      <Dest>S vybitým fúzním jádrem nebude možné použít režim V.A.T.S. nebo silné útoky a tvůj pohyb bude zpomalený.</Dest>
+    </String>
+    <String List="1" sID="0298E3">
+      <EDID>TutorialPowerArmorPanelDamageMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Damaged and destroyed Power Armor pieces can be repaired at a Power Armor station or replaced in the Pip-Boy.</Source>
+      <Dest>Poškozené a zničené části energozbroje mohou být opraveny u stojanu na úpravu energozbroje, nebo případně nahrazeny za jiné v Pip-Boyovi.</Dest>
+    </String>
+    <String List="1" sID="0298E4">
+      <EDID>TutorialPowerArmorPanelDamage01Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Repair it at a Power Armor workbench or replace it in the Pip-Boy.</Source>
+      <Dest>Část můžeš opravit u stojanu na úravu energozbroje a nebo vyměnit za jinou v Pip-Boyovi.</Dest>
+    </String>
+    <String List="1" sID="029B58">
+      <EDID>TutorialDrinkWaterMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Drinking water restores health. Drinking unpurified water causes radiation damage.</Source>
+      <Dest>Pití vody obnovuje tvé zdraví. Pití nevyčištěné vody způsobuje zranění radiací.</Dest>
+    </String>
+    <String List="1" sID="029B8A">
+      <EDID>TutorialCooking03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Crafting a recipe requires ingredients.</Source>
+      <Dest>Výroba dle receptu vyžaduje přísady.</Dest>
+    </String>
+    <String List="1" sID="029BB1">
+      <EDID>TutorialNoWeaponsMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Weapons are still available in the Vault.</Source>
+      <Dest>Zbraně jsou ve Vaultu stále k dispozici.</Dest>
+    </String>
+    <String List="1" sID="029BCE">
+      <EDID>TutorialBlockMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [SecondaryAttack] to block.</Source>
+      <Dest>Pro blokování útoku stiskni [SecondaryAttack].</Dest>
+    </String>
+    <String List="1" sID="029C1E">
+      <EDID>TutorialPowerArmorLowCoreMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your Power Armor's Fusion Core is low!</Source>
+      <Dest>Fúzní jádro tvé energozbroje je téměř vybité!</Dest>
+    </String>
+    <String List="1" sID="029EA5">
+      <EDID>TutorialCommandDogMessage_OLD</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Activate] to have your companion move, attack, or collect items.</Source>
+      <Dest>Pro přikázání společníkovi k pohoby, útoku nebo sebrání předmětů stiskní [Activate].</Dest>
+    </String>
+    <String List="1" sID="02A181">
+      <EDID>TutorialFaceGen01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Highlight a facial feature to sculpt using [LeftStick].</Source>
+      <Dest>Zvýrazni část obličeje pro tvarování pomocí [LeftStick].</Dest>
+    </String>
+    <String List="1" sID="02A1F5">
+      <EDID>TutorialHotkeysHoldMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [_Dpad_None] to view your available favorited items.</Source>
+      <Dest>Pro zobrazení tvých oblíbených předmětů stiskni [_Dpad_None].</Dest>
+    </String>
+    <String List="1" sID="02A2A0">
+      <EDID>TutorialFaceGen02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Accept] to sculpt the highlighted feature.</Source>
+      <Dest>Pro tvarování zvýrazněné části stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02A324">
+      <EDID>TutorialPowerArmorNoDamageMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Power Armor reduces incoming damage and prevents all damage from falling.</Source>
+      <Dest>Energozbroj snižuje zranění působené jeho nositeli a zabraňuje zranění při pádu.</Dest>
+    </String>
+    <String List="1" sID="02A410">
+      <EDID>TutorialPowerArmorLowCore02AMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Find a new Fusion Core to recharge your armor.</Source>
+      <Dest>Pro dobití zbroje najdi nové fúzní jádro.</Dest>
+    </String>
+    <String List="1" sID="02A411">
+      <EDID>TutorialPowerArmorLowCore03AMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If you have a fresh core in your inventory, it will be swapped out automatically when your current core is emptied.</Source>
+      <Dest>Pokud máš ve svém inventáři nabité jádro, tak bude automaticky vyměněno za současné jádro po svém vybití.</Dest>
+    </String>
+    <String List="1" sID="02A413">
+      <EDID>TutorialPowerArmorTransferMenu</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Replace armor sections or fusion cores by moving them into your Power Armor.</Source>
+      <Dest>Vyměň části zbroje a fúzní jádra jejich přesunem do energozbroje.</Dest>
+    </String>
+    <String List="1" sID="02A423">
+      <EDID>TutorialFaceGen03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [RightStick] to look around.</Source>
+      <Dest>Pro rozhlížení použij [RightStick].</Dest>
+    </String>
+    <String List="1" sID="02A507">
+      <EDID>TutorialPowerArmorWorkbench01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [LeftStick] to move between Power Armor pieces.</Source>
+      <Dest>Pro pohyb mezi částmi energozbroje použij [LeftStick].</Dest>
+    </String>
+    <String List="1" sID="02A597">
+      <EDID>TutorialCompanionHealing01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your companion is in trouble!</Source>
+      <Dest>Tvůj společník má potíže!</Dest>
+    </String>
+    <String List="1" sID="02A5E3">
+      <EDID>TutorialExitPipboyMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Cancel] to exit the Pip-Boy. To enter, press [Pipboy].</Source>
+      <Dest>Pro odložení Pip-Boye stiskni [Cancel]. Pro použití stiskni [Pipboy].</Dest>
+    </String>
+    <String List="1" sID="02A5FE">
+      <EDID>TutorialHotkeysHoldMessage_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Quickkeys] to view your available favorited items.</Source>
+      <Dest>Pro zobrazení tvých oblíbených předmětů stiskni [Quickkeys].</Dest>
+    </String>
+    <String List="1" sID="02A620">
+      <EDID>TutorialHotkeysMessage_GunBaton_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Quickkey3] or [Quickkey4] to use a favorited item.</Source>
+      <Dest>Pro použití oblíbeného předmětu stiskni [Quickkey3] nebo [Quickkey4].</Dest>
+    </String>
+    <String List="1" sID="02A6C5">
+      <EDID>TutorialLockpick03MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If the lock resists, release [RotateLock] and use the mouse to reposition the bobby pin.</Source>
+      <Dest>Pokud zámek klade odpor, pusť [RotateLock] a použij myš pro změnu pozice vlásenky.</Dest>
+    </String>
+    <String List="1" sID="02A785">
+      <EDID>TutorialCompanionHealing02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use a Stimpak to heal them!</Source>
+      <Dest>Použij stimpak pro jejich uzdravení!</Dest>
+    </String>
+    <String List="1" sID="02A7DC">
+      <EDID>TutorialHacking01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a potential password with [Click].</Source>
+      <Dest>Vyber možné heslo pomocí [Click].</Dest>
+    </String>
+    <String List="1" sID="02A7F1">
+      <EDID>TutorialHotkeysMessage_GunStimBaton_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Quickkey3], [Quickkey10], or [Quickkey4] to use a favorited item.</Source>
+      <Dest>Pro použití oblíbeného předmětu stiskni [Quickkey3], [Quickkey10] nebo [Quickkey4].</Dest>
+    </String>
+    <String List="1" sID="02A8F3">
+      <EDID>TutorialLockpick01MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Move the mouse to adjust the bobby pin.</Source>
+      <Dest>Pro nastavení vlásenky pohybuj myší.</Dest>
+    </String>
+    <String List="1" sID="02A913">
+      <EDID>TutorialCompanionHealing02A</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Find a Stimpak to heal them!</Source>
+      <Dest>Použij stimpak, abys je uzdravil!</Dest>
+    </String>
+    <String List="1" sID="02A955">
+      <EDID>TutorialHacking02_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Click] to select it.</Source>
+      <Dest>Pro zadání stiskni [Click].</Dest>
+    </String>
+    <String List="1" sID="02AD95">
+      <EDID>TutorialCripple01_Leg</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your leg has been crippled, preventing you from running! Heal your limb with a Stimpak!</Source>
+      <Dest>Máš zlomenou nohu a nemůžeš proto běhat! Vyleč si svou končetinu pomocí stimpaku!</Dest>
+    </String>
+    <String List="1" sID="02B032">
+      <EDID>TutorialCripple01_Head</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your head has been crippled! Restore your vision by healing yourself with a Stimpak!</Source>
+      <Dest>Máš poraněnou hlavu! Obnov svůj zrak pomocí stimpaku!</Dest>
+    </String>
+    <String List="1" sID="02B035">
+      <EDID>TutorialCripple01_Torso</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your torso has been crippled, slowing your Action Point recovery! Use a Stimpak to heal yourself!</Source>
+      <Dest>Máš poraněné tělo a obnova Akčních Bodů je proto zpomalená! Pro vyléčení použij stimpak!</Dest>
+    </String>
+    <String List="1" sID="02B038">
+      <EDID>TutorialCripple01_Arm_NoStim</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your arm has been crippled, making it harder to aim! Find a Stimpak to heal your limb!</Source>
+      <Dest>Máš zlomenou ruku a míření je proto obtížnější! Pro vyléčení tvé končetiny najdi stimpak!</Dest>
+    </String>
+    <String List="1" sID="02B039">
+      <EDID>TutorialCripple01_Leg_NoStim</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your leg has been crippled, preventing you from running! Heal your limb with a Stimpak!</Source>
+      <Dest>Máš zlomenou nohu a nemůžeš proto běhat! Vyleč si svou končetinu pomocí stimpaku!</Dest>
+    </String>
+    <String List="1" sID="02B03B">
+      <EDID>TutorialCripple01_Torso_NoStim</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your torso has been crippled, slowing your Action Point recovery! Find a Stimpak to heal yourself!</Source>
+      <Dest>Máš poraněné tělo a obnova Akčních Bodů je proto zpomalená! Pro vyléčení najdi stimpak!</Dest>
+    </String>
+    <String List="1" sID="02B097">
+      <EDID>TutorialCripple01_Head_NoStim</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your head has been crippled! Restore your vision by healing yourself with a Stimpak!</Source>
+      <Dest>Máš poraněnou hlavu! Obnov svůj zrak pomocí stimpaku!</Dest>
+    </String>
+    <String List="1" sID="02B134">
+      <EDID>TutorialCripple01_Arm</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your arm has been crippled, making it harder to aim! Use a Stimpak to heal your limb!</Source>
+      <Dest>Máš zlomenou ruku a míření je proto obtížnější! Pro vyléčení tvé končetiny použij stimpak!</Dest>
+    </String>
+    <String List="1" sID="02B4B1">
+      <EDID>TutorialCooking02_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Or use [Forward] or [Back] to move between entries.</Source>
+      <Dest>Případně použij pro pohyb mezi položkami [Forward] nebo [Back].</Dest>
+    </String>
+    <String List="1" sID="02B662">
+      <EDID>TutorialCooking04</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a recipe and press [Activate] to instantly make it from any available ingredients.</Source>
+      <Dest>Zvol recept a stiskni [Activate] pro výrobu z dostupných přísad.</Dest>
+    </String>
+    <String List="1" sID="02B70D">
+      <EDID>Toughness04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You now have +40 Damage Resistance.</Source>
+      <Dest>Nyní máš +40 k odolnosti vůči zranění.</Dest>
+    </String>
+    <String List="1" sID="02B846">
+      <EDID>TutorialPowerArmorWorkbench02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Accept] to select a piece to modify.</Source>
+      <Dest>Pro výběr části k úpravě stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02BAA1">
+      <EDID>Toughness05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You now have +50 Damage Resistance.</Source>
+      <Dest>Nyní máš +50 k odolnosti vůči zranění.</Dest>
+    </String>
+    <String List="1" sID="02C5D4">
+      <EDID>TutorialFastTravelRRHQ</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You may now fast travel to and from Railroad HQ.</Source>
+      <Dest>Od teď můžeš rychle cestovat do a z velitelství Železnice.</Dest>
+    </String>
+    <String List="1" sID="02C882">
+      <EDID>TutorialFastTravel01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>From the Maps tab, select a map marker and press [Accept] to fast travel to that location.</Source>
+      <Dest>Pro rychlé cestování přepni na záložku Mapa, vyber cílovou značku a stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02C969">
+      <EDID>TutorialCooking06</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If you don't have the necessary ingredients, press [YButton:19] to tag a recipe. Ingredients for that recipe will now appear in the world with a magnifying glass.</Source>
+      <Dest>Pokud nemáš k dispozici potřebné přísady, stiskni [YButton:19] pro označení receptu. Přísady pro takový recept budou v herním světě označené ikonou lupy.</Dest>
+    </String>
+    <String List="1" sID="02CB01">
+      <EDID>TutorialFastTravel02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Accept] anywhere on the map to add a custom marker.</Source>
+      <Dest>Pro přidání vlastní značky kdekoliv na mapě stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02CBC6">
+      <EDID>TutorialFastTravel02_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>[Click] anywhere on the map to add a custom marker.</Source>
+      <Dest>Pro přidání vlastní značky kdekoliv na mapě stiskni [Click].</Dest>
+    </String>
+    <String List="1" sID="02CCED">
+      <EDID>TutorialFastTravelInstitute</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can now fast travel to and from the Institute.</Source>
+      <Dest>Od teď můžeš rychle cestovat do a z Institutu.</Dest>
+    </String>
+    <String List="1" sID="02DD55">
+      <EDID>TutorialJumpFromVertibird</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Accept] to jump from the Vertibird.</Source>
+      <Dest>Pro vyskočení z vertibirdu stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02F4F5">
+      <EDID>TutorialHoldUp01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can now attempt to "Pacify" select targets. Aim your gun at a target by holding [SecondaryAttack], then press [Activate].</Source>
+      <Dest>Nyní se můžeš pokoušet "uklidnit" vybrané cíle. Zamiř svou zbraň na cíl držením [SecondaryAttack], a pak stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="02F728">
+      <EDID>TutorialHoldUp02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can now attempt to "Incite" pacified targets by aiming your gun at them with [SecondaryAttack] and pressing [Activate].</Source>
+      <Dest>Nyní se můžeš pokoušet uklidněné cíle "podnítit" k útoku namířením zbraně pomocí [SecondaryAttack] a stisknutím [Activate].</Dest>
+    </String>
+    <String List="1" sID="02F797">
+      <EDID>TutorialGrenades01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To throw grenades or place mines, equip them in the Pip-Boy, then hold and release [Melee].</Source>
+      <Dest>Pro hození granátů nebo pokládání mic je vyber v rámci Pip-Boye, a pak podrž a pusť [Melee].</Dest>
+    </String>
+    <String List="1" sID="02F925">
+      <EDID>TutorialHotkeysMessage_GunStims</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a favorited item with [QuickkeyDown] or [QuickkeyRight]. Then press [Accept] to use it.</Source>
+      <Dest>Vyber oblíbený předmětu pomocí [QuickkeyDown] nebo [QuickkeyRight]. Pro jeho použití stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="02F92D">
+      <EDID>TutorialHotkeysMessage_GunStims_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Quickkey10] or [Quickkey4] to use a favorited item.</Source>
+      <Dest>Pro použití oblíbeného předmětu stiskni [Quickkey10] nebo [Quickkey4].</Dest>
+    </String>
+    <String List="1" sID="02F933">
+      <EDID>TutorialHoldUp03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can now attempt to "Command" pacified targets by aiming your gun at them with [SecondaryAttack] and pressing [Activate].</Source>
+      <Dest>Nyní se můžeš pokoušet uklidněným cílům "příkazat" provést konkrétní akci namířením zbraně pomocí [SecondaryAttack] a stisknutím [Activate].</Dest>
+    </String>
+    <String List="1" sID="02F937">
+      <EDID>TutorialLaserMusket01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Laser Muskets can be charged by pressing [ReadyWeapon] repeatedly. The more charges, the higher the damage.&#xD;
+</Source>
+      <Dest>Laserové muškety mohou být vícenásobně nabité opakovaným stiskem [ReadyWeapon]. Čím více nabití, tím větší poškození.</Dest>
+    </String>
+    <String List="1" sID="02F93B">
+      <EDID>TutorialAddHotkeys03Message</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Choose a slot for your item on the Favorites menu with [_Dpad_None], then press [Accept].</Source>
+      <Dest>Vyber pozici pro tvůj předmět v nabídce oblíbených předmětů pomocí [_Dpad_None] a stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="030568">
+      <EDID>TutorialGaussRifle01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Hold [PrimaryAttack] to charge your Gauss Rifle. Fully charged shots do maximum damage.</Source>
+      <Dest>Pro nabití Gaussovy pušky podrž [PrimaryAttack]. Plně nabité rány způsobují největší poškození.</Dest>
+    </String>
+    <String List="1" sID="0307E4">
+      <EDID>TutorialPickpocket02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>While pickpocketing, looking through your target's inventory will not cause them to become hostile.</Source>
+      <Dest>Prohlížení inventáře při kapsářství není důvodem pro to, aby se cíle stali nepřátelskými.</Dest>
+    </String>
+    <String List="1" sID="0308FB">
+      <EDID>TutorialJetpack</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To jetpack, press and hold [Jump] while in the air. Jetpack use consumes your Fusion Core's charge.</Source>
+      <Dest>Pro aktivaci jetpacku stiskni a drž [Jump]. Používání jetpacku spotřebovává energii tvého fúzního jádra.</Dest>
+    </String>
+    <String List="1" sID="0308FC">
+      <EDID>TutorialPickpocket03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If you attempt to take something and are detected, local guards and friends of your victim will attack.</Source>
+      <Dest>Pokud budeš přistižen při pokusu o krádež, místní stráže a přátelé tvé oběti na tebe zaútočí.</Dest>
+    </String>
+    <String List="1" sID="0309D1">
+      <EDID>TutorialPickpocket01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To pickpocket, press [Sneak], approach a target and press [Activate]. Be sure you're hidden before stealing anything.</Source>
+      <Dest>Pro kapsářství stiskni [Sneak], přibliž se k cíli a stiskni [Activate]. Dej si pozor, abys byl skrytý, než něco ukradneš.</Dest>
+    </String>
+    <String List="1" sID="0312B5">
+      <EDID>TutorialCompanionAffinity01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Decisions you make and actions you perform can affect how much a companion likes you.</Source>
+      <Dest>Tvá rozhodnutí a tvé činy mohou ovlivnit, jak moc si tě společník oblíbí.</Dest>
+    </String>
+    <String List="1" sID="0313F2">
+      <EDID>TutorialCompanionAffinity02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Maxing out your relationship with a companion will unlock special perks.</Source>
+      <Dest>Dosažení nejvyšší úrovně vztahu se společníkem odemyká speciální perky.</Dest>
+    </String>
+    <String List="1" sID="0314B1">
+      <EDID>TutorialCompanionAffinity03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Get a companion to dislike you enough, and they will refuse to travel with you.</Source>
+      <Dest>Pokud tě bude mít společník dostatečně nerad, odmítne s tebou cestovat.</Dest>
+    </String>
+    <String List="1" sID="031794">
+      <EDID>TutorialPowerArmorNoDamageMessage03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Power Armor runs on Fusion Cores. When your core is empty, you will be unable to use V.A.T.S. or Power Attacks and will move more slowly.</Source>
+      <Dest>Energozbroj čerpá energii z fúzních jader. Pokud je tvé jádro vybité, nemůžeš používat režim V.A.T.S. nebo silné útoky a tvůj pohyb bude zpomalený.</Dest>
+    </String>
+    <String List="1" sID="03185A">
+      <EDID>TutorialFaceGen01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Highlight a facial feature and press [Click] to make adjustments.</Source>
+      <Dest>Zvýrazni část obličeje pro tvarování a stiskni [Click].</Dest>
+    </String>
+    <String List="1" sID="03192F">
+      <EDID>TutorialFaceGen03_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Move the mouse while holding [Mouse2] to look around.</Source>
+      <Dest>Pro rozhlížení kolem stiskni [Mouse2] a pohybuj myší.</Dest>
+    </String>
+    <String List="1" sID="03193C">
+      <EDID>TutorialPowerArmorNoDamageMessage03NoCharge</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This suit is missing a Fusion Core. Without a core, you will move more slowly, cannot use Power Attacks, or attack in V.A.T.S.</Source>
+      <Dest>Tato zbroj nemá funkční fúzní jádro. Bez jádra jsou tvé pohyby zpomalené a nemůžeš používat silné útoky a režim V.A.T.S.</Dest>
+    </String>
+    <String List="1" sID="0319DC">
+      <EDID>TutorialPowerArmorNoDamageMessage02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Power Armor runs on Fusion Cores. Moving quickly and using Power Attacks or V.A.T.S. will reduce your Fusion Core's charge.</Source>
+      <Dest>Energozbroj čerpá energii z fúzních jader. Rychlé pohyby a používání silných útoků nebo režim V.A.T.S. fúzí jádro vybíjí.</Dest>
+    </String>
+    <String List="1" sID="031B58">
+      <EDID>TutorialCompanionsIntro01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>From this menu, you can equip or adjust your companion's gear - Trade - [Left] - and chat with or dismiss them - Talk - [Up].</Source>
+      <Dest>Z této nabídky můžeš upravovat výbavu společníka (obchodovat - [Left]) a povídat si, nebo je propustit (rozhovor - [Up]).</Dest>
+    </String>
+    <String List="1" sID="031B65">
+      <EDID>TutorialIronSightsNoGun</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>With a gun equipped, you can hold [SecondaryAttack] to aim.</Source>
+      <Dest>Se zbraní v ruce můžeš pro její zamíření podržet [SecondaryAttack].</Dest>
+    </String>
+    <String List="1" sID="031B7D">
+      <EDID>TutorialEnterVATSMessageNoGun</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Approach an enemy and press [VATS] to use V.A.T.S.</Source>
+      <Dest>Pro použití režimu V.A.T.S. se přibliž k nepříteli a stiskni [VATS].</Dest>
+    </String>
+    <String List="1" sID="031BB6">
+      <EDID>TutorialCaution01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Enemies are currently searching for you. Evade them for long enough, and they'll return to their previous activities.</Source>
+      <Dest>Nepřátelé se tě snaží vypátrat. Pokud se jim vyhneš na dostatečně dlouhou dobu, tak se vrátí ke své původní činnosti.</Dest>
+    </String>
+    <String List="1" sID="031C11">
+      <EDID>TutorialFastTravel01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>From the Maps tab, select a map marker with [Click] to fast travel to that location. Hold [Click] and drag to adjust your view.</Source>
+      <Dest>Pro rychlé cestování přepni na záložku Mapa, vyber cílovou značku pomocí [Click]. Pro posun mapy podrž [Click].</Dest>
+    </String>
+    <String List="1" sID="031C56">
+      <EDID>TutorialBarter04</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To filter an inventory by item type, press [Left] or [Right].</Source>
+      <Dest>Pro filtrování předmětů v inventáři podle jejich typu stiskni [Left] nebo [Right].</Dest>
+    </String>
+    <String List="1" sID="031C69">
+      <EDID>TutorialHoldUp04Intim03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Take care when attempting to command people. If allies of your target detect the attempt, they will consider your act a crime and become hostile.</Source>
+      <Dest>Při pokusu přikazovat člověku buď obezřetný. Pokud tvůj pokus uvidí jeho spojenci, budou to považovat za zločinné jednání a začnou být nepřátelští.</Dest>
+    </String>
+    <String List="1" sID="031C6C">
+      <EDID>TutorialCompanionDismissLocation01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can select a destination for your dismissed companion from the list below.</Source>
+      <Dest>Ze seznamu níže můžeš pro svého propuštěného společníka vybrat cílovou destinaci.</Dest>
+    </String>
+    <String List="1" sID="031C6E">
+      <EDID>TutorialBarter02_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To sell an item, select it from your inventory with [Click]. Items you're offering will appear at the top of the merchant's inventory.</Source>
+      <Dest>Chceš-li prodat nějaký předmět, vyber ho ve svém inventáři pomocí [Click]. Vybrané předměty se objeví na vrchu obchodníkova inventáře.</Dest>
+    </String>
+    <String List="1" sID="031CAF">
+      <EDID>TutorialCompanionsIntro01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>From this menu, you can equip or adjust your companion's gear - Trade - [ReadyWeapon] - and chat with or dismiss them - Talk - [Jump].</Source>
+      <Dest>Z této nabídky můžeš upravovat výbavu společníka (obchodovat - [ReadyWeapon]) a povídat si, nebo je propustit (rozhovor - [Jump]).</Dest>
+    </String>
+    <String List="1" sID="031CE0">
+      <EDID>TutorialHoldUp04Intim01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Take care when attempting to pacify people. If allies of your target detect the attempt, they will consider your act a crime and become hostile.</Source>
+      <Dest>Při pokusu uklidnit člověka buď obezřetný. Pokud tvůj pokus uvidí jeho spojenci, budou to považovat za zločinné jednání a začnou být nepřátelští.</Dest>
+    </String>
+    <String List="1" sID="031CEC">
+      <EDID>TutorialCompanionDismissLocation02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Or press [Cancel] to have them return to their most recent residence.</Source>
+      <Dest>Nebo stiskni [Cancel], aby se vrátili do jejich poslední domovské lokace.</Dest>
+    </String>
+    <String List="1" sID="031D22">
+      <EDID>TutorialBarter01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [Click] to select items.</Source>
+      <Dest>Pro vybrání předmětů použij [Click].</Dest>
+    </String>
+    <String List="1" sID="031D25">
+      <EDID>TutorialBarter03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The total cost of the transaction will be listed at the bottom of the screen. Press [XButton] to accept the offer (if you've got the caps).</Source>
+      <Dest>Celková hodnota transakce bude uvedena v dolní části obrazovky. Pro potvrzení nabízené ceny (a pokud máš zátky) stiskni [XButton].</Dest>
+    </String>
+    <String List="1" sID="031D26">
+      <EDID>TutorialBarter03_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The total cost of the transaction will be listed at the bottom of the screen. Press [XButton] to accept the offer (if you've got the caps).</Source>
+      <Dest>Celková hodnota transakce bude uvedena v dolní části obrazovky. Pro potvrzení nabízené ceny (a pokud máš zátky) stiskni [XButton].</Dest>
+    </String>
+    <String List="1" sID="031D27">
+      <EDID>TutorialBarter04_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To filter by item type, move your cursor over an inventory and press [Left] or [Right].</Source>
+      <Dest>Pro filtrování předmětů podle jejich typu, přesuň kurzor nad inventář a stiskni [Left] nebo [Right].</Dest>
+    </String>
+    <String List="1" sID="031D2A">
+      <EDID>TutorialHoldUp01a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You cannot pacify while you or your target are in combat.</Source>
+      <Dest>Není možné někoho uklidnit, pokud jsi ty nebo cíl v boji.</Dest>
+    </String>
+    <String List="1" sID="031D31">
+      <EDID>TutorialCompanionsIntro</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Face your companion and press [Activate] to begin issuing commands.</Source>
+      <Dest>Pro vydávání příkazů se otoč na svého společníka a stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="031D32">
+      <EDID>TutorialCompanionsIntro03</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To issue a command, target a location, object, or enemy and press [Activate].</Source>
+      <Dest>Pro vydání příkazu zamiř na lokaci, objekt nebo nepřítele a stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="031D33">
+      <EDID>TutorialAddHotkeys03Message_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Highlight a slot for your item in the Favorites menu and press [Click].</Source>
+      <Dest>Vyber pozici pro tvůj předmět v nabídce oblíbených předmětů a stiskni [Click].</Dest>
+    </String>
+    <String List="1" sID="031D34">
+      <EDID>TutorialCooking01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select an item category with [Forward] and [Back], then press [Activate], or use [Click].</Source>
+      <Dest>Zvol kategorii předmětů pomocí [Forward] a [Back], a pak stiskni [Activate] nebo použij [Click].</Dest>
+    </String>
+    <String List="1" sID="031D37">
+      <EDID>TutorialHotkeysMessage_StimsBaton</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a favorited item with [QuickkeyLeft] or [QuickkeyDown]. Then press [Accept] to use it.</Source>
+      <Dest>Vyber oblíbený předmět pomocí [QuickkeyLeft] nebo [QuickkeyDown]. Pro jeho použití stiskni [Accept].</Dest>
+    </String>
+    <String List="1" sID="031D3C">
+      <EDID>TutorialHotkeysMessage_StimsBaton_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [Quickkey3] or [Quickkey10] to use a favorited item.</Source>
+      <Dest>Pro použití oblíbeného předmětu stiskni [Quickkey3] nebo [Quickkey10].</Dest>
+    </String>
+    <String List="1" sID="031D3F">
+      <EDID>TutorialHoldUp04Intim02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Take care when attempting to incite people. If allies of your target detect the attempt, they will consider your act a crime and become hostile.</Source>
+      <Dest>Při pokusu podnítit člověka k útoku buď obezřetný. Pokud tvůj pokus uvidí jeho spojenci, budou to považovat za zločinné jednání a začnou být nepřátelští.</Dest>
+    </String>
+    <String List="1" sID="031D41">
+      <EDID>TutorialHoldUp04a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Take care when targeting people. If allies of your target detect the attempt, they will consider your act a crime and become hostile.</Source>
+      <Dest>Při míření na člověka buď obezřetný. Pokud tvůj pokus uvidí jeho spojenci, budou to považovat za zločinné jednání a začnou být nepřátelští.</Dest>
+    </String>
+    <String List="1" sID="031D8F">
+      <EDID>TutorialPowerArmorWorkbench01_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [Click] to select a Power Armor piece to modify.</Source>
+      <Dest>Pro výběr část energozbroje k úpravě použij [Click].</Dest>
+    </String>
+    <String List="1" sID="031D98">
+      <EDID>TutorialHoldUp02a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Inciting a target will cause them to attack anyone nearby (except you).</Source>
+      <Dest>Podnícení k útoku způsobí, že cíl zaútočí na kohokoliv v jejich blízkosti (kromě tebe).</Dest>
+    </String>
+    <String List="1" sID="031DA9">
+      <EDID>TutorialCooking01a_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use [Click] to select an item category.</Source>
+      <Dest>Pro vybrání kategorie předmětů použij [Click].</Dest>
+    </String>
+    <String List="1" sID="031E40">
+      <EDID>TutorialBarter01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Move between items using [Up] and [Down].</Source>
+      <Dest>Pro pohyb mezi předměty použij [Up] a [Down].</Dest>
+    </String>
+    <String List="1" sID="031EF9">
+      <EDID>TutorialHoldUp03a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Targets under your command can be forced to move or attack others.</Source>
+      <Dest>Cíle podléhající tvým příkazům mohou být donuceny k přesunu nebo útoku na ostatní.</Dest>
+    </String>
+    <String List="1" sID="031FA7">
+      <EDID>TutorialBarter02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [LTrigger] to enter your inventory and select items to sell. Items you're offering will appear at the top of the merchant's inventory.</Source>
+      <Dest>Pro vstup do inventáře a výběr předmětů na prodej stiskni [LTrigger]. Vybrané předměty se objeví na vrchu obchodníkova inventáře.</Dest>
+    </String>
+    <String List="1" sID="031FB2">
+      <EDID>TutorialHoldUp04</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can only pacify targets of your level or lower. Be careful when selecting your target. If your attempt is detected, friendly bystanders may become hostile.</Source>
+      <Dest>Uklidnit můžeš pouze cíle na stejné nebo nižšší úrovni. Při výběru cíle tak buď opatrný. V případě, že bude tvůj pokus odhalen, mohou se okolní svědci začít chovat nepřátelsky.</Dest>
+    </String>
+    <String List="1" sID="03206D">
+      <EDID>TutorialPipboyNavigation_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a tab with [Click].</Source>
+      <Dest>Zvol záložku pomocí [Click].</Dest>
+    </String>
+    <String List="1" sID="03215F">
+      <EDID>TutorialPipboyNavigation</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Change tabs with [RTrigger] or [LTrigger].</Source>
+      <Dest>Přepínej mezi záložkami pomocí [RTrigger] nebo [LTrigger].</Dest>
+    </String>
+    <String List="1" sID="03247A">
+      <EDID>TutorialPipboyNavigation01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Change sections with [Right] or [Left].</Source>
+      <Dest>Přepínej mezi sekcemi pomocí [Right] nebo [Left].</Dest>
+    </String>
+    <String List="1" sID="03247C">
+      <EDID>TutorialPipboyNavigation_MK01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Change sections with [StrafeLeft] and [StrafeRight].</Source>
+      <Dest>Přepínej mezi sekcemi pomocí [StrafeLeft] a [StrafeRight].</Dest>
+    </String>
+    <String List="1" sID="0324EF">
+      <EDID>TutorialCompanionsRomance</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Sleeping while you have a romantic companion nearby temporarily grants you the "Lover's Embrace" perk.</Source>
+      <Dest>Spánek v blízkosti romantického společníka ti dočasně udělí perk "Milenecké objetí".</Dest>
+    </String>
+    <String List="1" sID="032617">
+      <EDID>TutorialCompanionsIntro03a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>To issue a command, target the location or object you'd like your companion to approach and press [Activate].</Source>
+      <Dest>Pro vydání příkazu zamiř na lokaci nebo objekt, kam by se měl společník přesunout, a stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="032641">
+      <EDID>TutorialCooking04_Ch</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a recipe and press [Activate] to instantly make it from any ingredients in your inventory or stored in this bench.</Source>
+      <Dest>Zvol recept a stiskni [Activate] pro okamžitou výrobu z dostupných přísad z tvého inventáře a přísad uložených v tomto pracovním stolu.</Dest>
+    </String>
+    <String List="1" sID="0327FF">
+      <EDID>TutorialPowerArmorWorkbench00</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Power Armor stations allow you to build mods to improve your Power Armor and repair damaged armor pieces.</Source>
+      <Dest>Stojan pro úpravu energozbroje ti umožní energozbroj vylepšovat a opravovat její poničené části.</Dest>
+    </String>
+    <String List="1" sID="0328CA">
+      <EDID>TutorialCooking04a</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a recipe and press [Activate] to instantly make it from any ingredients in your inventory or in storage at this crafting station.</Source>
+      <Dest>Zvol recept a stiskni [Activate] pro okamžitou výrobu z dostupných přísad z tvého inventáře a přísad uložených na tomto pracovním stanovišti.</Dest>
+    </String>
+    <String List="1" sID="032D5C">
+      <EDID>TutorialCooking00</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Cooked food items can restore lost health or provide temporary stat boosts and other beneficial effects.</Source>
+      <Dest>Uvařené jídlo může obnovit ztracené zdraví nebo dočasně vylepšit tvé vlastnosti a poskytnout jiné výhodné účinky.</Dest>
+    </String>
+    <String List="1" sID="032D5D">
+      <EDID>TutorialCooking_Chems00</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Chems grant temporary stat boosts, restore health, or provide other beneficial effects. But use them too often and you risk becoming addicted.</Source>
+      <Dest>Chemikálie umožňují dočasně vylepšit tvé vlastnosti, obnovit zdraví a nebo poskytnout jiné výhodné účinky. Při pravidelném používání nicméně riskuješ závislost.</Dest>
+    </String>
+    <String List="1" sID="032D5E">
+      <EDID>TutorialCooking04_Ck</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select a recipe and press [Activate] to instantly make it from any ingredients in your inventory or stored in this cooking station.</Source>
+      <Dest>Zvol recept a stiskni [Activate] pro okamžitou výrobu z dostupných přísad z tvého inventáře a přísad uložených na tomto kuchařském stanovišti.</Dest>
+    </String>
+    <String List="1" sID="032D68">
+      <EDID>TutorialAddHotkeys02aMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select the item you wish to favorite in your inventory and press [RShoulder].</Source>
+      <Dest>V inventáři zvol předmět, který chceš přidat mezi oblíbené, a stiskni [RShoulder].</Dest>
+    </String>
+    <String List="1" sID="0331A1">
+      <EDID>TutorialCompanionHealing01_Dogmeat</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your dog is in trouble!</Source>
+      <Dest>Tvůj pes má potíže!</Dest>
+    </String>
+    <String List="1" sID="0332E8">
+      <EDID>TutorialGrenadesReminder</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Hold and release [Melee] to throw grenades or place mines.</Source>
+      <Dest>Pro házení granátů a pokládání min přidrž a pusť [Melee].</Dest>
+    </String>
+    <String List="1" sID="0334DA">
+      <EDID>TutorialCookingTotal_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>CRAFTING STATIONS&#xD;
+Craft stat-boosting chems or health-restoring food recipes at Cooking and Chemistry stations.&#xD;
+&#xD;
+Preparing a recipe requires ingredients, which can be found in the world or purchased from merchants.&#xD;
+&#xD;
+If you have a recipe's ingredients, select it with [Click] to craft it. Required ingredients will be harvested automatically from your inventory (or from storage in this crafting station).&#xD;
+&#xD;
+If you don't have the necessary ingredients, select the recipe and press [YButton:19] to tag it for search. Ingredients for that recipe will now appear in the world with a magnifying glass next to their name.&#xD;
+</Source>
+      <Dest>VÝROBNÍ STANOVIŠTĚ&#xD;
+Chemikálie pro vylepšení vlastností nebo recepty na jídlo pro obnovu zdraví vyráběj na kuchařských stanovištích a na stanovištích chemiských laboratoří.&#xD;
+&#xD;
+Příprava podle receptu vyžaduje přísady, které mohou být nalezeny ve světě nebo zakoupeny od obchodníků.&#xD;
+&#xD;
+Pokud máš potřebné přísady pro daný recept, vyber ho pomocí [Click] pro jeho výrobu. Spotřebované přísady budou automaticky odebrány z tvého inventáře (nebo úložiště výrobního stanovište).&#xD;
+&#xD;
+Pokud nemáš potřebné přísady, můžeš recept označit pro hledání stisknutím [YButton:19]. Přísady hledaného receptu budou mít ve světě vedle svého jména zobrazenou ikonu lupy.</Dest>
+    </String>
+    <String List="1" sID="033536">
+      <EDID>TutorialCompanionsIntro_Dogmeat</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Face your dog and press [Activate] to begin issuing commands.</Source>
+      <Dest>Pro vydávání příkazů se otoč na svého psa a stiskni [Activate].</Dest>
+    </String>
+    <String List="1" sID="0336D6">
+      <EDID>TutorialHackingTotal</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>HACKING&#xD;
+Select a potential password with [LeftStick]. &#xD;
+&#xD;
+Press [Accept] to enter it.&#xD;
+&#xD;
+If your chosen password is incorrect, the number of letters that match the terminal's password (both letter and position) will be displayed on screen.</Source>
+      <Dest>HACKOVÁNÍ&#xD;
+Vyber možné heslo pomocí [LeftStick]. &#xD;
+&#xD;
+Stiskni [Accept] pro jeho zadání.&#xD;
+&#xD;
+Pokud zvolíš nesprávné heslo, objeví se na obrazovce počet znaků shodných se skutečným heslem k terminálu (shoda písmena na konkrétní pozici).</Dest>
+    </String>
+    <String List="1" sID="033940">
+      <EDID>TutorialCompanionHealing02_Dogmeat</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Use a Stimpak to heal him!</Source>
+      <Dest>Použij stimpak, abys ho uzdravil!</Dest>
+    </String>
+    <String List="1" sID="03397B">
+      <EDID>TutorialCookingTotal</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>CRAFTING STATIONS&#xD;
+Craft stat-boosting chems or health-restoring food recipes at Cooking and Chemistry stations.&#xD;
+&#xD;
+Preparing a recipe requires ingredients, which can be found in the world or purchased from merchants.&#xD;
+&#xD;
+If you have a recipe's ingredients, select it and press [Activate] to craft it. Required ingredients will be harvested automatically from your inventory (or from storage in this crafting station).&#xD;
+&#xD;
+If you don't have the necessary ingredients, select the recipe and press [YButton:19] to tag it for search. Ingredients for that recipe will now appear in the world with a magnifying glass next to their name.&#xD;
+</Source>
+      <Dest>VÝROBNÍ STANOVIŠTĚ&#xD;
+Chemikálie pro vylepšení vlastností nebo recepty na jídlo pro obnovu zdraví vyráběj na kuchařských stanovištích a na stanovištích chemiských laboratoří.&#xD;
+&#xD;
+Příprava podle receptu vyžaduje přísady, které mohou být nalezeny ve světě nebo zakoupeny od obchodníků.&#xD;
+&#xD;
+Pokud máš potřebné přísady pro daný recept, stiskni [Activate] pro jeho výrobu. Spotřebované přísady budou automaticky odebrány z tvého inventáře (nebo úložiště výrobního stanovište).&#xD;
+&#xD;
+Pokud nemáš potřebné přísady, můžeš recept označit pro hledání stisknutím [YButton:19]. Přísady hledaného receptu budou mít ve světě vedle svého jména zobrazenou ikonu lupy.</Dest>
+    </String>
+    <String List="1" sID="0339FD">
+      <EDID>TutorialHackingTotal_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>HACKING&#xD;
+Select a potential password with [Click].&#xD;
+&#xD;
+If your chosen password is incorrect, the number of letters that match the terminal's password (both letter and position) will be displayed on screen.</Source>
+      <Dest>HACKOVÁNÍ&#xD;
+Vyber možné heslo pomocí [Click].&#xD;
+&#xD;
+Pokud zvolíš nesprávné heslo, objeví se na obrazovce počet znaků shodných se skutečným heslem k terminálu (shoda písmena na konkrétní pozici).</Dest>
+    </String>
+    <String List="1" sID="033AC8">
+      <EDID>TutorialLockpickTotal</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>LOCKPICKING&#xD;
+Adjust the bobby pin with [RotatePick].&#xD;
+&#xD;
+Use [RotateLock] to turn the screwdriver.&#xD;
+&#xD;
+If the spot you've chosen is correct, the lock will rotate and open.&#xD;
+&#xD;
+If the lock resists, release [RotateLock] and use [RotatePick] to reposition the bobby pin.</Source>
+      <Dest>OTEVÍRÁNÍ ZÁMKŮ&#xD;
+Natoč vlásenku pomocí [RotatePick].&#xD;
+&#xD;
+Pro otočení šroubovákem použij [RotateLock].&#xD;
+&#xD;
+Pokud je zvolená pozice vlásenky správná, zámek se otočením odemkne.&#xD;
+&#xD;
+Pokud zámek klade odpor, pusť [RotateLock] a použij [RotatePick] pro změnu pozice vlásenky.</Dest>
+    </String>
+    <String List="1" sID="033B44">
+      <EDID>TutorialLockpickTotal_MK</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>LOCKPICKING&#xD;
+Move the mouse to adjust the bobby pin.&#xD;
+&#xD;
+Use [RotateLock] to turn the screwdriver. &#xD;
+&#xD;
+If the spot you've chosen is correct, the lock will rotate and open.&#xD;
+&#xD;
+If the lock resists, release [RotateLock] and reposition the bobby pin.</Source>
+      <Dest>OTEVÍRÁNÍ ZÁMKŮ&#xD;
+Pro natočení vlásenky pohybuj myší.&#xD;
+&#xD;
+Pro otočení šroubovákem použij [RotateLock]. &#xD;
+&#xD;
+Pokud je zvolená pozice vlásenky správná, zámek se otočením odemkne.&#xD;
+&#xD;
+Pokud zámek klade odpor, pusť [RotateLock] a uprav pozici vlásenky.</Dest>
+    </String>
+    <String List="1" sID="033BC4">
+      <EDID>TutorialCompanionHealing02A_Dogmeat</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Find a Stimpak to heal him!</Source>
+      <Dest>Najdi stimpak, abys ho mohl uzdravit!</Dest>
+    </String>
+    <String List="1" sID="03488E">
+      <EDID>TutorialPipboyRadio</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>All radio stations have a broadcast range. The farther you get from their source, the harder they'll become to pick up.</Source>
+      <Dest>Všechny rádiové stanice mají určitý dosah svého vysílání. Čím dále budeš od jejich zdroje, tím obtížněji je naladíš.</Dest>
+    </String>
+    <String List="1" sID="034E78">
+      <EDID>TutorialDamageTypes01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Equipping armor will increase your Damage Resistance against certain damage types, but not others.</Source>
+      <Dest>Použití zbroje zvýší tvoji odolnost proti zranění způsobeného poškozeními konkrétního typu, ale ne proti typům ostatním.</Dest>
+    </String>
+    <String List="1" sID="034F73">
+      <EDID>TutorialDamageTypes</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>All attacks have a damage type - ballistic, energy, radiation, or poison.</Source>
+      <Dest>Všechny útoky způsobuji poškození nějakého typu - balistické, energetické, radiací anebo jedem.</Dest>
+    </String>
+    <String List="1" sID="0362CE">
+      <EDID>TutorialJunkJet01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Press [ReadyWeapon] to load items into the Junk Jet.</Source>
+      <Dest>Pro nabití předmětů do Veteškvéru stiskni [ReadyWeapon].</Dest>
+    </String>
+    <String List="1" sID="0362D9">
+      <EDID>TutorialJunkJet02</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Hold [PrimaryAttack] to charge your shot. Fully charged shots do maximum damage.</Source>
+      <Dest>Pro nabití výstřelu podrž [PrimaryAttack]. Plně nabité výstřely způsobují maximální poškození.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
