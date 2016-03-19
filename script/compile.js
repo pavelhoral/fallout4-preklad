@@ -12,6 +12,7 @@ program.
     usage('[options] <file>').
     option('-t, --target <directory>', 'Target output directory (defaults to cwd).').
     option('-s, --shadow <directory>', 'Shadow translation source directory.').
+    option('-d, --debug', 'Prepend string identifiers to translations.').
     parse(process.argv);
 
 if (program.args.length < 1) {
@@ -41,6 +42,16 @@ function applyShadow(strings, shadowPath) {
     });
 }
 
+function applyDebug(strings) {
+    Object.keys(strings).forEach((stringId) => {
+        var string = strings[stringId],
+            hexId = (stringId | 0).toString(16).toUpperCase();
+        if (string && string != ' ' && string != '  ') {
+            strings[stringId] = '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']' + string;
+        }
+    });
+}
+
 var xmlObject = loadXml(program.args[0]),
     inputParams = xmlObject.SSTXMLRessources.Params[0],
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
@@ -54,8 +65,10 @@ var xmlObject = loadXml(program.args[0]),
                 return result;
             }, {});
     if (program.shadow) {
-        applyShadow(strings, path.join(
-                program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type));
+        applyShadow(strings, path.join(program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type));
+    }
+    if (program.debug) {
+        applyDebug(strings);
     }
     new parseStrings.StringsWriter().writeFile(strings, targetPrefix + type);
 });
