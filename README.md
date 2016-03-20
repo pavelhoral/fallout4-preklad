@@ -22,6 +22,7 @@ Existující skripty (pro informace o parametrech stačí spustit s `--help`):
  * `cleanup.js` - smaže z překladového XML texty, které nepatří do příslušné dávky
  * `compare.js` - porovná rozdíly a shody mezi dvěmi překladovými soubory
  * `combine.js` - spojí dva a více překladových souborů do jednoho
+ * `compile.js` - vytvoří finální soubory překladu pro vložení do hry
  * `modfile.js` - pokročilá manipulace s ESM soubory
  * `strings.js` - vyhledávání v překladových STRINGS souborech
 
