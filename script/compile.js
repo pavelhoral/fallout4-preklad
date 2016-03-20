@@ -10,7 +10,7 @@ var fs = require('fs'),
 
 program.
     usage('[options] <file>').
-    option('-t, --target <directory>', 'Target output directory (defaults to cwd).').
+    option('-t, --target <directory>', 'Target output directory (defaults to target/Strings).').
     option('-s, --shadow <directory>', 'Shadow translation source directory.').
     option('-d, --debug', 'Prepend string identifiers to translations.').
     parse(process.argv);
@@ -55,7 +55,8 @@ function applyDebug(strings) {
 var xmlObject = loadXml(program.args[0]),
     inputParams = xmlObject.SSTXMLRessources.Params[0],
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
-    targetPrefix = path.join(program.target || '', inputParams.Addon[0] + '_' + inputParams.Dest[0] + '.');
+    targetDirectory = program.target || path.join(__dirname, '..', 'target/Strings'),
+    targetPrefix = path.join(targetDirectory, inputParams.Addon[0] + '_' + inputParams.Dest[0] + '.');
 
 ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach((type, index) => {
     var strings = inputStrings.

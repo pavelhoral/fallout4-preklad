@@ -35,9 +35,8 @@ Pro sestavení projektů je nutné mít nainstalován [Flex SDK](http://www.adob
 
 Postup pro vytvoření finálního překladu:
 
- * `node script/combine.js -a -o full.xml`
- * načíst vygenerované XML do překladače
- * exportovat *Export STRINGS as...* do `target/Strings`
+ * `node script/combine.js -a -o translated.xml`
+ * `node script/compile.js -s <{fallout.home}/Data/Strings> translated.xml`
 
 Postup pro instalaci překladu do hry:
 
