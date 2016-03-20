@@ -46,7 +46,7 @@ function applyDebug(strings) {
     Object.keys(strings).forEach((stringId) => {
         var string = strings[stringId],
             hexId = (stringId | 0).toString(16).toUpperCase();
-        if (string && string != ' ' && string != '  ') {
+        if (string && string != ' ' && string != '  ' && string != '*') {
             strings[stringId] = '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']' + string;
         }
     });
