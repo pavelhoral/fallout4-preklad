@@ -13,8 +13,6 @@ Toto je základní projekt pro český fanouškovský překlad hry Fallout 4.
 
 ## Skripty v projektu
 
-Pro spuštění skriptů je nutné mít nainstalován
-
 Skripty v projektu jsou NodeJS skripty. Pro spuštění skriptu je nutná instalace závislostí pomocí příkazu `npm install`.
 
     node script/nazev_skriptu.js [parametry]
