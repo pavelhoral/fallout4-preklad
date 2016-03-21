@@ -1,0 +1,3768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+  </Params>
+  <Content>
+    <String List="0" sID="0001F6">
+      <EDID>RedTintAverage</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>RedTintAverage</Source>
+      <Dest>RedTintAverage</Dest>
+    </String>
+    <String List="0" sID="000201">
+      <EDID>RedTintDark</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Red Tint Dark</Source>
+      <Dest>Tmavě červený odstín</Dest>
+    </String>
+    <String List="0" sID="000202">
+      <EDID>RedTintLight</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Red Tint Light</Source>
+      <Dest>Světle červený odstín</Dest>
+    </String>
+    <String List="0" sID="0126C5">
+      <EDID>REMerchant02VendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0127FB">
+      <EDID>Refractor01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Refractor</Source>
+      <Dest>Refraktor</Dest>
+    </String>
+    <String List="0" sID="0129A4">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Safe Storage</Source>
+      <Dest>Bezpečnostní úložiště</Dest>
+    </String>
+    <String List="0" sID="0129DD">
+      <EDID>RedRGarageDoor</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Open</Source>
+      <Dest>Otevřít</Dest>
+    </String>
+    <String List="0" sID="01318F">
+      <EDID>RadioInstituteAxis</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Institute Control</Source>
+      <Dest>Vedení Institutu</Dest>
+    </String>
+    <String List="0" sID="0131C7">
+      <EDID>RecipeHealing</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>HEALING</Source>
+      <Dest>LÉČENÍ</Dest>
+    </String>
+    <String List="0" sID="0134A9">
+      <EDID>RadiationHazardLight</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="013519">
+      <EDID>RECampCT06</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Raiders Attacked by Vicious Dogs</Source>
+      <Dest>Camp - Raiders Attacked by Vicious Dogs</Dest>
+    </String>
+    <String List="0" sID="01375F">
+      <EDID>RadRoachRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>RadRoach</Source>
+      <Dest>RadRoach</Dest>
+    </String>
+    <String List="0" sID="0137CE">
+      <EDID>RadioSubwayAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="01382D">
+      <EDID>RadioDisplayBS201</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Military Frequency AF95</Source>
+      <Dest>Vojenská Frekvence AF95</Dest>
+    </String>
+    <String List="0" sID="013BA8">
+      <EDID>REChokepointCT02_Guard01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Simon</Source>
+      <Dest>Simon</Dest>
+    </String>
+    <String List="0" sID="013CEF">
+      <EDID>RadiationHazardDeadly1024</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="013D6E">
+      <EDID>ReduceStrength</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Strength</Source>
+      <Dest>Reduce Strength</Dest>
+    </String>
+    <String List="0" sID="013DE4">
+      <EDID>REAssaultKMK_MQ101_05</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ms. Rosa</Source>
+      <Dest>Slečna Rosa</Dest>
+    </String>
+    <String List="0" sID="013F43">
+      <EDID>REHoldingCellTraderRylee</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Rychlá zkušební místnost</Dest>
+    </String>
+    <String List="0" sID="014077">
+      <EDID>REFarmerMale</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="014078">
+      <EDID>PulowskiPreservationShelter</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Pulowski Preservation Shelter</Source>
+      <Dest>Protiatomový úkryt Pulowski</Dest>
+    </String>
+    <String List="0" sID="0140C8">
+      <EDID>RailroadHQLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Railroad HQ</Source>
+      <Dest>Velitelství Železničářů</Dest>
+    </String>
+    <String List="0" sID="0142A6">
+      <EDID>RadiationHazardStrong512</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="014427">
+      <EDID>REMerchant02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dreth</Source>
+      <Dest>Dreth</Dest>
+    </String>
+    <String List="0" sID="0146FE">
+      <EDID>PulseGrenade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pulse Grenade</Source>
+      <Dest>Pulsní granát</Dest>
+    </String>
+    <String List="0" sID="01476A">
+      <EDID>REObjectJS01Note</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Note</Source>
+      <Dest>Poznámka</Dest>
+    </String>
+    <String List="0" sID="0148AD">
+      <EDID>RadiationHazardLight1024</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="014A5E">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="014DB4">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="014F93">
+      <EDID>radroachClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Radroach</Source>
+      <Dest>Radioaktivní šváb</Dest>
+    </String>
+    <String List="0" sID="0151F4">
+      <EDID>REAssaultKMK_MQ101_04</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mrs. Parker</Source>
+      <Dest>Paní Parkerová</Dest>
+    </String>
+    <String List="0" sID="015231">
+      <EDID>QuincyQuarryLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Quincy Quarry</Source>
+      <Dest>Lom v Quincy</Dest>
+    </String>
+    <String List="0" sID="01530F">
+      <EDID>RadioDisplayMS04</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Silver Shroud Radio</Source>
+      <Dest>Rádio Stříbrný Rubáš</Dest>
+    </String>
+    <String List="0" sID="015345">
+      <EDID>RailroadHQ01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Railroad HQ</Source>
+      <Dest>Velitelství Železnice</Dest>
+    </String>
+    <String List="0" sID="0154FA">
+      <EDID>REAssaultRole</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>REAssaultRole</Source>
+      <Dest>REAssaultRole</Dest>
+    </String>
+    <String List="0" sID="0156A0">
+      <EDID>REMerchant01VendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="0156E4">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="015795">
+      <EDID>RadioDisplayMS17</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Unknown Station</Source>
+      <Dest>Neznámá stanice</Dest>
+    </String>
+    <String List="0" sID="01586B">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="0158F3">
+      <EDID>RadiationHazardStrong1536</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="01597A">
+      <EDID>RadioDiamondCitySSThug1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Female Thug</Source>
+      <Dest>Gaunerka</Dest>
+    </String>
+    <String List="0" sID="015A31">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Log Entries</Source>
+      <Dest>Přihlašovací záznamy</Dest>
+    </String>
+    <String List="0" sID="015C3C">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="0160B3">
+      <EDID>ReebMarinaMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Reeb Marina</Source>
+      <Dest>Reeb Marina</Dest>
+    </String>
+    <String List="0" sID="0160CE">
+      <EDID>REAssaultKMK05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Sniper - he wants his $2.00</Source>
+      <Dest>Sniper - chce své $2.00</Dest>
+    </String>
+    <String List="0" sID="016165">
+      <EDID>PulseGrenadeInstitute</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Institute EM Pulse Grenade</Source>
+      <Dest>EM pulsní granát Institutu</Dest>
+    </String>
+    <String List="0" sID="01616E">
+      <EDID>RadroachFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Radroach Faction</Source>
+      <Dest>Třída radioaktivních švábů</Dest>
+    </String>
+    <String List="0" sID="0161A3">
+      <EDID>RadiationHazardDeadly1536</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="0163AE">
+      <EDID>PuzzlePowerConnectorActivator_256</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Power Conduit</Source>
+      <Dest>Elektrický přivaděč</Dest>
+    </String>
+    <String List="0" sID="016464">
+      <EDID>RadiationHazardDeadly768</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="0164C8">
+      <EDID>RECampKMK_DN079B</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>DN079 - trader at a camp</Source>
+      <Dest>DN079 - obchodník v táboře</Dest>
+    </String>
+    <String List="0" sID="01662F">
+      <EDID>ReduceEndurance</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Endurance</Source>
+      <Dest>+&lt;mag&gt; Endurance</Dest>
+    </String>
+    <String List="0" sID="016717">
+      <EDID>RECampCT02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Feral Ghouls and Dead Scavengers</Source>
+      <Dest>Camp - Feral Ghouls and Dead Scavengers</Dest>
+    </String>
+    <String List="0" sID="0167D8">
+      <EDID>PulseMineProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Pulse Mine</Source>
+      <Dest>Pulsní mina</Dest>
+    </String>
+    <String List="0" sID="01692C">
+      <EDID>RegenerateHealthAbility</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Regenerate Health</Source>
+      <Dest>Regenerate Health</Dest>
+    </String>
+    <String List="0" sID="016BEF">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="016CE5">
+      <EDID>REChokepointCT02_MerchantVendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="016E99">
+      <EDID>RedR_ButtonBox</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Push</Source>
+      <Dest>Stlačit</Dest>
+    </String>
+    <String List="0" sID="016ED8">
+      <EDID>RECampCT05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - YaoGuai w/Dead Scavengers</Source>
+      <Dest>Camp - YaoGuai w/Dead Scavengers</Dest>
+    </String>
+    <String List="0" sID="016EEE">
+      <EDID>REObjectDL01RadioReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="016F6D">
+      <EDID>QuincyRuinsLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Quincy Ruins</Source>
+      <Dest>Rozvaliny Quincy</Dest>
+    </String>
+    <String List="0" sID="016FED">
+      <EDID>QuincyQuarriesMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Quincy Quarries</Source>
+      <Dest>Lomy v Quincy</Dest>
+    </String>
+    <String List="0" sID="0170EE">
+      <EDID>RadiationHazardStrong256</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="017286">
+      <EDID>REChokepointSC02State</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>RECamp02DrethState</Source>
+      <Dest>RECamp02DrethState</Dest>
+    </String>
+    <String List="0" sID="017526">
+      <EDID>REAssaultTEMPLATE</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>TEMPLATE - Duplicate to make a new Assault Quest.</Source>
+      <Dest>TEMPLATE - Duplicate to make a new Assault Quest.</Dest>
+    </String>
+    <String List="0" sID="017643">
+      <EDID>REHoldingCell</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Rychlá zkušební místnost</Dest>
+    </String>
+    <String List="0" sID="0177A2">
+      <EDID>QuickHands01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Quick Hands</Source>
+      <Dest>Rychlé ruce</Dest>
+    </String>
+    <String List="0" sID="0179CB">
+      <EDID>RadioInstituteQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Institute Radio</Source>
+      <Dest>Rádio Institutu</Dest>
+    </String>
+    <String List="0" sID="017A66">
+      <EDID>RECorpseGhoul01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="017AEF">
+      <EDID>REAssaultCC01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Assault - Vic Dogs vs. Bloodbugs feeding on human corpse</Source>
+      <Dest>Assault - Vic Dogs vs. Bloodbugs feeding on human corpse</Dest>
+    </String>
+    <String List="0" sID="017CC5">
+      <EDID>RailwayRifleProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Railway Spike</Source>
+      <Dest>Železniční hrot</Dest>
+    </String>
+    <String List="0" sID="017CDD">
+      <EDID>REChokepointCT02_Merchant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Stash</Source>
+      <Dest>Zásobárna</Dest>
+    </String>
+    <String List="0" sID="017F7B">
+      <EDID>REActorAttach01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Guy scavenging parts of dead robots</Source>
+      <Dest>Chlápek sbírající části zničených robotů</Dest>
+    </String>
+    <String List="0" sID="017FA9">
+      <EDID>RECorpseGhoul02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="018112">
+      <EDID>RECampKMK_InstM03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>InstM03 - post quest</Source>
+      <Dest>InstM03 - post quest</Dest>
+    </String>
+    <String List="0" sID="018113">
+      <EDID>ReduceIntelligenceAlcohol</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Alcohol: Reduce Intelligence</Source>
+      <Dest>Alcohol: Reduce Intelligence</Dest>
+    </String>
+    <String List="0" sID="01819B">
+      <EDID>REMerchantGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Žoldák</Dest>
+    </String>
+    <String List="0" sID="018207">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="0182CB">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Coolant leak in one of those new 2077 Corvega coupes. Bubble-top. They don't make them like they used to.</Source>
+      <Dest>V jednom z těch nových 2077 Corvega kupéček s plastovou střechou unikala chladící kapalina. Už je nedělají jako kdysi.</Dest>
+    </String>
+    <String List="0" sID="0183F8">
+      <EDID>RadioDiamondCityReceiverOff</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="018459">
+      <EDID>REAssaultCT01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Assault - Gunners vs Atom</Source>
+      <Dest>Assault - Gunners vs Atom</Dest>
+    </String>
+    <String List="0" sID="0184CE">
+      <EDID>ReduceStrength</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="0184D1">
+      <EDID>RadioDiamondCity</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Diamond City Radio</Source>
+      <Dest>Rádio Diamond City</Dest>
+    </String>
+    <String List="0" sID="018611">
+      <EDID>RadioDiamondCitySSShroud</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Silver Shroud</Source>
+      <Dest>Stříbrný Rubáš</Dest>
+    </String>
+    <String List="0" sID="018698">
+      <EDID>RadiationHazardDeadly</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="0186DE">
+      <EDID>REChokepointSC03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint: Raiders Accost Farmers</Source>
+      <Dest>Chokepoint: Raiders Accost Farmers</Dest>
+    </String>
+    <String List="0" sID="01885E">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Stinger</Source>
+      <Dest>Žihadlo</Dest>
+    </String>
+    <String List="0" sID="018988">
+      <EDID>REAssaultKMK_RR102</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RR102 - post-quest - Ricky Dalton vs. raiders</Source>
+      <Dest>RR102 - post-quest - Ricky Dalton vs. raiders</Dest>
+    </String>
+    <String List="0" sID="018B47">
+      <EDID>RadscorpionPoisonEffectPlayer</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radscorpion Poison</Source>
+      <Dest>Radscorpion Poison</Dest>
+    </String>
+    <String List="0" sID="018BA3">
+      <EDID>RECampSC03DrethState</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>RECamp02DrethState</Source>
+      <Dest>RECamp02DrethState</Dest>
+    </String>
+    <String List="0" sID="018DD1">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="018E95">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Go back</Source>
+      <Dest>Vrátit se</Dest>
+    </String>
+    <String List="0" sID="018EC3">
+      <EDID>REChokepointSC02State</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>RECamp02DrethSt</Source>
+      <Dest>RECamp02DrethSt</Dest>
+    </String>
+    <String List="0" sID="018F00">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Jim-&#xD;
+&#xD;
+Take care of these barrels before you leave tonight - inspectors are coming first thing in the morning.&#xD;
+&#xD;
+Just hide them with the others. We'll figure out a longer-term solution later.&#xD;
+&#xD;
+Hey, if nature's going to favor us with a cave right below the shop, who am I to argue?&#xD;
+&#xD;
+</Source>
+      <Dest>Jime-&#xD;
+&#xD;
+Než dnes večer odejdeš, postarej se o ty barely - inspektoři přijdou hned ráno.&#xD;
+&#xD;
+Jenom je ukryj k ostatním, dlouhodobější řešení vymyslíme později.&#xD;
+&#xD;
+Hele, kdyby nám příroda nadělila jeskyni hned pod obchodem tak se tomu snad nebudem bránit.</Dest>
+    </String>
+    <String List="0" sID="018F47">
+      <EDID>REAssaultSC01_DN123SkylanesAssault</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>[DN123 - Skylanes Assault]</Source>
+      <Dest>[DN123 - Skylanes Assault]</Dest>
+    </String>
+    <String List="0" sID="01920C">
+      <EDID>RecipeBuff</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>BUFF</Source>
+      <Dest>POSÍLENÍ</Dest>
+    </String>
+    <String List="0" sID="019604">
+      <EDID>REAssaultSC06</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>REAssault: Scavengers vs. Robots</Source>
+      <Dest>REAssault: Scavengers vs. Robots</Dest>
+    </String>
+    <String List="0" sID="0198FC">
+      <EDID>RelayTowerTestRadio</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="019AC6">
+      <EDID>RedRocketTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Business Entries</Source>
+      <Dest>Obchodní záznamy</Dest>
+    </String>
+    <String List="0" sID="019ACA">
+      <EDID>RadioHalluciGenMainframeAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>HalluciGen Mainframe</Source>
+      <Dest>HalluciGen server</Dest>
+    </String>
+    <String List="0" sID="019C29">
+      <EDID>RailroadSynthGenericTemplate00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Escaping Synth</Source>
+      <Dest>Syntetik na útěku</Dest>
+    </String>
+    <String List="0" sID="019C2A">
+      <EDID>ReduceIntelligence</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Intelligence</Source>
+      <Dest>+&lt;mag&gt; Intelligence</Dest>
+    </String>
+    <String List="0" sID="019EB9">
+      <EDID>RadioEyebotAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="019EC7">
+      <EDID>REFarmerFemale</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="019FA6">
+      <EDID>RadScorpionFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Radscorpion</Source>
+      <Dest>Radškorpion</Dest>
+    </String>
+    <String List="0" sID="01A02E">
+      <EDID>RadioSilverShroudQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Silver Shroud Radio (80 - Kent)</Source>
+      <Dest>Rádio Stříbrný Rubáš (80 - Kent)</Dest>
+    </String>
+    <String List="0" sID="01A041">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Took some wrangling with the head office, but we finally got all the tools we need to machine our own parts. No more having to pay for Corvega factory parts the next time they change the spec on a damn fastener. Just take one we got and trim the excess down until it fits.&#xD;
+</Source>
+      <Dest>Pohádala jsem se s ředitelem, ale konečně se nám podařilo získat všechny nástroje, které potřebujeme abychom vyráběli vlastní díly. Už žádné další placení za tovární součástky Corvegy až změní specifika u pitomý hmoždinky. Prostě vezmeme nějakou co máme a seříznem ji aby seděla.</Dest>
+    </String>
+    <String List="0" sID="01A0FB">
+      <EDID>REAssaultSC05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Assault: Dogs vs. Farmers</Source>
+      <Dest>RE Assault: Dogs vs. Farmers</Dest>
+    </String>
+    <String List="0" sID="01A14D">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Rosa Restoration</Source>
+      <Dest>Rosino Restaurování</Dest>
+    </String>
+    <String List="0" sID="01A1AE">
+      <EDID>RadResistIngestion</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>Rad Resist</Source>
+      <Dest>Odolnost vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="01A29F">
+      <EDID>RadiationHazardStrong</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="01A487">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="15">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="01A56B">
+      <EDID>REAssaultKMK_MQ101_03</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mr. Parker</Source>
+      <Dest>Pan Parker</Dest>
+    </String>
+    <String List="0" sID="01A6DB">
+      <EDID>RadioInstituteReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="01A6F3">
+      <EDID>REAssaultKMK_MQ101_06</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mr. Sumner</Source>
+      <Dest>Pan Summer</Dest>
+    </String>
+    <String List="0" sID="01A87A">
+      <EDID>RedRocket01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Mole Rat Den</Source>
+      <Dest>Nora krtkopotkanů</Dest>
+    </String>
+    <String List="0" sID="01A8D2">
+      <EDID>REActorAttach02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Raiders stripping corpses</Source>
+      <Dest>Nájezdníci obírající ostatky</Dest>
+    </String>
+    <String List="0" sID="01A948">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Monday, October 18</Source>
+      <Dest>Pondělí, 18. října</Dest>
+    </String>
+    <String List="0" sID="01ACBE">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01AE64">
+      <EDID>RailroadHQEscapeTunnel</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Railroad HQ Escape Tunnel</Source>
+      <Dest>Únikový tunel z velitelství Železničářů</Dest>
+    </String>
+    <String List="0" sID="01AF8E">
+      <EDID>REChokepointCT03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint - Mines</Source>
+      <Dest>Chokepoint - Mines</Dest>
+    </String>
+    <String List="0" sID="01B089">
+      <EDID>RailroadHQGenericTemplate00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Railroad Agent</Source>
+      <Dest>Agent Železničářů</Dest>
+    </String>
+    <String List="0" sID="01B0F9">
+      <EDID>RadResistExposure</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>Rad Resist</Source>
+      <Dest>Odolnost vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="01B10B">
+      <EDID>ReconScopeQuest</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Recon Scope Targets</Source>
+      <Dest>Recon Scope Targets</Dest>
+    </String>
+    <String List="0" sID="01B1C8">
+      <EDID>RegenerateHealthAbility</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Regenerate &lt;mag&gt; points of Health.</Source>
+      <Dest>Regenerate &lt;mag&gt; points of Health.</Dest>
+    </String>
+    <String List="0" sID="01B1F8">
+      <EDID>QuincyPD01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quincy Police Lock up</Source>
+      <Dest>Vězení v Quincy</Dest>
+    </String>
+    <String List="0" sID="01B20C">
+      <EDID>Rachel</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Rachel</Source>
+      <Dest>Rachel</Dest>
+    </String>
+    <String List="0" sID="01B333">
+      <EDID>REAssaultKMK_COMPreston</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Preston - companion RE</Source>
+      <Dest>Preston - companion RE</Dest>
+    </String>
+    <String List="0" sID="01B39A">
+      <EDID>REAssaultSC04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Assault: Raiders vs. Scavengers</Source>
+      <Dest>RE Assault: Raiders vs. Scavengers</Dest>
+    </String>
+    <String List="0" sID="01B3AB">
+      <EDID>REChokepointSC02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint: Mr. Gutsy's Curfew</Source>
+      <Dest>Chokepoint: Mr. Gutsy's Curfew</Dest>
+    </String>
+    <String List="0" sID="01B635">
+      <EDID>ReduceAgility</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="01B6E6">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Wednesday, October 6</Source>
+      <Dest>Středa, 6. října</Dest>
+    </String>
+    <String List="0" sID="01B7B4">
+      <EDID>RelayTowerInt01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Bunker</Source>
+      <Dest>Bunkr</Dest>
+    </String>
+    <String List="0" sID="01B84D">
+      <EDID>REObjectDL01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object01 - Radio in a junk pile</Source>
+      <Dest>Object01 - Radio in a junk pile</Dest>
+    </String>
+    <String List="0" sID="01B8B3">
+      <EDID>ReducePerception</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Perception</Source>
+      <Dest>+&lt;mag&gt; Perception</Dest>
+    </String>
+    <String List="0" sID="01BA0E">
+      <EDID>RadstagCorruption</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Radstag Corruption</Source>
+      <Dest>Rozklad mutajelena</Dest>
+    </String>
+    <String List="0" sID="01BB7F">
+      <EDID>REObjectCT03_BrahminCorpse</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Brahmin</Source>
+      <Dest>Brahmína</Dest>
+    </String>
+    <String List="0" sID="01BCAC">
+      <EDID>RECampSC03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RECamp: Merchant of Dreth</Source>
+      <Dest>RECamp: Merchant of Dreth</Dest>
+    </String>
+    <String List="0" sID="01BD6A">
+      <EDID>RelayTowerButton</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Relay Tower Switch</Source>
+      <Dest>Přepnout vysílací věž</Dest>
+    </String>
+    <String List="0" sID="01C01D">
+      <EDID>RecipeRoast</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>ROAST</Source>
+      <Dest>PEČENÉ</Dest>
+    </String>
+    <String List="0" sID="01C01E">
+      <EDID>RECampCT01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Deserted Campsite Ghoul Ambush</Source>
+      <Dest>Camp - Deserted Campsite Ghoul Ambush</Dest>
+    </String>
+    <String List="0" sID="01C1CA">
+      <EDID>RedRocketTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>October Service Logs</Source>
+      <Dest>Říjnové servisní záznamy</Dest>
+    </String>
+    <String List="0" sID="01C1EF">
+      <EDID>RailroadRunnerGenericTemplate00</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Railroad Agent</Source>
+      <Dest>Agent Železnice</Dest>
+    </String>
+    <String List="0" sID="01C240">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="01C3C8">
+      <EDID>RailwayRifle</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Railway Rifle</Source>
+      <Dest>Železniční puška</Dest>
+    </String>
+    <String List="0" sID="01C4CC">
+      <EDID>RadioDisplayDiamondCity</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Diamond City Radio</Source>
+      <Dest>Rádio Diamond City</Dest>
+    </String>
+    <String List="0" sID="01C8D0">
+      <EDID>RadScorpionRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>RadScorpion</Source>
+      <Dest>Radškorpion</Dest>
+    </String>
+    <String List="0" sID="01C9BB">
+      <EDID>RecipeDessert</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>DESSERT</Source>
+      <Dest>DEZERT</Dest>
+    </String>
+    <String List="0" sID="01CA6A">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Friday, October 1</Source>
+      <Dest>Pátek, 1. října</Dest>
+    </String>
+    <String List="0" sID="01CC7E">
+      <EDID>ReduceLuck</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Agility</Source>
+      <Dest>+&lt;mag&gt; Agility</Dest>
+    </String>
+    <String List="0" sID="01CDBE">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="01CE08">
+      <EDID>RadStagRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Radstag</Source>
+      <Dest>Mutajelen</Dest>
+    </String>
+    <String List="0" sID="01CF71">
+      <EDID>REAssaultRole</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>REAssaultRole</Source>
+      <Dest>REAssaultRole</Dest>
+    </String>
+    <String List="0" sID="01D07E">
+      <EDID>REObject02HatchExplode</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Hatch</Source>
+      <Dest>Poklop</Dest>
+    </String>
+    <String List="0" sID="01D247">
+      <EDID>RadScorpion_dtPoisonEffectChanceAlways</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Damage Type Poison</Source>
+      <Dest>Damage Type Poison</Dest>
+    </String>
+    <String List="0" sID="01D3CD">
+      <EDID>REObject01Refrigerator</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="01D4BC">
+      <EDID>RadioDisplayEyebot</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Commonwealth EBS</Source>
+      <Dest>Commonwealth EBS</Dest>
+    </String>
+    <String List="0" sID="01D4BE">
+      <EDID>RadioDisplayBS100</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Military Frequency AF95</Source>
+      <Dest>Vojenská Frekvence</Dest>
+    </String>
+    <String List="0" sID="01D4F0">
+      <EDID>RadioDisplayMS11</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Intercom</Source>
+      <Dest>Interkom</Dest>
+    </String>
+    <String List="0" sID="01D4FB">
+      <EDID>RelayTower01TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Greenbriar Radio Signal</Source>
+      <Dest>Rádio Smilax</Dest>
+    </String>
+    <String List="0" sID="01D524">
+      <EDID>RailroadHQMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Railroad HQ</Source>
+      <Dest>Velitelství Železničářů</Dest>
+    </String>
+    <String List="0" sID="01D551">
+      <EDID>REAssaultKMK_MQ101_01</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mr. Donoghue</Source>
+      <Dest>Pan Donoghue</Dest>
+    </String>
+    <String List="0" sID="01D556">
+      <EDID>REAssaultKMK_MQ101_07</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mrs. Sumner</Source>
+      <Dest>Paní Summerová</Dest>
+    </String>
+    <String List="0" sID="01D5B8">
+      <EDID>RangerCabinLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Ranger Cabin</Source>
+      <Dest>Chata lesníků</Dest>
+    </String>
+    <String List="0" sID="01D5B9">
+      <EDID>RedRocketTruckStopLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Red Rocket Truck Stop</Source>
+      <Dest>Odpočívadlo Red Rocket</Dest>
+    </String>
+    <String List="0" sID="01D696">
+      <EDID>RedRocketCaveLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Mole Rat Den</Source>
+      <Dest>Nora krtkopotkanů</Dest>
+    </String>
+    <String List="0" sID="01D705">
+      <EDID>ReconBunkerThetaLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Recon Bunker Theta</Source>
+      <Dest>Průzkumný bunkr Theta</Dest>
+    </String>
+    <String List="0" sID="01D761">
+      <EDID>Rads</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Rads</Source>
+      <Dest>Radiace</Dest>
+    </String>
+    <String List="0" sID="01D76C">
+      <EDID>RadResistIngestion</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Radiation Resistance</Source>
+      <Dest>Odolnost vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="01D7A0">
+      <EDID>RECampSC03DrethState</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>RECamp02DrethSt</Source>
+      <Dest>RECamp02DrethSt</Dest>
+    </String>
+    <String List="0" sID="01D7F1">
+      <EDID>ReduceIntelligenceAlcohol</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Intelligence</Source>
+      <Dest>+&lt;mag&gt; Intelligence</Dest>
+    </String>
+    <String List="0" sID="01D839">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Friday, October 22</Source>
+      <Dest>Pátek, 22. října</Dest>
+    </String>
+    <String List="0" sID="01D846">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D847">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D849">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D84B">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D84C">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D850">
+      <EDID>RadRoachBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="01D864">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D880">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="14">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D881">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="13">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D883">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="12">BPTD:BPTN</REC>
+      <Source>Left Claw</Source>
+      <Dest>Levé klepeto</Dest>
+    </String>
+    <String List="0" sID="01D885">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="11">BPTD:BPTN</REC>
+      <Source>Right Claw</Source>
+      <Dest>Pravé klepeto</Dest>
+    </String>
+    <String List="0" sID="01D886">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Face</Source>
+      <Dest>Tvář</Dest>
+    </String>
+    <String List="0" sID="01D887">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D888">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D88C">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="01D896">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Root</Dest>
+    </String>
+    <String List="0" sID="01D897">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="01D899">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Right Head</Source>
+      <Dest>Pravá hlava</Dest>
+    </String>
+    <String List="0" sID="01D89A">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="01D89B">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="01D89D">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Left Head</Source>
+      <Dest>Levá hlava</Dest>
+    </String>
+    <String List="0" sID="01D89E">
+      <EDID>RadStagBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="01DAB7">
+      <EDID>PulseMine</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pulse Mine</Source>
+      <Dest>Pulsní mina</Dest>
+    </String>
+    <String List="0" sID="01DB24">
+      <EDID>Refractor03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Refractor</Source>
+      <Dest>Refraktor</Dest>
+    </String>
+    <String List="0" sID="01DBBF">
+      <EDID>REChokepointCT01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint - Super Mutants</Source>
+      <Dest>Chokepoint - Super Mutants</Dest>
+    </String>
+    <String List="0" sID="01DD7E">
+      <EDID>RadiationHazardToken</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Token Radiation</Source>
+      <Dest>Projev radiace</Dest>
+    </String>
+    <String List="0" sID="01DE05">
+      <EDID>REAssaultCT02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Assault - BoS vs Super Mutants</Source>
+      <Dest>Assault - BoS vs Super Mutants</Dest>
+    </String>
+    <String List="0" sID="01DE06">
+      <EDID>REObjectCT04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object - Junked Car with Ambush Feral Ghouls</Source>
+      <Dest>Object - Junked Car with Ambush Feral Ghouls</Dest>
+    </String>
+    <String List="0" sID="01DE3D">
+      <EDID>REObjectCT03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object - Brahmin Corpse w/Mines</Source>
+      <Dest>Object - Brahmin Corpse w/Mines</Dest>
+    </String>
+    <String List="0" sID="01DF7D">
+      <EDID>RecipeBeverage</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>BEVERAGE</Source>
+      <Dest>NÁPOJ</Dest>
+    </String>
+    <String List="0" sID="01DFFC">
+      <EDID>RECampCT04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Deserted Camp with Mines</Source>
+      <Dest>Camp - Deserted Camp with Mines</Dest>
+    </String>
+    <String List="0" sID="01E107">
+      <EDID>ReconScopeQuest</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source/>
+      <Dest/>
+    </String>
+    <String List="0" sID="01E138">
+      <EDID>RECampCT03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Vicious Dog w/Dead Raiders and Radscorp</Source>
+      <Dest>Camp - Vicious Dog w/Dead Raiders and Radscorp</Dest>
+    </String>
+    <String List="0" sID="01E13A">
+      <EDID>REObjectCT01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object - Deathclaw With Eggs</Source>
+      <Dest>Object - Deathclaw With Eggs</Dest>
+    </String>
+    <String List="0" sID="01E14C">
+      <EDID>REObjectCT05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object - Woman With Radiation Poisoning</Source>
+      <Dest>Object - Woman With Radiation Poisoning</Dest>
+    </String>
+    <String List="0" sID="01E16E">
+      <EDID>REChokepointKMK_COMNick</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Raiders recognize Nick</Source>
+      <Dest>Nájezdníci rozpoznali Nicka</Dest>
+    </String>
+    <String List="0" sID="01E2E4">
+      <EDID>RadioSubway</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Subway Announcements</Source>
+      <Dest>Sdělení metra</Dest>
+    </String>
+    <String List="0" sID="01E33F">
+      <EDID>REChokepointKMK_MS01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>MS01 - Bullet or friend ambush</Source>
+      <Dest>MS01 - Bullet or friend ambush</Dest>
+    </String>
+    <String List="0" sID="01E44E">
+      <EDID>RadiationHazardStrong1024</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="01E68F">
+      <EDID>RECampJS01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Supermutant Camp</Source>
+      <Dest>Tábor supermutantů</Dest>
+    </String>
+    <String List="0" sID="01E879">
+      <EDID>ReduceCharisma</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Charisma</Source>
+      <Dest>Reduce Charisma</Dest>
+    </String>
+    <String List="0" sID="01E94C">
+      <EDID>REChokepointTEMPLATE</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>TEMPLATE - Duplicate to make a new Chokepoint Quest.</Source>
+      <Dest>TEMPLATE - Duplicate to make a new Chokepoint Quest.</Dest>
+    </String>
+    <String List="0" sID="01EC6E">
+      <EDID>REAssaultKMK_MQ101</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>MQ101 post quest - feral ghoul neighbors</Source>
+      <Dest>MQ101 post quest - feral ghoul neighbors</Dest>
+    </String>
+    <String List="0" sID="01EEDA">
+      <EDID>RECampKMK_MQ104Skinny</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>MQ104 - post quest - Skinny Malone</Source>
+      <Dest>MQ104 - post quest - Skinny Malone</Dest>
+    </String>
+    <String List="0" sID="01F04E">
+      <EDID>REChokepointKMK_MS11</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>MS11 post-quest - angry scavengers</Source>
+      <Dest>MS11 post-quest - angry scavengers</Dest>
+    </String>
+    <String List="0" sID="01F350">
+      <EDID>RECampSC01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Deserted Campsite</Source>
+      <Dest>Opuštěné tábořiště</Dest>
+    </String>
+    <String List="0" sID="01F35C">
+      <EDID>Rads</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>Rads</Source>
+      <Dest>Radiace</Dest>
+    </String>
+    <String List="0" sID="01F467">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Replaced the atomic alternator in a 2073 Corvega. </Source>
+      <Dest>Vyměnili jsme atomový alternátor v 2073 Corveze.</Dest>
+    </String>
+    <String List="0" sID="01F6DE">
+      <EDID>RadioDiamondCitySSThug2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Male Thug</Source>
+      <Dest>Gauner</Dest>
+    </String>
+    <String List="0" sID="01FA74">
+      <EDID>RadiationHazardStrong768</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="01FA7A">
+      <EDID>REAssaultKMK_MQ101_02</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mrs. Donoghue</Source>
+      <Dest>Paní Donoghueová</Dest>
+    </String>
+    <String List="0" sID="01FBDF">
+      <EDID>ReduceIntelligence</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Intelligence</Source>
+      <Dest>Reduce Intelligence</Dest>
+    </String>
+    <String List="0" sID="01FBFF">
+      <EDID>REAssaultSC03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Supermutant Raid Aftermath</Source>
+      <Dest>Důsledky nájezdu supermutantů</Dest>
+    </String>
+    <String List="0" sID="01FC73">
+      <EDID>RedRPedDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="01FE00">
+      <EDID>RadiationHazardLightGeneric</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="0201FA">
+      <EDID>ReconScopeEquippedEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Recon Scope Equipped Effect</Source>
+      <Dest>Recon Scope Equipped Effect</Dest>
+    </String>
+    <String List="0" sID="020396">
+      <EDID>RadResistExposure</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Radiation Resistance</Source>
+      <Dest>Odolnost vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="0203B1">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Select a Log Entry to view.</Source>
+      <Dest>Vyberte záznam k prohlédnutí.</Dest>
+    </String>
+    <String List="0" sID="020408">
+      <EDID>RadioDiamondCitySSAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Silver Shroud Announcer</Source>
+      <Dest>Hlasatel Stříbrného Rubáše</Dest>
+    </String>
+    <String List="0" sID="0206B1">
+      <EDID>ReconScopeSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Recon Scope Spell</Source>
+      <Dest>Recon Scope Spell</Dest>
+    </String>
+    <String List="0" sID="02074B">
+      <EDID>ReconBunkerThetaMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Recon Bunker Theta</Source>
+      <Dest>Průzkumný bunkr Theta</Dest>
+    </String>
+    <String List="0" sID="020765">
+      <EDID>RelayTowerInt04</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Shelter</Source>
+      <Dest>Přístřešek</Dest>
+    </String>
+    <String List="0" sID="020774">
+      <EDID>RECampSC02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp: Dead Scavengers &amp; Bloodbugs</Source>
+      <Dest>Camp: Dead Scavengers &amp; Bloodbugs</Dest>
+    </String>
+    <String List="0" sID="020979">
+      <EDID>RadiationHazardDeadly2048</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="020988">
+      <EDID>REAssaultKMK05Sniper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Absalom</Source>
+      <Dest>Abšalom</Dest>
+    </String>
+    <String List="0" sID="0209D6">
+      <EDID>RedRocketTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Red Rocket Terminal</Source>
+      <Dest>Terminál Red Rocket</Dest>
+    </String>
+    <String List="0" sID="020C86">
+      <EDID>RadioEyebot</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Eyebot Radio</Source>
+      <Dest>Očkovo rádio</Dest>
+    </String>
+    <String List="0" sID="020CD7">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="020E37">
+      <EDID>RadiationCloak</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Cloak</Source>
+      <Dest>Radiation Cloak</Dest>
+    </String>
+    <String List="0" sID="020E94">
+      <EDID>RadioStaticOff</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="020FD1">
+      <EDID>RelayTowerButton</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Push</Source>
+      <Dest>Zmáčknout</Dest>
+    </String>
+    <String List="0" sID="0211A7">
+      <EDID>RadiationHazardLight1536</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="021262">
+      <EDID>REIgnoreForCleanup</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>consider me dead/unloaded during cleanup check</Source>
+      <Dest>považujte mě za mrtvého/uklizeného během likvidační kontroly</Dest>
+    </String>
+    <String List="0" sID="021325">
+      <EDID>RadioDiamondCitySSPoliceChief</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Police Chief</Source>
+      <Dest>Policejní náčelník</Dest>
+    </String>
+    <String List="0" sID="0213E0">
+      <EDID>ReduceCharisma</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="021631">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Began work on a late-model motorcycle. Pre-atomic. What seemed to be simply a sticky throttle turned out to be more serious issue with the cables. They're almost all completely degraded. Will replace with platinum parts.</Source>
+      <Dest>Začali jsme makat na pozdním modelu motorky. Předválečné. To co se zdálo být jednoduše zadrhlou brzdou přerostlo ve více závažný problém s kabely. Skoro všechny jsou kompletně poškozené. Vyměníme je za platinové.</Dest>
+    </String>
+    <String List="0" sID="0217E1">
+      <EDID>RadStagFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Bug Faction</Source>
+      <Dest>Hmyzí frakce</Dest>
+    </String>
+    <String List="0" sID="0219D8">
+      <EDID>RadioFreedomReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="021ACA">
+      <EDID>RadiationHazardEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Damage</Source>
+      <Dest>Radiation Damage</Dest>
+    </String>
+    <String List="0" sID="021B14">
+      <EDID>RadiationHazardDeadlyGeneric</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="021BCC">
+      <EDID>Refractor02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Refractor</Source>
+      <Dest>Refraktor</Dest>
+    </String>
+    <String List="0" sID="0225D6">
+      <EDID>RadiationHazardDeadly512</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="022664">
+      <EDID>RadiationHazardCarExplosion</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Radiation</Source>
+      <Dest>Radiace</Dest>
+    </String>
+    <String List="0" sID="02273E">
+      <EDID>ReducePerception</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Perception</Source>
+      <Dest>Reduce Perception</Dest>
+    </String>
+    <String List="0" sID="02275B">
+      <EDID>REObject02Hatch</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Hatch</Source>
+      <Dest>Poklop</Dest>
+    </String>
+    <String List="0" sID="02278B">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Replaced the brakes in 2075 Fusion Flea Supreme.&#xD;
+</Source>
+      <Dest>Vyměnili jsme brzdy u 2075 Fusion Flea Supreme.</Dest>
+    </String>
+    <String List="0" sID="022BD4">
+      <EDID>RadX</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Rad-X</Source>
+      <Dest>Rad-X</Dest>
+    </String>
+    <String List="0" sID="022DA5">
+      <EDID>ReduceAgility</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Agility</Source>
+      <Dest>Reduce Agility</Dest>
+    </String>
+    <String List="0" sID="022F53">
+      <EDID>RECampRJ01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Drugs</Source>
+      <Dest>Drogy</Dest>
+    </String>
+    <String List="0" sID="02312E">
+      <EDID>RadiationHazardStrongGeneric</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="02315A">
+      <EDID>RadiationHazardStrong2048</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="0231B7">
+      <EDID>RadioDiamondCityReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="02341D">
+      <EDID>RecipeAntidote</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>ANTIDOTE</Source>
+      <Dest>PROTIJED</Dest>
+    </String>
+    <String List="0" sID="02347A">
+      <EDID>PuzzlePowerConnectorActivator</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Power Conduit</Source>
+      <Dest>Elektrický přivaděč</Dest>
+    </String>
+    <String List="0" sID="0235BA">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>New Equipment Installed</Source>
+      <Dest>Nové vybavení nainstalováno</Dest>
+    </String>
+    <String List="0" sID="023745">
+      <EDID>RedR_ButtonBox</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>Tlačítko</Dest>
+    </String>
+    <String List="0" sID="02382B">
+      <EDID>RadAway</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>RadAway</Source>
+      <Dest>RadAway</Dest>
+    </String>
+    <String List="0" sID="02385E">
+      <EDID>QuincyRuinsMapMarkerRef</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Quincy Ruins</Source>
+      <Dest>Rozvaliny Quincy</Dest>
+    </String>
+    <String List="0" sID="0239A4">
+      <EDID>RadTrapRadiation</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Strong Radiation</Source>
+      <Dest>Silná radiace</Dest>
+    </String>
+    <String List="0" sID="0239BA">
+      <EDID>RedRocketTerminalSubTerminal01</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>That Rosa widow in Sanctuary Hills is restoring an old classic Corvega with her son. Nice woman. Pretty. Kid seems like kind of a brat, but I guess that's the point of her doing this project with him.&#xD;
+&#xD;
+Anyway, she's been doing a hell of a job. I was amazed at how much her and the kid have been able to do on their own. The only reason she even came to me is because the engine is out of her depth. &#xD;
+&#xD;
+I'm sure we can help her out.&#xD;
+&#xD;
+&#xD;
+&#xD;
+</Source>
+      <Dest>Ta stará vdova Rosa restauruje se sevým synem starou klasickou Corvegu. Hodná ženská. Pěkná. Děcko se celkem jeví jako spratek, ale to je předpokládám hlavní důvod, proč s ním ten projekt vlastně dělá.&#xD;
+&#xD;
+Mimochodem, odvedla zatraceně dobrou práci. Byl jsem ohromen, kolik toho ona a její kluk byli schopni udělat sami. Jedinný důvod, proč za mnou přišla bylo, že motor už na ní  byl prostě moc složitý.&#xD;
+&#xD;
+Jsem si jist, že jí můžeme pomoct.</Dest>
+    </String>
+    <String List="0" sID="0239F9">
+      <EDID>REChokepointMS13Marowski</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>MS13: Marowski Says Hello</Source>
+      <Dest>MS13: Marowski Says Hello</Dest>
+    </String>
+    <String List="0" sID="023D53">
+      <EDID>ReduceLuck</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Luck</Source>
+      <Dest>Reduce Luck</Dest>
+    </String>
+    <String List="0" sID="023D63">
+      <EDID>RadiationHazardLight768</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="023E7A">
+      <EDID>REDialogueRescued</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Gives "rescued" hellos</Source>
+      <Dest>Gives "rescued" hellos</Dest>
+    </String>
+    <String List="0" sID="023EAF">
+      <EDID>RadStagClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Rad Stag</Source>
+      <Dest>Mutajelen</Dest>
+    </String>
+    <String List="0" sID="02411C">
+      <EDID>REObject02Interior</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Bomb Shelter</Source>
+      <Dest>Úkryt před bombami</Dest>
+    </String>
+    <String List="0" sID="024286">
+      <EDID>RecipeSoup</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>SOUP</Source>
+      <Dest>POLÉVKA</Dest>
+    </String>
+    <String List="0" sID="0242CC">
+      <EDID>RadiationHazardLight512</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="0244A2">
+      <EDID>RadiationHazardDeadly256</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Deadly Radiation</Source>
+      <Dest>Smrtelná radiace</Dest>
+    </String>
+    <String List="0" sID="0244DC">
+      <EDID>RecipeDrug</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>DRUG</Source>
+      <Dest>DROGA</Dest>
+    </String>
+    <String List="0" sID="0244FA">
+      <EDID>RadioDisplayMS07</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Unknown Channel</Source>
+      <Dest>Neznámý kanál</Dest>
+    </String>
+    <String List="0" sID="02460D">
+      <EDID>RadioPreWar</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="02475C">
+      <EDID>REChokepointCT02_Guard02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lexa</Source>
+      <Dest>Lexa</Dest>
+    </String>
+    <String List="0" sID="024892">
+      <EDID>RedRocketTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Welcome, Red Rocket Employee!</Source>
+      <Dest>Vítej, zaměstnanče Red Rocket!</Dest>
+    </String>
+    <String List="0" sID="024D59">
+      <EDID>QuentinFilmore</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Quentin</Source>
+      <Dest>Quentin</Dest>
+    </String>
+    <String List="0" sID="024E30">
+      <EDID>RadioDiamondCitySSProtectron</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Protectron</Source>
+      <Dest>Protektron</Dest>
+    </String>
+    <String List="0" sID="025192">
+      <EDID>RedRocketTruckStopMapMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Red Rocket Truck Stop</Source>
+      <Dest>Odpočívadlo Red Rocket</Dest>
+    </String>
+    <String List="0" sID="0252E4">
+      <EDID>REObjectCC01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Object - Simple Minefield</Source>
+      <Dest>Object - Simple Minefield</Dest>
+    </String>
+    <String List="0" sID="02534F">
+      <EDID>ReduceEndurance</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Endurance</Source>
+      <Dest>Reduce Endurance</Dest>
+    </String>
+    <String List="0" sID="0254F0">
+      <EDID>RadiationHazardLight256</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="02565E">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Monthly service on the Vault-Tec van. No major issues with the vehicle, but that rep is an uppity asshole.</Source>
+      <Dest>Měsiční servis dodávky Vault-tecu. Žádné zásadní problémy s vozidlem, jen ten jejich zástupce je samozvaný debil.</Dest>
+    </String>
+    <String List="0" sID="025672">
+      <EDID>Razorgrain</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Razorgrain</Source>
+      <Dest>Ostrozrno</Dest>
+    </String>
+    <String List="0" sID="0257E4">
+      <EDID>REGuardObjectFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>gives generic "guarding object" dialogue</Source>
+      <Dest>gives generic "guarding object" dialogue</Dest>
+    </String>
+    <String List="0" sID="0259A4">
+      <EDID>RefrigeratorBrokenDoor04</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Refrigerator Door</Source>
+      <Dest>Dveře od lednice</Dest>
+    </String>
+    <String List="0" sID="0259A6">
+      <EDID>REChokepointCT02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint - Stash and Co. PT1</Source>
+      <Dest>Chokepoint - Stash and Co. PT1</Dest>
+    </String>
+    <String List="0" sID="025A35">
+      <EDID>RatPoison</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Rat Poison</Source>
+      <Dest>Jed na krysy</Dest>
+    </String>
+    <String List="0" sID="025B65">
+      <EDID>RECampTEMPLATE</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>TEMPLATE - Duplicate to make a new Camp Quest</Source>
+      <Dest>TEMPLATE - Duplicate to make a new Camp Quest</Dest>
+    </String>
+    <String List="0" sID="025C50">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Thursday, October 14</Source>
+      <Dest>Čtvrtek, 14. října</Dest>
+    </String>
+    <String List="0" sID="025C56">
+      <EDID>RadioAirportAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="025D00">
+      <EDID>REHancockFriend</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dolly Madison</Source>
+      <Dest>Dolly Madisonová</Dest>
+    </String>
+    <String List="0" sID="025D4C">
+      <EDID>RadioStatic</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="025D77">
+      <EDID>RadioDiamondCitySSFahey</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fat Fahey</Source>
+      <Dest>Tlustý Fahey</Dest>
+    </String>
+    <String List="0" sID="025E36">
+      <EDID>REObjectCT02Shelter</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Pulowski Preservation Shelter</Source>
+      <Dest>Atomový úkryt Pulowski</Dest>
+    </String>
+    <String List="0" sID="025E87">
+      <EDID>RadioDiamondCitySSPoliceOfficer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Police Officer</Source>
+      <Dest>Policejní důstojník</Dest>
+    </String>
+    <String List="0" sID="025F03">
+      <EDID>REFarmer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="0260BC">
+      <EDID>REChokepointSC01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chokepoint: Raiders Demand a Toll</Source>
+      <Dest>Chokepoint: Raiders Demand a Toll</Dest>
+    </String>
+    <String List="0" sID="0260C7">
+      <EDID>raiderClass</EDID>
+      <REC>CLAS:FULL</REC>
+      <Source>Raider</Source>
+      <Dest>Nájezdník</Dest>
+    </String>
+    <String List="0" sID="0261E1">
+      <EDID>RaiderFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Raiders</Source>
+      <Dest>Nájezdníci</Dest>
+    </String>
+    <String List="0" sID="026328">
+      <EDID>REAssaultSC02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Ghouls vs. Supermutants</Source>
+      <Dest>Ghúlové proti supermutantům</Dest>
+    </String>
+    <String List="0" sID="0264C8">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>Go back</Source>
+      <Dest>Vrátit se</Dest>
+    </String>
+    <String List="0" sID="0265F5">
+      <EDID>REObjectJS01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Vault Tec Van With Skeleton</Source>
+      <Dest>Dodávka Vault Tecu s kostrou</Dest>
+    </String>
+    <String List="0" sID="0266B1">
+      <EDID>ReconScopeEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Recon Scope Effect</Source>
+      <Dest>Recon Scope Effect</Dest>
+    </String>
+    <String List="0" sID="0266C2">
+      <EDID>RadiationHazardLight2048</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Light Radiation</Source>
+      <Dest>Lehká radiace</Dest>
+    </String>
+    <String List="0" sID="026799">
+      <EDID>QASmoke</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Tunnels</Source>
+      <Dest>Tunely</Dest>
+    </String>
+    <String List="0" sID="0269BD">
+      <EDID>ReebMarinaLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Reeb Marina</Source>
+      <Dest>Reeb Marina</Dest>
+    </String>
+    <String List="0" sID="0269C5">
+      <EDID>RECampKMK_DN079A</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>DN079 - prequest - somebody ate some bad meat</Source>
+      <Dest>DN079 - prequest - somebody ate some bad meat</Dest>
+    </String>
+    <String List="0" sID="0269EE">
+      <EDID>RadioInstitutePatrol1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Institute Patrol 1</Source>
+      <Dest>Hlídka Institutu 1</Dest>
+    </String>
+    <String List="0" sID="026E7B">
+      <EDID>ReconScopeMarker</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Dogmeat</Source>
+      <Dest>Žeryk</Dest>
+    </String>
+    <String List="0" sID="027158">
+      <EDID>RedRocketTerminalSubTerminal02</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Logs for October, 2077</Source>
+      <Dest>Záznamy pro říjen, 2077</Dest>
+    </String>
+    <String List="0" sID="0271D3">
+      <EDID>RadioDiamondCitySSMurphy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mayor Murphy</Source>
+      <Dest>Major Murphy</Dest>
+    </String>
+    <String List="0" sID="027563">
+      <EDID>RedMenace_HolotapeGame</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Red Menace</Source>
+      <Dest>Rudá hrozba</Dest>
+    </String>
+    <String List="0" sID="027726">
+      <EDID>ReducePABatteryDamageRateEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce PA Battery Damage Rate Effect</Source>
+      <Dest>Reduce PA Battery Damage Rate Effect</Dest>
+    </String>
+    <String List="0" sID="0279F4">
+      <EDID>RECampJS02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Mirelurk Bake</Source>
+      <Dest>Pečený bahenní plíživec</Dest>
+    </String>
+    <String List="0" sID="027B2B">
+      <EDID>REMantaMan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Manta Man</Source>
+      <Dest>Rejnočí muž</Dest>
+    </String>
+    <String List="0" sID="027C2B">
+      <EDID>RadscorpionBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="027F37">
+      <EDID>QuentinFilmore</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Quentin Filmore</Source>
+      <Dest>Quentin Filmore</Dest>
+    </String>
+    <String List="0" sID="0281AA">
+      <EDID>RadioDiamondCitySSMistress</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mistress of Mysterious</Source>
+      <Dest>Paní záhad</Dest>
+    </String>
+    <String List="0" sID="028258">
+      <EDID>RangerCabinMarker</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Ranger Cabin</Source>
+      <Dest>Chata lesníků</Dest>
+    </String>
+    <String List="0" sID="02851B">
+      <EDID>RECorpseGhoul03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="028947">
+      <EDID>RECampCT07a</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Camp - Stash + Lexa Dead</Source>
+      <Dest>Camp - Stash + Lexa Dead</Dest>
+    </String>
+    <String List="0" sID="028C1B">
+      <EDID>RECampKMK01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Doctor at camp with grateful patients</Source>
+      <Dest>Doktor v táboře, kterému jsou zavázáni pacienti</Dest>
+    </String>
+    <String List="0" sID="028CAA">
+      <EDID>RelayTower03TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Raider Radio Signal</Source>
+      <Dest>Rádiový signál Nájezdníků</Dest>
+    </String>
+    <String List="0" sID="028D0A">
+      <EDID>RelayTowerReceiver01</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="028D5A">
+      <EDID>RECampKMK02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Bartender at camp with friends</Source>
+      <Dest>Barman s přáteli v táboře</Dest>
+    </String>
+    <String List="0" sID="028DBE">
+      <EDID>RelayTowerReceiver02</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="028DF3">
+      <EDID>RelayTowerReceiver03</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="028FB2">
+      <EDID>RelayTowerUnitOfMeasurement</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>m</Source>
+      <Dest>m</Dest>
+    </String>
+    <String List="0" sID="028FC0">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Retract Satellites[READY]</Source>
+      <Dest>Snížit dosah satelitů[READY]</Dest>
+    </String>
+    <String List="0" sID="028FC9">
+      <EDID>RelayTower02TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Unintelligible Radio Signal</Source>
+      <Dest>Nesrozumitelný rádiový signál</Dest>
+    </String>
+    <String List="0" sID="028FF4">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>&#xD;
+Retracting satellites...&#xD;
+&#xD;
+Please stand back.</Source>
+      <Dest>Snižování dosahu satelitů...&#xD;
+&#xD;
+Prosíme ustupte.</Dest>
+    </String>
+    <String List="0" sID="029065">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Satellites are currently retracting...</Source>
+      <Dest>Dosah satelitů se momentálně snižuje...</Dest>
+    </String>
+    <String List="0" sID="029072">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="1">TERM:BTXT</REC>
+      <Source>&#xD;
+&#xD;
+Tower Status [ACTIVE]&#xD;
+&#xD;
+Amplified Signals:&#xD;
+&lt;Token.Name=Frequency1&gt;&lt;Token.Name=DashMessage01&gt;&lt;Token.Name=OfflineMessage01&gt;&lt;Token.ValueInt=RelayTowerTransmitter01Distance&gt;&lt;Token.Name=UnitOfMeasurement01&gt;&#xD;
+&lt;Token.Name=Frequency2&gt;&lt;Token.Name=DashMessage02&gt;&lt;Token.Name=OfflineMessage02&gt;&lt;Token.ValueInt=RelayTowerTransmitter02Distance&gt;&lt;Token.Name=UnitOfMeasurement02&gt;&#xD;
+&lt;Token.Name=Frequency3&gt;&lt;Token.Name=DashMessage03&gt;&lt;Token.Name=OfflineMessage03&gt;&lt;Token.ValueInt=RelayTowerTransmitter03Distance&gt;&lt;Token.Name=UnitOfMeasurement03&gt;&#xD;
+&#xD;
+&#xD;
+&#xD;
+</Source>
+      <Dest>Stav věže [ACTIVE]&#xD;
+&#xD;
+Rozvedené signály:&#xD;
+&lt;Token.Name=Frequency1&gt;&lt;Token.Name=DashMessage01&gt;&lt;Token.Name=OfflineMessage01&gt;&lt;Token.ValueInt=RelayTowerTransmitter01Distance&gt;&lt;Token.Name=UnitOfMeasurement01&gt;&#xD;
+&lt;Token.Name=Frequency2&gt;&lt;Token.Name=DashMessage02&gt;&lt;Token.Name=OfflineMessage02&gt;&lt;Token.ValueInt=RelayTowerTransmitter02Distance&gt;&lt;Token.Name=UnitOfMeasurement02&gt;&#xD;
+&lt;Token.Name=Frequency3&gt;&lt;Token.Name=DashMessage03&gt;&lt;Token.Name=OfflineMessage03&gt;&lt;Token.ValueInt=RelayTowerTransmitter03Distance&gt;&lt;Token.Name=UnitOfMeasurement03&gt;</Dest>
+    </String>
+    <String List="0" sID="0291B8">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Extend Satellites[READY]</Source>
+      <Dest>Zvýšit dosah Satelitů[READY]</Dest>
+    </String>
+    <String List="0" sID="0291CB">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Satellites are currently extending...</Source>
+      <Dest>Dosah satelitů se momentálně zvyšuje...</Dest>
+    </String>
+    <String List="0" sID="0291CD">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>&#xD;
+Extending satellites and acquiring signals...&#xD;
+&#xD;
+Please stand back.</Source>
+      <Dest>Zvyšování dosahu satelitů a získávání signálů...&#xD;
+&#xD;
+Ustupte prosím.</Dest>
+    </String>
+    <String List="0" sID="0291CF">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="0">TERM:BTXT</REC>
+      <Source>&#xD;
+&#xD;
+Tower Status [INACTIVE]&#xD;
+&#xD;
+&#xD;
+-Extend satellites to amplify signals in surrounding area.</Source>
+      <Dest>Stav věže [INACTIVE]&#xD;
+&#xD;
+&#xD;
+-Zvyšte dosah satelitů pro získání signálů z okolí.</Dest>
+    </String>
+    <String List="0" sID="0291D1">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>-Commonwealth Relay Tower Network</Source>
+      <Dest>-Síť vysílacích věží Commonwealthu</Dest>
+    </String>
+    <String List="0" sID="02921C">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Extend Satellites[BUSY]</Source>
+      <Dest>Zvýšit dosah satelitů[BUSY]</Dest>
+    </String>
+    <String List="0" sID="029240">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Retract Satellites[BUSY]</Source>
+      <Dest>Snížit dosah satelitů[BUSY]</Dest>
+    </String>
+    <String List="0" sID="029242">
+      <EDID>RelayTowerTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Relay Tower Terminal</Source>
+      <Dest>Terminál vysílací věže</Dest>
+    </String>
+    <String List="0" sID="029247">
+      <EDID>RelayTower04TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Distress Signal</Source>
+      <Dest>Nouzový signál</Dest>
+    </String>
+    <String List="0" sID="0292DD">
+      <EDID>RefrigeratorBrokenDoorLocked</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="0292F0">
+      <EDID>RedR_ButtonBoxNoPost</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>Tlačítko</Dest>
+    </String>
+    <String List="0" sID="02935A">
+      <EDID>RedR_ButtonBoxNoPost</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Push</Source>
+      <Dest>Stlačit</Dest>
+    </String>
+    <String List="0" sID="029623">
+      <EDID>RelayTower05TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Skylanes 1665 Mayday</Source>
+      <Dest>Nouzový signál letu 1665</Dest>
+    </String>
+    <String List="0" sID="029BF0">
+      <EDID>QuarantineDoorAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="029F48">
+      <EDID>QuincyPDLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Quincy Police Lockup</Source>
+      <Dest>Vězení v Quincy</Dest>
+    </String>
+    <String List="0" sID="02A35C">
+      <EDID>RadiationTrap01</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Disarm</Source>
+      <Dest>Odzbrojit</Dest>
+    </String>
+    <String List="0" sID="02A6AF">
+      <EDID>RailroadGenericSynthF01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Synth</Source>
+      <Dest>Syntetik</Dest>
+    </String>
+    <String List="0" sID="02AD96">
+      <EDID>radscorpionVenom</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Radscorpion Venom Syringe</Source>
+      <Dest>Jehla s radškorpioním jedem</Dest>
+    </String>
+    <String List="0" sID="02B043">
+      <EDID>RelayTowerZimonjaLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Outpost Zimonja</Source>
+      <Dest>Stanoviště Zimonja</Dest>
+    </String>
+    <String List="0" sID="02B1C5">
+      <EDID>RefreshingBeverage</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Refreshing Beverage</Source>
+      <Dest>Osvěžující pití</Dest>
+    </String>
+    <String List="0" sID="02B48F">
+      <EDID>RadscorpionStinger</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Radscorpion Stinger</Source>
+      <Dest>Jedový osten radškorpiona</Dest>
+    </String>
+    <String List="0" sID="02B64E">
+      <EDID>RecipeMisc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>UTILITY</Source>
+      <Dest>UŽITEČNÉ</Dest>
+    </String>
+    <String List="0" sID="02B797">
+      <EDID>RecipePoison</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>SYRINGER AMMO</Source>
+      <Dest>NÁBOJE DO JEHLOMETU</Dest>
+    </String>
+    <String List="0" sID="02B799">
+      <EDID>RecipeUtility</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>UTILITY</Source>
+      <Dest>UŽITEČNÉ</Dest>
+    </String>
+    <String List="0" sID="02B7C4">
+      <EDID>Refractor04</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Refractor</Source>
+      <Dest>Refraktor</Dest>
+    </String>
+    <String List="0" sID="02B7C5">
+      <EDID>Refractor05</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Refractor</Source>
+      <Dest>Refraktor</Dest>
+    </String>
+    <String List="0" sID="02C4DF">
+      <EDID>ReflectDamageEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reflect Damage</Source>
+      <Dest>Reflect Damage</Dest>
+    </String>
+    <String List="0" sID="02C5A8">
+      <EDID>RECheckpointMinWon05_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Minutemen Defenders 05</Source>
+      <Dest>RE Checkpoint: Minutemen Defenders 05</Dest>
+    </String>
+    <String List="0" sID="02C5CF">
+      <EDID>RECheckpoint04_Deathclaws</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Deathclaws</Source>
+      <Dest>RE Checkpoint: Enemy Deathclaws</Dest>
+    </String>
+    <String List="0" sID="02C603">
+      <EDID>RECheckpoint03_Gunners</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Gunners 01</Source>
+      <Dest>RE Checkpoint: Enemy Gunners 01</Dest>
+    </String>
+    <String List="0" sID="02C674">
+      <EDID>RECheckpointInstWon05_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Institute Defenders 05</Source>
+      <Dest>RE Checkpoint: Institute Defenders 05</Dest>
+    </String>
+    <String List="0" sID="02C6D7">
+      <EDID>RECheckpointRRWon01_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Railroad Defenders 01</Source>
+      <Dest>RE Checkpoint: Railroad Defenders 01</Dest>
+    </String>
+    <String List="0" sID="02C712">
+      <EDID>RECheckpoint08_RRAttackers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy RR Agents</Source>
+      <Dest>RE Checkpoint: Enemy RR Agents</Dest>
+    </String>
+    <String List="0" sID="02C71A">
+      <EDID>RECheckpointParent</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RECheckpoint: Parent Quest</Source>
+      <Dest>RECheckpoint: Parent Quest</Dest>
+    </String>
+    <String List="0" sID="02C720">
+      <EDID>RECheckpointBoSWon05_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Brotherhood Defenders 05</Source>
+      <Dest>RE Checkpoint: Brotherhood Defenders 05</Dest>
+    </String>
+    <String List="0" sID="02C77C">
+      <EDID>RECheckpoint_LvlSynth_Boss</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Synth Leader</Source>
+      <Dest>Vůdce Syntetiků</Dest>
+    </String>
+    <String List="0" sID="02C77F">
+      <EDID>RECheckpointRRWon05_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Railroad Defenders 05</Source>
+      <Dest>RE Checkpoint: Railroad Defenders 05</Dest>
+    </String>
+    <String List="0" sID="02C780">
+      <EDID>RECheckpoint07_VertibirdBoS</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy BoS Troops and VBird</Source>
+      <Dest>RE Checkpoint: Enemy BoS Troops and VBird</Dest>
+    </String>
+    <String List="0" sID="02C7AD">
+      <EDID>RECheckpointMinWon04_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Minutemen Defenders 04</Source>
+      <Dest>RE Checkpoint: Minutemen Defenders 04</Dest>
+    </String>
+    <String List="0" sID="02C7EE">
+      <EDID>RECheckpointRRWon03_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Railroad Defenders 03</Source>
+      <Dest>RE Checkpoint: Railroad Defenders 03</Dest>
+    </String>
+    <String List="0" sID="02C843">
+      <EDID>RECheckpointRRWon02_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Railroad Defenders 02</Source>
+      <Dest>RE Checkpoint: Railroad Defenders 02</Dest>
+    </String>
+    <String List="0" sID="02C860">
+      <EDID>RECheckpoint15_Gunners</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Gunners 02</Source>
+      <Dest>RE Checkpoint: Enemy Gunners 02</Dest>
+    </String>
+    <String List="0" sID="02C897">
+      <EDID>RECheckpoint09_Raiders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Raiders</Source>
+      <Dest>RE Checkpoint: Enemy Raiders</Dest>
+    </String>
+    <String List="0" sID="02C8A0">
+      <EDID>RECheckpoint14_SynthAttackers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Synths 02</Source>
+      <Dest>RE Checkpoint: Enemy Synths 02</Dest>
+    </String>
+    <String List="0" sID="02C931">
+      <EDID>RECheckpointMinWon02_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Minutemen Defenders 02</Source>
+      <Dest>RE Checkpoint: Minutemen Defenders 02</Dest>
+    </String>
+    <String List="0" sID="02C95D">
+      <EDID>RECheckpointMinWon03_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Minutemen Defenders 03</Source>
+      <Dest>RE Checkpoint: Minutemen Defenders 03</Dest>
+    </String>
+    <String List="0" sID="02C98C">
+      <EDID>RECheckpoint05_Vertibird</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Vertibird</Source>
+      <Dest>RE Checkpoint: Enemy Vertibird</Dest>
+    </String>
+    <String List="0" sID="02C9CC">
+      <EDID>RadioDisplayInstitute</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Classical Radio</Source>
+      <Dest>Klasické rádio</Dest>
+    </String>
+    <String List="0" sID="02CA87">
+      <EDID>RECheckpointRole</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>REAssaultRole</Source>
+      <Dest>REAssaultRole</Dest>
+    </String>
+    <String List="0" sID="02CAD7">
+      <EDID>RECheckpointBoSWon03_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Brotherhood Defenders 03</Source>
+      <Dest>RE Checkpoint: Brotherhood Defenders 03</Dest>
+    </String>
+    <String List="0" sID="02CB11">
+      <EDID>RECheckpoint11_FeralGhouls</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Ghouls</Source>
+      <Dest>RE Checkpoint: Enemy Ghouls</Dest>
+    </String>
+    <String List="0" sID="02CB57">
+      <EDID>RECheckpoint16_Radscorpions</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Radscorpions</Source>
+      <Dest>RE Checkpoint: Enemy Radscorpions</Dest>
+    </String>
+    <String List="0" sID="02CB91">
+      <EDID>RECheckpoint06_SuperMutants</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Super Mutants</Source>
+      <Dest>RE Checkpoint: Enemy Super Mutants</Dest>
+    </String>
+    <String List="0" sID="02CBB8">
+      <EDID>RECheckpoint10_RaidersPowerArmor</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Raiders w/ Power Armor</Source>
+      <Dest>RE Checkpoint: Enemy Raiders w/ Power Armor</Dest>
+    </String>
+    <String List="0" sID="02CC2E">
+      <EDID>RECheckpointBoSWon01_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Brotherhood Defenders 01</Source>
+      <Dest>RE Checkpoint: Brotherhood Defenders 01</Dest>
+    </String>
+    <String List="0" sID="02CC73">
+      <EDID>RECheckpoint12_Deathclaw</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Deathclaw</Source>
+      <Dest>RE Checkpoint: Enemy Deathclaw</Dest>
+    </String>
+    <String List="0" sID="02CC91">
+      <EDID>RECheckpoint01_BoSAttackers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy BoS</Source>
+      <Dest>RE Checkpoint: Enemy BoS</Dest>
+    </String>
+    <String List="0" sID="02CCB7">
+      <EDID>RECheckpointRole</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>REAssaultRole</Source>
+      <Dest>REAssaultRole</Dest>
+    </String>
+    <String List="0" sID="02CD21">
+      <EDID>RECheckpointMinWon01_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Minutemen Defenders 01</Source>
+      <Dest>RE Checkpoint: Minutemen Defenders 01</Dest>
+    </String>
+    <String List="0" sID="02CD65">
+      <EDID>RECheckpointInstWon04_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Institute Defenders 04</Source>
+      <Dest>RE Checkpoint: Institute Defenders 04</Dest>
+    </String>
+    <String List="0" sID="02CDA8">
+      <EDID>RECheckpointBoSWon04_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Brotherhood Defenders 04</Source>
+      <Dest>RE Checkpoint: Brotherhood Defenders 04</Dest>
+    </String>
+    <String List="0" sID="02CE5E">
+      <EDID>RECheckpoint13_YaoGuai</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Yao Guai</Source>
+      <Dest>RE Checkpoint: Enemy Yao Guai</Dest>
+    </String>
+    <String List="0" sID="02CE6B">
+      <EDID>RECheckpointInstWon03_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Institute Defenders 03</Source>
+      <Dest>RE Checkpoint: Institute Defenders 03</Dest>
+    </String>
+    <String List="0" sID="02CE8C">
+      <EDID>RECheckpointInstWon01_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Institute Defenders 01</Source>
+      <Dest>RE Checkpoint: Institute Defenders 01</Dest>
+    </String>
+    <String List="0" sID="02CF02">
+      <EDID>RECheckpointInstWon02_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Institute Defenders 02</Source>
+      <Dest>RE Checkpoint: Institute Defenders 02</Dest>
+    </String>
+    <String List="0" sID="02CF04">
+      <EDID>RECheckpointBoSWon02_Init</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Brotherhood Defenders 02</Source>
+      <Dest>RE Checkpoint: Brotherhood Defenders 02</Dest>
+    </String>
+    <String List="0" sID="02CF29">
+      <EDID>RECheckpoint02_SynthAttackers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>RE Checkpoint: Enemy Synths 01</Source>
+      <Dest>RE Checkpoint: Enemy Synths 01</Dest>
+    </String>
+    <String List="0" sID="02CF87">
+      <EDID>RadioFreedomReceiverOff</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="02CFA8">
+      <EDID>RailroadArmoredCoat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Railroad Armored Coat</Source>
+      <Dest>Obrněná bunda Železničářů</Dest>
+    </String>
+    <String List="0" sID="02D2C2">
+      <EDID>RadioHalluciGenDemoAnnouncer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>HalluciGen Mainframe</Source>
+      <Dest>HalluciGen server</Dest>
+    </String>
+    <String List="0" sID="02D301">
+      <EDID>RailroadRecruitmentHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Join the Railroad</Source>
+      <Dest>Připoj se k Železničářům</Dest>
+    </String>
+    <String List="0" sID="02DA7A">
+      <EDID>RadioInstituteReceiverOff</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="02E82A">
+      <EDID>RECheckpoint10_RaidersPowerArmor</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02E848">
+      <EDID>RECampLC01Jules</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jules</Source>
+      <Dest>Jules</Dest>
+    </String>
+    <String List="0" sID="02E8A9">
+      <EDID>RECheckpoint11_FeralGhouls</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02E94C">
+      <EDID>RECheckpoint15_Gunners</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02E9B7">
+      <EDID>RECheckpoint09_Raiders</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02E9D6">
+      <EDID>RECheckpoint14_SynthAttackers</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EA66">
+      <EDID>RECampLC01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Runaway Synth</Source>
+      <Dest>Zběhlý syntetik</Dest>
+    </String>
+    <String List="0" sID="02EAE8">
+      <EDID>RECheckpoint04_Deathclaws</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EAF2">
+      <EDID>RECheckpoint01_BoSAttackers</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EC1B">
+      <EDID>RECheckpoint13_YaoGuai</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EC9F">
+      <EDID>REDogVendor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gene</Source>
+      <Dest>Gene</Dest>
+    </String>
+    <String List="0" sID="02ECF6">
+      <EDID>PulseGrenadeProjectileInstitute</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Electromagnetic Pulse Grenade</Source>
+      <Dest>Elektromagnetický pulsní granát</Dest>
+    </String>
+    <String List="0" sID="02ED03">
+      <EDID>RECheckpoint03_Gunners</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EE42">
+      <EDID>RECheckpoint08_RRAttackers</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02EEC8">
+      <EDID>RECampLC01Angie</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Angie</Source>
+      <Dest>Angie</Dest>
+    </String>
+    <String List="0" sID="02EFE7">
+      <EDID>RECheckpoint12_Deathclaw</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F0A8">
+      <EDID>RECheckpoint06_SuperMutants</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F112">
+      <EDID>RECheckpoint05_Vertibird</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F13B">
+      <EDID>RECampLC01Fred01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fred</Source>
+      <Dest>Fred</Dest>
+    </String>
+    <String List="0" sID="02F150">
+      <EDID>RECheckpoint_LvlSynthDefender_Institute_Boss</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Synth Leader</Source>
+      <Dest>Vůdce Syntetiků</Dest>
+    </String>
+    <String List="0" sID="02F19E">
+      <EDID>RECheckpoint02_SynthAttackers</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F286">
+      <EDID>REObject_VertibirdKMK01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Vertibird - pick up patrol</Source>
+      <Dest>Vertibird - extrakční patrola</Dest>
+    </String>
+    <String List="0" sID="02F2B7">
+      <EDID>PulseGrenadeProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Electromagnetic Pulse Grenade</Source>
+      <Dest>Elektromagnetiký pulsní granát</Dest>
+    </String>
+    <String List="0" sID="02F37C">
+      <EDID>RECheckpoint07_VertibirdBoS</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F391">
+      <EDID>RECheckpoint16_Radscorpions</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Help defend the checkpoint</Source>
+      <Dest>Pomoz Ubránit Stanoviště</Dest>
+    </String>
+    <String List="0" sID="02F3D5">
+      <EDID>RECampRJ02_Charlie</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Charlie</Source>
+      <Dest>Charlie</Dest>
+    </String>
+    <String List="0" sID="02F455">
+      <EDID>RelayTower18TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Miller Family Radio Signal</Source>
+      <Dest>Rádiový signál Millerovi rodiny</Dest>
+    </String>
+    <String List="0" sID="02F46C">
+      <EDID>REChokepointRJ01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Gunners</Source>
+      <Dest>Ranaři</Dest>
+    </String>
+    <String List="0" sID="02F49B">
+      <EDID>RelayTower08TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Distress Signal</Source>
+      <Dest>Nouzový signál</Dest>
+    </String>
+    <String List="0" sID="02F4C9">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="02F4CC">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="02F54F">
+      <EDID>RECamprj05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Synth Ambush</Source>
+      <Dest>Léčka syntetiků</Dest>
+    </String>
+    <String List="0" sID="02F5CC">
+      <EDID>RECamprj03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>That's not a sandwich</Source>
+      <Dest>To není sendvič</Dest>
+    </String>
+    <String List="0" sID="02F5FA">
+      <EDID>REAssaultSC18_FactionMMvsGunners</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. Gunners</Source>
+      <Dest>Faction Assault: Minutemen vs. Gunners</Dest>
+    </String>
+    <String List="0" sID="02F639">
+      <EDID>REAssaultSC16_FactionBoSDefenders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS Defenders</Source>
+      <Dest>Faction Assault: BoS Defenders</Dest>
+    </String>
+    <String List="0" sID="02F68E">
+      <EDID>RelayTower09TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Nautical Radio Signal</Source>
+      <Dest>Signál námořnického rádia</Dest>
+    </String>
+    <String List="0" sID="02F695">
+      <EDID>RECamprj06</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Synths and Scavengers</Source>
+      <Dest>Syntetici a sběrači</Dest>
+    </String>
+    <String List="0" sID="02F6D2">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="02F7B2">
+      <EDID>RECampRJ02_Clinton</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Clint</Source>
+      <Dest>Clint</Dest>
+    </String>
+    <String List="0" sID="02F7DC">
+      <EDID>RelayTowerAnnouncerActor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="02F847">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="02F886">
+      <EDID>REChokepointSC06_FactionMMDefenders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Chokepoint: Minutemen Defenders</Source>
+      <Dest>Faction Chokepoint: Minutemen Defenders</Dest>
+    </String>
+    <String List="0" sID="02F8D6">
+      <EDID>RelayTower17TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Supermutant Radio Broadcast</Source>
+      <Dest>Rádiové vysílání supermutantů</Dest>
+    </String>
+    <String List="0" sID="02F913">
+      <EDID>RelayTower06TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Default Radio Signal</Source>
+      <Dest>Výchozí rádiový signál</Dest>
+    </String>
+    <String List="0" sID="02F915">
+      <EDID>RelayTower10TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Garbled Radio Beacon</Source>
+      <Dest>Vysílač zkomoleného rádiového vysílání</Dest>
+    </String>
+    <String List="0" sID="02F918">
+      <EDID>RelayTower12TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Civil Alert System Broadcast</Source>
+      <Dest>Systém civilního poplašného vysílání</Dest>
+    </String>
+    <String List="0" sID="02F91C">
+      <EDID>RelayTower13TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Distress Signal</Source>
+      <Dest>Nouzový signál</Dest>
+    </String>
+    <String List="0" sID="02F91E">
+      <EDID>RelayTower14TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Automated Radio Alarm</Source>
+      <Dest>Automatické výstražné vysílání</Dest>
+    </String>
+    <String List="0" sID="02F987">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Right Legs</Source>
+      <Dest>Pravé nohy</Dest>
+    </String>
+    <String List="0" sID="02F98A">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>DogmeatRoot</Source>
+      <Dest>DogmeatRoot</Dest>
+    </String>
+    <String List="0" sID="02F9C1">
+      <EDID>REChokepointSC05_FactionInstRelayAmbush02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>TEMPLATE - Duplicate to make a new Chokepoint Quest.</Source>
+      <Dest>TEMPLATE - Duplicate to make a new Chokepoint Quest.</Dest>
+    </String>
+    <String List="0" sID="02F9C6">
+      <EDID>REAssaultSC17_FactionMMvsRaiders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. Raiders</Source>
+      <Dest>Faction Assault: Minutemen vs. Raiders</Dest>
+    </String>
+    <String List="0" sID="02F9C9">
+      <EDID>REAssaultSC20_FactionBoSvsSupermutants</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Supermutants</Source>
+      <Dest>Faction Assault: BoS vs. Supermutants</Dest>
+    </String>
+    <String List="0" sID="02F9CD">
+      <EDID>REAssaultSC14_FactionBoSvsInstCoursers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Institute Coursers</Source>
+      <Dest>Faction Assault: BoS vs. Institute Coursers</Dest>
+    </String>
+    <String List="0" sID="02F9D1">
+      <EDID>REAssaultSC11_FactionMMDefenders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen Defenders</Source>
+      <Dest>Faction Assault: Minutemen Defenders</Dest>
+    </String>
+    <String List="0" sID="02F9D6">
+      <EDID>REAssaultSC09_FactionMMvsInstCoursers</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. Coursers</Source>
+      <Dest>Faction Assault: Minutemen vs. Coursers</Dest>
+    </String>
+    <String List="0" sID="02F9D8">
+      <EDID>REAssaultSC08_FactionMMvsInst</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. Institute</Source>
+      <Dest>Faction Assault: Minutemen vs. Institute</Dest>
+    </String>
+    <String List="0" sID="02F9DC">
+      <EDID>REAssaultSC07_FactionMMvsBoS</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. BoS</Source>
+      <Dest>Faction Assault: Minutemen vs. BoS</Dest>
+    </String>
+    <String List="0" sID="02F9DE">
+      <EDID>REObject_VertibirdKMK03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Gunners trying to fly vertibird</Source>
+      <Dest>Ranaři, kteří se pokouší letět Vertibirdem</Dest>
+    </String>
+    <String List="0" sID="02FA33">
+      <EDID>REBrahminVendor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kelly</Source>
+      <Dest>Kelly</Dest>
+    </String>
+    <String List="0" sID="02FA97">
+      <EDID>RECampRJ02_Charlie</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Charlie</Source>
+      <Dest>Charlie</Dest>
+    </String>
+    <String List="0" sID="02FB69">
+      <EDID>RelayTower16TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Separated Family Radio Signal</Source>
+      <Dest>Rádiový signál rozdělené rodiny</Dest>
+    </String>
+    <String List="0" sID="02FB79">
+      <EDID>REAssaultRJ01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Behemoth vs Gunners</Source>
+      <Dest>Behemoth proti Ranařům</Dest>
+    </String>
+    <String List="0" sID="02FB7D">
+      <EDID>RECamprj04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Synth Attack Aftermath</Source>
+      <Dest>Následky útoku syntetiků</Dest>
+    </String>
+    <String List="0" sID="02FB86">
+      <EDID>REChokepointSC03_Farmer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Farmer</Source>
+      <Dest>Farmář</Dest>
+    </String>
+    <String List="0" sID="02FBE7">
+      <EDID>REAssaultSC13_FactionBoSvsInst</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Institute</Source>
+      <Dest>Faction Assault: BoS vs. Institute</Dest>
+    </String>
+    <String List="0" sID="02FC05">
+      <EDID>REChokepointSC04_FactionInstRelayAmbush01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Chokepoint: Institute Relay Ambush 1</Source>
+      <Dest>Faction Chokepoint: Institute Relay Ambush 1</Dest>
+    </String>
+    <String List="0" sID="02FC53">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Tělo</Dest>
+    </String>
+    <String List="0" sID="02FC68">
+      <EDID>RelayTower07TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Distress Signal</Source>
+      <Dest>Nouzový signál</Dest>
+    </String>
+    <String List="0" sID="02FC71">
+      <EDID>REAssaultSC12_FactionBoSvsMM</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Minutemen</Source>
+      <Dest>Faction Assault: BoS vs. Minutemen</Dest>
+    </String>
+    <String List="0" sID="02FC9A">
+      <EDID>REMerchant02Guard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gunner Mercenary</Source>
+      <Dest>Žoldák Ranařů</Dest>
+    </String>
+    <String List="0" sID="02FD42">
+      <EDID>RelayTower11TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Radio Beacon JB</Source>
+      <Dest>Rádiový vysílač JB</Dest>
+    </String>
+    <String List="0" sID="02FE87">
+      <EDID>RelayTower15TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Boston City Works Beacon</Source>
+      <Dest>Vysílač bostonských městských služeb</Dest>
+    </String>
+    <String List="0" sID="02FEFD">
+      <EDID>REObject_VertibirdKMK02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Vertibird on ground vs. Gunners</Source>
+      <Dest>Dosedlý Vertibird proti Ranařům</Dest>
+    </String>
+    <String List="0" sID="02FF74">
+      <EDID>RECamprj02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Daddy daughter</Source>
+      <Dest>Taťkova holčička</Dest>
+    </String>
+    <String List="0" sID="02FF95">
+      <EDID>REMerchant04VendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="02FFA1">
+      <EDID>RECampRJ03_Moss</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Moss</Source>
+      <Dest>Moss</Dest>
+    </String>
+    <String List="0" sID="03013A">
+      <EDID>REMerchant04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chems Vendor</Source>
+      <Dest>Prodejce chemikálií</Dest>
+    </String>
+    <String List="0" sID="03028B">
+      <EDID>RECampKMK03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Chems vendor</Source>
+      <Dest>Prodejce chemikálií</Dest>
+    </String>
+    <String List="0" sID="0302DF">
+      <EDID>RelayTower19TransmitterName</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Distress Signal</Source>
+      <Dest>Nouzový signál</Dest>
+    </String>
+    <String List="0" sID="030390">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="03040E">
+      <EDID>RECampRJ03_Mikey</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mikey</Source>
+      <Dest>Mikey</Dest>
+    </String>
+    <String List="0" sID="030410">
+      <EDID>REAssaultSC21_FactionInstRelayAmbush</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Institute Relay Ambush</Source>
+      <Dest>Faction Assault: Institute Relay Ambush</Dest>
+    </String>
+    <String List="0" sID="0304B2">
+      <EDID>REAssaultSC15_FactionBoSvsInstRelay</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Institute Relay</Source>
+      <Dest>Faction Assault: BoS vs. Institute Relay</Dest>
+    </String>
+    <String List="0" sID="030504">
+      <EDID>REAssaultSC10_FactionMMvsInstRelay</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: Minutemen vs. Relay Synths</Source>
+      <Dest>Faction Assault: Minutemen vs. Relay Synths</Dest>
+    </String>
+    <String List="0" sID="03058E">
+      <EDID>REChokepointSC07_FactionBoSDefenders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Chokepoint: BoS Defenders</Source>
+      <Dest>Faction Chokepoint: BoS Defenders</Dest>
+    </String>
+    <String List="0" sID="0305AA">
+      <EDID>REAssault_VertibirdKMK01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>BOS vertibirds vs. dug-in Super Mutants</Source>
+      <Dest>Veribird BOS proti zakopaným supermutantům</Dest>
+    </String>
+    <String List="0" sID="0305F7">
+      <EDID>REChokepointSC08_FactionInstDefenders</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Chokepoint: Institute Defenders</Source>
+      <Dest>Faction Chokepoint: Institute Defenders</Dest>
+    </String>
+    <String List="0" sID="030618">
+      <EDID>RaiderDogBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Left Legs</Source>
+      <Dest>Levé nohy</Dest>
+    </String>
+    <String List="0" sID="030631">
+      <EDID>REFactionShared</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>REFaction Shared Lines</Source>
+      <Dest>REFaction Shared Lines</Dest>
+    </String>
+    <String List="0" sID="030658">
+      <EDID>RECampRJ02_Clinton</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Clinton</Source>
+      <Dest>Clinton</Dest>
+    </String>
+    <String List="0" sID="030692">
+      <EDID>REAssaultSC19_FactionBoSvsGhouls</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Faction Assault: BoS vs. Ghouls</Source>
+      <Dest>Faction Assault: BoS vs. Ghouls</Dest>
+    </String>
+    <String List="0" sID="0307AE">
+      <EDID>RelayTowerInt15A</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Operations</Source>
+      <Dest>Operace</Dest>
+    </String>
+    <String List="0" sID="0307B8">
+      <EDID>RelayTowerInt15B</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Reactor Level</Source>
+      <Dest>Patro reaktoru</Dest>
+    </String>
+    <String List="0" sID="0307CD">
+      <EDID>RadiationImmunity</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Immune to Radiation</Source>
+      <Dest>Imunní vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="0307E2">
+      <EDID>RelayTowerInt03</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Bunker</Source>
+      <Dest>Bunkr</Dest>
+    </String>
+    <String List="0" sID="03083A">
+      <EDID>RadiationImmunityEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Immune to Radiation</Source>
+      <Dest>Immune to Radiation</Dest>
+    </String>
+    <String List="0" sID="03087D">
+      <EDID>RelayTowerInt06</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Basement</Source>
+      <Dest>Sklep</Dest>
+    </String>
+    <String List="0" sID="030926">
+      <EDID>RadioDiamondCityReceiverNew</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="030950">
+      <EDID>RelayTowerInt14</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Reactor Level</Source>
+      <Dest>Patro reaktoru</Dest>
+    </String>
+    <String List="0" sID="030960">
+      <EDID>RelayTowerInt09</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Fishing Boat Cabin</Source>
+      <Dest>Kabina rybářské lodi</Dest>
+    </String>
+    <String List="0" sID="030988">
+      <EDID>RedRocketGasSign01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="030994">
+      <EDID>RadioInstituteReceiverPreWar</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="0309F5">
+      <EDID>RelayTowerInt05</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Storage Compartment</Source>
+      <Dest>Oddělení skladu</Dest>
+    </String>
+    <String List="0" sID="030A06">
+      <EDID>RelayTowerInt08</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Train Car</Source>
+      <Dest>Vagón</Dest>
+    </String>
+    <String List="0" sID="030C9A">
+      <EDID>RelayTowerInt17</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Storage</Source>
+      <Dest>Sklad</Dest>
+    </String>
+    <String List="0" sID="030D4B">
+      <EDID>RailroadTiconGenericSynthF01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Synth</Source>
+      <Dest>Syntetik</Dest>
+    </String>
+    <String List="0" sID="030E4B">
+      <EDID>RailwayRifle</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
+    </String>
+    <String List="0" sID="030F12">
+      <EDID>QuietReflectionXPBonus</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Quiet Reflection</Source>
+      <Dest>Tiché rozjímání</Dest>
+    </String>
+    <String List="0" sID="030FC1">
+      <EDID>REMerchant05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trader</Source>
+      <Dest>Obchodník</Dest>
+    </String>
+    <String List="0" sID="03103D">
+      <EDID>RazorgrainWild</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Wild Razorgrain</Source>
+      <Dest>Divoké ostrozrno</Dest>
+    </String>
+    <String List="0" sID="031060">
+      <EDID>QuietReflectionEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Quiet Reflection</Source>
+      <Dest>Quiet Reflection</Dest>
+    </String>
+    <String List="0" sID="031104">
+      <EDID>RadStormSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Radiation Storm</Source>
+      <Dest>Radioaktivní bouře</Dest>
+    </String>
+    <String List="0" sID="031153">
+      <EDID>RailwayRifle</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standartní</Dest>
+    </String>
+    <String List="0" sID="031159">
+      <EDID>QuietReflection</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Quiet Reflection</Source>
+      <Dest>Tiché rozjímání</Dest>
+    </String>
+    <String List="0" sID="0311F6">
+      <EDID>REMerchant05VendorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Locker</Source>
+      <Dest>Skříňka</Dest>
+    </String>
+    <String List="0" sID="03120A">
+      <EDID>RadiationStormEffectM</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Storm</Source>
+      <Dest>Radiation Storm</Dest>
+    </String>
+    <String List="0" sID="0317ED">
+      <EDID>RadResistant01</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Rad Resistant</Source>
+      <Dest>Odolný vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="031823">
+      <EDID>RelayTower05Location</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Relay Tower 1DL-109</Source>
+      <Dest>Vysílací Věž 1DL-109</Dest>
+    </String>
+    <String List="0" sID="03187B">
+      <EDID>RadResistant02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Rad Resistant</Source>
+      <Dest>Odolný vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="03196D">
+      <EDID>RadResistant03</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Rad Resistant</Source>
+      <Dest>Odolný vůči radiaci</Dest>
+    </String>
+    <String List="0" sID="03196F">
+      <EDID>QuickHands02</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Quick Hands</Source>
+      <Dest>Rychlé ruce</Dest>
+    </String>
+    <String List="0" sID="031B0C">
+      <EDID>RadioInstitutePAReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="031ED6">
+      <EDID>RelayTowerInt12</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Military Bunker</Source>
+      <Dest>Vojenský bunkr</Dest>
+    </String>
+    <String List="0" sID="031FCE">
+      <EDID>RelayTowerReceiver12</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="031FEF">
+      <EDID>RelayTowerReceiver15</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="031FF4">
+      <EDID>QAArmorChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Armor</Source>
+      <Dest>Veškerá zbroj</Dest>
+    </String>
+    <String List="0" sID="032054">
+      <EDID>QAHolotapeGamesChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Holotape Games</Source>
+      <Dest>Hry na holodisku</Dest>
+    </String>
+    <String List="0" sID="032056">
+      <EDID>RelayTowerReceiver19</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="03208B">
+      <EDID>QATestTerminal</EDID>
+      <REC>TERM:ITXT</REC>
+      <Source>Test Note</Source>
+      <Dest>Testovací záznam</Dest>
+    </String>
+    <String List="0" sID="0320B2">
+      <EDID>RelayTowerReceiver06</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="0320F9">
+      <EDID>RelayTowerReceiver08</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="0321C5">
+      <EDID>QABookChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Books</Source>
+      <Dest>Všechny knihy</Dest>
+    </String>
+    <String List="0" sID="0321D8">
+      <EDID>RelayTowerOfflineMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>[OFFLINE]</Source>
+      <Dest>[OFFLINE]</Dest>
+    </String>
+    <String List="0" sID="0321E3">
+      <EDID>QATestTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Test Terminal</Source>
+      <Dest>Testovací terminál</Dest>
+    </String>
+    <String List="0" sID="03225A">
+      <EDID>RelayTowerReceiver14</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="032266">
+      <EDID>QAWeaponChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Weapons</Source>
+      <Dest>Všechny zbraně</Dest>
+    </String>
+    <String List="0" sID="0322C7">
+      <EDID>QAMiscComponentChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Misc. Compent Items</Source>
+      <Dest>All Misc. Compent Items</Dest>
+    </String>
+    <String List="0" sID="032378">
+      <EDID>QAHolotapesChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Holotapes</Source>
+      <Dest>Holodisky</Dest>
+    </String>
+    <String List="0" sID="032400">
+      <EDID>RelayTowerReceiver17</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="032455">
+      <EDID>RelayTowerDashMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>-</Source>
+      <Dest>-</Dest>
+    </String>
+    <String List="0" sID="032488">
+      <EDID>QAScrapChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Scrap</Source>
+      <Dest>Veškerý šrot</Dest>
+    </String>
+    <String List="0" sID="0324D3">
+      <EDID>RelayTowerReceiver10</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="0324F5">
+      <EDID>RelayTowerReceiver09</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="03252B">
+      <EDID>RelayTowerReceiver04</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="032540">
+      <EDID>RelayTowerReceiver18</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="03254D">
+      <EDID>RelayTowerReceiver16</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="03254E">
+      <EDID>RelayTowerReceiver13</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="0325A5">
+      <EDID>QAConsumableChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>All Consumables</Source>
+      <Dest>Vše poživatelné</Dest>
+    </String>
+    <String List="0" sID="0325AA">
+      <EDID>RelayTowerReceiver05</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ham Radio</Source>
+      <Dest>Rádiový přijímač</Dest>
+    </String>
+    <String List="0" sID="0325B2">
+      <EDID>QATestTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>Remember, use of the recreational terminal is a privilege. If work performance declines, this privilege may be revoked. Enjoy responsibly.</Source>
+      <Dest>Nezapomínejte, že využívání odpočinkového terminálu je výsadou. Pokud kvalita práce poklesne, tato výsada může být zrušena. Užívejte si zodpovědně.</Dest>
+    </String>
+    <String List="0" sID="0325C2">
+      <EDID>QATestTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>QA Test TERMINAL</Source>
+      <Dest>QA testovací TERMINÁL</Dest>
+    </String>
+    <String List="0" sID="0327A4">
+      <EDID>QALegendaryContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Legendary Items</Source>
+      <Dest>Legendární věci</Dest>
+    </String>
+    <String List="0" sID="032851">
+      <EDID>RegionCollegeSquare</EDID>
+      <REC>REGN:RDMP</REC>
+      <Source>Cambridge</Source>
+      <Dest>Cambridge</Dest>
+    </String>
+    <String List="0" sID="032E52">
+      <EDID>RegionGeneralAtomicsGalleria</EDID>
+      <REC>REGN:RDMP</REC>
+      <Source>General Atomics Galleria</Source>
+      <Dest>Nákupní galerie General Atomics</Dest>
+    </String>
+    <String List="0" sID="0331B7">
+      <EDID>ReducePADamageMultEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce PA Damage Mult Effect</Source>
+      <Dest>Reduce PA Damage Mult Effect</Dest>
+    </String>
+    <String List="0" sID="03369A">
+      <EDID>ReducePARadResistMultEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce PA Rad Resist Mult Effect</Source>
+      <Dest>Reduce PA Rad Resist Mult Effect</Dest>
+    </String>
+    <String List="0" sID="033BF4">
+      <EDID>RailroadChairWithWriting</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>Židle</Dest>
+    </String>
+    <String List="0" sID="033E05">
+      <EDID>RadioRailroadReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="033E7E">
+      <EDID>RadiationHazardNukaGrenade</EDID>
+      <REC>HAZD:FULL</REC>
+      <Source>Radiation</Source>
+      <Dest>Radiace</Dest>
+    </String>
+    <String List="0" sID="033EB6">
+      <EDID>RadioactiveGland</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Radioactive Gland</Source>
+      <Dest>Radioaktivní žláza</Dest>
+    </String>
+    <String List="0" sID="034014">
+      <EDID>RailwayRifle_Fake</EDID>
+      <REC id="0">WEAP:FULL</REC>
+      <Source>Prototype Railway Rifle</Source>
+      <Dest>Prototyp železniční pušky</Dest>
+    </String>
+    <String List="0" sID="034015">
+      <EDID>REObject02HatchExplode</EDID>
+      <REC>DOOR:ONAM</REC>
+      <Source>Detonate</Source>
+      <Dest>Odpálit</Dest>
+    </String>
+    <String List="0" sID="03406D">
+      <EDID>RailwayRifle_Fake</EDID>
+      <REC id="1">WEAP:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
+    </String>
+    <String List="0" sID="03424A">
+      <EDID>REObject02Hatch</EDID>
+      <REC>DOOR:CNAM</REC>
+      <Source>Open</Source>
+      <Dest>Otevři</Dest>
+    </String>
+    <String List="0" sID="0342E1">
+      <EDID>REObject02Ladder</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Ladder</Source>
+      <Dest>Žebřík</Dest>
+    </String>
+    <String List="0" sID="034315">
+      <EDID>REObject02Hatch</EDID>
+      <REC>DOOR:ONAM</REC>
+      <Source>Open</Source>
+      <Dest>Otevřít</Dest>
+    </String>
+    <String List="0" sID="03446D">
+      <EDID>RailwayRifle_Fake</EDID>
+      <REC id="2">WEAP:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standartní</Dest>
+    </String>
+    <String List="0" sID="034541">
+      <EDID>RadstagHide</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Radstag Hide</Source>
+      <Dest>Kůže mutajelena</Dest>
+    </String>
+    <String List="0" sID="0346E6">
+      <EDID>RECheckpoint_InstInitQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Dummy quest to start RECheckpoint Parent</Source>
+      <Dest>Dummy quest to start RECheckpoint Parent</Dest>
+    </String>
+    <String List="0" sID="03472E">
+      <EDID>RECheckpoint_LvlGunnerBoss</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gunner Commander</Source>
+      <Dest>Velitel Ranařů</Dest>
+    </String>
+    <String List="0" sID="03484C">
+      <EDID>Purple</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Purple</Source>
+      <Dest>Fialová</Dest>
+    </String>
+    <String List="0" sID="034915">
+      <EDID>RadioSilverShroudReceiver</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="034A5C">
+      <EDID>RaiderCampPole01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Spiked Pole</Source>
+      <Dest>Ostnatá tyč</Dest>
+    </String>
+    <String List="0" sID="034C2F">
+      <EDID>RadioPreWar_Institute</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>Rádio</Dest>
+    </String>
+    <String List="0" sID="034C63">
+      <EDID>RaiderCampPole02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Spiked Pole</Source>
+      <Dest>Ostnatá tyč</Dest>
+    </String>
+    <String List="0" sID="034C90">
+      <EDID>RailwayRifle</EDID>
+      <REC id="3">WEAP:FULL</REC>
+      <Source>Standard Epic</Source>
+      <Dest>Standardní epické</Dest>
+    </String>
+    <String List="0" sID="034DC0">
+      <EDID>RefrigeratorBrokenPanel01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Refrigerator Door</Source>
+      <Dest>Dveře od lednice</Dest>
+    </String>
+    <String List="0" sID="034DC3">
+      <EDID>RefrigeratorBrokenDoor01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Refrigerator Door</Source>
+      <Dest>Dveře od lednice</Dest>
+    </String>
+    <String List="0" sID="034E05">
+      <EDID>RefrigeratorBrokenDoor04Dest</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Refrigerator Door</Source>
+      <Dest>Dveře od lednice</Dest>
+    </String>
+    <String List="0" sID="034E4D">
+      <EDID>RefrigeratorBroken03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="034F1B">
+      <EDID>RadiationHealHazardEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Radiation Healing Damage</Source>
+      <Dest>Radiation Healing Damage</Dest>
+    </String>
+    <String List="0" sID="034FB8">
+      <EDID>RefrigeratorBroken05_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="034FF6">
+      <EDID>RefrigeratorBroken02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="035005">
+      <EDID>RefrigeratorBroken04_Static</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>Lednice</Dest>
+    </String>
+    <String List="0" sID="035037">
+      <EDID>RedR_SmBldg01_PumpMeterFREE02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Coolant Pump</Source>
+      <Dest>Chladící čerpadlo</Dest>
+    </String>
+    <String List="0" sID="035147">
+      <EDID>RedR_SmBldg01_PumpMeterFREE01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Coolant Pump</Source>
+      <Dest>Chladící čerpadlo</Dest>
+    </String>
+    <String List="0" sID="03525F">
+      <EDID>RadioTransmitter</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Emergency Frequency RJ1138</Source>
+      <Dest>Nouzová Frekvence RJ1138</Dest>
+    </String>
+    <String List="0" sID="035362">
+      <EDID>Radiator01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Radiator</Source>
+      <Dest>Radiátor</Dest>
+    </String>
+    <String List="0" sID="03569B">
+      <EDID>RecipeMines</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>MINES</Source>
+      <Dest>MINY</Dest>
+    </String>
+    <String List="0" sID="03571B">
+      <EDID>RecipeGrenade</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>GRENADE</Source>
+      <Dest>GRANÁT</Dest>
+    </String>
+    <String List="0" sID="035779">
+      <EDID>ReduceStrengthDaytripper</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Strength</Source>
+      <Dest>+&lt;mag&gt; Strength</Dest>
+    </String>
+    <String List="0" sID="03578A">
+      <EDID>ReduceCharismaDaddyO</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DaddyO: Reduce Charisma</Source>
+      <Dest>DaddyO: Reduce Charisma</Dest>
+    </String>
+    <String List="0" sID="035798">
+      <EDID>ReduceCharismaDaddyO</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Charisma</Source>
+      <Dest>+&lt;mag&gt; Charisma</Dest>
+    </String>
+    <String List="0" sID="03579B">
+      <EDID>ReduceStrengthDaytripper</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Daytripper: Reduce Strength</Source>
+      <Dest>Daytripper: Reduce Strength</Dest>
+    </String>
+    <String List="0" sID="0357BF">
+      <EDID>ReducePerceptionFury</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>+&lt;mag&gt; Perception</Source>
+      <Dest>+&lt;mag&gt; Perception</Dest>
+    </String>
+    <String List="0" sID="0357C0">
+      <EDID>ReducePerceptionFury</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Fury: Reduce Perception</Source>
+      <Dest>Fury: Reduce Perception</Dest>
+    </String>
+    <String List="0" sID="0357FC">
+      <EDID>RECampRJ02_CrimeFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Institute</Source>
+      <Dest>Institut</Dest>
+    </String>
+    <String List="0" sID="036152">
+      <EDID>RECampKMK02CrimeFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Merchant</Source>
+      <Dest>Obchodník</Dest>
+    </String>
+    <String List="0" sID="036153">
+      <EDID>RECampKMK01CrimeFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Merchant</Source>
+      <Dest>Obchodník</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
