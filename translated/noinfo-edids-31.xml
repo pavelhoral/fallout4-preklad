@@ -22,7 +22,7 @@
       <EDID>sCantRemoveWornItem</EDID>
       <REC>GMST:DATA</REC>
       <Source>Unable to remove the worn item.</Source>
-      <Dest>Vybavený předmět nelze odstranit.</Dest>
+      <Dest>Používaný předmět nelze odstranit.</Dest>
     </String>
     <String List="0" sID="000803">
       <EDID>sConfirmDisenchant</EDID>
@@ -514,7 +514,7 @@
       <EDID>sHeavyArmorSink</EDID>
       <REC>GMST:DATA</REC>
       <Source>Your heavy armor is causing you to sink.</Source>
-      <Dest>Tvá těžká zbroj tě táhné ke dnu.</Dest>
+      <Dest>Tvá těžká zbroj tě táhne ke dnu.</Dest>
     </String>
     <String List="0" sID="008301">
       <EDID>sClose</EDID>
@@ -580,7 +580,7 @@
       <EDID>sCantEquipPowerArmor</EDID>
       <REC>GMST:DATA</REC>
       <Source>Power armor training is required to equip this item.</Source>
-      <Dest>Trénink energozbroje je nutný pro použití tohoto předmětu.</Dest>
+      <Dest>Pro použití tohoto předmětu je nutný trénink energozbroje.</Dest>
     </String>
     <String List="0" sID="00A62D">
       <EDID>sAutoSaving</EDID>
@@ -610,7 +610,7 @@
       <EDID>sDisableXBoxController</EDID>
       <REC>GMST:DATA</REC>
       <Source>Please connect a controller to continue.</Source>
-      <Dest>Prosím pro pokračování připoj ovladač.</Dest>
+      <Dest>Pro pokračování připoj ovladač.</Dest>
     </String>
     <String List="0" sID="00AA7A">
       <EDID>sChemsWithdrawal</EDID>
@@ -736,7 +736,7 @@
       <EDID>sCantUnequipGeneric</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot unequip this item.</Source>
-      <Dest>Tento předmět není možné sundat.</Dest>
+      <Dest>Tento předmět není možné odložit.</Dest>
     </String>
     <String List="0" sID="00D3DB">
       <EDID>sFullHealth</EDID>
@@ -1268,7 +1268,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancHawthorneSubTerminal1</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>My favorite tin foil hat wearing nut job. Good for 7 ampules of Daytripper a week. Guess he's a one-a-day kind of guy. Whatever helps the man groove.</Source>
-      <Dest>Můj oblíbený blbeček s alobalovou čepicí. Dobrý tak na 7 dávek Výletníka týdně. Asi jede ve stylu "jedenou denně". Proti gustu, ...</Dest>
+      <Dest>Můj oblíbený blbeček s alobalovou čepicí. Dobrý tak na 7 dávek Výletníka týdně. Asi jede ve stylu "jednou denně". Proti gustu...</Dest>
     </String>
     <String List="0" sID="0131CF">
       <EDID>ShaunBabyVoiceOnly</EDID>
@@ -1364,7 +1364,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Got to pick a good moment to present it. Special time? After he gets the job? After his speech? BEFORE his speech? Just when we're out having fun as a family? Super dad deserves super appreciation!</Source>
-      <Dest>Musím najít vhodný moment, kdy mu to předvedu. Nějakou speciální událost? Po tom, co tu práci dostane? PŘED jeho proslovem? Nebo když budeme jako rodina na procházce? Super táta potřebuje super uznání.</Dest>
+      <Dest>Musím najít vhodný moment, kdy mu to předvedu. Nějakou speciální událost? Potom, co tu práci dostane? PŘED jeho proslovem? Nebo když budeme jako rodina na procházce? Super táta potřebuje super uznání.</Dest>
     </String>
     <String List="0" sID="014309">
       <EDID>ShackBalconyFloor05</EDID>
@@ -1400,7 +1400,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancPlayerCharacterMomSubTerminal2</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>The new infant care subroutines are pretty amazing, and I trust Codsworth with Shaun implicity. So why can't he draw my bath water at anything over 70 degrees? I swear he's doing it on purpose, trying to be funny, but it's getting old. Time to take him in and have some junk rewired (or whatever it is they do).</Source>
-      <Dest>Podprogramy pro péči o kojence jsou opravdu úžasné a bezmezně Codsworthovi s Shaunem důvěřuji. Tak proč mi není schopen zařídit vodu ve vaně s více než 70 stupni? Přísahám, že to dělá naschvál, aby byl vtipnej, ale mě to už nebaví. Je na čase s ním zajít do servisu a nechat nějaké nesmysly předrátovat (nebo co tam dělají).</Dest>
+      <Dest>Podprogramy pro péči o kojence jsou opravdu úžasné a bezmezně Codsworthovi se Shaunem důvěřuji. Tak proč mi není schopen zařídit vodu ve vaně s více než 70 stupni? Přísahám, že to dělá naschvál, aby byl vtipnej, ale mě to už nebaví. Je na čase s ním zajít do servisu a nechat nějaké nesmysly předrátovat (nebo co tam dělají).</Dest>
     </String>
     <String List="0" sID="014807">
       <EDID>ShackBridgeFree01</EDID>
@@ -1448,7 +1448,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancHawthorneSubTerminal2</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Still good for a couple hits of Daddy-O a week. Pretentious pseudo-intellectual asshole, but his money's good.</Source>
-      <Dest>Stále dobrý na pár Taťkových šleh týdně. Domýšlivej pseudo intelektuální debil, ale platí dobře.</Dest>
+      <Dest>Stále dobrý na pár Taťkových šleh týdně. Domýšlivej pseudointelektuální debil, ale platí dobře.</Dest>
     </String>
     <String List="0" sID="01505D">
       <EDID>Sheffield</EDID>
@@ -1542,7 +1542,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancHawthorneSubTerminal1</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>They still owe me for that last X-Cell delivery. Occurred to me - was it even for them? Because, so help me God, if I find out they're juicing up those dogs, we're going to have words about more than the money. But we're probably beyond words anyway. I know they have a floor safe in there - I've seen it. Master bedroom, under the dresser. Can't be that tough to crack.</Source>
-      <Dest>Stále mi dluží za tu poslední dodávku X-Cellu. Napadlo mě, jestli to vůbec bylo pro ně? Protože, bůh mi pomáhej, pokud zjistím že to perou do těch psů, tak si budeme muset zásadně promluvit nejen o penězích. Ale asi jsme stejně už dávno za hranicí pro rozhovor. Vím, že mají v domě podlahový sejf - viděl jsem ho. Hlavní ložnice, pod šatníkem. Nemůže být těžké ho otevřít.</Dest>
+      <Dest>Stále mi dluží za tu poslední dodávku X-Cellu. Napadlo mě, jestli to vůbec bylo pro ně? Protože, Bůh mi pomáhej, pokud zjistím, že to perou do těch psů, tak si budeme muset zásadně promluvit nejen o penězích. Ale asi jsme stejně už dávno za hranicí pro rozhovor. Vím, že mají v domě podlahový sejf - viděl jsem ho. Hlavní ložnice, pod šatníkem. Nemůže být těžké ho otevřít.</Dest>
     </String>
     <String List="0" sID="015BA6">
       <EDID>ShackWallOuter02</EDID>
@@ -1576,7 +1576,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
 Concord's getting a little tired. Thinking we'll head into Boston. Italian?</Source>
       <Dest>20:00 - Rande!&#xD;
 &#xD;
-Concord se stává malinko unavený. Myslím, že zamíříme do Bostonu. Něco italského?</Dest>
+Concord už je malinko ohraný. Myslím, že zamíříme do Bostonu. Něco italského?</Dest>
     </String>
     <String List="0" sID="0162B1">
       <EDID>SentryBotBodyPartData</EDID>
@@ -1603,7 +1603,7 @@ Concord se stává malinko unavený. Myslím, že zamíříme do Bostonu. Něco 
 - Use eyebrow pencil to draw on a little mustache?&#xD;
 - Check Hubris and see if they have a little plastic pitchfork</Source>
       <Dest>- Červená plsť&#xD;
-- Rudý stuha&#xD;
+- Rudá stuha&#xD;
 - Malé červené botičky&#xD;
 - Použít tužku na oči pro nakreslení malého knírku?&#xD;
 - Zkontrolovat u Hubris, jestli mají malé plastové vidle</Dest>
@@ -1702,7 +1702,7 @@ We're still torn on Shaun's costume, but I think we've got it narrowed down to t
 Figure we'll take him trick or treating around 6:00, before it gets too dark. And that'll get me home in time to stop that Rosa kid from TP'ing the house. </Source>
       <Dest>CELÝ DEN - Halloween! &#xD;
 &#xD;
-Stále nemáme jasno o Shaunově kostýmu, ale myslím, že jsme výběr zůžili na dvě varianty. Já říkám policista, moje lepší polovička si myslí, že malý ďáblík by byl roztomilý (v tom má pravdu). &#xD;
+Stále nemáme jasno o Shaunově kostýmu, ale myslím, že jsme výběr zúžili na dvě varianty. Já říkám policista, moje lepší polovička si myslí, že malý ďáblík by byl roztomilý (v tom má pravdu). &#xD;
 &#xD;
 Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní se vrátit domů včas, abych zabráníl tomu hajzlíkovi od Rosy, aby mi naházel toaleťáky přes střechu. </Dest>
     </String>
@@ -1812,7 +1812,7 @@ Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní
       <EDID>SanctuaryRosaHouse</EDID>
       <REC>CELL:FULL</REC>
       <Source>Rosa Residence</Source>
-      <Dest>Rosy sídlo </Dest>
+      <Dest>Rosino sídlo</Dest>
     </String>
     <String List="0" sID="019AF9">
       <EDID>ShackWallHalfL01</EDID>
@@ -1878,7 +1878,7 @@ Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní
       <EDID>SentryBotRightMinigun</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Sentry Bot Right Minigun</Source>
-      <Dest>Pravý rotačný kulomet strážního robota</Dest>
+      <Dest>Pravý rotační kulomet strážního robota</Dest>
     </String>
     <String List="0" sID="01AC80">
       <EDID>SancPlayerCharacterMomSubTerminal1</EDID>
@@ -1956,7 +1956,7 @@ Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní
       <EDID>sAutoLockPickContainer</EDID>
       <REC>GMST:DATA</REC>
       <Source>You have unlocked the container.</Source>
-      <Dest>Odemkl jsi kontejner.</Dest>
+      <Dest>Odemkl jsi úložiště.</Dest>
     </String>
     <String List="0" sID="01C53C">
       <EDID>sAutoLockPickDoor</EDID>
@@ -2082,7 +2082,7 @@ Nejspíš ho vezmeme koledovat okolo 18:00, než se moc setmí. A to mi umožní
       <EDID>SanctuaryHillsRosaHouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Rosa Residence</Source>
-      <Dest>Rosy sídlo </Dest>
+      <Dest>Rosino sídlo</Dest>
     </String>
     <String List="0" sID="01DD81">
       <EDID>ShamrockTaphouse01</EDID>
@@ -2128,9 +2128,9 @@ You'd think someone who's been shot at on a battlefield could handle a bunch of 
 (Side note: game 4 of the World Series is being played in the city this afternoon, and Boston's primed to win for the first time in forever. I would KILL for tickets.)</Source>
       <Dest>20:00 - Řeč v Síni veteránů&#xD;
 &#xD;
-Člověk, na koho v bitvách opakovaně stříleli, by mohl zvládnout bandu šedivých veteránů, ale jsem pekelně nerzvózní. Představovat si je ve spodním prádle tomu nepomůže. &#xD;
+Člověk, na kterého v bitvách opakovaně stříleli, by mohl zvládnout bandu šedivých veteránů, ale jsem pekelně nervózní. Představovat si je ve spodním prádle tomu nepomůže. &#xD;
 &#xD;
-(Poznámka: 4. hra světové série se hraje ve městě tenhle večer... a bostnoští mají poprvé za dlohou dobu nejlepší šanci vyhrát. Pro lístky bych VRAŽDIL.)</Dest>
+(Poznámka: 4. hra Světové série se hraje ve městě tenhle večer... a bostnoští mají poprvé za dlouhou dobu nejlepší šanci vyhrát. Pro lístky bych VRAŽDIL.)</Dest>
     </String>
     <String List="0" sID="01F04C">
       <EDID>SancHawthorneSubTerminal4</EDID>
@@ -2317,7 +2317,7 @@ You'd think someone who's been shot at on a battlefield could handle a bunch of 
       <REC id="0">TERM:UNAM</REC>
       <Source>Gina shouldn't have even had me review this one. It's a pretty clear non-starter. Two professional fighters go at it in the ring, one of them loses - badly - and claims the winner cheated. Doesn't say how, and nothing backs up his claim. Seems like a pretty clear case of soreloseritis. Boo hoo. Pass.&#xD;
 </Source>
-      <Dest>Gina by mě vůbec neměla nechat tohle posuzovat. Celkem jasný ztracený případ. Dva profesionální bojovníci vstoupí do ringu, jeden z nich prohraje - ošklivě - a tvrdí, že vítěz podvádel. Neřekne jak a nemá nic, čím by své tvrzení podpořil. Zdá se mi jako jasný přpad boleprohrytýdy. Boo hoo. Další.</Dest>
+      <Dest>Gina by mě vůbec neměla nechat tohle posuzovat. Celkem jasný ztracený případ. Dva profesionální bojovníci vstoupí do ringu, jeden z nich prohraje - ošklivě - a tvrdí, že vítěz podváděl. Neřekne jak a nemá nic, čím by své tvrzení podpořil. Zdá se mi to jako jasný případ boleprohrytýdy. Boo hoo. Další.</Dest>
     </String>
     <String List="0" sID="023C13">
       <EDID>ShackWallFlat04</EDID>
@@ -2329,7 +2329,7 @@ You'd think someone who's been shot at on a battlefield could handle a bunch of 
       <EDID>SancHawthorneSubTerminal4</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Welcome, Red Rocket Employee!</Source>
-      <Dest>Vítej, zaměstnanče Red Rocketu!</Dest>
+      <Dest>Vítejte, zaměstnanče Red Rocketu!</Dest>
     </String>
     <String List="0" sID="023F0D">
       <EDID>SancRosaHouseTerminal</EDID>
@@ -2339,7 +2339,7 @@ You'd think someone who's been shot at on a battlefield could handle a bunch of 
 As for the Corvega: Most of the body work is done, generally speaking. Might not be pretty (yet!) but it's there. Interior needs new upholstery. Louis insist on leather - we'll see.&#xD;
 &#xD;
 As for the engine. Ugh. Estoy Perdido. I'm trying, but there's only so much I can learn from books without any real training. I'm goig to have to bite the bullet and talk to the folks at Red Rocket. </Source>
-      <Dest>Docela šílené, když si představím, jak daleko jsme se s Louisem za posledních pár měsíců dostali. A to nemluvím jen o tom autě. Nesnáším romantické kecy, ale renovace téhle Corvegy nám opravdu pomohlo obnovit náš vztah. Stále mu chybí jeho táta - bože, chybí nám oboum - ale zjišťuje, že ani jeho madre není tak špatná.&#xD;
+      <Dest>Docela šílené, když si představím, jak daleko jsme se s Louisem za posledních pár měsíců dostali. A to nemluvím jen o tom autě. Nesnáším romantické kecy, ale renovace téhle Corvegy nám opravdu pomohla obnovit náš vztah. Stále mu chybí jeho táta - bože, chybí nám oběma - ale zjišťuje, že ani jeho madre není tak špatná.&#xD;
 &#xD;
 Co se týká Corvegy: Většina práce na karosérii je hotová, celkem vzato. Možná to není nejhezčí (zatím!), ale je to hotové. Interiér bude chtít nové čalounění. Louis trvá na kůži - uvidíme.&#xD;
 &#xD;
@@ -2359,7 +2359,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancHawthorneSubTerminal3</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Some student at C.I.T. - Wants Daytripper, X-Cell and an entire palette (yes, palette) of Mentats. Not sure if he's doing crazy experiments, dealing to the other eggheads, or on the verge of a nervous breakdown. Don't care, so long as the money's good.</Source>
-      <Dest>Nějaký student na C.I.T. - chce Výletníka, X-Cell a komplet nabídku (ano, všechny typy) Mentatů. Nejsem si jistý, zda dělá nějaké šílené experimenty, dýluje ostatním šprtům, a nebo je na pokraji nervového zhroucení. Dokud dobře platí, tak nezájem.</Dest>
+      <Dest>Nějaký student na C.I.T. - chce Výletníka, X-Cell a komplet nabídku (ano, všechny typy) Mentatů. Nejsem si jistý, zda dělá nějaké šílené experimenty, dýluje ostatním šprtům, anebo je na pokraji nervového zhroucení. Dokud dobře platí, tak nezájem.</Dest>
     </String>
     <String List="0" sID="024159">
       <EDID>ShackWallOuterCrnIn01</EDID>
@@ -2383,7 +2383,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>SancHawthorneSubTerminal2</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Welcome, Red Rocket Employee!</Source>
-      <Dest>Vítej, zaměstnanče Red Rocketu!</Dest>
+      <Dest>Vítejte, zaměstnanče Red Rocketu!</Dest>
     </String>
     <String List="0" sID="02439D">
       <EDID>sDefaultPlayerAddressDisplayFemale</EDID>
@@ -2449,7 +2449,7 @@ Záchrana massatchusettského Commonwealthu, jeden diskriminovaný občan po dru
       <EDID>sAutoLockPickKeyOnly</EDID>
       <REC>GMST:DATA</REC>
       <Source>Only %s can unlock.</Source>
-      <Dest>Jen %s může odemknout.</Dest>
+      <Dest>Může odemknout jen %s.</Dest>
     </String>
     <String List="0" sID="024FCD">
       <EDID>SancHawthorneSubTerminal2</EDID>
@@ -2473,10 +2473,9 @@ War is hell. And if we don't change our ways... we're all going to burn.&#xD;
 (Note: Too weak, too bleak. Focus on family and future.)</Source>
       <Dest>Válka. Válka je peklo.&#xD;
 &#xD;
-V době, kdy byl můj pra-pradedeček v armádě, amerika ukončila druhou světovou válku svržením atomových bomb na Hirošimu a Nagasaki.&#xD;
+V době, kdy byl můj prapradědeček v armádě, Amerika ukončila druhou světovou válku svržením atomových bomb na Hirošimu a Nagasaki.&#xD;
 &#xD;
-Od té doby jsme ušli dlouho cestu, je to tak? Technologie nám nadělila domácí roboty, fúzně poháněné automobily, přenostné počítače.  &#xD;
-We've come so far since then, haven't we? Technology has given us domestic robots, fusion-powered cars, portable computers. Ale klameme sami sebe.&#xD;
+Od té doby jsme ušli dlouho cestu, je to tak? Technologie nám nadělila domácí roboty, fúzně poháněné automobily, přenosné počítače. Ale klameme sami sebe.&#xD;
 &#xD;
 Dnes, v roce 2077, jsme na pokraji totální války. K čemu nám jsou naše technické hračky teď? Mohou nám pomoci uniknout, ale uniknout násilí v našem srdci nemůžeme. &#xD;
 &#xD;
@@ -2509,9 +2508,9 @@ Time to show Shaun how tough his mommy really is.&#xD;
 </Source>
       <Dest>Já prostě nechápu, jak může z tohohle Commonwealth vytvořit případ.&#xD;
 &#xD;
-Corsino Silva, 23 letý obyvatel Roxbury, potomek obyvatel Cape Verdan, obviněný z ozbrojené loupeže v bistru Slocumovy koblihy. Ale prostě chybí nějaké zásadní důkazy. Jen na základě tvrzení Cozelli a dokonce i její popis podezřelého jen ztěžka pasuje na Cruze.&#xD;
+Corsino Silva, 23 letý obyvatel Roxbury, potomek obyvatel Cape Verde, obviněný z ozbrojené loupeže v bistru Slocumovy koblihy. Ale prostě chybí nějaké zásadní důkazy. Je to jen na základě tvrzení Cozelliové a dokonce i její popis podezřelého jen ztěží pasuje na Cruze.&#xD;
 &#xD;
-Myslím že by to mohl být ono - případ, který mě dostane zpátky do hry. Máme celkem dost našetříno, takže bych to mohla udělat "pro bono". Corsin Cruz je jen další chudák, prezentovaný jako zločinec jen proto, že to tak stát chce. K čertu s takovým přístupem. Je nevinný a já to dokážu.&#xD;
+Myslím že by to mohlo být ono - případ, který mě dostane zpátky do hry. Máme celkem dost našetřeno, takže bych to mohla udělat "pro bono". Corsino Cruz je jen další chudák, prezentovaný jako zločinec jen proto, že to tak stát chce. K čertu s takovým přístupem. Je nevinný a já to dokážu.&#xD;
 &#xD;
 Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnosti je.</Dest>
     </String>
@@ -2531,7 +2530,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>SancHawthorneSubTerminal2</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Kids are usually a no-go, but this girl's got style, and she's not interested in getting tweaked. Ordered 20 blood packs. Some Halloween stunt or something. Or hell, maybe she's really a vampire. What do I care - she's got her daddy's money.</Source>
-      <Dest>Dětem obvykle neprodávám, ale tahle holka má styl a nechce se sjíždět. Objednala 20 krevních balíčků. Asi Halloweenský kousek nebo něco takového. A nebo, sakra, je to fakt upírka. Ale co se starám - hlavně, že má tátovy prachy.</Dest>
+      <Dest>Dětem obvykle neprodávám, ale tahle holka má styl a nechce se sjíždět. Objednala 20 krevních balíčků. Asi Halloweenský kousek nebo něco takového. Anebo, sakra, je to fakt upírka. Ale co se starám - hlavně, že má tátovy prachy.</Dest>
     </String>
     <String List="0" sID="025880">
       <EDID>SancRosaHouseTerminal</EDID>
@@ -2549,7 +2548,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>SancHawthorneSubTerminal3</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Young married couple, good for a couple Daytripper per week. Easy order, cool people, no brainer.</Source>
-      <Dest>Mladý manželský páreček, dobrý na pár Výletníků týdně. Jednoduché sehnat, v pohodě lidi, super kšeft.</Dest>
+      <Dest>Mladý manželský páreček, dobrý na pár Výletníků týdně. Jednoduché sehnat, lidi v pohodě, super kšeft.</Dest>
     </String>
     <String List="0" sID="025B12">
       <EDID>Scalpel</EDID>
@@ -2567,7 +2566,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>SancHawthorneSubTerminal3</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>The old lady has upped her Daddy-O order. Weird, but profitable.</Source>
-      <Dest>Stará pani navýšila objednávku Taťkovy šlehy. Divné, ale výdělečné.</Dest>
+      <Dest>Stará paní navýšila objednávku Taťkovy šlehy. Divné, ale výdělečné.</Dest>
     </String>
     <String List="0" sID="026110">
       <EDID>ShackWallOuter04B</EDID>
@@ -2579,7 +2578,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>SancHawthorneSubTerminal1</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>He wants something called Psycho. I'm not sure the stuff even exists. And if it does, do I really want this neanderthal using it? Guess it depends on how much he's willing to spend. I'll put some feelers out to my Army connection, see where that goes.</Source>
-      <Dest>Chce něco, čemu se říká Psycho. Nejsem si jistý, jestli taková věc vůbec existuje. A pokud ano, opravdu to budu chtít dát takovému neandrtálovi? Asi záleží, kolik je za to ochotný utratit. Zkusím svoje armádní kontakty a uvidíme, kam se dostanu.</Dest>
+      <Dest>Chce něco, čemu se říká Psycho. Nejsem si jistý, jestli taková věc vůbec existuje. A pokud ano, opravdu to budu chtít dát takovému neandrtálcovi? Asi záleží, kolik je za to ochotný utratit. Zkusím svoje armádní kontakty a uvidíme, kam se dostanu.</Dest>
     </String>
     <String List="0" sID="026181">
       <EDID>Scarlett</EDID>
@@ -2633,7 +2632,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>SaugusIronworks02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Saugus Blast Furnace</Source>
-      <Dest>Vysoké pece Saugust</Dest>
+      <Dest>Vysoké pece Saugus</Dest>
     </String>
     <String List="0" sID="0267CB">
       <EDID>SancRosaHouseTerminal</EDID>
@@ -2649,7 +2648,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
 - Výfukový systém Chryslus - 2073 nebo novější&#xD;
 - Nádrž chladiče&#xD;
 - Bezpečnostní pásy&#xD;
-- Lous chce bezpečnostní rám. Nevím, jak rychle chce jezdit, ale slibuji mu, že se dostaneme minimálně na 0-100 za 6 vteřin. </Dest>
+- Louis chce bezpečnostní rám. Nevím, jak rychle bude jezdit, ale slibuji mu, že z 0 na 100 za 5 vteřin z toho určitě dostaneme.</Dest>
     </String>
     <String List="0" sID="0268E0">
       <EDID>ShamrockTaphouseLocation</EDID>
@@ -2661,7 +2660,7 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
       <EDID>sHackingGateFail</EDID>
       <REC>GMST:DATA</REC>
       <Source>Requires a higher level Hacker perk.</Source>
-      <Dest>Vyžaduje vyšší úroveň Hacker perku.</Dest>
+      <Dest>Vyžaduje vyšší úroveň perku Hacker.</Dest>
     </String>
     <String List="0" sID="026E20">
       <EDID>SelfDestructBot</EDID>
@@ -2683,11 +2682,11 @@ Na čase ukázat Shaunovi jak odhodlaná a neústupná jeho máma ve skutečnost
 Go 108th!&#xD;
 &#xD;
 (Probability of us getting drunk and singing "The Snows of Anchorage" 5 times - 110%)</Source>
-      <Dest>19:00 pm - pitka s liščí rotou&#xD;
+      <Dest>19:00 - pitka s liščí rotou&#xD;
 &#xD;
 Do toho 108.!&#xD;
 &#xD;
-(Pravděpodobnost, že nás opijí a donutí pětkrát zpívat "Sněhy v Anchorage" - 110%)</Dest>
+(Pravděpodobnost, že nás opijí a donutí pětkrát zpívat "Sněhy v Anchorage" - 110 %)</Dest>
     </String>
     <String List="0" sID="027425">
       <EDID>ShackMidRoof03Hole01</EDID>
@@ -2741,7 +2740,7 @@ Do toho 108.!&#xD;
       <EDID>SancHawthorneSubTerminal2</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Wants Med-X. As much as I can get. Hasn't told me why, not really my business. Guessing there's some sort of long-term pain management going on. Disease?</Source>
-      <Dest>Chce Med-X. Tolik, kolik může sehnat. Neřekl mi proč, ale vlastně mi do toho nic není. Tipuji, že jde o nějaký plán na dlouhodobé zmírnění bolestí. Nemoc?</Dest>
+      <Dest>Chce Med-X. Tolik, kolik můžu sehnat. Neřekl mi proč, ale vlastně mi do toho nic není. Tipuji, že jde o nějaký plán na dlouhodobé zmírnění bolestí. Nemoc?</Dest>
     </String>
     <String List="0" sID="028354">
       <EDID>Scissors</EDID>
@@ -3071,7 +3070,7 @@ Do toho 108.!&#xD;
       <EDID>SanctuaryHills01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Sanctuary Hills represents the latest in planned communities, and is home to a diverse range of families.</Source>
-      <Dest>Sanctuary Hills představuje moderní satelitní městěčko, které je domovem širokému spektru rodin.</Dest>
+      <Dest>Sanctuary Hills představuje moderní satelitní městečko, které je domovem širokému spektru rodin.</Dest>
     </String>
     <String List="0" sID="031A66">
       <EDID>Scrapper02</EDID>
@@ -3365,7 +3364,7 @@ Do toho 108.!&#xD;
       <EDID>SandbagWall01</EDID>
       <REC>MSTT:FULL</REC>
       <Source>Sandbag Wall</Source>
-      <Dest>Zeď z pytlů s pískem</Dest>
+      <Dest>Stěna pytlů s pískem</Dest>
     </String>
     <String List="0" sID="03515E">
       <EDID>Shack_Single_Plywood01_Brkn</EDID>
@@ -3431,7 +3430,7 @@ Do toho 108.!&#xD;
       <EDID>SandbagWallNoSkirt01</EDID>
       <REC>MSTT:FULL</REC>
       <Source>Sandbag Wall</Source>
-      <Dest>Zeď z pytlů s pískem</Dest>
+      <Dest>Stěna pytlů s pískem</Dest>
     </String>
     <String List="0" sID="03540F">
       <EDID>Shack_Single_Plywood01_Ramp</EDID>
@@ -3719,37 +3718,37 @@ Do toho 108.!&#xD;
       <EDID>Science03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You gain access to Rank 3 high-tech mods.</Source>
-      <Dest>Získej přístup k high-tech úpravám 3. úrovně.</Dest>
+      <Dest>Získáš přístup k technickým modifikacím 3. úrovně.</Dest>
     </String>
     <String List="1" sID="012F4C">
       <EDID>SentryBotMaxHeatLevel</EDID>
       <REC>AVIF:DESC</REC>
       <Source>The Maximum Heat Level for SentryBot</Source>
-      <Dest>The Maximum Heat Level for SentryBot</Dest>
+      <Dest>Maximální tepelná úroveň strážního robota</Dest>
     </String>
     <String List="1" sID="019EB2">
       <EDID>Science04</EDID>
       <REC>PERK:DESC</REC>
       <Source>You gain access to Rank 4 high-tech mods.</Source>
-      <Dest>Získej přístup k high-tech modifikacím 4. úrovně.</Dest>
+      <Dest>Získáš přístup k technickým modifikacím 4. úrovně.</Dest>
     </String>
     <String List="1" sID="01E154">
       <EDID>Science02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You gain access to Rank 2 high-tech mods.</Source>
-      <Dest>Získej přístup k high-tech úpravám 2. úrovně.</Dest>
+      <Dest>Získáš přístup k technickým modifikacím 2. úrovně.</Dest>
     </String>
     <String List="1" sID="0235FC">
       <EDID>Science01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Take full advantage of advanced technology with access to base level and Rank 1 high-tech mods.</Source>
-      <Dest>Získej všechny výhody pokročilých technologií s přístupem k high-tech úpravám na základní a 1. úrovni. </Dest>
+      <Dest>Získáš všechny výhody pokročilých technologií s přístupem k technickým modifikacím na základní a 1. úrovni.</Dest>
     </String>
     <String List="1" sID="0240A3">
       <EDID>Scrounger01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You know just how to scavenge to keep the fight going, and find more ammunition in containers.</Source>
-      <Dest>Víš jak správně prohledávat smetí, abys nemusel utíkat z bitvy a nacházel více munice v různých kontejnerech.</Dest>
+      <Dest>Víš, jak správně prohledávat odpad, abys nemusel utíkat z bitvy a nacházel více munice v různých úložných prostorách.</Dest>
     </String>
     <String List="1" sID="02B778">
       <EDID>Scrapper01</EDID>
@@ -3761,25 +3760,25 @@ Do toho 108.!&#xD;
       <EDID>Scrounger03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more ammunition in containers.</Source>
-      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+      <Dest>V úložných prostorách nalezneš ještě více munice.</Dest>
     </String>
     <String List="1" sID="02F9B3">
       <EDID>Scrounger02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more ammunition in containers.</Source>
-      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+      <Dest>V úložných prostorách nalezneš ještě více munice.</Dest>
     </String>
     <String List="1" sID="031AEB">
       <EDID>Scrapper02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You can salvage rare components like circuitry, nuclear material, and fiberoptics when scrapping weapons and armor. Items with favorited components are highlighted.</Source>
-      <Dest>Při sešrotování zbraní nebo zbroje můžeš získat cenné komponenty, jako jsou obvody, jaderný materiál nebo optická vlákna. Předměty obsahující hledané komponenty jsou zvýrazněné.</Dest>
+      <Dest>Při sešrotování zbraní nebo zbroje můžeš získat cenné komponenty jako jsou obvody, jaderný materiál nebo optická vlákna. Předměty obsahující hledané komponenty jsou zvýrazněné.</Dest>
     </String>
     <String List="1" sID="03225B">
       <EDID>Scrounger04</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more ammunition in containers.</Source>
-      <Dest>V kontejnerech nalezneš ještě více munice.</Dest>
+      <Dest>V úložných prostorách nalezneš ještě více munice.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
