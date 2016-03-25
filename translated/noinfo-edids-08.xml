@@ -82,7 +82,7 @@
       <EDID>DmndSurplusKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Diamond City Surplus Key</Source>
-      <Dest>Klíč od výprodeje v Diamond City</Dest>
+      <Dest>Klíč od Výprodeje v Diamond City</Dest>
     </String>
     <String List="0" sID="012BC5">
       <EDID>DN007_HelenaNote</EDID>
@@ -118,7 +118,7 @@
       <EDID>DmndArturosHouse02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Arturo's House</Source>
-      <Dest>Artureho dům</Dest>
+      <Dest>Arturův dům</Dest>
     </String>
     <String List="0" sID="013124">
       <EDID>DN011OverdueBookVendTerminal</EDID>
@@ -202,7 +202,7 @@
       <EDID>DmndArturosHouse01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Arturo's House</Source>
-      <Dest>Artureho dům</Dest>
+      <Dest>Arturův dům</Dest>
     </String>
     <String List="0" sID="013CDD">
       <EDID>DefaultTerminalDesk_ChairFederalistWithCord</EDID>
@@ -232,7 +232,7 @@
       <EDID>DmndStandsLatimer01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Latimer Residence</Source>
-      <Dest>Latimerovo sídlo</Dest>
+      <Dest>Sídlo Latimerů</Dest>
     </String>
     <String List="0" sID="014071">
       <EDID>DecoHouse2x3Siding02</EDID>
@@ -298,7 +298,7 @@
       <EDID>DEBUG_HandmadeGuns_Tier4</EDID>
       <REC>CONT:FULL</REC>
       <Source>Pipe Guns - Various Tier IV Mods</Source>
-      <Dest>Trubkové pistole - různé mody IV úrovně</Dest>
+      <Dest>Trubková zbraň - různé mody IV. úrovně</Dest>
     </String>
     <String List="0" sID="014B2E">
       <EDID>DeerFence_Corner01</EDID>
@@ -334,7 +334,7 @@
       <EDID>DialogueGenericCitizens</EDID>
       <REC>QUST:FULL</REC>
       <Source>Farmers, settlers, and other non-aggressive NPCs</Source>
-      <Dest>Farmáři, osadníci, a další ne-agresivní NPC</Dest>
+      <Dest>Farmáři, osadníci a další ne-agresivní NPC</Dest>
     </String>
     <String List="0" sID="0150AF">
       <EDID>Derek</EDID>
@@ -358,7 +358,7 @@
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Alias=Item07&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost07&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount07&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item07&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost07&gt; | &lt;Global=DN011OverdueBooksItemCount07&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item07&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost07&gt; | &lt;Global=DN011OverdueBooksItemCount07&gt; zbývá</Dest>
     </String>
     <String List="0" sID="015623">
       <EDID>DiamondCityWantedNoteRaiders</EDID>
@@ -370,13 +370,13 @@
       <EDID>DN011Intercom</EDID>
       <REC>TACT:FULL</REC>
       <Source>Intercom</Source>
-      <Dest>Intercom</Dest>
+      <Dest>Vnitřní linka</Dest>
     </String>
     <String List="0" sID="01582E">
       <EDID>DialogueGenericChildrenofAtom</EDID>
       <REC>QUST:FULL</REC>
       <Source>Children of Atom Combat Lines, Reactions, Dialogue</Source>
-      <Dest>Bojové texty Dětí Atoma, reakce, dialogy</Dest>
+      <Dest>Bojové texty, reakce, dialogy Dětí Atoma</Dest>
     </String>
     <String List="0" sID="0158C5">
       <EDID>DiamondCityFX</EDID>
@@ -394,7 +394,7 @@
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Alias=Item04&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost04&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount04&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item04&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost04&gt; | &lt;Global=DN011OverdueBooksItemCount04&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item04&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost04&gt; | &lt;Global=DN011OverdueBooksItemCount04&gt; zbývá</Dest>
     </String>
     <String List="0" sID="015AC3">
       <EDID>DN011CuratorKey</EDID>
@@ -436,7 +436,7 @@
       <EDID>DmndArturoKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Arturo's House Key</Source>
-      <Dest>Klíč k Artureho domu</Dest>
+      <Dest>Klíč k Arturovu domu</Dest>
     </String>
     <String List="0" sID="016524">
       <EDID>DmndSunKey</EDID>
@@ -508,7 +508,7 @@
       <EDID>DebugAODogmeatFindHostileSpecialFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>test faction weights for find, should not prefer these guys</Source>
-      <Dest>testovaná frakce má váhu při nálezu, nemá preferovat tyhle chlápky</Dest>
+      <Dest>testovaná frakce má váhu při nálezu, nepreferovat tyhle chlápky</Dest>
     </String>
     <String List="0" sID="0172BE">
       <EDID>DialogueDiamondCityPlayer</EDID>
@@ -556,13 +556,13 @@
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Alias=Item08&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost08&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount08&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item08&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost08&gt; | &lt;Global=DN011OverdueBooksItemCount08&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item08&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost08&gt; | &lt;Global=DN011OverdueBooksItemCount08&gt; zbývá</Dest>
     </String>
-    <String List="0" sID="0181C9" Partial="1">
+    <String List="0" sID="0181C9">
       <EDID>DefaultDummy</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Default Dummy</Source>
-      <Dest>Default Dummy</Dest>
+      <Dest>Výchozí atrapa</Dest>
     </String>
     <String List="0" sID="01857B">
       <EDID>DialogueDrumlinDiner</EDID>
@@ -608,7 +608,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DN015_CleanRoomIntercom</EDID>
       <REC>TACT:FULL</REC>
       <Source>Intercom</Source>
-      <Dest>Interkom</Dest>
+      <Dest>Vnitřní linka</Dest>
     </String>
     <String List="0" sID="018D76">
       <EDID>DN007_A951</EDID>
@@ -638,7 +638,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DmndJohnKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>John and Jessica's House Key</Source>
-      <Dest>Klíč k domu Johna a Jessiky</Dest>
+      <Dest>Klíč k domu Johna a Jessicy</Dest>
     </String>
     <String List="0" sID="019451">
       <EDID>DialogueDrumlinDiner</EDID>
@@ -716,7 +716,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DiamondCityJohnsHouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>John and Jessica's House</Source>
-      <Dest>Dům Johna a Jessiky</Dest>
+      <Dest>Dům Johna a Jessicy</Dest>
     </String>
     <String List="0" sID="019C71">
       <EDID>DN011OverdueBookVendSubTermItem01</EDID>
@@ -770,7 +770,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DmndChoiceChops02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Meat Locker</Source>
-      <Dest>Chladící box</Dest>
+      <Dest>Chladicí box</Dest>
     </String>
     <String List="0" sID="01A6F8">
       <EDID>DefaultTerminalWall</EDID>
@@ -788,7 +788,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DmndCookeKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Cooke Residence Key</Source>
-      <Dest>Klíč or sídla Cookových</Dest>
+      <Dest>Klíč od sídla Cookových</Dest>
     </String>
     <String List="0" sID="01A8BB">
       <EDID>DinerDoorSingleL01</EDID>
@@ -806,13 +806,13 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DmndKelloggKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Kellogg's House Key</Source>
-      <Dest>Klíč ke Kellogovu domu</Dest>
+      <Dest>Klíč ke Kelloggovu domu</Dest>
     </String>
     <String List="0" sID="01AC1C">
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Alias=Item03&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost03&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount03&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item03&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost03&gt; | &lt;Global=DN011OverdueBooksItemCount03&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item03&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost03&gt; | &lt;Global=DN011OverdueBooksItemCount03&gt; zbývá</Dest>
     </String>
     <String List="0" sID="01AD38">
       <EDID>DN015_BergmanTerminal</EDID>
@@ -826,10 +826,10 @@ I have been informed that legally I must comply with this request, no matter how
 &#xD;
 username: TWilliams&#xD;
 password: Vernon!Is!An!Idiot!</Source>
-      <Dest>OD: W. Bergman&#xD;
-PRO:   Dean Vernon&#xD;
+      <Dest>OD:  W. Bergman&#xD;
+PRO: Dean Vernon&#xD;
 &#xD;
-Chci mít záznam o tom, že SILNĚ nesouhlasím s udělením práv správce někomu, kdo není součástí našeho hlavního týmu. Přístup správce není hračkou pro doktora Williamse, aby panoval nad svými kolegy. Navrhli jsme téměř dokonalý systém a hloupá rozhodnutí jako toto dávají v sázku VŠE.&#xD;
+Chci mít záznam o tom, že SILNĚ nesouhlasím s udělením práv správce někomu, kdo není součástí našeho hlavního týmu. Přístup správce není hračkou pro doktora Williamse, aby panoval nad svými kolegy. Navrhli jsme téměř dokonalý systém a hloupá rozhodnutí, jako tato, dávají v sázku VŠE.&#xD;
 &#xD;
 Byl jsem informován, že právně musím tomuto požadavku vyhovět, bez ohledu na to, jak pitomý je.&#xD;
 &#xD;
@@ -886,7 +886,7 @@ PLEASE RETURN OVERDUE BOOKS TO EARN TOKENS&#xD;
 &#xD;
 </Source>
       <Dest>NEDOSTATEK ŽETONŮ&#xD;
-PROSÍM VRAŤTE KNIHY S PROPADLOU VÝPŮJČKOU K ZÍSKÁNÍ POUKAZŮ</Dest>
+PROSÍM, VRAŤTE KNIHY S PROPADLOU VÝPŮJČKOU K ZÍSKÁNÍ POUKAZŮ</Dest>
     </String>
     <String List="0" sID="01B64A">
       <EDID>Deirdre</EDID>
@@ -905,7 +905,7 @@ Status: All DATA Compressed to Holotape&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
 Současný protokol: Nečinný&#xD;
-Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
+Stav: Veškeré DATA zkomprimována na holopásku&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -938,7 +938,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Alias=Item01&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost01&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount01&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item01&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost01&gt; | &lt;Global=DN011OverdueBooksItemCount01&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item01&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost01&gt; | &lt;Global=DN011OverdueBooksItemCount01&gt; zbývá</Dest>
     </String>
     <String List="0" sID="01BEB3">
       <EDID>DN001_SargeTerminal</EDID>
@@ -958,7 +958,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <Source>View Cargo Manifests</Source>
       <Dest>Zobrazit seznam nákladu</Dest>
     </String>
-    <String List="0" sID="01C237">
+    <String List="0" sID="01C237" Partial="1">
       <EDID>DialogueRailroad</EDID>
       <REC>QUST:FULL</REC>
       <Source>Railroad HQ - Core NPCs Generic</Source>
@@ -968,7 +968,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DialogueGeneric</EDID>
       <REC>QUST:FULL</REC>
       <Source>Combat Lines, Reaction Lines, Etc</Source>
-      <Dest>Bojové texty, reakční texty, atd.</Dest>
+      <Dest>Bojové texty, reakční texty atd.</Dest>
     </String>
     <String List="0" sID="01C610">
       <EDID>DmndAbbotsHouse</EDID>
@@ -1016,7 +1016,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DEBUG_HandmadeGuns_Tier3</EDID>
       <REC>CONT:FULL</REC>
       <Source>Pipe Guns - Various Tier III Mods</Source>
-      <Dest>Trubkové pistole - různé mody III úrovně</Dest>
+      <Dest>Trubková zbraň - různé mody III. úrovně</Dest>
     </String>
     <String List="0" sID="01D0C0">
       <EDID>DN015_BergmanTerminal</EDID>
@@ -1040,7 +1040,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="9">TERM:ITXT</REC>
       <Source>&lt;Alias=Item10&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost10&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount10&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item10&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost10&gt; | &lt;Global=DN011OverdueBooksItemCount10&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item10&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost10&gt; | &lt;Global=DN011OverdueBooksItemCount10&gt; zbývá</Dest>
     </String>
     <String List="0" sID="01D3A1">
       <EDID>DBTechHighSchoolLocation</EDID>
@@ -1088,7 +1088,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DiamondCityArturosHouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Arturo's House</Source>
-      <Dest>Artureho dům</Dest>
+      <Dest>Arturův dům</Dest>
     </String>
     <String List="0" sID="01D5C3">
       <EDID>DiamondCityDugoutInnLocation</EDID>
@@ -1130,7 +1130,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DiamondCityLatimerResidenceLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Latimer Residence</Source>
-      <Dest>Latimerovo sídlo</Dest>
+      <Dest>Sídlo Latimerů</Dest>
     </String>
     <String List="0" sID="01D5D8">
       <EDID>DiamondCityMayorsOfficeLocation</EDID>
@@ -1172,7 +1172,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DebugSALocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Companion Situational Awareness Test Location</Source>
-      <Dest>Prostorová představivost společníka testovací místo</Dest>
+      <Dest>Testovací místo prostorová představivost společníka</Dest>
     </String>
     <String List="0" sID="01D68D">
       <EDID>DanversLocation</EDID>
@@ -1190,7 +1190,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DiamondCityKelloggsHouse</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Kellogg's House</Source>
-      <Dest>Kellogův dům</Dest>
+      <Dest>Kelloggův dům</Dest>
     </String>
     <String List="0" sID="01D721">
       <EDID>DiamondCityInteriorEntranceLocation</EDID>
@@ -1202,7 +1202,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DiamondCityChoiceChopsLockerLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Meat Locker</Source>
-      <Dest>Chladící box</Dest>
+      <Dest>Chladicí box</Dest>
     </String>
     <String List="0" sID="01D762">
       <EDID>DamageResist</EDID>
@@ -1274,7 +1274,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DialogueGenericGunners</EDID>
       <REC>QUST:FULL</REC>
       <Source>Gunner Combat Lines, Reactions, Dialogue</Source>
-      <Dest>Ranař bojové texty, reakce, dialogy</Dest>
+      <Dest>Bojové texty, reakce, dialogy Ranařů</Dest>
     </String>
     <String List="0" sID="01DCC7">
       <EDID>DefaultWaterExplosion</EDID>
@@ -1364,7 +1364,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DmndStandsKellogg01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Kellogg's House</Source>
-      <Dest>Kellogův dům</Dest>
+      <Dest>Kelloggův dům</Dest>
     </String>
     <String List="0" sID="01EC78">
       <EDID>DialogueWRVR</EDID>
@@ -1406,7 +1406,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Alias=Item05&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost05&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount05&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item05&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost05&gt; | &lt;Global=DN011OverdueBooksItemCount05&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item05&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost05&gt; | &lt;Global=DN011OverdueBooksItemCount05&gt; zbývá</Dest>
     </String>
     <String List="0" sID="01F73B">
       <EDID>DN011Dalen</EDID>
@@ -1424,7 +1424,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN011CompressedDataHolotape</EDID>
       <REC>MISC:FULL</REC>
       <Source>BPL Compressed Data</Source>
-      <Dest>BVK zkomprimovaná data</Dest>
+      <Dest>Zkomprimovaná data BVK</Dest>
     </String>
     <String List="0" sID="01FA5A">
       <EDID>DmndAbbotKey</EDID>
@@ -1502,7 +1502,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DialogueGenericTriggerman</EDID>
       <REC>QUST:FULL</REC>
       <Source>Triggerman Combat Lines, Reactions, Dialogue</Source>
-      <Dest>Zabiják bojové texty, reakce, Dialogy</Dest>
+      <Dest>Bojové texty, reakce, dialogy Střelce</Dest>
     </String>
     <String List="0" sID="0208F3">
       <EDID>defaultMetersAbbreviation</EDID>
@@ -1520,13 +1520,13 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Alias=Item06&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost06&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount06&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item06&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost06&gt; | &lt;Global=DN011OverdueBooksItemCount06&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item06&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost06&gt; | &lt;Global=DN011OverdueBooksItemCount06&gt; zbývá</Dest>
     </String>
     <String List="0" sID="020DD7">
       <EDID>DEBUG_HandmadeGuns_Tier2</EDID>
       <REC>CONT:FULL</REC>
       <Source>Pipe Guns - Various Tier II Mods</Source>
-      <Dest>Trubkové pistole - různé mody II úrovně</Dest>
+      <Dest>Trubková zbraň - různé mody II. úrovně</Dest>
     </String>
     <String List="0" sID="020E01">
       <EDID>DN015_CleanRoomVoiceType</EDID>
@@ -1656,7 +1656,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DmndLatimerKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Latimer Residence Key</Source>
-      <Dest>Klíč k Latimerovu sídlu</Dest>
+      <Dest>Klíč k sídlu Latimerů</Dest>
     </String>
     <String List="0" sID="0233E0">
       <EDID>DecoHouse2x3Brick01</EDID>
@@ -1692,7 +1692,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DialogueGenericRaider</EDID>
       <REC>QUST:FULL</REC>
       <Source>Raider Combat Lines, Reactions, Dialogue</Source>
-      <Dest>Nájezdník bojové texty, reakce, Dialogy</Dest>
+      <Dest>Bojové texty, reakce, dialogy Nájezdníka</Dest>
     </String>
     <String List="0" sID="02398B">
       <EDID>DN009_SynthTerminalPassword</EDID>
@@ -1716,7 +1716,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DebugCompanionsDefaultTerminalWall</EDID>
       <REC>TERM:NAM0</REC>
       <Source>Header Text</Source>
-      <Dest>Hlavička textu</Dest>
+      <Dest>Text záhlaví</Dest>
     </String>
     <String List="0" sID="023B04">
       <EDID>DmndChoiceChops01</EDID>
@@ -1748,7 +1748,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <Source>Security Terminal</Source>
       <Dest>Bezpečnostní terminál</Dest>
     </String>
-    <String List="0" sID="023DF7">
+    <String List="0" sID="023DF7" Partial="1">
       <EDID>DialogueRailroadGenericNPCs</EDID>
       <REC>QUST:FULL</REC>
       <Source>Railroad HQ - Generic Peeps</Source>
@@ -1776,13 +1776,13 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <EDID>DN015_ArmorProjectActivatorTemp</EDID>
       <REC>ACTI:ATTX</REC>
       <Source>Complete</Source>
-      <Dest>Dokončit</Dest>
+      <Dest>Dokončený</Dest>
     </String>
     <String List="0" sID="024249">
       <EDID>DN001_BADTFLDeactivateTurrets</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Terminal (Deactivate Turrets)</Source>
-      <Dest>Terminál (Deaktivovat věžě)</Dest>
+      <Dest>Terminál (Deaktivovat věže)</Dest>
     </String>
     <String List="0" sID="0242AE">
       <EDID>DN015_CleanRoomButton</EDID>
@@ -1814,7 +1814,7 @@ Stav: Veškeré DATA zkomprimovány na holopásku&#xD;
       <Source>Here you can spend "Book Return Tokens" on any prize you'd like.&#xD;
 &#xD;
 You currently have &lt;Global=DN011OverdueBooksPlayerTokenCount&gt; Tokens</Source>
-      <Dest>Zde můžete utratit "Žetony za navrácení knih" za jakoukoliv zvolenou odměnu.&#xD;
+      <Dest>Zde můžete utratit „Žetony za navrácení knih“ za jakoukoliv zvolenou odměnu.&#xD;
 &#xD;
 Počet vašich poukazů: &lt;Global=DN011OverdueBooksPlayerTokenCount&gt;</Dest>
     </String>
@@ -1848,15 +1848,15 @@ Počet vašich poukazů: &lt;Global=DN011OverdueBooksPlayerTokenCount&gt;</Dest>
       <Source>For every book you return you will be reimbursed 5 "Book Return Tokens".  You can then use these tokens to purchase prizes from this machine.&#xD;
 &#xD;
 Would you like to return all of your "Overdue Books"?</Source>
-      <Dest>Za každou knihu, kterou vrátíte budete odměněni 5 "Žetony za navrácení knih". Poukazy poté můžete použít k zakoupení odměn v tomto přístroji.&#xD;
+      <Dest>Za každou knihu, kterou vrátíte, budete odměněni 5 „Žetony za navrácení knih“. Poukazy poté můžete použít k zakoupení odměn v tomto přístroji.&#xD;
 &#xD;
-Chcete nyní vrátit všechny vaše "Knihy s propadlou výpůjčkou"?</Dest>
+Chcete nyní vrátit všechny vaše „Knihy s propadlou výpůjčkou“?</Dest>
     </String>
     <String List="0" sID="024992">
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="8">TERM:ITXT</REC>
       <Source>&lt;Alias=Item09&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost09&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount09&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item09&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost09&gt; | &lt;Global=DN011OverdueBooksItemCount09&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item09&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost09&gt; | &lt;Global=DN011OverdueBooksItemCount09&gt; zbývá</Dest>
     </String>
     <String List="0" sID="0249C7">
       <EDID>DialoguePlayerAdditional</EDID>
@@ -1880,7 +1880,7 @@ Chcete nyní vrátit všechny vaše "Knihy s propadlou výpůjčkou"?</Dest>
       <EDID>DmndSecurityJailKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Diamond City Jail Key</Source>
-      <Dest>Klíč od Vězení v Diamond City</Dest>
+      <Dest>Klíč od vězení v Diamond City</Dest>
     </String>
     <String List="0" sID="024B0F">
       <EDID>DiamondCityMensRestroomLocation</EDID>
@@ -1904,7 +1904,7 @@ Chcete nyní vrátit všechny vaše "Knihy s propadlou výpůjčkou"?</Dest>
       <EDID>DN011StorageKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Library Storage Room Key</Source>
-      <Dest>Klíč od knihovního skladu</Dest>
+      <Dest>Klíč od skladu knihovny</Dest>
     </String>
     <String List="0" sID="024CB0">
       <EDID>DmndWaterfrontCrockersHouse01</EDID>
@@ -1983,10 +1983,10 @@ Policy Rev. 4.3 - 5/21/77&#xD;
 - Output shipments occur between 15:00 and 17:00.&#xD;
 - Cargo designated 0000/Miscellaneous should be forwarded to the quarry. Notify foreman Lanaham upon arrival for further instructions.</Source>
       <Dest>Nákladní řád stanice Bedford&#xD;
-Vydání postupů 4.3 - 51.5.77&#xD;
+Postup při revizích 4.3 - 21. 5. 2077&#xD;
 &#xD;
-- Všechny seznamy nákladů budou nahrány na tento terminál. Záznamy zde budou uchovávány po dobu šesti měsíců před archivací na holopásku.&#xD;
-- Příjem zásilek probíhá mezi 08:00 a 08:30. Dodávka do lomu je očekávána ne později než ve 12:00. Bez výjimek.&#xD;
+- Všechny seznamy nákladů budou nahrány na tento terminál. Záznamy zde budou uchovány po dobu šesti měsíců před archivací na holopásku.&#xD;
+- Příjem zásilek probíhá mezi 08:00 a 08:30. Dodávka do lomu je očekávána nejpozději v 12:00. Bez výjimek.&#xD;
 - Výdej zásilek probíhá mezi 15:00 a 17:00.&#xD;
 - Náklad označený 0000/Různé by měl být předán do lomu. Při příjezdu uvědomit předáka Lanahama pro další instrukce.</Dest>
     </String>
@@ -2010,7 +2010,7 @@ Vydání postupů 4.3 - 51.5.77&#xD;
 ARE YOU SURE?</Source>
       <Dest>Chystáte se utratit žetony.&#xD;
 &#xD;
-JSTE SI JISTÝ?</Dest>
+JSTE SI JISTI?</Dest>
     </String>
     <String List="0" sID="02541A">
       <EDID>DN011OverdueBookVendTerminal</EDID>
@@ -2170,7 +2170,7 @@ Stav: !DOKONČEN!&#xD;
       <EDID>DEBUG_HandmadeGuns_Tier1</EDID>
       <REC>CONT:FULL</REC>
       <Source>Pipe Guns - Various Tier I Mods</Source>
-      <Dest>Trubkové pistole - různé mody I úrovně</Dest>
+      <Dest>Trubková zbraň - různé mody I. úrovně</Dest>
     </String>
     <String List="0" sID="0261DB">
       <EDID>DN015_ArmorProjectActivatorTemp</EDID>
@@ -2206,7 +2206,7 @@ Stav: !DOKONČEN!&#xD;
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Alias=Item02&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost02&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount02&gt; Remaining</Source>
-      <Dest>&lt;Alias=Item02&gt; | Cena v žetonech:&lt;Global=DN011OverdueBooksItemCost02&gt; | &lt;Global=DN011OverdueBooksItemCount02&gt; Zbývá</Dest>
+      <Dest>&lt;Alias=Item02&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost02&gt; | &lt;Global=DN011OverdueBooksItemCount02&gt; zbývá</Dest>
     </String>
     <String List="0" sID="0264BA" Partial="1">
       <EDID>defaultCreatureSpawnerRaiderDoll</EDID>
@@ -2316,7 +2316,7 @@ A critical failure in the track switching system has been detected. Please clear
       <Dest>Stav ovládání trati: Neaktivní&#xD;
 &#xD;
 --- *VAROVÁNÍ* ---&#xD;
-Bylo zjištěno kritické selhání ve výhybkovém systému. Uvolnětě prosím koleje.&#xD;
+Bylo zjištěno kritické selhání ve výhybkovém systému. Uvolněte, prosím, koleje.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2400,7 +2400,7 @@ Error 195F: Currently waiting return of &lt;Global=DN011TotalOverdueBooksGlobal&
 Současný protokol: Sběr dat&#xD;
 Stav: !NEKOMPLETNÍ!&#xD;
 &#xD;
-Chyba 195F: Počet knih s propadlou výpůjčkou:&lt;Global=DN011TotalOverdueBooksGlobal&gt; Před navrácením není možné pokračovat ve sběru dat. &#xD;
+Chyba 195F: Počet knih s propadlou výpůjčkou: &lt;Global=DN011TotalOverdueBooksGlobal&gt;. Před navrácením není možné pokračovat ve sběru dat. &#xD;
 &#xD;
 </Dest>
     </String>
@@ -2433,14 +2433,14 @@ Change log for v1.10b&#xD;
 * Squashed a ton of bugs.&#xD;
 * Major revisions to the main UI. Should be "pretty" for the dog and pony show.&#xD;
 * Minor tweaks to the brute force counter-measures. Even Volkov couldn't find a hole.</Source>
-      <Dest>=====================&#xD;
+      <Dest>======================&#xD;
 Seznam změn pro v1.10b&#xD;
-=====================&#xD;
+======================&#xD;
 * Opraven Darrenův sprostý, sprostý hack.&#xD;
 * Omezení studentů k vlastnictví pouze jednoho účtu na studentské ID číslo. Bez výjimky.&#xD;
-* Odstraněna spousta budgů.&#xD;
-* Zásadní revize uživatelského rozhraní. Mělo by být "krásné" jako na přehlídku.&#xD;
-* Menší upravy v protiopatřeních na útok hrubou silou. Dokonce ani Volkov nenašel skulinu.</Dest>
+* Odstraněna spousta chyb.&#xD;
+* Zásadní revize uživatelského rozhraní. Mělo by být „krásné“ jako na přehlídku.&#xD;
+* Menší úpravy v protiopatřeních na útok hrubou silou. Dokonce ani Volkov nenašel skulinu.</Dest>
     </String>
     <String List="0" sID="02839B">
       <EDID>DefaultTerminalDesk_ChairInstitute</EDID>
@@ -2473,7 +2473,7 @@ Seznam změn pro v1.10b&#xD;
 Here you can return any "Overdue Books" you may have in your possession, as well as spend any "Book Return Tokens" you have accrued on an assortment of fun items.&#xD;
 &#xD;
 Make your selection below:</Source>
-      <Dest>Zde můžete vrátit jakékoliv "Knihy s propadlou výpůjčkou", které vlastníte , stejně tak jako utratit "Žetony za navrácení knih",které jste nasbírali za kolekci zábavných odměn.&#xD;
+      <Dest>Zde můžete vrátit jakékoliv „Knihy s propadlou výpůjčkou“, které vlastníte, stejně tak, jako utratit „Žetony za navrácení knih“,které jste nasbírali za kolekci zábavných odměn.&#xD;
 &#xD;
 Zvolte si níže:</Dest>
     </String>
@@ -2487,25 +2487,25 @@ Zvolte si níže:</Dest>
       <EDID>DN008HouseTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>I think I figured out the generator/ventilation issues.  All the supplies are stocked and ready.  The only thing left to do is wait, and hope we don't need to use it.  I was telling Shane and Kimmy about the shelter, but how do you explain a bomb shelter to a 5 and 7 year old?  I just need them to know where it's at, so I tried to get them to repeat a rhyme hoping that would help it sink in, "In the tipped over train, behind dad's shop.  Climb up above and drop in the top."  They seemed to like the rhyme...</Source>
-      <Dest>Myslím že jsem přišel na ten problém generátoru/ventilace.  Všechny zásoby jsou nashromážděny a připraveny. Teď už zbývá jen čekat a doufat, že je nebudeme muset použít.  Říkal jsem o krytu Shanovi a Kimmy, ale jak vysvětlíte atomový kryt 5 a 7 let starému dítěti?  Potřebuji jen, aby věděli kde je, tak jsem je nechal opakovat rýmovačku v naději, že jim to pomůže zapamatovat si to, "Do spadlého vagonu, za tátovým obchodem.  Vyšplhej až nahoru a skoč dovnitř honem.."  Zdá se, že se jim rýmovačka líbila...</Dest>
+      <Dest>Myslím, že jsem přišel na ten problém generátoru/ventilace. Všechny zásoby jsou nashromážděny a připraveny. Teď už zbývá jen čekat a doufat, že je nebudeme muset použít. Říkal jsem o krytu Shanovi a Kimmy, ale jak vysvětlíte atomový kryt 5 a 7 let starému dítěti? Potřebuji jen, aby věděli, kde je, tak jsem je nechal opakovat rýmovačku v naději, že jim to pomůže zapamatovat si to: „Do spadlého vagonu, za tátovým obchodem. Vyšplhej až nahoru a skoč dovnitř honem.“ Zdá se, že se jim rýmovačka líbila...</Dest>
     </String>
     <String List="0" sID="028858">
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>I told them they could leave whenever they wanted to.  I'm not going to force them to stay.  If they don't believe in what we're doing here then it's better if they just get out of our way.   If we don't collect everything then what's the point?</Source>
-      <Dest>Řelk jsem jim, že mohou odejít, kdy chtějí.  Nebudu je nutit zůstávat.  Pokud nevěří v to, co zde děláme, pak ať jdou radši z cesty. Pokud nenasbíráme vše, jaký to pak má smysl?</Dest>
+      <Dest>Řekl jsem jim, že mohou odejít, kdy chtějí. Nebudu je nutit zůstávat. Pokud nevěří v to, co zde děláme, pak ať jdou radši z cesty. Pokud nenasbíráme vše, jaký to pak má smysl?</Dest>
     </String>
     <String List="0" sID="0288D5">
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>We've lost a few more, including Shelby.  She will be missed, but I know she wouldn't have had it any other way.  What we're doing here is important.  There are still a lot of books left.  This knowledge will help all future generations.  It's up to us to keep pressing on.</Source>
-      <Dest>Ztratili jsme pár dalších, včetně Shelby. Bude nám chybět, ale vím, že by to jinak ani nechtěla. To co zde děláme je důležité. Stále zbývá hodně knih. Tyto znalosti pomohou všem budoucím generacím. Je na nás s tím pohnout.</Dest>
+      <Dest>Ztratili jsme pár dalších, včetně Shelby. Bude nám chybět, ale vím, že by to jinak ani nechtěla. To, co zde děláme, je důležité. Stále zbývá hodně knih. Tyto znalosti pomohou všem budoucím generacím. Je na nás s tím pohnout.</Dest>
     </String>
     <String List="0" sID="028930">
       <EDID>DN008HouseTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Journal Entry 10/28</Source>
-      <Dest>Záznam deníku 28.10.</Dest>
+      <Dest>Záznam deníku 28. 10.</Dest>
     </String>
     <String List="0" sID="02896C">
       <EDID>DN008HouseTerminal</EDID>
@@ -2517,49 +2517,49 @@ Zvolte si níže:</Dest>
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Given's Log 8/5</Source>
-      <Dest>Givenův záznam 5.8.</Dest>
+      <Dest>Givenův záznam 5. 8.</Dest>
     </String>
     <String List="0" sID="0289A3">
       <EDID>DN008HouseTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Journal Entry 9/15</Source>
-      <Dest>Záznam deníku 15.9.</Dest>
+      <Dest>Záznam deníku 15. 9.</Dest>
     </String>
     <String List="0" sID="028A49">
       <EDID>DN008HouseTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Journal Entry 8/2</Source>
-      <Dest>Záznam deníku 2.8.</Dest>
+      <Dest>Záznam deníku 2. 8.</Dest>
     </String>
     <String List="0" sID="028A9F">
       <EDID>DN008HouseTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Ok, the ventilation is set up, but I'm having issues with the generator.  It keeps shutting off for no obvious reason.  Whenever the generator shuts off the ventilations fans no longer work, which apparantly vacuum seals the trap door on the shelter shut.  Let's hope that doesn't happen again...</Source>
-      <Dest>Dobrá, ventilace je připravena, ale mám problémy s generátorem.  Stále se bez zjevného důvodu vypíná. Kdykoliv se generátor vypne, větráky ventilace nefungují, což zjevně vakuově uzavře padací dveře uzávěru krytu. Doufejme, že už se to nestane...</Dest>
+      <Dest>Dobrá, ventilace je připravena, ale mám problémy s generátorem. Stále se bez zjevného důvodu vypíná. Kdykoliv se generátor vypne, větráky ventilace nefungují, což zjevně vakuově uzavře padací dveře uzávěru krytu. Snad se to už nestane...</Dest>
     </String>
     <String List="0" sID="028AB8">
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Given's Log 6/18</Source>
-      <Dest>Givenův záznam 18.6.</Dest>
+      <Dest>Givenův záznam 18. 6.</Dest>
     </String>
     <String List="0" sID="028B7D">
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>It's getting more and more difficult, but we were able to get a hold of a few more books today.  While I was scanning them in I overheard Dalen telling Shelby that we should just compress the archives now and get out of here.  I thought about smacking him up-side his fucking head, but...I don't blame him for wanting to cut and run.  It's been tough, and we've lost so many.  But, it's all worth it, right?  I mean, if we don't protect the knowledge stored on these machines, who will?</Source>
-      <Dest>Je to stále těžší a těžší, ale dnes se nám podařilo získat pár dalších knih. Když jsem je skenoval, zaslechl jsem Dalena jak říká Shelby, že bychom měli jen zkomprimovat archivy a zmizet odsud. Měl jsem chuť ho praštit po jeho posraný hlavě, jenže...nemůžu ho vinit, že to chce zabalit a utéct. Bylo to těžké a tolik jsme jich ztratili. Ale stojí to za to, že ano?  Chci říct, pokud neochráníme vědomosti uložené v těchto přístrojích, tak kdo?</Dest>
+      <Dest>Je to stále těžší a těžší, ale dnes se nám podařilo získat pár dalších knih. Když jsem je skenoval, zaslechl jsem Dalena, jak říká Shelby, že bychom měli jen zkomprimovat archivy a zmizet odsud. Měl jsem chuť ho praštit po jeho posraný hlavě, jenže... neviním ho, že to chce zabalit a utéct. Bylo to těžké a tolik jsme jich ztratili. Ale stojí to za to, že? Chci říct, pokud neochráníme vědomosti uložené v těchto přístrojích, tak kdo?</Dest>
     </String>
     <String List="0" sID="028BF3">
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Given's Log 5/3</Source>
-      <Dest>Givenův záznam 3.5.</Dest>
+      <Dest>Givenův záznam 3. 5.</Dest>
     </String>
     <String List="0" sID="028C09">
       <EDID>DN008HouseTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>I've sealed up all the cracks I could find in the trailer, and made sure all the pipes are clamped tight.  I still need to make sure ventilation is set up correctly, but I'll save that for next week.  Shelly thinks we should start telling the kids about the shelter so they know where to go in case something happens.  I'm not sure they need to know quite yet though.</Source>
-      <Dest>Utěsnil jsem všechny praskliny na vagonu, které jsem našel a přesvědčil se, že všechny trubky jsou pevně uzavřeny. Ještě se musím ujistit, že je správně nastavena ventilace, ale to nechám na příští týden. Shelly si myslí, že bychom měli říci o krytu dětem, aby věděli kam jít, v případě že se něco stane. Nejsem si ale jistý, že by to už měli vědět.</Dest>
+      <Dest>Utěsnil jsem všechny praskliny na vagonu, které jsem našel, a přesvědčil se, že všechny trubky jsou pevně uzavřeny. Ještě se musím ujistit, že je správně nastavena ventilace, ale to nechám na příští týden. Shelly si myslí, že bychom měli říci o krytu dětem, aby věděli, kam jít v případě, že se něco stane. Nejsem si ale jistý, že by to už měli vědět.</Dest>
     </String>
     <String List="0" sID="028C11">
       <EDID>DN011CuratorTerminal</EDID>
@@ -2571,7 +2571,7 @@ Zvolte si níže:</Dest>
       <EDID>DN011CuratorTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Given's Log 5/21</Source>
-      <Dest>Givenův záznam 21.5.</Dest>
+      <Dest>Givenův záznam 21. 5.</Dest>
     </String>
     <String List="0" sID="028C30">
       <EDID>DN011CuratorTerminal</EDID>
@@ -2579,7 +2579,7 @@ Zvolte si níže:</Dest>
       <Source>I can't keep the bots repaired anymore.  The mutants are hitting us at least once a day.  Unless we get help it's only a matter of time before they wipe us out completely.  This may be the last log I write.  If it is, all I ask is that the person reading this does the right thing.  Help us protect the information stored on the computers in the data room.&#xD;
 &#xD;
  The key to the storage room is behind this terminal.  There are some supplies you may find useful there.  Please, only use them if you are going to further our cause.</Source>
-      <Dest>Už nezvládám dál opravovat roboty. Mutanti útočí minimálně jednou denně. Pokud se nám nedostane pomoci, je jen otázkou času, než nás vyhladí úplně. Tohle je možná poslední záznam, který píši. Pokud ano, vše oč žádám osobu, která si jej přečte, aby udělala správnou věc. Pomoz nám ochránit data uložená na počítačích v datové místnosti.&#xD;
+      <Dest>Už nezvládám dál opravovat roboty. Mutanti útočí minimálně jednou denně. Pokud se nám nedostane pomoci, je jen otázkou času, než nás vyhladí úplně. Tohle je možná poslední záznam, který píši. Pokud ano, vše, oč žádám osobu, která si jej přečte, je, aby udělala správnou věc. Pomoz nám ochránit data uložená na počítačích v datové místnosti.&#xD;
 &#xD;
  Klíč od skladu je za tímto terminálem. Jsou tam nějaké zásoby, které by se ti mohly hodit. Použij je prosím, jen pokud hodláš podpořit naši věc.</Dest>
     </String>
@@ -2587,7 +2587,7 @@ Zvolte si níže:</Dest>
       <EDID>DialogueGenericUniqueVoiceTypes</EDID>
       <REC>QUST:FULL</REC>
       <Source>Combat Lines, Reaction Lines, Etc</Source>
-      <Dest>Bojové texty, reakční texty, atd.</Dest>
+      <Dest>Bojové texty, reakční texty atd.</Dest>
     </String>
     <String List="0" sID="028DFF">
       <EDID>DeskFanOfficeOff01</EDID>
@@ -2627,7 +2627,7 @@ PERSONAL EFFECTS: &#xD;
 - 1 hat (black)&#xD;
 - 23 dollars, 7 cents change&#xD;
 </Source>
-      <Dest>NAPOSLEDY UPRAVENO: 1.10.77&#xD;
+      <Dest>NAPOSLEDY UPRAVENO: 1. 10. 2077&#xD;
 &#xD;
 JMÉNO: Jake Redds&#xD;
 STAV:  V současné době uvězněný&#xD;
@@ -2636,7 +2636,7 @@ VÝŠKA: 172 cm   VÁHA: 97 kg&#xD;
 BARVA VLASŮ: Černá   BARVA OČÍ: Modrá&#xD;
 POZNÁVACÍ ZNAMENÍ: Žádné&#xD;
 &#xD;
-OBVINĚNÍ: Vyhýbání se zatčení, Držení drog s úmyslem distribuce&#xD;
+OBVINĚNÍ: Vyhýbání se zatčení, držení drog s úmyslem distribuce&#xD;
 OSOBNÍ MAJETEK: &#xD;
 - 1 hodinky (rozbité)&#xD;
 - Boty (černé)&#xD;
@@ -2648,7 +2648,7 @@ OSOBNÍ MAJETEK: &#xD;
       <EDID>DN001_SargeTerminalSubPersonalLog</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Log Entry 10/22/77</Source>
-      <Dest>Záznam deníku 22.10.77</Dest>
+      <Dest>Záznam deníku 22. 10. 2077</Dest>
     </String>
     <String List="0" sID="028FD9">
       <EDID>DN001_JailTerminalSubPrisoners</EDID>
@@ -2660,7 +2660,7 @@ OSOBNÍ MAJETEK: &#xD;
 &#xD;
 </Source>
       <Dest>=================================================&#xD;
-     Osobní záznamy uživatele &lt;Sergeant Dave Mallory&gt;&#xD;
+   Osobní záznamy uživatele &lt;Sergeant Dave Mallory&gt;&#xD;
 =================================================</Dest>
     </String>
     <String List="0" sID="02900C">
@@ -2697,7 +2697,7 @@ OSOBNÍ MAJETEK: &#xD;
 &#xD;
 </Source>
       <Dest>=================================================&#xD;
-     Osobní záznamy uživatele &lt;Sergeant Dave Mallory&gt;&#xD;
+   Osobní záznamy uživatele &lt;Sergeant Dave Mallory&gt;&#xD;
 =================================================</Dest>
     </String>
     <String List="0" sID="0290EF">
@@ -2746,7 +2746,7 @@ PERSONAL EFFECTS: &#xD;
 - 1 Wool Knit Cap&#xD;
 - Motorcycle Keys&#xD;
 </Source>
-      <Dest>NAPOSLEDY UPRAVENO: 23.9.77&#xD;
+      <Dest>NAPOSLEDY UPRAVENO: 23. 9. 2077&#xD;
 &#xD;
 JMÉNO: Opie Hurst&#xD;
 STAV:  Kauce vystavena&#xD;
@@ -2778,7 +2778,7 @@ PERSONAL EFFECTS: &#xD;
 - 1 Leather Wallet&#xD;
 - 1 Plastic Comb&#xD;
 - 50 Dollars American</Source>
-      <Dest>NAPOSLEDY UPRAVENO: 20.7.77&#xD;
+      <Dest>NAPOSLEDY UPRAVENO: 20. 7. 2077&#xD;
 &#xD;
 JMÉNO: Luke Paul Jackson&#xD;
 STAV:  Kauce vystavena&#xD;
@@ -2791,7 +2791,7 @@ OBVINĚNÍ: Neoprávněné vlastnictví laseru&#xD;
 OSOBNÍ MAJETEK: &#xD;
 - 1 kožená peněženka&#xD;
 - 1 plastový hřeben&#xD;
-- 50 Amerických dolarů</Dest>
+- 50 amerických dolarů</Dest>
     </String>
     <String List="0" sID="029140">
       <EDID>DN001_JailTerminal</EDID>
@@ -2829,15 +2829,15 @@ OSOBNÍ MAJETEK: &#xD;
       <Source>I'm getting too old for this job. If I have to deal with one more loose cannon officer playing by his own rules, I'm gonna lose my god damned mind! If it's not Willison destroying private property again, it's that maniac Gibbs putting his life on the line! I swear, this whole squad is the reason I've got this ulcer. If the heartburn doesn't get me, it's the constant trips to the bathroom. Getting old is a bum deal&#xD;
 &#xD;
 Thank god, only 3 more days until retirement. Then I can maybe take the RV out to the woods, rent a cabin, and finally finish my novel.</Source>
-      <Dest>Na tohle už jsem moc starej. Pokud se budu muset zabývat dalším strážníkem utrženým ze řetězu, hrajícím podle vlastních pravidel, zatraceně už se z toho zblázním! Když Willison zrovna neničí soukromý majetek, je to maniak Gibbs nasazující svůj život! Přísahám, to díky téhle jednotce mám vředy. Jestli mě nedostane pálení žáhy, tak ty neustálé cesty na záchod. Stárnutí nestojí za nic.&#xD;
+      <Dest>Na tohle už jsem moc starej. Pokud se budu muset zabývat dalším strážníkem utrženým ze řetězu, hrajícím podle vlastních pravidel, zatraceně se z toho už zblázním! Když Willison zrovna neničí soukromý majetek, je to maniak Gibbs nasazující svůj život! Přísahám, to díky téhle jednotce mám vředy. Jestli mě nedostane pálení žáhy, tak to budou neustálé cesty na záchod. Stárnutí nestojí za nic.&#xD;
 &#xD;
-Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet karavanem do lesa, pronajmout chatu a konečně dokončit můj román.</Dest>
+Díky bohu, už jen 3 dny do důchodu. Potom bych možná mohl vyjet karavanem do lesa, pronajmout chatu a konečně dokončit můj román.</Dest>
     </String>
     <String List="0" sID="0291BC">
       <EDID>DN001_SargeTerminalSubPersonalLog</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Log Entry 9/28/77</Source>
-      <Dest>Záznam deníku 29.9.77</Dest>
+      <Dest>Záznam deníku 29. 9. 2077</Dest>
     </String>
     <String List="0" sID="0291CA">
       <EDID>DN001_JailTerminal</EDID>
@@ -2849,7 +2849,7 @@ Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet kar
       <EDID>DN001_SargeTerminalSubPersonalLog</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Log Entry 10/3/77</Source>
-      <Dest>Záznam deníku 3.10.77</Dest>
+      <Dest>Záznam deníku 3. 10. 2077</Dest>
     </String>
     <String List="0" sID="0291D5">
       <EDID>DN001_SargeTerminalSubPersonalLog</EDID>
@@ -2891,7 +2891,7 @@ Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet kar
       <EDID>DN001_JailTerminalSubPrisoners</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Log Entry 10/22/77</Source>
-      <Dest>Záznam deníku 22.10.77</Dest>
+      <Dest>Záznam deníku 22. 10. 2077</Dest>
     </String>
     <String List="0" sID="029243">
       <EDID>DN001_JailTerminalSubPrisoners</EDID>
@@ -2899,21 +2899,21 @@ Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet kar
       <Source>I'm getting too old for this job. If I have to deal with one more loose cannon officer playing by his own rules, I'm gonna lose my god damned mind! If it's not Willison destroying private property again, it's that maniac Gibbs throwing his life on the line! I swear, this whole squad are the cause for my ulcer. If the heartburn doesn't get me, it's the constant trips to the bathroom. Like I said, getting old is a bum deal&#xD;
 &#xD;
 Thank god, only 3 more days until retirement. Then I can maybe take the RV out to the woods, rent a cabin, and finally finish my novel.</Source>
-      <Dest>Na tohle už jsem moc starej. Pokud se budu muset zabývat dalším strážníkem utrženým ze řetězu, hrajícím podle vlastních pravidel, zatraceně už se z toho zblázním! Když Willison zrovna neničí soukromý majetek, je to maniak Gibbs nasazující svůj život! Přísahám, to díky téhle jednotce mám vředy. Jestli mě nedostane pálení žáhy, tak ty neustálé cesty na záchod. Jak jsem říkal, stárnutí nestojí za nic.&#xD;
+      <Dest>Na tohle už jsem moc starej. Pokud se budu muset zabývat dalším strážníkem utrženým ze řetězu, hrajícím podle vlastních pravidel, zatraceně se z toho už zblázním! Když Willison zrovna neničí soukromý majetek, je to maniak Gibbs nasazující svůj život! Přísahám, to díky téhle jednotce mám vředy. Jestli mě nedostane pálení žáhy, tak to budou neustálé cesty na záchod. Jak jsem říkal, stárnutí nestojí za nic.&#xD;
 &#xD;
-Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet karavanem do lesa, pronajmout chatu a konečně dokončit můj román.</Dest>
+Díky bohu, už jen 3 dny do důchodu. Potom bych možná mohl vyjet karavanem do lesa, pronajmout chatu a konečně dokončit můj román.</Dest>
     </String>
     <String List="0" sID="029249">
       <EDID>DN001_JailTerminalSubPrisoners</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Log Entry 10/3/77</Source>
-      <Dest>Záznam deníku 3.10.77</Dest>
+      <Dest>Záznam deníku 3. 10. 2077</Dest>
     </String>
     <String List="0" sID="029277">
       <EDID>DN001_JailTerminalSubPrisoners</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Log Entry 9/28/77</Source>
-      <Dest>Záznam deníku 29.9.77</Dest>
+      <Dest>Záznam deníku 29. 9. 2077</Dest>
     </String>
     <String List="0" sID="029636">
       <EDID>DeaconAtDiamondCity</EDID>
@@ -2937,7 +2937,7 @@ Díky bohu, už jen 3 další dny do důchodu. Potom bych možná mohl vyjet kar
       <EDID>DN003AndrewStationSandwichShopMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Joe's Spuckies Sandwich Shop</Source>
-      <Dest>Prodejna sendvičů Joeovy Chlebíčky</Dest>
+      <Dest>Prodejna sendvičů Joeovy chlebíčky</Dest>
     </String>
     <String List="0" sID="029710">
       <EDID>DeaconAtMemoryDen</EDID>
@@ -2964,9 +2964,9 @@ NHMUSA-0000 - Miscellaneous - 1 Pallet&#xD;
 TKEUSA-0249 - Granite - 24 Tons</Source>
       <Dest>--08:12:00 - Faktura 2124 - Příjem--&#xD;
 NHMUSA-5122 - Součástky BML vrtáku - 4 bedny&#xD;
-NHMUSA-5123 - Ocelové výztuže IV-třídy  - 8 palet&#xD;
-NHMUSA-5124 - Ocelový drát IV-třídy - 2 palety&#xD;
-NHMUSA-0000 - Různé - 1 Paleta&#xD;
+NHMUSA-5123 - Ocelové výztuže IV. třídy - 8 palet&#xD;
+NHMUSA-5124 - Ocelový drát IV. třídy - 2 palety&#xD;
+NHMUSA-0000 - Různé - 1 paleta&#xD;
 &#xD;
 --16:05:00 - Faktura 2125 - Výdej--&#xD;
 TKEUSA-0249 - Žula - 24 tun</Dest>
@@ -3011,7 +3011,7 @@ TKEUSA-0249 - Žula - 24 tun</Dest>
       <EDID>DN007_TerminalLoadingDockManifests</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>10/23/77</Source>
-      <Dest>23.10.77</Dest>
+      <Dest>23. 10. 2077</Dest>
     </String>
     <String List="0" sID="0298B9">
       <EDID>DeaconAtBunkerHill</EDID>
@@ -3036,8 +3036,8 @@ NHMUSA-5344 - Electrical Wire - 24 Spools&#xD;
 --00:00:00 - Invoice 2127 - Output--&#xD;
 Pending</Source>
       <Dest>--08:26:00 - Faktura 2126 - Příjem--&#xD;
-NHMUSA-5142 - Ocelové výstuže IV-třídy - 4 palety&#xD;
-NHMUSA-5343 - Spony IV-třídy - 1 bedna&#xD;
+NHMUSA-5142 - Ocelové výstuže IV. třídy - 4 palety&#xD;
+NHMUSA-5343 - Spony IV. třídy - 1 bedna&#xD;
 NHMUSA-5344 - Elektrický drát - 24 cívek&#xD;
 &#xD;
 --00:00:00 - Faktura 2127 - Výdej--&#xD;
@@ -3061,9 +3061,9 @@ Nevyřízeno</Dest>
       <Source>Full year capital spending is now estimated to increase over the previous year, thanks to budget tightening and a lowering of quality control in the product, including an increase in the water to wort ratio.&#xD;
 Brand management has also announced a marketing push of Bunker Hill Brew to lower income markets, which we all know spend a larger percentage of disposable income on beer and malted beverages.&#xD;
 Gross margins are speculated to increase well into 2078</Source>
-      <Dest>Je odhadováno zvýšení celoročních investičních výdajů oproti loňskému roku, díky rozpočtovým škrtům a snížení kontroly kvality produktu, včetně zvýšení poměru vody vůči sladu.&#xD;
-Správa značky také ohlásila marketingový tah Bunker Hillského pivovaru na nízko příjmové trhy, které jak víme, utrácejí největší část disponibilních příjmů za pivo a sladové nápoje.&#xD;
-Do 2078 je také odhadováno zvýšení hrubých marží.</Dest>
+      <Dest>Je odhadováno zvýšení celoročních investičních výdajů oproti loňskému roku díky rozpočtovým škrtům a snížení kontroly kvality produktu, včetně zvýšení poměru vody vůči sladu.&#xD;
+Správa značky také ohlásila marketingový tah Bunker Hillského pivovaru na nízko příjmové trhy, které, jak víme, utrácejí největší část disponibilních příjmů za pivo a sladové nápoje.&#xD;
+Do roku 2078 je také odhadováno zvýšení hrubých marží.</Dest>
     </String>
     <String List="0" sID="029AC0">
       <EDID>DN007_TerminalLoadingDockManifests</EDID>
@@ -3081,7 +3081,7 @@ Do 2078 je také odhadováno zvýšení hrubých marží.</Dest>
       <EDID>DN007_TerminalLoadingDockManifests</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>10/22/77</Source>
-      <Dest>22.10.77</Dest>
+      <Dest>22. 10. 2077</Dest>
     </String>
     <String List="0" sID="029BA8">
       <EDID>DN006_EmployeeTerm</EDID>
@@ -3130,10 +3130,10 @@ Tour Price: $25&#xD;
 Complimentary Tasting: $5 </Source>
       <Dest>Prohlídka probíhá každou půl hodinu a může trvat od 5 do 6 minut. Hostům je představen pivovar z ptačí perspektivy z našeho vyvýšeného ochozu. Pivovar nenese zodpovědnost za případný pád zákazníka z ochozu. Pro jejich bezpečí bylo instalováno bezpečnostní zábradlí.&#xD;
 &#xD;
-K prohlídce je započtena $5 sleva při nákupu v suvenýrech a ochutnávka na parkovišti při odchodu hostů. Správná teplota ochutnávek není zaručena.&#xD;
+K prohlídce je započtena sleva 5 $ při nákupu v suvenýrech a ochutnávka na parkovišti při odchodu hostů. Správná teplota ochutnávek není zaručena.&#xD;
 &#xD;
-Cena prohlídky: $25&#xD;
-Ochutnávka: $5 </Dest>
+Cena prohlídky: 25 $&#xD;
+Ochutnávka: 5 $</Dest>
     </String>
     <String List="0" sID="029DA6">
       <EDID>DN006_EmployeeTerm</EDID>
@@ -3163,7 +3163,7 @@ Ochutnávka: $5 </Dest>
       <EDID>DialogueGenericPlayerDrunkLines</EDID>
       <REC>QUST:FULL</REC>
       <Source>Hellos, etc while drunk</Source>
-      <Dest>Pozdravy, atd. v opilosti</Dest>
+      <Dest>Pozdravy atd. v opilosti</Dest>
     </String>
     <String List="0" sID="02A2CB">
       <EDID>DialogueGenericPlayerCombatHellos</EDID>
@@ -3187,7 +3187,7 @@ Ochutnávka: $5 </Dest>
       <EDID>DmndMayorTerminal_CitySubMenu</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Crime across the city is manageable. Need to remind all new Security Officers to delay any investigations into kidnappings. We don't need to rouse further hysteria into the ridiculous notion that Synths are replacing our citizenry. Why, there could be a panic at a critical moment. What if Super Mutants attacked, and people were more concerned about "Who is a Synth" than protecting our city? No. This kind of talk needs to be suppressed as the sedition it really is.</Source>
-      <Dest>Zločin ve městě je zvladatelný. Je potřeba připomenout všem novým členům ostrahy, aby odložili vyšetřování únosů. Nepotřebujeme budit další šílené představy, že syntetici nahrazují naše občany. Mohlo by dojít k panice v kritickém momentě. Co když zaútočí supermutanti a lidé budou mít spíše obavy "Kdo je syntetik", než o ochranu našeho města? Ne. Tento druh řečí, jenž je pouhým pobuřováním, musí být potlačen.</Dest>
+      <Dest>Zločin ve městě je zvladatelný. Je potřeba připomenout všem novým členům ostrahy, aby odložili vyšetřování únosů. Nepotřebujeme budit další šílené představy, že syntetici nahrazují naše občany. Mohlo by dojít k panice v kritickém momentě. Co když zaútočí supermutanti a lidé budou mít spíše obavy o tom, „Kdo je syntetik?“, než o ochraně našeho města? Ne. Tento druh řečí, jenž je pouhým pobuřováním, musí být potlačen.</Dest>
     </String>
     <String List="0" sID="02B506">
       <EDID>DN010_PlayerHouse_Ruin_Dresser02</EDID>
@@ -3199,13 +3199,13 @@ Ochutnávka: $5 </Dest>
       <EDID>DN010_HolotapeMayorWife</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Boston Shelter - Where are you?</Source>
-      <Dest>Bostonstký úkryt - Kde jsi?</Dest>
+      <Dest>Bostonský úkryt - Kde jsi?</Dest>
     </String>
     <String List="0" sID="02B566">
       <EDID>DmndMayorTerminal_AppointmentSubMenu</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Note to Geneva: Please be sure to send any couriers from Mister Ayo into my office as soon as they arrive. Also, our usual need for discretion in city affairs goes double for this matter.</Source>
-      <Dest>Zpráva pro Genevu: Prosím pošli do mé kanceláře jakékoliv poslíčky od pana Ayo, jakmile dorazí. Naše míra diskrétnosti pro městské záležitosti je v tomto případě dvojnásobná.</Dest>
+      <Dest>Zpráva pro Genevu: Prosím, pošlete do mé kanceláře jakékoliv poslíčky od pana Ayo, jakmile dorazí. Naše míra diskrétnosti pro městské záležitosti je v tomto případě dvojnásobná.</Dest>
     </String>
     <String List="0" sID="02B65E">
       <EDID>DefaultTerminalConsoleTallOn</EDID>
@@ -3239,7 +3239,7 @@ Ochutnávka: $5 </Dest>
 "The City Council Meetings are suspended for the meantime until there is an emergency. The Council expresses full confidence in the Mayor's ability to handle all city business."</Source>
       <Dest>Zpráva pro Genevu: Odstraňte z mého harmonogramu veškeré schůze rady v dohledné budoucnosti. Viz záznam z minulého zasedání:&#xD;
 &#xD;
-"Schůze městské rady jsou prozatím pozastaveny, pokud se nebude jednat o výjimečnou situaci. Rada vyjádřila plnou důvěru ve starostovy schopnosti postarat se o městské záležitosti."</Dest>
+„Schůze městské rady jsou prozatím pozastaveny, pokud se nebude jednat o výjimečnou situaci. Rada vyjádřila plnou důvěru ve starostovy schopnosti postarat se o městské záležitosti.“</Dest>
     </String>
     <String List="0" sID="02B714">
       <EDID>DmndMayorTerminal_CitySubMenu</EDID>
@@ -3253,15 +3253,15 @@ And while the paper might point their fingers at synths and other ghost stories 
 I. Am not. A Synth. I am the same flesh and blood boy who grew on these streets. Who was born in a shack just down the waterfront to Martha and Patrick McDonough. And I will not abandon my city due to the heinous allegations of the press. &#xD;
 &#xD;
 God bless this city. God bless the Wall!"</Source>
-      <Dest>Zpráva pro Genevu: Současný návrh mojí řeči. Tohle by mělo uklidnit smýšlení lidí. Tím jsem si jistý.&#xD;
+      <Dest>Zpráva pro Genevu: Současný návrh mojí řeči. Tohle by mělo uklidnit smýšlení lidí. Tím si jsem jistý.&#xD;
 &#xD;
-"Diamond City zůstává sjednoceno po více než 150 let. A v jednotě nás drží dvě věci. Zaprvé, velký zelený strážce zamnou. Zeď. Náš ochránce a spasitel před svinstvem venku. A zadruhé, je to naše důvěra jeden v druhého. Důvěra, která nám poskytla prosperitu, bezpečnost, a vzdělání pro každého občana. &#xD;
+„Diamond City zůstává sjednoceno po více než 150 let. A v jednotě nás drží dvě věci. Zaprvé, velký zelený strážce za mnou. Zeď. Náš ochránce a spasitel před svinstvem venku. A zadruhé, je to naše důvěra jeden v druhého. Důvěra, která nám poskytla prosperitu, bezpečnost a vzdělání pro každého občana. &#xD;
 &#xD;
 A zatímco noviny ukazují prsty na syntetiky a další duchařské příběhy, aby nás rozdělili, my nezradíme tuto posvátnou důvěru. Chci, aby každý pečlivě poslouchal následující slova. &#xD;
 &#xD;
 Já. Nejsem. Syntetik. Jsem stejný kluk z masa a kostí, který vyrůstal v těchto ulicích. Který se narodil v chatrči na nábřeží Martě a Patrickovi McDonoughovým. A neopustím své město kvůli ohavným nařčením tisku. &#xD;
 &#xD;
-Bůh žehnej tomuto městu. Bůh žehnej zdi!"</Dest>
+Bůh žehnej tomuto městu. Bůh žehnej zdi!“</Dest>
     </String>
     <String List="0" sID="02B717">
       <EDID>DemolitionExpert04</EDID>
@@ -3277,7 +3277,7 @@ Bůh žehnej tomuto městu. Bůh žehnej zdi!"</Dest>
 If she continues to press on this Institute crusade of hers, there will be consequences. We need some way to curtail the paper's popularity with the people. That poison she's selling is turning everyone against each other, and I won't have it.</Source>
       <Dest>Zpráva pro Genevu: PIPER ZA ŽÁDNÝCH OKOLNOSTÍ NESMÍ DO TÉTO KANCELÁŘE!&#xD;
 &#xD;
-Když bude nadále tlačit s její křížovou výpravou proti Institutu, ponese si následky. Potřebujeme nějakým způsobem omezit popularitu těchto novin mezi lidmi. Ten jed, který prodává, poštvává všechny proti sobě a já to tak nenechám.</Dest>
+Když bude nadále tlačit s její křížovou výpravou proti Institutu, ponese následky. Potřebujeme nějakým způsobem omezit popularitu těchto novin mezi lidmi. Ten jed, který prodává, poštvává všechny proti sobě a já to tak nenechám.</Dest>
     </String>
     <String List="0" sID="02B804">
       <EDID>DN010_HolotapeMayor</EDID>
@@ -3339,7 +3339,7 @@ Když bude nadále tlačit s její křížovou výpravou proti Institutu, ponese
       <Source>Security has petitioned me again about gaining control of the Water Purifier. They don't believe Sheng Kawolski is up to the task. Nonsense, I say! The boy may be young, but free enterprise is an important part of our Diamond City way of life, and I won't have him interferred with.&#xD;
 &#xD;
 Yes, his concern for safety regulation is a bit... lapsed. But that can be dealt with in the usual ways.</Source>
-      <Dest>Bezpečnostní mě opět žádá o udělení kontroly nad čističkou vody. Nevěří, že Sheng Kawolski, na tento úkol stačí. Říkám, že je to nesmysl! Ten kluk je možná mladý, ale svobodné podnikání je důležitou částí našeho životního stylu, a nenechám nikoho se mu do toho plést.&#xD;
+      <Dest>Bezpečnostní mě opět žádá o udělení kontroly nad čističkou vody. Nevěří, že Sheng Kawolski na tento úkol stačí. Říkám, že je to nesmysl! Ten kluk je možná mladý, ale svobodné podnikání je důležitou částí našeho životního stylu, a nenechám nikoho se mu do toho plést.&#xD;
 &#xD;
 Ano, jeho starost o bezpečnostní směrnice je trochu... slabší. Ale s tím se můžeme vypořádat normální cestou.</Dest>
     </String>
@@ -3371,7 +3371,7 @@ Ano, jeho starost o bezpečnostní směrnice je trochu... slabší. Ale s tím s
       <EDID>DmndMayorTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>Note to Geneva: I have been informed that the man living in the mostly abandoned West Stands has left Diamond City, and will not be returning. Please go through the usual foreclosure procedures, then put a copy of his house keys in the safe.</Source>
-      <Dest>Zpráva pro Genevu: Byl jsem informován, že muž žijící v povětšinou opuštěných západních tribunách opustil Diamond City, a nevrátí se. Prosím proveďte obvyklou uzavírací proceduru, poté uložte kopii jeho klíčů do trezoru.</Dest>
+      <Dest>Zpráva pro Genevu: Byl jsem informován, že muž žijící v povětšinou opuštěných západních tribunách opustil Diamond City a nevrátí se. Prosím, proveďte obvyklou uzavírací proceduru, poté uložte kopii jeho klíčů do trezoru.</Dest>
     </String>
     <String List="0" sID="02BA98">
       <EDID>DisallowedCompanionFaction</EDID>
@@ -3385,9 +3385,9 @@ Ano, jeho starost o bezpečnostní směrnice je trochu... slabší. Ale s tím s
       <Source>Note to Geneva: Please respond to any petitioners about "fixing" Takahashi with this prepared statement.&#xD;
 &#xD;
 "Takahashi is a Diamond City cultural institution, and the Mayor's Office will not be responding to any notion that he is in need of repairs. While we understand that not everyone understands him as well as a born-and-bred Diamond City resident, we cannot allow such an iconic figure of our great city to be altered in any way."</Source>
-      <Dest>Zpráva pro Genevu: Prosím odpovězte jakýmkoliv žadatelům o "opravu" Takahashiho tímto připraveným prohlášením.&#xD;
+      <Dest>Zpráva pro Genevu: Prosím, odpovězte jakýmkoliv žadatelům o „opravu“ Takahashiho tímto připraveným prohlášením.&#xD;
 &#xD;
-"Takahashi patří ke kulturní instituci Diamond City a starostův úřad nebude odpovídat na jakékoliv domněnky, že vyžaduje opravu. Ačkoliv chápeme, že ne každý mu rozumí, rodáky a odchovance Diamond City nevyjímaje, nemůžeme dopustit, aby taková ikona našeho skvělého města, byla jakkoliv pozměněna."</Dest>
+„Takahashi patří ke kulturní instituci Diamond City a starostův úřad nebude odpovídat na jakékoliv domněnky, že vyžaduje opravu. Ačkoliv chápeme, že ne každý mu rozumí, rodáky a odchovance Diamond City nevyjímaje, nemůžeme avšak dopustit, aby taková ikona našeho skvělého města, byla jakkoliv pozměněna.“</Dest>
     </String>
     <String List="0" sID="02BB14">
       <EDID>DefaultTerminalConsoleOn</EDID>
@@ -3587,7 +3587,7 @@ Genetický ústav Greenetech&#xD;
       <EDID>DBTech_Armor_Highschool_Jacket</EDID>
       <REC>ARMO:FULL</REC>
       <Source>DB Tech Varsity Uniform</Source>
-      <Dest>Školní uniforma z DB průmyslové</Dest>
+      <Dest>Školní uniforma z průmyslovky D.B.</Dest>
     </String>
     <String List="0" sID="02EC72">
       <EDID>DeafnessPoisonEffect</EDID>
@@ -3687,7 +3687,7 @@ Genetický ústav Greenetech&#xD;
 NOTICE: Security Lockdown Currently in effect.&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================              Podsystém sterilní místnosti              =&#xD;
+      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
 ==================================================&#xD;
 UPOZORNĚNÍ: Bezpečnostní uzávěry nyní aktivní.&#xD;
 &#xD;
@@ -3724,7 +3724,7 @@ I love you and I know you can do this.&#xD;
       <Dest>Odesílatel:[J.Elwood]&#xD;
 &gt;&gt; Důvěrné&#xD;
 &#xD;
-Eriko, odeslal jsem týmu vysvětlení, ale potřebuji, abys věděla, o co skutečně jde. Nech si to prosím jen pro sebe, mohlo by to rozšířit paniku. Dnes ráno jsem obdržel telefonát od plk. Kempa a řekl mi, ať udržím tým v laboratoři, ale než jsem mu mohl začít klást otázky, zavěsil. Zvuk, který jste slyšeli venku, byl výbuch atomové bomby. Vypadá to, že dopadla jihozápadně od města. Telefonní linky jsou zablokované, našel jsem způsob jak kontaktovat Kempovu spojku a informoval nás, že nás mohou převézt do bezpečí pouze v případě, že máme zásadní vojenské prostředky, nebo informace. Proto je nutné ten projekt dokončit.&#xD;
+Eriko, odeslal jsem týmu vysvětlení, ale potřebuji, abys věděla, o co skutečně jde. Nech si to prosím jen pro sebe, mohlo by to rozšířit paniku. Dnes ráno jsem obdržel telefonát od plk. Kempa a řekl mi, ať udržím tým v laboratoři, ale než jsem mu mohl začít klást otázky, zavěsil. Zvuk, který jste slyšeli venku, byl výbuch atomové bomby. Vypadá to, že dopadla jihozápadně od města. Telefonní linky jsou zablokované, našel jsem způsob jak kontaktovat Kempovu spojku a informoval nás, že nás mohou převézt do bezpečí pouze v případě, že máme zásadní vojenské prostředky nebo informace. Proto je nutné ten projekt dokončit.&#xD;
 &#xD;
 Miluji tě a vím, že to dokážeš.&#xD;
 -Jon</Dest>
@@ -3768,7 +3768,7 @@ Miluji tě a vím, že to dokážeš.&#xD;
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =      Systém sterilní místnosti                =&#xD;
+=================================================                      =           Systém sterilní místnosti           =&#xD;
 =================================================&#xD;
 &#xD;
 </Dest>
@@ -3782,7 +3782,7 @@ Miluji tě a vím, že to dokážeš.&#xD;
 Wilfred, do you think I wouldn't catch on to what you're doing? I got a network alert the moment you took control of the Isotope Containment. You may have been the best hacker on campus back at CIT, but that was years ago and while you were busy up in Alaska, pretending to be a soldier, we had the best programmers working on our security system. I told you weeks ago that I'll let you all out of the lab once the research is completed. Locking Ericka and the rest of the team out of the Isotope Containment just to spite me doesn't accomplish anything.&#xD;
 &#xD;
 - Director Elwood</Source>
-      <Dest>Odesilatel: [J.Elwood]&#xD;
+      <Dest>Odesílatel: [J.Elwood]&#xD;
 &gt;&gt; Hackující admin&#xD;
 &#xD;
 Wilfrede, myslíš, že bych nepřišel na to, co děláš? Dostal jsem síťové upozornění ve chvíli, kdy si převzal kontrolu nad izolací izotopů. Možná si býval nejlepší hacker na univerzitě CIT, ale to bylo před lety, a zatímco ty sis na Aljašce hrál na vojáka, nejlepší programátoři vytvářeli náš bezpečnostní systém. Před několika týdny jsem ti řekl, že ti umožním přístup do celé laboratoře, až bude výzkum dokončen. Uzamčením izolace izotopů před Erikou a zbytkem týmu, jen abys mě popudil, ničeho nedosáhneš.&#xD;
@@ -3799,7 +3799,7 @@ SYSTEM ERROR: Breach detected in containment, please use extreme caution.&#xD;
 &#xD;
 Local controls can be found in containment lab C5.</Source>
       <Dest>===================================================        Systém izolace izotopů   =&#xD;
-=       Současný stav: Zapojeno místní ovládání    =&#xD;
+=    Současný stav: Zapojeno místní ovládání     =&#xD;
 ==================================================&#xD;
 SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím buďte nanejvýš opatrní.&#xD;
 &#xD;
@@ -3809,7 +3809,7 @@ Místní ovládání se nachází v izolační laboratoři C5.</Dest>
       <EDID>DN015_BergmanSubTerminalAdmin</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Isotope Containment</Source>
-      <Dest>Izolace isotopů</Dest>
+      <Dest>Izolace izotopů</Dest>
     </String>
     <String List="0" sID="02F664">
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
@@ -3830,7 +3830,7 @@ Místní ovládání se nachází v izolační laboratoři C5.</Dest>
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================       &lt;Přihlášený uživatel "Dr. Wil Bergman"&gt;       =&#xD;
+      <Dest>===================================================     &lt;Uživatel „Dr. Wil Bergman“ přihlášen&gt;     =&#xD;
 ==================================================&#xD;
 &#xD;
 </Dest>
@@ -3845,7 +3845,7 @@ Místní ovládání se nachází v izolační laboratoři C5.</Dest>
 &#xD;
 Access locked by user &lt;W.Bergman&gt;</Source>
       <Dest>===================================================            OBRANNÉ SYSTÉMY ZAŘÍZENÍ            =&#xD;
-=        Současný stav: Zařízení zabezpečeno         =&#xD;
+=      Současný stav: Zařízení zabezpečeno       =&#xD;
 ==================================================&#xD;
                ::::CHYBA SYSTÉMU::::&#xD;
 &#xD;
@@ -3907,8 +3907,8 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================             Přenos vnitřní pošty                =&#xD;
-=        &lt;Přihlášený uživatel "E.ElwoodWoolum"&gt;       =&#xD;
+      <Dest>===================================================              Přenos vnitřní pošty              =&#xD;
+=     &lt;Uživatel „E.ElwoodWoolum“ přihlášen&gt;      =&#xD;
 ==================================================&#xD;
 &#xD;
 </Dest>
@@ -3929,7 +3929,7 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
       <EDID>DN015_CleanRoomTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>   -= Property of Cambridge Polymer Labs =-</Source>
-      <Dest>   -= Majetek Cambridgských polymerních laboratoří =-</Dest>
+      <Dest>-= Majetek Cambridgeských polymerních laboratoří =-</Dest>
     </String>
     <String List="0" sID="02FAAF">
       <EDID>DN015_CleanRoomTerminal</EDID>
@@ -3944,11 +3944,11 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =     Systém sterilní místnosti                 =&#xD;
+=================================================                      =           Systém sterilní místnosti           =&#xD;
 =================================================&#xD;
 &#xD;
      Momentálně probíhá dekontaminační sekvence&#xD;
-            Prosím vstupte do sterilní místnosti&#xD;
+        Prosím, vstupte do sterilní místnosti&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -3960,7 +3960,7 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================                   Uživatelské záznamy                    =&#xD;
+      <Dest>===================================================              Uživatelské záznamy               =&#xD;
 ==================================================&#xD;
 &#xD;
 </Dest>
@@ -3983,7 +3983,7 @@ Wil, this is insane! Even if you manage to hack into the administrative controls
       <Dest>Odesílatel: [E.ElwoodWoolum]&#xD;
 &gt;&gt; Izolace izotopů&#xD;
  &#xD;
-Wile, tohle je šílené! I když se ti podaří nabourat se do administrativního ovládání, víš, co se stane, pokud spustíš bezpečnostní protokoly? Ano, dveře skrze sterilní místnost se otevřou, ale první co jimi projde, bude vlna robotů k likvidaci všech žijících "Narušitelů" v laboratoři! A pokud se nám podaří přes ně dostat, jsou tam také věže. Jedna je přímo zde v laboratoři, vzpomínáš? Pokud to uděláš, je mnohem pravděpodobnější, že nás všechny zabiješ, než osvobodíš!&#xD;
+Wile, tohle je šílené! I když se ti podaří nabourat se do administrativního ovládání, víš, co se stane, pokud spustíš bezpečnostní protokoly? Ano, otevřou se dveře skrze sterilní místnost, ale první, co jimi projde, bude vlna robotů k likvidaci všech žijících „narušitelů“ v laboratoři! A pokud se nám podaří přes ně dostat, jsou tam také věže. Jedna je přímo zde v laboratoři, vzpomínáš? Pokud to uděláš, je mnohem pravděpodobnější, že nás všechny zabiješ, než že nás osvobodíš!&#xD;
 &#xD;
 -Erika</Dest>
     </String>
@@ -4007,8 +4007,8 @@ Wile, tohle je šílené! I když se ti podaří nabourat se do administrativní
 =================================================&#xD;
 &#xD;
 </Source>
-      <Dest>=================================================                        =            Přenos vnitřní pošty                =&#xD;
-=       &lt;Přihlášený uživatel "W.Bergman"&gt;            =&#xD;
+      <Dest>=================================================                        =             Přenos vnitřní pošty              =&#xD;
+=       &lt;Přihlášený uživatel "W.Bergman"&gt;       =&#xD;
 =================================================&#xD;
 &#xD;
 </Dest>
@@ -4053,10 +4053,10 @@ I'm not letting Jon play tyrant any longer. The isotope containment is leaking a
 &#xD;
 We're fighting our way out and then I'll deal with your husband.&#xD;
 - Wil</Source>
-      <Dest>16.1.2078 04:17     Odesílatel:[W.Bergman]&#xD;
+      <Dest>16. 1. 2078 04:17     Odesílatel:[W.Bergman]&#xD;
 &gt;&gt; Dostanu nás ven&#xD;
 &#xD;
-Nenechám Jona hrát si dále na samovládce. Z izolace izotopů uniká radiace a on nás stále drží uvnitř. Dostal jsem se skrz jeho vylepšený bezpečnostní podprogram a je jen otázkou času, než získám kontrolu nad obranným systémem. Je tak zaneprázdněn zamezením mi přístupu k ovládání sterilní místnosti, že si pravděpodobně neuvědomil, že při spuštění zásahu proti narušení bezpečnosti zařízení se všechny dveře otevřou, aby umožnili přístup robotům.&#xD;
+Nenechám Jona hrát si dále na samovládce. Z izolace izotopů uniká radiace a on nás stále drží uvnitř. Dostal jsem se skrz jeho vylepšený bezpečnostní podprogram a je jen otázkou času, než získám kontrolu nad obranným systémem. Je tak zaneprázdněn zamezením mého přístupu k ovládání sterilní místnosti, že si pravděpodobně neuvědomil, že při spuštění zásahu proti narušení bezpečnosti zařízení se všechny dveře otevřou, aby umožnili přístup robotům.&#xD;
 &#xD;
 Probojujeme se ven a pak se vypořádám s tvým mužem.&#xD;
 - Wil</Dest>
@@ -4071,8 +4071,8 @@ Probojujeme se ven a pak se vypořádám s tvým mužem.&#xD;
 &#xD;
 &#xD;
 </Source>
-      <Dest>===================================================           OBRANNÝ SYSTÉM ZAŘÍZENÍ             =&#xD;
-=    !! Současný stav: NARUŠENÍ BEZPEČNOSTI !!       =&#xD;
+      <Dest>===================================================            OBRANNÝ SYSTÉM ZAŘÍZENÍ             =&#xD;
+=   !! Současný stav: NARUŠENÍ BEZPEČNOSTI !!    =&#xD;
 ==================================================&#xD;
 &#xD;
 &#xD;
@@ -4098,7 +4098,7 @@ Probojujeme se ven a pak se vypořádám s tvým mužem.&#xD;
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================         Projekt jaderného vyztužení         =&#xD;
+      <Dest>===================================================          Projekt jaderného vyztužení           =&#xD;
 ==================================================&#xD;
 &#xD;
 </Dest>
@@ -4159,7 +4159,7 @@ Funkce momentálně nedostupná z důvodu bezpečnostní uzavírky.</Dest>
       <EDID>DN015_DirectorsSubTerminalLogs</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Just got a very strange call from Col. Kemp. He asked what the status on the project was and when I explained that we were still behind schedule he didn't seem angry like he normally would. All he said was that it was very important that I keep the team working in the lab today and that I contact him as soon as the project was complete. It almost feels like he was trying to tell me something but I can't imagine what.</Source>
-      <Dest>Právě jsem měl velmi zvláštní telefonát s plk. Kempem. Ptal se, jaký je stav projektu a když jsem mu vysvětlil, že jsme stále pozadu za plánem, nezdál se rozčilený jako by obvykle byl. Řekl jen, že je velmi důležité, abych dnes udržel tým pracovat v laboratoři a kontaktoval ho, jakmile bude projekt dokončen. Skoro mám pocit, jako by se mi snažil něco sdělit, ale nemám zdání co.</Dest>
+      <Dest>Právě jsem měl velmi zvláštní telefonát s plk. Kempem. Ptal se, jaký je stav projektu, a když jsem mu vysvětlil, že jsme stále pozadu za plánem, nezdál se rozčilený, jako by obvykle byl. Řekl jen, že je velmi důležité, abych dnes udržel tým pracovat v laboratoři a kontaktoval ho, jakmile bude projekt dokončen. Skoro mám pocit, jakoby se mi snažil něco sdělit, ale nemám zdání co.</Dest>
     </String>
     <String List="0" sID="02FF27">
       <EDID>DN015_BergmanTerminal</EDID>
@@ -4175,11 +4175,8 @@ Funkce momentálně nedostupná z důvodu bezpečnostní uzavírky.</Dest>
 &#xD;
 &#xD;
 </Source>
-      <Dest>===================================================            Administrativní ovládání             =&#xD;
-==================================================&#xD;
-&#xD;
-&#xD;
-</Dest>
+      <Dest>===================================================            Administrativní ovládání            =&#xD;
+==================================================</Dest>
     </String>
     <String List="0" sID="02FFE8">
       <EDID>DN015_ErickaTerminal</EDID>
@@ -4213,7 +4210,7 @@ Funkce momentálně nedostupná z důvodu bezpečnostní uzavírky.</Dest>
                ::::SYSTEM ERROR::::&#xD;
 &#xD;
 Access locked by user &lt;J.Elwood&gt;</Source>
-      <Dest>===================================================              Podsystém sterilní místnosti              =&#xD;
+      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
 ==================================================&#xD;
                ::::SYSTÉMOVÁ CHYBA::::&#xD;
 &#xD;
@@ -4237,7 +4234,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =     Systém sterilní místnosti                 =&#xD;
+=================================================                      =           Systém sterilní místnosti           =&#xD;
 =================================================&#xD;
 &#xD;
 &#xD;
@@ -4255,13 +4252,9 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 &#xD;
 &#xD;
 </Source>
-      <Dest>===================================================           OBRANNÝ SYSTÉM ZAŘÍZENÍ             =&#xD;
-=       Současný stav: Zařízení zabezpečeno          =&#xD;
-==================================================&#xD;
-&#xD;
-&#xD;
-&#xD;
-</Dest>
+      <Dest>===================================================            OBRANNÝ SYSTÉM ZAŘÍZENÍ             =&#xD;
+=      Současný stav: Zařízení zabezpečeno       =&#xD;
+==================================================</Dest>
     </String>
     <String List="0" sID="03011C">
       <EDID>DialogueGoodneighborRufus</EDID>
@@ -4282,7 +4275,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================     &lt;Přihlášený uživatel "Director Jon Elwood"&gt;     =&#xD;
+      <Dest>===================================================   &lt;Uživatel „Ředitel Jon Elwood“ přihlášen&gt;    =&#xD;
 ==================================================&#xD;
 &#xD;
 </Dest>
@@ -4306,7 +4299,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================   &lt;Přihlášený uživatel "Dr. Erika Elwood-Woolum"&gt;  =&#xD;
+      <Dest>=================================================== &lt;Uživatel „Dr. Erika Elwoodová Woolumová“ přihlášen&gt; =&#xD;
 ==================================================</Dest>
     </String>
     <String List="0" sID="0302B8">
@@ -4335,9 +4328,9 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 All Lockdown overrides cleared.&#xD;
 &#xD;
 Defense systems set to kill on sight.</Source>
-      <Dest>Stav nastaven na narušení bezpečnosti.&#xD;
+      <Dest>Stav nastaven na Narušení bezpečnosti.&#xD;
 &#xD;
-Ruční ovládání uzávěr uvolněno.&#xD;
+Ruční ovládání uzávěrů uvolněno.&#xD;
 &#xD;
 Obranné systémy nastaveny k zabití na potkání.</Dest>
     </String>
@@ -4345,7 +4338,7 @@ Obranné systémy nastaveny k zabití na potkání.</Dest>
       <EDID>DN015_ErickaTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Ericka's Terminal</Source>
-      <Dest>Eriččin terminál</Dest>
+      <Dest>Eričin terminál</Dest>
     </String>
     <String List="0" sID="03044E">
       <EDID>DN015_AdminSubTerminalIsotope</EDID>
@@ -4368,7 +4361,7 @@ Laboratory should be evactuated until repairs can be made. Protective gear shoul
 &#xD;
 ZJIŠTĚN PRŮLOM V IZOLOVANÉ OBLASTI&#xD;
 &#xD;
-Laboratoř by měla být evakuována, dokud nebudou provedeny opravy. Ochranné vybavení by mělo být využito po celou dobu.</Dest>
+Laboratoř by měla být evakuována, dokud nebudou provedeny opravy. Ochranné vybavení by mělo být užito po celou dobu.</Dest>
     </String>
     <String List="0" sID="03046E">
       <EDID>DeathclawBodyPartData</EDID>
@@ -4386,7 +4379,7 @@ Laboratoř by měla být evakuována, dokud nebudou provedeny opravy. Ochranné 
       <EDID>DN015_DirectorsSubTerminalAdmin</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Isotope Containment</Source>
-      <Dest>Izolace isotopů</Dest>
+      <Dest>Izolace izotopů</Dest>
     </String>
     <String List="0" sID="0304D0">
       <EDID>DN015_AdminSubTerminalIsotope</EDID>
@@ -4401,7 +4394,7 @@ SYSTEM ERROR: Breach detected in containment, please use extreme caution.&#xD;
       <Dest>===================================================        Systém izolace izotopů   =&#xD;
 =       Současný stav: UZAMČENÍ AKTIVNÍ   =&#xD;
 ==================================================&#xD;
-SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím buďte nanejvýš opatrní.&#xD;
+SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím, buďte nanejvýš opatrní.&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -4414,8 +4407,8 @@ SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím buďte nanejvýš opatrn
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================              Přenos vnitřní pošty                =&#xD;
-=          &lt;Přihlášený uživatel "J.Elwood"&gt;           =&#xD;
+      <Dest>===================================================              Přenos vnitřní pošty              =&#xD;
+=        &lt;Uživatel „J.Elwood“ přihlášen&gt;         =&#xD;
 ==================================================</Dest>
     </String>
     <String List="0" sID="03050F">
@@ -4425,10 +4418,8 @@ SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím buďte nanejvýš opatrn
 ==================================================&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================            Administrativní ovládání             =&#xD;
-==================================================&#xD;
-&#xD;
-</Dest>
+      <Dest>===================================================            Administrativní ovládání            =&#xD;
+==================================================</Dest>
     </String>
     <String List="0" sID="030511">
       <EDID>DN015_AdminSubTerminalDefense</EDID>
@@ -4460,9 +4451,9 @@ SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím buďte nanejvýš opatrn
       <Source>Initial studies have lead us to hypothosize that by taking a known piezoelectric material, Lead Zirconium Titanite (PZT), and properly applying a polymer of Gold and Lithium Hydride that a localized conversion of ionizing radiation to electrical energy might be achieved. This method of compact energy harvest may prove suitable for application to preexisting Power Armor currently in use by US armed forces.&#xD;
 &#xD;
 -Dr. Ericka Elwood-Woolum D.Eng</Source>
-      <Dest>Prvotní studie nás vedly k hypotéze, že při použití známého piezoelektrického materiálu, zirkon-titaničitanu olovnatého (PZT) a vhodně aplikovaného polymeru zlata a hydridu lithného, může být dosaženo lokální konverze ionizujícího záření na elektrickou energii. Tato kompaktní metoda sběru energie může být vhodná k použití na energozbrojích současně používaných ozbrojenými složkami US.&#xD;
+      <Dest>Prvotní studie nás vedly k hypotéze, že při použití známého piezoelektrického materiálu, zirkon-titaničitanu olovnatého (PZT), a vhodně aplikovaného polymeru zlata a hydridu lithného může být dosaženo lokální konverze ionizujícího záření na elektrickou energii. Tato kompaktní metoda sběru energie může být vhodná k použití na energozbrojích současně používaných ozbrojenými složkami Spojených států.&#xD;
 &#xD;
--Dr. Erika Elwood-Woolum D.Eng</Dest>
+-Dr. Erika Elwoodová Woolumová, D.Eng.</Dest>
     </String>
     <String List="0" sID="0305E2">
       <EDID>Deliverer</EDID>
@@ -4489,7 +4480,7 @@ Some system functions may be unavailable at this time.&#xD;
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =     Systém sterilní místnosti                 =&#xD;
+=================================================                      =           Systém sterilní místnosti           =&#xD;
 =================================================&#xD;
 &#xD;
     ! PROBÍHÁ BEZPEČNOSTNÍ UZAVÍRKA !&#xD;
@@ -4519,8 +4510,8 @@ Některé funkce systému mohou být momentálně nedostupné.&#xD;
                ::::SYSTEM ERROR::::&#xD;
 &#xD;
 Access locked by user &lt;W.Bergman&gt;</Source>
-      <Dest>===================================================           Systém izolace izotopů           =&#xD;
-=       Současný stav: UZAMČENÍ AKTIVNÍ         =&#xD;
+      <Dest>===================================================             Systém izolace izotopů             =&#xD;
+=        Současný stav: UZAMČENÍ AKTIVNÍ         =&#xD;
 ==================================================&#xD;
                ::::CHYBA SYSTÉMU::::&#xD;
 &#xD;
@@ -4545,13 +4536,13 @@ I'm getting us out of here, you son of a bitch. Do you hear me Jon? You may have
 &gt;&gt; Dostanu nás ven&#xD;
 &#xD;
 &#xD;
-Dostanu nás odtud, ty sráči. Slyšíš mě Jone? Možná si měl konexe k založení této společnosti, ale vždy jsem byl lepší hacker. Pokud nás nepustíš, nedáváš mi jinou možnost, než spustit automatické obranné systémy. Budeme se muset probojovat ven a Erika během toho může být raněna, opravdu tohle chceš?</Dest>
+Dostanu nás ven, ty sráči. Slyšíš mě, Jone? Možná si měl konexe k založení této společnosti, ale vždy jsem byl lepší hacker. Pokud nás nepustíš, nedáváš mi jinou možnost, než spustit automatické obranné systémy. Budeme se muset probojovat ven a Erika během toho může být raněna, opravdu tohle chceš?</Dest>
     </String>
     <String List="0" sID="030730">
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>   -= Property of Cambridge Polymer Labs =-</Source>
-      <Dest>   -= Majetek Cambridgských polymerních laboratoří =-</Dest>
+      <Dest>-= Majetek Cambridgeských polymerních laboratoří =-</Dest>
     </String>
     <String List="0" sID="030734">
       <EDID>DN015_BergmanSubTerminalOldMail</EDID>
@@ -4566,8 +4557,8 @@ Server Error: Backups cannot be restored at this time&#xD;
 [L.Reed] - Can't cut through&#xD;
 [J.Harvey] - I'm with you&#xD;
 [M.Goodman] - About the new dosing pattern</Source>
-      <Dest>=================================================                                               =             Smazaná pošta                 =&#xD;
-=       &lt;Přihlášený uživatel "W.Bergman"&gt;            =&#xD;
+      <Dest>=================================================                                               =                 Smazaná pošta                 =&#xD;
+=       &lt;Uživatel „W.Bergman“ přihlášen&gt;        =&#xD;
 =================================================&#xD;
 Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
 &#xD;
@@ -4593,7 +4584,7 @@ Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
       <EDID>DN015_BergmanLabDoorTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>   -= Property of Cambridge Polymer Labs =-</Source>
-      <Dest>   -= Majetek Cambridgských polymerních laboratoří =-</Dest>
+      <Dest>-= Majetek Cambridgeských polymerních laboratoří =-</Dest>
     </String>
     <String List="0" sID="030A14">
       <EDID>DN015_Armor_Power_Torso</EDID>
@@ -4608,9 +4599,9 @@ Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
 &#xD;
 Closest reserves are the Federal Stockpile but it seems Lily and Red Tourette's parents never taught those bitches to share. Gonna have to make a move if we don't hear from Sparta soon.&#xD;
 </Source>
-      <Dest>Parta už je netrpělivá. Pořád máme dost piva, ale dochází nám jídlo. Vyslal jsem Spartu a její bandu z BADTFL, jestli se jim nepodaří něco najít, ale lidi začnou dezertovat pokud neseženeme brzy něco jedlého.&#xD;
+      <Dest>Parta už je netrpělivá. Pořád máme dost piva, ale dochází nám jídlo. Vyslal jsem Spartu a její bandu z BADTFL, jestli se jim nepodaří něco najít, ale lidi začnou dezertovat, pokud neseženeme brzy něco jedlého.&#xD;
 &#xD;
-Nejbližší zásoby jsou Federální rezervy, ale zdá se, že rodiče nenaučili Lily a Rudou Tourette sdílet. Bude třeba podniknout nějaké kroky, pokud se Sparta brzy neozve.&#xD;
+Nejbližší zásoby jsou Federální rezervy, ale zdá se, že rodiče nenaučili Lily a Rudou Tourette dělit se. Bude třeba podniknout nějaké kroky, pokud se Sparta brzy neozve.&#xD;
 </Dest>
     </String>
     <String List="0" sID="030A8B">
@@ -4625,7 +4616,7 @@ But this gang's dead in the water unless the food keeps coming in. And that mean
 &#xD;
 Zatímco byli všichni pryč, ukryl jsem Lilyino tělo do jedné z kádí. Zdá se, že dokonce vylepšila chuť. O jeden problém méně.&#xD;
 &#xD;
-Ale tenhle gang jde ke dnu, pokud se nám nepodaří zajistit přísun jídla. A to znamená, že Lily, musí dál posílat dopisy. Budu potřebovat víc propisek...</Dest>
+Ale tenhle gang jde ke dnu, pokud se nám nepodaří zajistit přísun jídla. A to znamená, že Lily musí dál posílat dopisy. Budu potřebovat víc propisek...</Dest>
     </String>
     <String List="0" sID="030A8E">
       <EDID>DN006_BossTerminal</EDID>
@@ -4647,7 +4638,7 @@ Ale tenhle gang jde ke dnu, pokud se nám nepodaří zajistit přísun jídla. A
 Now Red'll have to deal with us... unless she prefers getting her sister back in pieces.</Source>
       <Dest>Lily! To je zasraná Lily! Poznal bych tu štětku kdekoliv! Dreg přivedl rukojmí z nájezdu do mého pokoje a ve chvíli, kdy jsem ji uviděl, jsem věděl, že jsme zachráněni. &#xD;
 &#xD;
-Teď s námi Rudá bude muset jednat... pokud si nepřeje dostat svoji sestru zpět po kousíčkách.</Dest>
+Teď s námi Rudá bude muset jednat,... pokud si nepřeje dostat svoji sestru zpět po kousíčkách.</Dest>
     </String>
     <String List="0" sID="030AE3">
       <EDID>DN006_BossTerminal</EDID>
@@ -4673,9 +4664,9 @@ Teď s námi Rudá bude muset jednat... pokud si nepřeje dostat svoji sestru zp
       <Source>How the fuck did she get loose?! I chained that bitch to the fucking floor! Was still half asleep when she came at me. I thought I was aiming at her leg... now there's blood fucking everywhere. &#xD;
 &#xD;
 Got to clean this up, do something with the body. This can't get out. Red's not gonna give us shit if she finds out her sister's dead.</Source>
-      <Dest>Jak se kurva uvolnila?! Připoutal jsem tu štětku k tý zatracený podlaze! Pořád jsem napůl spal, když na mě vlítla. Myslel jsem, že jí mířím na nohu... teď je tu kurva všude krev. &#xD;
+      <Dest>Jak se, kurva, uvolnila?! Připoutal jsem tu štětku k tý zatracený podlaze! Pořád jsem napůl spal, když na mě vlítla. Myslel jsem, že jí mířím na nohu... teď je tu kurva všude krev. &#xD;
 &#xD;
-Musím to vyčistit, udělat něco s tělem. Tohle se nesmí dostat ven. Red nám leda tak nasere, když zjistí, že je její sestra mrtvá.</Dest>
+Musím to vyčistit, udělat něco s tělem. Tohle se nesmí dostat ven. Rudá nám leda tak nasere, když zjistí, že je její sestra mrtvá.</Dest>
     </String>
     <String List="0" sID="030BA9">
       <EDID>DN006_BossTerminal</EDID>
@@ -4693,7 +4684,7 @@ Musím to vyčistit, udělat něco s tělem. Tohle se nesmí dostat ven. Red ná
       <EDID>DN006_BossTerminal</EDID>
       <REC id="7">TERM:UNAM</REC>
       <Source>Seems somebody took down Jared. Much as I hated that chem-hungry bastard, he was no push-over. We're gonna need more guns.</Source>
-      <Dest>Zdá se, že někdo sundal Jareda. Přesto že jsem nesnášel toho závisláckého bastarda, nebyl žádné párátko. Budeme potřebovat víc zbraní.</Dest>
+      <Dest>Zdá se, že někdo sundal Jareda. Přesto, že jsem toho závisláckého bastarda nesnášel, nebyl žádné párátko. Budeme potřebovat víc zbraní.</Dest>
     </String>
     <String List="0" sID="030C00">
       <EDID>DN015_Armor_Power_Torso</EDID>
@@ -4733,13 +4724,13 @@ Musím to vyčistit, udělat něco s tělem. Tohle se nesmí dostat ven. Red ná
 Now the crates are pouring in and so are the recruits. At this rate we'll be able to make a move on Corvega or DB Tech before the year's out.</Source>
       <Dest>Nikdy jsem neviděl tolik jídla! Když jsem jí řekl, že máme její sestru, Rudá myslela, že kecám. Ale jeden dopis od malé ségry všechno rychle ujasnil. &#xD;
 &#xD;
-Teď k nám proudí bedny, stejně tak jako rekruti. Tímhle tempem budeme moci zaútočit na Corvegu, nebo D.B. průmyslovku před koncem roku.</Dest>
+Teď k nám proudí bedny, stejně tak jako rekruti. Tímhle tempem budeme moci zaútočit na Corvegu nebo průmyslovku D.B. před koncem roku.</Dest>
     </String>
     <String List="0" sID="030D2C">
       <EDID>DN006_BossTerminal</EDID>
       <REC id="6">TERM:UNAM</REC>
       <Source>Someone iced Red and her whole fucking crew! Gonna send out some scouts, make sure whoever cleared the place out ain't setting up shop. Then the stockpile's ours for the looting. Hope they didn't take too much.</Source>
-      <Dest>Někdo poslal Rudou a celou její zasranou bandu k ledu! Pošlu tam pár zvědů, ujistím se, že kdokoliv to místo vyčistil nerozjíždí obchod. Potom jsou rezervy naše k drancování. Doufám, že toho moc nevzali.</Dest>
+      <Dest>Někdo poslal Rudou a celou její zasranou bandu k ledu! Pošlu tam pár zvědů, ujistím se, že kdokoliv, kdo to místo vyčistil, nerozjíždí obchod. Potom jsou rezervy naše k drancování. Doufám, že toho moc nevzali.</Dest>
     </String>
     <String List="0" sID="030D3A">
       <EDID>DN006_BossTerminal</EDID>
@@ -4753,7 +4744,7 @@ Teď k nám proudí bedny, stejně tak jako rekruti. Tímhle tempem budeme moci 
       <Source>We tried to storm the stockpile but Lily, Red, and crew were dug in like ticks. Wiped out half our men before we could bolt. Dreg and Hook managed to grab a couple of hostages. Maybe we can trade them for a couple of snack cakes.&#xD;
 &#xD;
 Least now we got fewer mouths to feed.</Source>
-      <Dest>Zkoušeli jsme vtrhnout do rezerv, ale Lily, Rudá a jejich banda byli zavrtaní jak klíšťata. Sundali půlku našich lidí, než jsme stačili utéct. Dreg a Hook sebrali pár rukojmích. Možná, že je vyměníme za pár zákusků.&#xD;
+      <Dest>Zkoušeli jsme vtrhnout do rezerv, ale Lily, Rudá, a jejich banda byli zavrtaní jak klíšťata. Sundali půlku našich lidí, než jsme stačili utéct. Dreg a Hook sebrali pár rukojmích. Možná, že je vyměníme za pár zákusků.&#xD;
 &#xD;
 Alespoň teď máme méně hladových krků k nakrmení.</Dest>
     </String>
@@ -4761,7 +4752,7 @@ Alespoň teď máme méně hladových krků k nakrmení.</Dest>
       <EDID>DN006_BossTerminal</EDID>
       <REC id="8">TERM:UNAM</REC>
       <Source>Thank God. Someone put a bullet in Bosco over at DB Tech. Guy gave me the fucking creeps.</Source>
-      <Dest>Díky bohu. Někdo prohnal Boscovi hlavou kulku u D.B. průmyslovky. Ten chlap mě zasraně děsil.</Dest>
+      <Dest>Díky bohu. Někdo prohnal Boscovi hlavou kulku u průmyslovky D.B. Ten chlap mě zasraně děsil.</Dest>
     </String>
     <String List="0" sID="030DD5">
       <EDID>DmndPiperComplaintsSubterminal</EDID>
@@ -4788,10 +4779,10 @@ PUBLISHED RESPONSE: "Thank you for your feedback. Our stories are selected for r
 PERSONAL RESPONSE: Vadim, no story about your bar is going to end happily.</Source>
       <Dest>Záznam stížností Veřejných záležitostí&#xD;
 &#xD;
-DATUM - 14.4.&#xD;
-"Shledávám výběr témat smutným. Co takhle veselou historku? Možná o nějakém pěkném baru?"&#xD;
+DATUM - 14. 4.&#xD;
+„Shledávám výběr témat smutným. Co takhle veselou historku? Možná o nějakém pěkném baru?“&#xD;
 &#xD;
-ZVEŘEJNĚNÁ ODEZVA: "Děkujeme za vaši zpětnou vazbu. Naše příběhy jsou vybírány se zřetelem na význam a důležitost pro obyvatelstvo Diamond City."&#xD;
+ZVEŘEJNĚNÁ ODEZVA: „Děkujeme za vaši zpětnou vazbu. Naše příběhy jsou vybírány se zřetelem na význam a důležitost pro obyvatelstvo Diamond City.“&#xD;
 &#xD;
 OSOBNÍ ODEZVA: Vadime, žádný příběh o tvém baru neskončí šťastně.</Dest>
     </String>
@@ -4805,9 +4796,9 @@ So, as fortune often has it, I crossed paths with &lt;Alias=Player&gt;. Vault Dw
 Before we begin to answer that question, we have to know who &lt;Alias=Player&gt; is. Where &lt;Alias.Pronoun=Player&gt; comes from. In speaking to &lt;Alias.PronounObj=Player&gt;, &lt;Alias.Pronoun=Player&gt; stressed that &lt;Alias.PronounPos=Player&gt; time inside the Vault was normal. But what is normal for a Vault? This reporter knows that life behind the sealed gear doors of a Vault-Tec facility is supposed to be a bastion of the old world. A preservation of life before the bombs.&#xD;
 &#xD;
 Continued in Part 2.</Source>
-      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
 Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Z rozhovorů vím, že &lt;Alias.PronounPos=Player&gt; život ve vaultu byl normální. Ale co je normální pro vault? Jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by měl být baštou starého světa. Zachování života před bombami.&#xD;
 &#xD;
@@ -4841,13 +4832,13 @@ I asked &lt;alias=Player&gt; to make a statement to Diamond City. To give us an 
 END</Source>
       <Dest>Pokračování z části 2.&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie.  &#xD;
 &#xD;
-&lt;Alias=Player&gt; říká:"Najít toho, kdo je za to zodpovědný a donutit ho nést následky, tak snadné."&#xD;
+&lt;Alias=Player&gt; říká: „Najděte toho, kdo je za to zodpovědný a donuťte ho za to nést následky, tak snadné.“&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -4883,27 +4874,27 @@ It was never determined precisely why the synth known as Mr. Carter went on his 
 Which brings us to noodles. Specifically, the noodles consumed by Mayor McDonough last Wednesday night, in the same spot that Mr. Carter the synth went haywire, and mercilessly killed several people -- after spending hours sharing an experience the people of Diamond City assumed was reserved for members of the human race. They were wrong.&#xD;
 &#xD;
 Are we?</Source>
-      <Dest>Nudle. Všichni je jíme. Všichni je milujeme. Energonudle z Diamond City nám poskytují výživu posledních patnáct let. Od strojeného mechanického tempa Takahashiho naprogramované Japonštiny, přes voňavé výpary linoucí se z každé misky, po vroucí příchuť každého sousta - obědnávka a pojídání nudlí je jedním z mnoha společných lidských zážitků. Že ano?&#xD;
+      <Dest>Nudle. Všichni je jíme. Všichni je milujeme. Energonudle v Diamond City nám poskytují výživu posledních patnáct let. Od strojeného mechanického tempa Takahashiho naprogramované japonštiny, přes voňavé výpary linoucí se z každé misky, po vroucí příchuť každého sousta - objednávka a pojídání nudlí je jedním z mnoha společných lidských zážitků. Nebo snad ne?&#xD;
 &#xD;
-Ta otázka mi probleskla hlavou, když jsem seděla u pultu energonudlí minulou středu, těsně po 5:00 odpoledne, vychutnávajíc si večeři, tak jako mnohokrát před tím. V tu chvíli jsem si všimla, jak se samotný starosta McDonough přikradl ke stolu a připojil se ke stejnému rituálu. Natahujíc pravou ruku. Otevírajíc pusu. Žvýkajíc. Ano, pojídajícího nudle. Společný zážitek téměř každého obyvatele Diamond City.&#xD;
+Ta otázka mi probleskla hlavou, když jsem seděla u pultu Energonudlí minulou středu, těsně po 5. hodině odpolední, vychutnávajíc si večeři, tak jako mnohokrát před tím. V tu chvíli jsem si všimla, jak se samotný starosta McDonough přikradl ke stolu a připojil se ke stejnému rituálu. Natahujíc pravou ruku. Otevírajíc pusu. Žvýkajíc. Ano, pojídajíc nudle. Společný zážitek téměř každého obyvatele Diamond City.&#xD;
 &#xD;
-Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, když na baru nepodávali nudle, ale ledově vychlazenou nuka-colu, napěněné pivo, a velké panáky whiskey. Barman se jmenoval Henry, a oné noci, pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
+Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, kdy na baru nepodávali nudle, ale ledově vychlazenou Nuka Colu, napěněné pivo a velké panáky whisky. Barman se jmenoval Henry a oné noci pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
 &#xD;
-Mezi námi není mnoho takových, kteří jsou dost staří na to, aby si ten večer pamatovali - ačkoliv někteří ghůlští obyvatelé města by jistě mohli, nebýt vyhnáni, díky proti-ghůlskému dekretu starosty McDonougha z roku 2282. Ale jedna osoba, která si zřetelně pamatuje události toho večera, je mezi námi: uznávaná matriarcha Eustacie Hawthornová, vylíčila svůj příběh v exkluzivním interview pro Veřejné záležitosti.&#xD;
+Mezi námi není mnoho takových, kteří jsou dost staří na to, aby si ten večer pamatovali - ačkoliv někteří ghúlští obyvatelé města by jistě mohli, kdyby nebyli vyhnáni díky proti-ghúlskému dekretu starosty McDonougha z roku 2282. Ale jedna osoba, která si zřetelně pamatuje události toho večera, je mezi námi: uznávaná matriarcha Eustacie Hawthornová. Vylíčila svůj příběh v exkluzivním interview pro Veřejné záležitosti.&#xD;
 &#xD;
-"Ah, byla jsem tam. Seděla na baru, stejně tak jako nyní sedíte vy. Bylo mi přibližně dvacet dva let a užívala jsem si dobrou zábavu. Byla jsem v bezpečí za zdí -- všichni jsme byli -- tak jaká pak újma? A to vám povím, ten pan Carter nám to hodně usnadnil. Přišel do města toho dne, že je odkudsi ze západu. Ve skutečnosti na tom nezáleželo. Na čem záleželo, byl jeho úsměv a jeho smích. Ten způsob jakým nás všechny přiměl uvolnit se. Té noci na baru, jsme se všichni tak nějak shlukli okolo něj. Každý chtěl prohodit pár slov, nebo si poslechnout, jaký je stav Commonwealthu. A pan Carter nám velice rád vyšel vstříc. Bylo to báječné. Až do oné chvíle."&#xD;
+„Ach, byla jsem tam. Seděla na baru, stejně tak, jako nyní sedíte vy. Bylo mi přibližně dvacet dva let a užívala jsem si dobrou zábavu. Byla jsem v bezpečí za zdí... všichni jsme byli... tak jaká pak újma? A to vám povím, ten pan Carter nám to hodně usnadnil. Přišel do města toho dne, že je odkudsi ze západu. Ve skutečnosti na tom nezáleželo. To, na čem záleželo, byl jeho úsměv a jeho smích. Ten způsob, jakým nás všechny přiměl uvolnit se. Té noci na baru jsme se všichni tak nějak shlukli okolo něj. Každý chtěl prohodit pár slov nebo si poslechnout, jaký je stav Commonwealthu. A pan Carter nám velice rád vyšel vstříc. Bylo to báječné. Až do oné chvíle.“&#xD;
 &#xD;
 Eustacie pokračovala s popisem toho večera a momentu, kdy se situace stala hrozivou a byla odhalena pravda o panu Carterovi.&#xD;
 &#xD;
-"Dále jsme popíjeli, asi tak tři hodiny. Pan Carter měl do té doby čtyři, nebo pět drinků. Vypadal trochu opilý, řekla bych, jako my všichni. Najednou se to tak nějak stalo. Usmíval se, ale zničeho nic, jeho úsměv zmizel. Začala se mu cukat tvář, tak nějak zvláštně. Jen si vzpomínám, že jsem ho sledovala, tak jasně, jako by se to stalo včera. Sáhl do kabátu, vytasil revolver a 'Bum!' -- střelil Henryho, barmana, přímo do hlavy. Bez zaváhání, bez náznaku citů -- pan Carter zabil Henryho tak přirozeně, jako by mu platil za drink. Ale cukání v jeho tváři nepřestávalo. V tu chvíli se rozpoutalo pravé peklo, to vám povídám."&#xD;
+„Dále jsme popíjeli, asi tak tři hodiny. Pan Carter měl do té doby čtyři, nebo pět drinků. Vypadal trochu opilý, řekla bych, jako my všichni. Najednou se to tak nějak stalo. Usmíval se, ale zničehonic jeho úsměv zmizel. Začala mu cukat tvář, tak nějak zvláštně. Jen si vzpomínám, že jsem ho sledovala tak jasně, jakoby se to stalo včera. Sáhl do kabátu, vytasil revolver a bum! Střelil Henryho, barmana, přímo do hlavy. Bez zaváhání, bez náznaku citů... pan Carter zabil Henryho tak přirozeně, jako by mu platil za drink. Ale cukání v jeho tváři nepřestávalo. V tu chvíli se rozpoutalo pravé peklo, to vám povídám.“&#xD;
 &#xD;
-Co Eustacie popisuje, je samozřejmě nechvalně známá událost "Odhalená maska," kdy lid Commonwealthu poprvé zjistil, že Institut, tajemná vědecká organizace zodpovědná za tvorbu bojových androidů, uspěla ve tvorbě modelu androida tak pokročilého, že mohl bez obtíží infiltrovat lidskou společnost. Bez vědomí obyvatel Diamond City, Institut nějakým způsobem vyvinul své androidy ve skutečné, umělé, lidské bytosti. Syntetiky.&#xD;
+To, co Eustacie popisuje, je samozřejmě nechvalně známá událost „Odhalená maska“, kdy lid Commonwealthu poprvé zjistil, že Institut, tajemná vědecká organizace zodpovědná za tvorbu bojových androidů, uspěla ve tvorbě modelu androida tak pokročilého, že mohl bez obtíží infiltrovat lidskou společnost. Bez vědomí obyvatel Diamond City, vyvinul Institut nějakým způsobem své androidy ve skutečné, umělé, lidské bytosti. Syntetiky.&#xD;
 &#xD;
-"Poté co zastřelil Henryho, pan Carter zastřelil tři, nebo čtyři další lidi. Jak jsem říkala, rozpoutalo se opravdové peklo. Přiběhly stráže, začali pálit a pan Carter dále střílel a odhazoval lidi doleva, doprava. Nakonec ho strážní dostali. Zdálo se, že zabili muže, kterému přeskočilo. Dočista zešílel. A také tam ležel jako mrtvý šílenec. Proboha, bylo to příšerné. Na to jsme si všimli toho kovu a plastu -- víte, to byl jeden z raných syntetiků -- a uvědomili si, že to vůbec nebyl člověk. Tenkrát to všem došlo. Institut nebyl jen 'tam někde.' Institut byl teď všude. Mezi námi."&#xD;
+„Poté co zastřelil Henryho, pan Carter zastřelil tři, nebo čtyři další lidi. Jak jsem říkala, rozpoutalo se opravdové peklo. Přiběhly stráže, začaly pálit a pan Carter dále střílel a odhazoval lidi doleva, doprava. Nakonec ho stráže dostaly. Zdálo se, že zabily muže, kterému přeskočilo. Dočista zešílel. A také tam ležel jako mrtvý šílenec. Proboha, bylo to příšerné. Nato jsme si všimli toho kovu a plastu... víte, to byl jeden z raných syntetiků... a uvědomili si, že to vůbec nebyl člověk. Tenkrát to všem došlo. Institut nebyl jen „tam někde“. Institut byl teď všude. Mezi námi.“&#xD;
 &#xD;
-Nikdy nebylo určeno přesně proč syntetik známý jako pan Carter, vyrazil na svou vražednou výpravu. Někteří prohlašovali, že byl dálkově ovládán Institutem, který chtěl otestovat jeho bojovou efektivitu. Další se domnívali, že se prostě porouchal (hypotéza podložená cukající se tváří) a neměl nikdy zabíjet. Ale v tu chvíli se ono "proč" sotva zdálo důležité. Na čem záleželo, bylo, že lidé Commonwealthu byli skutečně infiltrováni organizací, jejíž záměry a pohnutky byly a stále jsou naprostou záhadou.&#xD;
+Nikdy nebylo určeno přesně proč syntetik, známý jako pan Carter, vyrazil na svou vražednou výpravu. Někteří prohlašovali, že byl dálkově ovládán Institutem, který chtěl otestovat jeho bojovou efektivitu. Další se domnívali, že se prostě porouchal (hypotéza podložená cukající se tváří) a neměl nikdy zabíjet. Ale v tu chvíli se ono „proč“ sotva zdálo důležité. Na čem záleželo, bylo, že lidé Commonwealthu byli skutečně infiltrováni organizací, jejíž záměry a pohnutky byly, a stále jsou, naprostou záhadou.&#xD;
 &#xD;
-Což nás přivádí k nudlím. Konkrétně nudlím, konzumovaným starostou McDonoughem minulý středeční večer, na stejném místě, kde se syntetik pan Carter pominul a bez lítosti pozabíjel několik lidí -- po hodinách strávených sdílením zážitků, které lidé z Diamond City považovali za vyhrazené pouze pro lidskou rasu. Zmýlili se.&#xD;
+Což nás přivádí k nudlím. Konkrétně nudlím konzumovaným starostou McDonoughem minulý středeční večer na stejném místě, kde se syntetik pan Carter pominul a bez lítosti pozabíjel několik lidí... po hodinách strávených sdílením zážitků, které lidé z Diamond City považovali za vyhrazené pouze pro lidskou rasu. Zmýlili se.&#xD;
 &#xD;
 Mýlíme se?</Dest>
     </String>
@@ -4935,13 +4926,13 @@ I asked &lt;alias=Player&gt; to make a statement to Diamond City. To give us an 
 END</Source>
       <Dest>Pokračování z části 2.&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie. &#xD;
 &#xD;
-"Musíte to přijmout postupně." Prohlašuje &lt;alias=Player&gt;. "Prostě jděte dál. To je to jediné, co může každý udělat."&#xD;
+„Musíte to přijmout postupně,“ prohlašuje &lt;alias=Player&gt;. „Prostě jděte dál. To je to jediné, co může každý udělat.“&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -4961,13 +4952,13 @@ I asked &lt;alias=Player&gt; to make a statement to Diamond City. To give us an 
 END</Source>
       <Dest>Pokračování z části 2.&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie.  &#xD;
 &#xD;
-"Nehledě na to, jak moc to chcete vzdát, vytrvejte." Prohlašuje &lt;alias=Player&gt;. "Musíte zachovat naději, že je znovu uvidíte, nebo alespoň zjistíte pravdu."&#xD;
+„Nehledě na to, jak moc to chcete vzdát, vytrvejte,“ prohlašuje &lt;alias=Player&gt;. „Musíte zachovat naději, že je znovu uvidíte, nebo alespoň zjistíte pravdu.“&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -4999,15 +4990,15 @@ Continued in Part 3.</Source>
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Zrovna mě příliš zaměstnávalo vyhazování věcí do povětří, než nad tím přemýšlet."&#xD;
+„Zrovna mě příliš zaměstnávalo vyhazování věcí do povětří než nad tím přemýšlet.“&#xD;
 &#xD;
-Nutno podotknout, že &lt;Alias=Player&gt; nevyhazuje nic do povětří a možná, že &lt;Alias.PronounPos=Player&gt; narážka odkazuje na násilí, které je tak běžné, cestujete-li mimo zeď do nebezpečnějších částí Commonwealthu. Zajímavé je, že &lt;Alias.PronounPos=Player&gt; první reakcí na hrůzu a neštěstí venku je humor?&#xD;
+Nutno podotknout, že &lt;Alias=Player&gt; nevyhazuje nic do povětří a možná, že &lt;Alias.PronounPos=Player&gt; narážka odkazuje na násilí, které je tak běžné, cestujete-li za zeď do nebezpečnějších částí Commonwealthu. Zajímavé je, že &lt;Alias.PronounPos=Player&gt; první reakcí na hrůzu a neštěstí venku je humor.&#xD;
 &#xD;
-Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 Pokračování v části 3.</Dest>
     </String>
@@ -5039,15 +5030,15 @@ Continued in Part 3.</Source>
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Upřímně, vidět tu všechny přežívající? Obnovující svět? Dává mi to naději."&#xD;
+„Upřímně, vidět tu všechny přežívající? Obnovující svět? Dává mi to naději.“&#xD;
 &#xD;
-Naděje. Kdy naposledy mluvil v našem městě někdo o naději, kromě politiků lovících body do příštích voleb, rozdávajíc prázdné sliby ze zdi? Ale náš cizinec nedopustil, aby &lt;Alias.PronounObj=Player&gt; cynismus našeho zvláštního světa dostal.&#xD;
+Naděje. Kdy naposledy mluvil v našem městě někdo o naději, kromě politiků lovících body do příštích voleb, rozdávajíc prázdné sliby o zdi? Ale náš cizinec nedopustil, aby &lt;Alias.PronounObj=Player&gt; cynismus našeho zvláštního světa dostal.&#xD;
 &#xD;
-To vše je ještě více pozoruhodné, vzhledem k tomu jaký důvod má &lt;Alias.PronounPos=Player&gt; příchod do Commonwealthu. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+To vše je ještě více pozoruhodné, vzhledem k tomu jaký důvod má &lt;Alias.PronounPos=Player&gt; příchod do Commonwealthu. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 Pokračování v části 3.</Dest>
     </String>
@@ -5067,11 +5058,11 @@ So, as fortune often has it, I crossed paths with &lt;Alias=Player&gt;. Vault Dw
 Before we begin to answer that question, we have to know who &lt;Alias=Player&gt; is. Where &lt;Alias.Pronoun=Player&gt; comes from. &lt;Alias.Pronoun=Player&gt; began our interview joking about &lt;Alias.PronounPos=Player&gt; time in the Vault. "It was just me and a thousand guinea pigs. They turned... carnivorous." Of course, this reporter knows that life behind the sealed gear doors of a Vault-Tec facility is actually supposed to be a bastion of the old world. A preservation of life before the bombs.&#xD;
 &#xD;
 Continued in Part 2.</Source>
-      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
-Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Rozhovor začíná vtipkovaním o tom, jaký &lt;Alias.PronounPos=Player&gt; život ve vaultu byl. "Jen já a tisíc morčat. Stali se z nich... masožravci." Samozřejmě, jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by ve skutečnosti měl být baštou starého světa. Zachování života před bombami.&#xD;
+Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Rozhovor začíná vtipkováním o tom, jaký &lt;Alias.PronounPos=Player&gt; život ve vaultu byl. „Jen já a tisíc morčat. Stali se z nich... masožravci.“ Samozřejmě, jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by ve skutečnosti měl být baštou starého světa. Zachování života před bombami.&#xD;
 &#xD;
 Pokračování v části 2.</Dest>
     </String>
@@ -5097,9 +5088,9 @@ So, as fortune often has it, I crossed paths with &lt;Alias=Player&gt;. Vault Dw
 Before we begin to answer that question, we have to know who &lt;Alias=Player&gt; is. Where &lt;Alias.Pronoun=Player&gt; comes from. To my surprise, &lt;Alias.Pronoun=Player&gt; did not have much to say about &lt;Alias.PronounPos=Player&gt; life in the Vault at all. Because &lt;Alias.Pronoun=Player&gt; spent all that time staring at a piece of frozen glass. Every day. For over two centuries. That's right, &lt;alias=player&gt; isn't just a Vault Dweller, &lt;Alias.Pronoun=Player&gt;'s an original Vault Dweller. &lt;Alias.Pronoun=Player&gt; spent &lt;Alias.PronounPos=Player&gt; entire time on the inside cryogenically suspended.&#xD;
 &#xD;
 Continued in Part 2.</Source>
-      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+      <Dest>Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
 Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. &lt;Alias.Pronoun=Player&gt; toho nemá, k mému překvapení, k životu ve vaultu příliš co dodat. Protože &lt;Alias.PronounPos=Player&gt; každý den sestával ze zírání na zamrzlé sklo. Po více než dvě století. Je tomu tak, &lt;alias=player&gt; není jenom obyvatel vaultu, &lt;Alias.Pronoun=Player&gt; je původním obyvatelem vaultu. Přečkávajíc &lt;Alias.PronounPos=Player&gt; čas uvnitř v kryogenickém spánku.&#xD;
 &#xD;
@@ -5115,7 +5106,7 @@ We have the truth, bitter as it is. We cannot predict how long it will take us t
 Everyone in Diamond City, whether they would acknowledge it or not, lived in fear of the Institute striking at them. Now they have. The city is still standing. Our daily routines keep grinding away. We still work, and eat, and sleep, and hope for a better tomorrow.&#xD;
 &#xD;
 Are you still afraid, Diamond City?</Source>
-      <Dest>Nyní o tom není pochyb. Bývalý starosta McDonough byl syntetik; agent v oblasti Institutu, který použil svůj vliv k napáchaní nevýslovných škod Diamond City a životům v něm. Opuštěn svými pány, těžko říct kolik dalších lidí by zranil, nebo zabil, nebýt zastaven.&#xD;
+      <Dest>Nyní o tom není pochyb. Bývalý starosta McDonough byl syntetik; agent v oblasti Institutu, který použil svůj vliv k napáchání nevýslovných škod městu Diamond City a životům v něm. Opuštěn svými pány, těžko říct, kolik dalších lidí by zranil nebo zabil, nebýt zastaven.&#xD;
 &#xD;
 Nyní známe hořkou pravdu. Nemůžeme předpovědět, jak dlouho nám bude trvat odhalit všechny McDonoughovi lži, než bude vůbec možné začít napravovat roky pečlivě připravované sabotáže. Je zeď opravdu bezpečná? Odhalíme někdy osudy zmizelých z Diamond City? Bude vůbec pozice starosty svěřena někomu dalšímu?&#xD;
 &#xD;
@@ -5136,12 +5127,12 @@ PUBLISHED RESPONSE: "Thank you for your concern. Our paper makes significant eff
 PERSONAL RESPONSE: Thank you for your concern. I hope you get snatched.</Source>
       <Dest>Záznam stížností Veřejných záležitostí&#xD;
 &#xD;
-DATUM - 1.10.&#xD;
-"Vaše noviny se pouze snaží zvednout strach ze syntetiků, pro zvýšení prodejnosti. Měli byste se za sebe stydět."&#xD;
+DATUM - 1. 10.&#xD;
+„Vaše noviny se pouze snaží zvednout strach ze syntetiků pro zvýšení prodejnosti. Měli byste se stydět.“&#xD;
 &#xD;
-ZVEŘEJNĚNÁ ODEZVA: "Vážíme si vašeho zájmu. Naše noviny vynakládají velké úsilí, pro zajištění pravdivosti a objektivnosti článků."&#xD;
+ZVEŘEJNĚNÁ ODEZVA: „Vážíme si vašeho zájmu. Naše noviny vynakládají velké úsilí pro zajištění pravdivosti a objektivnosti článků.“&#xD;
 &#xD;
-OSOBNÍ ODEZVA: Vážíme si vašeho zájmu. Doufám, že tě seberou.</Dest>
+OSOBNÍ ODEZVA: Vážíme si vašeho zájmu. Doufám, že vás seberou.</Dest>
     </String>
     <String List="0" sID="0310D5">
       <EDID>DmndPiperTerminal</EDID>
@@ -5171,16 +5162,15 @@ Continued in Part 3.</Source>
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-&#xD;
-"Všichni žijete v rezavých chatrčích, zabíjíte se navzájem, bože a ten smrad..."&#xD;
+„Všichni žijete v rezavých chatrčích, zabíjíte se navzájem, a bože, ten smrad...“&#xD;
 &#xD;
 Bolestná slova. Tolik z civilizace bylo ztraceno, když dopadly bomby a my vše znovu vybudovali bez bezpečí starých vaultů. Jakkoliv arogantně a privilegovaně zní &lt;Alias=Player&gt; ve svém prohlášení, musíme pamatovat na to, odkud pochází a jak na nás musí pohlížet.&#xD;
 &#xD;
-Možná, že všechen ten vztek slouží pouze k zakrytí &lt;Alias.PronounPos=Player&gt; ztráty. Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Možná, že všechen ten vztek slouží pouze k zakrytí &lt;Alias.PronounPos=Player&gt; ztráty. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 Pokračování v části 3.</Dest>
     </String>
@@ -5197,12 +5187,12 @@ PUBLISHED RESPONSE: "We honor the efforts of all those involved in the defense o
 PERSONAL RESPONSE: Dear whack job. Two members of Diamond City Security died defending this town. Where was your hunk of plywood for them?</Source>
       <Dest>Záznam stížností Veřejných záležitostí&#xD;
 &#xD;
-DATUM - 15.2.&#xD;
-"V posledním vydání vašich novin, nedostála mocná zeď patřičného uznání při obraně města proti útokům supermutantů za poslední měsíc. Shledávám to velice pohoršující a nezakoupím si další výtisk, dokud nebude toto zneuctění veřejně napraveno."&#xD;
+DATUM - 15. 2.&#xD;
+„V posledním vydání vašich novin nedostála mocná zeď patřičného uznání při obraně města proti útokům supermutantů za poslední měsíc. Shledávám to velice pohoršující a nezakoupím si další výtisk, dokud nebude toto zneuctění veřejně napraveno.“&#xD;
 &#xD;
-ZVEŘEJNĚNÁ ODEZVA: "Ctíme úsilí každého, kdo se podílí na obraně našeho skvělého města, od udatných stráží po mocnou zeď."&#xD;
+ZVEŘEJNĚNÁ ODEZVA: „Ctíme úsilí každého, kdo se podílí na obraně našeho skvělého města, od udatných stráží po mocnou zeď.“&#xD;
 &#xD;
-OSOBNÍ ODEZVA: Vážený cvoku. Dva členové ostrahy Diamond City zemřeli při obraně města. Jak pomohl ten tvůj kus překližky jim?</Dest>
+OSOBNÍ ODEZVA: Vážený cvoku. Dva členové ostrahy Diamond City zemřeli při obraně města. Jak jim pomohl ten tvůj kus překližky?</Dest>
     </String>
     <String List="0" sID="031114">
       <EDID>DmndPiperComplaintsSubterminal</EDID>
@@ -5238,15 +5228,15 @@ Continued in Part 3.</Source>
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Je to vůbec možné porovnat? Tento svět? Téměř se nepodová tomu, který jsme opustili."&#xD;
+„Je to vůbec možné porovnat? Tento svět? Téměř se nepodobá tomu, který jsme opustili.“&#xD;
 &#xD;
 Zatímco my o našem městě smýšlíme jako o zářivém klenotu, nezapomínejme, že ne každý sem přichází dobrovolně. Někdy jsou lidé vyhnáni z pohodlí jejich domovů a skončí tady, jelikož jde o největší osadu Commonwealthu. Většina jen hledá útočiště, ale někdy tu zoufale něco hledají. Nebo někoho.&#xD;
 &#xD;
-Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 Pokračování v části 3.</Dest>
     </String>
@@ -5274,7 +5264,7 @@ Pokračování v části 3.</Dest>
       <Source>There needs to be a real movement against Synths in this city. Security is useless. No matter how many reports I file, no one ever gets arrested. Don't they know all Synths are right-handed, and always eat promptly at Noon? That's HARD evidence, and I kept very, very strict records of everyone's activities in the market.&#xD;
 &#xD;
 I'm going to start hosting meetings. Just a few trusted people. We'll take back control of this city from the Synths. I'll need to screen everyone before I ask them. No matter how long it takes, I have to be sure. Anyone could be a Synth. Anyone.</Source>
-      <Dest>Opravdu je třeba zahájit aktivitu proti syntetikům ve městě. Ostraha je k ničemu. Nehledě na to, kolik oznámení pošlu, nikoho nezatknou. Nevědí snad, že všichni syntetici jsou praváci a jedí vždy přesně v poledne? To jsou PÁDNÉ důkazy a sledovala jsem velmi, velmi pečlivě aktivity každého na tržišti.&#xD;
+      <Dest>Opravdu je třeba zahájit aktivitu proti syntetikům v městě. Ostraha je k ničemu. Nehledě na to, kolik oznámení pošlu, nikoho nezatknou. Nevědí snad, že všichni syntetici jsou praváci a jedí vždy přesně v poledne? To jsou PÁDNÉ důkazy a sledovala jsem velmi, velmi pečlivě aktivity každého na tržišti.&#xD;
 &#xD;
 Začnu pořádat schůze. Jen pár důvěryhodných lidí. Získáme od syntetiků zpět vládu nad městem. Budu muset každého naskenovat, než ho oslovím. Nezáleží na tom, jak dlouho to bude trvat, musím si být jistá. Kdokoliv může být syntetik. Kdokoliv.</Dest>
     </String>
@@ -5288,7 +5278,7 @@ Začnu pořádat schůze. Jen pár důvěryhodných lidí. Získáme od syntetik
       <EDID>DmndDugoutInnTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>To Vadim: Please Clean Up</Source>
-      <Dest>Pro Vadima: Ukliď prosím.</Dest>
+      <Dest>Pro Vadima: Ukliď, prosím.</Dest>
     </String>
     <String List="0" sID="03129E">
       <EDID>DmndPollyTerminal</EDID>
@@ -5321,9 +5311,9 @@ Ale slunce nevyjde ven.</Dest>
 Treat your husband with this beautiful setpiece and you'll wonder why you didn't years ago. You'll notice him coming home from work earlier and earlier each day because he knows he can work successfully and comfortably at home.&#xD;
 &#xD;
 You love your husband. Now's the time to show him how much you love him. Get in touch with a sales associate immediately.</Source>
-      <Dest>Samozřejmě že ano, je Američan. Ale, víte, nemusí. Pokud zakoupíte kousek, na který právě hledíte, už nikdy nebude chtít pracovat v kanceláři.&#xD;
+      <Dest>Samozřejmě, že ano, je Američan. Ale nemusí. Pokud zakoupíte kousek, na který právě hledíte, už nikdy nebude chtít pracovat v kanceláři.&#xD;
 &#xD;
-Obdarujte svého manžela tímto nádherným kouskem a budete se divit, přoč jste to neudělala už před lety. Všimnete si, že se vrací z práce každý den dříve a dříve, protože ví, že může pracovat úspěšně a pohodlně z domova.&#xD;
+Obdarujte svého manžela tímto nádherným kouskem a budete se divit, proč jste to neudělala už před lety. Všimnete si, že se vrací z práce každý den dříve a dříve, protože ví, že může pracovat úspěšně a pohodlně z domova.&#xD;
 &#xD;
 Milujete svého manžela. Nyní je čas ukázat, jak moc ho milujete. Kontaktujte okamžitě prodejního asistenta.</Dest>
     </String>
@@ -5341,9 +5331,9 @@ Milujete svého manžela. Nyní je čas ukázat, jak moc ho milujete. Kontaktujt
 I try to talk, you brush me off. You say put what I want on the terminal and you will get to it. But then you never read what I write! Can you not understand how maddening that is? You will not even be reading this, will you? Father was right. "Heavy is the back that carries two loads."&#xD;
 &#xD;
 Yefim</Source>
-      <Dest>Vadime:&#xD;
+      <Dest>Vadime,&#xD;
 &#xD;
-Snažím se k tobě mluvit, ty mě odbudeš. Říkal si, ať vložím na terminál, co budu potřebovat a ty se do toho pustíš. Ale ty nikdy nečteš, co napíšu! Nechápeš, jak rozčilující to je? Dokonce si nepřečteš ani tohle, že? Otec měl pravdu. "Těžký náklad má, kdo za dva táhne."&#xD;
+snažím se k tobě mluvit a ty mě odbýváš. Říkal si, ať vložím na terminál, co budu potřebovat, a ty se do toho pustíš. Ale ty nikdy nečteš, co napíšu! Nechápeš, jak rozčilující to je? Dokonce si nepřečteš ani tohle, že? Otec měl pravdu. „Těžký náklad má, kdo táhne za dva.“&#xD;
 &#xD;
 Yefim</Dest>
     </String>
@@ -5357,7 +5347,7 @@ Scary, we know, but it could happen. There is something you can do about it. You
 Make the move. Get in touch with a sales associate now.</Source>
       <Dest>Samozřejmě, že ne. Ale co když se ve vaší kanceláři něco přihodí, když to nejméně očekáváte?&#xD;
 &#xD;
-Děsivé, my víme, ale může se to stát. Můžete s tím něco udělat. Můžete zakoupit tento kousek a odnést si ho domů...již dnes! Tímto způsobem můžete pracovat z pohodlí domova, pokud se nedostanete do kanceláře.&#xD;
+Děsivé, my víme, ale může se to stát. Můžete s tím něco udělat. Můžete zakoupit tento kousek a odnést si ho domů... již dnes! Tímto způsobem můžete pracovat z pohodlí domova, pokud se nedostanete do kanceláře.&#xD;
 &#xD;
 Udělejte první krok. Kontaktujte prodejního asistenta nyní.</Dest>
     </String>
@@ -5375,9 +5365,9 @@ Udělejte první krok. Kontaktujte prodejního asistenta nyní.</Dest>
 Please at least do your part of the cleaning and keep the bar tidy. Scarlett already cleans half the rooms, the tables, and the patio. I do the rest. May I remind you that I am not Mother, yes?&#xD;
 &#xD;
 Yefim</Source>
-      <Dest>Vadime"&#xD;
+      <Dest>Vadime,&#xD;
 &#xD;
-Prosím udělej alespoň svou část úklidu a udržuj bar čistý. Scarlett čistí polovinu pokojů, stoly a terasu. Já dělám zbytek. Uvědom si, že nejsem matka, ano?&#xD;
+prosím, udělej alespoň svou část úklidu a udržuj bar čistý. Scarlett už uklízí polovinu pokojů, stoly a terasu. Já dělám zbytek. Uvědom si, že nejsem matka, dobře?&#xD;
 &#xD;
 Yefim</Dest>
     </String>
@@ -5385,7 +5375,7 @@ Yefim</Dest>
       <EDID>DmndCrockerTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Have a Perfect Day, Doctor Crocker!</Source>
-      <Dest>Přeji krásný den, doktor Crocker!</Dest>
+      <Dest>Přeji krásný den, doktore Crockere!</Dest>
     </String>
     <String List="0" sID="031348">
       <EDID>DmndDugoutInnTerminal</EDID>
@@ -5397,7 +5387,7 @@ Yefim</Dest>
       <EDID>DmndDugoutInnTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>To Vadim: Please Pay Your Bills</Source>
-      <Dest>Pro Vadima: Prosím zaplať své účty</Dest>
+      <Dest>Pro Vadima: Prosím, zaplať své účty</Dest>
     </String>
     <String List="0" sID="0313A2">
       <EDID>DmndDugoutInnTerminal</EDID>
@@ -5409,9 +5399,9 @@ We are running a hotel, yes? People pay to sleep here? Is closing the bar at the
 At least keep it down if you insist on serving drinks at all hours.&#xD;
 &#xD;
 Yefim.</Source>
-      <Dest>Vadime:&#xD;
+      <Dest>Vadime,&#xD;
 &#xD;
-Provozujeme hotel, ano? Lidé platí za to, že tu přespí? Bylo by možné zavírat bar každý večer ve stejný čas? Někdy tě hosté slyší smát se společně se zákazníky na baru až do časného rána. Jsi cokoliv, jen ne tichý.&#xD;
+provozujeme hotel, jasné? Lidé platí za to, že tu přespí. Bylo by možné zavírat bar každý večer ve stejný čas? Někdy tě hosté slyší smát se společně se zákazníky baru až do časného rána. Jsi cokoliv, jen ne tichý.&#xD;
 &#xD;
 Alespoň se ztiš, když už trváš na podávání drinků v jakoukoliv hodinu.&#xD;
 &#xD;
@@ -5445,7 +5435,7 @@ Yefim.</Dest>
       <EDID>DmndDugoutInnTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>To Vadim: Please Lower Voice at Night</Source>
-      <Dest>Pro Vadima: Prosím ztiš se večer</Dest>
+      <Dest>Pro Vadima: Prosím, ztiš se o večerech</Dest>
     </String>
     <String List="0" sID="031435">
       <EDID>DmndMyrnaTerminal</EDID>
@@ -5459,7 +5449,7 @@ Yefim.</Dest>
       <Source>Beautiful Ann Codman. Well, I suppose I should say the former beautiful Ann Codman. There's only so much we can do to reverse the ravages of time, even with the miracle of Facial Reconstruction. Still, a steady customer is the best customer.&#xD;
 &#xD;
 List of procedures done: Lip adjustment, Eye tuck, Nose straighten, Age mark removal (several), Lift work (various, who's counting?).</Source>
-      <Dest>Nádherná Anna Codmanová. Tedy, měl bych spíše říci, bývalá nádherná Anna Codmanová. Nemůžeme toho tolik udělat ke zvrácení pustošení času, ani se zázrakem obličejové rekonstrukce. Nicméně, stálý zákazník je nejlepší zákazník.&#xD;
+      <Dest>Nádherná Anna Codmanová. Tedy, měl bych spíše říci bývalá nádherná Anna Codmanová. Nemůžeme toho tolik udělat ke zvrácení pustošení času, ani se zázrakem obličejové rekonstrukce. Nicméně, stálý zákazník je nejlepší zákazník.&#xD;
 &#xD;
 Seznam podstoupených procedur: úprava rtů, oční víčka, srovnání nosu, odstranění známek stárnutí (závažné), vypnutí kůže (různé, kdo to má počítat?).</Dest>
     </String>
@@ -5467,7 +5457,7 @@ Seznam podstoupených procedur: úprava rtů, oční víčka, srovnání nosu, o
       <EDID>DmndDugoutInnTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>The Dugout Inn(box)</Source>
-      <Dest>Hostinec Ve výkopu(schránka)</Dest>
+      <Dest>Hostinec Na střídačce(schránka)</Dest>
     </String>
     <String List="0" sID="031475">
       <EDID>DamageRadiationWeaponDuration</EDID>
@@ -5487,9 +5477,9 @@ Seznam podstoupených procedur: úprava rtů, oční víčka, srovnání nosu, o
       <Source>America works hard and so do you. Why not bring the same comfort you enjoy at work to your own home?&#xD;
 &#xD;
 Look no further. This setpiece you're looking at now can be yours. Don't hesitate, buy now! Contact a sale associate now and bring this beautiful setpiece back home with you...today!</Source>
-      <Dest>Amerika pracuje tvrdě, stejně jako vy. Proč si neužívat stejně pohodlí, jako máte v práci, u vás doma?&#xD;
+      <Dest>Amerika pracuje stejně tvrdě jako vy. Proč si neužívat stejné pohodlí, jako máte v práci, u vás doma?&#xD;
 &#xD;
-Nehledejte dále. Kousek na který nyní hledíte může být váš. Neváhejte, kupte nyní! Kontaktujte prodejního asistenta nyní a odneste si tento nádherný kousek sebou domů...již dnes!</Dest>
+Nehledejte dále. Kousek, na který nyní hledíte, může být váš. Neváhejte, kupte nyní! Kontaktujte prodejního asistenta nyní a odneste si tento nádherný kousek domů... již dnes!</Dest>
     </String>
     <String List="0" sID="0314EE">
       <EDID>DmndPollyTerminal</EDID>
@@ -5513,7 +5503,7 @@ Nehledejte dále. Kousek na který nyní hledíte může být váš. Neváhejte,
       <EDID>DmndMyrnaTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>This is your reminder, Myrna, that Percy is due for maintenance soon. He's the only one I can really trust. A machine that KNOWS he's a machine. Why couldn't they have stopped there, huh? What's the point in making a robot that thinks it's human? Synths ARE NOT human.</Source>
-      <Dest>Upomínka pro Myrnu, že Percy bude brzy potřebovat údržbu. On je jediný komu můžu skutečně důvěřovat. Stroj, který ví, že je stroj. Proč nemohli přestat tady, hm? Jaký má smysl dělat robota, který si myslí že je člověk? Syntetici NEJSOU lidé.</Dest>
+      <Dest>Upomínka pro Myrnu, že Percy bude brzy potřebovat údržbu. On je jediný, komu můžu skutečně důvěřovat. Stroj, který ví, že je stroj. Proč nemohli přestat tady, hm? Jaký má smysl dělat robota, který si myslí, že je člověk? Syntetici NEJSOU lidé.</Dest>
     </String>
     <String List="0" sID="031571">
       <EDID>DmndPollyTerminal</EDID>
@@ -5529,7 +5519,7 @@ Oh chair.&#xD;
 I really sould have moved you.&#xD;
 Over there.</Source>
       <Dest>Temnotou tančím,&#xD;
-a nikdo mě nespatří.&#xD;
+nikdo mě nespatří.&#xD;
 Ani já se nevidím.&#xD;
 Jen já a tělo mé,&#xD;
 plující volně ovzduším.&#xD;
@@ -5565,7 +5555,7 @@ támhle.</Dest>
 List of procedures done: Nasty scar across the abdomen. Rebuffed any attempts to question where it was from. Easy enough to remove for a man of my talents, however.</Source>
       <Dest>Tak tohle bylo překvapení. Starý Abbot. Není to zrovna výřečný muž.&#xD;
 &#xD;
-Seznam podstoupených procedur: Ošklivá jizva v břišní oblasti. Zavrhnul jakékoliv pokusy vyzvědět odkud ji má. Nicméně snadné ji odstranit pro muže mých schopností.</Dest>
+Seznam podstoupených procedur: ošklivá jizva v břišní oblasti. Zavrhnul jakékoliv pokusy vyzvědět, odkud ji má. Nicméně snadné ji odstranit pro muže mých schopností.</Dest>
     </String>
     <String List="0" sID="0315F0">
       <EDID>DmndPollyTerminal</EDID>
@@ -5629,9 +5619,9 @@ Protože někdo musí říci sbohem.</Dest>
 I do not mind paying bills for our business, but I am not your accountant. Every time you go shopping, you tell merchant to bill the Dugout. Then, I have to pay them off or we both lose everything. We are in this together, yes? Then why am I the only one who keeps personal finance from professional finance?&#xD;
 &#xD;
 Yefim</Source>
-      <Dest>Vadime:&#xD;
+      <Dest>Vadime,&#xD;
 &#xD;
-Nevadí mi platit účty za náš podnik, ale nejsem tvůj osobní účetní. Pokaždé když jdeš nakupovat, řekneš obchodníkovi, ať účet vystaví Na střídačku. Poté je musím vyplatit, nebo přijdeme o všechno. Jsme v tom společně, ano? Proč jsem tedy jediný, kdo odděluje osobní finance od těch profesních?&#xD;
+nevadí mi platit účty za náš podnik, ale nejsem tvůj osobní účetní. Pokaždé, když jdeš nakupovat, řekneš obchodníkovi, ať účet vystaví Na střídačku. Poté je musím vyplatit, nebo přijdeme o všechno. Jsme v tom společně. Proč jsem tedy jediný, kdo odděluje osobní finance od těch profesních?&#xD;
 &#xD;
 Yefim</Dest>
     </String>
@@ -5641,9 +5631,9 @@ Yefim</Dest>
       <Source>Such a perfect specimen. I almost hated to work on her. Like damaging a fine portrait. Note: The smell of her hair is divine. She must use something for it. Solomon crafting soap products in addition to chems these days? I must ask him.&#xD;
 &#xD;
 List of procedures done: Birth mark removal, against my protestations.</Source>
-      <Dest>Jak úžasný exemplář. Skoro mi bylo líto na ní pracovat. Jako poškodit kvalitní portrét. Poznámka: Vůně jejích vlasů je božská. Musí na ně něco používat. Solomonovy mýdlové výrobky s přídáním nějaké chemie? Musím se ho zeptat.&#xD;
+      <Dest>Jak úžasný exemplář. Skoro mi bylo líto na ní pracovat. Jako poškodit kvalitní portrét. Poznámka: Vůně jejích vlasů je božská. Musí na ně něco používat. Solomonovy mýdlové výrobky s přídáním nějaké chemie? Musím se zeptat jeho.&#xD;
 &#xD;
-Seznam podstoupených procedur: Odstranění mateřského znaménka, i přes mé námitky.</Dest>
+Seznam podstoupených procedur: odstranění mateřského znaménka i přes mé námitky.</Dest>
     </String>
     <String List="0" sID="03168B">
       <EDID>DmndCrockerTerminal</EDID>
@@ -5665,10 +5655,10 @@ Solomon (pretends to be high all the time, I know his tricks)&#xD;
 Moe Cronin (only a Synth loves baseball)</Source>
       <Dest>Starosta McDonough (byl v novinách)&#xD;
 Ellie Perkinsová (očividně)&#xD;
-Geneva (vždy si obědná to samé)&#xD;
+Geneva (vždy si objedná to samé)&#xD;
 Arturo Rodriguez (příliš milý)&#xD;
 Abbot (příliš protivný)&#xD;
-Piper (píše články aby odvrátila podezření?)&#xD;
+Piper (píše články, aby odvrátila podezření?)&#xD;
 Danny Sullivan (infiltroval bezpečnostní tým?)&#xD;
 Solomon (předstírá, že je celou dobu sjetý, znám ty jeho triky)&#xD;
 Moe Cronin (jen syntetik může mít rád baseball)</Dest>
@@ -5702,18 +5692,20 @@ I could use a friend. Everyone in this town is either jealous of me or afraid of
 Dear Alone,&#xD;
 Going to have to take a raincheck on that drink, but your instincts are good. New friends crop up in the most unlikely places. You just need to search them out.</Source>
       <Dest>Milá Veřejnosti,&#xD;
-Hodil by se mi kamarád. Každý ve městě mi buď závidí, nebo se mě bojí, proto jak vypadám a pro koho pracuji. Nehodlám se vzdát toho, kým jsem, jen aby mě měli lidé raději. Ale cítím se tak osaměle. Ale ty vypadáš jako chytrá holka, Veřejnosti. Nemohli bychom někdy zajít na drink?&#xD;
+&#xD;
+hodil by se mi kamarád. Každý ve městě mi buď závidí, nebo se mě bojí proto, jak vypadám a pro koho pracuji. Nehodlám se vzdát toho, kým jsem, jen aby mě měli lidé raději. Ale cítím se tak osaměle. Ale ty vypadáš jako chytrá holka, Veřejnosti. Nemohli bychom někdy zajít na drink?&#xD;
 &#xD;
  - Samotář na horním ochozu&#xD;
 &#xD;
 Drahý Samotáři,&#xD;
-Budeme ten drink muset odložit, ale tvé instinkty tě neklamou. Nová přátelství vzkvetou na těch nejméně očekávaných místech. Jen po nich musíš zapátrat.</Dest>
+&#xD;
+budeme ten drink muset odložit, ale tvé instinkty tě neklamou. Nová přátelství vzkvetou na těch nejméně očekávaných místech. Jen po nich musíš zapátrat.</Dest>
     </String>
     <String List="0" sID="03185B">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Sleep-Walking the Beat</Source>
-      <Dest>Náměsíčník mlátička</Dest>
+      <Dest>Náměsíčník Mlátička</Dest>
     </String>
     <String List="0" sID="03189C">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
@@ -5732,12 +5724,14 @@ I've been living in Diamond City for years now, but have never been able to land
 Dear Desperate,&#xD;
 Ever tried talking to these girls? You should give it a go. No more trying to buy your way to affection. You need to earn it.</Source>
       <Dest>Milá Veřejnosti,&#xD;
-Žiji v Diamond City už léta, ale nikdy se mi nepodařilo najít si přítelkyni. Chodím hezky oblékaný a kupuji jim drinky, ale nejspíš si myslí že jsem jenom nějaký otrava. Můj šéf říká, že mám obličej, jaký může milovat jen matka a já myslím, že má pravdu. Myslím si, že nemám jinou možnost, Veřejnosti. Mám se do toho pustit a změnit si obličej?&#xD;
+&#xD;
+žiji v Diamond City už léta, ale nikdy se mi nepodařilo najít si přítelkyni. Chodím hezky oblékaný a kupuji jim drinky, ale nejspíš si myslí, že jsem jenom nějaký otrava. Můj šéf říká, že mám obličej, jaký může milovat jen matka a já myslím, že má pravdu. Myslím si, že nemám jinou možnost, Veřejnosti. Mám se do toho pustit a změnit si obličej?&#xD;
 &#xD;
  - Zoufalec v Diamond City&#xD;
 &#xD;
 Milý Zoufalče,&#xD;
-Zkoušel si k těm holkám někdy promluvit? Měl bys tomu dát šanci. Už žádné kupování si náklonnosti. Musíš si jí zasloužit.</Dest>
+&#xD;
+zkoušel si k těm holkám někdy promluvit? Měl bys tomu dát šanci. Už žádné kupování si náklonnosti. Musíš si ji zasloužit.</Dest>
     </String>
     <String List="0" sID="031917">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
@@ -5750,12 +5744,14 @@ I am torn between two loves. On one hand, I have my profession. Every moment I s
 Dear Pair,&#xD;
 Love is rare. Two? Doubly so. Make it work, Pair. You work in the same building for shuck's sake.</Source>
       <Dest>Milá Veřejnosti,&#xD;
-Nemohu se rozhodnout mezi dvěmi láskami. Na jedné straně je moje profese. Každá chvíle, kterou strávím s mladými talenty, se kterými pracuji, mi přináší radost. Na druhé straně je to můj spolupracovník. Moudrý, trpělivý, nonšalantní. Mnozí tvrdí, že pro něj nejsem dost živá, ale nedovedu si představit život s žádným jiným. Toužím vyznat mu své pocity, ale můj život je má práce. Pokoušet se přidat vztah? Tím budeme tratit všichni. Musím si zvolit, Veřejnosti. Ale koho?&#xD;
+&#xD;
+nemohu se rozhodnout mezi dvěmi láskami. Na jedné straně je moje profese. Každá chvíle, kterou strávím s mladými talenty, se kterými pracuji, mi přináší radost. Na druhé straně je to můj spolupracovník. Moudrý, trpělivý, šarmantní. Mnozí tvrdí, že pro něj nejsem dost živá, ale nedovedu si představit život s žádným jiným. Toužím vyznat mu své pocity, ale můj život je má práce. Pokoušet se přidat vztah? Tím budeme tratit všichni. Musím si zvolit, Veřejnosti. Ale koho?&#xD;
 &#xD;
  - Dvojice-Amores&#xD;
 &#xD;
 Milá Dvojice,&#xD;
-Láska je vzácnost. Dvě? Dvakrát taková. Dokážeš to, Dvojice. Pracujete ve stejné budově, zatraceně.</Dest>
+&#xD;
+láska je vzácnost. Dvě? Dvakrát taková. Dokážeš to, Dvojice. Pracujete ve stejné budově, zatraceně.</Dest>
     </String>
     <String List="0" sID="031918">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
@@ -5773,7 +5769,7 @@ Láska je vzácnost. Dvě? Dvakrát taková. Dokážeš to, Dvojice. Pracujete v
       <EDID>DmndPiperTerminal</EDID>
       <REC id="15">TERM:ITXT</REC>
       <Source>Publick Perspectives Archive</Source>
-      <Dest>Archiv náhled veřejnosti</Dest>
+      <Dest>Archiv novin Veřejné výhledy</Dest>
     </String>
     <String List="0" sID="031A15">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
@@ -5792,12 +5788,14 @@ I got this job. It pays the bills, but lately, it's making it so I can't sleep a
 Dear Beat,&#xD;
 Sounds like you need to relax more. I know after a hard day solving other people's problems, I like to grab a Nuka-Cola, pull out a stack of comics, and read till I pass out. Give it a try.</Source>
       <Dest>Milá Veřejnosti,&#xD;
-Mám práci. Zaplatí to účty, ale poslední dobou z toho nemůžu v noci spát. Vše je teď tak napjaté. Obávám se, že pokud se něco nezmění, můžu chybovat a zranit sebe, nebo někoho dalšího. Nějaká rada, Veřejnosti?&#xD;
 &#xD;
-- Náměsíčník mlátička&#xD;
+mám práci. Zaplatí to účty, ale poslední dobou z toho nemůžu v noci spát. Vše je teď tak napjaté. Obávám se, že pokud se něco nezmění, můžu chybovat a zranit sebe nebo někoho dalšího. Nějaká rada, Veřejnosti?&#xD;
+&#xD;
+- Náměsíčník Mlátička&#xD;
 &#xD;
 Milý Mlátičko,&#xD;
-Vypadá to, že si potřebuješ trochu odpočinout. Já po náročném dni, plném řešení problémů ostatních lidí popadnu Nuka-Colu, štos komiksů a čtu si, dokud neodpadnu. Měl bys to zkusit.</Dest>
+&#xD;
+vypadá to, že si potřebuješ trochu odpočinout. Já po náročném dni plném řešení problémů ostatních lidí popadnu Nuka-Colu, štos komiksů a čtu si, dokud neodpadnu. Měl bys to zkusit.</Dest>
     </String>
     <String List="0" sID="031AA5">
       <EDID>DmndPiperPerspectivesSubterminal</EDID>
@@ -5810,12 +5808,14 @@ Me and my little girl have been on our own for a long time now. She's the most i
 Dear Troubles,&#xD;
 Your girl's becoming her own person. Let her make decisions, screw up. Maybe throw some extra caps her way so she can take her friends out for noodles more often. Then, when she's ready, she'll come to you.</Source>
       <Dest>Milá Veřejnosti,&#xD;
-Já a moje malá holčička jsme už dlouhou dobu sami. Ona je to nejdůležitější v mém životě, ale poslední dobou to vypadá, že ztrácí zájem trávit čas se svým taťkou. Chápu, že jednoho dne musí dospět, ale nejsem připraven nechat ji jít. Co mám dělat proto, abych ji neztratil?&#xD;
+&#xD;
+já a moje malá holčička jsme už dlouhou dobu sami. Ona je to nejdůležitější v mém životě, ale poslední dobou to vypadá, že ztrácí zájem trávit čas se svým taťkou. Chápu, že jednoho dne musí dospět, ale nejsem připraven nechat ji jít. Co mám dělat proto, abych ji neztratil?&#xD;
 &#xD;
  - Pubertální problémy&#xD;
 &#xD;
 Milý Probléme,&#xD;
-Tvoje holčička se stává svou. Nech ji dělat rozhodnutí a chybovat. Možná přihoď nějaké zátky, aby mohla brát častěji své přátele ven na nudle. Až bude připravena, vrátí se ti.</Dest>
+&#xD;
+tvoje holčička se stává svou. Nech ji dělat rozhodnutí a chybovat. Možná přihoď nějaké zátky, aby mohla brát častěji své přátele ven na nudle. Až bude připravena, vrátí se ti.</Dest>
     </String>
     <String List="0" sID="031B1D">
       <EDID>Detonator01</EDID>
@@ -5870,7 +5870,8 @@ Good morning everyone, I know you've all been here over night and everyone is ti
       <Dest>Odesílatel:[J.Elwood]&#xD;
 &gt;&gt; Povinný přesčas&#xD;
 &#xD;
-Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unavený, ale potřebuji, abyste vytrvali už jen o trošku déle. Dr. Elwood-Woolum řekla, že jste velmi blízko k prolomení problému s projektem jaderného vyztužení a mám pocit, že dnes je ten den. Současně s naší obvyklou svačinou, jsem vyslal poslíčka do Slocumových koblih pro kafe a koblihy. Později odpoledně budeme obědnávat chlebíčky. Také jsem právě měl hovor s plk. Kempem a oznámil mi, že bude v okolí města probíhat cvičení, takže pokud uslyšíte zvuky jako tanky, nebo střelbu, nepanikařte, je to jen cvičení.</Dest>
+Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unavený, ale potřebuji, abyste vytrvali už jen o trošku déle. Dr. Elwoodová Woolumová řekla, že jste velmi blízko k prolomení problému s projektem jaderného vyztužení a mám pocit, že dnes je ten den. Současně s naší obvyklou svačinou jsem vyslal poslíčka do Slocumových koblih pro kafe a koblihy. Později odpoledne budeme objednávat chlebíčky. Také jsem právě měl hovor s plk. Kempem a oznámil mi, že bude v okolí města probíhat cvičení, takže pokud uslyšíte zvuky jako tanky nebo střelbu, nepanikařte, je to jen cvičení.&#xD;
+</Dest>
     </String>
     <String List="0" sID="0326CC">
       <EDID>DN015_BergmanSubTerminalMail</EDID>
@@ -5938,7 +5939,7 @@ Jon, are you there? I can't see you moving in your office and we can't wait any 
       <Dest>Odesílatel:[E.ElwoodWoolum] &#xD;
 &gt;&gt; Jsi tam?&#xD;
 &#xD;
-Jone, jsi tam? Nevidím žádný pohyb ve tvé kanceláři a nemůžeme už dál čekat. Pokud něco neuděláme, spustí automatickou obranu. Podařilo se nám proplazit šachtou a chystáme se ho překvapit. Přes všechno k čemu došlo, chci, abys věděl, že tě stále miluji.&#xD;
+Jone, jsi tam? Nevidím žádný pohyb ve tvé kanceláři a nemůžeme už dál čekat. Pokud něco neuděláme, spustí automatickou obranu. Podařilo se nám proplazit šachtou a chystáme se ho překvapit. Přes všechno, k čemu došlo, chci, abys věděl, že tě stále miluji.&#xD;
 &#xD;
 - Erika</Dest>
     </String>
@@ -5953,14 +5954,14 @@ Good morning everyone, I know you've all been here over night and everyone is ti
       <Dest>Odesílatel:[J.Elwood]&#xD;
 &gt;&gt; Povinný přesčas&#xD;
 &#xD;
-Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unavený, ale potřebuji, abyste vytrvali už jen o trošku déle. Dr. Elwood-Woolum řekla, že jste velmi blízko k prolomení problému s projektem jaderného vyztužení a mám pocit, že dnes je ten den. Současně s naší obvyklou svačinou, jsem vyslal poslíčka do Slocumových koblih pro kafe a koblihy. Později odpoledně budeme obědnávat chlebíčky. Také jsem právě měl hovor s plk. Kempem a oznámil mi, že bude v okolí města probíhat cvičení, takže pokud uslyšíte zvuky jako tanky, nebo střelbu, nepanikařte, je to jen cvičení.&#xD;
+Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unavený, ale potřebuji, abyste vytrvali už jen o trošku déle. Dr. Elwoodová Woolumová řekla, že jste velmi blízko k prolomení problému s projektem jaderného vyztužení a mám pocit, že dnes je ten den. Současně s naší obvyklou svačinou jsem vyslal poslíčka do Slocumových koblih pro kafe a koblihy. Později odpoledne budeme objednávat chlebíčky. Také jsem právě měl hovor s plk. Kempem a oznámil mi, že bude v okolí města probíhat cvičení, takže pokud uslyšíte zvuky jako tanky nebo střelbu, nepanikařte, je to jen cvičení.&#xD;
 </Dest>
     </String>
     <String List="0" sID="032C45">
       <EDID>DN015_ErickaSubTerminalProject</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Initial tests have proved that the methodology is sound. Radioactive energy harvest is 15x higher than current automotive fusion engines. Unfortunately, there are still problems that we need to overcome. The ionic excitation in the gold that produces the harvestable electrons also create a build up of thermal waste. The heat is not substantial, from a macro perspective, but due to the low shear modulus, the gold suspension in the nano weave starts to break down quickly under extended use. We are going to attempt to change the dosing pattern on the gold to produce thinner strands through the material. The increased surface area should help dissipate the thermal energy, much like a heat sink.</Source>
-      <Dest>Úvodní testy prokázaly správnost postupů. Sběr elektrické energie je 15x vyšší než v současných automobilních fúzních motorech. Naneštěstí máme stále problémy, které je třeba překonat. Iontové buzení ve zlatu produkující elektrony ke sběru také vytváří přebytkové teplo. Z makroperspektivy se nejedná o závažnou teplotu, ale kvůli úzkému řezu modulu se při rozsáhlém používání nosná vrstva zlata v nanotkanině rychle rozpadá. Pokusíme se o změnu dávkování vzorku zlata k produkci tenčích svazků v materiálu. Zvětšená povrchová plocha by měla pomoci při rozptylu tepla, podobně jako chladič.</Dest>
+      <Dest>Úvodní testy prokázaly správnost postupů. Sběr elektrické energie je 15x vyšší než v současných automobilních fúzních motorech. Naneštěstí máme stále problémy, které je třeba překonat. Iontová excitace zlata poskytuje využitelné elektrony a také vytváří přebytkové teplo. Z makroperspektivy se nejedná o závažnou teplotu, ale kvůli úzkému řezu modulu se při rozsáhlém používání nosná vrstva zlata v nanotkanině rychle rozpadá. Pokusíme se o změnu dávkování vzorku zlata k produkci tenčích svazků v materiálu. Zvětšená povrchová plocha by měla pomoci při rozptylu tepla podobně jako chladič.</Dest>
     </String>
     <String List="0" sID="032CCF">
       <EDID>DN015_ErickaSubTerminalMail</EDID>
@@ -5974,7 +5975,7 @@ Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unave
       <Source>We've been unable to gather the samples needed to try the new dosing pattern. Wil has locked himself in one of the labs, and has been attempting to hack into the administrative systems. When we tried to get the U-238 we need from the isotope containment, he locked it down leaving Mary stranded inside. He said he is going to set the facility defense systems so that it looks like the lab has been breached. This will unlock the clean room, but will also activate the automated defenses which will see us as attackers.&#xD;
 &#xD;
 He means to fight his way out, but that's suicide. He's the only one in the lab with military training, and we don't even have real weapons. I've tried to tell him that we can complete the project, that we have the answer now, but he refuses to see reason and doesn't believe Jon will actually let us out. We've managed to pull down part of the ceiling in C1, which will get us into the utility crawl space. It can't get us out, but it should be able to get us above the lab Wil has barricaded himself in. I don't like it, but we have to get the drop on him.</Source>
-      <Dest>Nepodařilo se nám nasbírat vzorky potřebné k vyzkoušení nového vzorku dávkování. Wil se zamknul v jedné z laboratoří a pokouší se nabourat do administrativního systému. Když jsme se pokoušeli získat potřebné U-238 z izolace izotopů, uzamknul ji i s Mary uvězněnou uvnitř. Řekl, že spustí obranné systémy zařízení, tak aby to vypadalo, že bezpečnost laboratoře byla narušena. Tím odemkne sterilní místnost, ale také aktivuje automatické obranné systémy, které nás budou považovat za útočníky.&#xD;
+      <Dest>Nepodařilo se nám nasbírat vzorky potřebné k vyzkoušení nového vzorku dávkování. Wil se zamknul v jedné z laboratoří a pokouší se nabourat do administrativního systému. Když jsme se pokoušeli získat potřebné U-238 z izolace izotopů, uzamknul ho i s Mary uvnitř. Řekl, že spustí obranné systémy zařízení tak, aby to vypadalo, že bezpečnost laboratoře byla narušena. Tím odemkne sterilní místnost, ale také aktivuje automatické obranné systémy, které nás budou považovat za útočníky.&#xD;
 &#xD;
 Má v úmyslu probojovat se ven, ale to je sebevražda. Je v laboratoři jediný, kdo má vojenský výcvik a nemáme ani skutečné zbraně. Pokoušela jsem se mu říct, že jsme schopni projekt dokončit, že již známe odpověď, ale on to odmítá pochopit a nevěří, že nás Jon skutečně pustí ven. Podařilo se nám strhnout část stropu v C1, čímž se dostaneme do obslužné šachty. Nedovede nás ven, ale dostaneme se nad laboratoř, ve které je Wil zabarikádovaný. Nelíbí se mi to, ale musíme na něj vpadnout.</Dest>
     </String>
@@ -5982,7 +5983,7 @@ Má v úmyslu probojovat se ven, ale to je sebevražda. Je v laboratoři jediný
       <EDID>DN015_DirectorsSubTerminalLogs</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>There's been a problem with the reactor. The shockwave from the inital blast must have cracked the containment lining, because there is a growing leak showing up on the detectors in the lab. To make matters worse, Wil has been trying to hack into the administrative controls. I've been working to keep him out, but I think the wound in my shoulder may be going septic, and I don't know how much longer I can hold out.</Source>
-      <Dest>Došlo k závadě na reaktoru. Tlaková vlna z počátečního výbuchu musela narušit zdivo izolace, protože detektory v laboratoři ukazují narůstající únik. Aby toho nebylo málo, Wil se pokoušel nabourat do administrativního ovládání. Snažil jsem se mu znemožnit přístup, ale mám dojem že se mi rána v rameni zanítila a nevím, jak dlouho ještě vydržím.</Dest>
+      <Dest>Došlo k závadě na reaktoru. Tlaková vlna z počátečního výbuchu musela narušit zdivo izolace, protože detektory v laboratoři ukazují narůstající únik. Aby toho nebylo málo, Wil se pokoušel nabourat do administrativního ovládání. Snažil jsem se mu znemožnit přístup, ale mám dojem, že se mi rána v rameni zanítila a nevím, jak dlouho ještě vydržím.</Dest>
     </String>
     <String List="0" sID="032D13">
       <EDID>DN015_ErickaSubTerminalProject</EDID>
@@ -6028,15 +6029,15 @@ Server Error: Backups cannot be restored at this time&#xD;
 [L.Reed] - What you're doing is illegal&#xD;
 [J.Harvey] - Need to get home to my kids&#xD;
 [M.Goodman] - Can't call out of the lab?</Source>
-      <Dest>=================================================                                               =             Smazaná pošta                 =&#xD;
-=        &lt;Přihlášený uživatel "J.Elwood"&gt;            =&#xD;
+      <Dest>=================================================                                               =                 Smazaná pošta                 =&#xD;
+=        &lt;Uživatel „J.Elwood“ přihlášen&gt;        =&#xD;
 =================================================&#xD;
 Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
 &#xD;
 [N.Stokes] - Ty parchante&#xD;
 [T.Franklin] - Co se to tam děje?&#xD;
 [M.Goodman] - Nemůžeš nás tu držet zamčené&#xD;
-[L.Reed] - To, co děláš je nelegální&#xD;
+[L.Reed] - To, co děláš, je nelegální&#xD;
 [J.Harvey] - Musím se dostat domů k dětem&#xD;
 [M.Goodman] - Nemůžeme zavolat z laboratoře?</Dest>
     </String>
@@ -6066,7 +6067,7 @@ Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
 All Systems normal&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================              Podsystém sterilní místnosti              =&#xD;
+      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
 ==================================================&#xD;
 Všechny systémy v normálu&#xD;
 &#xD;
@@ -6090,9 +6091,9 @@ Všechny systémy v normálu&#xD;
       <Source>We've been trapped in the lab for days now and tensions are running high. The team is fractured and falling apart. They don't know what is going on outside and have started making attempts to escape the lab. While I was sleeping they managed to cut a hole through the thinner interior wall of the clean room, but have been unable to break through the hardened outer wall. Wil started talking with some of the others about going at the problem from "a more oblique angle", which got me to thinking about the thermal dissipation problem when it dawned on me.&#xD;
 &#xD;
 If we change dosing pattern so it isn't producing nanoholes perpendicular to the surface but instead at an angle, we might be able to reflect the most direct radioactive particles and trapping only those coming in at an oblique angle to the material. We would achieve a lower energy harvest, but the heat dissipation issues might be solved. Tom, Mary, and I are going to gather the samples needed to try it.</Source>
-      <Dest>Jsme uvězněni v laboratoři několik dní a napětí stoupá. Tým je rozdělený a rozpadá se. Nevědí, co se děje venku a začínají se pokoušet uniknout z laboratoře. Zatímco jsem spala, podařilo se jim provrtat díru tenkou vnitřní stěnou sterilní místnosti, ale nebyli schopni prolomit tvrzenou vnější stěnu. Wil začal s několika dalšími probírat možnost jít na problém "nepřímou cestou", což mě přivedlo na myšlenku o teplotním rozptylu a v tom mi to došlo.&#xD;
+      <Dest>Jsme uvězněni v laboratoři několik dní a napětí stoupá. Tým je rozdělený a rozpadá se. Nevědí, co se děje venku, a začínají se pokoušet unikat z laboratoře. Zatímco jsem spala, podařilo se jim provrtat díru tenkou vnitřní stěnou sterilní místnosti, ale nebyli schopni prolomit tvrzenou vnější stěnu. Wil začal s několika dalšími probírat možnost jít na problém „nepřímou cestou“, což mě přivedlo na myšlenku o teplotním rozptylu a vtom mi to došlo.&#xD;
 &#xD;
-Pokud změníme vzorec dávkování, tak aby produkoval nanojamky ne kolmo k povrchu, ale pod úhlem, mohlo by se nám podařit odrazit přímo letící radioaktivní částice a zachytit jen ty letící k materiálu pod šikmým úhlem. Dosáhly bychom nižšího sběru energie, ale mohlo by to vyřešit problém s rozptylem tepla. Tom, Mary, a se pokusíme nashromáždit vzorky potřebné k pokusu.</Dest>
+Pokud změníme vzorec dávkování tak, aby produkoval nanojamky ne kolmo k povrchu ale pod úhlem, mohlo by se nám podařit odrazit přímo letící radioaktivní částice a zachytit jen ty letící k materiálu pod šikmým úhlem. Dosáhli bychom nižšího sběru energie, ale mohlo by to vyřešit problém s rozptylem tepla. Tom, Mary, a já se pokusíme nashromáždit vzorky potřebné k pokusu.</Dest>
     </String>
     <String List="0" sID="032F22">
       <EDID>DN015_ErickaSubTerminalProject</EDID>
@@ -6124,7 +6125,7 @@ Jon, I don't know if we can do it. We've been working on the problem for weeks a
       <Dest>Sender:[E.ElwoodWoolum] &#xD;
 &gt;&gt; RE: Důvěrné&#xD;
 &#xD;
-Jone, nevím, jestli to zvládneme. Pracovali jsme na tom problému týdny, a nepodařilo se nám najít způsob, jak zabránit rozpadu nanotkaniny během zátěže při používání. I když najdeme řešení, může trvat dny naprogramovat správný vzorec dávkování, a nejsem si jistá, že to zvládnu tak dlouho skrývat. Pokud to zvládnu, nejsem si jistá, jestli je správné, abychom učinili takové rozhodnutí. Někteří mají venku rodiny, neměli by mít možnost pokusit se je ochránit? &#xD;
+Jone, nevím, jestli to zvládneme. Pracovali jsme na tom problému týdny a nepodařilo se nám najít způsob jak zabránit rozpadu nanotkaniny během zátěže při používání. I když najdeme řešení, může trvat dny naprogramovat správný vzorec dávkování a nejsem si jistá, že to zvládnu tak dlouho skrývat. Pokud to zvládnu, nejsem si jistá, jestli je správné, abychom učinili takové rozhodnutí. Někteří mají venku rodiny, neměli by mít možnost pokusit se je ochránit? &#xD;
 &#xD;
 - Erika</Dest>
     </String>
@@ -6140,7 +6141,7 @@ I've got the thermal problem solved, but we need the samples to produce a protot
       <Dest>Odesílatel:[E.ElwoodWoolum] &#xD;
 &gt;&gt; On nás tu zamknul&#xD;
 &#xD;
-Vyřešila jsem ten tepelný problém, ale potřebujeme vzorky k výrobě prototypu. Wil se zabarikádoval v laboratoři a zamknul nás před izolační místností isotopů. Řekla jsem ostatním, o co tu jde a nenávidí nás za to, ale chápou, že je to současně jediná cesta ven. Potřebujeme, abys získal zpět ovládání, abychom mohli dokončit projekt a dostat se odsud ven. &#xD;
+Vyřešila jsem ten tepelný problém, ale potřebujeme vzorky k výrobě prototypu. Wil se zabarikádoval v laboratoři a zamknul nás před izolační místností izotopů. Řekla jsem ostatním, o co tu jde, a nenávidí nás za to, ale chápou, že je to současně jediná cesta ven. Potřebujeme, abys získal zpět ovládání, abychom mohli dokončit projekt a dostat se odsud ven. &#xD;
 &#xD;
 - Erika</Dest>
     </String>
@@ -6186,13 +6187,13 @@ Už déle nevydržím.</Dest>
       <EDID>DN015_DirectorsSubTerminalLogs</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>There are looters everywhere and people fighting in the streets. I managed to find a radio and some supplies, but I caught a stray bullet in the shoulder on my way back. Between that and the radiation sickness the past 36 hours have been hell. I finally managed to find the right frequency and get through to a military liason, but he said that Kemp had left orders that they could only spare an extraction team for assets vital to war effort. If we try to have them get us out without the project completed, he'll have us executed for treason. I have to keep them in the lab, we have to finish the project.</Source>
-      <Dest>Všude se rabuje a lidé bojují v ulicích. Podařilo se mi najít radiostanici a nějaké zásoby, ale po cestě zpět jsem schytal zbloudilou kulku do ramene. Mezí tímhle a nemocí z ozáření bylo posledních 36 hodin peklo. Konečně se mi podařilo najít správnou frekvenci a kontaktovat někoho z armády, ale řekl mi, že Kemp zanechal rozkazy, záchranný tým je možné využít pouze pro prostředky zásadní pro válečné tažení. Pokud se pokusíme o vyzvednutí bez dokončeného projektu, popraví nás za velezradu. Musím je udržet v laboratoři, musíme dokončit projekt.</Dest>
+      <Dest>Všude se rabuje a lidé bojují v ulicích. Podařilo se mi najít radiostanici a nějaké zásoby, ale po cestě zpět jsem schytal zbloudilou kulku do ramene. Mezi tímhle a nemocí z ozáření bylo posledních 36 hodin peklo. Konečně se mi podařilo najít správnou frekvenci a kontaktovat někoho z armády, ale řekl mi, že Kemp zanechal rozkazy, záchranný tým je možné využít pouze pro prostředky zásadní pro válečné tažení. Pokud se pokusíme o vyzvednutí bez dokončeného projektu, popraví nás za velezradu. Musím je udržet v laboratoři, musíme dokončit projekt.</Dest>
     </String>
     <String List="0" sID="032F3F">
       <EDID>DN015_DirectorsSubTerminalLogs</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>He was trying to warn me. They hit us with a nuke. The lab was built to withstand nearly anything but a direct hit, but the EMP has blown out all external communications. I told the team that there are training maneuvers going on around town, but I don't know how long they are going to buy that. I need to find a way to get ahold of Col. Kemp to see if they can extract us to a safe location. Even if I can find a working phone somewhere, I'll never be able to get through. Maybe if I can get ahold of a ham radio I can try to reach them on an open channel.</Source>
-      <Dest>Pokoušel se mě varovat. Zasáhli nás jadernou zbraní. Laboratoř byla postavena, aby odolala téměř všemu, až na přímý zásah, ale EMP spálilo veškeré externí komunikační zařízení. Týmu jsem řekl, že probíhají výcvikové manévry v okolí města, ale nevím, jak dlouho mi to budou věřit. Musím najít způsob jako zkontaktovat plk. Kempa, abych zjistil, jestli nás mohou převézt do bezpečné oblasti. Pokud někde najdu funkční telefon, stejně se nedovolám ven. Možná, pokud by se mi podařilo sehnat radioamatérskou stanici, mohl bych je kontaktovat na otevřené frekvenci.</Dest>
+      <Dest>Pokoušel se mě varovat. Zasáhli nás jadernou zbraní. Laboratoř byla postavena, aby odolala téměř všemu až na přímý zásah, ale EMP spálilo veškeré externí komunikační zařízení. Týmu jsem řekl, že probíhají výcvikové manévry v okolí města, ale nevím, jak dlouho mi to budou věřit. Musím najít způsob jak zkontaktovat plk. Kempa, abych zjistil, jestli nás mohou převézt do bezpečné oblasti. Pokud někde najdu funkční telefon, stejně se nedovolám ven. Možná, pokud by se mi podařilo sehnat radioamatérskou stanici, mohl bych je kontaktovat na otevřené frekvenci.</Dest>
     </String>
     <String List="0" sID="032F40">
       <EDID>DefaultTerminalInstituteWall</EDID>
@@ -6808,7 +6809,7 @@ Už déle nevydržím.</Dest>
                ::::SYSTEM ERROR::::&#xD;
 &#xD;
 Access locked by user &lt;J.Elwood&gt;</Source>
-      <Dest>===================================================              Podsystém sterilní místnosti              =&#xD;
+      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
 ==================================================&#xD;
                ::::SYSTÉMOVÁ CHYBA::::&#xD;
 &#xD;
@@ -6908,7 +6909,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
       <EDID>dn_CommonMelee</EDID>
       <REC id="69">INNR:WNAM</REC>
       <Source>Swatter</Source>
-      <Dest>Odpalovač</Dest>
+      <Dest>[Odpalovač]</Dest>
     </String>
     <String List="0" sID="033B31">
       <EDID>DN015</EDID>
@@ -6980,25 +6981,25 @@ That, dear readers, is the question. For the boogeyman may indeed have been bani
 This reporter hold onto hope, for one very specific reason. If my sources are correct - and I know they are - the Institute's destruction was actually orchestrated by someone many of us have already met - the Wanderer. it would seem that lonely figure who came into our settlement searching for a missing child actually found the monster that had taken so many children. And killed it.&#xD;
 &#xD;
 So be wary as we go into a new tomorrow, my friends. But stay strong. And always, always remember that humanity lives and dies on the surface. Humanity IS the Commonwealth. And maybe, just maybe, with the Institute finally gone, we can have the future we all deserve.</Source>
-      <Dest>Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
+      <Dest>Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní, skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
 &#xD;
-Od incidentu "Odhalená maska" v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
+Od incidentu „Odhalená maska“ v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
 &#xD;
-Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, co mu stojí v cestě?&#xD;
+Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, kdo mu stojí v cestě?&#xD;
 &#xD;
-My, lid Commonwealthu, pamatujeme na minulost. Žili jsme ve strachu v přítomnosti. Ale s katastrofickou explozí v ruinách C.I.T., zjevně dávající najevo zničení Institutu (což, jak reportérka zjistila, bylo situováno hluboko v podzemí), má každý na mysli otázku: byl strašák opravdu zahnán?&#xD;
+My, lid Commonwealthu, pamatujeme na minulost. Žili jsme ve strachu v přítomnosti. Ale s katastrofickou explozí v ruinách C.I.T., zjevně dávající najevo zničení Institutu (což, jak reportérka zjistila, bylo situováno hluboko v podzemí), má každý na mysli otázku: Byl strašák opravdu zahnán?&#xD;
 &#xD;
 Rozhodně to tak vypadá.&#xD;
 &#xD;
-Dokud tu byl Institut, byl tu odpor proti tajemné, hrozivé organizaci. Zatímco většina obyčejných lidí by se ani ve snu nevzepřela svým nelítostným pánům, Železnice proti nim vedla tajnou válku přes třicet let. A příchod Bratrstva oceli do Commonwealthu znamenal nejzjevnější odpor, proti jakému kdy Institut stál. Každá říše jednou padne. Přesněji řečeno, to možná nebylo otázkou "jestli" ale spíše "kdy."&#xD;
+Dokud tu byl Institut, byl tu odpor proti tajemné, hrozivé organizaci. Zatímco většina obyčejných lidí by se ani ve snu nevzepřela svým nelítostným pánům, Železnice proti nim vedla tajnou válku přes třicet let. A příchod Bratrstva oceli do Commonwealthu znamenal nejzjevnější odpor, proti jakému kdy Institut stál. Každá říše jednou padne. Přesněji řečeno to možná nebylo otázkou „jestli“ ale spíše „kdy“.&#xD;
 &#xD;
-Co přesně to znamená pro Commonwealth, jít kupředu?&#xD;
+Co přesně znamená pro Commonwealth „jít kupředu“?&#xD;
 &#xD;
-To, milí čtenáři, je otázkou. Strašák možná byl vskutku zahnán, ale není možné, že další nestvůry vystoupí ze skříně, aby nás strašili v noci? V Commonwealthu jsou další hráči. Žádný z nich tak silný jako Institut - ale to se dozajista změní. Budou pracovat s Commonwealthem, nebo proti němu? Jsou tu pro lidi, nebo proti nám? &#xD;
+To, milí čtenáři, je otázkou. Strašák možná byl vskutku zahnán, ale není možné, že další nestvůry vyjdou ze skříně, aby nás strašili v noci? V Commonwealthu jsou další hráči. Žádný z nich není tak silný jako Institut, ale to se dozajista změní. Budou pracovat s Commonwealthem, nebo proti němu? Jsou tu pro lidi, nebo proti nám? &#xD;
 &#xD;
-Reportérka si ponechala nahrávku, za jedním konkrétním účelem. Pokud jsou mé zdroje správné - a já vím, že jsou - zničení Institutu bylo zorganizováno někým, s kým se mnozí z nás už setkali - tulákem. Zdá se, že osamělá postava, která přišla do naší osady hledat ztracené dítě, skutečně našla nestvůru, která vzala tolik dětí. A zabila ji.&#xD;
+Reportérka si ponechala nahrávku za jedním konkrétním účelem. Pokud jsou mé zdroje správné, a já vím, že jsou, zničení Institutu bylo zorganizováno někým, s kým se mnozí z nás už setkali - tulákem. Zdá se, že osamělá postava, která přišla do naší osady hledat ztracené dítě, skutečně našla nestvůru, která vzala tolik dětí. A zabila ji.&#xD;
 &#xD;
-Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, když Institut konečně zmizel, můžeme mít budoucnost, kterou si všichni zasloužíme.</Dest>
+Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, když Institut konečně zmizel, můžeme mít budoucnost, kterou si všichni zasloužíme.</Dest>
     </String>
     <String List="0" sID="03419F">
       <EDID>DetectLifeHostileSpell</EDID>
@@ -7070,25 +7071,25 @@ But isn't it possible these fears are unfounded? The Railroad may have opposed t
 But perhaps the most compelling reason not to give up hope just yet is the fact that, if my sources are correct - and I know they are - the Institute is now under the direct influence of someone many of us have already met - the Wanderer. That lonely figure who came into our settlement searching for a missing child, and clearly found something else entirely. And maybe, just maybe, the Institute is all the better for it.&#xD;
 &#xD;
 So be wary as we go into a new tomorrow, my friends. But stay strong. And always, always remember that humanity lives and dies on the surface. Humanity IS the Commonwealth. And maybe, just maybe, the Institute can be a part of that now.</Source>
-      <Dest>Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
+      <Dest>Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní, skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
 &#xD;
-Od incidentu "Odhalená maska" v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
+Od incidentu „Odhalená maska“ v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
 &#xD;
-Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, co mu stojí v cestě?&#xD;
+Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, kdo mu stojí v cestě?&#xD;
 &#xD;
 My, lid Commonwealthu, pamatujeme na minulost. Žijeme ve strachu v současnosti. Ale je třeba se obávat i budoucnosti?&#xD;
 &#xD;
-V nepředstavitelném sledu nedávných událostí, Institut zničil každého v Commonwealthu, kdo měl možnost je zastavit, včetně dlouhodobých hráčů Železnice, stejně jako nově příchozího Bratrstva oceli. A co víc, tato tajemná a hrozivá organizace dokončila práci na pokročilém jaderném reaktoru, který jim poskytne téměř neomezenou energii v dohledné budoucnosti. To jistě znamená další podzemní rozrůstání, stejně jako větší dosah jejich teleportační technologie (která byla donedávna přísně střeženým tajemstvím Institutu).&#xD;
+V nepředstavitelném sledu nedávných událostí zničil Institut každého v Commonwealthu, kdo měl možnost je zastavit, včetně dlouhodobých hráčů Železnice, stejně jako nově příchozího Bratrstva oceli. A co víc, tato tajemná a hrozivá organizace dokončila práci na pokročilém jaderném reaktoru, který jim poskytne téměř neomezenou energii v dohledné budoucnosti. To jistě znamená další podzemní rozrůstání, stejně jako větší dosah jejich teleportační technologie (která byla donedávna přísně střeženým tajemstvím Institutu).&#xD;
 &#xD;
-Co to přesně znamená pro Commonwealth, jít kupředu?&#xD;
+Co přesně znamená pro Commonwealth „jít kupředu“?&#xD;
 &#xD;
-Zřejmě se shodneme, že "Nic dobrého". Ve skutečnosti, většina lidí očekává to nejhorší.&#xD;
+Zřejmě se shodneme, že „nic dobrého“. Ve skutečnosti většina lidí očekává to nejhorší.&#xD;
 &#xD;
-Ale není možné, že tento strach je neopodstatněný? Železnice možná oponovala Institutu, ale také bránila všechny syntetiky - i ty, kteří potencionálně mohli infiltrovat lidskou společnost. A loď Bratrstva je nyní možná jen doutnající vrak - zajímalo vůbec tento novo-rytířský řád, co je v nejlepším zájmu Commonwealthu?&#xD;
+Ale není možné, že tento strach je neopodstatněný? Železnice možná oponovala Institutu, ale také bránila všechny syntetiky, i ty, kteří potencionálně mohli infiltrovat lidskou společnost. A loď Bratrstva je nyní možná jen doutnající vrak. Zajímalo vůbec tento novo-rytířský řád, co je v nejlepším zájmu Commonwealthu?&#xD;
 &#xD;
-Možná nejpřesvědčivějším důvodem, proč ještě neztrácet naději je fakt, pokud jsou mé zdroje správné - a já vím, že jsou - Institut je pod přímým vlivem někoho, s kým se mnozí z nás už setkali - tuláka. Osamělé postavy, která přišla hledat do naší osady ztracené dítě, a zřejmě našla něco úplně jiného. A možná, jen možná, je pro to Institut o to lepší.&#xD;
+Možná nejpřesvědčivějším důvodem, proč ještě neztrácet naději, je fakt, že pokud jsou mé zdroje správné, a já vím, že jsou, Institut je pod přímým vlivem někoho, s kým se mnozí z nás už setkali - tuláka. Osamělé postavy, která přišla hledat do naší osady ztracené dítě, a zřejmě našla něco úplně jiného. A možná, jen možná, je pro to Institut o to lepší.&#xD;
 &#xD;
-Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, toho může nyní být Institut součástí.</Dest>
+Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, toho může nyní být Institut součástí.</Dest>
     </String>
     <String List="0" sID="034510">
       <EDID>DN015</EDID>
@@ -7202,7 +7203,7 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonGun</EDID>
       <REC id="141">INNR:WNAM</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>[Odstřelovací puška]</Dest>
     </String>
     <String List="0" sID="0349E5">
       <EDID>dn_CommonGun</EDID>
@@ -7268,7 +7269,7 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonGun</EDID>
       <REC id="37">INNR:WNAM</REC>
       <Source>Lucky</Source>
-      <Dest>[Šťístko]</Dest>
+      <Dest>[Štístko]</Dest>
     </String>
     <String List="0" sID="034A08">
       <EDID>dn_CommonArmor</EDID>
@@ -7544,37 +7545,37 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonGun</EDID>
       <REC id="145">INNR:WNAM</REC>
       <Source>Zeta Gun</Source>
-      <Dest>Zeta zbraň</Dest>
+      <Dest>[Zeta zbraň]</Dest>
     </String>
     <String List="0" sID="034AA5">
       <EDID>dn_CommonGun</EDID>
       <REC id="144">INNR:WNAM</REC>
       <Source>Lorenzo's Artifact Gun</Source>
-      <Dest>Lorenzova artefaktová zbraň</Dest>
+      <Dest>[Lorenzova artefaktová zbraň]</Dest>
     </String>
     <String List="0" sID="034AA6">
       <EDID>dn_CommonGun</EDID>
       <REC id="143">INNR:WNAM</REC>
       <Source>Target Seeking Fat Man</Source>
-      <Dest>Zaměřovací Tlusťoch</Dest>
+      <Dest>[Zaměřovací Tlusťoch]</Dest>
     </String>
     <String List="0" sID="034AA8">
       <EDID>dn_CommonGun</EDID>
       <REC id="142">INNR:WNAM</REC>
       <Source>Experimental MIRV</Source>
-      <Dest>Experimentální MIRV</Dest>
+      <Dest>[Experimentální MIRV]</Dest>
     </String>
     <String List="0" sID="034AA9">
       <EDID>dn_CommonGun</EDID>
       <REC id="140">INNR:WNAM</REC>
       <Source>Combat Sniper Rifle</Source>
-      <Dest>Taktická odstřelovací puška</Dest>
+      <Dest>[Taktická odstřelovací puška]</Dest>
     </String>
     <String List="0" sID="034AAC">
       <EDID>dn_CommonGun</EDID>
       <REC id="138">INNR:WNAM</REC>
       <Source>Napalmer</Source>
-      <Dest>Napalmomet</Dest>
+      <Dest>[Napalmomet]</Dest>
     </String>
     <String List="0" sID="034AAD">
       <EDID>dn_CommonGun</EDID>
@@ -7610,7 +7611,7 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonGun</EDID>
       <REC id="129">INNR:WNAM</REC>
       <Source>Hair Trigger</Source>
-      <Dest>[Jemná spouť]</Dest>
+      <Dest>[Jemná spoušť]</Dest>
     </String>
     <String List="0" sID="034AB9">
       <EDID>dn_CommonGun</EDID>
@@ -8060,7 +8061,7 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonGun</EDID>
       <REC id="10">INNR:WNAM</REC>
       <Source>Hunter's</Source>
-      <Dest>[Lovcec]</Dest>
+      <Dest>[Lovec]</Dest>
     </String>
     <String List="0" sID="034B87">
       <EDID>dn_CommonGun</EDID>
@@ -8942,25 +8943,25 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonArmor</EDID>
       <REC id="38">INNR:WNAM</REC>
       <Source>Stablized</Source>
-      <Dest>[Stabilizace]</Dest>
+      <Dest>[Stabilizovaná]</Dest>
     </String>
     <String List="0" sID="0357BA">
       <EDID>dn_CommonArmor</EDID>
       <REC id="35">INNR:WNAM</REC>
       <Source>Padded</Source>
-      <Dest>[Vycpávka]</Dest>
+      <Dest>[Vycpaná]</Dest>
     </String>
     <String List="0" sID="0357BB">
       <EDID>dn_CommonArmor</EDID>
       <REC id="46">INNR:WNAM</REC>
       <Source>Sleek</Source>
-      <Dest>[Uhlazení]</Dest>
+      <Dest>[Uhlazená]</Dest>
     </String>
     <String List="0" sID="0357BC">
       <EDID>dn_CommonArmor</EDID>
       <REC id="45">INNR:WNAM</REC>
       <Source>Weighted</Source>
-      <Dest>[Zatížení]</Dest>
+      <Dest>[Zatížená]</Dest>
     </String>
     <String List="0" sID="0357BD">
       <EDID>dn_CommonArmor</EDID>
@@ -9008,7 +9009,7 @@ Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňt
       <EDID>dn_CommonArmor</EDID>
       <REC id="41">INNR:WNAM</REC>
       <Source>Custom Fit</Source>
-      <Dest>[Tvarováná]</Dest>
+      <Dest>[Tvarovaná]</Dest>
     </String>
     <String List="0" sID="0359E2">
       <EDID>DetectLifeCloakPATargetEffect</EDID>
@@ -9622,7 +9623,7 @@ Nech si co zabiješ. Žádná další odměna.&#xD;
       <Source>Davis - You see the garbage in today's shipment? Even I can see that steel's no good- couple of beams were already rusted through. Someone's going to get killed.&#xD;
 &#xD;
 Damn suits. Always trying to cut corners.</Source>
-      <Dest>Davisi - Vidíš ten brak v dnešní dodávce? I já poznám že ta ocel je nekvalitní- pár nosníků bylo už prorezlých. Někoho to bude stát život.&#xD;
+      <Dest>Davisi, vidíš ten brak v dnešní dodávce? I já poznám, že ta ocel je nekvalitní - pár nosníků bylo už prorezlých. Někoho to bude stát život.&#xD;
 &#xD;
 Zatracení papaláši. Vždy se snaží ušetřit na nesprávném místě.</Dest>
     </String>
@@ -9860,7 +9861,7 @@ Nech si, co zabiješ. Žádná další odměna.&#xD;
       <EDID>DayTripper</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+3 Charisma, +3 Luck and -2 Strength for 10 minutes.</Source>
-      <Dest>+3 charisma, +3 štěstí a -2 síly po dobu 10-ti minut.</Dest>
+      <Dest>+3 charisma, +3 štěstí a -2 síly po dobu 10 minut.</Dest>
     </String>
     <String List="1" sID="030B4B">
       <EDID>DN015_Armor_Power_Torso</EDID>
