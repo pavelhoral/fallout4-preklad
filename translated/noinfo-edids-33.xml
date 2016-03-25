@@ -106,7 +106,7 @@
       <EDID>sServeSentenceQuestion</EDID>
       <REC>GMST:DATA</REC>
       <Source>Do you want to serve your time in jail?</Source>
-      <Dest>Opravdu si chceš si odpykat svůj trest ve vězení?</Dest>
+      <Dest>Opravdu si chceš odpykat svůj trest ve vězení?</Dest>
     </String>
     <String List="0" sID="000EFE">
       <EDID>sSoulLevelNameLesser</EDID>
@@ -154,7 +154,7 @@
       <EDID>sNoFastTravelHostileActorsNear</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot fast travel when enemies are nearby.</Source>
-      <Dest>Nemůžeš použít rychlé cestování, když jsou poblíž nepřátelé.</Dest>
+      <Dest>Nemůžeš použít rychlé cestování, pokud jsou poblíž nepřátelé.</Dest>
     </String>
     <String List="0" sID="00149D">
       <EDID>sPickpocket</EDID>
@@ -166,7 +166,7 @@
       <EDID>sNoFastTravelCombat</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot fast travel during combat!</Source>
-      <Dest>Rychlé cestování nemůžeš použít, když jsi v bitvě!</Dest>
+      <Dest>Nemůžeš použít rychlé cestování, pokud jsi v bitvě!</Dest>
     </String>
     <String List="0" sID="001B88">
       <EDID>sReturn</EDID>
@@ -256,7 +256,7 @@
       <EDID>sQuickLoading</EDID>
       <REC>GMST:DATA</REC>
       <Source>Quickloading...</Source>
-      <Dest>Rychle načítám...</Dest>
+      <Dest>Rychlé načítání...</Dest>
     </String>
     <String List="0" sID="002AF4">
       <EDID>sNoWaitInCell</EDID>
@@ -388,7 +388,7 @@
       <EDID>sNoSleepTakingHealthDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep while taking health damage.</Source>
-      <Dest>Nemůžeš spát, když ti ubývá zdraví.</Dest>
+      <Dest>Nemůžeš spát, pokud ti ubývá zdraví.</Dest>
     </String>
     <String List="0" sID="00438A">
       <EDID>sRanksText</EDID>
@@ -460,7 +460,7 @@
       <EDID>sNoSleepWhileAlarm</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep while guards are pursuing you.</Source>
-      <Dest>Nemůžeš spát, když tě pronásledují stráže.</Dest>
+      <Dest>Nemůžeš spát, pokud tě pronásledují stráže.</Dest>
     </String>
     <String List="0" sID="004D96">
       <EDID>sSearch</EDID>
@@ -490,7 +490,7 @@
       <EDID>sObjectInUse</EDID>
       <REC>GMST:DATA</REC>
       <Source>This object is already in use by someone else.</Source>
-      <Dest>Tento předmet již používá někdo jiný.</Dest>
+      <Dest>Tento předmět již používá někdo jiný.</Dest>
     </String>
     <String List="0" sID="0052C1">
       <EDID>sMissingImage</EDID>
@@ -592,7 +592,7 @@
       <EDID>sRestartSignedOut</EDID>
       <REC>GMST:DATA</REC>
       <Source>You have signed out of your profile and will now be returned to the main menu.</Source>
-      <Dest>Odhlásil jsi se ze svého profilu. Probíhý návrat do hlavní nabídky.</Dest>
+      <Dest>Odhlásil jsi se ze svého profilu. Probíhá návrat do hlavní nabídky.</Dest>
     </String>
     <String List="0" sID="006ECB">
       <EDID>sRSMNeckColor</EDID>
@@ -646,7 +646,7 @@
       <EDID>sNoWaitWhileAlarm</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait while guards are pursuing you.</Source>
-      <Dest>Nemůžeš čekat, když tě pronásledují stráže.</Dest>
+      <Dest>Nemůžeš čekat, pokud tě pronásledují stráže.</Dest>
     </String>
     <String List="0" sID="0077A1">
       <EDID>sRSMMouthForward</EDID>
@@ -664,7 +664,7 @@
       <EDID>sQuickSaving</EDID>
       <REC>GMST:DATA</REC>
       <Source>Quicksaving...</Source>
-      <Dest>Rychle ukládám...</Dest>
+      <Dest>Rychlé ukládání...</Dest>
     </String>
     <String List="0" sID="007DBC">
       <EDID>sRSMFacialHairPresets</EDID>
@@ -682,7 +682,7 @@
       <EDID>sNoviceDisplayName</EDID>
       <REC>GMST:DATA</REC>
       <Source>Very Easy</Source>
-      <Dest>Velmí snadná</Dest>
+      <Dest>Velmi snadná</Dest>
     </String>
     <String List="0" sID="0086B1">
       <EDID>sRSMScars</EDID>
@@ -802,7 +802,7 @@
       <EDID>sSaveGameCorruptMenuMessage</EDID>
       <REC>GMST:DATA</REC>
       <Source>The save game is corrupt and cannot be loaded.</Source>
-      <Dest>Tato uložen pozice je poškozená a nelze ji načíst.</Dest>
+      <Dest>Tato uložená pozice je poškozená a nelze ji načíst.</Dest>
     </String>
     <String List="0" sID="009D49">
       <EDID>sRSMMouthTypes</EDID>
@@ -942,7 +942,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sSaveGameIsCorrupt</EDID>
       <REC>GMST:DATA</REC>
       <Source>The save game is corrupt.  Returning to game.</Source>
-      <Dest>Tato uložená pozice je poškozená. The save game is corrupt.  Probíhá návrat do hry.</Dest>
+      <Dest>Tato uložená pozice je poškozená.  Probíhá návrat do hry.</Dest>
     </String>
     <String List="0" sID="00B0CE">
       <EDID>sRSMEyeHeight</EDID>
@@ -950,7 +950,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <Source>Eye Height</Source>
       <Dest>Výška očí</Dest>
     </String>
-    <String List="0" sID="00B115" Partial="1">
+    <String List="0" sID="00B115">
       <EDID>sOpenedContainer</EDID>
       <REC>GMST:DATA</REC>
       <Source>Opened the container with a key.</Source>
@@ -978,7 +978,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoLockPickIfCrimeAlert</EDID>
       <REC>GMST:DATA</REC>
       <Source>You can't pick a lock while being pursued by guards.</Source>
-      <Dest>Nemůžeš otvírat zámky, když tě pronásledují stráže.</Dest>
+      <Dest>Nemůžeš otvírat zámky, pokud tě pronásledují stráže.</Dest>
     </String>
     <String List="0" sID="00B8A7">
       <EDID>sRSMNoseLength</EDID>
@@ -1008,7 +1008,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoRepairHostileActorsNear</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot repair items when enemies are nearby.</Source>
-      <Dest>Nemůžeš opravovat předměty, když jsou nablízku nepřátelé.</Dest>
+      <Dest>Nemůžeš opravovat předměty, pokud jsou nablízku nepřátelé.</Dest>
     </String>
     <String List="0" sID="00C0A0">
       <EDID>sRepair</EDID>
@@ -1176,7 +1176,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoWaitInAir</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait in the air.</Source>
-      <Dest>Nemůžeš čekat, když jsi ve vzduchu.</Dest>
+      <Dest>Nemůžeš čekat, pokud jsi ve vzduchu.</Dest>
     </String>
     <String List="0" sID="00D800">
       <EDID>sRSMCheekboneHeight</EDID>
@@ -1248,7 +1248,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoSleepHostileActorsNear</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep when enemies are nearby.</Source>
-      <Dest>Nemůžeš spát, když jsou nablízku nepřátelé.</Dest>
+      <Dest>Nemůžeš spát, pokud jsou nablízku nepřátelé.</Dest>
     </String>
     <String List="0" sID="00DD7C">
       <EDID>sNoFastTravelUndiscovered</EDID>
@@ -1398,7 +1398,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoWaitTakingHealthDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait while taking health damage.</Source>
-      <Dest>Nemůžeš čekat, když ti ubývá zdraví.</Dest>
+      <Dest>Nemůžeš čekat, pokud ti ubývá zdraví.</Dest>
     </String>
     <String List="0" sID="00E9E2">
       <EDID>sOff</EDID>
@@ -1554,7 +1554,7 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoWaitHostileActorsNear</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait when enemies are nearby.</Source>
-      <Dest>Nemůžeš čekat, když jsou nablízku nepřátelé.</Dest>
+      <Dest>Nemůžeš čekat, pokud jsou nablízku nepřátelé.</Dest>
     </String>
     <String List="0" sID="00FB12">
       <EDID>sRSMWeight</EDID>
@@ -1590,13 +1590,13 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <EDID>sNoSleepWarnToLeave</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep while being asked to leave.</Source>
-      <Dest>Nemůžeš spát, když máš odejít.</Dest>
+      <Dest>Nemůžeš spát, pokud máš odejít.</Dest>
     </String>
     <String List="0" sID="011202">
       <EDID>sNoWaitWarnToLeave</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait while being asked to leave.</Source>
-      <Dest>Nemůžeš čekat, když máš odejít.</Dest>
+      <Dest>Nemůžeš čekat, pokud máš odejít.</Dest>
     </String>
     <String List="0" sID="0112AE">
       <EDID>sNoKeyDropWarning</EDID>
@@ -2132,9 +2132,9 @@ Obchodník má pouze %d zlaťáků.</Dest>
       <Source>If my time overseas taught me one thing, it's that war changes people.  When I first laced my boots in Georgia I thought enlisting the Army was just a way to blow shit up in the name of God and Uncle Sam. I was a self-centered kid who wanted to play with guns.  Now I understand what service really means, and what looking out for this bunch of teamsters means, too.&#xD;
 &#xD;
 It may not be the same as guard duty for a camp of 800 soldiers, but it's something.</Source>
-      <Dest>Pokud mě válka v zámoří něčemu naučila, tak tomu, že mění lidi. Když jsem si poprvé zavázal boty v Georgii, myslel jsem, že členství v armádě je jenom záminka pro vyhazování věci do vzduchu ve jménu boha a strýčka Sama. Byl jsem sebestředné děcko, které si chtělo hrát se zbraněmi. Teď už chápu co služba opravdu znamená a taky co znamená dávat pozor na tuhle bandu parťáků.  &#xD;
+      <Dest>Pokud mě válka v zámoří něčemu naučila, tak tomu, že mění lidi. Když jsem si poprvé zavázal boty v Georgii, myslel jsem, že členství v armádě je jenom záminka pro vyhazování věcí do vzduchu ve jménu Boha a strýčka Sama. Byl jsem sebestředné děcko, které si chtělo hrát se zbraněmi. Teď už chápu, co služba opravdu znamená a taky, co znamená dávat pozor na tuhle bandu parťáků.  &#xD;
 &#xD;
-Možná to není stejné jako strážit tábor o 800 vojácích, ale stále je to něco.</Dest>
+Možná to není stejné, jako strážit tábor o 800 vojácích, ale stále je to něco.</Dest>
     </String>
     <String List="0" sID="02C6C2">
       <EDID>SouthBoston35TerminalForemanLogs</EDID>
@@ -2146,7 +2146,7 @@ Možná to není stejné jako strážit tábor o 800 vojácích, ale stále je t
       <EDID>SouthBoston35TerminalForemanLogs</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>I was sleeping in my chair when it happened.  They must have missed the city with  the big one - Framingham's gone from what little I heard on the radio before it went quiet.  Things aren't too good here, either.  At least I've got my little castle here to hole up in.  I'd probably have been vaporized if I had been doing my regular thing when it came.  Thanks, Lavonne...  </Source>
-      <Dest>Spal jsem ve svém křesle, když se to stalo.  Museli minout město s něčím velkým - Farmingham je pryč, podle toho co jsem slyšel ve vysílačce, než se odmlčeli.  Tady to taky není zrovna dobré.  Alespoň mám svůj malý hrad, ve kterém se mohu zakopat. Pravděpodobně bych byl seškvařen, pokud bych normálně pracoval, když to přišlo. Díky, Lavonno...  </Dest>
+      <Dest>Spal jsem ve svém křesle, když se to stalo.  Museli minout město s něčím velkým - Farmingham je pryč, podle toho, co jsem slyšel ve vysílačce, než se odmlčeli.  Tady to taky není zrovna dobré.  Alespoň mám svůj malý hrad, ve kterém se mohu zakopat. Pravděpodobně bych byl uškvařen, pokud bych normálně pracoval, když to přišlo. Díky, Lavonno...  </Dest>
     </String>
     <String List="0" sID="02C73B">
       <EDID>SouthBoston35TerminalForemanLogs</EDID>
@@ -2184,7 +2184,7 @@ w§'LÇÍó(úSw7§:¸7¥)©ÝmË³.â-á'&gt;ÃéY¥Çc[vDÈÄd:üû§¹ÓA®lA
       <EDID>SouthBoston35Terminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>File Integrity: 0.2%</Source>
-      <Dest>Integrita souboru: 0.2%</Dest>
+      <Dest>Integrita souboru: 0,2 %</Dest>
     </String>
     <String List="0" sID="02C88D">
       <EDID>SouthBoston35TerminalForemanLogs</EDID>
@@ -2291,7 +2291,7 @@ Prosím zvolte:</Dest>
 NOTE: Union Article 21:16-C protects the contents of this log file from federal search, seizure, or subpoena.&#xD;
 &#xD;
 Welcome, Foreman.</Source>
-      <Dest>Načteny soubory s předákovy záznamy&#xD;
+      <Dest>Načteny soubory s předákovými záznamy&#xD;
 POZNÁMKA: Odborový článek 21:16-C ochraňuje obsah tohoto souboru před federální prohlídkou, zabavením a použitím v právním řízení.&#xD;
 &#xD;
 Vítejte, předáku.</Dest>
@@ -2312,7 +2312,7 @@ Vítejte, předáku.</Dest>
       <EDID>SouthBoston35Terminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>File Integrity: 99.1%</Source>
-      <Dest>Integrita souboru: 99.1%</Dest>
+      <Dest>Integrita souboru: 99,1 %</Dest>
     </String>
     <String List="0" sID="02CE13">
       <EDID>SouthBoston35Terminal</EDID>
@@ -2330,7 +2330,7 @@ Vítejte, předáku.</Dest>
       <EDID>SouthBoston35Terminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>File Integrity: 1.9%</Source>
-      <Dest>Integrita souboru: 1.9%</Dest>
+      <Dest>Integrita souboru: 1,9 %</Dest>
     </String>
     <String List="0" sID="02D8AE">
       <EDID>SpellPA_RustyKnuckles</EDID>
@@ -2420,7 +2420,7 @@ Vítejte, předáku.</Dest>
       <EDID>SPECIALCharisma</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter.</Source>
-      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje toji úspěšnost při přemlouvání v rozhovorech a ceny při obchodování.</Dest>
+      <Dest>Charisma udává tvojí schopnost okouzlit a přesvědčit ostatní. Ovlivňuje tvoji úspěšnost při přemlouvání v rozhovorech a ceny při obchodování.</Dest>
     </String>
     <String List="0" sID="0322E3">
       <EDID>SPECIALLuck</EDID>
@@ -2444,13 +2444,13 @@ Vítejte, předáku.</Dest>
       <EDID>Stealth04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Stealth Boy is a personal device that generates a modulating refraction field. Using it effectively renders the wearer invisible for a short period of time.</Source>
-      <Dest>Tichošlápek je osobní zařízení generující a modulující refrakční pole. Při  použití je nositel na krátkou dobu prakticky neviditelný.</Dest>
+      <Dest>Tichošlápek je osobní zařízení generující a modulující refrakční pole. Při použití je nositel na krátkou dobu prakticky neviditelný.</Dest>
     </String>
     <String List="0" sID="0328A3">
       <EDID>Stealth01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Running is noisier than walking and makes you easier to detect. To effectively sneak, stay low and slow.</Source>
-      <Dest>Běh je hlasitější než chůze a činí tě snažším k odhalení. Pro plížení zůstaň přikrčen a pohybuj se pomalu.</Dest>
+      <Dest>Běh je hlasitější než chůze a činí tvé odhalení snažší. Pro plížení zůstaň přikrčen a pohybuj se pomalu.</Dest>
     </String>
     <String List="0" sID="0329AC">
       <EDID>Stealth02</EDID>
@@ -2900,7 +2900,7 @@ Vítejte, předáku.</Dest>
       <EDID>sNoWaitTakingRadDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait while taking radiation damage.</Source>
-      <Dest>Nemůžeš čekat, když jsi zraňován radiací.</Dest>
+      <Dest>Nemůžeš čekat, pokud jsi zraňován radiací.</Dest>
     </String>
     <String List="0" sID="035A0C">
       <EDID>sMiscStatTrespasses</EDID>
@@ -2936,7 +2936,7 @@ Vítejte, předáku.</Dest>
       <EDID>sMiscStatTurretsKilled</EDID>
       <REC>GMST:DATA</REC>
       <Source>Turrets Killed</Source>
-      <Dest>Zabité věže</Dest>
+      <Dest>Zničené věže</Dest>
     </String>
     <String List="0" sID="035A3E">
       <EDID>sRankSuffix02</EDID>
@@ -3014,7 +3014,7 @@ Vítejte, předáku.</Dest>
       <EDID>sPADisallowed</EDID>
       <REC>GMST:DATA</REC>
       <Source>You can't do that while in Power Armor.</Source>
-      <Dest>Tohle nemůžeš dělat, když jsi v energozbroji.</Dest>
+      <Dest>Pokud jsi v energozbroji, tohle nemůžeš dělat.</Dest>
     </String>
     <String List="0" sID="035A73">
       <EDID>sNoNeedToRepairMessage</EDID>
@@ -3062,7 +3062,7 @@ Vítejte, předáku.</Dest>
       <EDID>sPARequred</EDID>
       <REC>GMST:DATA</REC>
       <Source>You must be in Power Armor to use this.</Source>
-      <Dest>Musíš být v energozbroji, abys toto šlo použít.</Dest>
+      <Dest>Pro použití musíš být v energozbroji.</Dest>
     </String>
     <String List="0" sID="035A93">
       <EDID>sModMenuNoPowerArmorToMod</EDID>
@@ -3098,7 +3098,7 @@ Vítejte, předáku.</Dest>
       <EDID>sStealTakeBack</EDID>
       <REC>GMST:DATA</REC>
       <Source>You've been caught stealing. The owner will try to take the item back.</Source>
-      <Dest>Byl jsi přichicen při krádeži. Majitel se pokusí si vzít předměty zpátky.</Dest>
+      <Dest>Byl jsi přichycen při krádeži. Majitel se pokusí si vzít předměty zpátky.</Dest>
     </String>
     <String List="0" sID="035AAC">
       <EDID>sMiscStatWater</EDID>
@@ -3122,7 +3122,7 @@ Vítejte, předáku.</Dest>
       <EDID>sNoSleepTakingRadDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep while taking radiation damage.</Source>
-      <Dest>Nemůžeš spát, když jsi zraňován radiací.</Dest>
+      <Dest>Nemůžeš spát, pokud jsi zraňován radiací.</Dest>
     </String>
     <String List="0" sID="035D4E">
       <EDID>SpellPA_CommonArm</EDID>
@@ -3170,13 +3170,13 @@ Vítejte, předáku.</Dest>
       <EDID>Sneak01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Become whisper, become shadow. You are 20% harder to detect while sneaking.</Source>
-      <Dest>Buď vánkem, buď stínem. Při plížení jsi o 20% obtížněji zpozorovatelný.</Dest>
+      <Dest>Buď vánkem, buď stínem. Při plížení jsi o 20 % obtížněji zpozorovatelný.</Dest>
     </String>
     <String List="1" sID="01DA0D">
       <EDID>Sniper03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Non-automatic, scoped rifles gain +25% accuracy to head shots in V.A.T.S.</Source>
-      <Dest>Neautomatické pušky s optikou získávají +25% k přesnosti při střelbě na hlavu v režimu V.A.T.S.</Dest>
+      <Dest>Neautomatické pušky s optikou získávají +25 % k přesnosti při střelbě na hlavu v režimu V.A.T.S.</Dest>
     </String>
     <String List="1" sID="01EBF3">
       <EDID>Sniper02</EDID>
@@ -3200,19 +3200,19 @@ Vítejte, předáku.</Dest>
       <EDID>Sneak03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 40% harder to detect while sneaking, and no longer trigger enemy mines.</Source>
-      <Dest>Při plížení jsi o 40% obtížnějí zpozorovatelný a navíc neaktivuješ nepřátelské miny.</Dest>
+      <Dest>Při plížení jsi o 40 % obtížněji zpozorovatelný, a navíc neaktivuješ nepřátelské miny.</Dest>
     </String>
     <String List="1" sID="02C99D">
       <EDID>Sneak02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 30% harder to detect while sneaking, and no longer trigger floor-based traps.</Source>
-      <Dest>Při plížení jsi o 30% obtížněji zpozorovatelný a navíc nespouštíš podlahové pasti.</Dest>
+      <Dest>Při plížení jsi o 30 % obtížněji zpozorovatelný, a navíc nespouštíš podlahové pasti.</Dest>
     </String>
     <String List="1" sID="02CA84">
       <EDID>Sneak04</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 50% harder to detect while sneaking, and running no longer adversely affects stealth.</Source>
-      <Dest>Při plížení jsi o 50% obtížněji zpozorovatelný a běh již nemá nepříznivý vliv na tvé krytí.</Dest>
+      <Dest>Při plížení jsi o 50 % obtížněji zpozorovatelný a běh již nemá nepříznivý vliv na tvé krytí.</Dest>
     </String>
     <String List="1" sID="02CC68">
       <EDID>Sneak05</EDID>
@@ -3256,6 +3256,12 @@ Vítejte, předáku.</Dest>
       <Source>+15 AP for 1 Hour.</Source>
       <Dest>+15 AB na 1 hodinu.</Dest>
     </String>
+    <String List="1" sID="0316AB">
+      <EDID>SpawnedLegendaryItem</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Used by Legendary Item scripting to make sure we only spawn an item once per actor/container.</Source>
+      <Dest>Used by Legendary Item scripting to make sure we only spawn an item once per actor/container.</Dest>
+    </String>
     <String List="1" sID="03194B">
       <EDID>SolarPowered03</EDID>
       <REC>PERK:DESC</REC>
@@ -3266,7 +3272,7 @@ Vítejte, předáku.</Dest>
       <EDID>SteadyAim01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Stay on target! Hip-fire accuracy is improved when firing any gun.</Source>
-      <Dest>Změř se na cíl! Vylepšená přesnost střelby od boku pro všechny střelné zbraně.</Dest>
+      <Dest>Zaměř se na cíl! Vylepšená přesnost střelby od boku pro všechny střelné zbraně.</Dest>
     </String>
     <String List="1" sID="031AAF">
       <EDID>SteadyAim02</EDID>
@@ -3284,13 +3290,13 @@ Vítejte, předáku.</Dest>
       <EDID>steakRadStag</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+25 Carry Weight for 1 hour</Source>
-      <Dest>+25 nosnost na jednu hodinu.</Dest>
+      <Dest>+25 nosnost na 1 hodinu.</Dest>
     </String>
     <String List="1" sID="03218E">
       <EDID>SquirrelStew</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+2% XP gain for 2 hours.</Source>
-      <Dest>+2% k získaným XP po 2 hodiny.</Dest>
+      <Dest>+2 % k získaným XP na 2 hodiny.</Dest>
     </String>
     <String List="1" sID="0323F4">
       <EDID>steakMolerat</EDID>

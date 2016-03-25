@@ -580,7 +580,7 @@
       <EDID>sLostController</EDID>
       <REC>GMST:DATA</REC>
       <Source>The controller has been disconnected. Click OK to use the Keyboard/Mouse, or reconnect the controller and press the A Button.</Source>
-      <Dest>Ovladač byl odpojen. Stiskněte OK pro použití klávesnice / myši, nebo připojte ovladač zpět a stikněte tlačítko A.</Dest>
+      <Dest>Ovladač byl odpojen. Stiskněte OK pro použití klávesnice / myši nebo připojte ovladač zpět a stiskněte tlačítko A.</Dest>
     </String>
     <String List="0" sID="00C7F1">
       <EDID>sMagicTypeScroll</EDID>
@@ -910,7 +910,7 @@
       <EDID>SlocumsJoeHQLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Slocum's Joe Corporate HQ</Source>
-      <Dest>Ředitelství Slovumových koblih</Dest>
+      <Dest>Ředitelství Slocumových koblih</Dest>
     </String>
     <String List="0" sID="0134B0">
       <EDID>SkinSynthGen1</EDID>
@@ -1000,7 +1000,7 @@
       <EDID>SlocumsJoeCorporateHQMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Slocum's Joe Corporate HQ</Source>
-      <Dest>Ředitelství Slovumových koblih</Dest>
+      <Dest>Ředitelství Slocumových koblih</Dest>
     </String>
     <String List="0" sID="02413B">
       <EDID>SkinSynthGen1</EDID>
@@ -1024,7 +1024,7 @@
       <EDID>SkylanesMoneyMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>$2500 Cash</Source>
-      <Dest>$2500 hotovost</Dest>
+      <Dest>Hotovost 2500 $</Dest>
     </String>
     <String List="0" sID="028F20">
       <EDID>SkylanesDashMessage</EDID>
@@ -2316,11 +2316,11 @@
       <Source>Weight</Source>
       <Dest>Hmotnost</Dest>
     </String>
-    <String List="0" sID="035981" Partial="1">
+    <String List="0" sID="035981">
       <EDID>sHUDCommandRide</EDID>
       <REC>GMST:DATA</REC>
       <Source>Ride</Source>
-      <Dest>Ride</Dest>
+      <Dest>Nasedni</Dest>
     </String>
     <String List="0" sID="035982">
       <EDID>sLockLevelNameBarred</EDID>
@@ -2603,7 +2603,7 @@ DRINK</Source>
       <EDID>sLockpickingCaught</EDID>
       <REC>GMST:DATA</REC>
       <Source>You've been caught lockpicking. The owner is now hostile.</Source>
-      <Dest>Byl jsi přichicen. Majitel je nyní nepřátelský.</Dest>
+      <Dest>Byl jsi přichycen. Majitel je nyní nepřátelský.</Dest>
     </String>
     <String List="0" sID="035A11">
       <EDID>sItemCardDR</EDID>
@@ -2873,7 +2873,7 @@ DRINK</Source>
       <EDID>sHUDCommandEnter</EDID>
       <REC>GMST:DATA</REC>
       <Source>Enter</Source>
-      <Dest>Nastoupit</Dest>
+      <Dest>Nastup</Dest>
     </String>
     <String List="0" sID="035A82">
       <EDID>sMiscStatMinigameRedMenace</EDID>
@@ -3065,13 +3065,13 @@ DRINK</Source>
       <EDID>SleepQuietReflectionMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You feel a sense of Quiet Reflection.</Source>
-      <Dest>Cítíš tíché rozjímání.</Dest>
+      <Dest>Cítíš tiché rozjímání.</Dest>
     </String>
     <String List="1" sID="0311E9">
       <EDID>SleepLoversEmbraceMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You feel your Lover's Embrace.</Source>
-      <Dest>Cítíš obětí své lásky.</Dest>
+      <Dest>Cítíš objetí své lásky.</Dest>
     </String>
     <String List="1" sID="03555F">
       <EDID>SignalStrengthMessage</EDID>
