@@ -88,7 +88,7 @@
       <EDID>WorkshopPowerSwitchbox01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Switch</Source>
-      <Dest>Přepnout</Dest>
+      <Dest>Přepínač</Dest>
     </String>
     <String List="0" sID="013C38">
       <EDID>workshop_ShackMidRoof03</EDID>
@@ -132,7 +132,7 @@
       <Source>Power Armor Station</Source>
       <Dest>Stojan na úpravu energozbroje</Dest>
     </String>
-    <String List="0" sID="014A74">
+    <String List="0" sID="014A74" Partial="1">
       <EDID>WorkshopNPCSpawner</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Spawn Workshop NPC</Source>
@@ -316,7 +316,7 @@
       <EDID>WorkshopPermanentActors</EDID>
       <REC>QUST:FULL</REC>
       <Source>higher priority than settlement quests</Source>
-      <Dest>vyšší priorita než osadnické úkoly</Dest>
+      <Dest>Vyšší priorita než osadnické úkoly</Dest>
     </String>
     <String List="0" sID="018CF7">
       <EDID>Widmer</EDID>
@@ -420,7 +420,7 @@
       <Source>Shack Wall and Roof</Source>
       <Dest>Stěna a střecha</Dest>
     </String>
-    <String List="0" sID="01B191">
+    <String List="0" sID="01B191" Partial="1">
       <EDID>WorkshopParent</EDID>
       <REC>QUST:FULL</REC>
       <Source>Workshop Parent Quest</Source>
@@ -1618,7 +1618,7 @@
       <EDID>Workshop01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The higher the Happiness of your workshop settlements, the more productive their settlers.</Source>
-      <Dest>Čím vyšší je spokojenost tvé dílenské osady, tím jsou produktivnější její osadníci.</Dest>
+      <Dest>Čím vyšší je spokojenost tvé dílenské osady, tím jsou její osadníci produktivnější.</Dest>
     </String>
     <String List="0" sID="02D736">
       <EDID>WorkbenchCookingGroundPot</EDID>
@@ -1984,7 +1984,7 @@
       <EDID>Workshop04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Every Workbench, Crafting Station and Modding Station in a single settlement shares resources. Using one will grant you access to anything placed in the others.</Source>
-      <Dest>Každý dílenský stůl a podřízené pracoviště v osadě sdílí své zdroje. Při použití jednoho pracoviště máš k dispozici vše, co bylo uschováno i na ostatních pracovištích.</Dest>
+      <Dest>Každá dílenská stanice, výrobní stanoviště a stanoviště úprav v osadě sdílí své zdroje. Při použití jednoho pracoviště máš k dispozici vše, co bylo uschováno i na ostatních pracovištích.</Dest>
     </String>
     <String List="0" sID="033D51">
       <EDID>WorkshopPoweredSpeaker01</EDID>
@@ -2662,43 +2662,43 @@
       <EDID>WorkshopRaiderAttack03</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="035F94">
       <EDID>WorkshopFeralGhoulAttack01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="035FD8">
       <EDID>WorkshopGunnerAttack01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="03600E">
       <EDID>WorkshopRaiderAttack02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="03603D">
       <EDID>WorkshopMirelurkAttack_SI</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="036041">
       <EDID>WorkshopRaiderAttack01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="036043">
       <EDID>WorkshopGunnerAttack02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="036047">
       <EDID>WorkshopNpcBedVaultLay01DblNoEdit</EDID>
@@ -2776,13 +2776,13 @@
       <EDID>workshop_co_WaterPurifierLarge</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Must be placed in the water.</Source>
-      <Dest>Musí být umístěn do vody.</Dest>
+      <Dest>Musí být umístěna do vody.</Dest>
     </String>
     <String List="1" sID="02CD7D">
       <EDID>workshop_co_WaterPurifier</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Must be placed in the water.</Source>
-      <Dest>Musí být umístěn do vody.</Dest>
+      <Dest>Musí být umístěna do vody.</Dest>
     </String>
     <String List="1" sID="02E2BF">
       <EDID>WorkshopGunnerAttack01Message</EDID>
@@ -2812,7 +2812,7 @@
       <EDID>WorkshopExitMenuMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Hold [TogglePOV] to open the Workshop menu while in the build area.</Source>
-      <Dest>Podrž [TogglePOV] pro otevření dílenské nabídky ve stavebním prostoru.</Dest>
+      <Dest>Uvnitř stavební oblasti podrž [TogglePOV] pro otevření dílenské nabídky.</Dest>
     </String>
     <String List="1" sID="030A74">
       <EDID>workshop_co_BrahminFeedTrough</EDID>
@@ -2824,7 +2824,7 @@
       <EDID>workshop_co_FastTravelTarget</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Only 1 per location. Moves the fast travel arrival point.</Source>
-      <Dest>Pouze 1 na lokaci. Přemísťuje příchozí bod rychlého cestování.</Dest>
+      <Dest>Pouze 1 na lokaci. Přemisťuje příchozí bod rychlého cestování.</Dest>
     </String>
     <String List="1" sID="031BF7">
       <EDID>workshop_co_CaravanHitchingPost</EDID>
@@ -2848,13 +2848,13 @@
       <EDID>workshop_co_RadioBeacon</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Attracts new settlers to your settlement when turned on.</Source>
-      <Dest>Přilákáva nové osadníky do tvé osady, je-li vysílání zapnuté.</Dest>
+      <Dest>Přitahuje nové osadníky do tvé osady, je-li vysílání zapnuté.</Dest>
     </String>
     <String List="1" sID="031D12">
       <EDID>workshop_co_WaterPump01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Can only be placed in dirt.</Source>
-      <Dest>Může být umístěno pouze do hlíny.</Dest>
+      <Dest>Může být umístěna pouze do hlíny.</Dest>
     </String>
     <String List="1" sID="031D14">
       <EDID>workshop_co_FoodMutfruitPlant01</EDID>
@@ -2866,13 +2866,13 @@
       <EDID>workshop_co_FoodCarrot</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Can only be placed in dirt.</Source>
-      <Dest>Může být umístěno pouze do hlíny.</Dest>
+      <Dest>Může být umístěna pouze do hlíny.</Dest>
     </String>
     <String List="1" sID="031D1C">
       <EDID>workshop_co_FoodMelon</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Can only be placed in dirt.</Source>
-      <Dest>Může být umístěno pouze do hlíny.</Dest>
+      <Dest>Může být umístěn pouze do hlíny.</Dest>
     </String>
     <String List="1" sID="031D1D">
       <EDID>workshop_co_ScavengingStation</EDID>
@@ -2890,7 +2890,7 @@
       <EDID>workshop_co_FoodCorn</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Can only be placed in dirt.</Source>
-      <Dest>Může být umístěno pouze do hlíny.</Dest>
+      <Dest>Může být umístěna pouze do hlíny.</Dest>
     </String>
     <String List="1" sID="031E69">
       <EDID>workshop_co_FoodRazorgrain</EDID>
@@ -2902,7 +2902,7 @@
       <EDID>workshop_co_FoodGourd</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Can only be placed in dirt.</Source>
-      <Dest>Může být umístěno pouze do hlíny.</Dest>
+      <Dest>Může být umístěna pouze do hlíny.</Dest>
     </String>
     <String List="1" sID="0331C7">
       <EDID>workshop_co_WorkshopLightbox01</EDID>
@@ -2920,7 +2920,7 @@
       <EDID>workshop_co_WorkshopTripwireLaser</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power when disarmed. Use a connected terminal to access additional functionality.</Source>
-      <Dest>Propouští elektřinu při přerušení. Použij připojený terminál pro přístup k rozšířeným funkcím.</Dest>
+      <Dest>Při kontaktu se přeruší přívod elektřiny. Použij připojený terminál pro přístup k rozšířeným funkcím.</Dest>
     </String>
     <String List="1" sID="0340FF">
       <EDID>workshop_co_MamaMurphyChair</EDID>
@@ -2938,7 +2938,7 @@
       <EDID>workshop_co_MQ206Console</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Wire this into the same power grid as the Beam Emitter.</Source>
-      <Dest>Připoj toto ke stejnému elektrickému vedení, jako generátor paprsku.</Dest>
+      <Dest>Připoj jej ke stejnému elektrickému vedení jako generátor paprsku.</Dest>
     </String>
     <String List="1" sID="03414F">
       <EDID>workshop_co_TrapElectricalArc</EDID>
@@ -2962,13 +2962,13 @@
       <EDID>workshop_co_PowerSwitchDelay02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Stops transmitting power after a short delay. Use a connected terminal to change the delay.</Source>
-      <Dest>Přestává propouštět elektřinu s krátkou prodlevou. Použij připojený terminál pro změnu čekací doby.</Dest>
+      <Dest>Přestane přenášet elektřinu s krátkou prodlevou. Použij připojený terminál pro změnu čekací doby.</Dest>
     </String>
     <String List="1" sID="03415F">
       <EDID>workshop_co_PowerSwitchDelay01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power after a short delay. Use a connected terminal to change the delay.</Source>
-      <Dest>Propouští elektřinu po s krátkou prodlevou. Použij připojený terminál pro změnu čekací doby.</Dest>
+      <Dest>Přenáší elektřinu s krátkou prodlevou. Použij připojený terminál pro změnu čekací doby.</Dest>
     </String>
     <String List="1" sID="0341E4">
       <EDID>workshop_co_Artillery</EDID>
@@ -2980,25 +2980,25 @@
       <EDID>workshop_co_MQ206BeamEmitter</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Snap this in place over the Reflector Platform.</Source>
-      <Dest>Postav toto v místě nad odrazovou plošinou.</Dest>
+      <Dest>Postav jej v místě nad odrazovou plošinou.</Dest>
     </String>
     <String List="1" sID="0344BA">
       <EDID>workshop_co_MQ206RelayDish</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Wire this into the same power grid as the Beam Emitter.</Source>
-      <Dest>Připoj toto ke stejnému elektrickému vedení, jako generátor paprsku.</Dest>
+      <Dest>Připoj ji ke stejnému elektrickému vedení jako generátor paprsku.</Dest>
     </String>
     <String List="1" sID="0344DE">
       <EDID>workshop_co_PowerCounter01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power briefly after cycling power 10 times. Use a connected terminal to change the max count.</Source>
-      <Dest>Chvilkově přenáší elektřinu po uplynutí uplynutí 10 napájecích cyklů. Použij připojený terminál pro změnu počtu cyklů.</Dest>
+      <Dest>Chvilkově přenáší elektřinu po uplynutí 10 napájecích cyklů. Použij připojený terminál pro změnu počtu cyklů.</Dest>
     </String>
     <String List="1" sID="0344E5">
       <EDID>workshop_co_MQ206ReflectorPlatform</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Wire this into the same power grid as the Beam Emitter.</Source>
-      <Dest>Připoj toto ke stejnému elektrickému vedení, jako generátor paprsku.</Dest>
+      <Dest>Připoj ji ke stejnému elektrickému vedení jako generátor paprsku.</Dest>
     </String>
     <String List="1" sID="034556">
       <EDID>Workshop_Turret_Shotgun</EDID>
@@ -3046,13 +3046,13 @@
       <EDID>workshop_co_StoreClothing03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="0362FD">
       <EDID>workshop_co_StoreMisc03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="0362FE">
       <EDID>workshop_co_StoreWeapon01</EDID>
@@ -3070,37 +3070,37 @@
       <EDID>workshop_co_StoreClinic03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036301">
       <EDID>workshop_co_StoreClothing01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036302">
       <EDID>workshop_co_Bar02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036303">
       <EDID>workshop_co_StoreMisc02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036304">
       <EDID>workshop_co_StoreMisc01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036305">
       <EDID>workshop_co_Bar01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036306">
       <EDID>workshop_co_StoreArmor02</EDID>
@@ -3118,7 +3118,7 @@
       <EDID>workshop_co_Bar03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="036309">
       <EDID>workshop_co_StoreWeapon03</EDID>
@@ -3130,7 +3130,7 @@
       <EDID>workshop_co_StoreClothing02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="03630B">
       <EDID>workshop_co_StoreArmor03</EDID>
@@ -3142,13 +3142,13 @@
       <EDID>workshop_co_StoreClinic02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="03630D">
       <EDID>workshop_co_StoreClinic01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
-      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+      <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
     </String>
     <String List="1" sID="0363B9">
       <EDID>workshop_co_RadioDiamondCity</EDID>
