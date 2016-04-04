@@ -193,7 +193,7 @@ Please be respectful of other members' supplies&#xD;
 Member Meetings are 1st Thursday each month&#xD;
 &#xD;
 </Source>
-      <Dest>VÍTEJTE VE&#xD;
+      <Dest>       VÍTEJTE VE&#xD;
 &#xD;
 Sdružení nadšenců&#xD;
 elektroniky&#xD;
@@ -290,7 +290,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoolBall08</EDID>
       <REC>MISC:FULL</REC>
       <Source>Eight Ball</Source>
-      <Dest>Koule osm</Dest>
+      <Dest>Koule č. 8</Dest>
     </String>
     <String List="0" sID="0162EE">
       <EDID>Prewar_Cabinet_Garage_05</EDID>
@@ -338,7 +338,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>Prewar_OvenRange01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Oven Range</Source>
-      <Dest>Oven Range [XX:nepoužitý předmět]</Dest>
+      <Dest>Oven Range</Dest>
     </String>
     <String List="0" sID="017495">
       <EDID>PoisonResist</EDID>
@@ -346,7 +346,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Poison Resist</Source>
       <Dest>Odolnost vůči jedu</Dest>
     </String>
-    <String List="0" sID="0175D6">
+    <String List="0" sID="0175D6" Partial="1">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="4">BPTD:BPTN</REC>
       <Source>Right Arm</Source>
@@ -368,7 +368,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PrewarTVStudio</EDID>
       <REC>CELL:FULL</REC>
       <Source>Colonial's Department Store</Source>
-      <Dest>Colonial's Department Store [XX: nepoužitá lokace]</Dest>
+      <Dest>Colonial's Department Store</Dest>
     </String>
     <String List="0" sID="017A99">
       <EDID>PrydwenHull01</EDID>
@@ -470,7 +470,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGrenade</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Plasma Grenade</Source>
-      <Dest>Plasmový granát</Dest>
+      <Dest>Plazmový granát</Dest>
     </String>
     <String List="0" sID="018F42">
       <EDID>PlayWithBabyInCrib</EDID>
@@ -602,7 +602,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>Prewar_Grill01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Grill</Source>
-      <Dest>Grill [XX:nepoužitý předmět]</Dest>
+      <Dest>Grill</Dest>
     </String>
     <String List="0" sID="01AB25">
       <EDID>Protectron03RightArmLaserGun</EDID>
@@ -638,7 +638,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="0">WEAP:FULL</REC>
       <Source>Plasma</Source>
-      <Dest>Plasmová zbraň</Dest>
+      <Dest>Plazmová zbraň</Dest>
     </String>
     <String List="0" sID="01B1CA">
       <EDID>PoisonBloodbug</EDID>
@@ -752,13 +752,13 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoseidonEnergyTurbineLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Poseidon Energy Turbine #18-F</Source>
-      <Dest>Poseidon Energy turbína #18-F</Dest>
+      <Dest>Poseidon Energy turbína č. 18-F</Dest>
     </String>
     <String List="0" sID="01D627">
       <EDID>ProspectHillLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Prospect Hill</Source>
-      <Dest>Prospect Hill [XX: google bez výsledků, ve hře taky není]</Dest>
+      <Dest>Prospect Hill</Dest>
     </String>
     <String List="0" sID="01D64C">
       <EDID>PoseidonReservoirLocation</EDID>
@@ -802,19 +802,19 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>RFoot</Source>
       <Dest>RFoot</Dest>
     </String>
-    <String List="0" sID="01D821">
+    <String List="0" sID="01D821" Partial="1">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="6">BPTD:BPTN</REC>
       <Source>Left Arm</Source>
       <Dest>Levá ruka</Dest>
     </String>
-    <String List="0" sID="01D822">
+    <String List="0" sID="01D822" Partial="1">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="5">BPTD:BPTN</REC>
       <Source>Left Leg</Source>
       <Dest>(Levá noha)</Dest>
     </String>
-    <String List="0" sID="01D823">
+    <String List="0" sID="01D823" Partial="1">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="3">BPTD:BPTN</REC>
       <Source>Right Leg</Source>
@@ -824,7 +824,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0" sID="01DAFC">
       <EDID>PlayerPerk</EDID>
@@ -848,7 +848,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PowerArmorRecallQuest</EDID>
       <REC>QUST:FULL</REC>
       <Source>Power Armor Recall Quest</Source>
-      <Dest>Power Armor Recall Quest [XX:nepoužitý obsah]</Dest>
+      <Dest>Power Armor Recall Quest</Dest>
     </String>
     <String List="0" sID="01DEDD">
       <EDID>PlayerHouse_Lamp01Off</EDID>
@@ -860,7 +860,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaMineProjectile</EDID>
       <REC>PROJ:FULL</REC>
       <Source>Plasma Mine</Source>
-      <Dest>Plasmová mina</Dest>
+      <Dest>Plazmová mina</Dest>
     </String>
     <String List="0" sID="01E06F">
       <EDID>PowerLiftButton01</EDID>
@@ -1106,7 +1106,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoseidenEnergyTurbineMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Poseiden Energy Turbine #18-F</Source>
-      <Dest>Poseiden Energy turbína #18-F</Dest>
+      <Dest>Poseiden Energy turbína č. 18-F</Dest>
     </String>
     <String List="0" sID="0238F7">
       <EDID>Prewar_Cabinet_Garage_03</EDID>
@@ -1202,7 +1202,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoolBall02</EDID>
       <REC>MISC:FULL</REC>
       <Source>Two Ball</Source>
-      <Dest>Koule dva</Dest>
+      <Dest>Koule č. 2</Dest>
     </String>
     <String List="0" sID="024B4B">
       <EDID>PowerArmorFurnitureT60_Military</EDID>
@@ -1346,7 +1346,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaMine</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Plasma Mine</Source>
-      <Dest>Plasmová mina</Dest>
+      <Dest>Plazmová mina</Dest>
     </String>
     <String List="0" sID="0267A0">
       <EDID>PlayerHouse_Ruin_Umbrella01</EDID>
@@ -1412,7 +1412,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PrewarBottleWhiskeyEmpty01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Whiskey</Source>
-      <Dest>Whiskey</Dest>
+      <Dest>Whisky</Dest>
     </String>
     <String List="0" sID="0279D2">
       <EDID>PlayerHouse_Ruin_KitchenRefrigeratorDoor02_White</EDID>
@@ -1454,73 +1454,73 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoolBall06</EDID>
       <REC>MISC:FULL</REC>
       <Source>Six Ball</Source>
-      <Dest>Koule šest</Dest>
+      <Dest>Koule č. 6</Dest>
     </String>
     <String List="0" sID="0287C3">
       <EDID>PoolBall01</EDID>
       <REC>MISC:FULL</REC>
       <Source>One Ball</Source>
-      <Dest>Koule jedna</Dest>
+      <Dest>Koule č. 1</Dest>
     </String>
     <String List="0" sID="02881B">
       <EDID>PoolBall14</EDID>
       <REC>MISC:FULL</REC>
       <Source>Fourteen Ball</Source>
-      <Dest>Koule čtrnáct</Dest>
+      <Dest>Koule č. 14</Dest>
     </String>
     <String List="0" sID="028831">
       <EDID>PoolBall07</EDID>
       <REC>MISC:FULL</REC>
       <Source>Seven Ball</Source>
-      <Dest>Koule sedm</Dest>
+      <Dest>Koule č. 7</Dest>
     </String>
     <String List="0" sID="028877">
       <EDID>PoolBall05</EDID>
       <REC>MISC:FULL</REC>
       <Source>Five Ball</Source>
-      <Dest>Koule pět</Dest>
+      <Dest>Koule č. 5</Dest>
     </String>
     <String List="0" sID="028924">
       <EDID>PoolBall04</EDID>
       <REC>MISC:FULL</REC>
       <Source>Four Ball</Source>
-      <Dest>Koule čtyři</Dest>
+      <Dest>Koule č. 4</Dest>
     </String>
     <String List="0" sID="028A86">
       <EDID>PoolBall09</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nine Ball</Source>
-      <Dest>Koule devět</Dest>
+      <Dest>Koule č. 9</Dest>
     </String>
     <String List="0" sID="028ABD">
       <EDID>PoolBall03</EDID>
       <REC>MISC:FULL</REC>
       <Source>Three Ball</Source>
-      <Dest>Koule tři</Dest>
+      <Dest>Koule č. 3</Dest>
     </String>
     <String List="0" sID="028B9A">
       <EDID>PoolBall10</EDID>
       <REC>MISC:FULL</REC>
       <Source>Ten Ball</Source>
-      <Dest>Koule deset</Dest>
+      <Dest>Koule č. 10</Dest>
     </String>
     <String List="0" sID="028BBA">
       <EDID>PoolBall15</EDID>
       <REC>MISC:FULL</REC>
       <Source>Fifteen Ball</Source>
-      <Dest>Koule patnáct</Dest>
+      <Dest>Koule č. 15</Dest>
     </String>
     <String List="0" sID="028BCB">
       <EDID>PoolBall13</EDID>
       <REC>MISC:FULL</REC>
       <Source>Thirteen Ball</Source>
-      <Dest>Koule třináct</Dest>
+      <Dest>Koule č. 13</Dest>
     </String>
     <String List="0" sID="028C1C">
       <EDID>PoolBall12</EDID>
       <REC>MISC:FULL</REC>
       <Source>Twelve Ball</Source>
-      <Dest>Koule dvanáct</Dest>
+      <Dest>Koule č. 12</Dest>
     </String>
     <String List="0" sID="028C27">
       <EDID>PowerArmorRace</EDID>
@@ -1532,7 +1532,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PoolBall11</EDID>
       <REC>MISC:FULL</REC>
       <Source>Eleven Ball</Source>
-      <Dest>Koule jedenáct</Dest>
+      <Dest>Koule č. 11</Dest>
     </String>
     <String List="0" sID="028E03">
       <EDID>PlayerHouse_Stereo01_Activator</EDID>
@@ -1838,7 +1838,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlayerHouse_Ruin_PotsSauceLarge01Lid</EDID>
       <REC>MISC:FULL</REC>
       <Source>Sauce Pan Lid</Source>
-      <Dest>Poklop k pánvičce</Dest>
+      <Dest>Poklop od rendlíku</Dest>
     </String>
     <String List="0" sID="02A575">
       <EDID>PlayerHouse_Ruin_Lamp03</EDID>
@@ -1850,25 +1850,25 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlayerHouse_Ruin_PotsSauceSmall01Lid</EDID>
       <REC>MISC:FULL</REC>
       <Source>Small Sauce Pan Lid</Source>
-      <Dest>Poklop k malé pánvičce</Dest>
+      <Dest>Poklop od malého rendlíku</Dest>
     </String>
     <String List="0" sID="02A638">
       <EDID>PlayerHouse_Ruin_PotsSauceLarge02</EDID>
       <REC>MISC:FULL</REC>
       <Source>Covered Sauce Pan</Source>
-      <Dest>Přikrytá pánvička</Dest>
+      <Dest>Přikrytý rendlík</Dest>
     </String>
     <String List="0" sID="02A702">
       <EDID>PlayerHouse_Ruin_PotsSauceSmall01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Small Sauce Pan</Source>
-      <Dest>Malá pánvička</Dest>
+      <Dest>Malý rendlík</Dest>
     </String>
     <String List="0" sID="02A703">
       <EDID>PlayerHouse_Ruin_PotsSauceSmall02</EDID>
       <REC>MISC:FULL</REC>
       <Source>Small Covered Sauce Pan</Source>
-      <Dest>Malá přikrytá pánvička</Dest>
+      <Dest>Malý přikrytý rendlík</Dest>
     </String>
     <String List="0" sID="02A7B7">
       <EDID>PlayerHouse_Ruin_Lamp05</EDID>
@@ -1886,7 +1886,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlayerHouse_Ruin_PotsSauceLarge01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Sauce Pan</Source>
-      <Dest>Pánvička</Dest>
+      <Dest>Rendlík</Dest>
     </String>
     <String List="0" sID="02A98F">
       <EDID>PlayerHouse_Ruin_Lamp04</EDID>
@@ -2366,7 +2366,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGrenadeProjectile</EDID>
       <REC>PROJ:FULL</REC>
       <Source>Plasma Grenade</Source>
-      <Dest>Plasmový granát</Dest>
+      <Dest>Plazmový granát</Dest>
     </String>
     <String List="0" sID="02EC2A">
       <EDID>Prydwen_EncBoSPilot03_BridgeMale</EDID>
@@ -2428,7 +2428,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Right Foot</Source>
       <Dest>Pravé chodidlo</Dest>
     </String>
-    <String List="0" sID="02F562">
+    <String List="0" sID="02F562" Partial="1">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="6">BPTD:BPTN</REC>
       <Source>Right Arm</Source>
@@ -2440,7 +2440,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Mirror</Source>
       <Dest>Zrcadlo</Dest>
     </String>
-    <String List="0" sID="02F70D" Partial="1">
+    <String List="0" sID="02F70D">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="9">BPTD:BPTN</REC>
       <Source>Root</Source>
@@ -2452,7 +2452,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Coastal Cottage</Source>
       <Dest>Domek na pobřeží</Dest>
     </String>
-    <String List="0" sID="02F983">
+    <String List="0" sID="02F983" Partial="1">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="0">BPTD:BPTN</REC>
       <Source>Right Leg</Source>
@@ -2476,13 +2476,13 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Brotherhood Initiate</Source>
       <Dest>Zasvěcenec Bratrstva</Dest>
     </String>
-    <String List="0" sID="030265">
+    <String List="0" sID="030265" Partial="1">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="5">BPTD:BPTN</REC>
       <Source>Left Leg</Source>
       <Dest>(Levá noha)</Dest>
     </String>
-    <String List="0" sID="030494">
+    <String List="0" sID="030494" Partial="1">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="7">BPTD:BPTN</REC>
       <Source>Left Arm</Source>
@@ -2504,7 +2504,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>Protectron01RightArmNailGun</EDID>
       <REC>WEAP:FULL</REC>
       <Source>10mm Pistol</Source>
-      <Dest>10mm Pistole</Dest>
+      <Dest>10mm pistole</Dest>
     </String>
     <String List="0" sID="030884">
       <EDID>PowerArmorBodyPartData</EDID>
@@ -2522,25 +2522,25 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>Protectron01LeftArmNailGun</EDID>
       <REC>WEAP:FULL</REC>
       <Source>10mm Pistol</Source>
-      <Dest>10mm Pistole</Dest>
+      <Dest>10mm pistole</Dest>
     </String>
     <String List="0" sID="030A38">
       <EDID>PlasmaGun</EDID>
       <REC id="10">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Sniper Rifle</Dest>
+      <Dest>Odstřelovací puška</Dest>
     </String>
     <String List="0" sID="030A39">
       <EDID>PlasmaGun</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Pistol Auto</Source>
-      <Dest>Pistol Auto</Dest>
+      <Dest>Automatická pistole</Dest>
     </String>
     <String List="0" sID="030A4F">
       <EDID>PlasmaGun</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Flamer</Source>
-      <Dest>Flamer</Dest>
+      <Dest>Plamenomet</Dest>
     </String>
     <String List="0" sID="030A65">
       <EDID>Protectron02RightArmLaserGun</EDID>
@@ -2558,7 +2558,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Rifle Semi-Auto</Source>
-      <Dest>Rifle Semi-Auto</Dest>
+      <Dest>Poloautomatická puška</Dest>
     </String>
     <String List="0" sID="030AB0">
       <EDID>Protectron02LeftArmFlamer</EDID>
@@ -2570,7 +2570,7 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Simple Rifle</Dest>
+      <Dest>Jednoduchá puška</Dest>
     </String>
     <String List="0" sID="030ADC">
       <EDID>Protectron02RightArmLaserGun</EDID>
@@ -2582,13 +2582,13 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Random</Dest>
+      <Dest>Náhodná</Dest>
     </String>
     <String List="0" sID="030B4A">
       <EDID>PlasmaGun</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Simple Pistol</Dest>
+      <Dest>Jednoduchá pistole</Dest>
     </String>
     <String List="0" sID="030B9D">
       <EDID>Protectron02RightArmLaserGun</EDID>
@@ -2606,19 +2606,19 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Rifle Auto</Source>
-      <Dest>Rifle Auto</Dest>
+      <Dest>Automatická puška</Dest>
     </String>
     <String List="0" sID="030D2A">
       <EDID>PlasmaGun</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto</Source>
-      <Dest>Pistol Semi-Auto</Dest>
+      <Dest>Poloautomatická pistole</Dest>
     </String>
     <String List="0" sID="030D43">
       <EDID>PlasmaGun</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Shotgun</Source>
-      <Dest>Shotgun</Dest>
+      <Dest>Brokovnice</Dest>
     </String>
     <String List="0" sID="030D49">
       <EDID>Protectron02RightArmFlamer</EDID>
@@ -2673,6 +2673,12 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <REC>WEAP:FULL</REC>
       <Source>Flamer</Source>
       <Dest>Plamenomet</Dest>
+    </String>
+    <String List="0" sID="031C2C" Partial="1">
+      <EDID>PlayerPerk</EDID>
+      <REC>PERK:EPF2</REC>
+      <Source>SEND HOME</Source>
+      <Dest>SEND HOME</Dest>
     </String>
     <String List="0" sID="031C9C">
       <EDID>POIDL018_Terminal</EDID>
@@ -3272,7 +3278,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PrydwenQuartersLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Prydwen Quarters</Source>
-      <Dest>Prydwen ubikace</Dest>
+      <Dest>Ubikace Prydwen</Dest>
     </String>
     <String List="0" sID="033C7D">
       <EDID>Prydwen_ForeCastle</EDID>
@@ -3290,7 +3296,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PrydwenHull03</EDID>
       <REC>CELL:FULL</REC>
       <Source>Prydwen Quarters</Source>
-      <Dest>Prydwen ubikace</Dest>
+      <Dest>Ubikace Prydwen</Dest>
     </String>
     <String List="0" sID="033F06">
       <EDID>PowerArmorFramePurchaseItemDC</EDID>
@@ -3440,13 +3446,13 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PoolCue</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Simple</Source>
-      <Dest>Jednoduchý</Dest>
+      <Dest>Jednoduché</Dest>
     </String>
     <String List="0" sID="034736">
       <EDID>PoolCue</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
-      <Dest>Standardní epický</Dest>
+      <Dest>Standardní epické</Dest>
     </String>
     <String List="0" sID="034754">
       <EDID>PlayerHouse_Ruin_HandyBox01</EDID>
@@ -3476,13 +3482,13 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PowerFist</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Simple</Source>
-      <Dest>Jednoduchý</Dest>
+      <Dest>Jednoduchá</Dest>
     </String>
     <String List="0" sID="0347E6">
       <EDID>PoolCue</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>Jednoduchý epický</Dest>
+      <Dest>Jednoduché epické</Dest>
     </String>
     <String List="0" sID="0347EB">
       <EDID>PlayerHouse_Ruin_WetBar02</EDID>
@@ -3512,13 +3518,13 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PowerFist</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>Jednoduchý epický</Dest>
+      <Dest>Jednoduchá epická</Dest>
     </String>
     <String List="0" sID="03491A">
       <EDID>PowerFist</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
-      <Dest>Standardní epický</Dest>
+      <Dest>Standardní epická</Dest>
     </String>
     <String List="0" sID="0349EB">
       <EDID>PresetFemale17</EDID>
@@ -3572,7 +3578,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Simple Rifle Epic</Dest>
+      <Dest>Epická obyčejná puška</Dest>
     </String>
     <String List="0" sID="034B06">
       <EDID>PresetMale14</EDID>
@@ -3584,7 +3590,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Shotgun Epic</Source>
-      <Dest>Shotgun Epic</Dest>
+      <Dest>Epická brokovnice</Dest>
     </String>
     <String List="0" sID="034B49">
       <EDID>PottedPlantSet_PotAPlant02_Dirty</EDID>
@@ -3596,13 +3602,13 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto Epic</Source>
-      <Dest>Pistol Semi-Auto Epic</Dest>
+      <Dest>Epická poloautomatická pistole</Dest>
     </String>
     <String List="0" sID="034B70">
       <EDID>PlasmaGun</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Random Epic</Dest>
+      <Dest>Epická náhodná</Dest>
     </String>
     <String List="0" sID="034BAC">
       <EDID>PresetFemale16</EDID>
@@ -3644,31 +3650,31 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Sniper Rifle Epic</Dest>
+      <Dest>Epická Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="034C8F">
       <EDID>PlasmaGun</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Pistol Auto Epic</Source>
-      <Dest>Pistol Auto Epic</Dest>
+      <Dest>Epická automatická pistole</Dest>
     </String>
     <String List="0" sID="034CAB">
       <EDID>PlasmaGun</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>Flamer Epic</Source>
-      <Dest>Flamer Epic</Dest>
+      <Dest>Epický plamenomet</Dest>
     </String>
     <String List="0" sID="034CAC">
       <EDID>PlasmaGun</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Rifle Auto Epic</Source>
-      <Dest>Rifle Auto Epic</Dest>
+      <Dest>Epická automatická puška</Dest>
     </String>
     <String List="0" sID="034CAD">
       <EDID>PlasmaGun</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle Semi-Auto Epic</Source>
-      <Dest>Rifle Semi-Auto Epic</Dest>
+      <Dest>Epická poloautomatická puška</Dest>
     </String>
     <String List="0" sID="034CAF">
       <EDID>PottedPlantSet_PotBPlant01_Dirty</EDID>
@@ -3692,7 +3698,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PlasmaGun</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Simple Pistol Epic</Dest>
+      <Dest>Epická obyčejná pistole</Dest>
     </String>
     <String List="0" sID="034D6F">
       <EDID>Prydwen_BoSMessOfficer</EDID>
@@ -4222,7 +4228,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PowerArmorCoreWarningMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Fusion Core near critical, take cover!</Source>
-      <Dest>Fúzní jádro se blíží kritické úrovni, kryjte se!</Dest>
+      <Dest>Fúzní jádro se blíží ke kritické úrovni, kryjte se!</Dest>
     </String>
     <String List="1" sID="01D30B">
       <EDID>PowerArmorCoreEjectedMessage</EDID>
@@ -4258,7 +4264,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <EDID>PowerArmorNoBatteryMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>This suit needs a fusion core before it can be used!</Source>
-      <Dest>Tato zbroj vyžaduje fúzní jádro pro její použití!</Dest>
+      <Dest>Tato zbroj pro použití vyžaduje fúzní jádro!</Dest>
     </String>
     <String List="1" sID="025533">
       <EDID>PublickOccurrencesArticle01</EDID>
@@ -4303,27 +4309,27 @@ Syntetická pravda&#xD;
 Autor&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Nudle. Všichni je jíme. Všichni je milujeme. Energonudle z Diamond City nám poskytují výživu posledních patnáct let. Od strojeného mechanického tempa Takahashiho naprogramované Japonštiny, přes voňavé výpary linoucí se z každé misky, po vroucí příchuť každého sousta - obědnávka a pojídání nudlí je jedním z mnoha společných lidských zážitků. Že ano?&#xD;
+Nudle. Všichni je jíme. Všichni je milujeme. Energonudle v Diamond City nám poskytují výživu posledních patnáct let. Od strojeného mechanického tempa Takahashiho naprogramované japonštiny, přes voňavé výpary linoucí se z každé misky, po vroucí příchuť každého sousta - objednávka a pojídání nudlí je jedním z mnoha společných lidských zážitků. Nebo snad ne?&#xD;
 &#xD;
-Ta otázka mi probleskla hlavou, když jsem seděla u pultu energonudlí minulou středu, těsně po 5:00 odpoledne, vychutnávajíc si večeři, tak jako mnohokrát před tím. V tu chvíli jsem si všimla, jak se samotný starosta McDonough přikradl ke stolu a připojil se ke stejnému rituálu. Natahujíc pravou ruku. Otevírajíc pusu. Žvýkajíc. Ano, pojídajícího nudle. Společný zážitek téměř každého obyvatele Diamond City.&#xD;
+Ta otázka mi probleskla hlavou, když jsem seděla u pultu Energonudlí minulou středu, těsně po 5. hodině odpolední, vychutnávajíc si večeři, tak jako mnohokrát před tím. V tu chvíli jsem si všimla, jak se samotný starosta McDonough přikradl ke stolu a připojil se ke stejnému rituálu. Natahujíc pravou ruku. Otevírajíc pusu. Žvýkajíc. Ano, pojídajíc nudle. Společný zážitek téměř každého obyvatele Diamond City.&#xD;
 &#xD;
-Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, když na baru nepodávali nudle, ale ledově vychlazenou nuka-colu, napěněné pivo, a velké panáky whiskey. Barman se jmenoval Henry, a oné noci, pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
+Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, kdy na baru nepodávali nudle, ale ledově vychlazenou Nuka Colu, napěněné pivo a velké panáky whisky. Barman se jmenoval Henry a oné noci pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
 &#xD;
-Mezi námi není mnoho takových, kteří jsou dost staří na to, aby si ten večer pamatovali - ačkoliv někteří ghůlští obyvatelé města by jistě mohli, nebýt vyhnáni, díky proti-ghůlskému dekretu starosty McDonougha z roku 2282. Ale jedna osoba, která si zřetelně pamatuje události toho večera, je mezi námi: uznávaná matriarcha Eustacie Hawthornová, vylíčila svůj příběh v exkluzivním interview pro Veřejné záležitosti.&#xD;
+Mezi námi není mnoho takových, kteří jsou dost staří na to, aby si ten večer pamatovali - ačkoliv někteří ghúlští obyvatelé města by jistě mohli, kdyby nebyli vyhnáni díky proti-ghúlskému dekretu starosty McDonougha z roku 2282. Ale jedna osoba, která si zřetelně pamatuje události toho večera, je mezi námi: uznávaná matriarcha Eustacie Hawthornová. Vylíčila svůj příběh v exkluzivním interview pro Veřejné záležitosti.&#xD;
 &#xD;
-"Ah, byla jsem tam. Seděla na baru, stejně tak jako nyní sedíte vy. Bylo mi přibližně dvacet dva let a užívala jsem si dobrou zábavu. Byla jsem v bezpečí za zdí -- všichni jsme byli -- tak jaká pak újma? A to vám povím, ten pan Carter nám to hodně usnadnil. Přišel do města toho dne, že je odkudsi ze západu. Ve skutečnosti na tom nezáleželo. Na čem záleželo, byl jeho úsměv a jeho smích. Ten způsob jakým nás všechny přiměl uvolnit se. Té noci na baru, jsme se všichni tak nějak shlukli okolo něj. Každý chtěl prohodit pár slov, nebo si poslechnout, jaký je stav Commonwealthu. A pan Carter nám velice rád vyšel vstříc. Bylo to báječné. Až do oné chvíle."&#xD;
+„Ach, byla jsem tam. Seděla na baru, stejně tak, jako nyní sedíte vy. Bylo mi přibližně dvacet dva let a užívala jsem si dobrou zábavu. Byla jsem v bezpečí za zdí... všichni jsme byli... tak jaká pak újma? A to vám povím, ten pan Carter nám to hodně usnadnil. Přišel do města toho dne, že je odkudsi ze západu. Ve skutečnosti na tom nezáleželo. To, na čem záleželo, byl jeho úsměv a jeho smích. Ten způsob, jakým nás všechny přiměl uvolnit se. Té noci na baru jsme se všichni tak nějak shlukli okolo něj. Každý chtěl prohodit pár slov nebo si poslechnout, jaký je stav Commonwealthu. A pan Carter nám velice rád vyšel vstříc. Bylo to báječné. Až do oné chvíle.“&#xD;
 &#xD;
 Eustacie pokračovala s popisem toho večera a momentu, kdy se situace stala hrozivou a byla odhalena pravda o panu Carterovi.&#xD;
 &#xD;
-"Dále jsme popíjeli, asi tak tři hodiny. Pan Carter měl do té doby čtyři, nebo pět drinků. Vypadal trochu opilý, řekla bych, jako my všichni. Najednou se to tak nějak stalo. Usmíval se, ale zničeho nic, jeho úsměv zmizel. Začala se mu cukat tvář, tak nějak zvláštně. Jen si vzpomínám, že jsem ho sledovala, tak jasně, jako by se to stalo včera. Sáhl do kabátu, vytasil revolver a 'Bum!' -- střelil Henryho, barmana, přímo do hlavy. Bez zaváhání, bez náznaku citů -- pan Carter zabil Henryho tak přirozeně, jako by mu platil za drink. Ale cukání v jeho tváři nepřestávalo. V tu chvíli se rozpoutalo pravé peklo, to vám povídám."&#xD;
+„Dále jsme popíjeli, asi tak tři hodiny. Pan Carter měl do té doby čtyři, nebo pět drinků. Vypadal trochu opilý, řekla bych, jako my všichni. Najednou se to tak nějak stalo. Usmíval se, ale zničehonic jeho úsměv zmizel. Začala mu cukat tvář, tak nějak zvláštně. Jen si vzpomínám, že jsem ho sledovala tak jasně, jakoby se to stalo včera. Sáhl do kabátu, vytasil revolver a bum! Střelil Henryho, barmana, přímo do hlavy. Bez zaváhání, bez náznaku citů... pan Carter zabil Henryho tak přirozeně, jako by mu platil za drink. Ale cukání v jeho tváři nepřestávalo. V tu chvíli se rozpoutalo pravé peklo, to vám povídám.“&#xD;
 &#xD;
-Co Eustacie popisuje, je samozřejmě nechvalně známá událost "Odhalená maska," kdy lid Commonwealthu poprvé zjistil, že Institut, tajemná vědecká organizace zodpovědná za tvorbu bojových androidů, uspěla ve tvorbě modelu androida tak pokročilého, že mohl bez obtíží infiltrovat lidskou společnost. Bez vědomí obyvatel Diamond City, Institut nějakým způsobem vyvinul své androidy ve skutečné, umělé, lidské bytosti. Syntetiky.&#xD;
+To, co Eustacie popisuje, je samozřejmě nechvalně známá událost „Odhalená maska“, kdy lid Commonwealthu poprvé zjistil, že Institut, tajemná vědecká organizace zodpovědná za tvorbu bojových androidů, uspěla ve tvorbě modelu androida tak pokročilého, že mohl bez obtíží infiltrovat lidskou společnost. Bez vědomí obyvatel Diamond City, vyvinul Institut nějakým způsobem své androidy ve skutečné, umělé, lidské bytosti. Syntetiky.&#xD;
 &#xD;
-"Poté co zastřelil Henryho, pan Carter zastřelil tři, nebo čtyři další lidi. Jak jsem říkala, rozpoutalo se opravdové peklo. Přiběhly stráže, začali pálit a pan Carter dále střílel a odhazoval lidi doleva, doprava. Nakonec ho strážní dostali. Zdálo se, že zabili muže, kterému přeskočilo. Dočista zešílel. A také tam ležel jako mrtvý šílenec. Proboha, bylo to příšerné. Na to jsme si všimli toho kovu a plastu -- víte, to byl jeden z raných syntetiků -- a uvědomili si, že to vůbec nebyl člověk. Tenkrát to všem došlo. Institut nebyl jen 'tam někde.' Institut byl teď všude. Mezi námi."&#xD;
+„Poté co zastřelil Henryho, pan Carter zastřelil tři, nebo čtyři další lidi. Jak jsem říkala, rozpoutalo se opravdové peklo. Přiběhly stráže, začaly pálit a pan Carter dále střílel a odhazoval lidi doleva, doprava. Nakonec ho stráže dostaly. Zdálo se, že zabily muže, kterému přeskočilo. Dočista zešílel. A také tam ležel jako mrtvý šílenec. Proboha, bylo to příšerné. Nato jsme si všimli toho kovu a plastu... víte, to byl jeden z raných syntetiků... a uvědomili si, že to vůbec nebyl člověk. Tenkrát to všem došlo. Institut nebyl jen „tam někde“. Institut byl teď všude. Mezi námi.“&#xD;
 &#xD;
-Nikdy nebylo určeno přesně proč syntetik známý jako pan Carter, vyrazil na svou vražednou výpravu. Někteří prohlašovali, že byl dálkově ovládán Institutem, který chtěl otestovat jeho bojovou efektivitu. Další se domnívali, že se prostě porouchal (hypotéza podložená cukající se tváří) a neměl nikdy zabíjet. Ale v tu chvíli se ono "proč" sotva zdálo důležité. Na čem záleželo, bylo, že lidé Commonwealthu byli skutečně infiltrováni organizací, jejíž záměry a pohnutky byly a stále jsou naprostou záhadou.&#xD;
+Nikdy nebylo určeno přesně proč syntetik, známý jako pan Carter, vyrazil na svou vražednou výpravu. Někteří prohlašovali, že byl dálkově ovládán Institutem, který chtěl otestovat jeho bojovou efektivitu. Další se domnívali, že se prostě porouchal (hypotéza podložená cukající se tváří) a neměl nikdy zabíjet. Ale v tu chvíli se ono „proč“ sotva zdálo důležité. Na čem záleželo, bylo, že lidé Commonwealthu byli skutečně infiltrováni organizací, jejíž záměry a pohnutky byly, a stále jsou, naprostou záhadou.&#xD;
 &#xD;
-Což nás přivádí k nudlím. Konkrétně nudlím, konzumovaným starostou McDonoughem minulý středeční večer, na stejném místě, kde se syntetik pan Carter pominul a bez lítosti pozabíjel několik lidí -- po hodinách strávených sdílením zážitků, které lidé z Diamond City považovali za vyhrazené pouze pro lidskou rasu. Zmýlili se.&#xD;
+Což nás přivádí k nudlím. Konkrétně nudlím konzumovaným starostou McDonoughem minulý středeční večer na stejném místě, kde se syntetik pan Carter pominul a bez lítosti pozabíjel několik lidí... po hodinách strávených sdílením zážitků, které lidé z Diamond City považovali za vyhrazené pouze pro lidskou rasu. Zmýlili se.&#xD;
 &#xD;
 Mýlíme se?&#xD;
 &lt;/p&gt;</Dest>
@@ -4332,13 +4338,13 @@ Mýlíme se?&#xD;
       <EDID>PowerArmorCheaperSprinting</EDID>
       <REC>PERK:DESC</REC>
       <Source>This perk lets you run 30% farther</Source>
-      <Dest>Tento perk ti umožní běžet o 30% dále</Dest>
+      <Dest>Tento perk ti umožní běžet o 30 % dále</Dest>
     </String>
     <String List="1" sID="0296DD">
       <EDID>PlayerDeathMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your health is low! Use a Stimpak, eat some food, or drink some water.</Source>
-      <Dest>Tvé zdraví je nízké! Použij stimpak, sněz nějaké jídlo, nebo se napij vody.</Dest>
+      <Dest>Tvé zdraví je nízké! Použij stimpak, sněz nějaké jídlo nebo se napij vody.</Dest>
     </String>
     <String List="1" sID="02C61D">
       <EDID>Publick_Interview_02A</EDID>
@@ -4378,15 +4384,15 @@ Piper Wrightová&#xD;
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Upřímně, vidět tu všechny přežívající? Obnovující svět? Dává mi to naději."&#xD;
+„Upřímně, vidět tu všechny přežívající? Obnovující svět? Dává mi to naději.“&#xD;
 &#xD;
-Naděje. Kdy naposledy mluvil v našem městě někdo o naději, kromě politiků lovících body do příštích voleb, rozdávajíc prázdné sliby ze zdi? Ale náš cizinec nedopustil, aby &lt;Alias.PronounObj=Player&gt; cynismus našeho zvláštního světa dostal.&#xD;
+Naděje. Kdy naposledy mluvil v našem městě někdo o naději, kromě politiků lovících body do příštích voleb, rozdávajíc prázdné sliby o zdi? Ale náš cizinec nedopustil, aby &lt;Alias.PronounObj=Player&gt; cynismus našeho zvláštního světa dostal.&#xD;
 &#xD;
-To vše je ještě více pozoruhodné, vzhledem k tomu jaký důvod má &lt;Alias.PronounPos=Player&gt; příchod do Commonwealthu. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+To vše je ještě více pozoruhodné, vzhledem k tomu jaký důvod má &lt;Alias.PronounPos=Player&gt; příchod do Commonwealthu. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 &lt;i&gt;Pokračování v části 3.&lt;/i&gt;&lt;/p&gt;</Dest>
     </String>
@@ -4428,15 +4434,15 @@ Piper Wrightová&#xD;
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Zrovna mě příliš zaměstnávalo vyhazování věcí do povětří, než nad tím přemýšlet."&#xD;
+„Zrovna mě příliš zaměstnávalo vyhazování věcí do povětří než nad tím přemýšlet.“&#xD;
 &#xD;
-Nutno podotknout, že &lt;Alias=Player&gt; nevyhazuje nic do povětří a možná, že &lt;Alias.PronounPos=Player&gt; narážka odkazuje na násilí, které je tak běžné, cestujete-li mimo zeď do nebezpečnějších částí Commonwealthu. Zajímavé je, že &lt;Alias.PronounPos=Player&gt; první reakcí na hrůzu a neštěstí venku je humor?&#xD;
+Nutno podotknout, že &lt;Alias=Player&gt; nevyhazuje nic do povětří a možná, že &lt;Alias.PronounPos=Player&gt; narážka odkazuje na násilí, které je tak běžné, cestujete-li za zeď do nebezpečnějších částí Commonwealthu. Zajímavé je, že &lt;Alias.PronounPos=Player&gt; první reakcí na hrůzu a neštěstí venku je humor.&#xD;
 &#xD;
-Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 &lt;i&gt;Pokračování v části 3.&lt;/i&gt;&lt;/p&gt;</Dest>
     </String>
@@ -4478,15 +4484,15 @@ Piper Wrightová&#xD;
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-"Je to vůbec možné porovnat? Tento svět? Téměř se nepodová tomu, který jsme opustili."&#xD;
+„Je to vůbec možné porovnat? Tento svět? Téměř se nepodobá tomu, který jsme opustili.“&#xD;
 &#xD;
 Zatímco my o našem městě smýšlíme jako o zářivém klenotu, nezapomínejme, že ne každý sem přichází dobrovolně. Někdy jsou lidé vyhnáni z pohodlí jejich domovů a skončí tady, jelikož jde o největší osadu Commonwealthu. Většina jen hledá útočiště, ale někdy tu zoufale něco hledají. Nebo někoho.&#xD;
 &#xD;
-Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 &lt;i&gt;Pokračování v části 3.&lt;/i&gt;&lt;/p&gt;</Dest>
     </String>
@@ -4522,13 +4528,13 @@ Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
 &lt;i&gt;Pokračování z části 2.&lt;/i&gt;&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie.  &#xD;
 &#xD;
-"Nehledě na to, jak moc to chcete vzdát, vytrvejte." Prohlašuje &lt;alias=Player&gt;. "Musíte zachovat naději, že je znovu uvidíte, nebo alespoň zjistíte pravdu."&#xD;
+„Nehledě na to, jak moc to chcete vzdát, vytrvejte,“ prohlašuje &lt;alias=Player&gt;. „Musíte zachovat naději, že je znovu uvidíte, nebo alespoň zjistíte pravdu.“&#xD;
 &#xD;
 KONEC&lt;/p&gt;</Dest>
     </String>
@@ -4570,16 +4576,15 @@ Piper Wrightová&#xD;
 &#xD;
 Co říká &lt;Alias=Player&gt; při prvním pohledu na Diamond City?&#xD;
 &#xD;
-&#xD;
-"Všichni žijete v rezavých chatrčích, zabíjíte se navzájem, bože a ten smrad..."&#xD;
+„Všichni žijete v rezavých chatrčích, zabíjíte se navzájem, a bože, ten smrad...“&#xD;
 &#xD;
 Bolestná slova. Tolik z civilizace bylo ztraceno, když dopadly bomby a my vše znovu vybudovali bez bezpečí starých vaultů. Jakkoliv arogantně a privilegovaně zní &lt;Alias=Player&gt; ve svém prohlášení, musíme pamatovat na to, odkud pochází a jak na nás musí pohlížet.&#xD;
 &#xD;
-Možná, že všechen ten vztek slouží pouze k zakrytí &lt;Alias.PronounPos=Player&gt; ztráty. Víte, &lt;Alias=Player&gt; Má syna. Shauna.  A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše -- toulajíc se naším cizím a nepřátelským světem -- aby vysvobodil Shauna od jeho únosců.&#xD;
+Možná, že všechen ten vztek slouží pouze k zakrytí &lt;Alias.PronounPos=Player&gt; ztráty. Víte, &lt;Alias=Player&gt; má syna. Shauna. A přestože byli v relativním bezpečí vaultu, někdo se tam vloupal a odvedl Shauna od jeho rodičů, a tento rodič nyní riskuje vše, toulajíc se naším cizím a nepřátelským světem, aby vysvobodil Shauna od jeho únosců.&#xD;
 &#xD;
-Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny když "děkujeme zdi, že tentokrát, jsme to nebyli mi." V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
+Všichni známe historky a pověry, které obklopují každou zmizelou osobu v Diamond City. Provinilé pohledy k truchlícím členům rodiny, když „děkujeme zdi, že tentokrát, jsme to nebyli mi.“ V Commonwealthu můžete skončit mrtví z milionu důvodů. Proč trávit čas starostmi ohledně únosů? &#xD;
 &#xD;
-Vskutku proč.&#xD;
+Vskutku, proč.&#xD;
 &#xD;
 &lt;i&gt;Pokračování v části 3.&lt;/i&gt;&lt;/p&gt;</Dest>
     </String>
@@ -4609,9 +4614,9 @@ Pohledem z vaultu&#xD;
 Autor:&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
 Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. &lt;Alias.Pronoun=Player&gt; toho nemá, k mému překvapení, k životu ve vaultu příliš co dodat. Protože &lt;Alias.PronounPos=Player&gt; každý den sestával ze zírání na zamrzlé sklo. Po více než dvě století. Je tomu tak, &lt;alias=player&gt; není jenom obyvatel vaultu, &lt;Alias.Pronoun=Player&gt; je původním obyvatelem vaultu. Přečkávajíc &lt;Alias.PronounPos=Player&gt; čas uvnitř v kryogenickém spánku.&#xD;
 &#xD;
@@ -4643,9 +4648,9 @@ Pohledem z vaultu&#xD;
 Autor:&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
 Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Z rozhovorů vím, že &lt;Alias.PronounPos=Player&gt; život ve vaultu byl normální. Ale co je normální pro vault? Jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by měl být baštou starého světa. Zachování života před bombami.&#xD;
 &#xD;
@@ -4677,11 +4682,11 @@ Pohledem z vaultu&#xD;
 Autor:&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghůly a syntetiky.&#xD;
+Kdykoliv procházím Diamond City, lidé mi říkají, že je tu mnoho věcí, za které je třeba být vděčný. Vyčištěná voda, funkční osvětlení, elektřina, ostraha. Pravda, to, co teď máme, by bylo před pár desetiletími nemyslitelné. Ale je snadné na to zapomenout, i po veškerém pokroku, kterého jsme dosáhli, stále žijeme jen ve stínu světa, který býval. Světa před hrozbou radiace. Před supermutanty a divokými ghúly a syntetiky.&#xD;
 &#xD;
-Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím "Velkým, zeleným klenotem" jak vždy tvrdíme?&#xD;
+Osud tomu chtěl, střetli jsme se já a &lt;Alias=Player&gt;. Obyvatel z vaultu. Osoba, která poprvé poznává Commonwealth. Co by řekl &lt;Alias.PronounPos=Player&gt; čerstvý pár očí o našem pokroku? Je Diamond City tím „velkým, zeleným klenotem“, jak vždy tvrdíme?&#xD;
 &#xD;
-Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Rozhovor začíná vtipkovaním o tom, jaký &lt;Alias.PronounPos=Player&gt; život ve vaultu byl. "Jen já a tisíc morčat. Stali se z nich... masožravci." Samozřejmě, jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by ve skutečnosti měl být baštou starého světa. Zachování života před bombami.&#xD;
+Než si zodpovíme tuto otázku, musíme zjistit, kdo &lt;Alias=Player&gt; je. Jaký je &lt;Alias.PronounPos=Player&gt; původ. Rozhovor začíná vtipkováním o tom, jaký &lt;Alias.PronounPos=Player&gt; život ve vaultu byl. „Jen já a tisíc morčat. Stali se z nich... masožravci.“ Samozřejmě, jako reportérka vím, že život za zapečetěnými, ozubenými dveřmi zařízení Vault-Tec by ve skutečnosti měl být baštou starého světa. Zachování života před bombami.&#xD;
 &#xD;
 &lt;i&gt;Pokračování v části 2.&lt;/i&gt;&lt;/p&gt;</Dest>
     </String>
@@ -4717,13 +4722,13 @@ Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
 &lt;i&gt;Pokračování z části 2.&lt;/i&gt;&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie. &#xD;
 &#xD;
-"Musíte to přijmout postupně." Prohlašuje &lt;alias=Player&gt;. "Prostě jděte dál. To je to jediné, co může každý udělat."&#xD;
+„Musíte to přijmout postupně,“ prohlašuje &lt;alias=Player&gt;. „Prostě jděte dál. To je to jediné, co může každý udělat.“&#xD;
 &#xD;
 KONEC&lt;/p&gt;</Dest>
     </String>
@@ -4759,13 +4764,13 @@ Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
 &lt;i&gt;Pokračování z části 2.&lt;/i&gt;&#xD;
 &#xD;
-Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a pokud ano, jsme bezmocní v pokusech zastavit je, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
+Je snadné být cynický ohledně zmizelých. Tak dlouho jsme věděli o existenci Institutu, ale tak málo o něm. Nejsou jediní, kdo je zodpovědný za únosy. Skutečnost, že za některými únosy stojí, a skutečnost, že jsme byli bezmocní v pokusech je zastavit, nás přiměla považovat oběti únosů za ztracené případy.&#xD;
 &#xD;
-Ale pozůstalí, těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí si nést svou ztrátu, i když jim každý říká: "Zapomeň a jdi dál.".&#xD;
+Ale pozůstalí těch milovaných, přátel a sousedů, kteří už možná nikdy neuvidí jejich obličeje, nemají tu možnost nechat to být. Musí nést svou ztrátu, i když jim každý říká: „Zapomeň a jdi dál.“&#xD;
 &#xD;
-Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli jak správně, lidsky reagovat na tyto tragédie.  &#xD;
+Na mou žádost vydá &lt;alias=Player&gt; pro Diamond City prohlášení. Pohled cizince na ztrátu milované osoby a jak se při tom cítí. Svým způsobem bychom se tak možná měli cítit všichni. Možná jsme zapomněli, jak správně, lidsky reagovat na tyto tragédie.  &#xD;
 &#xD;
-&lt;Alias=Player&gt; říká:"Najít toho, kdo je za to zodpovědný a donutit ho nést následky, tak snadné."&#xD;
+&lt;Alias=Player&gt; říká: „Najděte toho, kdo je za to zodpovědný a donuťte ho za to nést následky, tak snadné.“&#xD;
 &#xD;
 KONEC&lt;/p&gt;</Dest>
     </String>
@@ -4794,7 +4799,7 @@ Kupředu&#xD;
 Autor:&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Nyní o tom není pochyb. Bývalý starosta McDonough byl syntetik; agent v oblasti Institutu, který použil svůj vliv k napáchaní nevýslovných škod Diamond City a životům v něm. Opuštěn svými pány, těžko říct kolik dalších lidí by zranil, nebo zabil, nebýt zastaven.&#xD;
+Nyní o tom není pochyb. Bývalý starosta McDonough byl syntetik; agent v oblasti Institutu, který použil svůj vliv k napáchání nevýslovných škod městu Diamond City a životům v něm. Opuštěn svými pány, těžko říct, kolik dalších lidí by zranil nebo zabil, nebýt zastaven.&#xD;
 &#xD;
 Nyní známe hořkou pravdu. Nemůžeme předpovědět, jak dlouho nám bude trvat odhalit všechny McDonoughovi lži, než bude vůbec možné začít napravovat roky pečlivě připravované sabotáže. Je zeď opravdu bezpečná? Odhalíme někdy osudy zmizelých z Diamond City? Bude vůbec pozice starosty svěřena někomu dalšímu?&#xD;
 &#xD;
@@ -4875,7 +4880,7 @@ First your sergeant tells me you were caught drinking on base, then I find out a
 - Col. Kemp</Source>
       <Dest>Vy bídní červi!&#xD;
 &#xD;
-Nejdříve se dozvím od serženta, že jste byli přistiženi podnapilí na zákldně a nakonec zjistím, že se ztratil tank!? Pokud ten tank nebude zpět do 0600 zítřejšího rána, nablýskaný tak, že se v něm uvidím, nakopu vás do zadnic tak že vám bude z huby smrdět krém na boty před tím, než vás zavřu do basy do odvolání!&#xD;
+Nejdříve se dozvím od serženta, že jste byli přistiženi podnapilí na základně a nakonec zjistím, že se ztratil tank?! Pokud ten tank nebude zpět do 06:00 zítřejšího rána, nablýskaný tak, že se v něm uvidím, nakopu vás do zadnic tak, že vám bude z huby smrdět krém na boty před tím, než vás zavřu do basy do odvolání!&#xD;
 &#xD;
 - plk. Kemp</Dest>
     </String>
@@ -4901,13 +4906,13 @@ Dobře se za mě starej o kluky.&#xD;
 This form authorizes the release of a Power Armor frame from the Prydwen's repair bay. Unauthorized use of this form is prohibited and subject to severe penalties.</Source>
       <Dest>Formulář žádosti PRF-098700&#xD;
 &#xD;
-Tímto formulářem je schváleno vydání rámu energozbroje z opravny Prywdenu. Neoprávněné použití tohoto formuláře je zakázáno, pod přísným trestem.</Dest>
+Tímto formulářem je schváleno vydání rámu energozbroje z opravny v Prywdenu. Neoprávněné použití tohoto formuláře je zakázáno pod přísným trestem.</Dest>
     </String>
     <String List="1" sID="032FA6">
       <EDID>POISC_Note03</EDID>
       <REC>BOOK:DESC</REC>
       <Source>It's a sweet setup, Jamal, it really is. Up so high you don't have to worry about nothing. That drop is the only thing that bothers me. You know how I get at nights, especially after I've been drinking. Up here, if I do go out for a stroll, it'll probably be the last thing I do.</Source>
-      <Dest>Opravdu je to tu pěkně zařízené, Jamale. Tak vysoko, že se nemusíš ničeho bát. Ta výška je jediné z čeho mám obavy. Víš, jak to mám po nocích, obvzvlášť po tom co si vypiju. Pokud si tady nahoře vyjdu na procházku, nejspíš to bude poslední, co udělám.</Dest>
+      <Dest>Opravdu je to tu pěkně zařízené, Jamale. Tak vysoko, že se nemusíš ničeho bát. Ta výška je jediné z čeho mám obavy. Víš, jak to mám po nocích, obvzvlášť po tom, co něco vypiju. Pokud si tady nahoře vyjdu na procházku, nejspíš to bude poslední, co udělám.</Dest>
     </String>
     <String List="1" sID="033050">
       <EDID>POISC_Note01</EDID>
@@ -4924,7 +4929,7 @@ Máma dnes ráno zemřela.&#xD;
 &#xD;
 Nic nám tu nezbývá, Natalie, už nic. Starosta Jackson nás neochrání. Minutemani nás neochrání. Musíme se postarat sami o sebe.&#xD;
 &#xD;
-Je čas jít. Sejdeme se za skladištěm severně od města, přibližně po setmění. Schoval jsem tam nějaké zátky v kontejneru. Dole na pobřeží mám loď. Vyrazíme podél břehu směrem ke starému nábřeží. S trochou štěstí můžeme být před úsvitem v Dobrém sousedství.&#xD;
+Je čas jít. Sejdeme se za skladištěm severně od města, přibližně po setmění. Schoval jsem tam nějaké zátky do kontejneru. Dole na pobřeží mám loď. Vyrazíme podél břehu směrem ke starému nábřeží. S trochou štěstí můžeme být před úsvitem v Dobrém sousedství.&#xD;
 &lt;/font&gt;</Dest>
     </String>
     <String List="1" sID="033BE7" Partial="1">
@@ -4941,7 +4946,7 @@ Je čas jít. Sejdeme se za skladištěm severně od města, přibližně po set
 This Power Armor is certified pre-owned by Commonwealth Weaponry. It is sold as-is. Commonwealth Weaponry is not liable for any deficiencies, defects, or after-sale damage.</Source>
       <Dest>Objednávka&#xD;
 &#xD;
-Tato energozbroj je certifikována jako použitá Zbrojařstvím Commonwealth. Je prodávána ve stavu jákem je. Zbrojařství Commonwealth nezodpovídá za jekékoliv nedostatky, vady, nebo poprodejní poškození.</Dest>
+Tato energozbroj je certifikována jako použita Zbrojařstvím Commonwealth. Je prodávána v takovém stavu, v jakém je. Zbrojařství Commonwealth nezodpovídá za jekékoliv nedostatky, vady, nebo poprodejní poškození.</Dest>
     </String>
     <String List="1" sID="033C9B">
       <EDID>PowerArmorFramePurchaseMessageBoS</EDID>
@@ -4970,7 +4975,8 @@ Oprávnění k použití této energozbroje k MAXIMÁLNÍMU MASAKRU!</Dest>
       <REC>BOOK:DESC</REC>
       <Source>&#xD;
 With all authority of the Atom Cats, this highly official certificate grants ownership of one Power Armor frame from the Atom Cat's Garage. Whoever gets their mitts on this certificate has rights to the suit. So don't lose it, knucklehead. </Source>
-      <Dest>S plným zmocněním Atomových koček, tento úřední certifikát uděluje vlastnictví jednoho rámu energozbroje z garáže Atomových koček. Komukuliv se tento certifikát dostane do pracek, má právo na zbroj. Tak ho neztrať, hlupáku.</Dest>
+      <Dest>&#xD;
+S plným zmocněním Atomových koček uděluje tento úřední certifikát vlastnictví jednoho rámu energozbroje z garáže Atomových koček. Komukuliv se tento certifikát dostane do pracek, má právo na zbroj. Tak ho neztrať, hlupáku.</Dest>
     </String>
     <String List="1" sID="034117">
       <EDID>PublickOccurrencesArticle03</EDID>
@@ -5009,25 +5015,25 @@ Obavy z budoucnosti?&#xD;
 Autor&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
+Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní, skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
 &#xD;
-Od incidentu "Odhalená maska" v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
+Od incidentu „Odhalená maska“ v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
 &#xD;
-Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, co mu stojí v cestě?&#xD;
+Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, kdo mu stojí v cestě?&#xD;
 &#xD;
 My, lid Commonwealthu, pamatujeme na minulost. Žijeme ve strachu v současnosti. Ale je třeba se obávat i budoucnosti?&#xD;
 &#xD;
-V nepředstavitelném sledu nedávných událostí, Institut zničil každého v Commonwealthu, kdo měl možnost je zastavit, včetně dlouhodobých hráčů Železnice, stejně jako nově příchozího Bratrstva oceli. A co víc, tato tajemná a hrozivá organizace dokončila práci na pokročilém jaderném reaktoru, který jim poskytne téměř neomezenou energii v dohledné budoucnosti. To jistě znamená další podzemní rozrůstání, stejně jako větší dosah jejich teleportační technologie (která byla donedávna přísně střeženým tajemstvím Institutu).&#xD;
+V nepředstavitelném sledu nedávných událostí zničil Institut každého v Commonwealthu, kdo měl možnost je zastavit, včetně dlouhodobých hráčů Železnice, stejně jako nově příchozího Bratrstva oceli. A co víc, tato tajemná a hrozivá organizace dokončila práci na pokročilém jaderném reaktoru, který jim poskytne téměř neomezenou energii v dohledné budoucnosti. To jistě znamená další podzemní rozrůstání, stejně jako větší dosah jejich teleportační technologie (která byla donedávna přísně střeženým tajemstvím Institutu).&#xD;
 &#xD;
-Co to přesně znamená pro Commonwealth, jít kupředu?&#xD;
+Co přesně znamená pro Commonwealth „jít kupředu“?&#xD;
 &#xD;
-Zřejmě se shodneme, že "Nic dobrého". Ve skutečnosti, většina lidí očekává to nejhorší.&#xD;
+Zřejmě se shodneme, že „nic dobrého“. Ve skutečnosti většina lidí očekává to nejhorší.&#xD;
 &#xD;
-Ale není možné, že tento strach je neopodstatněný? Železnice možná oponovala Institutu, ale také bránila všechny syntetiky - i ty, kteří potencionálně mohli infiltrovat lidskou společnost. A loď Bratrstva je nyní možná jen doutnající vrak - zajímalo vůbec tento novo-rytířský řád, co je v nejlepším zájmu Commonwealthu?&#xD;
+Ale není možné, že tento strach je neopodstatněný? Železnice možná oponovala Institutu, ale také bránila všechny syntetiky, i ty, kteří potencionálně mohli infiltrovat lidskou společnost. A loď Bratrstva je nyní možná jen doutnající vrak. Zajímalo vůbec tento novo-rytířský řád, co je v nejlepším zájmu Commonwealthu?&#xD;
 &#xD;
-Možná nejpřesvědčivějším důvodem, proč ještě neztrácet naději je fakt, pokud jsou mé zdroje správné - a já vím, že jsou - Institut je pod přímým vlivem někoho, s kým se mnozí z nás už setkali - tuláka. Osamělé postavy, která přišla hledat do naší osady ztracené dítě, a zřejmě našla něco úplně jiného. A možná, jen možná, je pro to Institut o to lepší.&#xD;
+Možná nejpřesvědčivějším důvodem, proč ještě neztrácet naději, je fakt, že pokud jsou mé zdroje správné, a já vím, že jsou, Institut je pod přímým vlivem někoho, s kým se mnozí z nás už setkali - tuláka. Osamělé postavy, která přišla hledat do naší osady ztracené dítě, a zřejmě našla něco úplně jiného. A možná, jen možná, je pro to Institut o to lepší.&#xD;
 &#xD;
-Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, toho může nyní být Institut součástí.&#xD;
+Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, toho může nyní být Institut součástí.&#xD;
 &lt;/p&gt;</Dest>
     </String>
     <String List="1" sID="034289">
@@ -5067,25 +5073,25 @@ Strašák vyhnán?&#xD;
 Autor&#xD;
 Piper Wrightová&#xD;
 &lt;/p&gt;[pagebreak]&lt;p align="left"&gt;&#xD;
-Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
+Všichni jsme tomu podlehli, dříve, či později. Bez ohledu na to, jak stateční, nebo silní, skutečně jsme, lidé Commonwealthu poznali strach. &#xD;
 &#xD;
-Od incidentu "Odhalená maska" v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
+Od incidentu „Odhalená maska“ v roce 2229, přímo zde v Diamond City, kdy první syntetik v lidské podobě infiltroval a napadnul skupinu nevinných osadníků, zůstáváme vzhůru do noci v našich postelích, vyděšeni z Institutu a všeho, co představuje.&#xD;
 &#xD;
-Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, co mu stojí v cestě?&#xD;
+Dlouho jsme se obávali možností: Vezmou někoho z mých známých, unesou ho uprostřed noci z kdovíjakých důvodů? Obrátí se někdo z mých milovaných náhle proti mně, protože ve skutečnosti je syntetická náhrada? Nebo snad konečně vyleze strašák ze skříně a pohltí všechny, kdo mu stojí v cestě?&#xD;
 &#xD;
-My, lid Commonwealthu, pamatujeme na minulost. Žili jsme ve strachu v přítomnosti. Ale s katastrofickou explozí v ruinách C.I.T., zjevně dávající najevo zničení Institutu (což, jak reportérka zjistila, bylo situováno hluboko v podzemí), má každý na mysli otázku: byl strašák opravdu zahnán?&#xD;
+My, lid Commonwealthu, pamatujeme na minulost. Žili jsme ve strachu v přítomnosti. Ale s katastrofickou explozí v ruinách C.I.T., zjevně dávající najevo zničení Institutu (což, jak reportérka zjistila, bylo situováno hluboko v podzemí), má každý na mysli otázku: Byl strašák opravdu zahnán?&#xD;
 &#xD;
 Rozhodně to tak vypadá.&#xD;
 &#xD;
-Dokud tu byl Institut, byl tu odpor proti tajemné, hrozivé organizaci. Zatímco většina obyčejných lidí by se ani ve snu nevzepřela svým nelítostným pánům, Železnice proti nim vedla tajnou válku přes třicet let. A příchod Bratrstva oceli do Commonwealthu znamenal nejzjevnější odpor, proti jakému kdy Institut stál. Každá říše jednou padne. Přesněji řečeno, to možná nebylo otázkou "jestli" ale spíše "kdy."&#xD;
+Dokud tu byl Institut, byl tu odpor proti tajemné, hrozivé organizaci. Zatímco většina obyčejných lidí by se ani ve snu nevzepřela svým nelítostným pánům, Železnice proti nim vedla tajnou válku přes třicet let. A příchod Bratrstva oceli do Commonwealthu znamenal nejzjevnější odpor, proti jakému kdy Institut stál. Každá říše jednou padne. Přesněji řečeno to možná nebylo otázkou „jestli“ ale spíše „kdy“.&#xD;
 &#xD;
-Co přesně to znamená pro Commonwealth, jít kupředu?&#xD;
+Co přesně znamená pro Commonwealth „jít kupředu“?&#xD;
 &#xD;
-To, milí čtenáři, je otázkou. Strašák možná byl vskutku zahnán, ale není možné, že další nestvůry vystoupí ze skříně, aby nás strašili v noci? V Commonwealthu jsou další hráči. Žádný z nich tak silný jako Institut - ale to se dozajista změní. Budou pracovat s Commonwealthem, nebo proti němu? Jsou tu pro lidi, nebo proti nám? &#xD;
+To, milí čtenáři, je otázkou. Strašák možná byl vskutku zahnán, ale není možné, že další nestvůry vyjdou ze skříně, aby nás strašili v noci? V Commonwealthu jsou další hráči. Žádný z nich není tak silný jako Institut, ale to se dozajista změní. Budou pracovat s Commonwealthem, nebo proti němu? Jsou tu pro lidi, nebo proti nám? &#xD;
 &#xD;
-Reportérka si ponechala nahrávku, za jedním konkrétním účelem. Pokud jsou mé zdroje správné - a já vím, že jsou - zničení Institutu bylo zorganizováno někým, s kým se mnozí z nás už setkali - tulákem. Zdá se, že osamělá postava, která přišla do naší osady hledat ztracené dítě, skutečně našla nestvůru, která vzala tolik dětí. A zabila ji.&#xD;
+Reportérka si ponechala nahrávku za jedním konkrétním účelem. Pokud jsou mé zdroje správné, a já vím, že jsou, zničení Institutu bylo zorganizováno někým, s kým se mnozí z nás už setkali - tulákem. Zdá se, že osamělá postava, která přišla do naší osady hledat ztracené dítě, skutečně našla nestvůru, která vzala tolik dětí. A zabila ji.&#xD;
 &#xD;
-Mějte se na pozoru, při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, když Institut konečně zmizel, můžeme mít budoucnost, kterou si všichni zasloužíme.&#xD;
+Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte silní. A vždy, vždy pamatujte, že lidskost žije a umírá na povrchu. Lidskost JE Commonwealth. A možná, jen možná, když Institut konečně zmizel, můžeme mít budoucnost, kterou si všichni zasloužíme.&#xD;
 &lt;/p&gt;</Dest>
     </String>
     <String List="1" sID="0362CF">
