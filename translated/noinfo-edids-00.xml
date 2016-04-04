@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SSTXMLRessources>
   <Params>
     <Addon>Fallout4</Addon>
@@ -47,6 +46,12 @@
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Health</Source>
       <Dest>+&lt;mag&gt; Health</Dest>
+    </String>
+    <String List="0" sID="0130E2">
+      <EDID>[0004AD18]</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>DN101Hellos</Source>
+      <Dest>DN101Hellos</Dest>
     </String>
     <String List="0" sID="01338C">
       <EDID>AbFortifyResistEnergy</EDID>
@@ -369,7 +374,7 @@
     <String List="0" sID="01A4B5">
       <EDID>[0018673B]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Nahant Sherrif's Department</Source>
+      <Source>Nahant Sherrif&apos;s Department</Source>
       <Dest>Oddělení šerifa Nahantu</Dest>
     </String>
     <String List="0" sID="01A791">
@@ -377,6 +382,12 @@
       <REC>MGEF:FULL</REC>
       <Source>Fortify Fire Resist</Source>
       <Dest>Fortify Fire Resist</Dest>
+    </String>
+    <String List="0" sID="01A89C">
+      <EDID>[0006D6CD]</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>Death</Source>
+      <Dest>Smrt</Dest>
     </String>
     <String List="0" sID="01A89F">
       <EDID>2DJamDefaultActivateSelfTrigger</EDID>
@@ -430,7 +441,7 @@
       <EDID>[0009B1F0]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Greentop Nursery</Source>
-      <Dest>Jesle na Zeleném vršku</Dest>
+      <Dest>Jesle Na Zeleném vršku</Dest>
     </String>
     <String List="0" sID="01BACC">
       <EDID>Abbot</EDID>
@@ -630,6 +641,12 @@
       <Source>Elevator</Source>
       <Dest>Výtah</Dest>
     </String>
+    <String List="0" sID="0207E7">
+      <EDID>[0007D6B6]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Greenetech Genetics</Source>
+      <Dest>Genetický ústav Greentech</Dest>
+    </String>
     <String List="0" sID="0209B5">
       <EDID>AbPerkArmorer</EDID>
       <REC>SPEL:FULL</REC>
@@ -669,7 +686,7 @@
     <String List="0" sID="021712">
       <EDID>[00078C76]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Fiddler's Green Trailer Estates</Source>
+      <Source>Fiddler&apos;s Green Trailer Estates</Source>
       <Dest>Podfukářovo sídliště Zelený karavan</Dest>
     </String>
     <String List="0" sID="02188D">
@@ -822,6 +839,12 @@
       <Source>Alcohol Addiction: Reduce Agility</Source>
       <Dest>Alcohol Addiction: Reduce Agility</Dest>
     </String>
+    <String List="0" sID="023EFC">
+      <EDID>[00072EC2]</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>Sarcastic</Source>
+      <Dest>Sarkastický</Dest>
+    </String>
     <String List="0" sID="02406F">
       <EDID>[0009BC21]</EDID>
       <REC>REFR:FULL</REC>
@@ -881,6 +904,12 @@
       <REC>SPEL:FULL</REC>
       <Source>Nerd Rage</Source>
       <Dest>Zuřivost</Dest>
+    </String>
+    <String List="0" sID="024BF7">
+      <EDID>[00082138]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Concord</Source>
+      <Dest>Concord</Dest>
     </String>
     <String List="0" sID="024BFD">
       <EDID>AbFortifyHealth</EDID>
@@ -1044,6 +1073,12 @@
       <Source>Abigail Finch</Source>
       <Dest>Abigail Finchová</Dest>
     </String>
+    <String List="0" sID="0274BB">
+      <EDID>[0008CB75]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Pickman Gallery</Source>
+      <Dest>Pickmanova galerie</Dest>
+    </String>
     <String List="0" sID="02757B">
       <EDID>02Metal03Roof</EDID>
       <REC>KYWD:FULL</REC>
@@ -1055,6 +1090,12 @@
       <REC>REFR:FULL</REC>
       <Source>Parsons Creamery</Source>
       <Dest>Parsonská mlékárna</Dest>
+    </String>
+    <String List="0" sID="02786B">
+      <EDID>[00090E59]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Prydwen</Source>
+      <Dest>Prydwen</Dest>
     </String>
     <String List="0" sID="027ABB">
       <EDID>AbPerkRadResistance</EDID>
@@ -1072,7 +1113,7 @@
       <EDID>AbPerkActionBoyGirl</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Action Boy/Girl</Source>
-      <Dest>Akční Chlapec/Dívka</Dest>
+      <Dest>Akční chlapec/dívka</Dest>
     </String>
     <String List="0" sID="0284A0">
       <EDID>AbigailFinch</EDID>
@@ -1168,7 +1209,7 @@
       <EDID>AbAddictionMS09LorenzoSerum</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Serum Addiction</Source>
-      <Dest>Závislost na Séru</Dest>
+      <Dest>Závislost na séru</Dest>
     </String>
     <String List="0" sID="029878">
       <EDID>[001A7CCB]</EDID>
@@ -1180,7 +1221,7 @@
       <EDID>abDeathMessage</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Death Message</Source>
-      <Dest>Death Message</Dest>
+      <Dest>Smrtící zpráva</Dest>
     </String>
     <String List="0" sID="029BE3">
       <EDID>[001A70D1]</EDID>
@@ -1324,7 +1365,7 @@
       <EDID>[000A96F0]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Raider Base</Source>
-      <Dest>Cambridgská základna nájezdníků</Dest>
+      <Dest>Cambridgeská základna nájezdníků</Dest>
     </String>
     <String List="0" sID="02C5BF">
       <EDID>AAA_mod_TEMPLATE_Grip_Better1</EDID>
@@ -1509,7 +1550,7 @@
     <String List="0" sID="02C752">
       <EDID>AAA_mod_TEMPLATE_Grip_StockMarksmans</EDID>
       <REC>OMOD:FULL</REC>
-      <Source>Marksman's Stock</Source>
+      <Source>Marksman&apos;s Stock</Source>
       <Dest>Střelecká pažba</Dest>
     </String>
     <String List="0" sID="02C756">
@@ -1534,7 +1575,7 @@
       <EDID>AAA_mod_TEMPLATE_TubeMuzzle_Stabilizer</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Stabilizer</Source>
-      <Dest>Stabilizér.</Dest>
+      <Dest>Stabilizér</Dest>
     </String>
     <String List="0" sID="02C7AF">
       <EDID>AAA_mod_TEMPLATE_Receiver_MoreDamage2_and_BetterCriticals</EDID>
@@ -1594,7 +1635,7 @@
       <EDID>[000A96E0]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Graveyard</Source>
-      <Dest>Cambridgský hřbitov</Dest>
+      <Dest>Cambridgeský hřbitov</Dest>
     </String>
     <String List="0" sID="02C836">
       <EDID>[000A6008]</EDID>
@@ -1707,7 +1748,7 @@
     <String List="0" sID="02C937">
       <EDID>AAA_mod_TEMPLATE_GripShotgun_StockMarksmans</EDID>
       <REC>OMOD:FULL</REC>
-      <Source>Marksman's Stock</Source>
+      <Source>Marksman&apos;s Stock</Source>
       <Dest>Střelecká pažba</Dest>
     </String>
     <String List="0" sID="02C94C">
@@ -1906,7 +1947,7 @@
       <EDID>AAA_mod_TEMPLATE_LaserReceiver_ArmorPiercing2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Gamma Wave Emitter</Source>
-      <Dest>Zářič gama vln</Dest>
+      <Dest>Gama zářič</Dest>
     </String>
     <String List="0" sID="02CAB4">
       <EDID>AAA_mod_TEMPLATE_BarrelShotgun_Long</EDID>
@@ -1942,7 +1983,7 @@
       <EDID>[000A96FA]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Church</Source>
-      <Dest>Cambridgský kostel</Dest>
+      <Dest>Cambridgeský kostel</Dest>
     </String>
     <String List="0" sID="02CAF5">
       <EDID>AAA_mod_TEMPLATE_MagTank_Standard</EDID>
@@ -1960,18 +2001,18 @@
       <EDID>AAA_mod_TEMPLATE_PlasmaReceiver_MoreDamage1_and_ArmorPiercing2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Boosted Gamma Wave Emitter</Source>
-      <Dest>Zesílený zářič gama vln</Dest>
+      <Dest>Zesílený gama zářič</Dest>
     </String>
     <String List="0" sID="02CB15">
       <EDID>[000A21F1]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Shenley's Oyster Bar</Source>
+      <Source>Shenley&apos;s Oyster Bar</Source>
       <Dest>Shenleyin ústřicový bar</Dest>
     </String>
     <String List="0" sID="02CB18">
       <EDID>AAA_mod_TEMPLATE_Grip_Better2</EDID>
       <REC>OMOD:FULL</REC>
-      <Source>Sharpshooter's Grip</Source>
+      <Source>Sharpshooter&apos;s Grip</Source>
       <Dest>Ostrostřelecká rukojeť</Dest>
     </String>
     <String List="0" sID="02CB20">
@@ -2002,7 +2043,7 @@
       <EDID>[000A96F8]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Baseball Diamond</Source>
-      <Dest>Cambridgský baseballový diamant</Dest>
+      <Dest>Cambridgeský baseballový diamant</Dest>
     </String>
     <String List="0" sID="02CB6F">
       <EDID>[0009C390]</EDID>
@@ -2098,7 +2139,7 @@
       <EDID>AAA_mod_TEMPLATE_LaserReceiver_MoreDamage1_ArmorPiercing2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Boosted Gamma Wave Emitter</Source>
-      <Dest>Zesílený zářič gama vln</Dest>
+      <Dest>Zesílený gama zářič</Dest>
     </String>
     <String List="0" sID="02CC15">
       <EDID>AAA_mod_TEMPLATE_SpecialMuzzle_Electricity</EDID>
@@ -2164,7 +2205,7 @@
       <EDID>AAA_mod_TEMPLATE_PlasmaReceiver_ArmorPiercing2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Gamma Wave Emitter</Source>
-      <Dest>Zářič gama vln</Dest>
+      <Dest>Gama zářič</Dest>
     </String>
     <String List="0" sID="02CCA6">
       <EDID>AAA_mod_TEMPLATE_BarrelPlasma_Spin_A</EDID>
@@ -2206,7 +2247,7 @@
       <EDID>[000A96D4]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Campus Diner</Source>
-      <Dest>Cambridgská univerzitní jídelna</Dest>
+      <Dest>Cambridgeská univerzitní jídelna</Dest>
     </String>
     <String List="0" sID="02CD4E">
       <EDID>AAA_mod_TEMPLATE_Mag_Medium</EDID>
@@ -2248,7 +2289,7 @@
       <EDID>[000A96D0]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Academic Center</Source>
-      <Dest>Cambridgské akademické centrum</Dest>
+      <Dest>Cambridgeské akademické centrum</Dest>
     </String>
     <String List="0" sID="02CDA0">
       <EDID>AAA_mod_TEMPLATE_Receiver_FastTrigger</EDID>
@@ -2284,7 +2325,7 @@
       <EDID>[000A96FC]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Construction Site</Source>
-      <Dest>Cambridgské staveniště</Dest>
+      <Dest>Cambridgeské staveniště</Dest>
     </String>
     <String List="0" sID="02CDE1">
       <EDID>AAA_mod_TEMPLATE_BarrelDish_Long</EDID>
@@ -2326,13 +2367,13 @@
       <EDID>[000A96F2]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Hardware Store</Source>
-      <Dest>Cambridgské železářství</Dest>
+      <Dest>Cambridgeské železářství</Dest>
     </String>
     <String List="0" sID="02CE55">
       <EDID>[000ADD94]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>O'Neill Family Manufacturing</Source>
-      <Dest>O'Neillova rodinná manufaktura</Dest>
+      <Source>O&apos;Neill Family Manufacturing</Source>
+      <Dest>O&apos;Neillova rodinná manufaktura</Dest>
     </String>
     <String List="0" sID="02CE7D">
       <EDID>AAA_mod_TEMPLATE_LaserReceiver_MoreDamage3</EDID>
@@ -2392,7 +2433,7 @@
       <EDID>[000A970A]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Cambridge Warehouse</Source>
-      <Dest>Cambridgské  skladiště</Dest>
+      <Dest>Cambridgeské  skladiště</Dest>
     </String>
     <String List="0" sID="02CF01">
       <EDID>AAA_mod_TEMPLATE_Scope_SightsIronGlow</EDID>
@@ -2451,13 +2492,13 @@
     <String List="0" sID="02CFB9">
       <EDID>[0013BF2C]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Hugo's Hole</Source>
+      <Source>Hugo&apos;s Hole</Source>
       <Dest>Hugova díra</Dest>
     </String>
     <String List="0" sID="02D023">
       <EDID>[000C804F]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Founder's Triangle</Source>
+      <Source>Founder&apos;s Triangle</Source>
       <Dest>Zakladatelův trojúhelník</Dest>
     </String>
     <String List="0" sID="02D112">
@@ -2523,7 +2564,7 @@
     <String List="0" sID="02D85F">
       <EDID>[00149413]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Jimbo's Tower</Source>
+      <Source>Jimbo&apos;s Tower</Source>
       <Dest>Jimbova věž</Dest>
     </String>
     <String List="0" sID="02DA88">
@@ -2583,7 +2624,7 @@
     <String List="0" sID="02E15F">
       <EDID>[0016CA1B]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Lil' Gentry Playground</Source>
+      <Source>Lil&apos; Gentry Playground</Source>
       <Dest>Hřiště malé šlechty</Dest>
     </String>
     <String List="0" sID="02E176">
@@ -2637,8 +2678,14 @@
     <String List="0" sID="02E33E">
       <EDID>[0016CA1D]</EDID>
       <REC>REFR:FULL</REC>
-      <Source>Hangman's Alley</Source>
+      <Source>Hangman&apos;s Alley</Source>
       <Dest>Oběšencova ulička</Dest>
+    </String>
+    <String List="0" sID="02E380">
+      <EDID>[0016A5F4]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Warren Theater</Source>
+      <Dest>Warrenovo divadlo</Dest>
     </String>
     <String List="0" sID="02E3C5">
       <EDID>[0016CA14]</EDID>
@@ -2674,7 +2721,7 @@
       <EDID>[0016CA12]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Back Alley Camp</Source>
-      <Dest>Tábořiště v zadní uličce</Dest>
+      <Dest>Tábořiště v Zadní uličce</Dest>
     </String>
     <String List="0" sID="02E55D">
       <EDID>[0016C7BB]</EDID>
@@ -2740,7 +2787,7 @@
       <EDID>AbAddictionBuffjet</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Buffout Addiction</Source>
-      <Dest>Závislost na Buffoutu</Dest>
+      <Dest>Závislost na Buffjetu</Dest>
     </String>
     <String List="0" sID="02EA58">
       <EDID>AAA_mod_TEMPLATE_CombatShotgunReceiver_Automatic1_and_ArmorPiercing</EDID>
@@ -3100,7 +3147,7 @@
       <EDID>aaCharGenLoad</EDID>
       <REC>LSCR:DESC</REC>
       <Source>America in the year 2077 is a land of advanced technological achievements... and terrible civil strife. As in any age, most ordinary people want only one thing - a happy, peaceful life.</Source>
-      <Dest>Amerika roku 2077 byla země pokročilých technologických výdobitků... a děsivého občanského konfliktu. Tak jako v každé době, většina obyčejného lidu chtěla jen jediné - šťastný a klidný život.</Dest>
+      <Dest>Amerika roku 2077 byla země pokročilých technologických výdobytků... a děsivého občanského konfliktu. Tak jako v každé době, chtěla většina obyčejného lidu jen jediné - šťastný a klidný život.</Dest>
     </String>
     <String List="0" sID="0331AF">
       <EDID>AbLegendaryPoisonEffect</EDID>
@@ -3340,7 +3387,7 @@
       <EDID>[00248CCE]</EDID>
       <REC>REFR:FULL</REC>
       <Source>Lonely Chapel</Source>
-      <Dest>Osamnělá kaple</Dest>
+      <Dest>Osamělá kaple</Dest>
     </String>
     <String List="0" sID="0362A9">
       <EDID>AbBobbleheadRepair</EDID>
@@ -3382,7 +3429,7 @@
       <EDID>AAA_mod_TEMPLATE_SpecialMuzzle_Splitter</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Splits plasma into multiple projectiles covering a wider area. Poor accuracy and range.</Source>
-      <Dest>Rozděluje plazma do více projektilů pokrývajících větší oblast. Špatná přesnost a dostřel.</Dest>
+      <Dest>Rozděluje plazmu do více projektilů, pokrývajících větší oblast. Špatná přesnost a dostřel.</Dest>
     </String>
     <String List="1" sID="02C5F5">
       <EDID>AAA_mod_TEMPLATE_BarrelLaser_Short_A</EDID>
@@ -3418,7 +3465,7 @@
       <EDID>AAA_mod_TEMPLATE_Receiver_TwoBulletShot</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Shoots two bullets at once.</Source>
-      <Dest>Stříli dvě kulky najednou.</Dest>
+      <Dest>Střílí dvě kulky najednou.</Dest>
     </String>
     <String List="1" sID="02C657">
       <EDID>AAA_mod_TEMPLATE_BarrelShotgun_LightLong</EDID>
@@ -3454,7 +3501,7 @@
       <EDID>AAA_mod_TEMPLATE_Grip_StockMarksmans</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Mimořádné míření s optikou a  malý zpětný ráz. Zlepšený uder zbraní.</Dest>
+      <Dest>Výjimečná přesnost s mířením. Mimořádné míření s optikou a  malý zpětný ráz. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="02C6CB">
       <EDID>AAA_mod_TEMPLATE_BarrelShotgun_PortedShort</EDID>
@@ -3538,7 +3585,7 @@
       <EDID>AAA_mod_TEMPLATE_Receiver_MoreDamage2_and_BetterCriticals</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior damage. Better critical shot damage and accuracy.</Source>
-      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnot.</Dest>
+      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnost.</Dest>
     </String>
     <String List="1" sID="02C7A9">
       <EDID>AAA_mod_TEMPLATE_Mag_ExtraLarge</EDID>
@@ -3640,7 +3687,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelLaser_Super_B</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional damage. Superior range. Worse recoil. Poor ammo capacity and hip-fire accuracy.</Source>
-      <Dest>Výjimečné poškození. Mimořádný dostřel. Horší zpětný ráz. Málý počet nábojů a špatná přesnost bez míření.</Dest>
+      <Dest>Výjimečné poškození. Mimořádný dostřel. Horší zpětný ráz. Malý počet nábojů a špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="02C8DB">
       <EDID>AAA_mod_TEMPLATE_Receiver_Standard</EDID>
@@ -3658,7 +3705,7 @@
       <EDID>AAA_mod_TEMPLATE_Muzzle_Splitter_B</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Splits beam into multiple projectiles covering a wider area. Reduced accuracy. Poor range.</Source>
-      <Dest>Rozděluje paprsek na více projektilů pokrývající větší oblast. Snížená přesnost. Špatný dostřel.</Dest>
+      <Dest>Rozděluje paprsek na více projektilů, pokrývajících větší oblast. Snížená přesnost. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="02C910">
       <EDID>AAA_mod_TEMPLATE_Muzzle_Compensator</EDID>
@@ -3718,7 +3765,7 @@
       <EDID>AAA_mod_TEMPLATE_TubeMuzzle_Bayonet</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better bash. </Source>
-      <Dest>Lepší uder zbraní.</Dest>
+      <Dest>Lepší úder zbraní.</Dest>
     </String>
     <String List="1" sID="02C972">
       <EDID>AAA_mod_melee_TEMPLATE_Chains</EDID>
@@ -3838,7 +3885,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelPlasma_Sniper_B</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional damage. Superior range. Worse recoil. Poor ammo capacity and hip-fire accuracy.</Source>
-      <Dest>Výjimečné poškození. Mimořádný dostřel. Horší zpětný ráz. Málý počet nábojů a špatná přesnost bez míření.</Dest>
+      <Dest>Výjimečné poškození. Mimořádný dostřel. Horší zpětný ráz. Malý počet nábojů a špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="02CAD8">
       <EDID>AAA_mod_TEMPLATE_BarrelDish_Short</EDID>
@@ -3850,7 +3897,7 @@
       <EDID>AAA_mod_TEMPLATE_Muzzle_Splitter_A</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Splits beam into multiple projectiles covering a wider area. Poor accuracy and range.</Source>
-      <Dest>Rozděluje paprsek na více projektilů pokrývající větší oblast. Špatná přesnost a dostřel.</Dest>
+      <Dest>Rozděluje paprsek na více projektilů, pokrývajících větší oblast. Špatná přesnost a dostřel.</Dest>
     </String>
     <String List="1" sID="02CADE">
       <EDID>AAA_mod_melee_TEMPLATE_SpikesSmall</EDID>
@@ -3970,7 +4017,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelLaser_Long_B</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better damage and range. Improved sighted accuracy and recoil. Reduced ammo capacity. Poor hip-fire accuracy.</Source>
-      <Dest>Zvýšené poškození a dostřel. Lepší přesnost s mířením a menší zpětný ráz. Snížený počet nábojů. Špatné přesnost bez míření.</Dest>
+      <Dest>Zvýšené poškození a dostřel. Lepší přesnost s mířením a menší zpětný ráz. Snížený počet nábojů. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="02CC97">
       <EDID>AAA_mod_TEMPLATE_BarrelAlien_Long</EDID>
@@ -4036,7 +4083,7 @@
       <EDID>AAA_mod_TEMPLATE_BarrelShotgun_LightShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved sighted accuracy and recoil.</Source>
-      <Dest>Lepší přesnost s mířením a měnší zpětný ráz.</Dest>
+      <Dest>Lepší přesnost s mířením a menší zpětný ráz.</Dest>
     </String>
     <String List="1" sID="02CD64">
       <EDID>AAA_mod_TEMPLATE_Receiver_MoreDamage3_AmmoConversion</EDID>
@@ -4107,7 +4154,7 @@
     <String List="1" sID="02CE6C">
       <EDID>AAA_mod_TEMPLATE_Receiver_FastTrigger</EDID>
       <REC>OMOD:DESC</REC>
-      <Source>More sensitive trigger. Better rate of fire.&#xD;
+      <Source>More sensitive trigger. Better rate of fire.
 </Source>
       <Dest>Citlivější spoušť. Lepší kadence.</Dest>
     </String>
@@ -4121,7 +4168,7 @@
       <EDID>AAA_mod_TEMPLATE_Receiver_TankNapalm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Stickier, hotter flames.</Source>
-      <Dest>Lepivější žhavější plameny.</Dest>
+      <Dest>Přilnavější žhavější plameny.</Dest>
     </String>
     <String List="1" sID="02CECC">
       <EDID>AAA_mod_TEMPLATE_Mag_Medium</EDID>
