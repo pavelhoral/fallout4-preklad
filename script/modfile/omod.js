@@ -37,7 +37,7 @@ class OmodExtractor {
 
     handleField(type, size, buffer, offset) {
         if (!MODFILE_TYPES[type]) {
-            return; // Invalid record
+            return; // Invalid field
         }
         if (type === MODFILE_TYPES.EDID) {
             this.context.editorId = buffer.toString('ascii', offset, offset + size - 1);

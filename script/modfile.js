@@ -103,10 +103,26 @@ program.
     });
 
 /**
+ * General search command.
+ */
+program.
+    command('find <pattern>').
+    description('Find items with the defined HEX pattern in their body.').
+    option('-t, --type <type>', 'Specify entry type to find.').
+    action(() => {
+        var modfileFind = require('./modfile/find'),
+            matchExtractor = readModfile(new modfileFind.MatchExtractor(program.args[1].type, program.args[0])),
+            resultData = [];
+        matchExtractor.result.forEach((match) => {
+            resultData.push('[' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' + match.editorId);
+        });
+        writeOutput(resultData.join('\n'));
+    });
+
+/**
  * Fallback command.
  */
 program.
-    command('*').
     action(() => {
         console.error('[ERROR] Unknown command \'' + program.args[0] + '\'.');
     });
