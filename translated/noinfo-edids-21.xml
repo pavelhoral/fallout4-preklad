@@ -160,7 +160,7 @@
       <EDID>mod_armor_Leather_Leg_Material_2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Girded Leather</Source>
-      <Dest>Přepásná kůže</Dest>
+      <Dest>Přepásaná kůže</Dest>
     </String>
     <String List="0" sID="0166F8">
       <EDID>mod_armor_Leather_Torso_Material_3B</EDID>
@@ -328,7 +328,7 @@
       <EDID>mod_armor_Leather_Arm_Material_2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Girded Leather</Source>
-      <Dest>Přepásná kůže</Dest>
+      <Dest>Přepásaná kůže</Dest>
     </String>
     <String List="0" sID="01B842">
       <EDID>mod_CombatRifle_Barrel_Long</EDID>
@@ -1096,7 +1096,7 @@
       <EDID>mod_armor_Leather_Torso_Material_2</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Girded Leather</Source>
-      <Dest>Přepásná kůže</Dest>
+      <Dest>Přepásaná kůže</Dest>
     </String>
     <String List="0" sID="01F89C">
       <EDID>mod_armor_Metal_Leg_Material_1</EDID>
@@ -3016,13 +3016,13 @@
       <EDID>mod_CombatRifle_Barrel_PortedLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior recoil, range and sighted accuracy. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel, přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel a přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="012AF4">
       <EDID>mod_CombatRifle_Mag_Large</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better ammo capacity. Inferior reload speed.</Source>
-      <Dest>Větší počet nábojů. Better ammo capacity. Malá rychlost přebíjení.</Dest>
+      <Dest>Větší počet nábojů. Malá rychlost přebíjení.</Dest>
     </String>
     <String List="1" sID="012C95">
       <EDID>mod_10mm_Receiver_FastTrigger</EDID>
@@ -3640,7 +3640,7 @@
       <EDID>mod_CombatRifle_Receiver_MoreDamage2_and_BetterCriticals</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior damage. Better critical shot damage and accuracy.</Source>
-      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnot.</Dest>
+      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnost.</Dest>
     </String>
     <String List="1" sID="01CA3C">
       <EDID>mod_CombatRifle_Receiver_Automatic1_and_MoreDamage1_and_ArmorPiercing</EDID>
@@ -3856,7 +3856,7 @@
       <EDID>mod_AssaultRifle_Barrel_PortedLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior recoil, range and sighted accuracy. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel, přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel a přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="01D092">
       <EDID>mod_AssaultRifle_Barrel_PortedShort</EDID>
@@ -3892,7 +3892,7 @@
       <EDID>mod_AssaultRifle_Receiver_MoreDamage2_and_BetterCriticals</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior damage. Better critical shot damage and accuracy.</Source>
-      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnot.</Dest>
+      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnost.</Dest>
     </String>
     <String List="1" sID="01D0B6">
       <EDID>mod_AssaultRifle_Scope_ScopeLong</EDID>
@@ -4090,13 +4090,13 @@
       <EDID>mod_10mm_Receiver_MoreDamage2_and_BetterCriticals</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior damage. Better critical shot damage and accuracy.</Source>
-      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnot.</Dest>
+      <Dest>Mimořádné poškození. Lepší poškození kritickým zásahem a přesnost.</Dest>
     </String>
     <String List="1" sID="0259F1">
       <EDID>mod_armor_Universal_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="025B3F">
       <EDID>mod_44_Barrel_LightShort</EDID>
@@ -4354,7 +4354,7 @@
       <EDID>mod_armor_Combat_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02EAFC">
       <EDID>mod_armor_Synth_Lining_Limb_Lighter</EDID>
@@ -4390,7 +4390,7 @@
       <EDID>mod_armor_Leather_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02EC13">
       <EDID>mod_armor_Synth_Lining_Limb_ImprovedCarryCapacity</EDID>
@@ -4492,7 +4492,7 @@
       <EDID>mod_armor_Metal_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02EDFC">
       <EDID>mod_armor_RaiderMod_Torso_Material_3</EDID>
@@ -4576,7 +4576,7 @@
       <EDID>mod_armor_RaiderMod_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02EE51">
       <EDID>mod_armor_RaiderMod_Lining_Torso_ResistanceRadiation</EDID>
@@ -4642,7 +4642,7 @@
       <EDID>mod_armor_Synth_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02F16F">
       <EDID>mod_armor_RaiderMod_Arm_Material_2</EDID>
@@ -4786,7 +4786,7 @@
       <EDID>mod_armor_DCGuard_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02F86A">
       <EDID>mod_armor_RailroadSWAT_Lining_Torso_ImprovedCarryCapacity</EDID>
@@ -4798,7 +4798,7 @@
       <EDID>mod_armor_RailroadSWAT_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="02F880">
       <EDID>mod_armor_RailroadSWAT_Lining_Torso_ResistanceRadiation</EDID>
@@ -4822,7 +4822,7 @@
       <EDID>mod_armor_VaultTec_Lining_Torso_Mesh_BioComm</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases duration of chems 50%.</Source>
-      <Dest>Zvyšuje délku efektu chemikálií o 50%.</Dest>
+      <Dest>Zvyšuje délku efektu chemikálií o 50 %.</Dest>
     </String>
     <String List="1" sID="0300AD">
       <EDID>mod_armor_Combat_Helmet_Material_1</EDID>
@@ -4864,7 +4864,7 @@
       <EDID>mod_AlienBlaster_AlienMag_AmmoStandard</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Uses standard Alien Blaster Rounds.</Source>
-      <Dest>Používá standardní Uses standardí náboje alien blasteru.</Dest>
+      <Dest>Používá standardní náboje Alien Blasteru.</Dest>
     </String>
     <String List="1" sID="030F68">
       <EDID>mod_AlienBlaster_Grip_Better2</EDID>
@@ -4984,7 +4984,7 @@
       <EDID>mod_armor_Railroad_ClothingArmor2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved Damage and Energy Resistance.</Source>
-      <Dest>Vylepšuje odolnost proti normálnímu a energetickému poškození.</Dest>
+      <Dest>Vylepšuje odolnost vůči normálnímu a energetickému poškození.</Dest>
     </String>
     <String List="1" sID="034C0C">
       <EDID>mod_armor_Railroad_ClothingArmor3</EDID>
@@ -5008,7 +5008,7 @@
       <EDID>mod_armor_Railroad_ClothingArmor1</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Adds Damage and Energy Resistance.</Source>
-      <Dest>Přidává odlnost proti normálnímu a energetickému poškození.</Dest>
+      <Dest>Přidává odolnost proti normálnímu a energetickému poškození.</Dest>
     </String>
     <String List="1" sID="0354F8">
       <EDID>mod_armor_RaiderMod_Lining_LimbArm_ReducedPowerAttack</EDID>
@@ -5020,7 +5020,7 @@
       <EDID>mod_armor_StabilizedPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>5% less per mod piece</Source>
-      <Dest>5% zmenšení za každou úpravu</Dest>
+      <Dest>5% snížení za každou úpravu</Dest>
     </String>
     <String List="1" sID="03551D">
       <EDID>mod_armor_Synth_Lining_Torso_Explosion1</EDID>
@@ -5038,7 +5038,7 @@
       <EDID>mod_armor_RaiderMod_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="035527">
       <EDID>mod_armor_Metal_Lining_LimbArm_ReducedPowerAttack</EDID>
@@ -5098,7 +5098,7 @@
       <EDID>mod_armor_ReducedPowerAttackPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>5% less per mod piece</Source>
-      <Dest>5% zmenšení za každou úpravu</Dest>
+      <Dest>5% snížení za každou úpravu</Dest>
     </String>
     <String List="1" sID="035549">
       <EDID>mod_armor_Leather_Lining_Torso_Explosion1</EDID>
@@ -5116,7 +5116,7 @@
       <EDID>mod_armor_Synth_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035555">
       <EDID>mod_armor_Metal_Lining_LimbArm_Stabilized</EDID>
@@ -5128,13 +5128,13 @@
       <EDID>mod_armor_Combat_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="035560">
       <EDID>mod_armor_RaiderMod_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035561">
       <EDID>mod_armor_Universal_Lining_LimbLeg_StealthMove</EDID>
@@ -5146,7 +5146,7 @@
       <EDID>mod_armor_Leather_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="035573">
       <EDID>mod_armor_Metal_Lining_Torso_FlameResistance</EDID>
@@ -5200,13 +5200,13 @@
       <EDID>mod_armor_StealthMovePerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>move 5% faster while stealthed per mod installed</Source>
-      <Dest>O 5% rychlejší pohyb při plížení za každou instalovanou úpravu.</Dest>
+      <Dest>O 5 % rychlejší pohyb při plížení za každou instalovanou úpravu</Dest>
     </String>
     <String List="1" sID="03559E">
       <EDID>mod_armor_DCGuard_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355A1">
       <EDID>mod_armor_Leather_Lining_Torso_FlameResistance</EDID>
@@ -5254,19 +5254,19 @@
       <EDID>mod_armor_Combat_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355B5">
       <EDID>mod_armor_Universal_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355B6">
       <EDID>mod_armor_Metal_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355BA">
       <EDID>mod_armor_Metal_Lining_LimbLeg_ReducedSprint</EDID>
@@ -5374,13 +5374,13 @@
       <EDID>mod_armor_Synth_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355F1">
       <EDID>mod_armor_Combat_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355F2">
       <EDID>mod_armor_Universal_Lining_Torso_FlameResistance</EDID>
@@ -5398,19 +5398,19 @@
       <EDID>mod_armor_Leather_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0355FD">
       <EDID>mod_armor_Leather_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035601">
       <EDID>mod_armor_Metal_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035602">
       <EDID>mod_armor_VaultTec_Lining_Torso_FlameResistance</EDID>
@@ -5422,13 +5422,13 @@
       <EDID>mod_armor_RaiderMod_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035606">
       <EDID>mod_armor_RailroadSWAT_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035609">
       <EDID>mod_armor_Synth_Lining_Limb_ImprovedCarryCapacity2</EDID>
@@ -5446,7 +5446,7 @@
       <EDID>mod_armor_IgnoreArmorPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>10% per mod piece</Source>
-      <Dest>10% za každou modifikaci</Dest>
+      <Dest>10 % za každou modifikaci</Dest>
     </String>
     <String List="1" sID="03560D">
       <EDID>mod_armor_RaiderMod_Lining_Limb_ImprovedCarryCapacity2</EDID>
@@ -5476,7 +5476,7 @@
       <EDID>mod_armor_Universal_Lining_Limb_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="035619">
       <EDID>mod_armor_RailroadSWAT_Lining_Torso_ImprovedCarryCapacity2</EDID>
@@ -5554,7 +5554,7 @@
       <EDID>mod_armor_Metal_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="03563E">
       <EDID>mod_armor_BrawlerPerk</EDID>
@@ -5578,7 +5578,7 @@
       <EDID>mod_armor_Explosion2Perk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Reduce incoming explosives damage</Source>
-      <Dest>Snižuje poškození způsobeného explozemi.</Dest>
+      <Dest>Snižuje poškození způsobené explozemi</Dest>
     </String>
     <String List="1" sID="035657">
       <EDID>mod_armor_VaultTec_Lining_Torso_Explosion2</EDID>
@@ -5590,13 +5590,13 @@
       <EDID>mod_armor_Synth_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="035664">
       <EDID>mod_armor_ReducedSprintPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Sprint drains 5% less AP per equipped part</Source>
-      <Dest>Sprint ubírá o 5% méně AB za každou použitou část</Dest>
+      <Dest>Sprint ubírá o 5 % méně AB za každou použitou část</Dest>
     </String>
     <String List="1" sID="03566E">
       <EDID>mod_armor_Metal_Lining_Torso_LessStagger</EDID>
@@ -5626,7 +5626,7 @@
       <EDID>mod_armor_Universal_Lining_LimbArm_IgnoreArmor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Unarmed and Melee attacks ignore some of target's armor.</Source>
-      <Dest>Boj beze zbraně a boj zblízka zčásti ignoruje protivníkovu zbroj.</Dest>
+      <Dest>Boj beze zbraně a boj zblízka zčásti ignorují protivníkovu zbroj.</Dest>
     </String>
     <String List="1" sID="03567C">
       <EDID>mod_armor_Universal_Lining_Torso_ImprovedCarryCapacity2</EDID>
@@ -5644,7 +5644,7 @@
       <EDID>mod_armor_Explosion1Perk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Reduce incoming explosives damage</Source>
-      <Dest>Snižuje poškození způsobeného explozemi.</Dest>
+      <Dest>Snižuje poškození způsobené explozemi</Dest>
     </String>
     <String List="1" sID="035688">
       <EDID>mod_armor_DCGuard_Lining_Torso_Explosion2</EDID>
@@ -5674,7 +5674,7 @@
       <EDID>mod_armor_VaultTec_Lining_Torso_Lighter2</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Greatly reduced weight and increased AP bonus.</Source>
-      <Dest>Významně snížená váha a zvýšený Greatly reduced weight and increased bonus AB.</Dest>
+      <Dest>Významně snížená váha a zvýšený bonus AB.</Dest>
     </String>
     <String List="1" sID="0360DA">
       <EDID>mod_AssaultRifle_Scope_ScopeShort_Recon</EDID>
