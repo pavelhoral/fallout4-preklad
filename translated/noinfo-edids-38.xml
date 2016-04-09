@@ -52,7 +52,7 @@
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Welcome, Administrator.  Targeting Parameters have been erased and set to ADMIN_USER_GROUP::&lt;Token.Name=Faction&gt;</Source>
-      <Dest>Vítejte, administrátore.  Zaměřovací parametry byly vymazány a nastaveny na ADMIN_UŽIVATEL_SKUPINA::&lt;Token.Name=Faction&gt;</Dest>
+      <Dest>Vítejte, administrátore.  Cílové parametry byly vymazány a nastaveny na ADMIN_UŽIVATEL_SKUPINA::&lt;Token.Name=Faction&gt;</Dest>
     </String>
     <String List="0" sID="0149A2">
       <EDID>WrhsDoorSmMetal01</EDID>
@@ -206,7 +206,7 @@
       <EDID>YaoGuaiRace</EDID>
       <REC>RACE:FULL</REC>
       <Source>Yao Guai</Source>
-      <Dest>Yao Guai</Dest>
+      <Dest>Yao guai</Dest>
     </String>
     <String List="0" sID="0182A2">
       <EDID>WorkshopTerminal</EDID>
@@ -242,7 +242,7 @@
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Hijack VIP Escort Protocol</Source>
-      <Dest>Zmocnit se protokolu doprovodu VIP</Dest>
+      <Dest>Převzít protokol doprovodu VIP</Dest>
     </String>
     <String List="0" sID="018B4F">
       <EDID>WorkshopVendorChestArmor04</EDID>
@@ -254,7 +254,7 @@
       <EDID>WorkshopVendorWeapons01</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Smiling Larry</Source>
-      <Dest>Usměvavý Larry</Dest>
+      <Dest>Usměvavej Larry</Dest>
     </String>
     <String List="0" sID="01994F">
       <EDID>WorkshopVendorChestBar04</EDID>
@@ -390,7 +390,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Scramble Targeting Parameters</Source>
-      <Dest>Zaměnit zaměřovací parametry</Dest>
+      <Dest>Zaměnit cílové parametry</Dest>
     </String>
     <String List="0" sID="01C7A7">
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
@@ -472,8 +472,8 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
 .&#xD;
 .&#xD;
 &gt;VIP ESCORT PROTOCOL ENGAGED</Source>
-      <Dest>&gt;&gt;EMULUJI POVĚŘENÍ&#xD;
-&gt;&gt;RE-KALIBRACE&#xD;
+      <Dest>&gt;&gt;IMITUJI POVĚŘENÍ&#xD;
+&gt;&gt;REKALIBRACE&#xD;
 .&#xD;
 .&#xD;
 &gt;PROTOKOL VIP DOPROVODU ZAHÁJEN</Dest>
@@ -626,7 +626,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>YaoGuaiRoarFearEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Yao Guai Roar Fear</Source>
-      <Dest>Yao Guai řvoucí strach</Dest>
+      <Dest>Yao guai řvoucí strach</Dest>
     </String>
     <String List="0" sID="02266E">
       <EDID>WorkshopRecipeFilterFurniture02Tables</EDID>
@@ -722,7 +722,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Override Targeting Parameters</Source>
-      <Dest>Přepsat zaměřovací parametry</Dest>
+      <Dest>Přepsat cílové parametry</Dest>
     </String>
     <String List="0" sID="024981">
       <EDID>WorkshopRecipeFilterResource02Power03Connectors</EDID>
@@ -746,7 +746,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>YaoGuaiFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Yao Guai Faction</Source>
-      <Dest>Frakce Yao Guai</Dest>
+      <Dest>Frakce yao guai</Dest>
     </String>
     <String List="0" sID="025210">
       <EDID>WorkshopStoreWeapon03</EDID>
@@ -788,7 +788,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>xxxDELETEMEhackerProtectronHolotapeSubMenu</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>CAUTION: Targeting parameters cleared. Turret will fire at all targets, regardless of affiliation.  Exercise caution.</Source>
-      <Dest>VAROVÁNÍ: Zaměřovací parametry vymazány. Věž bude pálit na všechny cíle, bez ohledu na příslušnost.  Postupujte s opatrností.</Dest>
+      <Dest>VAROVÁNÍ: Cílové parametry vymazány. Věž bude útočit na všechny cíle, bez ohledu na příslušnost.  Postupujte s opatrností.</Dest>
     </String>
     <String List="0" sID="025B63">
       <EDID>WorkshopWorkbenchWireOnly</EDID>
@@ -896,7 +896,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>YaoGuaiClass</EDID>
       <REC>CLAS:FULL</REC>
       <Source>Yao Guai</Source>
-      <Dest>Yao Guai</Dest>
+      <Dest>Yao guai</Dest>
     </String>
     <String List="0" sID="026FC8">
       <EDID>Yangtze01</EDID>
@@ -1898,7 +1898,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>YaoGuaiHide</EDID>
       <REC>MISC:FULL</REC>
       <Source>Yao Guai Hide</Source>
-      <Dest>Kůže Yao Guai</Dest>
+      <Dest>Kůže yao guai</Dest>
     </String>
     <String List="0" sID="034644">
       <EDID>workshopScrapRecipe_Loot_Toolbox</EDID>
@@ -2174,25 +2174,205 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>WorkshopSuperMutantAttack01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="036004">
       <EDID>WorkshopSynthInfiltrator02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="03603E">
       <EDID>WorkshopSynthInfiltrator01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
     </String>
     <String List="0" sID="0360DB">
       <EDID>WorkshopSuperMutantAttack02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Help defend &lt;Alias=myLocation&gt;</Source>
-      <Dest>Pomož bránit osadu &lt;Alias=myLocation&gt;</Dest>
+      <Dest>Pomoz bránit osadu &lt;Alias=myLocation&gt;</Dest>
+    </String>
+    <String List="1" sID="01294B">
+      <EDID>WorkshopUnownedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You cannot use this workshop yet.</Source>
+      <Dest>Tuto dílnu zatím nemůžeš použít.</Dest>
+    </String>
+    <String List="1" sID="01D2A9">
+      <EDID>WorkshopResourceAssignedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This resource is now assigned.</Source>
+      <Dest>Tento zdroj je nyní přiřazen.</Dest>
+    </String>
+    <String List="1" sID="020A93">
+      <EDID>WorkshopResourceNoAssignmentMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This resource cannot be assigned to this NPC.</Source>
+      <Dest>Tento zdroj nemůže být přiřazen této postavě.</Dest>
+    </String>
+    <String List="1" sID="028FBA">
+      <EDID>WorkshopTutorialMessage00_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Build a generator.</Source>
+      <Dest>Postav generátor.</Dest>
+    </String>
+    <String List="1" sID="02901C">
+      <EDID>WorkshopUnhappinessWarning</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The people of &lt;Alias=MessageLocationAlias&gt; are very unhappy. You may lose control of the settlement if things do not improve.</Source>
+      <Dest>Obyvatelé osady &lt;Alias=MessageLocationAlias&gt; jsou velmi nespokojení. Pokud se stav brzy nezlepší, můžeš nad osadou ztratit kontrolu.</Dest>
+    </String>
+    <String List="1" sID="029828">
+      <EDID>WorkshopTutorialMessage01_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Build something that requires Power.</Source>
+      <Dest>Postav něco, co vyžaduje elektřinu.</Dest>
+    </String>
+    <String List="1" sID="029853">
+      <EDID>WorkshopTutorialMessage00_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This object requires Power before it can produce resources. Build a generator and connect it with wires to provide this object with Power.</Source>
+      <Dest>Předtím, než začne tento objekt produkovat zdroje, potřebuje elektřinu. Pro zavedení elektřiny postav generátor a propoj ho s objektem pomocí kabelů.</Dest>
+    </String>
+    <String List="1" sID="0298AF">
+      <EDID>WorkshopTutorialMessage00_2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Run a wire from the generator to the object that requires Power.</Source>
+      <Dest>Za pomoci kabelu propoj generátor s objektem, který potřebuje elektřinu.</Dest>
+    </String>
+    <String List="1" sID="0298B4">
+      <EDID>WorkshopTutorialMessage00_2_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Now run a wire from the generator to the object that needs Power.</Source>
+      <Dest>Nyní veď kabel z generátoru až k objektu, které potřebuje elektřinu.</Dest>
+    </String>
+    <String List="1" sID="0298B5">
+      <EDID>WorkshopTutorialMessage01_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You've built a power source. Connect objects that require Power to it.</Source>
+      <Dest>Máš postavený zdroj elektřiny. Propoj ho s objekty, které potřebují elektřinu.</Dest>
+    </String>
+    <String List="1" sID="0298BC">
+      <EDID>WorkshopTutorialMessage00_2_Finish</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You've powered up your first object. Congratulations!</Source>
+      <Dest>Máš připojený svůj první objekt k elektřině. Dobrá práce!</Dest>
+    </String>
+    <String List="1" sID="0298C4">
+      <EDID>WorkshopTutorialMessage02_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You must assign a worker to this object before it can begin producing resources.</Source>
+      <Dest>Předtím, než začne tento objekt produkovat zdroje, musíš k němu přiřadit pracovníka.</Dest>
+    </String>
+    <String List="1" sID="0298C7">
+      <EDID>WorkshopTutorialMessage02_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Assign a worker to the resource object.</Source>
+      <Dest>K objektu, produkujícímu zdroje, přiřaď pracovníka.</Dest>
+    </String>
+    <String List="1" sID="0298C8">
+      <EDID>WorkshopTutorialMessage03_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You've built something that requires a worker to produce its resource. To recruit new workers, build a Recruitment Radio Beacon.</Source>
+      <Dest>Máš postavený objekt, který k produkování příslušných zdrojů vyžaduje pracovníky. Pro získání nových pracovních sil postav náborový radiomaják.</Dest>
+    </String>
+    <String List="1" sID="0298C9">
+      <EDID>WorkshopTutorialMessage03_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Build and power a Recruitment Radio Beacon.</Source>
+      <Dest>Postav a zapoj náborový radiomaják.</Dest>
+    </String>
+    <String List="1" sID="0298D5">
+      <EDID>WorkshopTutorialMessage04_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A worker that is already assigned to produce Food can work on multiple Food-producing objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCFood&gt; Food total).</Source>
+      <Dest>Pracovník, který je přiřazen na produkci JÍDLA, může pracovat na více objektech produkujících JÍDLO (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCFood&gt; jednotek JÍDLA).</Dest>
+    </String>
+    <String List="1" sID="0298D6">
+      <EDID>WorkshopTutorialMessage05_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A worker that is already assigned to produce Defense can work on multiple Defense-producing objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; Defense total).</Source>
+      <Dest>Pracovník, který je přiřazen na produkci OBRANY, může pracovat na více objektech produkujících OBRANU (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek OBRANY).</Dest>
+    </String>
+    <String List="1" sID="0298D7">
+      <EDID>WorkshopTutorialMessage06_1</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Repair a damaged object.</Source>
+      <Dest>Oprav poškozený objekt.</Dest>
+    </String>
+    <String List="1" sID="0298D9">
+      <EDID>WorkshopTutorialMessage06_1_Finish</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The object is now repaired and can produce again.</Source>
+      <Dest>Objekt je nyní opraven a může znovu produkovat.</Dest>
+    </String>
+    <String List="1" sID="029CDA">
+      <EDID>WorkshopTutorialMessage06_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your &lt;Alias=DamagedObject&gt; is damaged. Damaged objects can't produce their resources until they are repaired.</Source>
+      <Dest>Jeden z objektů je poškozen (&lt;Alias=DamagedObject&gt;). Poškozené objekty nemohou produkovat své zdroje, dokud nejsou opraveny.</Dest>
+    </String>
+    <String List="1" sID="029D0A">
+      <EDID>WorkshopTutorialMessage03_1_Finish</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>While your Recruitment Radio Beacon is turned on, there's a chance each day that new settlers will join your settlement.</Source>
+      <Dest>Při zapnutém náborovém radiomajáku je každý den šance, že do tvé osady přijdou noví osadníci.</Dest>
+    </String>
+    <String List="1" sID="02A535">
+      <EDID>WorkshopTutorialMessage05_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>When you build new Defense objects, existing guards will automatically assign themselves to work on them if they are not at their maximum capacity.</Source>
+      <Dest>Jakmile postavíš nové objekty pro OBRANU, současní strážci se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
+    </String>
+    <String List="1" sID="02A54B">
+      <EDID>WorkshopTutorialMessage02_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Assign a worker to the object by highlighting the worker while in the Workshop menu and selecting "Command."</Source>
+      <Dest>V rámci dílenského režimu přiřaď pracovníka k danému objektu volbou „Přikázat“.</Dest>
+    </String>
+    <String List="1" sID="02A621">
+      <EDID>WorkshopTutorialMessage00_2_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>For most powered objects, you can run a wire directly to them. Some small objects like lights get Power from a nearby Power Connector.</Source>
+      <Dest>Většinu elektrických zařízení můžeš napojit přímo. Některé malé spotřebiče, jako například žárovky, získávají elektřinu z blízkých elektrických přípojek.</Dest>
+    </String>
+    <String List="1" sID="02A6C3">
+      <EDID>WorkshopTutorialMessage04_1_Start3</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>In the same way, workers assigned to Defense-producing objects will also assign themselves to new Defense objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; Defense total).</Source>
+      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím OBRANU se sami přiřadí k novým objektům pro OBRANU (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek OBRANY).</Dest>
+    </String>
+    <String List="1" sID="02A7EC">
+      <EDID>WorkshopTutorialMessage05_1_Start3</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>In the same way, workers assigned to Food-producing objects will also assign themselves to new Food objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCFood&gt; Food total).</Source>
+      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím JÍDLO se sami přiřadí k novým objektům pro JÍDLO (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek JÍDLA).</Dest>
+    </String>
+    <String List="1" sID="02A7ED">
+      <EDID>WorkshopTutorialMessage06_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can repair objects yourself through the Workshop menu. Your workers will also repair damaged objects on their own, but it may take several days.</Source>
+      <Dest>Jednotlivé objekty můžeš opravovat v dílenské nabídce. Také tvoji pracovníci sami od sebe objekty opraví, ale to jim může zabrat i několik dní.</Dest>
+    </String>
+    <String List="1" sID="02A845">
+      <EDID>WorkshopTutorialMessage04_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>When you build new Food-producing objects, existing farmers will automatically begin working on them (if not already at maximum capacity).</Source>
+      <Dest>Jakmile postavíš nové objekty produkující JÍDLO, současní farmáři se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
+    </String>
+    <String List="1" sID="02BCF6">
+      <EDID>WorkshopUnownedHostileMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You need to clear the enemies from the location.</Source>
+      <Dest>Musíš vyčistit lokaci od nepřátel.</Dest>
+    </String>
+    <String List="1" sID="02BE36">
+      <EDID>WorkshopUnownedSettlementMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You aren't allied to this settlement.</Source>
+      <Dest>S touto osadou nejsi spojenec.</Dest>
     </String>
     <String List="1" sID="02DFAD">
       <EDID>YoureSpecialMessage</EDID>
@@ -2218,6 +2398,58 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <Source>+2 to all SPECIALs for 2 minutes.</Source>
       <Dest>+2 pro všechny SPECIAL vlastnosti na 2 minuty.</Dest>
     </String>
+    <String List="1" sID="032168">
+      <EDID>WorkshopTutorialMessage09_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>The workshop allows you to build, adjust, and remove nearby objects and structures.&#xD;
+&#xD;
+Move between options with [Left] and [Right]. Press [Up] to find the object or structure you wish to build. If your selected object appears green, press [Accept:16] to build it. If it appears red, try adjusting its location (and yours) until it changes to green.&#xD;
+&#xD;
+Workshop objects are built from components. When building an object, components are automatically harvested from Junk Items in your inventory or the workshop's.&#xD;
+&#xD;
+</Source>
+      <Dest>Dílna ti umožní stavět, upravovat a odstraňovat blízké objekty a stavby.&#xD;
+&#xD;
+Mezi volbami se pohybuj pomocí [Left] a [Right]. Pro nalezení objektu nebo stavby, kterou chceš postavit, stiskni [Up]. Pokud je vybraný objekt zvýrazněn zeleně, stiskni [Accept:16] pro jeho stavbu. Je-li zvýrazněn červeně, zkus upravit jeho (a svojí) pozici dokud nebude objekt zvýrazněn zeleně.&#xD;
+&#xD;
+Objekty v dílně jsou stavěny z komponent. Při stavbě objektu jsou automaticky využity odpadní komponenty z tvého inventáře nebo dílenského kontejneru.</Dest>
+    </String>
+    <String List="1" sID="03234C">
+      <EDID>WorkshopTutorialMessage09_1_Start3</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>If your selected object appears green, press [Accept:16] to build it. If it appears red, try adjusting its location (and yours) until it changes to green.</Source>
+      <Dest>Pokud je vybraný objekt zvýrazněn zeleně, stiskni [Accept:16] pro jeho stavbu. Je-li zvýrazněn červeně, zkus upravit jeho (a svojí) pozici dokud nebude objekt zvýrazněn zeleně.</Dest>
+    </String>
+    <String List="1" sID="03260C">
+      <EDID>WorkshopTutorialMessage09_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Move between options with [Left] and [Right]. Press [Up] to find the object or structure you wish to build.</Source>
+      <Dest>Mezi volbami se pohybuj pomocí [Left] a [Right]. Pro nalezení objektu nebo stavby, kterou chceš postavit, stiskni [Up].</Dest>
+    </String>
+    <String List="1" sID="03282A">
+      <EDID>WorkshopTutorialMessage08_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Settlers need food, water, a bed, and shelter. Increase your settlement's happiness rating by providing each settler with all of these basics.</Source>
+      <Dest>Osadníci potřebují jídlo, pití, postele a ochranu. Zvyš spokojenost ve tvé osadě tím, že každému osadníkovi naplníš tyto jeho základní potřeby.</Dest>
+    </String>
+    <String List="1" sID="032A07">
+      <EDID>WorkshopTutorialMessage07_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>When your Defense value is too low, the chance for attacks on your settlement increases. You should try to keep your Defense value at least as high as the sum of your Food and Water production.</Source>
+      <Dest>Pokud je úroveň tvé OBRANY příliš nízká, zvyšuje se šance, že někdo na tvou osadu zaútočí. Úroveň tvé OBRANY by měla být alespoň na stejné hodnotě, jako je součet produkce JÍDLA a VODY.</Dest>
+    </String>
+    <String List="1" sID="032B79">
+      <EDID>WorkshopTutorialMessage10_1_Start</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Workshop objects are built from components. When building an object, components are automatically harvested from Junk Items in your inventory or the workshop's.</Source>
+      <Dest>Objekty v dílně jsou stavěny z komponent. Při stavbě objektu jsou automaticky využity odpadní komponenty z tvého inventáře nebo dílenského kontejneru.</Dest>
+    </String>
+    <String List="1" sID="03308F">
+      <EDID>WorkshopTutorialMessage08_1_Start2</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Once these basics are met, you can also increase overall happiness by raising the settlement's Defense rating. This will also reduce the chance that your settlement will be attacked.</Source>
+      <Dest>Jakmile naplníš základní potřeby, můžeš vylepšit celkovou spokojenost navýšením úrovně OBRANY osady. To zároveň sníží šanci, že někdo na osadu zaútočí.</Dest>
+    </String>
     <String List="1" sID="034C43">
       <EDID>WorkshopSynthInfiltrator01Message</EDID>
       <REC>MESG:DESC</REC>
@@ -2229,6 +2461,12 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=myLocation&gt; is under attack!</Source>
       <Dest>&lt;Alias=myLocation&gt; je pod útokem!</Dest>
+    </String>
+    <String List="1" sID="035091">
+      <EDID>X66HostilityMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Bringing X6-88 to the Railroad HQ has turned the Railroad hostile.</Source>
+      <Dest>Přivedení X6-88 do velitelství Železnice učinilo Železnici nepřátelskou.</Dest>
     </String>
     <String List="1" sID="0360D1">
       <EDID>WorkshopSuperMutantAttack02Message</EDID>
