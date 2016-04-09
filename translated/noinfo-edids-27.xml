@@ -178,7 +178,7 @@
       <EDID>PerkCannibalHeal</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Cannibal Heal</Source>
-      <Dest>Kanibal: léčení</Dest>
+      <Dest>Kanibal - léčení</Dest>
     </String>
     <String List="0" sID="016724">
       <EDID>PerkMagUSCovertOperationsManual02</EDID>
@@ -508,7 +508,7 @@
       <EDID>PhyllisDaily</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Phyllis Daily</Source>
-      <Dest>Phyllis Daily</Dest>
+      <Dest>Phyllis Dailyová</Dest>
     </String>
     <String List="0" sID="01B1D4">
       <EDID>Patrick</EDID>
@@ -928,7 +928,7 @@
       <EDID>Pillow_01_Straw</EDID>
       <REC>MISC:FULL</REC>
       <Source>Straw Pillow</Source>
-      <Dest>Sláměný polštář</Dest>
+      <Dest>Slaměný polštář</Dest>
     </String>
     <String List="0" sID="02009C">
       <EDID>PerkMagGrognakTheBarbarian05</EDID>
@@ -1174,7 +1174,7 @@
       <EDID>Panel_Elevator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Elevator Panel</Source>
-      <Dest>Výtahový panel.</Dest>
+      <Dest>Výtahový panel</Dest>
     </String>
     <String List="0" sID="023C63">
       <EDID>PipeRevolver</EDID>
@@ -1588,13 +1588,13 @@
       <EDID>PictureFrameDesktop02dirty</EDID>
       <REC>MISC:FULL</REC>
       <Source>Small Picture Frame</Source>
-      <Dest>Obrazový rámeček</Dest>
+      <Dest>Rámeček na fotografii</Dest>
     </String>
     <String List="0" sID="029C69">
       <EDID>PictureFrameDesktop01dirty</EDID>
       <REC>MISC:FULL</REC>
       <Source>Desktop Picture Frame</Source>
-      <Dest>Stolní obrazový rám</Dest>
+      <Dest>Rámeček na fotografii</Dest>
     </String>
     <String List="0" sID="029CDF">
       <EDID>PaintedWoodDoorLoadD01</EDID>
@@ -1624,7 +1624,7 @@
       <EDID>PictureFrameDesktop03dirty</EDID>
       <REC>MISC:FULL</REC>
       <Source>Tabletop Picture Frame</Source>
-      <Dest>Stolní obrazový rám</Dest>
+      <Dest>Rámeček na fotografii</Dest>
     </String>
     <String List="0" sID="02A9FD">
       <EDID>perkRoboticsExpertInterface</EDID>
@@ -1633,7 +1633,8 @@
 ...Loading assigned subroutines... &#xD;
 &#xD;
 </Source>
-      <Dest>...Nahrávání přiřazených podprogramů...</Dest>
+      <Dest>&#xD;
+...Nahrávání přiřazených podprogramů...</Dest>
     </String>
     <String List="0" sID="02AA08">
       <EDID>perkRoboticsExpertInterface</EDID>
@@ -2119,7 +2120,7 @@ Autodestrukční sekvenci nelze odvolat.&#xD;
       <EDID>ParsonsTerminalSubmenuSystems</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Main elevator operating normally.</Source>
-      <Dest>Hlavní výtah funguje normálně</Dest>
+      <Dest>Hlavní výtah funguje normálně.</Dest>
     </String>
     <String List="0" sID="031780">
       <EDID>ParsonsTerminalLorenzoControlRoom</EDID>
@@ -2171,10 +2172,10 @@ Autodestrukční sekvenci nelze odvolat.&#xD;
                 Systems Status&#xD;
 -=================================-&#xD;
 </Source>
-      <Dest>-=================================-&#xD;
+      <Dest>-========================================-&#xD;
   Zadržovací zařízení s maximální ostrahou&#xD;
                 Stav systémů&#xD;
--=================================-</Dest>
+-========================================-</Dest>
     </String>
     <String List="0" sID="0317B4">
       <EDID>ParsonsTerminaSubmenuSecurityDoors</EDID>
@@ -2335,7 +2336,7 @@ Abremalinův generátor 04: 22 %</Dest>
       <EDID>PerkDisarm</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Disarm</Source>
-      <Dest>Disarm</Dest>
+      <Dest>Odzbrojení</Dest>
     </String>
     <String List="0" sID="031944">
       <EDID>ParsonsTerminaSubmenuSecurityDoors</EDID>
@@ -2361,7 +2362,7 @@ Abremalinův generátor 04: 22 %</Dest>
       <Source>*******WARNING*********&#xD;
 Data corruption detected. Files may be truncated or missing. Please contact IT immediately.</Source>
       <Dest>*******VAROVÁNÍ*********&#xD;
-Odhaleno poškození dat. Soubory mohou být zkrácené nebo mohou chybět. Prosím, okamžitě kontaktujte IT.</Dest>
+Odhaleno poškození dat. Soubory mohou být zkrácené, nebo mohou chybět. Prosím, okamžitě kontaktujte IT.</Dest>
     </String>
     <String List="0" sID="03198C">
       <EDID>PerkNerdRageMsg</EDID>
@@ -2452,7 +2453,7 @@ MANUAL RESET REQUIRED&#xD;
 &#xD;
 &#xD;
 </Source>
-      <Dest>Hlavní výtah: BEZPEČNOSTNÍ VYPNUTÍ.&#xD;
+      <Dest>Hlavní výtah: BEZPEČNOSTNÍ VYPNUTÍ&#xD;
 &#xD;
 Aktuální podlaží: SUTERÉN&#xD;
 &#xD;
@@ -2563,7 +2564,7 @@ Jméno: Cabot, Lorenzo&#xD;
 Datum narození: 28. březen 1835&#xD;
 Datum přijetí: 11. červen 1898&#xD;
 Délka léčby: neomezená&#xD;
-Umístnění: zařízení s maximální ostrahou&#xD;
+Umístění: zařízení s maximální ostrahou&#xD;
 Stav: ZVLÁŠTNÍ - viz níže&#xD;
 Přidělen k: ZVLÁŠTNÍ - viz níže&#xD;
 &#xD;
@@ -2670,7 +2671,7 @@ Systémy normální.</Dest>
 Systems normal.&#xD;
 &#xD;
 </Source>
-      <Dest>Dveře 04 - Přístup do místnosti se zvýšenou ostrahou - ZAJIŠTĚNÉ&#xD;
+      <Dest>Dveře 05 - Přístup do cely se zvýšenou ostrahou - ZAJIŠTĚNÉ&#xD;
 &#xD;
 Systémy normální.</Dest>
     </String>
@@ -2742,7 +2743,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkAquaboy</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Aquaboy and Aquagirl perks allow you to breathe underwater, remove radiation damage while swimming, and may even make you undetectable while submerged.</Source>
-      <Dest>Perky Vodní chlapec a Vodní dívka ti umožní dýchat pod vodou, odstraní poškození radiací při plavání a dokonce tě mohou učinit neodhaliteným ve chvílích, kdy jsi ponořený pod hladinou.</Dest>
+      <Dest>Perky Vodní chlapec a Vodní dívka ti umožní dýchat pod vodou, odstraní poškození radiací při plavání, a dokonce tě mohou učinit neodhaliteným ve chvílích, kdy jsi ponořený pod hladinou.</Dest>
     </String>
     <String List="0" sID="031C49">
       <EDID>PerkAdamantiumSkeleton</EDID>
@@ -2823,7 +2824,7 @@ Systémy normální.</Dest>
       <EDID>PerkScrapper</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Scrapper perk gives you more components back when scrapping weapons and armor, from screws and copper to circuitry and nuclear material.</Source>
-      <Dest>S perkem Šroťák při recyklování zbraní a zbrojí získáš více komponentů, od šroubů a mědi po obvody či jaderný materiál.</Dest>
+      <Dest>S perkem Šroťák získáš při recyklování zbraní a zbrojí více komponentů, od šroubů a mědi po obvody či jaderný materiál.</Dest>
     </String>
     <String List="0" sID="031CC4">
       <EDID>PerkMysteriousStranger</EDID>
@@ -2847,7 +2848,7 @@ Systémy normální.</Dest>
       <EDID>PerkConcentratedFire</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Concentrated Fire perk, every additional attack on the same body part in V.A.T.S. improves your chances of landing a hit.</Source>
-      <Dest>S perkem Soustředěná palba každý následující útok na stejnou část těla v režimu V.A.T.S. zvyšuje šanci na zásah.</Dest>
+      <Dest>S perkem Soustředěná palba zvyšuje každý následující útok na stejnou část těla v režimu V.A.T.S. šanci na zásah.</Dest>
     </String>
     <String List="0" sID="031CF0">
       <EDID>ParsonsTerminaSubmenuPatientRecords</EDID>
@@ -2901,7 +2902,7 @@ Systémy normální.</Dest>
       <EDID>PerkHeavyGunner</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Heavy Gunner perk offers significant bonuses with heavy weapons. Depending on the rank, you may inflict more damage, gain improved hip fire accuracy, or even stagger an enemy.</Source>
-      <Dest>Perk Těžký střelec nabízí značné bonusy při užívání těžkých zbraní. V závislosti na úrovni perku můžeš způsobovat větší poškození, získat zlepšenou přesnost při střelbě bez míření či šanci vyvést nepřítele z rovnováhy.</Dest>
+      <Dest>Perk Těžký střelec nabízí značné bonusy při užívání těžkých zbraní. V závislosti na úrovni perku můžeš způsobovat větší poškození, získávat zlepšenou přesnost při střelbě bez míření či šanci vyvést nepřítele z rovnováhy.</Dest>
     </String>
     <String List="0" sID="031D91">
       <EDID>PerkPartyBoy</EDID>
@@ -2973,7 +2974,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkFourLeafClover</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Feeling lucky? You should! With the Four Leaf Clover perk, each hit in V.A.T.S. has a chance to fill your critical meter.</Source>
-      <Dest>Máš pocit, že jsi dítětem štěstěny? Zřejmě jsi! S perkem Štístko má každý zásah v režimu V.A.T.S šanci, že plně nabije tvou schopnost kritického zásahu.</Dest>
+      <Dest>Máš pocit, že jsi dítětem štěstěny? Zřejmě jsi! S perkem Štístko má každý zásah v režimu V.A.T.S. šanci, že plně nabije tvou schopnost kritického zásahu.</Dest>
     </String>
     <String List="0" sID="031DF5">
       <EDID>PerkActionBoy</EDID>
@@ -2985,7 +2986,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkAnimalFriend</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Animal Friend perk, you can aim at animals with your gun and attempt to pacify them. Higher ranks grant the ability to incite them to attack, or allow you to issue specific commands.</Source>
-      <Dest>S perkem Přítel zvířat můžeš zamířit svou zbraní na zvířata, a tím se je pokusit uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
+      <Dest>S perkem Přítel zvířat můžeš zamířit svou zbraní na zvířata, a tím se pokusit je uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
     </String>
     <String List="0" sID="031DFA">
       <EDID>PerkAwareness</EDID>
@@ -3027,7 +3028,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkGrimReapersSprint</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Grim Reaper's Sprint perk, kills in V.A.T.S. have a chance to restore all depleted Action Points, and may even fill the Critical Hit meter.</Source>
-      <Dest>S perkem Řádění smrtky mají zabití v režimu V.A.T.S. šanci obnovit veškeré spotřebované akční body a dokonce mohou zcela nabít tvou schopnost kritického zásahu.</Dest>
+      <Dest>S perkem Řádění smrtky mají zabití v režimu V.A.T.S. šanci obnovit veškeré spotřebované akční body, a dokonce mohou zcela nabít tvou schopnost kritického zásahu.</Dest>
     </String>
     <String List="0" sID="031E04">
       <EDID>PerkFortuneFinder</EDID>
@@ -3045,19 +3046,19 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkGunslinger</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Gunslinger perk, pistols have increased damage and range, and may even disarm opponents.</Source>
-      <Dest>S perkem Pistolník budou pistole způsobovat vyšší poškození, budou mít větší dostřel a dokonce mohou soupeře odzbrojit.</Dest>
+      <Dest>S perkem Pistolník budou pistole způsobovat vyšší poškození, budou mít větší dostřel, a dokonce mohou soupeře odzbrojit.</Dest>
     </String>
     <String List="0" sID="031E0A">
       <EDID>PerkHacker</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Hacker perk allows you to hack increasingly difficult computer terminals, and may even prevent a lockout.</Source>
-      <Dest>Perk Hacker ti umožňuje nabourávat se do terminálů se stále obtížnější ochranou a může dokonce zabránit jejich zablokování.</Dest>
+      <Dest>Perk Hacker ti umožňuje nabourávat se do terminálů se stále složitější ochranou a může dokonce zabránit jejich zablokování.</Dest>
     </String>
     <String List="0" sID="031E0B">
       <EDID>PerkIdiotSavant</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Idiot Savant perk, you'll randomly receive XP from completing any action. The lower your Intelligence, the higher the chance.</Source>
-      <Dest>S perkem Učený idiot náhodně získáš body zkušenosti při dokončení jakékoli činnosti (za níž se i bez perku udílí body zkušenosti). Čím nižší je tvá inteligence, tím vyšší je šance.</Dest>
+      <Dest>S perkem Učený idiot náhodně získáváš body zkušenosti při dokončení jakékoli činnosti (za níž se i bez perku udílí body zkušenosti). Čím nižší je tvá inteligence, tím vyšší je šance.</Dest>
     </String>
     <String List="0" sID="031E0D">
       <EDID>PerkInspiration</EDID>
@@ -3069,13 +3070,13 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkIntimidation</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Intimidation perk, you can aim at people with your gun and attempt to pacify them. Higher ranks grant the ability to incite them to attack, or allow you to issue specific commands.</Source>
-      <Dest>S perkem Zastrašování můžeš zamířit svou zbraní na lidi, a tím se je pokusit uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
+      <Dest>S perkem Zastrašování můžeš zamířit svou zbraní na lidi, a tím se pokusit je uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
     </String>
     <String List="0" sID="031E10">
       <EDID>PerkLocalLeader</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Local Leader perk allows you to do more at workshop settlements, like assign supply lines, and build stores and workbenches.</Source>
-      <Dest>Perk Místní vůdce ti zpřístupní více možností v osadách s dílnou, například můžeš zřizovat zásobovací trasy či stavět obchody a dílenské stanice.</Dest>
+      <Dest>Perk Místní vůdce ti zpřístupňuje více možností v osadách s dílnou, například můžeš zřizovat zásobovací trasy či stavět obchody a dílenské stanice.</Dest>
     </String>
     <String List="0" sID="031E11">
       <EDID>PerkMovingTarget</EDID>
@@ -3087,13 +3088,13 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkNuclearPhysicist</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Nuclear Physicist perk, radiation weapons inflict more damage and Fusion Cores last longer. You may even gain the ability to eject a Fusion Core from your Power Armor, causing a deadly explosion.</Source>
-      <Dest>S perkem Jaderná fyzik způsobují radiační zbraně větší poškození a fúzní jádra vydrží déle. Dokonce můžeš získat schopnost vyhodit fúzní jádro ze své energozbroje a způsobit tak smrtící explozi.</Dest>
+      <Dest>S perkem Jaderný fyzik způsobují radiační zbraně větší poškození a fúzní jádra vydrží déle. Dokonce můžeš získat schopnost odhodit fúzní jádro ze své energozbroje a způsobit tak smrtící explozi.</Dest>
     </String>
     <String List="0" sID="031E1B">
       <EDID>PerkRifleman</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Rifleman perk, rifles have improved damage and armor penetration, and may even cripple opponents.</Source>
-      <Dest>S perkem Střelec budou pušky způsobovat vyšší poškození, budou mít větší průraznost a dokonce mohou soupeřům ochromit končetiny.</Dest>
+      <Dest>S perkem Střelec budou pušky způsobovat vyšší poškození, budou mít větší průraznost, a dokonce mohou soupeřům ochromit končetiny.</Dest>
     </String>
     <String List="0" sID="031E1D">
       <EDID>PerkRoboticsExpert</EDID>
@@ -3117,7 +3118,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkSteadyAim</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Steady Aim perk improves your hip-fire accuracy with any gun.</Source>
-      <Dest>Perk Pevná ruku zvyšuje tvoji přesnost s jakoukoli zbraní při střelbě bez míření.</Dest>
+      <Dest>Perk Pevná ruku zvyšuje tvou přesnost s jakoukoli zbraní při střelbě bez míření.</Dest>
     </String>
     <String List="0" sID="031E32">
       <EDID>PerkStrongBack</EDID>
@@ -3141,13 +3142,13 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkNightPerson</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Night Person perk increases both your Perception and Intelligence during nighttime hours, and may even grant night vision while sneaking.</Source>
-      <Dest>Perk Noční pták během nočních hodin zvyšuje jak tvé vnímání, tak inteligenci. Při plížení ti dokonce může poskytnou noční vidění.</Dest>
+      <Dest>Perk Noční pták zvyšuje během nočních hodin jak tvé vnímání, tak inteligenci. Při plížení ti dokonce může poskytnou noční vidění.</Dest>
     </String>
     <String List="0" sID="031EAC">
       <EDID>PerkPainTrain</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Pain Train perk allows you to sprint into enemies and inflict damage. Wearing Power Armor increases its effectiveness, and may even grant access to Power Slam - an area-of-effect jump attack.</Source>
-      <Dest>Perk Vláček bolesti ti umožňuje nabíhat sprintem do nepřátel a působit tak poškození. Nošení energozbroje zvyšuje její efektivitu a dokonce ti může poskytnout přístup k vylepšené verzi Drtivého dopadu (plošný útok při dopadu).</Dest>
+      <Dest>Perk Vláček bolesti ti umožňuje nabíhat sprintem do nepřátel a působit tak poškození. Nošení energozbroje zvyšuje její efektivitu, a dokonce ti může poskytnout přístup k vylepšené verzi Drtivého dopadu (plošný útok při dopadu).</Dest>
     </String>
     <String List="0" sID="031EB7">
       <EDID>ParsonsTerminaSubmenuPatientRecords</EDID>
@@ -3176,7 +3177,7 @@ Stav: ZVLÁŠTNÍ&#xD;
 Přidělen k: ředitel Cabot&#xD;
 &#xD;
 POZNÁMKY:&#xD;
-~ Pacient byl přijat dle speciální dohody s rodinou. Právní zástupce odhlášen za přítomnosti ředitele Cabota. &#xD;
+~ Pacient byl přijat dle speciální dohody s rodinou. Právní zástupce odhlášen za přítomnosti ředitele Cabota&#xD;
 ~ Pacientovi nejsou povoleny návštěvy či jakákoli komunikace zvenčí.&#xD;
 ~ Dokud bude pacient spolupracovat, měla by mu být v rozumné míře zachována dosavadní péče&#xD;
 ~ Žádná léčba není třeba</Dest>
@@ -3203,7 +3204,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkWastelandWhisperer</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Wasteland Whisperer perk, you can aim at various Wasteland creatures with your gun and attempt to pacify them. Higher ranks grant the ability to incite them to attack, or allow you to issue specific commands.</Source>
-      <Dest>S perkem Zaříkávač Pustiny můžeš zamířit svou zbraní na nejrůznější stvoření z Pustiny, a tím se je pokusit uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
+      <Dest>S perkem Zaříkávač Pustiny můžeš zamířit svou zbraní na nejrůznější stvoření z Pustiny, a tím se pokusit je uklidnit. Vyšší úrovně perku poskytují schopnost podnítit je k útoku nebo ti umožní vydávat jim konkrétní příkazy.</Dest>
     </String>
     <String List="0" sID="031F07">
       <EDID>ParsonsTerminaSubmenuSecurityDoors</EDID>
@@ -3282,16 +3283,16 @@ NOTES:&#xD;
       <Dest>Jméno: Smith, Robert „Bobby“&#xD;
 Datum narození: 23. listopad 2064&#xD;
 Datum přijetí: 10. srpen 2074&#xD;
-Doba léčby: 8 let&#xD;
+Délka léčby: 8 let&#xD;
 Umístění: uzavřené oddělení, pokoj 01&#xD;
 Stav: ZVLÁŠTNÍ&#xD;
 Přidělen k: ředitel Cabot&#xD;
 &#xD;
 POZNÁMKY:&#xD;
-~ Pacient byl vrácen do opatrovnictví ředitele Cabota Massachusettským úřadem pro mladistvé.&#xD;
+~ Pacient byl vrácen do opatrovnictví ředitele Cabota Massachusettským Oddělením sociálně-právní ochrany dětí.&#xD;
 ~ Pacientova rodina je místní, návštěvy odmítá.&#xD;
 ~ S potěšením se přiznává ke svému zločinu (několikanásobná vražda/pobodání).&#xD;
-~ Léčba: Muzikoterapie - Bachova Tokáta a fuga v D minor je jediné známé dílo, jež dokáže zastavit jeho smích (který je téměř nepřetržitý)</Dest>
+~ Léčba: Muzikoterapie - Bachova Tokáta a fuga v d moll je jediné známé dílo, jež dokáže zastavit jeho smích (který je téměř nepřetržitý).</Dest>
     </String>
     <String List="0" sID="032853">
       <EDID>ParsonsTerminaSubmenuPatientRecords</EDID>
@@ -3318,7 +3319,7 @@ NOTES:&#xD;
       <Dest>Jméno: Stawski, Aniela&#xD;
 Datum narození: 15. duben 2052&#xD;
 Datum přijetí: 15. duben 2072&#xD;
-Délka léčby: BUDE STANOVENO&#xD;
+Délka léčby: BUDE STANOVENA&#xD;
 Umístění: uzavřené oddělení, pokoj 07&#xD;
 Stav: ZVLÁŠTNÍ&#xD;
 Přidělena k: ředitel Cabot&#xD;
@@ -3326,7 +3327,7 @@ Přidělena k: ředitel Cabot&#xD;
 POZNÁMKY:&#xD;
 ~ Pacientka se do Parsonské nechala přijmout sama.&#xD;
 ~ Pacientka neměla žádné návštěvy, nejsou známi žádní příbuzní.&#xD;
-~ Pacientka se nikdy nepřiznala k žádnému zločinu, ani se u ní neprojevily žádné násilné tendence, avšak jisté detaily odhalené během konzultací se shodují s těmi, které souvisí s otrávením čtyř dívek z dívčího spolku v Univerzitě Massachusettský záliv.&#xD;
+~ Pacientka se nikdy nepřiznala k žádnému zločinu, ani se u ní neprojevily žádné násilné tendence, avšak jisté detaily odhalené během konzultací se shodují s těmi, které souvisí s otrávením čtyř dívek z dívčího spolku v Univerzitě mass. zátoky.&#xD;
 ~ Léčba: Arteterapie (výsledky - znepokojivé).</Dest>
     </String>
     <String List="0" sID="032877">
@@ -3362,7 +3363,7 @@ NOTES:&#xD;
       <Dest>Jméno: „Nightwar“ (skutečné jméno není známo)&#xD;
 Datum narození: neznámé&#xD;
 Datum přijetí: 4. červen 2074&#xD;
-Length of treatment: BUDE STANOVENO&#xD;
+Délka léčby: BUDE STANOVENA&#xD;
 Umístění: uzavřené oddělení, pokoj 04&#xD;
 Stav: ZVLÁŠTNÍ&#xD;
 Přidělen k: ředitel Cabot&#xD;
@@ -3549,13 +3550,13 @@ NOTES:&#xD;
       <Dest>Jméno: Fanno, Cherise&#xD;
 Datum narození: 5. únor 2032&#xD;
 Datum přijetí: 8. březen 2076&#xD;
-Doba léčby: 2 roky&#xD;
+Délka léčby: 2 roky&#xD;
 Umístění: uzavřené oddělení, pokoj 06&#xD;
 Stav: ZVLÁŠTNÍ&#xD;
 Přidělena k: ředitel Cabot&#xD;
 &#xD;
 POZNÁMKY:&#xD;
-~ Dokud bude pacientka vykazovat dobré chování, je jí povoleno nosit vlastní oblečení (černé, kožené).&#xD;
+~ Dokud bude pacientka vykazovat dobré chování, je jí povoleno nosit vlastní oblečení (černé, kožené)&#xD;
 ~ Pacientka vykazuje symptomy parafilie „nepochopené“&#xD;
 ~ Manželské návštěvy schválených můžských partnerů; diskuze ohledně zmíněných návštěv pro pokračující terapii klíčová&#xD;
 ~ Léčba: Kontemplativní psychoterapie, šoková terapie</Dest>
@@ -4398,7 +4399,7 @@ POZNÁMKY:&#xD;
       <EDID>Penetrator01</EDID>
       <REC>PERK:DESC</REC>
       <Source>There's no place to hide! In V.A.T.S. you can target an enemy's body parts that are blocked by cover, with a decrease in accuracy.</Source>
-      <Dest>Není kam se schovat! V režimu V.A.T.S můžeš se sníženou přesností zaměřit i ty části těl nepřátel, které jsou blokované krytím.</Dest>
+      <Dest>Není kam se schovat! V režimu V.A.T.S. můžeš se sníženou přesností zaměřit i ty části těl nepřátel, které jsou blokované krytím.</Dest>
     </String>
     <String List="1" sID="01DAD9">
       <EDID>PerkMagUSCovertOperations</EDID>
@@ -4422,7 +4423,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagTumblersToday</EDID>
       <REC>PERK:DESC</REC>
       <Source>Gain a bonus to lockpicking.</Source>
-      <Dest>Získáváš k otevírání zámků.</Dest>
+      <Dest>Získáváš bonus k otevírání zámků.</Dest>
     </String>
     <String List="1" sID="01DAF5">
       <EDID>PerkMagTeslaAndYou</EDID>
@@ -4476,7 +4477,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagLiveNLove01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Companions gain +10 health.</Source>
-      <Dest>Společníci získává +10 bodů zdraví.</Dest>
+      <Dest>Společníci získávají +10 bodů zdraví.</Dest>
     </String>
     <String List="1" sID="01DC69">
       <EDID>PerkMagLiveNLove03</EDID>
@@ -4608,7 +4609,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkBobbleheadSpeech</EDID>
       <REC>PERK:DESC</REC>
       <Source>All vendors have 100 more caps.</Source>
-      <Dest>Všichni obchodníci mají 100 zátek navíc.</Dest>
+      <Dest>Všichni obchodníci mají o 100 zátek navíc.</Dest>
     </String>
     <String List="1" sID="02B425">
       <EDID>PerkBobbleheadMedicine</EDID>
@@ -4638,7 +4639,7 @@ POZNÁMKY:&#xD;
       <EDID>PainTrain02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Sprinting into enemies while wearing Power Armor now causes severe damage and a more powerful stagger. (Robots and oversized enemies are immune to the stagger.)</Source>
-      <Dest>Sprint v energozbroji do nepřátel nyní způsobuje vážná zranění a silnější vrávorání. (Roboti a nadměrně velcí nepřátelí jsou vůči efektu vrávorání imunní).</Dest>
+      <Dest>Sprint v energozbroji do nepřátel jim nyní způsobuje vážná zranění a silnější vrávorání. (Roboti a nadměrně velcí nepřátelé jsou vůči efektu vrávorání imunní).</Dest>
     </String>
     <String List="1" sID="02B8C7">
       <EDID>PainTrain03</EDID>
@@ -4746,7 +4747,7 @@ POZNÁMKY:&#xD;
       <EDID>PA_X01_Torso_Misc_Emergency</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Below 20% health, speed increases 25% and incoming damage is reduced 50%.</Source>
-      <Dest>Klesne-li zdraví pod 20 %, zvýší se rychlost o 25 % a přijímané poškození je sníženo o 50 %.</Dest>
+      <Dest>Klesne-li zdraví pod 20 %, rychlost zvýší se o 25 % a přijímané poškození je sníženo o 50 %.</Dest>
     </String>
     <String List="1" sID="031936">
       <EDID>Pickpocket04</EDID>
@@ -4776,7 +4777,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkNerdRageMsg</EDID>
       <REC>MESG:DESC</REC>
       <Source>Nerd Rage!</Source>
-      <Dest>Zurivost!</Dest>
+      <Dest>Zuřivost!</Dest>
     </String>
     <String List="1" sID="031DE4">
       <EDID>PerkMagAwesomeTales11</EDID>
