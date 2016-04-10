@@ -6,19 +6,19 @@
     <Dest>cs</Dest>
   </Params>
   <Content>
-    <String List="0" sID="0001D9" Partial="1">
+    <String List="0" sID="0001D9">
       <EDID>GreenTintDark</EDID>
       <REC>CLFM:FULL</REC>
       <Source>GreenTintDark</Source>
       <Dest>GreenTintDark</Dest>
     </String>
-    <String List="0" sID="0001E5" Partial="1">
+    <String List="0" sID="0001E5">
       <EDID>GreenTintLight</EDID>
       <REC>CLFM:FULL</REC>
       <Source>GreenTintLight</Source>
       <Dest>GreenTintLight</Dest>
     </String>
-    <String List="0" sID="00876E" Partial="1">
+    <String List="0" sID="00876E">
       <EDID>GreenTintAverage</EDID>
       <REC>CLFM:FULL</REC>
       <Source>GreenTintAverage</Source>
@@ -34,7 +34,7 @@
       <EDID>FortifyActionPointsChem</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="012972">
       <EDID>GunnerWinlock</EDID>
@@ -58,7 +58,7 @@
       <EDID>GJMessageCookeTopicList</EDID>
       <REC id="0">MESG:ITXT</REC>
       <Source>My son is missing.</Source>
-      <Dest>Ztratil se mi syn.</Dest>
+      <Dest>Můj syn je nezvěstný.</Dest>
     </String>
     <String List="0" sID="012B43">
       <EDID>GJTerminal02</EDID>
@@ -70,7 +70,7 @@
       <EDID>FortifyIntelligence</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Intelligence</Source>
-      <Dest>Fortify Intelligence</Dest>
+      <Dest>Posílení inteligence</Dest>
     </String>
     <String List="0" sID="012D79">
       <EDID>GrimReaperSprint01</EDID>
@@ -88,7 +88,7 @@
       <EDID>FortifyStrengthAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Strength</Source>
-      <Dest>Alcohol: Fortify Strength</Dest>
+      <Dest>Alkohol: posílení síly</Dest>
     </String>
     <String List="0" sID="013212">
       <EDID>FlareGun</EDID>
@@ -112,7 +112,7 @@
       <EDID>GlowingOneReanimate</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reanimate</Source>
-      <Dest>Reanimate</Dest>
+      <Dest>Oživení</Dest>
     </String>
     <String List="0" sID="013515">
       <EDID>Gutsy02LeftArmCombatRifle</EDID>
@@ -124,7 +124,7 @@
       <EDID>FortStrong01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Fort Strong Armory</Source>
-      <Dest>Sklad zbraní v pevnosti Strong</Dest>
+      <Dest>Zbrojnice pevnosti Strong</Dest>
     </String>
     <String List="0" sID="01361C">
       <EDID>GriswoldJournalTerminal</EDID>
@@ -154,7 +154,7 @@
       <EDID>FortifyActionPointsChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Fortify Action Points</Source>
-      <Dest>Chem: Fortify Action Points</Dest>
+      <Dest>Chemie: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="013BBF">
       <EDID>GriswoldsTerminal</EDID>
@@ -220,7 +220,7 @@ KONEC</Dest>
       <EDID>GoodneighborAmariLabKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Doctor Amari's Lab Key</Source>
-      <Dest>Klíč od laboratoře doktorky Amari</Dest>
+      <Dest>Klíč od laboratoře doktorky Amariové</Dest>
     </String>
     <String List="0" sID="0144A5">
       <EDID>GoodneighborMapMarker</EDID>
@@ -274,7 +274,7 @@ KONEC</Dest>
       <EDID>GJMessage01</EDID>
       <REC id="0">MESG:ITXT</REC>
       <Source>My son is missing.</Source>
-      <Dest>Ztratil se můj syn.</Dest>
+      <Dest>Můj syn je nezvěstný.</Dest>
     </String>
     <String List="0" sID="014F0B">
       <EDID>FloraFern02</EDID>
@@ -298,7 +298,7 @@ KONEC</Dest>
       <EDID>GroundMolerat</EDID>
       <REC>ALCH:FULL</REC>
       <Source>Ground Mole Rat</Source>
-      <Dest>Krtkopotkan</Dest>
+      <Dest>Mletý krtkopotkan</Dest>
     </String>
     <String List="0" sID="0159B0">
       <EDID>GJTerminal02</EDID>
@@ -340,13 +340,13 @@ KONEC</Dest>
       <EDID>FortifyHealthChem</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="01659C">
       <EDID>GJTerminal01</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Rumors</Source>
-      <Dest>Zvěsti</Dest>
+      <Dest>Povídačky</Dest>
     </String>
     <String List="0" sID="0165BD">
       <EDID>GriswoldJournalTerminal</EDID>
@@ -355,10 +355,10 @@ KONEC</Dest>
 &#xD;
                DO NOT READ!!!&#xD;
               (this means you)</Source>
-      <Dest>            MAJETEK GRISWOLDA&#xD;
+      <Dest>MAJETEK GRISWOLDA&#xD;
 &#xD;
                ZÁKAZ ČTENÍ!!!&#xD;
-              (tím myslím tebe)</Dest>
+             (tím myslím tebe)</Dest>
     </String>
     <String List="0" sID="01675D">
       <EDID>GoodneighborHotelWorkerF01</EDID>
@@ -418,7 +418,7 @@ KONEC</Dest>
       <EDID>GoodneighborHancocksTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Traders report increased gunner activity around quarry. Keep an eye on this.</Source>
-      <Dest>Obchodníci hlásí zvýšenou aktivitu Ranařů kolem kamenolomu. Dávejte si pozor.</Dest>
+      <Dest>Obchodníci hlásí zvýšenou aktivitu Ranařů kolem kamenolomu. Tohle bych si měl hlídat.</Dest>
     </String>
     <String List="0" sID="017081">
       <EDID>GraygardenWorker01</EDID>
@@ -442,13 +442,13 @@ KONEC</Dest>
       <EDID>FortifyCharismaAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Charisma</Source>
-      <Dest>Alcohol: Fortify Charisma</Dest>
+      <Dest>Alkohol: posílení charismatu</Dest>
     </String>
     <String List="0" sID="01730F">
       <EDID>GenericBrawlPreventLimbDamageEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Prevent Limb Damage</Source>
-      <Dest>Prevent Limb Damage</Dest>
+      <Dest>Zabraňuje zranění končetin</Dest>
     </String>
     <String List="0" sID="01735A">
       <EDID>FloraGourdVine01</EDID>
@@ -460,7 +460,7 @@ KONEC</Dest>
       <EDID>GateLocked</EDID>
       <REC>MESG:FULL</REC>
       <Source>Secure</Source>
-      <Dest>Zabezpečit</Dest>
+      <Dest>Zabezpečeno</Dest>
     </String>
     <String List="0" sID="017419">
       <EDID>GreenHsPlanter01Corn</EDID>
@@ -478,13 +478,13 @@ KONEC</Dest>
       <EDID>GlassTtube</EDID>
       <REC>MISC:FULL</REC>
       <Source>Test Tube</Source>
-      <Dest>Baňka</Dest>
+      <Dest>Zkumavka</Dest>
     </String>
     <String List="0" sID="017766">
       <EDID>FortifyDamageResist</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>dr</Source>
-      <Dest>dr</Dest>
+      <Dest>ovz</Dest>
     </String>
     <String List="0" sID="017916">
       <EDID>FollowersCompanionMenuTactics</EDID>
@@ -502,7 +502,7 @@ KONEC</Dest>
       <EDID>FortifyCharisma</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Strength</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="017A91">
       <EDID>GorillaBodyPartData</EDID>
@@ -514,7 +514,7 @@ KONEC</Dest>
       <EDID>GJTerminal01</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Barter</Source>
-      <Dest>Směnit</Dest>
+      <Dest>Obchodovat</Dest>
     </String>
     <String List="0" sID="017C39">
       <EDID>GreenHsPlanterTato01</EDID>
@@ -556,7 +556,7 @@ KONEC</Dest>
       <EDID>FortifyCharisma</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Charisma</Source>
-      <Dest>Fortify Charisma</Dest>
+      <Dest>Posílení charismatu</Dest>
     </String>
     <String List="0" sID="017FED">
       <EDID>GoodneighborWarehouse03</EDID>
@@ -574,7 +574,7 @@ KONEC</Dest>
       <EDID>FuseBox_Box</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Fuse Box</Source>
-      <Dest>Pojistky</Dest>
+      <Dest>Pojistková skříň</Dest>
     </String>
     <String List="0" sID="0182F8">
       <EDID>FredAllen</EDID>
@@ -586,7 +586,7 @@ KONEC</Dest>
       <EDID>FortifyHealth</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="01859C">
       <EDID>FloraFern01</EDID>
@@ -604,7 +604,7 @@ KONEC</Dest>
       <EDID>FortifyEndurance</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Endurance</Source>
-      <Dest>Fortify Endurance</Dest>
+      <Dest>Posílení odolnosti</Dest>
     </String>
     <String List="0" sID="018FDB">
       <EDID>GreenHsPlanterTato01</EDID>
@@ -652,7 +652,7 @@ KONEC</Dest>
       <EDID>GreenetechGenetics01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Greenetech Genetics</Source>
-      <Dest>Greenetech Genetics</Dest>
+      <Dest>Genetický ústav Greentech</Dest>
     </String>
     <String List="0" sID="01973A">
       <EDID>GoodneighborHancocksTerminal</EDID>
@@ -664,13 +664,13 @@ Hotel Rexford (100) - Marowski ain't what he used to be.&#xD;
 Kill or Be Killed (550) - Kleo's good at the "sexy and scary" routine. I can relate.&#xD;
 &#xD;
 Daisy's Discounts (480) - Good old Daisy. Can buy/sell anything.</Source>
-      <Dest>Třetí kolej (1,000) - Musím to přenechat Charliemu a Magnolii. Oni vždy dokáží zajistit dostatek zátek.&#xD;
+      <Dest>Třetí kolej (1 000) - Tohle musím Charliemu a Magnólii nechat, zátky od nich jen proudí.&#xD;
 &#xD;
 Hotel Rexford (100) - Marowski už není to, co býval.&#xD;
 &#xD;
-Zabij nebo buď zabit (550) - Kleo je dobrá ve své taktice "sexy a děsivá". To mohu potvrdit.&#xD;
+Zabij nebo buď zabit (550) - Kleo je dobrá v tom svém "sexy a děsivá" stylu. To mi je blízké.&#xD;
 &#xD;
-Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto cokoli.</Dest>
+Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže koupit a prodat naprosto cokoliv.</Dest>
     </String>
     <String List="0" sID="019969">
       <EDID>GunnerBarnes</EDID>
@@ -698,11 +698,11 @@ Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže prodat a sehnat naprosto co
 I wish Sue didn't have to be such a pain about this taking a while.  Just because she can load up a few holotapes doesn't mean she knows the first thing about how complicated this old crap is.&#xD;
 &#xD;
 Whatever. It works now.</Source>
-      <Dest>Konečně jsou všechny terminály zapojeny. Nejvíce daly zabrat ty věže. Nesmím zapomenout dát něco pěkného Jackovi, chudák jeho mazlíček...&#xD;
+      <Dest>Konečně jsou všechny terminály zapojeny. Zvlášť dlouho mi zabralo donutit věže, aby na nás byly hodné. Nesmím zapomenout pořídit Jackovi něco pěkného po tom co se stalo jeho ochočenému krtkopotkanovi...&#xD;
 &#xD;
-Kéž by Sue nedělala takové divadlo, jenom kvůli tomu, že to déle trvalo. Jenom proto, že dokáže spustit pár holopásek, neznamená, že chápe kompikovanost takového přístroje.&#xD;
+Kéž by Sue nedělala takové divadlo kolem toho, jak mi to dlouho trvalo.  Jenom proto, že dokáže spustit pár holopásek neznamená, že má nějaké ponětí o tom, jak je tenhle starý šrot komplikovaný.&#xD;
 &#xD;
-Alespoň, že to nyní funguje.</Dest>
+Je to jedno. Už to funguje.</Dest>
     </String>
     <String List="0" sID="019EDF">
       <EDID>FloraWildMutfruit</EDID>
@@ -714,7 +714,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>Fusebox01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Fusebox</Source>
-      <Dest>Pojistky</Dest>
+      <Dest>Pojistková skříň</Dest>
     </String>
     <String List="0" sID="019FAF">
       <EDID>GriswoldJournalTerminal</EDID>
@@ -762,7 +762,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborHancocksTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Stay Free, Hancock. Stay Free.</Source>
-      <Dest>Uvolni se Hancocku. Uvolni se.</Dest>
+      <Dest>Buď volný, Hancocku. Buď volný.</Dest>
     </String>
     <String List="0" sID="01A86A">
       <EDID>GoodneighborTheThirdRail</EDID>
@@ -780,7 +780,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborDaisyKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Daisy's House Key</Source>
-      <Dest>Klíč od Daisyna domu</Dest>
+      <Dest>Klíč od Daisyina domu</Dest>
     </String>
     <String List="0" sID="01A9A0">
       <EDID>GreenHsPlanterMelon01</EDID>
@@ -800,7 +800,7 @@ Alespoň, že to nyní funguje.</Dest>
       <Source>Gunslinger</Source>
       <Dest>Pistolník</Dest>
     </String>
-    <String List="0" sID="01AE67" Partial="1">
+    <String List="0" sID="01AE67">
       <EDID>GirlHair01_Hairline</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GirlHair01_Hairline</Source>
@@ -810,13 +810,13 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortifyActionPoints</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="01B074">
       <EDID>FortifyResistRadsChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Radiation Resistance</Source>
-      <Dest>Chem: Radiation Resistance</Dest>
+      <Dest>Chem: odolnost vůči radiaci.</Dest>
     </String>
     <String List="0" sID="01B125">
       <EDID>FragMineProjectile</EDID>
@@ -842,7 +842,7 @@ Alespoň, že to nyní funguje.</Dest>
       <Source>Folder</Source>
       <Dest>Složka</Dest>
     </String>
-    <String List="0" sID="01B9AF" Partial="1">
+    <String List="0" sID="01B9AF">
       <EDID>GorillaBodyPartData</EDID>
       <REC id="9">BPTD:BPTN</REC>
       <Source>GorillaRoot</Source>
@@ -876,7 +876,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FuseBox_Lid</EDID>
       <REC>DOOR:FULL</REC>
       <Source>Fuse Box Lid</Source>
-      <Dest>Dvířka k pojistkám</Dest>
+      <Dest>Dvířka pojistkové skříně</Dest>
     </String>
     <String List="0" sID="01BC36">
       <EDID>GJTerminal02</EDID>
@@ -932,7 +932,7 @@ Alespoň, že to nyní funguje.</Dest>
       <Source>Diamond City: Rumors that Valentine has gone missing. Skinny Malone possibly involved. Assasinated? Doubtful, Valentine is more resourceful than that.&#xD;
 &#xD;
 </Source>
-      <Dest>Diamond City: Povídá se, že se Valentine ztratil. Nejspíše za to může Hubeňour Malone. Mrtvý? Pochybuji... Valentine je na to moc dobrý.</Dest>
+      <Dest>Diamond City: Povídá se, že je Valentine nezvěstný. Hubeňour Malone je do toho nejspíš zapletený. Zavražděn? Pochybuji... Valentine je na to moc dobrý.</Dest>
     </String>
     <String List="0" sID="01C2C4">
       <EDID>FootLocker01</EDID>
@@ -944,7 +944,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GorskiCabinLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Gorski Cabin</Source>
-      <Dest>Gorskiho chata</Dest>
+      <Dest>Gorského chata</Dest>
     </String>
     <String List="0" sID="01C47D">
       <EDID>GeneralAtomicsGalleriaLocation</EDID>
@@ -992,7 +992,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortifyHealth</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Health</Source>
-      <Dest>Fortify Health</Dest>
+      <Dest>Posílení zdraví</Dest>
     </String>
     <String List="0" sID="01CFDA">
       <EDID>FollowersCompanionMenuMain</EDID>
@@ -1016,7 +1016,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FollowersCompanionMenuMain</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>Command Mode</Source>
-      <Dest>Velící režim</Dest>
+      <Dest>Příkazový režim</Dest>
     </String>
     <String List="0" sID="01D1F0">
       <EDID>FollowersCompanionMenuMain</EDID>
@@ -1064,13 +1064,13 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GJMessage01</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Rumors.</Source>
-      <Dest>Zvěsti.</Dest>
+      <Dest>Povídačky.</Dest>
     </String>
     <String List="0" sID="01D389">
       <EDID>GJMessage02</EDID>
       <REC id="0">MESG:ITXT</REC>
       <Source>Somebody kidnapped him while I was frozen.</Source>
-      <Dest>Někdo ho unesl během kryo spánku.</Dest>
+      <Dest>Někdo ho unesl během mého kryo spánku.</Dest>
     </String>
     <String List="0" sID="01D38E">
       <EDID>GJMessageCookeTopicList</EDID>
@@ -1094,7 +1094,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FollowersCompanionMenuFollow</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Medium</Source>
-      <Dest>Normálně</Dest>
+      <Dest>Středně</Dest>
     </String>
     <String List="0" sID="01D395">
       <EDID>FollowersCompanionMenuFollow</EDID>
@@ -1112,7 +1112,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortHagenSatelliteArrayLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Fort Hagen Satellite Array</Source>
-      <Dest>Satelity v pevnosti Hagen</Dest>
+      <Dest>Satelitní síť pevnosti Hagen</Dest>
     </String>
     <String List="0" sID="01D5A1">
       <EDID>GoodneighborBobbisPlaceLocation</EDID>
@@ -1142,7 +1142,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborOldStateHouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Old State House</Source>
-      <Dest>Stará státní budova</Dest>
+      <Dest>Staré sídlo vlády</Dest>
     </String>
     <String List="0" sID="01D5F6">
       <EDID>GoodneighborLocation</EDID>
@@ -1184,7 +1184,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GreenetechGeneticsLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Greenetech Genetics</Source>
-      <Dest>Greenetech Genetics</Dest>
+      <Dest>Genetický ústav Greentech</Dest>
     </String>
     <String List="0" sID="01D707">
       <EDID>FortHagenLocation</EDID>
@@ -1202,27 +1202,27 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GreenetechGeneticsLocationInterior</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Greenetech Genetics</Source>
-      <Dest>Greenetech Genetics</Dest>
+      <Dest>Genetický ústav Greentech</Dest>
     </String>
     <String List="0" sID="01D72D">
       <EDID>FortHagenWorkshopLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Fort Hagen Red Rocket</Source>
-      <Dest>Red rocket v pevnosti Hagen</Dest>
+      <Dest>Red Rocket v pevnosti Hagen</Dest>
     </String>
     <String List="0" sID="01D737">
       <EDID>GraygardenHomesteadLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Graygarden Homestead</Source>
-      <Dest>Dům Šedá zahrada</Dest>
+      <Dest>Usedlost u Šedé zahrady</Dest>
     </String>
     <String List="0" sID="01D76B">
       <EDID>FrostResist</EDID>
       <REC>AVIF:ANAM</REC>
       <Source>Cryo Resist</Source>
-      <Dest>Odolnost vůči kryo chladu</Dest>
+      <Dest>Kryo odolnost</Dest>
     </String>
-    <String List="0" sID="01D910" Partial="1">
+    <String List="0" sID="01D910">
       <EDID>GorillaBodyPartData</EDID>
       <REC id="8">BPTD:BPTN</REC>
       <Source>GorillaCOM</Source>
@@ -1268,7 +1268,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GlowingSeaEdgeMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Edge of the Glowing Sea</Source>
-      <Dest>Na břehu Svítícího moře</Dest>
+      <Dest>Břeh Zářícího moře</Dest>
     </String>
     <String List="0" sID="01D987">
       <EDID>Gunslinger01</EDID>
@@ -1294,7 +1294,7 @@ Alespoň, že to nyní funguje.</Dest>
       <Source>Fortune Finder</Source>
       <Dest>Zlatokop</Dest>
     </String>
-    <String List="0" sID="01DA31" Partial="1">
+    <String List="0" sID="01DA31">
       <EDID>GunFu01</EDID>
       <REC>PERK:FULL</REC>
       <Source>Gun-Fu</Source>
@@ -1316,7 +1316,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortifyIntelligenceChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Fortify Intelligence</Source>
-      <Dest>Chem: Fortify Intelligence</Dest>
+      <Dest>Chemie: posílení inteligence</Dest>
     </String>
     <String List="0" sID="01DE54">
       <EDID>GoodneighborHancocksTerminal</EDID>
@@ -1382,7 +1382,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>GoodneighborHancocksTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Monthly Collections</Source>
-      <Dest>Měsíční sbírky</Dest>
+      <Dest>Měsíční výběry</Dest>
     </String>
     <String List="0" sID="01F875">
       <EDID>FortStrongLocation</EDID>
@@ -1406,7 +1406,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortifyStrength</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Strength</Source>
-      <Dest>Fortify Strength</Dest>
+      <Dest>Posílení síly</Dest>
     </String>
     <String List="0" sID="01FCB3">
       <EDID>GoodneighborWarehouse03Location</EDID>
@@ -1418,7 +1418,7 @@ Alespoň, že to nyní funguje.</Dest>
       <EDID>FortifyDamageResist</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Damage Resistance</Source>
-      <Dest>Fortify Damage Resistance</Dest>
+      <Dest>Posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="020581">
       <EDID>FredAllen</EDID>
@@ -1445,11 +1445,12 @@ even at night.&#xD;
 I love Sue.&#xD;
 &#xD;
 THE END</Source>
-      <Dest>O Sue&#xD;
+      <Dest>     O Sue&#xD;
 Napsal: Griswold&#xD;
 &#xD;
 Sue je krásná. Sue je milá.&#xD;
-Ani v noci by mě nezabila&#xD;
+Sue velmi dobře střílet umí,&#xD;
+i kdyby noc černá byla.&#xD;
 &#xD;
 Miluji Sue.&#xD;
 &#xD;
@@ -1537,19 +1538,19 @@ KONEC</Dest>
       <EDID>FusionPulseCharge</EDID>
       <REC>MISC:FULL</REC>
       <Source>Fusion Pulse Charge</Source>
-      <Dest>Fúzní detonátor</Dest>
+      <Dest>Termonukleární nálož</Dest>
     </String>
     <String List="0" sID="022D0A">
       <EDID>GlowingOneRadiationBurst</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Burst</Source>
-      <Dest>Radiation Burst</Dest>
+      <Dest>Záblesk radiace</Dest>
     </String>
     <String List="0" sID="022E94">
       <EDID>GreenetechGenetics02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Greenetech Genetics</Source>
-      <Dest>Greenetech Genetics</Dest>
+      <Dest>Genetický ústav Greentech</Dest>
     </String>
     <String List="0" sID="022FB4">
       <EDID>GeneralAtomicsFactoryMapMarker</EDID>
@@ -1563,7 +1564,7 @@ KONEC</Dest>
       <Source>Tarberry</Source>
       <Dest>Dehetinka</Dest>
     </String>
-    <String List="0" sID="023480">
+    <String List="0" sID="023480" Partial="1">
       <EDID>GJ_Defrag_Holotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>RobCo Defragmenter</Source>
@@ -1593,7 +1594,7 @@ KONEC</Dest>
       <Source>Mr Handy</Source>
       <Dest>Pan Šikulka</Dest>
     </String>
-    <String List="0" sID="023771" Partial="1">
+    <String List="0" sID="023771">
       <EDID>GhoulChildHeadRear</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GhoulChildHeadRear</Source>
@@ -1609,7 +1610,7 @@ KONEC</Dest>
       <EDID>GJTerminal01</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>My son is missing</Source>
-      <Dest>Ztratil se mi syn</Dest>
+      <Dest>Můj syn je nezvěstný</Dest>
     </String>
     <String List="0" sID="0238EB">
       <EDID>FortStrongMapMarkerRef</EDID>
@@ -1693,7 +1694,7 @@ KONEC</Dest>
       <EDID>GJTerminal02</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Somebody kidnapped him while I was frozen</Source>
-      <Dest>Někdo ho unesl během kryo spánku.</Dest>
+      <Dest>Někdo ho unesl během mého kryo spánku.</Dest>
     </String>
     <String List="0" sID="0244D9">
       <EDID>GwinnettBreweryMapMarkerRef</EDID>
@@ -1717,7 +1718,7 @@ KONEC</Dest>
       <EDID>GlassPitcher01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Glass Pitcher</Source>
-      <Dest>Skleněný džbánek</Dest>
+      <Dest>Skleněný džbán</Dest>
     </String>
     <String List="0" sID="0245A8">
       <EDID>GJTerminal01</EDID>
@@ -1741,7 +1742,7 @@ KONEC</Dest>
       <EDID>FusionCoreWeapon</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Fusion Core Ejector</Source>
-      <Dest>Ejektor fúzních jader</Dest>
+      <Dest>Odhazovač fúzních jader</Dest>
     </String>
     <String List="0" sID="02493B">
       <EDID>Glory</EDID>
@@ -1753,13 +1754,13 @@ KONEC</Dest>
       <EDID>GNN02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Gunners Plaza Basement</Source>
-      <Dest>Sklepení v ústředí Ranařů</Dest>
+      <Dest>Sklepení ústředí Ranařů</Dest>
     </String>
     <String List="0" sID="024ACA">
       <EDID>FortifyAgility</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Agility</Source>
-      <Dest>Fortify Agility</Dest>
+      <Dest>Posílení hbitosti</Dest>
     </String>
     <String List="0" sID="024AFA">
       <EDID>fragMine</EDID>
@@ -1789,7 +1790,7 @@ KONEC</Dest>
       <EDID>FortifyPerception</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Perception</Source>
-      <Dest>Fortify Perception</Dest>
+      <Dest>Posílení vnímání</Dest>
     </String>
     <String List="0" sID="024D9B">
       <EDID>GourdInstitute</EDID>
@@ -1807,7 +1808,7 @@ KONEC</Dest>
       <EDID>GraygardenHomestead01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Graygarden Homestead</Source>
-      <Dest>Dům Šedá zahrada</Dest>
+      <Dest>Usedlost u Šedé zahrady</Dest>
     </String>
     <String List="0" sID="024E7C">
       <EDID>GJTerminal02</EDID>
@@ -1831,7 +1832,7 @@ KONEC</Dest>
       <EDID>GwinnettBrewery02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Gwinnett Main Brewery</Source>
-      <Dest>Hlavní místnost pivovaru Gwinnett</Dest>
+      <Dest>Hlavní pivovar Gwinnett</Dest>
     </String>
     <String List="0" sID="02507D">
       <EDID>GammaGun</EDID>
@@ -1843,7 +1844,7 @@ KONEC</Dest>
       <EDID>FortifyAgility</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Agility</Source>
-      <Dest>+&lt;mag&gt; Agility</Dest>
+      <Dest>+&lt;mag&gt; k hbitosti</Dest>
     </String>
     <String List="0" sID="02523D">
       <EDID>FollowersCompanionMenuWait</EDID>
@@ -1869,7 +1870,7 @@ I really like to watch men die.&#xD;
 I hope nobody kills me.&#xD;
 So I can kill them instead.&#xD;
       The end.</Source>
-      <Dest>      O Smrti&#xD;
+      <Dest>     O Smrti&#xD;
 Napsal: Griswold&#xD;
 &#xD;
 Hle, umřít. Zabít, zmrzačit.&#xD;
@@ -1883,7 +1884,7 @@ abych mohl zabít já je.&#xD;
       <EDID>FortifyHealthChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Fortify Health</Source>
-      <Dest>Chem: Fortify Health</Dest>
+      <Dest>Chemie: posílení zdraví</Dest>
     </String>
     <String List="0" sID="0254D6">
       <EDID>FloorlampNoFrilliesOn</EDID>
@@ -1901,7 +1902,7 @@ abych mohl zabít já je.&#xD;
       <EDID>GenericGoHome</EDID>
       <REC>QUST:FULL</REC>
       <Source>use this to make sure actors get home</Source>
-      <Dest>využitím této možnosti jim umožníš návrat domů</Dest>
+      <Dest>use this to make sure actors get home</Dest>
     </String>
     <String List="0" sID="0256C1">
       <EDID>GriswoldJournalTerminal</EDID>
@@ -1914,7 +1915,7 @@ Lo to be the best shooter ever&#xD;
 Lo to be Griswold, Best raider ever&#xD;
 &#xD;
 THE END</Source>
-      <Dest>      O Griswoldovi&#xD;
+      <Dest>     O Griswoldovi&#xD;
 Napsal: Griswold&#xD;
 &#xD;
 Hle býti drsný a krásný,&#xD;
@@ -1975,7 +1976,7 @@ KONEC</Dest>
       <EDID>GoodneighborDaisysHouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Daisy's House</Source>
-      <Dest>Daisyn dům</Dest>
+      <Dest>Daisyin dům</Dest>
     </String>
     <String List="0" sID="025D11">
       <EDID>GhoulRace</EDID>
@@ -1987,13 +1988,13 @@ KONEC</Dest>
       <EDID>FuseBox_Trigger</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Fuse Box</Source>
-      <Dest>Pojistky</Dest>
+      <Dest>Pojistková skříň</Dest>
     </String>
     <String List="0" sID="025F12">
       <EDID>FortifyActionPoints</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Action Points</Source>
-      <Dest>Fortify Action Points</Dest>
+      <Dest>Posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="026153">
       <EDID>FlightDataRecorder</EDID>
@@ -2047,7 +2048,7 @@ KONEC</Dest>
       <EDID>GlowingOneBlood</EDID>
       <REC>ALCH:FULL</REC>
       <Source>Irradiated Blood</Source>
-      <Dest>Krev postižená radiací</Dest>
+      <Dest>Ozářená krev</Dest>
     </String>
     <String List="0" sID="026C81">
       <EDID>GoodneighborTheThirdRailLocation</EDID>
@@ -2059,25 +2060,25 @@ KONEC</Dest>
       <EDID>FortifyCharismaAlcohol</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Strength</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="026DDE">
       <EDID>GooPile01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Goo Pile</Source>
-      <Dest>Hromádka slizu</Dest>
+      <Dest>Hromada slizu</Dest>
     </String>
     <String List="0" sID="026F6D">
       <EDID>FortifyLimbRegenRate</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Limb Regeneration</Source>
-      <Dest>Limb Regeneration</Dest>
+      <Dest>Regenerace končetin</Dest>
     </String>
     <String List="0" sID="0270FF">
       <EDID>GoodneighborHancocksTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Brotherhood of Steel just showed up in a big way. Need to get some eyes there. Can't afford not to know their plans.</Source>
-      <Dest>Bratrstvo oceli se zase předvedlo ve velkém stylu. Musím se tam jít podívat. Nemohu si dovolit nevědět, co mají za lubem.</Dest>
+      <Dest>Bratrstvo oceli se objevilo ve velkém stylu. Musím tam někoho poslat, aby je sledoval. Nemohu si dovolit neznat jejich plány.</Dest>
     </String>
     <String List="0" sID="0271AE">
       <EDID>GoodneighborWarehouse02Location</EDID>
@@ -2091,7 +2092,7 @@ KONEC</Dest>
       <Source>Goodbye.</Source>
       <Dest>Nashledanu.</Dest>
     </String>
-    <String List="0" sID="0273EF" Partial="1">
+    <String List="0" sID="0273EF">
       <EDID>GirlHair01</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GirlHair01</Source>
@@ -2113,7 +2114,7 @@ KONEC</Dest>
       <EDID>GJMessage01</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>Barter.</Source>
-      <Dest>Směnit.</Dest>
+      <Dest>Obchodovat.</Dest>
     </String>
     <String List="0" sID="02783F">
       <EDID>FloraMelonVine01</EDID>
@@ -2167,13 +2168,13 @@ KONEC</Dest>
       <EDID>GlowingSeaPlayerRadiationOLD</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Radiace Svítícího moře</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="0289BB">
       <EDID>GlowingSeaPlayerRadiationRadStormEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Glowing Sea Radiation</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="0289E1">
       <EDID>GlowingSeaPOIDB01Pilot01</EDID>
@@ -2186,8 +2187,8 @@ KONEC</Dest>
       <REC id="1">TERM:UNAM</REC>
       <Source>...Communication Link Established&#xD;
 Roof Access Security lock engaged. Sealing door...</Source>
-      <Dest>...Spojení bylo úspěšné&#xD;
-Záměk přístupu na střechu byl uzamčen. Uzavírám dveře...</Dest>
+      <Dest>...Spojení úspěšně navázáno&#xD;
+Bezpečnostní zámek vstupu na střechu zapojen. Uzavírám dveře...</Dest>
     </String>
     <String List="0" sID="028D46">
       <EDID>GlowingSeaPOIJB03_Terminal</EDID>
@@ -2199,7 +2200,7 @@ Záměk přístupu na střechu byl uzamčen. Uzavírám dveře...</Dest>
       <EDID>GlowingSeaPOIDB01_CargoManifest</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Skylanes Smuggling Manifest</Source>
-      <Dest>Seznam pašovaných věcí Skylanes</Dest>
+      <Dest>Skylanes - seznam pašovaného nákladu </Dest>
     </String>
     <String List="0" sID="028D8D">
       <EDID>GlowingSeaPOIJB03_Terminal</EDID>
@@ -2211,7 +2212,7 @@ Záměk přístupu na střechu byl uzamčen. Uzavírám dveře...</Dest>
       <EDID>GlowingSeaPOIDB02Key</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Church Safe Key</Source>
-      <Dest>Bezpečnostní klíč kostela</Dest>
+      <Dest>Klíč ke kostelnímu sejfu</Dest>
     </String>
     <String List="0" sID="028E13">
       <EDID>GlowingSeaPOIDB02Note</EDID>
@@ -2224,8 +2225,8 @@ Záměk přístupu na střechu byl uzamčen. Uzavírám dveře...</Dest>
       <REC id="0">TERM:UNAM</REC>
       <Source>...Communication Link Established&#xD;
 Roof Access Security lock released. Opening door...</Source>
-      <Dest>...Spojení bylo úspěšné&#xD;
-Záměk přístupu na střechu byl odemčen. Otevírám dveře...</Dest>
+      <Dest>...Spojení uspěšně navázáno&#xD;
+Bezpečnostní zámek vstupu na střechu odpojen. Otevírám dveře...</Dest>
     </String>
     <String List="0" sID="028EDD">
       <EDID>GlowingSeaPOIJB03_Terminal</EDID>
@@ -2247,7 +2248,7 @@ Repair Shop Terminal&#xD;
 -------------------------------&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Opravit terminál v provozovně &#xD;
+Terminál roboservisu&#xD;
 -------------------------------</Dest>
     </String>
     <String List="0" sID="0295CA">
@@ -2260,19 +2261,19 @@ Opravit terminál v provozovně &#xD;
       <EDID>Globe_02_clean</EDID>
       <REC>MISC:FULL</REC>
       <Source>Clean Globe</Source>
-      <Dest>Čistý globus</Dest>
+      <Dest>Čistý glóbus</Dest>
     </String>
     <String List="0" sID="02992C">
       <EDID>Globe_02_ruined</EDID>
       <REC>MISC:FULL</REC>
       <Source>Globe</Source>
-      <Dest>Globus</Dest>
+      <Dest>Glóbus</Dest>
     </String>
     <String List="0" sID="02A52A">
       <EDID>FortifyResistFire</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Fire Resist</Source>
-      <Dest>Fortify Fire Resist</Dest>
+      <Dest>Posílení odolnost vůči ohni</Dest>
     </String>
     <String List="0" sID="02A54F">
       <EDID>FloraInsCornStalk02</EDID>
@@ -2284,31 +2285,31 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyCarryWeight</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Carry Weight</Source>
-      <Dest>Fortify Carry Weight</Dest>
+      <Dest>Posílení nosnosti</Dest>
     </String>
     <String List="0" sID="02A625">
       <EDID>FortifyResistCryo</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Cryo Resist</Source>
-      <Dest>Fortify Cryo Resist</Dest>
+      <Dest>Posílení odolnosti vůči chladu</Dest>
     </String>
     <String List="0" sID="02A695">
       <EDID>FortifyResistPoison</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Poison Resist</Source>
-      <Dest>Fortify Poison Resist</Dest>
+      <Dest>Posílení odolnost vůči jedu</Dest>
     </String>
     <String List="0" sID="02A746">
       <EDID>FortifyHealRate</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Increases heal rate.</Source>
-      <Dest>Increases heal rate.</Dest>
+      <Dest>Zvyšuje rychlost léčení.</Dest>
     </String>
     <String List="0" sID="02A768">
       <EDID>FortifyNightEye</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Night Eye</Source>
-      <Dest>Fortify Night Eye</Dest>
+      <Dest>Posílení nočního oka</Dest>
     </String>
     <String List="0" sID="02A7F3">
       <EDID>FloraInsCornStalk01</EDID>
@@ -2320,7 +2321,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyExperience</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Experience</Source>
-      <Dest>Fortify Experience</Dest>
+      <Dest>Posílení zkušeností</Dest>
     </String>
     <String List="0" sID="02A93F">
       <EDID>FloraInsCornStalk02</EDID>
@@ -2338,31 +2339,31 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyCarryWeight</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Carry Weight</Source>
-      <Dest>+&lt;mag&gt; Carry Weight</Dest>
+      <Dest>+&lt;mag&gt; k nosnosti</Dest>
     </String>
     <String List="0" sID="02A9A0">
       <EDID>FortifyMeleeDamage</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Melee Damage</Source>
-      <Dest>Fortify Melee Damage</Dest>
+      <Dest>Posílení poškození v boji zblízka</Dest>
     </String>
     <String List="0" sID="02A9B7">
       <EDID>FortifyHealRate</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Incr. Heal Rate</Source>
-      <Dest>Incr. Heal Rate</Dest>
+      <Dest>Zvýš. rychlosti léčení</Dest>
     </String>
     <String List="0" sID="02A9DB">
       <EDID>FortifyWaterBreathing</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Water Breathing</Source>
-      <Dest>Water Breathing</Dest>
+      <Dest>Dýchání pod vodou</Dest>
     </String>
     <String List="0" sID="02AA23">
       <EDID>FortifyRadHealthMax</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Rad Health Max</Source>
-      <Dest>Fortify Rad Health Max</Dest>
+      <Dest>Posílení radů max. zdraví</Dest>
     </String>
     <String List="0" sID="02AA31">
       <EDID>GhoulSkin1</EDID>
@@ -2380,7 +2381,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyRadHealthMax</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="02AAD3">
       <EDID>GhoulSkin6</EDID>
@@ -2416,27 +2417,27 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyStrengthHIDDEN</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Strength</Source>
-      <Dest>Fortify Strength</Dest>
+      <Dest>Posílení síly</Dest>
     </String>
     <String List="0" sID="02B08F">
       <EDID>FortifyDamageResistHIDDEN</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>dr</Source>
-      <Dest>dr</Dest>
+      <Dest>ovz</Dest>
     </String>
     <String List="0" sID="02B279">
       <EDID>FortifyDamageResistHIDDEN</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Damage Resistance</Source>
-      <Dest>Fortify Damage Resistance</Dest>
+      <Dest>Posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="02B32F">
       <EDID>FortifyMeleeDamagePercChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify Melee Damage 50%</Source>
-      <Dest>Vylepší zranění na blízko o 50%</Dest>
+      <Dest>Posílení poškození v boji zblízka o 50%</Dest>
     </String>
-    <String List="0" sID="02B36C" Partial="1">
+    <String List="0" sID="02B36C">
       <EDID>FortifyCritChance25xChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>FortifyCritChance25xChemPerk</Source>
@@ -2446,7 +2447,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyVATSAccuracyChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>+10% VATS Accuracy</Source>
-      <Dest>+10% VATS Accuracy</Dest>
+      <Dest>+10 % k VATS přesnosti</Dest>
     </String>
     <String List="0" sID="02B3D9">
       <EDID>Fury</EDID>
@@ -2458,19 +2459,19 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyBuySell10ChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify Buy/Sell 10%</Source>
-      <Dest>Vylepší nákup/prodej o 10%</Dest>
+      <Dest>Posílení nákupu a prodeje o 10 %</Dest>
     </String>
     <String List="0" sID="02B441">
       <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify Sneak Attack Bonus</Source>
-      <Dest>Vylepší bonus k útoku zkrytu</Dest>
+      <Dest>Posílení bonusu při úkotu z krytu</Dest>
     </String>
     <String List="0" sID="02B460">
       <EDID>FortifyVATSAccuracyChem</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+10% VATS Accuracy</Source>
-      <Dest>+10% VATS Accuracy</Dest>
+      <Dest>+10 % k VATS přesnosti</Dest>
     </String>
     <String List="0" sID="02B4C8">
       <EDID>GrimReaperSprint03</EDID>
@@ -2518,7 +2519,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>Grognak_HolotapeGame</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Grognak &amp; The Ruby Ruins</Source>
-      <Dest>Grognak &amp; Rubínové ruiny</Dest>
+      <Dest>Grognak a Rubínové ruiny</Dest>
     </String>
     <String List="0" sID="02B9C0">
       <EDID>Ghoulish03</EDID>
@@ -2548,81 +2549,81 @@ Opravit terminál v provozovně &#xD;
       <EDID>GSPOIRJ03_RadioDisplayName</EDID>
       <REC>MESG:FULL</REC>
       <Source>Reactor Emergency Frequency</Source>
-      <Dest>Reaktor krizové frekvence</Dest>
+      <Dest>Krizová frekvence reaktoru</Dest>
     </String>
     <String List="0" sID="02BE72">
       <EDID>FusionCoreKnightWeapon</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Fusion Core Ejector</Source>
-      <Dest>Ejektor fúzních jader</Dest>
+      <Dest>Odhazovač fúzních jader</Dest>
     </String>
     <String List="0" sID="02C775">
       <EDID>FortifyActionPointsAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Action Points</Source>
-      <Dest>Alcohol: Fortify Action Points</Dest>
+      <Dest>Alkohol: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="02C80A">
       <EDID>GS_FeralGhoul05glowingSeaClothed</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Alt Feral Ghoul Glowing Sea</Source>
-      <Dest>Divoký ghúl od Svítivého moře</Dest>
+      <Dest>Divoký ghúl od Zářícího moře</Dest>
     </String>
     <String List="0" sID="02C824">
       <EDID>FortifyHealthAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Health</Source>
-      <Dest>Alcohol: Fortify Health</Dest>
+      <Dest>Alkohol: posílení zdraví</Dest>
     </String>
     <String List="0" sID="02C93A">
       <EDID>FortifyLuckAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Luck</Source>
-      <Dest>Alcohol: Fortify Luck</Dest>
+      <Dest>Alkohol: posílení štěstí</Dest>
     </String>
     <String List="0" sID="02CAE2">
       <EDID>FortifyEnduranceAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Endurance</Source>
-      <Dest>Alcohol: Fortify Endurance</Dest>
+      <Dest>Alkohol: posílení odolnosti</Dest>
     </String>
     <String List="0" sID="02CBD1">
       <EDID>GlowingSeaCraterMapMarkerREF</EDID>
       <REC>REFR:FULL</REC>
       <Source>Crater of Atom</Source>
-      <Dest>Kráter Atomu</Dest>
+      <Dest>Atomův kráter</Dest>
     </String>
     <String List="0" sID="02CD82">
       <EDID>GS_FeralGhoul05glowingSea</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Alt Feral Ghoul Glowing Sea</Source>
-      <Dest>Divoký ghúl od Svítivého moře</Dest>
+      <Dest>Divoký ghúl od Zářícího moře</Dest>
     </String>
     <String List="0" sID="02CE63">
       <EDID>FortifyAgilityAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol: Fortify Agility</Source>
-      <Dest>Alcohol: Fortify Agility</Dest>
+      <Dest>Alkohol: posílení hbitosti</Dest>
     </String>
-    <String List="0" sID="02D1EA" Partial="1">
+    <String List="0" sID="02D1EA">
       <EDID>GhoulChildEyesAO</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GhoulChildEyesAO</Source>
       <Dest>GhoulChildEyesAO</Dest>
     </String>
-    <String List="0" sID="02D3D4" Partial="1">
+    <String List="0" sID="02D3D4">
       <EDID>GhoulChildEyesWet</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GhoulChildEyesWet</Source>
       <Dest>GhoulChildEyesWet</Dest>
     </String>
-    <String List="0" sID="02D42C" Partial="1">
+    <String List="0" sID="02D42C">
       <EDID>GirlHair02</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GirlHair02</Source>
       <Dest>GirlHair02</Dest>
     </String>
-    <String List="0" sID="02D5AE" Partial="1">
+    <String List="0" sID="02D5AE">
       <EDID>GhoulChildEyesLashes</EDID>
       <REC>HDPT:FULL</REC>
       <Source>GhoulChildEyesLashes</Source>
@@ -2632,103 +2633,103 @@ Opravit terminál v provozovně &#xD;
       <EDID>FortifyResistFireFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Fire Resist Food</Source>
-      <Dest>Fortify Fire Resist Food</Dest>
+      <Dest>Jídlo pro posílení odolnost vůči ohni</Dest>
     </String>
     <String List="0" sID="02D901">
       <EDID>FortifyActionPointsFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Action Points Food</Source>
-      <Dest>Fortify Action Points Food</Dest>
+      <Dest>Jídlo pro posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="02D932">
       <EDID>FortifyAgilityFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Agility Food</Source>
-      <Dest>Fortify Agility Food</Dest>
+      <Dest>Jídlo pro posílení hbitosti</Dest>
     </String>
     <String List="0" sID="02D975">
       <EDID>FortifyAgilityFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Agility</Source>
-      <Dest>+&lt;mag&gt; Agility</Dest>
+      <Dest>+&lt;mag&gt; k hbitosti</Dest>
     </String>
     <String List="0" sID="02D9AF">
       <EDID>FortifyActionPointsFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="02D9B3">
       <EDID>FortifyResistPoisonFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Poison Resist Food</Source>
-      <Dest>Fortify Poison Resist Food</Dest>
+      <Dest>Jídlo pro posílení odolnosti vůči jedu</Dest>
     </String>
     <String List="0" sID="02DA09">
       <EDID>FortifyResistRadsFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Resistance Food</Source>
-      <Dest>Radiation Resistance Food</Dest>
+      <Dest>Jídlo pro odolnost vůči radiaci</Dest>
     </String>
     <String List="0" sID="02DB9D">
       <EDID>FortifyCarryWeightFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Carry Weight Food</Source>
-      <Dest>Fortify Carry Weight Food</Dest>
+      <Dest>Jídlo pro posílení nosnosti</Dest>
     </String>
     <String List="0" sID="02DBA2">
       <EDID>FortifyHealthFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Health Food</Source>
-      <Dest>Fortify Health Food</Dest>
+      <Dest>Jídlo pro posílení zdraví</Dest>
     </String>
     <String List="0" sID="02DBC8">
       <EDID>FortifyDamageResistFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>dr</Source>
-      <Dest>dr</Dest>
+      <Dest>ovz</Dest>
     </String>
     <String List="0" sID="02DC3E">
       <EDID>FortifyEnduranceFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Endurance Food</Source>
-      <Dest>Fortify Endurance Food</Dest>
+      <Dest>Jídlo pro posílení odolnosti</Dest>
     </String>
     <String List="0" sID="02DCA3">
       <EDID>FortifyDamageResistFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Damage Resistance Food</Source>
-      <Dest>Fortify Damage Resistance Food</Dest>
+      <Dest>Jídlo pro posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="02DD24">
       <EDID>FortifyPerceptionFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Perception Food</Source>
-      <Dest>Fortify Perception Food</Dest>
+      <Dest>Jídlo pro posílení vnímání</Dest>
     </String>
     <String List="0" sID="02DD37">
       <EDID>FortifyCarryWeightFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Carry Weight</Source>
-      <Dest>+&lt;mag&gt; Carry Weight</Dest>
+      <Dest>+&lt;mag&gt; k nosnosti</Dest>
     </String>
     <String List="0" sID="02DD42">
       <EDID>FortifyHealthFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="02DD85">
       <EDID>FortifyStrengthFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Strength Food</Source>
-      <Dest>Fortify Strength Food</Dest>
+      <Dest>Jídlo pro posílení síly</Dest>
     </String>
     <String List="0" sID="02DD94">
       <EDID>FortifyMeleeDamageFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Melee Damage Food</Source>
-      <Dest>Fortify Melee Damage Food</Dest>
+      <Dest>Jídlo pro posílení poškození v boji zblízka</Dest>
     </String>
     <String List="0" sID="02E2A0">
       <EDID>GoodneighborGuardGhoulOnly</EDID>
@@ -2776,7 +2777,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>GlowingSea_COA_Virgil_Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Note from Brother Hoberman</Source>
-      <Dest>Poznámky bratra Hobermana</Dest>
+      <Dest>Zpráva od bratra Hobermana</Dest>
     </String>
     <String List="0" sID="02F9B0">
       <EDID>FortuneFinder02</EDID>
@@ -2800,7 +2801,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>GenericOwnershipFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>No NPCs in this, use for doors nobody should open</Source>
-      <Dest>Uvnitř nikdo není, otevři s tím uzamčené dveře</Dest>
+      <Dest>No NPCs in this, use for doors nobody should open</Dest>
     </String>
     <String List="0" sID="030BEF">
       <EDID>FortStrong02</EDID>
@@ -2818,7 +2819,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Contingency Plan: Neighborhood Watch</Source>
-      <Dest>Plán: Domobrana</Dest>
+      <Dest>Záložní plán: Domobrana</Dest>
     </String>
     <String List="0" sID="030DCB">
       <EDID>FloraFungusGlowing03</EDID>
@@ -2836,19 +2837,19 @@ Opravit terminál v provozovně &#xD;
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Magnolia</Source>
-      <Dest>Magnolia</Dest>
+      <Dest>Magnólie</Dest>
     </String>
     <String List="0" sID="030DEA">
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Contingency Plan: Bobbi</Source>
-      <Dest>Plán: Bobbi</Dest>
+      <Dest>Záložní plán: Bobbi</Dest>
     </String>
     <String List="0" sID="030E11">
       <EDID>GoodneighborIrmaTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Mayor Hancock's memories are... well, let's just say if you thought he was handsome and dangerous now, you should've seen him before he turned ghoul. And I thought I knew how to have a good time...</Source>
-      <Dest>Vzpomínky majora Hancocka jsou... jak to říci, pokud jste si mysleli, že je stále krásný a nebezpečný, měli jste přijít dříve než se proměnil na ghúla. A to jsem si myslela, že vím, jak se bavit...</Dest>
+      <Dest>Vzpomínky majora Hancocka jsou... jak to říci, pokud jste si mysleli, že byl krásný a nebezpečný teď, měli byste ho vidět před tím, než proměnil v ghúla. A to jsem si myslela, že vím, jak se bavit...</Dest>
     </String>
     <String List="0" sID="030E15">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -2860,7 +2861,7 @@ Opravit terminál v provozovně &#xD;
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Have a Plan to Kill Everyone You Meet.</Source>
-      <Dest>Měj připravený plán na zabití všech, které potkáš.</Dest>
+      <Dest>Měj připravený plán na zabití všech, koho potkáš.</Dest>
     </String>
     <String List="0" sID="030E21">
       <EDID>FloraFungusGlowing01</EDID>
@@ -2874,9 +2875,9 @@ Opravit terminál v provozovně &#xD;
       <Source>I love the irony of a staunch opponent of the Den coming in to sample the goods. Temptation. It gets us all in the end.&#xD;
 &#xD;
 Reminder to myself: Daisy may not look it now, but there's a reason she's lived to be such a ripe, old age. Best that no one knows she ever came here. I don't need a reason for the hellion side of her coming out, looking for pay back.</Source>
-      <Dest>Miluji tu ironii vytrvalého odpůrce Hnízdečka vzpomínek, když si může čichnout k neřesti. Pokušení. To nás vždy nakonec doběhne.&#xD;
+      <Dest>Miluji tu ironii vytrvalého odpůrce Hnízdečka vzpomínek, když si přijde zkusit co nabízíme. Pokušení. To nás všechny nakonec doběhne.&#xD;
 &#xD;
-Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina její dlouhověkosti. Ještěže nikdo neví, že sem přišla. Nechci, aby se v ní probudila temná stránka osobnosti hledající odplatu.</Dest>
+Osobní poznámka: Daisy na to možná teď nevypadá, ale není náhoda že se dožila tak vyzrálého dlouhého věku. Bude lepší, když nikdo nebude vědět, že tu byla. Nepotřebuji dávat žádný důvod k tomu, aby se projevila její spratkovská nátura a požadovala odplatu.</Dest>
     </String>
     <String List="0" sID="030E3A">
       <EDID>FloraFungusBrain02</EDID>
@@ -2888,7 +2889,7 @@ Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina j
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Kill bodyguard first. Strangulation while she sleeps. Then load all doses of chems in the Old State House with poisons. Collateral damage possible, but losses acceptable without too much disruption to the business.</Source>
-      <Dest>První zabij ochranku. Uškrtit ve spánku. Poté naplň všechny nádoby na chemikálie ve Staré státní budově jedem. Ztráty na civilistech jsou možné, ale akceptovatelné pokud to příliš nepoškodí obchod.</Dest>
+      <Dest>První zabít ochranku. Zaškrcení ve spánku. Poté nalnit všechny dávky chemie ve Staré vládní budově jedem. Vedlejší škody možné, ale ztráty jsou přijatelné bez většího vlivu na obchod.</Dest>
     </String>
     <String List="0" sID="030E43">
       <EDID>FloraWildGourdVine01</EDID>
@@ -2926,9 +2927,9 @@ Poznámka pro sebe: Daisy na to možná nevypadá, ale je zde jedna příčina j
       <Source>Had to get Rufus to rebuild this terminal. I was on the Psycho high and I was typing and I just... man it was like I couldn't NOT be angry. Just started PUNCHING the keys, man! PUNCHING THEM! PUNCHING AND PUNCHING AND...&#xD;
 &#xD;
 I think maybe I should lie down...</Source>
-      <Dest>Musel jsem zavolat Rufa, aby mi pomohl znovu postavit tento terminál. Zrovna jsem jel na Psychu a snažil jsem se něco napsat... A ačkoli mě nemohlo nic v tu chvíli vytočit, najednou jsem bušil do kláves! BUŠIL DO NICH! BUŠIL A BUŠIL DO NICH a...&#xD;
+      <Dest>Musel jsem zavolat Rufa, aby mi pomohl dát zpátky dohromady tenhle terminál. Zrovna jsem jel na Psychu a snažil se do něj něco zapsat a najednou... člověče jako kdybych NEmohl NEbýt naštvaný. Najednou jsem začal bušit do kláves! BUŠIL DO NICH! BUŠIL A BUŠIL DO NICH a...&#xD;
 &#xD;
-Asi bych si měl jít lehnout...</Dest>
+Myslím, že bych si měl jít lehnout...</Dest>
     </String>
     <String List="0" sID="030EB5">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -2948,9 +2949,9 @@ Asi bych si měl jít lehnout...</Dest>
       <Source>A fellow working girl. Deserves a chance.&#xD;
 &#xD;
 Burn down the Third Rail as a warning. If she resists after that, clean shot to the head.</Source>
-      <Dest>Spolupravovnice si zaslouží šanci.&#xD;
+      <Dest>Pracující kolegyně. Zaslouží si šanci.&#xD;
 &#xD;
-Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</Dest>
+Vypálit Třetí kolej jako varování. Pokud bude klást odpor i potom, čistá rána do hlavy.</Dest>
     </String>
     <String List="0" sID="030EE5">
       <EDID>FloraWildCarrotPlant</EDID>
@@ -2962,13 +2963,13 @@ Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</D
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>Mister Rubins has a standing deal to trade room and board in exchange for various handyman services.</Source>
-      <Dest>Panu Rubinsovi je nabízeno ubytování a strava výměnou za údržbářské práce.</Dest>
+      <Dest>Panu Rubinsovi má dlouhodobou dohodu na ubytování a stravu výměnou za údržbářské práce.</Dest>
     </String>
     <String List="0" sID="030F1C">
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>Our entire staff for this hotel comprises myself and one remaining janitor, who I think only works here for easy access to Fred's chem stash.</Source>
-      <Dest>Já a ještě jeden údržbář, který zde pracuje snad jen kvůli snadnějšímu přístupu k Fredovo skladu s chemikáliemi, tvoříme všechny zaměstnance hotelu.</Dest>
+      <Dest>Veškerý hotelový personál sestává z mé osoby a jednoho posledního údržbáře, který tu dle mého pracuje jen proto, aby měl snadný přístup k Fredově skladu chemikálií.</Dest>
     </String>
     <String List="0" sID="030F3B">
       <EDID>FloraFungusGlowing05</EDID>
@@ -3010,7 +3011,7 @@ Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</D
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Contingency Plan: Whitechapel Charlie</Source>
-      <Dest>Plán: Whitechapel Charlie</Dest>
+      <Dest>Záložní plán: Whitechapel Charlie</Dest>
     </String>
     <String List="0" sID="030FAB">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3024,9 +3025,9 @@ Vypal Třetí kolej jako varování. Pokud to nepomůže, střel ji do hlavy.</D
       <Source>Despite my sensible objections, Marowski has allowed Fred Allen to relocate the trifling remains of this family's once vast chem business to the basement.&#xD;
 &#xD;
 At least that oaf sleeps down there instead of in the guest rooms. Heaven knows what kind of sty he's wallowing in.</Source>
-      <Dest>Navzdory mým námitkám, Marowski povolil Fredovi Allenovi, aby přemístil pozůstatky dříve obrovského rodinného podniku s chemikáliemi do sklepa.&#xD;
+      <Dest>Navzdory mým praktickým námitkám, Marowski povolil Fredovi Allenovi, aby přemístil poslední zbytky dříve obrovského rodinného podniku s chemikáliemi do sklepa.&#xD;
 &#xD;
-Alespoň ten hulvát spí ve sklepě a ne v pokoji pro hosty. Bůh ví, v jakých prasečinách se plácá.</Dest>
+Alespoň ten hulvát spí dole ve sklepě a ne v pokoji pro hosty. Bůh ví, v jakém chlívku si tam libuje.</Dest>
     </String>
     <String List="0" sID="030FAD">
       <EDID>FloraWildTatoPlant02</EDID>
@@ -3053,13 +3054,13 @@ Experiment Three: Punch through STEEL boards, man!&#xD;
 Results: Typing with my left hand. Gotta cook some Stimpaks.&#xD;
 </Source>
       <Dest>Experiment jedna: Prorazit pěstí desku.&#xD;
-Výsledek: No jasně, to je jednoduché.&#xD;
+Výsledek: No jasně, to bylo jednoduché.&#xD;
 &#xD;
 Experiment dva: Prorazit pěstí DESET desek.&#xD;
-Výsledek: Jsem nepřemožitelný! Mám sílu jak komiksový hrdina.&#xD;
+Výsledek: Jsem nezničitelný! Mám sílu skoro jako komiksový hrdina.&#xD;
 &#xD;
-Experiment tři: Prorazit pěstí železnou desku!&#xD;
-Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stimpaky.</Dest>
+Experiment tři: Prorazit pěstí ŽELEZNOU desku, kámo!&#xD;
+Výsledek: Zapisuji svojí levou rukou. Měl bych si uvařit nějaké stimpaky.</Dest>
     </String>
     <String List="0" sID="03100A">
       <EDID>FloraFungusBrain01</EDID>
@@ -3071,13 +3072,13 @@ Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stim
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Chem Diary: Psycho</Source>
-      <Dest>Deník chemikálií: Psycho</Dest>
+      <Dest>Chemický deníček: Psycho</Dest>
     </String>
     <String List="0" sID="03104E">
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Occassionally rents a room here for "the acoustics" whatever that means.</Source>
-      <Dest>Příležitostně pronajímá pokoj pro "akustiku", ať už to znamená cokoli.</Dest>
+      <Dest>Příležitostně pronajímá pokoj kvůli "akustice", ať už to znamená cokoli.</Dest>
     </String>
     <String List="0" sID="031052">
       <EDID>FloraBloodLeaf02</EDID>
@@ -3099,11 +3100,11 @@ Výsledek: Zapisuji pouze svojí levou rukou. Měl bych si udělat nějaké stim
 Getting stoned on Jet, and then playing a memory of yourself being stoned on Buffout WHILE you're still stoned on Jet...&#xD;
 &#xD;
 Well, you have to admire his committment.</Source>
-      <Dest>Fred Allen z hotelu Rexfort přichází každý den nametený. Jednou na Jetu se pídil po tom, jak se choval, když měl Buffout. Vše je prý pro "vědecké účely."&#xD;
+      <Dest>Fred Allen z hotelu Rexford se stále vrací, vyjetý jak je den dlouhý. Jednou přišel, když byl na Jetu a požadoval vzpomínku, jak byl na Buffoutu. Říkal, že je to "pro vědecké účely."&#xD;
 &#xD;
-Sjet se Jetem a dívat se na sny o sobě sama při účincích Buffoutu...&#xD;
+Sjet se Jetem a pak si přehrávat vzpomínky sám sebe sjetého na Buffoutu, STÁLE na Jetu...&#xD;
 &#xD;
-Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
+Inu, jeho odhodlání si zaslouží obdiv.</Dest>
     </String>
     <String List="0" sID="03108A">
       <EDID>FloraSiltBean02</EDID>
@@ -3115,13 +3116,13 @@ Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Contingency Plan: Magnolia</Source>
-      <Dest>Plán: Magnolia</Dest>
+      <Dest>Záložní plán: Magnólie</Dest>
     </String>
     <String List="0" sID="0310A0">
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Contingency Plan: Daisy</Source>
-      <Dest>Plán: Daisy</Dest>
+      <Dest>Záložní plán: Daisy</Dest>
     </String>
     <String List="0" sID="0310A2">
       <EDID>FloraHubFlower01</EDID>
@@ -3151,7 +3152,7 @@ Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Stan will always have a place here, of course. And to think, we used to have dozens of good men like him looking after this place.</Source>
-      <Dest>Stan zde bude mít své místo na vždy. Když pomyslím, že se dříve na jeho pozici hlásily desítky stejně schopných, jako byl on.</Dest>
+      <Dest>Stan tu bude mít svoje místo vždy, samozřejmě. Když si vzpomenu, že jsme dříve mívali spoustu dobrých lidí jako on, kteří dávali pozor na tohle místo.</Dest>
     </String>
     <String List="0" sID="0310BE">
       <EDID>FloraFungusGlowing01</EDID>
@@ -3167,17 +3168,17 @@ Nuže, jeho odhodlání je zřejmě nekonečné.</Dest>
 Poor Kent. People may gossip about the Den taking advantage of him, but the truth is he's our biggest charity case. If I lived to be over 200, I know I'd be tired of the real world, too. What's the harm in letting him dream a little longer than the next fella?&#xD;
 &#xD;
 Amari put in some safety settings into his Memory Lounger so he doesn't starve himself to death. Far as I'm concerned, if he wants to live out the rest of his days plugged in and occassionally waking up to eat and stare at his poster collection, that's his choice.</Source>
-      <Dest>Všechny jeho vzpomínky se váží na rádio Silver Shroud a show, kterou vždy sledoval. To mi připomíná, jak jsem mu vždy připomínala, aby nechával všechny plakáty a hračky u sebe v pokoji. Často totiž bývaly rozházené po chodbě.&#xD;
+      <Dest>Všechny jeho vzpomínky jsou o rozhlasové hře Stříbrný Rubáš, o které stále vypráví. To mi připomíná, jak mu stále připomínám, aby nechával všechny plakáty a hračky u sebe v pokoji. Dost často se totiž vyvalují ven až hlavní místnosti.&#xD;
 &#xD;
-Chudák Kent. Lidé říkají, že ho Hnízdečko vzpomínek jen využívá, ale je pravda, že je to případ sám pro sebe. Kdybych žila více jak 200 let, reálný svět by pro mě asi také přestal být zajímavý. Koneckonců jakou škodu může natropit nechat ho snít o něco déle?&#xD;
+Chudák Kent. Lidé říkají, že ho Hnízdečko vzpomínek jen využívá, ale pravda je, že to je naší největší charitou. Kdybych žila více jak 200 let, reálný svět by pro mě asi také přestal být zajímavý. Koneckonců jakou škodu může natropit nechat ho snít o něco déle?&#xD;
 &#xD;
-Amari zavedla nějaká bezpečnostní opatření v Hnízdečku vzpomínek, aby nemohl umřít hladem. Jestliže chce po zbytek života jen snít o své sbírce plakátů a probudit se jen na jídlo a pití, je to jeho volba.</Dest>
+Amariová zavedla nějaká bezpečnostní opatření do jeho v paměťového lehátka, aby nemohl umřít hladem. Co se mě týče, pokud chce zbytek svého života strávit zapojený s občasnou vycházkou na jídlo a prohlídku sbírky plakátů, je to jeho volba.</Dest>
     </String>
     <String List="0" sID="0310D1">
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Chem Diary: Buffout</Source>
-      <Dest>Deník chemikálií: Buffout</Dest>
+      <Dest>Chemický deníček: Buffout</Dest>
     </String>
     <String List="0" sID="0310D6">
       <EDID>FloraWildGourdVine01</EDID>
@@ -3201,7 +3202,7 @@ Amari zavedla nějaká bezpečnostní opatření v Hnízdečku vzpomínek, aby n
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Oh, man. JET! That's why they call it JET, man! Wooo! I'm flying! FLYING BABY!</Source>
-      <Dest>Neuvěřitelné. JET! Proto se to jmenuje JET! Jooo! Já letím! LETÍM SAKRA!</Dest>
+      <Dest>Páni. JET! Proto tomu říkají JET, kámo! Jooo! Já letím! LETÍM BEJBY!</Dest>
     </String>
     <String List="0" sID="0310E3">
       <EDID>GoodneighborFredTerminal</EDID>
@@ -3209,15 +3210,15 @@ Amari zavedla nějaká bezpečnostní opatření v Hnízdečku vzpomínek, aby n
       <Source>The secret to being a great chem dealer? Personal experience, man. That's why I'm going to try everything. But chemistry is like, science, you know? So we're gonna log every hit I take.&#xD;
 &#xD;
 The better I can understand the high, the better I can sell that to the customers. I swear, sometimes I scare myself I'm so smart.</Source>
-      <Dest>Tajemství úspěšného dealera chemikálií? Osobní zkušenost. Proto zkusím naprosto všechno. Ale chemie je něco jako věda, jasné? Takže se pokusím naprosto všechno zaznamenat.&#xD;
+      <Dest>Tajemství úspěšného dealera chemikálií? Osobní zkušenost, kámo. Proto plánuji vyzkoušet úplně všechno. Ale chemie je něco jako, věda, chápeš? Takže pěkně zaznamenám každou dávku, kterou si vezmu.&#xD;
 &#xD;
-Čím lépe porozumím účinkům, tím jednodušeji to prodám svým zákazníkům. Občas mě děsí, jak jsem geniální.</Dest>
+Čím lépe porozumím účinkům, tím lépe to prodám zákazníkům. Občas mě děsí, jak jsem geniální.</Dest>
     </String>
     <String List="0" sID="0310E4">
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Top Experiment: Try Everything</Source>
-      <Dest>Nejdůležitější experiment: Vyzkoušet vše</Dest>
+      <Dest>Hlavní experiment: Vyzkoušet vše</Dest>
     </String>
     <String List="0" sID="0310E6">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3231,9 +3232,9 @@ The better I can understand the high, the better I can sell that to the customer
       <Source>Clair's memories are quite vivid. Amari says she must have "one of those brains" with great attention to detail. Maybe that's why she's so meticulous.&#xD;
 &#xD;
 Oh, and she sure had a cute husband back when she was younger. I can see why she misses him.</Source>
-      <Dest>Vzpomínky Clair jsou dost jasné. Amari říká, že má "výjimečný mozek" se smyslem pro detail. Možná proto je tak puntičkářská.&#xD;
+      <Dest>Vzpomínky Clair jsou dost barvité. Amariová říká, že má "výjimečný mozek" s úžasným smyslem pro detail. Možná proto je tak puntičkářská.&#xD;
 &#xD;
-Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</Dest>
+No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji tak schází.</Dest>
     </String>
     <String List="0" sID="0310E8">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3245,13 +3246,13 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>Pay off one of his associates. Good help is so hard to hold onto these days.</Source>
-      <Dest>Podplať jeho spolupracovníky. Oddaní lidé jsou dnes nedostatkové zboží.</Dest>
+      <Dest>Podplať jednoho z jeho spolupracovníků. Dobrá pomoc se dnes shání velmi těžko.</Dest>
     </String>
     <String List="0" sID="0310ED">
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Wait until Super Mutant or Raider attack. High explosives at key areas of the defensive perimeter. Relocation necessary afterwards as Goodneighbor would be left vulnerable.</Source>
-      <Dest>Vyčkej dokud nezaútočí supermutant nebo nájezdníci. Výbušniny musí být na taktických pozicích v obraném perimetru. Nutné následně přemístit, jinak by bylo Dobré sousedství zranitelné.</Dest>
+      <Dest>Vyčkat na útok supermutantů nebo nájezdníků. Výbušniny na klíčových místech obranného perimetru. Následné je nutné se přemístit, protože Dobré sousedství zůstane zranitelné.</Dest>
     </String>
     <String List="0" sID="0310F8">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3281,7 +3282,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Chem Diary: Jet</Source>
-      <Dest>Deník chemikálií: Jet</Dest>
+      <Dest>Chemický deníček: Jet</Dest>
     </String>
     <String List="0" sID="03111F">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3293,25 +3294,25 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Contingency Plan: Hancock</Source>
-      <Dest>Rezervní plán: Hancock</Dest>
+      <Dest>Záložní plán: Hancock</Dest>
     </String>
     <String List="0" sID="03113A">
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Kleo's Terminal</Source>
-      <Dest>Terminál Kleo</Dest>
+      <Dest>Klein terminál</Dest>
     </String>
     <String List="0" sID="03113E">
       <EDID>GoodneighborFredTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>When In Doubt, Do It All</Source>
-      <Dest>Když pochybujete, vemte si všechno</Dest>
+      <Dest>Když pochybuješ, vem si všechno</Dest>
     </String>
     <String List="0" sID="03113F">
       <EDID>GoodneighborHotelRegister</EDID>
       <REC>TERM:FULL</REC>
       <Source>Hotel Registry</Source>
-      <Dest>Registr hotelu</Dest>
+      <Dest>Hotelový rejstřík</Dest>
     </String>
     <String List="0" sID="031140">
       <EDID>FloraSiltBean01</EDID>
@@ -3341,7 +3342,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Oh man, I feel, like, "loquacious." I don't even know what that MEANS, man! But it's like my brain is just putting it all together faster than I can even process it.</Source>
-      <Dest>Wow, cítím se neuvěřitelně "výhovorně". Vždyť já ani nevím, co to slovo ZNAMENÁ! Zdá se, že můj mozek pracuje tak rychle, že nestíhám kontrolovat, co říkám.</Dest>
+      <Dest>Člověče, cítím se, nějak, "mnohomluvně". Kámo a to ani nevím co to ZNAMENÁ! Je to jako by to můj mozek prostě dával všechno dohromady rychlejc, než to vůbec zvládám zpracovat.</Dest>
     </String>
     <String List="0" sID="031152">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3359,7 +3360,7 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>No other name given. He's upstairs in the guest rooms and rarely leaves. At least he's quiet.</Source>
-      <Dest>Neprozradil své jméno. Nachází se nahoře a jen výjimečně opouští pokoj. Alespoň je potichu.</Dest>
+      <Dest>Nesdělil žádné jiné jménoo. Nachází se nahoře v pokoji pro hosty a jen výjimečně vychází. Alespoň že je potichu.</Dest>
     </String>
     <String List="0" sID="031177">
       <EDID>FloraWildTatoPlant02</EDID>
@@ -3385,15 +3386,15 @@ Ach, jak krásného manžela měla za mlada. Už chápu proč ji tak schází.</
       <Source>Sensors picked up digging sounds recently. Workers and guards being hired at high rates.&#xD;
 &#xD;
 Wait until night. Sneak into hideout. Dismantle lights then kill one by one.</Source>
-      <Dest>Senzor v poslední době zaznamenal hloubení tunelu. Je najímáno více nových pracovníků a stráží.&#xD;
+      <Dest>Senzory nedávno zachytily zvuky kopání. Je najímáno více nových pracovníků a stráží.&#xD;
 &#xD;
-Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.</Dest>
+Vyčkat na noc. Vplížit se do skrýše. Vyřadit světla a pak jednoho po druhém zabít.</Dest>
     </String>
-    <String List="0" sID="03118D" Partial="1">
+    <String List="0" sID="03118D">
       <EDID>GoodneighborIrmaTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Here's to Good Times and Good Memories.</Source>
-      <Dest>Here's to Good Times and Good Memories.</Dest>
+      <Dest>Na dobré časy a dobré vzpomínky.</Dest>
     </String>
     <String List="0" sID="031193">
       <EDID>FloraBloodLeaf01</EDID>
@@ -3417,7 +3418,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>GoodneighborHotelRexfordPassword</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Hotel Registry Password</Source>
-      <Dest>Heslo do registru hotelu</Dest>
+      <Dest>Heslo do hotelovému rejstříku</Dest>
     </String>
     <String List="0" sID="0311D4">
       <EDID>FloraFungusGlowing02</EDID>
@@ -3453,13 +3454,13 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Laser shot at long range. She is too close to home for outright assault to be viable without suspicion.</Source>
-      <Dest>Laser dokáže zasáhnout i daleký cíl. Je příliš blízko domova, než aby spustila přímý útok a nevzbudila na sebe podezření.</Dest>
+      <Dest>Zásah laserem na velkou vzdálenost. Pohybuje se příliš blízko domova, než aby byl proveditelný přímý útok bez toho, aniž by to vzbudilo podezření.</Dest>
     </String>
     <String List="0" sID="031206">
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Chem Diary: Mentats</Source>
-      <Dest>Deník chemikálií: Mentaty</Dest>
+      <Dest>Chemický deníček: Mentaty</Dest>
     </String>
     <String List="0" sID="03120D">
       <EDID>FloraHubFlower01</EDID>
@@ -3495,7 +3496,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>FortifyVATSAccuracyChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify VATS Accuracy Chem</Source>
-      <Dest>Chemikálie vylepšující přesnost v režimu VATS</Dest>
+      <Dest>Chemikálie pro posílení VATS přesnosti</Dest>
     </String>
     <String List="0" sID="0314CD">
       <EDID>FloraWildRazorgrain01</EDID>
@@ -3509,7 +3510,7 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <Source>Four Leaf Clover</Source>
       <Dest>Štístko</Dest>
     </String>
-    <String List="0" sID="031946" Partial="1">
+    <String List="0" sID="031946">
       <EDID>GunFu03</EDID>
       <REC>PERK:FULL</REC>
       <Source>Gun-Fu</Source>
@@ -3519,9 +3520,9 @@ Vyčkej na noc. Vypliž se do skrýše. Vypni světla a pak všechny pozabíjej.
       <EDID>Ghoulish03PerkExclusionFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>ghouls in this will not be picked as allies</Source>
-      <Dest>ghúlové nebudou přátelští</Dest>
+      <Dest>ghouls in this will not be picked as allies</Dest>
     </String>
-    <String List="0" sID="031AF3" Partial="1">
+    <String List="0" sID="031AF3">
       <EDID>GunFu02</EDID>
       <REC>PERK:FULL</REC>
       <Source>Gun-Fu</Source>
@@ -3545,11 +3546,11 @@ Labor: 8 hours&#xD;
 Mechanic Report: Two of the three optical sensors have been wired incorrectly causing the bot to mistranslate incoming data on its surroundings. This bot has been so heavily modified I'm sure it's breaking all kinds of federal laws.</Source>
       <Dest>Zákazník: Jerod Beene&#xD;
 &#xD;
-Stížnost: Jerod přišel reklamovat "Pana Šikulku" poté co zjistil, že doma neustále naráží do věcí.&#xD;
+Závada: Jerod reklamoval svého "pana Šikulku" poté co zjistil, že doma neustále naráží do věcí.&#xD;
 &#xD;
 Oprava: 8 hodin&#xD;
 &#xD;
-Odpověď mechanika: Dva ze tří senzorů byly zapojeny chybně, což způsobovalo špatnou orientaci v prostoru. Příchozí data nebyla vyhodnocována správně. Tento robot byl podomácku upraven a jsem si jistý, že tato vylepšení porušují mnoho federálních nařízení.</Dest>
+Zpráva mechanika: Dva ze tří optických senzorů byly chybně zapojeny, což způsobovalo špatnou interpretaci příchozích vizuálních dat. Tento robot byl upraven tak zásadním způsoběm, že to zcela jistě porušovalo celou řadu federálních zákonů.</Dest>
     </String>
     <String List="0" sID="032140">
       <EDID>GlowingSeaPOIJB03_Terminal</EDID>
@@ -3567,13 +3568,13 @@ Problem: Jessica brought in her company's Protectron after several co-workers co
 Labor: 4 hours&#xD;
 &#xD;
 Mechanic Report: The lower compartment was completely filled with water. Drained, cleaned, rinsed, and dried.</Source>
-      <Dest>Zákazník: Jessica McCann&#xD;
+      <Dest>Zákazník: Jessica McCannová&#xD;
 &#xD;
-Stížnost: Jessica reklamuje firemního Protektrona. Několik spolupracovníků si začalo stěžovat na zápach plísně vycházející z robota. Na dotaz co mohlo zapříčinit tuto vadu, odpověděla, že to může mít souvislost s malou oslavou minulý týden, kdy se vše poněkud zvrhlo a je pravděpodobné namočení v bazénku. &#xD;
+Problém: Jessica přivezla jejího firemního protektrona po té, co si několik spolupracovníků stěžovalo na zápach plísně pocházející ze samotného robota. Po dotazu na možné příčiny zápachu Jessica odpověděla, že firma pořádala minulý týden šťastnou hodinku a věci se malinko vymlky kontrole. Protektron možná byl nebo nebyl účastníkem párty v bazénu.&#xD;
 &#xD;
 Oprava: 4 hodiny&#xD;
 &#xD;
-Odpověď mechanika: Spodní prostor byl plný vody. Vyluxován, očištěn, propláchnut a usušen.</Dest>
+Vyjádření mechanika: Spodní prostor byl plný vody. Odčerpáno, očištěnp, propláchnuto a usušeno.</Dest>
     </String>
     <String List="0" sID="032278">
       <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
@@ -3587,11 +3588,11 @@ Labor: 16 hours&#xD;
 Mechanic Report: Although no physical harm was noticed, one of the guys did find some loose screws inside. Upon further inspection it was determined that the propulsion fail switch was being activated by one or more of the loose screws causing the Handy to fall to the ground.</Source>
       <Dest>Zákazník: William Thomas&#xD;
 &#xD;
-Stížnost: Pan Šikulka bezdůvodně padá na zem minimálně čtyřikrát za den. Na dotaz co by mohlo vadu zapříčiňovat, odpověděl, že viděl sousedovy děti házet po robotovi baseballové míčky. Na první pohled není vidět mechanické poškození.&#xD;
+Problém: Pan Šikulka bezdůvodně ztrácí pohyblivost a padá na zem zhruba čtyřikrát za den. Zeptal jsem se, zda má tušení ohledně případné příčiny a Will odpověděl, že viděl sousedovic děti házet po robotovi baseballové míčky. Nicméně žádné mechanické poškození není zjevně viditelné.&#xD;
 &#xD;
 Oprava: 16 hodin&#xD;
 &#xD;
-Odpověď mechanika: Ačkoli nebylo nalezeno žádné mechanické poškození, jeden z mechaniků objevil uvolněný šroubek. Po důkladnějším prohlédnutí, došlo ke zjištění, že pohon byl nepříznivě ovlivňován několika takovými šroubky, což mohlo zapříčinit pád robota na zem.</Dest>
+Vyjádření mechanika: Ačkoli nebylo nalezeno žádné mechanické poškození, jeden z mechaniků objevil uvnitř uvolněný šroubek. Po důkladnějším prohlédnutí, jsme došli k závěru, že byl nouzový vypínač pohonu náhodně aktivován jedním nebo více volným šroubky, což způsobovalo pád Šikulky na zem.</Dest>
     </String>
     <String List="0" sID="0322BA">
       <EDID>FXFireHitVisuals</EDID>
@@ -3626,79 +3627,79 @@ Faktury&#xD;
       <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Jessica McCann</Source>
-      <Dest>Jessica McCann</Dest>
+      <Dest>Jessica McCannová</Dest>
     </String>
     <String List="0" sID="03272B">
       <EDID>FortifyMeleeDamageFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; melee damage</Source>
-      <Dest>+&lt;mag&gt; melee damage</Dest>
+      <Dest>+&lt;mag&gt; k poškození v boji zblízka</Dest>
     </String>
     <String List="0" sID="032760">
       <EDID>GeneralGameplay09ChemistryStation</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use a Chemistry Station to create useful chems and medicines.</Source>
-      <Dest>V chemické laboratoři lze vyrobit mnoho užitečných chemikálií a léků.</Dest>
+      <Dest>Používej chemickou laboratoř vyráběj užitečné chemikálie a léky.</Dest>
     </String>
     <String List="0" sID="0327B7">
       <EDID>GiddyupButtercupHead</EDID>
       <REC>MISC:FULL</REC>
       <Source>Giddyup Buttercup Head</Source>
-      <Dest>Napoliho hlava</Dest>
+      <Dest>Poník Toník - hlava</Dest>
     </String>
     <String List="0" sID="0327C6">
       <EDID>GeneralGameplay14LevelUp</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Every time you level up, your Health increases and you get to choose a new perk.</Source>
-      <Dest>Při každém postupu o úrověň výše se zvýší počet zdraví a můžete si vybrat nový perk.</Dest>
+      <Dest>Při každém postupu o úrověň výše se zvýší tvé celkové zdraví a můžeš si vybrat nový perk.</Dest>
     </String>
     <String List="0" sID="03281A">
       <EDID>GeneralGameplay23DownedCompanion</EDID>
       <REC>LSCR:DESC</REC>
       <Source>If a companion goes down in combat, use a Stimpak on them to bring them back into the fight.</Source>
-      <Dest>Pokud společník v souboji padne, zpět na nohy mu pomůže jeden stimpak.</Dest>
+      <Dest>Pokud je tvůj společník v souboji přemožen, zpět na nohy a do boje mu pomůže jeden stimpak.</Dest>
     </String>
     <String List="0" sID="032885">
       <EDID>GeneralGameplay11WeaponsWorkbench</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use a Weapons Workbench to make useful modifications to most of your weapons.</Source>
-      <Dest>Ponk na úpravu zbraní umožňuje modifikovat většinu arzenálu.</Dest>
+      <Dest>Používej ponk na úpravu zbraní a vyráběj užitečné úpravy pro většinu svých zbraní.</Dest>
     </String>
     <String List="0" sID="03295B">
       <EDID>GeneralGameplay12ArmorWorkbench</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use an Armor Workbench to modify your armor and increase its resistances.</Source>
-      <Dest>Ponk na úpravu zbroje umožňuje modifikovat různé druhy zbroje a navýšit jejich odolnost.</Dest>
+      <Dest>Používej ponk na úpravu zbroje a vylepšuj své zbroje a jejich odolnosti.</Dest>
     </String>
     <String List="0" sID="03298D">
       <EDID>GeneralGameplay18Barber</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Want to change your hairstyle? Visit a barber in one of the major settlements.</Source>
-      <Dest>Chcete si změnit účes? Ve větších osadách můžete navštívit místního holiče.</Dest>
+      <Dest>Chceš si změnit účes? Ve větších osadách můžeš navštívit místního holiče.</Dest>
     </String>
     <String List="0" sID="0329C7">
       <EDID>GeneralGameplay10CookingStation</EDID>
       <REC>LSCR:DESC</REC>
       <Source>You can use a Cooking Station to create recipes from the various ingredients you find, like wild plants and meat from slain creatures.</Source>
-      <Dest>Kuchařské stanoviště umožňuje uvařit dle připravených receptů a využít tak plodů divokých rostlin či masa zabité zvěře.</Dest>
+      <Dest>Kuchařské stanoviště umožňuje vařit dle receptů z různorodých přísad, jako jsou divoké rostliny nebo maso zabitých stvoření.</Dest>
     </String>
     <String List="0" sID="032B8C">
       <EDID>GeneralGameplay21QuestTargets</EDID>
       <REC>LSCR:DESC</REC>
       <Source>If you have too many quest targets, check the Quests section of your Pip-Boy to see if you have more than one active quest. In the Miscellaneous category, you can turn each objective on or off.</Source>
-      <Dest>Máte příliš mnoho cílů na minimapě? Nahlédněte od sekce úkolů v Pit-Boyovi a zkontrolujte, kolik jich je aktivních. V kategorii Různé lze tyto cíle vypnout a zapnout.</Dest>
+      <Dest>Máš příliš mnoho cílů pro plnění úkolů? Nahlédni do sekce Úkoly v Pip-Boyovi a zkontroluj, kolik jich je aktivních. V kategorii Různé lze jednotlivé cíle vypnout a zapnout.</Dest>
     </String>
     <String List="0" sID="032BB1">
       <EDID>GlowingSeaPOIDB06Int</EDID>
       <REC>CELL:FULL</REC>
       <Source>Parking Garage</Source>
-      <Dest>Parkovací garáže</Dest>
+      <Dest>Kryté parkoviště</Dest>
     </String>
     <String List="0" sID="032BC1">
       <EDID>FloraGSWildMelonVine01</EDID>
       <REC>FLOR:FULL</REC>
       <Source>Ash Blossom</Source>
-      <Dest>Popelavý květ</Dest>
+      <Dest>Květ popelky</Dest>
     </String>
     <String List="0" sID="032C30">
       <EDID>FloraGSWildMelonVine01</EDID>
@@ -3710,85 +3711,85 @@ Faktury&#xD;
       <EDID>GeneralGameplay08</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use the Pip-Boy to tune into different radio stations. If you close the Pip-Boy while the radio is on, it will continue playing until you go back into the Pip-Boy and turn it off.</Source>
-      <Dest>Pomocí Pip-Boye lze naladit různé rádiové stanice. Ty hrají i po zavření Pip-Boye a je nutné je manuálně vypnout.</Dest>
+      <Dest>Pomocí Pip-Boye můžeš naladit různé rádiové stanice. Pokud při puštěném rádiu zavřeš Pip-Boye, stanice bude dále hrát do doby, než Pip-Boye znovu otevřeš a stanici ručně vypneš.</Dest>
     </String>
     <String List="0" sID="032D87">
       <EDID>GeneralGameplay02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Sleeping in any bed will fully restore your Health and heal any crippled body parts.</Source>
-      <Dest>Spánek v posteli obnoví celé zdraví a vyléčí zmrzačené části těla.</Dest>
+      <Dest>Spánek v jakékoliv posteli obnoví celé tvé zdraví a vyléčí zmrzačené části těla.</Dest>
     </String>
     <String List="0" sID="032DD7">
       <EDID>GeneralGameplay19ReconstructiveSurgery</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Tired of the same old look? A reconstructive surgeon can give you a whole new face...</Source>
-      <Dest>Unaveni všedností vlastního vzhledu? Plastický chirurg Vás dokáže změnit k nepoznání...</Dest>
+      <Dest>Unaveni všedností vlastního vzhledu? Plastický chirurg tě dokáže změnit k nepoznání...</Dest>
     </String>
     <String List="0" sID="032DE5">
       <EDID>GeneralGameplay01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>You can restore Health by using a Stimpak, eating food, visiting a doctor, drinking from a water source, or sleeping in a bed.</Source>
-      <Dest>Obnovit zdraví lze pomocí stimpaku, jídlem, návštěvou doktora, pitím vody a spánkem v posteli.</Dest>
+      <Dest>Můžeš obnovit své zdraví použitím stimpaku, konzumací jídla, návštěvou doktora, pitím ze zdroje vody nebo spánkem v posteli.</Dest>
     </String>
     <String List="0" sID="032DEB">
       <EDID>GiddyupButtercupFLeg</EDID>
       <REC>MISC:FULL</REC>
       <Source>Giddyup Buttercup Front Leg</Source>
-      <Dest>Napoliho přední noha</Dest>
+      <Dest>Poník Toník - přední noha</Dest>
     </String>
     <String List="0" sID="032DEC">
       <EDID>GeneralGameplay03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Drinking from a water source is always a tactical choice - you will usually restore lost Health, but raise your radiation level.</Source>
-      <Dest>Pití vody z potoka je vždy riziko - obnoví se část zdraví, ale zároveň vzroste úroveň radiace.</Dest>
+      <Dest>Pití vody z vodních zdrojů je vždy taktickou rozhodnutím - obvykle obnovíš své ztracené zdraví, ale zároveň zvýšíš svoji úroveň radiace.</Dest>
     </String>
     <String List="0" sID="032DEF">
       <EDID>GeneralGameplay04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for for a limited time.</Source>
-      <Dest>Spánek v cizí či vlastní posteli poskytne bonus "Svěží", který na omezenou dobu zvyšuje získané zkušenosti.</Dest>
+      <Dest>Spánek v pronajaté nebo vlastní posteli ti poskytne bonus "svěží", který na omezenou dobu zvyšuje získávané zkušenosti.</Dest>
     </String>
     <String List="0" sID="032DF0">
       <EDID>GeneralGameplay05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Combat too hard or too easy? You can change the game's difficulty at any time.</Source>
-      <Dest>Jsou souboje moc lehké, nebo příliš těžké? Obtížnost lze kdykoli změnit.</Dest>
+      <Dest>Jsou souboje příliš lehké nebo těžké? Herní obtížnost můžeš změnit v jakýkoliv moment.</Dest>
     </String>
     <String List="0" sID="032DF2">
       <EDID>GeneralGameplay06</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Need a real challenge? Try Survival difficulty. Health restoration will be severely reduced.</Source>
-      <Dest>Je libo výzvu? Zkuste obtížnost O Přežití. Obnova zdraví je zde značně snížena.</Dest>
+      <Dest>Je libo opravdovou výzvu? Zkuste obtížnost O Přežití. Obnova zdraví bude značně omezená.</Dest>
     </String>
     <String List="0" sID="032DF3">
       <EDID>GeneralGameplay07</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The higher the difficulty setting, the greater your chance of finding Legendary items.</Source>
-      <Dest>Čím vyšší stupeň obtížnosti, tím větší šance na nalezení legendárních předmětů.</Dest>
+      <Dest>Čím vyšší stupeň obtížnosti, tím je větší šance na nalezení legendárních předmětů.</Dest>
     </String>
     <String List="0" sID="032E13">
       <EDID>GeneralGameplay13PowerArmorStation</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use a Power Armor Station to repair and make modifications to your Power Armor.</Source>
-      <Dest>Stanice energozbroje slouží k opravám a modifikacím všech energozbrojí.</Dest>
+      <Dest>Používej stojan na úpravu energozbroje a vyráběj úpravy pro svoji energozbroj.</Dest>
     </String>
     <String List="0" sID="032E2D">
       <EDID>GeneralGameplay20ActiveQuest</EDID>
       <REC>LSCR:DESC</REC>
       <Source>When you get a new quest, it will not become active unless you have no other active quests. Check the Quests section in your Pip-Boy to see which quests are active.</Source>
-      <Dest>Nový úkol se automaticky neoznačí jako aktivní, jestliže už je nějaký takto označen. Spravovat úkoly lze v příslušné sekci Pip-Boye.</Dest>
+      <Dest>Nový úkol se automaticky neoznačí jako aktivní, jestliže už je nějaký takto označen. Spravovat aktivní úkoly lze v příslušné sekci Pip-Boye.</Dest>
     </String>
     <String List="0" sID="032E2E">
       <EDID>GeneralGameplay22Shops</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Most shops are open during daylight hours, and closed at night.</Source>
-      <Dest>Většina obchodů je ve dne otevřená a v noci zavřená.</Dest>
+      <Dest>Většina obchodů je v denních hodinách otevřená a v noci pak zavřená.</Dest>
     </String>
     <String List="0" sID="032E4B">
       <EDID>GiddyupButtercup</EDID>
       <REC>MISC:FULL</REC>
       <Source>Giddyup Buttercup</Source>
-      <Dest>Napoli</Dest>
+      <Dest>Poník Toník</Dest>
     </String>
     <String List="0" sID="032E69">
       <EDID>GlowingSeaPOIDB05Int</EDID>
@@ -3800,31 +3801,31 @@ Faktury&#xD;
       <EDID>GeneralGameplay16TalkPickpocket</EDID>
       <REC>LSCR:DESC</REC>
       <Source>To talk to a person, activate them while standing up. To attempt a pickpocket, activate them while in Sneak mode.</Source>
-      <Dest>Spustit dialog lze pouze v klasickém postoji. Naopak pokus o kapsářství umožňuje jenom pozice ve skrytu.</Dest>
+      <Dest>Promluvit si s nějakou osobou můžeš při vzpřímeném postoji. Pokusit se někoho okrást můžeš při pozici pro plížení.</Dest>
     </String>
     <String List="0" sID="032EE6">
       <EDID>GeneralGameplay15FusionCoreCheckpoints</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Pre-war military checkpoints, scattered throughout the Commonwealth, are a great place to find Fusion Cores.</Source>
-      <Dest>Předválečná vojenská kontrolní stanoviště, rozesetá po celém Commonwealthu, jsou skvělým místem pro hledání fúzních jader.</Dest>
+      <Dest>Předválečná vojenská kontrolní stanoviště, rozesetá po celém Commonwealthu, jsou skvělým místem pro nalezení fúzních jader.</Dest>
     </String>
     <String List="0" sID="033015">
       <EDID>GiddyupButtercupBody</EDID>
       <REC>MISC:FULL</REC>
       <Source>Giddyup Buttercup Body</Source>
-      <Dest>Napoliho trup</Dest>
+      <Dest>Poník Toník - tělo</Dest>
     </String>
     <String List="0" sID="033037">
       <EDID>GiddyupButtercupBLeg</EDID>
       <REC>MISC:FULL</REC>
       <Source>Giddyup Buttercup Back Leg</Source>
-      <Dest>Napoliho zadní noha</Dest>
+      <Dest>Poník Toník - zadní noha</Dest>
     </String>
     <String List="0" sID="03308B">
       <EDID>GeneralGameplay17Doctors</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Doctors, located in most settlements, provide a variety of services. They can heal all wounds (including crippled limbs), cure radiation damage and cure addiction to chems and alcohol. Most of them also sell medical supplies. </Source>
-      <Dest>Většina vesnic má vlastního doktora, kteří poskytují všemožné služby. Dokáží vyléčit veškeré rány (včetně zmrzačených končetin), zranění radiace či závislost na alkoholu a chemikáliích. Zpravidla i prodávají lékařský materiál.</Dest>
+      <Dest>Doktoři, kteří jsou k nalezení ve většině osad, poskytují všemožné služby. Dokáží vyléčit veškeré rány (včetně zmrzačených končetin), poškození radiací nebo vyléčit závislost alkoholu a chemikáliích. Většina z nich také prodává zdravotní materiál.</Dest>
     </String>
     <String List="0" sID="033139">
       <EDID>GhoulRace</EDID>
@@ -3908,7 +3909,7 @@ Faktury&#xD;
       <EDID>FortifyWaterBreathing</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Can breathe underwater.</Source>
-      <Dest>Can breathe underwater.</Dest>
+      <Dest>Možnost dýchat pod vodou.</Dest>
     </String>
     <String List="0" sID="033354">
       <EDID>GhoulRace</EDID>
@@ -3986,7 +3987,7 @@ Faktury&#xD;
       <EDID>FortifyXPBonusFoodPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Food XP Bonus</Source>
-      <Dest>Jídlo přidávající bonus k ZK</Dest>
+      <Dest>Jídlo pro bonus ke ZK</Dest>
     </String>
     <String List="0" sID="03354A">
       <EDID>GhoulRace</EDID>
@@ -4100,7 +4101,7 @@ Faktury&#xD;
       <EDID>FortifyXPBonusFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Food: Fortify XP Bonus</Source>
-      <Dest>Food: Fortify XP Bonus</Dest>
+      <Dest>Jídlo: posílení bonusu ke ZK</Dest>
     </String>
     <String List="0" sID="0338EE">
       <EDID>GhoulRace</EDID>
@@ -4238,13 +4239,13 @@ Faktury&#xD;
       <EDID>GeneralGameplay24Resting</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Need to pass some some time in a hurry? Using any piece of unowned furniture will allow you to "Wait" for up to 24 hours.</Source>
-      <Dest>Nutně potřebujete zabít čas? Jakýkoli kus opuštěného nábytku Vám pomůže "Vyčkat" až 24 hodin.</Dest>
+      <Dest>Nutně potřebuješ zabít čas? Jakýkoli kus opuštěného nábytku ti pomůže "vyčkat" až 24 hodin.</Dest>
     </String>
     <String List="0" sID="033DC8">
       <EDID>GlowingLootDrop</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Glowing Loot Drop</Source>
-      <Dest>Zářící kořist</Dest>
+      <Dest>Glowing Loot Drop</Dest>
     </String>
     <String List="0" sID="033EBC">
       <EDID>GammaGunEffect</EDID>
@@ -4262,9 +4263,9 @@ Faktury&#xD;
       <EDID>FoodPackInstitute</EDID>
       <REC>ALCH:FULL</REC>
       <Source>Institute Food Packet</Source>
-      <Dest>Svačinový balíček z Institutu</Dest>
+      <Dest>Svačinový balíček Institutu</Dest>
     </String>
-    <String List="0" sID="0340A7" Partial="1">
+    <String List="0" sID="0340A7">
       <EDID>GammaGun</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>MS09JackRadiation</Source>
@@ -4274,9 +4275,9 @@ Faktury&#xD;
       <EDID>FortifyResistEnergyFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Energy Resist Food</Source>
-      <Dest>Fortify Energy Resist Food</Dest>
+      <Dest>Jídlo pro posílení odolnosti vůči chladu</Dest>
     </String>
-    <String List="0" sID="0343DD" Partial="1">
+    <String List="0" sID="0343DD">
       <EDID>GammaGun</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>MS09ForcePush</Source>
@@ -4286,13 +4287,13 @@ Faktury&#xD;
       <EDID>GeneralGameplay25DangerousSouth</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Commonwealth is a dangerous place, but tends to get considerably more dangerous the farther south you travel...</Source>
-      <Dest>Commonwealth je nebezpečné místo a směrem na jih se ohrožení výrazně zvyšuje...</Dest>
+      <Dest>Commonwealth je nebezpečné místo a čím více cestuješ na jih, tím se nebezpečí zvyšuje...</Dest>
     </String>
     <String List="0" sID="03460C">
       <EDID>GeneralGameplay26CookedMeat</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The meat obtained from many of the Wasteland's animals can be specially prepared at Cooking Stations, and turned into food items that can heal radiation damage and provide unique bonuses.</Source>
-      <Dest>Maso ze zvířat z Pustiny lze upravit v Kuchařském stanovišti a proměnit ho v pokrmy léčící zranění z radiace a poskytující různorodé bonusy.</Dest>
+      <Dest>Maso ze zvířat z Pustiny lze upravit v kuchařském stanovišti a proměnit ho v pokrmy léčící zranění z radiace a poskytující unikátní bonusy.</Dest>
     </String>
     <String List="0" sID="03465C">
       <EDID>Green</EDID>
@@ -4324,13 +4325,13 @@ Faktury&#xD;
       <Source>Standard Epic</Source>
       <Dest>Standardně epický</Dest>
     </String>
-    <String List="0" sID="03472B" Partial="1">
+    <String List="0" sID="03472B">
       <EDID>GammaGun</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>MS09ForcePush Epic</Source>
       <Dest>MS09ForcePush Epic</Dest>
     </String>
-    <String List="0" sID="0347C1" Partial="1">
+    <String List="0" sID="0347C1">
       <EDID>GammaGun</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>MS09JackRadiation Epic</Source>
@@ -4352,7 +4353,7 @@ Faktury&#xD;
       <EDID>GammaGun</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Standard Epic - Dish Long</Source>
-      <Dest>Standardně epické - Prodloužení hlavně</Dest>
+      <Dest>Standardně epické - velký talíř</Dest>
     </String>
     <String List="0" sID="034B30">
       <EDID>GreenHsFlowerPot_Static01</EDID>
@@ -4370,7 +4371,7 @@ Faktury&#xD;
       <EDID>GlowingOneHealingRadiationBurst</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Burst</Source>
-      <Dest>Radiation Burst</Dest>
+      <Dest>Záblesk radiace</Dest>
     </String>
     <String List="0" sID="034EDC">
       <EDID>GaussRifle</EDID>
@@ -4394,37 +4395,37 @@ Faktury&#xD;
       <EDID>GRailRamp01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="03506C">
       <EDID>GlowingSeaPlayerRadiationOvercastEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Glowing Sea Radiation</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="035073">
       <EDID>GRailCurveRampR01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035081">
       <EDID>GRailCurveRampR01SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035087">
       <EDID>GRailStrShort01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0350A9">
       <EDID>GRailRamp02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0350C2">
       <EDID>GhoulChildRace</EDID>
@@ -4436,7 +4437,7 @@ Faktury&#xD;
       <EDID>GRailRamp01SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0350D3">
       <EDID>Giggle</EDID>
@@ -4448,127 +4449,127 @@ Faktury&#xD;
       <EDID>GlowingSeaPlayerRadiationRadStorm</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Radiace Svítícího moře</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="0350FC">
       <EDID>GRailEnd01Haz</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035112">
       <EDID>GRailEnd01R</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035134">
       <EDID>GRailRamp02SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="03514E">
       <EDID>GlowingSeaPlayerRadiationFoggy</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Radiace Svítícího moře</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="03517A">
       <EDID>GRailRWCurveOut768Up128L</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0351D2">
       <EDID>GRailStr01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0351F8">
       <EDID>GRailCurveShortR01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035202">
       <EDID>GRailRWCustomBridgeEndL</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="03520D">
       <EDID>GRailCurveRampL02SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="03521D">
       <EDID>GRailEnd02R</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035280">
       <EDID>GRailStr01SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="03528C">
       <EDID>GRailCurveRampL01SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0352C9">
       <EDID>GRailCurveRampL01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0352CB">
       <EDID>GRailPiece01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035390">
       <EDID>GRailEnd01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0353DB">
       <EDID>GRailStrShort01SC01</EDID>
       <REC>SCOL:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0353E3">
       <EDID>GlowingSeaPlayerRadiationFoggyEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Glowing Sea Radiation</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="0353EA">
       <EDID>FXEnchFireHitMolotov</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Ench Molotov</Source>
-      <Dest>Vylepšený molotov</Dest>
+      <Dest>Ench Molotov</Dest>
     </String>
     <String List="0" sID="03545F">
       <EDID>GRailRWCurveOut1280Up176</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035495">
       <EDID>GlowingSeaPlayerRadiationOvercast</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Glowing Sea Radiation</Source>
-      <Dest>Radiace Svítícího moře</Dest>
+      <Dest>Radiace Zářícího moře</Dest>
     </String>
     <String List="0" sID="0354AE">
       <EDID>FXFireHitVisualsMolotov</EDID>
@@ -4580,43 +4581,43 @@ Faktury&#xD;
       <EDID>GRailCurveRampL02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0354BE">
       <EDID>GRailEnd02Haz</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="0354D9">
       <EDID>GRailEnd02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Guard Rail</Source>
-      <Dest>Stážce železnice</Dest>
+      <Dest>Svodidla</Dest>
     </String>
     <String List="0" sID="035513">
       <EDID>FortifyAimStability</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fortify Aim Stability</Source>
-      <Dest>Fortify Aim Stability</Dest>
+      <Dest>Posílení přesnosti míření</Dest>
     </String>
     <String List="0" sID="035696">
       <EDID>FortifyXPBonusFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+2% XP gain for 2 hours.</Source>
-      <Dest>+2% XP gain for 2 hours.</Dest>
+      <Dest>+2% ke ZK po 2 hodiny.</Dest>
     </String>
     <String List="0" sID="0356F3">
       <EDID>GrapeMentats</EDID>
       <REC>ALCH:DNAM</REC>
       <Source>all Mentats chems</Source>
-      <Dest>všechny Mentaty</Dest>
+      <Dest>všech typech Mentatů</Dest>
     </String>
     <String List="0" sID="0356FC">
       <EDID>FortifyResistRadsFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;Mag&gt; Radiation Resistance.</Source>
-      <Dest>+&lt;Mag&gt; Radiation Resistance.</Dest>
+      <Dest>+&lt;Mag&gt; k odolnosti vůči radiaci.</Dest>
     </String>
     <String List="0" sID="035763">
       <EDID>GhoulChildRace</EDID>
@@ -4628,397 +4629,397 @@ Faktury&#xD;
       <EDID>FortifyPerceptionPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Perception</Source>
-      <Dest>Psycho: Fortify Perception</Dest>
+      <Dest>Psycho: posílení vnímání</Dest>
     </String>
     <String List="0" sID="03576E">
       <EDID>FortifyDamageResistMedX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>MedX: Fortify Damage Resistance</Source>
-      <Dest>MedX: Fortify Damage Resistance</Dest>
+      <Dest>MedX: posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="03576F">
       <EDID>FortifyCritChance25xOverdrive</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Overdrive: Fortify Crit Chance +25%</Source>
-      <Dest>Overdrive: Fortify Crit Chance +25%</Dest>
+      <Dest>Rychloběh: posílení kritické šance +25 %</Dest>
     </String>
     <String List="0" sID="035770">
       <EDID>FortifyRadHealthMaxPsycho</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="035771">
       <EDID>FortifyHealthBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Health</Source>
-      <Dest>Buff: Fortify Health</Dest>
+      <Dest>Buff: posílení zdraví</Dest>
     </String>
     <String List="0" sID="035772">
       <EDID>FortifyVATSAccuracyMentats</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+10% VATS Accuracy</Source>
-      <Dest>+10% VATS Accuracy</Dest>
+      <Dest>+10 % k VATS přesnosti</Dest>
     </String>
     <String List="0" sID="035773">
       <EDID>FortifyCharismaDaytripper</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Strength</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="035774">
       <EDID>FortifyRadHealthMaxBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Rad Health Max</Source>
-      <Dest>Buff: Fortify Rad Health Max</Dest>
+      <Dest>Buff: posílení radů max. zdraví</Dest>
     </String>
     <String List="0" sID="035777">
       <EDID>FortifyActionPointRateJet</EDID>
       <REC>MGEF:FULL</REC>
       <Source>+AP Regen</Source>
-      <Dest>+AP Regen</Dest>
+      <Dest>+AP regen</Dest>
     </String>
     <String List="0" sID="035778">
       <EDID>FortifyLuckXCell</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Luck</Source>
-      <Dest>+&lt;mag&gt; Luck</Dest>
+      <Dest>+&lt;mag&gt; ke štěstí</Dest>
     </String>
     <String List="0" sID="03577A">
       <EDID>FortifyIntelligenceXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Intelligence</Source>
-      <Dest>XCell: Fortify Intelligence</Dest>
+      <Dest>XCell: posílení inteligence</Dest>
     </String>
     <String List="0" sID="03577C">
       <EDID>FortifyCharismaXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Charisma</Source>
-      <Dest>XCell: Fortify Charisma</Dest>
+      <Dest>XCell: posílení charismatu</Dest>
     </String>
     <String List="0" sID="03577D">
       <EDID>FortifyRadHealthMaxBuff</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="03577F">
       <EDID>FortifyCharismaXCell</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Strength</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="035780">
       <EDID>FortifyCharismaMentats</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Strength</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="035781">
       <EDID>FortifyLuckXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Luck</Source>
-      <Dest>XCell: Fortify Luck</Dest>
+      <Dest>XCell: posílení štěstí</Dest>
     </String>
     <String List="0" sID="035782">
       <EDID>FortifyLuckDaytripper</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Luck</Source>
-      <Dest>+&lt;mag&gt; Luck</Dest>
+      <Dest>+&lt;mag&gt; ke štěstí</Dest>
     </String>
     <String List="0" sID="035783">
       <EDID>FortifyActionPointsJet</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="035784">
       <EDID>FortifyDamageResistPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Damage Resistance</Source>
-      <Dest>Psycho: Fortify Damage Resistance</Dest>
+      <Dest>Psycho: posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="035785">
       <EDID>FortifyBarterMentats</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Buy for 10% lower, Sell for 10% Higher</Source>
-      <Dest>Buy for 10% lower, Sell for 10% Higher</Dest>
+      <Dest>Nakupuj o 10 % levněji, prodávej o 10 % dráže</Dest>
     </String>
     <String List="0" sID="035786">
       <EDID>FortifyPerceptionBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Perception</Source>
-      <Dest>Buff: Fortify Perception</Dest>
+      <Dest>Buff: posílení vnímání</Dest>
     </String>
     <String List="0" sID="035787">
       <EDID>FortifyCharismaMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Mentats: Fortify Charisma</Source>
-      <Dest>Mentats: Fortify Charisma</Dest>
+      <Dest>Mentaty: posílení charismatu</Dest>
     </String>
     <String List="0" sID="035788">
       <EDID>FortifyBarterMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buy for 10% lower, Sell for 10% Higher</Source>
-      <Dest>Buy for 10% lower, Sell for 10% Higher</Dest>
+      <Dest>Nakupuj o 10 % levněji, prodávej o 10 % dráže</Dest>
     </String>
     <String List="0" sID="035789">
       <EDID>FortifyStrengthXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Strength</Source>
-      <Dest>XCell: Fortify Strength</Dest>
+      <Dest>XCell: posílení síly</Dest>
     </String>
     <String List="0" sID="03578B">
       <EDID>FortifyPerceptionDaddyO</EDID>
       <REC>MGEF:FULL</REC>
       <Source>DaddyO: Fortify Perception</Source>
-      <Dest>DaddyO: Fortify Perception</Dest>
+      <Dest>Taťkova šleha: posílení vnímání</Dest>
     </String>
     <String List="0" sID="03578C">
       <EDID>FortifyStrengthPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Strength</Source>
-      <Dest>Psycho: Fortify Strength</Dest>
+      <Dest>Psycho: posílení síly</Dest>
     </String>
     <String List="0" sID="03578D">
       <EDID>FortifyAgilityXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Agility</Source>
-      <Dest>XCell: Fortify Agility</Dest>
+      <Dest>XCell: posílení hbitosti</Dest>
     </String>
     <String List="0" sID="035790">
       <EDID>FortifyActionPointsPsycho</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="035791">
       <EDID>FortifyPerceptionBuzzBites</EDID>
       <REC>MGEF:FULL</REC>
       <Source>BuzzBites: Fortify Perception</Source>
-      <Dest>BuzzBites: Fortify Perception</Dest>
+      <Dest>Bzukoblížky: posílení vnímání</Dest>
     </String>
     <String List="0" sID="035792">
       <EDID>FortifyCharismaDaytripper</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Daytripper: Fortify Charisma</Source>
-      <Dest>Daytripper: Fortify Charisma</Dest>
+      <Dest>Výletník: posílení charismatu</Dest>
     </String>
     <String List="0" sID="035793">
       <EDID>FortifyEnduranceBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Endurance</Source>
-      <Dest>Buff: Fortify Endurance</Dest>
+      <Dest>Buff: posílení odolnosti</Dest>
     </String>
     <String List="0" sID="035795">
       <EDID>FortifyLuckDaytripper</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Daytripper: Fortify Luck</Source>
-      <Dest>Daytripper: Fortify Luck</Dest>
+      <Dest>Výletník: posílení štěstí</Dest>
     </String>
     <String List="0" sID="035796">
       <EDID>FortifyEnduranceXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Endurance</Source>
-      <Dest>XCell: Fortify Endurance</Dest>
+      <Dest>XCell: posílení odolnosti</Dest>
     </String>
     <String List="0" sID="035797">
       <EDID>FortifyActionPointsBuff</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="035799">
       <EDID>FortifyIntelligenceDaddyO</EDID>
       <REC>MGEF:FULL</REC>
       <Source>DaddyO: Fortify Intelligence</Source>
-      <Dest>DaddyO: Fortify Intelligence</Dest>
+      <Dest>Taťkova šleha: posílení inteligence</Dest>
     </String>
     <String List="0" sID="03579A">
       <EDID>FortifyHealthBuff</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="03579C">
       <EDID>FortifyAgilityXCell</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Agility</Source>
-      <Dest>+&lt;mag&gt; Agility</Dest>
+      <Dest>+&lt;mag&gt; k hbitosti</Dest>
     </String>
     <String List="0" sID="03579D">
       <EDID>FortifyActionPointsPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Action Points</Source>
-      <Dest>Psycho: Fortify Action Points</Dest>
+      <Dest>Psycho: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="03579E">
       <EDID>FortifyRadHealthMaxPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Rad Health Max</Source>
-      <Dest>Psycho: Fortify Rad Health Max</Dest>
+      <Dest>Psycho: posílení radů max. zdraví</Dest>
     </String>
     <String List="0" sID="03579F">
       <EDID>FortifyPerceptionMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Mentats: Fortify Perception</Source>
-      <Dest>Mentats: Fortify Perception</Dest>
+      <Dest>Mentaty: posílení vnímání</Dest>
     </String>
     <String List="0" sID="0357A0">
       <EDID>FortifyPerceptionXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>XCell: Fortify Perception</Source>
-      <Dest>XCell: Fortify Perception</Dest>
+      <Dest>XCell: posílení vnímání</Dest>
     </String>
     <String List="0" sID="0357A2">
       <EDID>FortifyActionPointsBuzzBites</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max AP</Source>
-      <Dest>Max AP</Dest>
+      <Dest>Max. AB</Dest>
     </String>
     <String List="0" sID="0357A3">
       <EDID>FortifyDamageResistMedX</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>DMG Resist</Source>
-      <Dest>DMG Resist</Dest>
+      <Dest>Odoln. v. ZRA</Dest>
     </String>
     <String List="0" sID="0357A4">
       <EDID>FortifyHealthPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Health</Source>
-      <Dest>Psycho: Fortify Health</Dest>
+      <Dest>Psycho: posílení zdraví</Dest>
     </String>
     <String List="0" sID="0357A5">
       <EDID>FortifyStrengthBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Strength</Source>
-      <Dest>Buff: Fortify Strength</Dest>
+      <Dest>Buff: posílení síly</Dest>
     </String>
     <String List="0" sID="0357A6">
       <EDID>FortifyActionPointsBuff</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Buff: Fortify Action Points</Source>
-      <Dest>Buff: Fortify Action Points</Dest>
+      <Dest>Buff: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="0357A7">
       <EDID>FortifyDamageResistPsycho</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>DMG Resist</Source>
-      <Dest>DMG Resist</Dest>
+      <Dest>Odoln. v. ZRA</Dest>
     </String>
     <String List="0" sID="0357A8">
       <EDID>FortifyEndurancePsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Psycho: Fortify Endurance</Source>
-      <Dest>Psycho: Fortify Endurance</Dest>
+      <Dest>Psycho: posílení odolnosti</Dest>
     </String>
     <String List="0" sID="0357A9">
       <EDID>FortifyActionPointsBuzzBites</EDID>
       <REC>MGEF:FULL</REC>
       <Source>BuzzBites: Fortify Action Points</Source>
-      <Dest>BuzzBites: Fortify Action Points</Dest>
+      <Dest>Bzukoblížky: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="0357AA">
       <EDID>FortifyVATSAccuracyMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Mentats: Fortify VATS Accuracy</Source>
-      <Dest>Mentats: Fortify VATS Accuracy</Dest>
+      <Dest>Mentaty: posílení VATS přesnosti</Dest>
     </String>
     <String List="0" sID="0357AB">
       <EDID>FortifyCritChance25xOverdrive</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+25% Critical Chance</Source>
-      <Dest>+25% Critical Chance</Dest>
+      <Dest>+25 % k šanci kritického zásahu</Dest>
     </String>
     <String List="0" sID="0357AD">
       <EDID>FortifyActionPointRateJet</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Increased Action Points recovery rate</Source>
-      <Dest>Increased Action Points recovery rate</Dest>
+      <Dest>Zrychlená obnova akčních bodů</Dest>
     </String>
     <String List="0" sID="0357AE">
       <EDID>FortifyActionPointsJet</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Jet: Fortify Action Points</Source>
-      <Dest>Jet: Fortify Action Points</Dest>
+      <Dest>Jet: posílení akčních bodů</Dest>
     </String>
     <String List="0" sID="0357AF">
       <EDID>FortifyIntelligenceMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Mentats: Fortify Intelligence</Source>
-      <Dest>Mentats: Fortify Intelligence</Dest>
+      <Dest>Mentaty: posílení inteligence</Dest>
     </String>
     <String List="0" sID="0357B0">
       <EDID>FortifyHealthPsycho</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Max HP</Source>
-      <Dest>Max HP</Dest>
+      <Dest>Max. BZ</Dest>
     </String>
     <String List="0" sID="0357B7">
       <EDID>FortifyMeleeDamageFury</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Melee Damage +50%</Source>
-      <Dest>Melee Damage +50%</Dest>
+      <Dest>Poškození v boji zblízka +50 %</Dest>
     </String>
     <String List="0" sID="0357B8">
       <EDID>FortifySneakAttackBonusCalmex</EDID>
       <REC>MGEF:FULL</REC>
       <Source>+2x Sneak Attack Multiplier</Source>
-      <Dest>+2x Sneak Attack Multiplier</Dest>
+      <Dest>+2x násobitel pro útok z krytu</Dest>
     </String>
     <String List="0" sID="0357C4">
       <EDID>FortifyDamageResistFury</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>DMG Resist</Source>
-      <Dest>DMG Resist</Dest>
+      <Dest>Odoln. v. ZRA</Dest>
     </String>
     <String List="0" sID="0357C8">
       <EDID>FortifyMeleeDamageFury</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Increases Melee Damage by 50%</Source>
-      <Dest>Increases Melee Damage by 50%</Dest>
+      <Dest>Zvyšuje poškození v boji zblízka o 50 %</Dest>
     </String>
     <String List="0" sID="0357CA">
       <EDID>FortifyDamageResistFury</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Fury: Fortify Damage Resistance</Source>
-      <Dest>Fury: Fortify Damage Resistance</Dest>
+      <Dest>Běs: posílení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="0357D1">
       <EDID>FortifyPerceptionCalmex</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Calmex: Fortify Perception</Source>
-      <Dest>Calmex: Fortify Perception</Dest>
+      <Dest>Calmex: posílení vnímání</Dest>
     </String>
     <String List="0" sID="0357D2">
       <EDID>FortifySneakAttackBonusCalmex</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+2x Sneak Attack Multiplier</Source>
-      <Dest>+2x Sneak Attack Multiplier</Dest>
+      <Dest>+2x násobitel pro útok z krytu</Dest>
     </String>
     <String List="0" sID="0357D4">
       <EDID>FortifyResistRadsRadX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>RadX: Radiation Resistance</Source>
-      <Dest>RadX: Radiation Resistance</Dest>
+      <Dest>RadX: odolnost vůči radiaci</Dest>
     </String>
     <String List="0" sID="0357D9">
       <EDID>FortifyAgilityCalmex</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Calmex: Fortify Agility</Source>
-      <Dest>Calmex: Fortify Agility</Dest>
+      <Dest>Calmex: posílení hbitosti</Dest>
     </String>
     <String List="0" sID="0357DC">
       <EDID>FortifyAgilityCalmex</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Agility</Source>
-      <Dest>+&lt;mag&gt; Agility</Dest>
+      <Dest>+&lt;mag&gt; k hbitosti</Dest>
     </String>
     <String List="0" sID="03603A">
       <EDID>GeneralGameplay27SkullEnemies</EDID>
       <REC>LSCR:DESC</REC>
       <Source>If there's a skull displayed next to an enemy's name, it means they're several levels higher than you, and may be difficult to defeat in combat. In such cases, running away and returning when you're stronger might be the wisest course of action.</Source>
-      <Dest>Ikonka lebky vedle jména nepřítele indikuje o mnoho vyšší úroveň než je Vaše, což může vést k velmi nerovnému souboji. Občas se vyplatí vzít nohy na ramena a vrátit se o něco později.</Dest>
+      <Dest>Ikonka lebky vedle jména nepřítele indikuje o mnoho vyšší úroveň než je tvoje, což může vést k velmi nerovnému souboji. V takových případech je moudré vzít nohy na ramena a vrátit se, až budeš o něco silnější.</Dest>
     </String>
     <String List="0" sID="036299">
       <EDID>GhoulRace</EDID>
@@ -5042,7 +5043,7 @@ Faktury&#xD;
       <EDID>GhoulRace</EDID>
       <REC id="25">RACE:TTGP</REC>
       <Source>Spots2</Source>
-      <Dest>Pupínky2</Dest>
+      <Dest>Fleky2</Dest>
     </String>
     <String List="0" sID="03629E">
       <EDID>GhoulRace</EDID>
@@ -5066,7 +5067,7 @@ Faktury&#xD;
       <EDID>GhoulRace</EDID>
       <REC id="11">RACE:TTGP</REC>
       <Source>Spots2</Source>
-      <Dest>Pupínky2</Dest>
+      <Dest>Fleky2</Dest>
     </String>
     <String List="0" sID="0362A3">
       <EDID>GhoulRace</EDID>
@@ -5126,7 +5127,7 @@ Faktury&#xD;
       <EDID>GhoulRace</EDID>
       <REC id="10">RACE:TTGP</REC>
       <Source>Spots1</Source>
-      <Dest>Pupínky1</Dest>
+      <Dest>Fleky1</Dest>
     </String>
     <String List="0" sID="0362B4">
       <EDID>GhoulRace</EDID>
@@ -5156,7 +5157,7 @@ Faktury&#xD;
       <EDID>GhoulRace</EDID>
       <REC id="24">RACE:TTGP</REC>
       <Source>Spots1</Source>
-      <Dest>Pupínky1</Dest>
+      <Dest>Fleky1</Dest>
     </String>
     <String List="0" sID="0362BA">
       <EDID>GhoulRace</EDID>
@@ -5192,37 +5193,49 @@ Faktury&#xD;
       <EDID>GeneralGameplay28WeaponRename</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Grown attached to a weapon? Give it a custom name at any Weapons Workbench.</Source>
-      <Dest>Oblíbil jste si nějakou zbraň? Na jakémkoli Ponku na úpravu zbraní ji můžete libovolně pojmenovat.</Dest>
+      <Dest>Oblíbil jsi si nějakou zbraň? Na jakémkoli ponku na úpravu zbraní ji můžeš dát vlastní jméno.</Dest>
     </String>
     <String List="1" sID="013723">
       <EDID>Ghoulish01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Sure, you're still human - on the outside! Radiation now regenerates your lost Health.</Source>
-      <Dest>Ano, stále jste člověkem - vizuálně! Radiace regeneruje ztracené zdraví.</Dest>
+      <Dest>Ano, stále jsi člověk - navenek! Radiace nyní obnovuje tvé ztracené zdraví.</Dest>
     </String>
-    <String List="1" sID="014933" Partial="1">
+    <String List="1" sID="014933">
       <EDID>FollowerState</EDID>
       <REC>AVIF:DESC</REC>
       <Source>See globals "iFollower_Com_&lt;command&gt;" and the FollowersScript</Source>
       <Dest>See globals "iFollower_Com_&lt;command&gt;" and the FollowersScript</Dest>
     </String>
+    <String List="1" sID="0162F5">
+      <EDID>GorillaRace</EDID>
+      <REC>RACE:DESC</REC>
+      <Source>standing left attack</Source>
+      <Dest>standing left attack</Dest>
+    </String>
     <String List="1" sID="016BE0">
       <EDID>FuseBox_Notification</EDID>
       <REC>MESG:DESC</REC>
       <Source>This requires a Power Relay Coil.</Source>
-      <Dest>Vyžaduje cívku elektrického relé</Dest>
+      <Dest>Musíš nainstalovat cívku elektrického relé.</Dest>
     </String>
     <String List="1" sID="016DAC">
       <EDID>FourLeafClover01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Feeling lucky? You should! Each hit in V.A.T.S. has a chance of filling your Critical meter.</Source>
-      <Dest>Myslíte, že se Vám štěstí lepí na paty? Je to pravda! Každý zásah v režimu VATS může naplnit schopnost kritického útoku.</Dest>
+      <Dest>Cítíš, jak se na tebe usmálo štěstí? Je to tak! Každý zásah v režimu V.A.T.S. má šanci zcela naplnit schopnost kritického útoku.</Dest>
     </String>
     <String List="1" sID="017CD0">
       <EDID>FollowersCompanionMenuTactics</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické menu dočasného společníka</Dest>
+      <Dest>Taktické nabídka dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="0180DD">
+      <EDID>GunNut03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 3 gun mods.</Source>
+      <Dest>Získáváš přístup k úpravám zbraní 3. úrovně.</Dest>
     </String>
     <String List="1" sID="01A2E5">
       <EDID>GateLocked</EDID>
@@ -5234,196 +5247,369 @@ Faktury&#xD;
       <EDID>FollowersCompanionMenuWait</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické menu dočasného společníka</Dest>
+      <Dest>Taktické nabídka dočasného společníka</Dest>
     </String>
     <String List="1" sID="01D1F2">
       <EDID>FollowersCompanionMenuMain</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Command Menu</Source>
-      <Dest>Velící menu dočasného společníka</Dest>
+      <Dest>Příkazová nabídka dočasného společníka</Dest>
     </String>
     <String List="1" sID="01D39A">
       <EDID>FollowersCompanionMenuFollow</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické menu dočasného společníka</Dest>
+      <Dest>Taktické nabídka dočasného společníka</Dest>
+    </String>
+    <String List="1" sID="01D988">
+      <EDID>Gunslinger02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic pistols now do 40% more damage and have increased range.</Source>
+      <Dest>Neautomatické pistole nyní působí o 40 % větší poškození a mají delší dostřel.</Dest>
+    </String>
+    <String List="1" sID="01D98A">
+      <EDID>Gunslinger03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic pistols now do 60% more damage and range is increased even farther.</Source>
+      <Dest>Neautomatické pistole nyní působí o 60 % větší poškození a mají ještě delší dostřel.</Dest>
+    </String>
+    <String List="1" sID="01D9BE">
+      <EDID>GunNut01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Shoot first, kill first, with access to base level and Rank 1 gun mods.</Source>
+      <Dest>Střílej první, zabij první... s přístupem ke úpravám zbraní základní a 1. úrovně.</Dest>
+    </String>
+    <String List="1" sID="01D9C1">
+      <EDID>GunNut02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 2 gun mods.</Source>
+      <Dest>Získáváš přístup k úpravám zbraní 2. úrovně.</Dest>
+    </String>
+    <String List="1" sID="01DA30">
+      <EDID>GunFu01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You've learned to apply ancient martial arts to gunplay! Do 25% more damage to your second V.A.T.S. target and beyond.</Source>
+      <Dest>Naučil jsi se uplatnit starodávná bojová umění na hrátky se střelnými zbraněmi! Působíš o 25 % větší poškození druhému cíli v režimu V.A.T.S. a cílům po něm následujících.</Dest>
+    </String>
+    <String List="1" sID="01DA5D">
+      <EDID>GrimReaperSprint01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Death becomes you! Any kill in V.A.T.S. has a 15% chance to restore all Action Points. </Source>
+      <Dest>Smrt je s tebou! Jakékoliv zabití v režimu V.A.T.S. má 15% šanci obnovit všechny akční body.</Dest>
+    </String>
+    <String List="1" sID="01DAC5">
+      <EDID>Gunslinger04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic pistols now do 80% more damage and their attacks can disarm opponents.</Source>
+      <Dest>Neautomatické pistole nyní působí o 80 % větší poškození a jejich výstřel může odzbrojit nepřítele.</Dest>
     </String>
     <String List="1" sID="01DBDD">
       <EDID>GenericBrawlPreventLimbDamage</EDID>
       <REC>PERK:DESC</REC>
       <Source>Limb damage is reduced by 100%.</Source>
-      <Dest>Poškození končetin je sníženo o 100%.</Dest>
+      <Dest>Poškození končetin je sníženo o 100 %.</Dest>
+    </String>
+    <String List="1" sID="01DC4F">
+      <EDID>GunNut04</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You gain access to Rank 4 gun mods.</Source>
+      <Dest>Získáváš přístup k úpravám zbraní 4. úrovně.</Dest>
     </String>
     <String List="1" sID="01E943">
       <EDID>GenericBrawlWinner</EDID>
       <REC>AVIF:DESC</REC>
       <Source>add to NPC if they beat player in brawl</Source>
-      <Dest>přidat k NPC pokud porazí hráče v bitce</Dest>
+      <Dest>add to NPC if they beat player in brawl</Dest>
     </String>
     <String List="1" sID="02185E">
       <EDID>FortuneFinder01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You've learned to discover the Wasteland's hidden wealth, and find more bottle caps in containers.</Source>
-      <Dest>Naučili jste se, jak objevit skrytá bohatství Pustiny a získat více zátek z beden.</Dest>
+      <Dest>Umíš objevovat skrytá bohatství Pustiny a z beden získáváš váce zátek.</Dest>
     </String>
     <String List="1" sID="022920">
       <EDID>FollowerForceGreetOn</EDID>
       <REC>AVIF:DESC</REC>
       <Source>used by FollowersForcegreetPackage - set to 1 to turn on forcegreet&#xD;
 </Source>
-      <Dest>využívá FollowersForcegreetPackage - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+      <Dest>used by FollowersForcegreetPackage - set to 1 to turn on forcegreet&#xD;
+</Dest>
+    </String>
+    <String List="1" sID="023F99">
+      <EDID>Gunslinger01</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Channel the spirit of the Old West! Non-automatic pistols do 20% more damage.</Source>
+      <Dest>Probuď v sobě ducha divokého západu! Neautomatické pistole působí o 20 % větší poškození.</Dest>
     </String>
     <String List="1" sID="02573B">
       <EDID>ForceGreetOn</EDID>
       <REC>AVIF:DESC</REC>
       <Source>used by ForceGreetPatrolConditional - set to 1 to turn on forcegreet&#xD;
 </Source>
-      <Dest>využívá ForceGreetPatrolConditional - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+      <Dest>used by ForceGreetPatrolConditional - set to 1 to turn on forcegreet&#xD;
+</Dest>
     </String>
     <String List="1" sID="025CA0">
       <EDID>GenericBrawlLoser</EDID>
       <REC>AVIF:DESC</REC>
       <Source>add to NPC if they lose to player in brawl</Source>
-      <Dest>přidat k NPC pokud jej hráč porazí v bitce</Dest>
+      <Dest>add to NPC if they lose to player in brawl</Dest>
     </String>
-    <String List="1" sID="027A85" Partial="1">
+    <String List="1" sID="027A85">
       <EDID>Followers</EDID>
       <REC>QUST:CNAM</REC>
       <Source>Preston Debug</Source>
       <Dest>Preston Debug</Dest>
     </String>
+    <String List="1" sID="028E45">
+      <EDID>GlowingSeaPOIDB02Note</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face='$HandwrittenFont'&gt;&#xD;
+Mrs. Hart&#xD;
+&#xD;
+Since I won't be here for tonight's service I've hidden the key to the safe underneath the pew behind you, if you happen to need access to it for whatever reason. Thank you for handling the office duties tonight. Keep the key with you and I'll get it from you next Wednesday.&#xD;
+&#xD;
+Thanks again,&#xD;
+Mrs. Kline</Source>
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
+Paní Hartová,&#xD;
+&#xD;
+jelikož zde nebudu na dnešní večerní bohoslužbu, schovala jsem pod lavicí za Vámi klíč k sejfu, pokud do něj z jakéhokoliv důvodu budete potřebovat přístup. Děkuji za obstarání dnešního večera. Klíč si nechte u sebe a já si ho vyzvednu příští středu.&#xD;
+&#xD;
+Ještě jednou děkuji,&#xD;
+Paní Klineová</Dest>
+    </String>
+    <String List="1" sID="028E70">
+      <EDID>GlowingSeaPOIDB01_CargoManifest</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face='$MAIN_Font' size='20'&gt;&#xD;
+#K51-0212&#xD;
+10/23/77&#xD;
+Skylanes 1665&#xD;
+&#xD;
+Supplier: A.H. - Washington&#xD;
+Destination: J.M. - Boston&#xD;
+&#xD;
+Cargo:&#xD;
+&lt;Token.ValueInt=Count0&gt; &lt;Token.Title=Dash0&gt; &lt;Token.Title=Item0&gt;&#xD;
+&lt;Token.ValueInt=Count1&gt; &lt;Token.Title=Dash1&gt; &lt;Token.Title=Item1&gt;&#xD;
+&lt;Token.ValueInt=Count2&gt; &lt;Token.Title=Dash2&gt; &lt;Token.Title=Item2&gt;&#xD;
+&lt;Token.ValueInt=Count3&gt; &lt;Token.Title=Dash3&gt; &lt;Token.Title=Item3&gt;&#xD;
+&lt;Token.ValueInt=Count4&gt; &lt;Token.Title=Dash4&gt; &lt;Token.Title=Item4&gt;&#xD;
+&lt;Token.ValueInt=Count5&gt; &lt;Token.Title=Dash5&gt; &lt;Token.Title=Item5&gt;&#xD;
+&lt;Token.ValueInt=Count6&gt; &lt;Token.Title=Dash6&gt; &lt;Token.Title=Item6&gt;&#xD;
+&lt;Token.ValueInt=Count7&gt; &lt;Token.Title=Dash7&gt; &lt;Token.Title=Item7&gt;&#xD;
+&lt;Token.ValueInt=Count8&gt; &lt;Token.Title=Dash8&gt; &lt;Token.Title=Item8&gt;&#xD;
+&lt;Token.ValueInt=Count9&gt; &lt;Token.Title=Dash9&gt; &lt;Token.Title=Item9&gt;&#xD;
+&lt;/font&gt;</Source>
+      <Dest>&lt;font face='$MAIN_Font' size='20'&gt;&#xD;
+#K51-0212&#xD;
+23. 10. 2077&#xD;
+Skylanes 1665&#xD;
+&#xD;
+Dodavatel: A.H. - Washington&#xD;
+Destinace: J.M. - Boston&#xD;
+&#xD;
+Náklad:&#xD;
+&lt;Token.ValueInt=Count0&gt; &lt;Token.Title=Dash0&gt; &lt;Token.Title=Item0&gt;&#xD;
+&lt;Token.ValueInt=Count1&gt; &lt;Token.Title=Dash1&gt; &lt;Token.Title=Item1&gt;&#xD;
+&lt;Token.ValueInt=Count2&gt; &lt;Token.Title=Dash2&gt; &lt;Token.Title=Item2&gt;&#xD;
+&lt;Token.ValueInt=Count3&gt; &lt;Token.Title=Dash3&gt; &lt;Token.Title=Item3&gt;&#xD;
+&lt;Token.ValueInt=Count4&gt; &lt;Token.Title=Dash4&gt; &lt;Token.Title=Item4&gt;&#xD;
+&lt;Token.ValueInt=Count5&gt; &lt;Token.Title=Dash5&gt; &lt;Token.Title=Item5&gt;&#xD;
+&lt;Token.ValueInt=Count6&gt; &lt;Token.Title=Dash6&gt; &lt;Token.Title=Item6&gt;&#xD;
+&lt;Token.ValueInt=Count7&gt; &lt;Token.Title=Dash7&gt; &lt;Token.Title=Item7&gt;&#xD;
+&lt;Token.ValueInt=Count8&gt; &lt;Token.Title=Dash8&gt; &lt;Token.Title=Item8&gt;&#xD;
+&lt;Token.ValueInt=Count9&gt; &lt;Token.Title=Dash9&gt; &lt;Token.Title=Item9&gt;&#xD;
+&lt;/font&gt;</Dest>
+    </String>
     <String List="1" sID="02B316">
       <EDID>FortifyMeleeDamagePercChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Melee weapons do 50% more damage.</Source>
-      <Dest>Zbraně na blízko způsobují o 50% větší zranění.</Dest>
+      <Dest>Chladné zbraně působí o 50 % větší poškození.</Dest>
     </String>
     <String List="1" sID="02B34F">
       <EDID>FortifyBuySell10ChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Buy for 10% lower and sell for 10% higher.</Source>
-      <Dest>Nakupujte o 10% levněji a prodávejte o 10% dráže.</Dest>
+      <Dest>Nakupujte o 10 % levněji a prodávejte o 10 % dráže.</Dest>
     </String>
     <String List="1" sID="02B41E">
       <EDID>FortifyCritChance25xChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>25% Crit Chance</Source>
-      <Dest>25% Šance na kritický zásah</Dest>
+      <Dest>25% šance na kritický zásah</Dest>
     </String>
     <String List="1" sID="02B427">
       <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Additional x2 damage with sneak attacks.</Source>
-      <Dest>Zvýšení poškození při útoku zkrytu x2.</Dest>
+      <Dest>Dodatečné x2 poškození při útoku z krytu.</Dest>
     </String>
     <String List="1" sID="02B4AF">
       <EDID>Ghoulish02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Radiation now regenerates even more of your lost Health.</Source>
-      <Dest>Radiace regeneruje ještě více ztraceného zdraví.</Dest>
+      <Dest>Radiace obnovuje ještě více ztraceného zdraví.</Dest>
     </String>
     <String List="1" sID="02B609">
       <EDID>FourLeafClover02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Each hit in V.A.T.S. now has an even better chance of filling your Critical meter.</Source>
-      <Dest>Každý zásah ve V.A.T.S. má ještě vyšší šanci na naplnění schopnosti kritického útoku.</Dest>
+      <Dest>Každý zásah v režimu VATS má ještě větší šanci zcela naplnit schopnost kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="02B6DC">
+      <EDID>GrimReaperSprint02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Any kill in V.A.T.S. now has a 25% chance to restore all Action Points.</Source>
+      <Dest>Jakékoliv zabití v režimu V.A.T.S. má nyní 25% šanci obnovit všechny akční body.</Dest>
     </String>
     <String List="1" sID="02B70F">
       <EDID>FollowersCompanionDismissMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=Companion&gt; is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
-      <Dest>&lt;Alias=Companion&gt; jde do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+      <Dest>&lt;Alias=Companion&gt; odchází do osady &lt;Alias=DismissMessageLocation&gt;.</Dest>
     </String>
     <String List="1" sID="02B784">
       <EDID>Ghoulish03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Radiation now regenerates even more of your lost Health, and some Feral Ghouls will randomly become friendly.</Source>
-      <Dest>Radiace regeneruje ještě více ztraceného zdraví a někteří divocí ghúlové se začnou chovat přátelsky.</Dest>
+      <Dest>Radiace obnovuje ještě více ztraceného zdraví a někteří divocí ghúlové se začnou chovat přátelsky.</Dest>
+    </String>
+    <String List="1" sID="02B78B">
+      <EDID>Gunslinger05</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Non-automatic pistols now do double damage. Their attacks have a much better chance to disarm opponents, and may even cripple a limb.</Source>
+      <Dest>Neautomatické pistole nyní působí dvojnásobné poškození. Jejich výstřel má ještě větší šanci odzbrojit nepřítele a mohou i zlomit končetinu.</Dest>
     </String>
     <String List="1" sID="02B79D">
       <EDID>FourLeafClover03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Each hit in V.A.T.S. now has a very good chance of filling your Critical meter.</Source>
-      <Dest>Každý zásah ve V.A.T.S. má velmi dobrou šanci na naplnění schopnosti kritického útoku.</Dest>
+      <Dest>Každý zásah v režimu VATS má nyní velmi dobrou šanci zcela naplnit schopnost kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="02BADE">
+      <EDID>GrimReaperSprint03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Any kill in V.A.T.S. now has a 35% chance to restore all Action Points and refill your Critical meter.</Source>
+      <Dest>Jakékoliv zabití v režimu V.A.T.S. má 35% šanci obnovit všechny akční body a naplnit schopnost kritického útoku.</Dest>
     </String>
     <String List="1" sID="02DE02">
       <EDID>FollowersDogmeatCompanionDismissMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Dogmeat is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
-      <Dest>Žeryk běží do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+      <Dest>Žeryk odchází do osady &lt;Alias=DismissMessageLocation&gt;.</Dest>
     </String>
     <String List="1" sID="02E46C">
       <EDID>FollowersCompanionAvailableMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=AvailableMessageActor&gt; is available to be your companion.</Source>
-      <Dest>&lt;Alias=AvailableMessageActor&gt; se může stát společníkem.</Dest>
+      <Dest>&lt;Alias=AvailableMessageActor&gt; je k dispozici jako tvůj společník.</Dest>
     </String>
     <String List="1" sID="02EE8C">
       <EDID>Freeze</EDID>
       <REC>AVIF:DESC</REC>
       <Source>How close to frozen you are from Cryo weapons</Source>
-      <Dest>Jak blízko jste umrznutí při používání Kryo zbraní</Dest>
+      <Dest>Jak blízko jsi zmrazení od kryo zbraní</Dest>
     </String>
     <String List="1" sID="02F9AD">
       <EDID>FortuneFinder02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more bottle caps in containers.</Source>
-      <Dest>V bedýnkách naleznete více zátek.</Dest>
+      <Dest>V bednách nacházíš ještě více zátek.</Dest>
+    </String>
+    <String List="1" sID="02FFAF">
+      <EDID>GlowingSea_COA_Virgil_Note</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Mother Isolde -&#xD;
+&#xD;
+We have found the cave where this "Virgil" resides, southwest of the crater. It is defended, as you suspected.&#xD;
+&#xD;
+We will not act against him until we have word from you, or a sign from Atom himself.&#xD;
+&#xD;
+Brother Hoberman</Source>
+      <Dest>Matko Isoldo -&#xD;
+&#xD;
+Jihovýchodně od kráteru jsme našli jeskyni, kterou obývá ten zvaný "Virgil". Jak jsi předpokládala, je chráněna.&#xD;
+&#xD;
+Nebudeme proti němu zasahovat, dokud neobdržíme Tvůj souhlas nebo znamení od samotného Atoma.&#xD;
+&#xD;
+Bratr Hoberman</Dest>
     </String>
     <String List="1" sID="030454">
       <EDID>FortuneFinder03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more bottle caps in containers.</Source>
-      <Dest>V bedýnkách naleznete více zátek.</Dest>
+      <Dest>V bednách nacházíš ještě více zátek.</Dest>
     </String>
     <String List="1" sID="030796">
       <EDID>Fury</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+50% Melee Damage, +25 Damage Resist and -5 Perception for 8 minutes.</Source>
-      <Dest>+50% poškození na blízko, +25 odolnost vůči poškození a -5 vnímání na 8 minut.</Dest>
+      <Dest>+50% poškození v boji zblízka, +25 odolnost vůči zranění a -5 vnímání na 8 minut.</Dest>
+    </String>
+    <String List="1" sID="0307A9">
+      <EDID>GrapeMentats</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+5 Charisma, barter 10% better for 8 minutes.</Source>
+      <Dest>+5 k charisma, obchoduj o 10 % lépe na 8 minut.</Dest>
     </String>
     <String List="1" sID="0315C8">
       <EDID>FortifyVATSAccuracyChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>10% Additional Accuracy while in VATS</Source>
-      <Dest>Zvýšení přesnosti střelby o 10% v režimu VATS</Dest>
+      <Dest>Dodatečné 10% zlepšení přesnosti v režimu VATS.</Dest>
+    </String>
+    <String List="1" sID="031762">
+      <EDID>GunFu03</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>In V.A.T.S. you instantly do a Critical Hit against your fourth target and beyond.</Source>
+      <Dest>V režimu V.A.T.S. okamžitě působíš kritický zásah čtvrtému cíli a všem cílům po něm následujících.</Dest>
     </String>
     <String List="1" sID="031945">
       <EDID>FourLeafClover04</EDID>
       <REC>PERK:DESC</REC>
       <Source>Each hit in V.A.T.S. now has an excellent chance of filling your Critical meter.</Source>
-      <Dest>Každý zásah ve V.A.T.S. má vysokou šanci na naplnění schopnosti kritického útoku.</Dest>
+      <Dest>Každý zásah v režimu VATS má nyní velmi vysokou šanci zcela naplnit schopnost kritického útoku.</Dest>
+    </String>
+    <String List="1" sID="031A8E">
+      <EDID>GunFu02</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>In V.A.T.S. you do 50% more damage to your third target and beyond.</Source>
+      <Dest>Působíš o 50 % větší poškození třetímu cíli v režimu V.A.T.S. a cílům po něm následujících.</Dest>
     </String>
     <String List="1" sID="033422">
       <EDID>FortifyXPBonusFoodPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>+2% XP earned.</Source>
-      <Dest>+2% získaných ZK.</Dest>
+      <Dest>+2 % získaných ZK.</Dest>
     </String>
     <String List="1" sID="033DC3">
       <EDID>FollowerEndgameForceGreetOn</EDID>
       <REC>AVIF:DESC</REC>
       <Source>used by FollowersEndgameForcegreetPackage - set to 1 to turn on forcegreet&#xD;
 </Source>
-      <Dest>využívá FollowersEndgameForcegreetPackage - nastavte hodnotu 1, aby byl vynucen pozdrav</Dest>
+      <Dest>used by FollowersEndgameForcegreetPackage - set to 1 to turn on forcegreet&#xD;
+</Dest>
     </String>
     <String List="1" sID="033E17">
       <EDID>FortuneFinder04</EDID>
       <REC>PERK:DESC</REC>
       <Source>You find even more bottle caps in containers, and there is a chance of enemies exploding in a shower of caps when you kill them.</Source>
-      <Dest>V bedýnkách naleznete více zátek. Zároveň máte šanci, že nepřátele explodují ve sprchu zátek, po té co je zabijete.</Dest>
+      <Dest>V bednách nacházíš ještě více zátek a při zabití nepřátele je malá šance, že explodují ve spršku zátek.</Dest>
     </String>
     <String List="1" sID="035DDF">
       <EDID>FollowersCompanionMurderDismissMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=Companion&gt; won't participate in murder.</Source>
-      <Dest>&lt;Alias=Companion&gt; se odmítá účastnit vraždy.</Dest>
+      <Dest>&lt;Alias=Companion&gt; se nebude spolupachatelem vraždy.</Dest>
     </String>
     <String List="1" sID="035DE1">
       <EDID>FollowersDogmeatCompanionDismissMessageNameUnknown</EDID>
       <REC>MESG:DESC</REC>
       <Source>Dog is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
-      <Dest>Pes běží do &lt;Alias=DismissMessageLocation&gt;.</Dest>
+      <Dest>Pes odchází do osady &lt;Alias=DismissMessageLocation&gt;.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
