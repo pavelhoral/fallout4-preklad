@@ -26,6 +26,11 @@ function readModfile(handler) {
     return handler;
 }
 
+function renderFormId(formId) {
+    var hexId = formId.toString(16).toUpperCase();
+    return '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']';
+}
+
 function writeOutput(data) {
     if (program.output) {
         fs.writeFileSync(program.output, data);
@@ -114,7 +119,8 @@ program.
             matchExtractor = readModfile(new modfileFind.MatchExtractor(program.args[1].type, program.args[0])),
             resultData = [];
         matchExtractor.result.forEach((match) => {
-            resultData.push('[' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' + match.editorId);
+            resultData.push(renderFormId(match.formId) + ' [' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' +
+                    match.editorId);
         });
         writeOutput(resultData.join('\n'));
     });
