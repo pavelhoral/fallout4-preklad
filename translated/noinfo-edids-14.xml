@@ -355,10 +355,10 @@ KONEC</Dest>
 &#xD;
                DO NOT READ!!!&#xD;
               (this means you)</Source>
-      <Dest>MAJETEK GRISWOLDA&#xD;
+      <Dest>                MAJETEK GRISWOLDA&#xD;
 &#xD;
-               ZÁKAZ ČTENÍ!!!&#xD;
-             (tím myslím tebe)</Dest>
+                  ZÁKAZ ČTENÍ!!!&#xD;
+                (tím myslím tebe)</Dest>
     </String>
     <String List="0" sID="01675D">
       <EDID>GoodneighborHotelWorkerF01</EDID>
@@ -668,7 +668,7 @@ Daisy's Discounts (480) - Good old Daisy. Can buy/sell anything.</Source>
 &#xD;
 Hotel Rexford (100) - Marowski už není to, co býval.&#xD;
 &#xD;
-Zabij nebo buď zabit (550) - Kleo je dobrá v tom svém "sexy a děsivá" stylu. To mi je blízké.&#xD;
+Zabij, nebo buď zabit (550) - Kleo je dobrá v tom svém „sexy a děsivá“ stylu. To mi je blízké.&#xD;
 &#xD;
 Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže koupit a prodat naprosto cokoliv.</Dest>
     </String>
@@ -698,9 +698,9 @@ Slevy od Daisy (480) - Stará dobrá Daisy. Dokáže koupit a prodat naprosto co
 I wish Sue didn't have to be such a pain about this taking a while.  Just because she can load up a few holotapes doesn't mean she knows the first thing about how complicated this old crap is.&#xD;
 &#xD;
 Whatever. It works now.</Source>
-      <Dest>Konečně jsou všechny terminály zapojeny. Zvlášť dlouho mi zabralo donutit věže, aby na nás byly hodné. Nesmím zapomenout pořídit Jackovi něco pěkného po tom co se stalo jeho ochočenému krtkopotkanovi...&#xD;
+      <Dest>Konečně jsou všechny terminály zapojeny. Zvlášť dlouho mi zabralo donutit věže, aby na nás byly hodné. Nesmím zapomenout pořídit Jackovi něco pěkného po tom, co se stalo jeho ochočenému krtkopotkanovi...&#xD;
 &#xD;
-Kéž by Sue nedělala takové divadlo kolem toho, jak mi to dlouho trvalo.  Jenom proto, že dokáže spustit pár holopásek neznamená, že má nějaké ponětí o tom, jak je tenhle starý šrot komplikovaný.&#xD;
+Kéž by Sue nedělala takové divadlo kolem toho, jak mi to dlouho trvalo. Jenom proto, že dokáže spustit pár holopásek, to neznamená, že má nějaké ponětí o tom, jak je tenhle starý šrot komplikovaný.&#xD;
 &#xD;
 Je to jedno. Už to funguje.</Dest>
     </String>
@@ -816,7 +816,7 @@ Je to jedno. Už to funguje.</Dest>
       <EDID>FortifyResistRadsChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Radiation Resistance</Source>
-      <Dest>Chem: odolnost vůči radiaci.</Dest>
+      <Dest>Chemie: odolnost vůči radiaci.</Dest>
     </String>
     <String List="0" sID="01B125">
       <EDID>FragMineProjectile</EDID>
@@ -1214,7 +1214,7 @@ Je to jedno. Už to funguje.</Dest>
       <EDID>GraygardenHomesteadLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Graygarden Homestead</Source>
-      <Dest>Usedlost u Šedé zahrady</Dest>
+      <Dest>Usedlost U Šedé zahrady</Dest>
     </String>
     <String List="0" sID="01D76B">
       <EDID>FrostResist</EDID>
@@ -1376,7 +1376,7 @@ Je to jedno. Už to funguje.</Dest>
       <EDID>GwinnettBrewery01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Gwinnett Restaurant</Source>
-      <Dest>Restaurant Gwinnett</Dest>
+      <Dest>Restaurace Gwinnett</Dest>
     </String>
     <String List="0" sID="01F86F">
       <EDID>GoodneighborHancocksTerminal</EDID>
@@ -1478,7 +1478,7 @@ KONEC</Dest>
       <EDID>fragGrenadelProjectileChild</EDID>
       <REC>PROJ:FULL</REC>
       <Source>Shrapnel Projectile</Source>
-      <Dest>Šrapnelový pojektil</Dest>
+      <Dest>Šrapnelový projektil</Dest>
     </String>
     <String List="0" sID="021587">
       <EDID>FloodedPlaygroundMapMarkerRef</EDID>
@@ -1564,11 +1564,11 @@ KONEC</Dest>
       <Source>Tarberry</Source>
       <Dest>Dehetinka</Dest>
     </String>
-    <String List="0" sID="023480" Partial="1">
+    <String List="0" sID="023480">
       <EDID>GJ_Defrag_Holotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>RobCo Defragmenter</Source>
-      <Dest>RobCo Defragmenter</Dest>
+      <Dest>RobCo Defragmentátor</Dest>
     </String>
     <String List="0" sID="023588">
       <EDID>GoodneighborHancocksStrongroomLocation</EDID>
@@ -1700,7 +1700,7 @@ KONEC</Dest>
       <EDID>GwinnettBreweryMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>The Gwinnett Restaurant</Source>
-      <Dest>Restaurant Gwinnett</Dest>
+      <Dest>Restaurace Gwinnett</Dest>
     </String>
     <String List="0" sID="0244F8">
       <EDID>Fuse</EDID>
@@ -1808,7 +1808,7 @@ KONEC</Dest>
       <EDID>GraygardenHomestead01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Graygarden Homestead</Source>
-      <Dest>Usedlost u Šedé zahrady</Dest>
+      <Dest>Usedlost U Šedé zahrady</Dest>
     </String>
     <String List="0" sID="024E7C">
       <EDID>GJTerminal02</EDID>
@@ -1874,7 +1874,7 @@ So I can kill them instead.&#xD;
 Napsal: Griswold&#xD;
 &#xD;
 Hle, umřít. Zabít, zmrzačit.&#xD;
-Rád pozorují lidi umírat.&#xD;
+Rád pozoruji lidi umírat.&#xD;
 &#xD;
 Doufám, že mě nikdo nezabije,&#xD;
 abych mohl zabít já je.&#xD;
@@ -1920,7 +1920,7 @@ Napsal: Griswold&#xD;
 &#xD;
 Hle býti drsný a krásný,&#xD;
 hle býti nejlepší střelec vůbec,&#xD;
-hle býti Griswold, nejlepší najezdník.&#xD;
+hle býti Griswold, nejlepší nájezdník.&#xD;
 &#xD;
 KONEC</Dest>
     </String>
@@ -2090,7 +2090,7 @@ KONEC</Dest>
       <EDID>GJMessageCookeTopicList</EDID>
       <REC id="3">MESG:ITXT</REC>
       <Source>Goodbye.</Source>
-      <Dest>Nashledanu.</Dest>
+      <Dest>Nashledanou.</Dest>
     </String>
     <String List="0" sID="0273EF">
       <EDID>GirlHair01</EDID>
@@ -2225,7 +2225,7 @@ Bezpečnostní zámek vstupu na střechu zapojen. Uzavírám dveře...</Dest>
       <REC id="0">TERM:UNAM</REC>
       <Source>...Communication Link Established&#xD;
 Roof Access Security lock released. Opening door...</Source>
-      <Dest>...Spojení uspěšně navázáno&#xD;
+      <Dest>...Spojení úspěšně navázáno&#xD;
 Bezpečnostní zámek vstupu na střechu odpojen. Otevírám dveře...</Dest>
     </String>
     <String List="0" sID="028EDD">
@@ -2249,13 +2249,14 @@ Repair Shop Terminal&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
 Terminál roboservisu&#xD;
--------------------------------</Dest>
+-------------------------------&#xD;
+</Dest>
     </String>
     <String List="0" sID="0295CA">
       <EDID>Grill01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Grill</Source>
-      <Dest>Grill</Dest>
+      <Dest>Gril</Dest>
     </String>
     <String List="0" sID="0295D1">
       <EDID>Globe_02_clean</EDID>
@@ -2435,7 +2436,7 @@ Terminál roboservisu&#xD;
       <EDID>FortifyMeleeDamagePercChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify Melee Damage 50%</Source>
-      <Dest>Posílení poškození v boji zblízka o 50%</Dest>
+      <Dest>Posílení poškození v boji zblízka o 50 %</Dest>
     </String>
     <String List="0" sID="02B36C">
       <EDID>FortifyCritChance25xChemPerk</EDID>
@@ -2465,7 +2466,7 @@ Terminál roboservisu&#xD;
       <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Fortify Sneak Attack Bonus</Source>
-      <Dest>Posílení bonusu při úkotu z krytu</Dest>
+      <Dest>Posílení bonusu při útoku z krytu</Dest>
     </String>
     <String List="0" sID="02B460">
       <EDID>FortifyVATSAccuracyChem</EDID>
@@ -2849,7 +2850,7 @@ Terminál roboservisu&#xD;
       <EDID>GoodneighborIrmaTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Mayor Hancock's memories are... well, let's just say if you thought he was handsome and dangerous now, you should've seen him before he turned ghoul. And I thought I knew how to have a good time...</Source>
-      <Dest>Vzpomínky majora Hancocka jsou... jak to říci, pokud jste si mysleli, že byl krásný a nebezpečný teď, měli byste ho vidět před tím, než proměnil v ghúla. A to jsem si myslela, že vím, jak se bavit...</Dest>
+      <Dest>Vzpomínky starosty Hancocka jsou... jak to říci, pokud jste si mysleli, že byl krásný a nebezpečný teď, měli byste ho vidět předtím, než se proměnil v ghúla. A to jsem si myslela, že vím, jak se bavit...</Dest>
     </String>
     <String List="0" sID="030E15">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -2875,9 +2876,9 @@ Terminál roboservisu&#xD;
       <Source>I love the irony of a staunch opponent of the Den coming in to sample the goods. Temptation. It gets us all in the end.&#xD;
 &#xD;
 Reminder to myself: Daisy may not look it now, but there's a reason she's lived to be such a ripe, old age. Best that no one knows she ever came here. I don't need a reason for the hellion side of her coming out, looking for pay back.</Source>
-      <Dest>Miluji tu ironii vytrvalého odpůrce Hnízdečka vzpomínek, když si přijde zkusit co nabízíme. Pokušení. To nás všechny nakonec doběhne.&#xD;
+      <Dest>Miluji tu ironii vytrvalého odpůrce Hnízdečka vzpomínek, když si přijde zkusit, co nabízíme. Pokušení. To nás všechny nakonec doběhne.&#xD;
 &#xD;
-Osobní poznámka: Daisy na to možná teď nevypadá, ale není náhoda že se dožila tak vyzrálého dlouhého věku. Bude lepší, když nikdo nebude vědět, že tu byla. Nepotřebuji dávat žádný důvod k tomu, aby se projevila její spratkovská nátura a požadovala odplatu.</Dest>
+Osobní poznámka: Daisy na to možná teď nevypadá, ale není náhoda, že se dožila tak vyzrálého dlouhého věku. Bude lepší, když nikdo nebude vědět, že tu byla. Nepotřebuji dávat žádný důvod k tomu, aby se projevila její spratkovská nátura a požadovala odplatu.</Dest>
     </String>
     <String List="0" sID="030E3A">
       <EDID>FloraFungusBrain02</EDID>
@@ -2889,7 +2890,7 @@ Osobní poznámka: Daisy na to možná teď nevypadá, ale není náhoda že se 
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Kill bodyguard first. Strangulation while she sleeps. Then load all doses of chems in the Old State House with poisons. Collateral damage possible, but losses acceptable without too much disruption to the business.</Source>
-      <Dest>První zabít ochranku. Zaškrcení ve spánku. Poté nalnit všechny dávky chemie ve Staré vládní budově jedem. Vedlejší škody možné, ale ztráty jsou přijatelné bez většího vlivu na obchod.</Dest>
+      <Dest>První zabít ochranku. Zaškrcení ve spánku. Poté naplnit všechny chemické dávky ve Starém sídle vlády jedem. Vedlejší škody možné, ale ztráty jsou přijatelné bez většího vlivu na obchod.</Dest>
     </String>
     <String List="0" sID="030E43">
       <EDID>FloraWildGourdVine01</EDID>
@@ -2927,7 +2928,7 @@ Osobní poznámka: Daisy na to možná teď nevypadá, ale není náhoda že se 
       <Source>Had to get Rufus to rebuild this terminal. I was on the Psycho high and I was typing and I just... man it was like I couldn't NOT be angry. Just started PUNCHING the keys, man! PUNCHING THEM! PUNCHING AND PUNCHING AND...&#xD;
 &#xD;
 I think maybe I should lie down...</Source>
-      <Dest>Musel jsem zavolat Rufa, aby mi pomohl dát zpátky dohromady tenhle terminál. Zrovna jsem jel na Psychu a snažil se do něj něco zapsat a najednou... člověče jako kdybych NEmohl NEbýt naštvaný. Najednou jsem začal bušit do kláves! BUŠIL DO NICH! BUŠIL A BUŠIL DO NICH a...&#xD;
+      <Dest>Musel jsem zavolat Rufuse, aby mi pomohl dát zpátky dohromady tenhle terminál. Zrovna jsem jel na Psychu a snažil se do něj něco zapsat a najednou... člověče jako kdybych NEmohl NEbýt naštvaný. Najednou jsem začal bušit do kláves! BUŠIL DO NICH! BUŠIL A BUŠIL DO NICH a...&#xD;
 &#xD;
 Myslím, že bych si měl jít lehnout...</Dest>
     </String>
@@ -2963,7 +2964,7 @@ Vypálit Třetí kolej jako varování. Pokud bude klást odpor i potom, čistá
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>Mister Rubins has a standing deal to trade room and board in exchange for various handyman services.</Source>
-      <Dest>Panu Rubinsovi má dlouhodobou dohodu na ubytování a stravu výměnou za údržbářské práce.</Dest>
+      <Dest>Pan Rubins má dlouhodobou dohodu na ubytování a stravu výměnou za údržbářské práce.</Dest>
     </String>
     <String List="0" sID="030F1C">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3078,7 +3079,7 @@ Výsledek: Zapisuji svojí levou rukou. Měl bych si uvařit nějaké stimpaky.<
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Occassionally rents a room here for "the acoustics" whatever that means.</Source>
-      <Dest>Příležitostně pronajímá pokoj kvůli "akustice", ať už to znamená cokoli.</Dest>
+      <Dest>Příležitostně pronajímá pokoj kvůli „akustice“, ať už to znamená cokoli.</Dest>
     </String>
     <String List="0" sID="031052">
       <EDID>FloraBloodLeaf02</EDID>
@@ -3100,7 +3101,7 @@ Výsledek: Zapisuji svojí levou rukou. Měl bych si uvařit nějaké stimpaky.<
 Getting stoned on Jet, and then playing a memory of yourself being stoned on Buffout WHILE you're still stoned on Jet...&#xD;
 &#xD;
 Well, you have to admire his committment.</Source>
-      <Dest>Fred Allen z hotelu Rexford se stále vrací, vyjetý jak je den dlouhý. Jednou přišel, když byl na Jetu a požadoval vzpomínku, jak byl na Buffoutu. Říkal, že je to "pro vědecké účely."&#xD;
+      <Dest>Fred Allen z hotelu Rexford se stále vrací, vyjetý, jak je den dlouhý. Jednou přišel, když byl na Jetu, a požadoval vzpomínku, jak byl na Buffoutu. Říkal, že je to „pro vědecké účely“.&#xD;
 &#xD;
 Sjet se Jetem a pak si přehrávat vzpomínky sám sebe sjetého na Buffoutu, STÁLE na Jetu...&#xD;
 &#xD;
@@ -3152,7 +3153,7 @@ Inu, jeho odhodlání si zaslouží obdiv.</Dest>
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Stan will always have a place here, of course. And to think, we used to have dozens of good men like him looking after this place.</Source>
-      <Dest>Stan tu bude mít svoje místo vždy, samozřejmě. Když si vzpomenu, že jsme dříve mívali spoustu dobrých lidí jako on, kteří dávali pozor na tohle místo.</Dest>
+      <Dest>Stan tu bude mít svoje místo vždy, samozřejmě. Když si vzpomenu, že jsme dříve mívali spoustu dobrých lidí jako je on, kteří dávali pozor na tohle místo.</Dest>
     </String>
     <String List="0" sID="0310BE">
       <EDID>FloraFungusGlowing01</EDID>
@@ -3168,11 +3169,11 @@ Inu, jeho odhodlání si zaslouží obdiv.</Dest>
 Poor Kent. People may gossip about the Den taking advantage of him, but the truth is he's our biggest charity case. If I lived to be over 200, I know I'd be tired of the real world, too. What's the harm in letting him dream a little longer than the next fella?&#xD;
 &#xD;
 Amari put in some safety settings into his Memory Lounger so he doesn't starve himself to death. Far as I'm concerned, if he wants to live out the rest of his days plugged in and occassionally waking up to eat and stare at his poster collection, that's his choice.</Source>
-      <Dest>Všechny jeho vzpomínky jsou o rozhlasové hře Stříbrný Rubáš, o které stále vypráví. To mi připomíná, jak mu stále připomínám, aby nechával všechny plakáty a hračky u sebe v pokoji. Dost často se totiž vyvalují ven až hlavní místnosti.&#xD;
+      <Dest>Všechny jeho vzpomínky jsou o rozhlasové hře Stříbrný Rubáš, o které stále vypráví. To mi připomíná, jak mu stále připomínám, aby nechával všechny plakáty a hračky u sebe v pokoji. Dost často se totiž vyvalují až ven z hlavního patra.&#xD;
 &#xD;
 Chudák Kent. Lidé říkají, že ho Hnízdečko vzpomínek jen využívá, ale pravda je, že to je naší největší charitou. Kdybych žila více jak 200 let, reálný svět by pro mě asi také přestal být zajímavý. Koneckonců jakou škodu může natropit nechat ho snít o něco déle?&#xD;
 &#xD;
-Amariová zavedla nějaká bezpečnostní opatření do jeho v paměťového lehátka, aby nemohl umřít hladem. Co se mě týče, pokud chce zbytek svého života strávit zapojený s občasnou vycházkou na jídlo a prohlídku sbírky plakátů, je to jeho volba.</Dest>
+Amariová zavedla nějaká bezpečnostní opatření do jeho paměťového lehátka, aby nemohl umřít hladem. Co se mě týče, pokud chce zbytek svého života strávit zapojený s občasnou vycházkou na jídlo a prohlídku sbírky plakátů, je to jeho volba.</Dest>
     </String>
     <String List="0" sID="0310D1">
       <EDID>GoodneighborFredTerminal</EDID>
@@ -3210,7 +3211,7 @@ Amariová zavedla nějaká bezpečnostní opatření do jeho v paměťového leh
       <Source>The secret to being a great chem dealer? Personal experience, man. That's why I'm going to try everything. But chemistry is like, science, you know? So we're gonna log every hit I take.&#xD;
 &#xD;
 The better I can understand the high, the better I can sell that to the customers. I swear, sometimes I scare myself I'm so smart.</Source>
-      <Dest>Tajemství úspěšného dealera chemikálií? Osobní zkušenost, kámo. Proto plánuji vyzkoušet úplně všechno. Ale chemie je něco jako, věda, chápeš? Takže pěkně zaznamenám každou dávku, kterou si vezmu.&#xD;
+      <Dest>Tajemství úspěšného dealera chemikálií? Osobní zkušenost, kámo. Proto plánuji vyzkoušet úplně všechno. Ale chemie je něco jako věda, chápeš? Takže pěkně zaznamenám každou dávku, kterou si vezmu.&#xD;
 &#xD;
 Čím lépe porozumím účinkům, tím lépe to prodám zákazníkům. Občas mě děsí, jak jsem geniální.</Dest>
     </String>
@@ -3232,9 +3233,9 @@ The better I can understand the high, the better I can sell that to the customer
       <Source>Clair's memories are quite vivid. Amari says she must have "one of those brains" with great attention to detail. Maybe that's why she's so meticulous.&#xD;
 &#xD;
 Oh, and she sure had a cute husband back when she was younger. I can see why she misses him.</Source>
-      <Dest>Vzpomínky Clair jsou dost barvité. Amariová říká, že má "výjimečný mozek" s úžasným smyslem pro detail. Možná proto je tak puntičkářská.&#xD;
+      <Dest>Vzpomínky Clair jsou dost barvité. Amariová říká, že má „výjimečný mozek“ s úžasným smyslem pro detail. Možná proto je tak puntičkářská.&#xD;
 &#xD;
-No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji tak schází.</Dest>
+No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč jí tak schází.</Dest>
     </String>
     <String List="0" sID="0310E8">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3252,7 +3253,7 @@ No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji ta
       <EDID>GoodneighborKleoTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Wait until Super Mutant or Raider attack. High explosives at key areas of the defensive perimeter. Relocation necessary afterwards as Goodneighbor would be left vulnerable.</Source>
-      <Dest>Vyčkat na útok supermutantů nebo nájezdníků. Výbušniny na klíčových místech obranného perimetru. Následné je nutné se přemístit, protože Dobré sousedství zůstane zranitelné.</Dest>
+      <Dest>Vyčkat na útok supermutantů nebo nájezdníků. Výbušniny na klíčových místech obranného perimetru. Následně je nutné se přemístit, protože Dobré sousedství zůstane zranitelné.</Dest>
     </String>
     <String List="0" sID="0310F8">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3306,7 +3307,7 @@ No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji ta
       <EDID>GoodneighborFredTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>When In Doubt, Do It All</Source>
-      <Dest>Když pochybuješ, vem si všechno</Dest>
+      <Dest>Když pochybuješ, vezmi si všechno</Dest>
     </String>
     <String List="0" sID="03113F">
       <EDID>GoodneighborHotelRegister</EDID>
@@ -3342,7 +3343,7 @@ No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji ta
       <EDID>GoodneighborFredTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Oh man, I feel, like, "loquacious." I don't even know what that MEANS, man! But it's like my brain is just putting it all together faster than I can even process it.</Source>
-      <Dest>Člověče, cítím se, nějak, "mnohomluvně". Kámo a to ani nevím co to ZNAMENÁ! Je to jako by to můj mozek prostě dával všechno dohromady rychlejc, než to vůbec zvládám zpracovat.</Dest>
+      <Dest>Člověče, cítím se nějak „mnohomluvně“. Kámo, a to ani nevím, co to ZNAMENÁ! Je to, jako by to můj mozek prostě dával všechno dohromady rychlejc, než to vůbec zvládám zpracovat.</Dest>
     </String>
     <String List="0" sID="031152">
       <EDID>GoodneighborIrmaTerminal</EDID>
@@ -3360,7 +3361,7 @@ No a rozhodně měla krásného manžela, když byla mladá. Chápu, proč ji ta
       <EDID>GoodneighborHotelRegister</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>No other name given. He's upstairs in the guest rooms and rarely leaves. At least he's quiet.</Source>
-      <Dest>Nesdělil žádné jiné jménoo. Nachází se nahoře v pokoji pro hosty a jen výjimečně vychází. Alespoň že je potichu.</Dest>
+      <Dest>Nesdělil žádné jiné jméno. Nachází se nahoře v pokoji pro hosty a jen výjimečně vychází. Alespoň že je potichu.</Dest>
     </String>
     <String List="0" sID="031177">
       <EDID>FloraWildTatoPlant02</EDID>
@@ -3546,11 +3547,11 @@ Labor: 8 hours&#xD;
 Mechanic Report: Two of the three optical sensors have been wired incorrectly causing the bot to mistranslate incoming data on its surroundings. This bot has been so heavily modified I'm sure it's breaking all kinds of federal laws.</Source>
       <Dest>Zákazník: Jerod Beene&#xD;
 &#xD;
-Závada: Jerod reklamoval svého "pana Šikulku" poté co zjistil, že doma neustále naráží do věcí.&#xD;
+Závada: Jerod reklamoval svého „Pana Šikulku“ poté, co zjistil, že doma neustále naráží do věcí.&#xD;
 &#xD;
 Oprava: 8 hodin&#xD;
 &#xD;
-Zpráva mechanika: Dva ze tří optických senzorů byly chybně zapojeny, což způsobovalo špatnou interpretaci příchozích vizuálních dat. Tento robot byl upraven tak zásadním způsoběm, že to zcela jistě porušovalo celou řadu federálních zákonů.</Dest>
+Zpráva mechanika: Dva ze tří optických senzorů byly chybně zapojeny, což způsobovalo špatnou interpretaci příchozích vizuálních dat. Tento robot byl upraven tak zásadním způsobem, že to zcela jistě porušovalo celou řadu federálních zákonů.</Dest>
     </String>
     <String List="0" sID="032140">
       <EDID>GlowingSeaPOIJB03_Terminal</EDID>
@@ -3570,11 +3571,11 @@ Labor: 4 hours&#xD;
 Mechanic Report: The lower compartment was completely filled with water. Drained, cleaned, rinsed, and dried.</Source>
       <Dest>Zákazník: Jessica McCannová&#xD;
 &#xD;
-Problém: Jessica přivezla jejího firemního protektrona po té, co si několik spolupracovníků stěžovalo na zápach plísně pocházející ze samotného robota. Po dotazu na možné příčiny zápachu Jessica odpověděla, že firma pořádala minulý týden šťastnou hodinku a věci se malinko vymlky kontrole. Protektron možná byl nebo nebyl účastníkem párty v bazénu.&#xD;
+Problém: Jessica přivezla jejího firemního protektrona poté, co si několik spolupracovníků stěžovalo na zápach plísně pocházející ze samotného robota. Po dotazu na možné příčiny zápachu, Jessica odpověděla, že firma pořádala minulý týden šťastnou hodinku a věci se malinko vymknuly kontrole. Protektron možná byl, nebo nebyl účastníkem párty v bazénu.&#xD;
 &#xD;
 Oprava: 4 hodiny&#xD;
 &#xD;
-Vyjádření mechanika: Spodní prostor byl plný vody. Odčerpáno, očištěnp, propláchnuto a usušeno.</Dest>
+Vyjádření mechanika: Spodní prostor byl plný vody. Odčerpáno, očištěno, propláchnuto a usušeno.</Dest>
     </String>
     <String List="0" sID="032278">
       <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
@@ -3592,7 +3593,7 @@ Problém: Pan Šikulka bezdůvodně ztrácí pohyblivost a padá na zem zhruba �
 &#xD;
 Oprava: 16 hodin&#xD;
 &#xD;
-Vyjádření mechanika: Ačkoli nebylo nalezeno žádné mechanické poškození, jeden z mechaniků objevil uvnitř uvolněný šroubek. Po důkladnějším prohlédnutí, jsme došli k závěru, že byl nouzový vypínač pohonu náhodně aktivován jedním nebo více volným šroubky, což způsobovalo pád Šikulky na zem.</Dest>
+Vyjádření mechanika: Ačkoli nebylo nalezeno žádné mechanické poškození, jeden z mechaniků objevil uvnitř uvolněný šroubek. Po důkladnějším prohlédnutí, jsme došli k závěru, že byl nouzový vypínač pohonu náhodně aktivován jedním nebo více volnými šroubky, což způsobovalo pád Šikulky na zem.</Dest>
     </String>
     <String List="0" sID="0322BA">
       <EDID>FXFireHitVisuals</EDID>
@@ -3615,7 +3616,8 @@ Invoices&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
 Faktury&#xD;
--------------------------------</Dest>
+-------------------------------&#xD;
+</Dest>
     </String>
     <String List="0" sID="03250F">
       <EDID>GlowingSeaPOIJB03_Terminal_Sub01</EDID>
@@ -3639,7 +3641,7 @@ Faktury&#xD;
       <EDID>GeneralGameplay09ChemistryStation</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Use a Chemistry Station to create useful chems and medicines.</Source>
-      <Dest>Používej chemickou laboratoř vyráběj užitečné chemikálie a léky.</Dest>
+      <Dest>Používej chemickou laboratoř a vyráběj užitečné chemikálie a léky.</Dest>
     </String>
     <String List="0" sID="0327B7">
       <EDID>GiddyupButtercupHead</EDID>
@@ -3741,19 +3743,19 @@ Faktury&#xD;
       <EDID>GeneralGameplay03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Drinking from a water source is always a tactical choice - you will usually restore lost Health, but raise your radiation level.</Source>
-      <Dest>Pití vody z vodních zdrojů je vždy taktickou rozhodnutím - obvykle obnovíš své ztracené zdraví, ale zároveň zvýšíš svoji úroveň radiace.</Dest>
+      <Dest>Pití vody z vodních zdrojů je vždy taktickým rozhodnutím - obvykle obnovíš své ztracené zdraví, ale zároveň zvýšíš svoji úroveň radiace.</Dest>
     </String>
     <String List="0" sID="032DEF">
       <EDID>GeneralGameplay04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for for a limited time.</Source>
-      <Dest>Spánek v pronajaté nebo vlastní posteli ti poskytne bonus "svěží", který na omezenou dobu zvyšuje získávané zkušenosti.</Dest>
+      <Dest>Spánek v pronajaté nebo vlastní posteli ti poskytne bonus „svěží“, který na omezenou dobu zvyšuje získávané zkušenosti.</Dest>
     </String>
     <String List="0" sID="032DF0">
       <EDID>GeneralGameplay05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Combat too hard or too easy? You can change the game's difficulty at any time.</Source>
-      <Dest>Jsou souboje příliš lehké nebo těžké? Herní obtížnost můžeš změnit v jakýkoliv moment.</Dest>
+      <Dest>Jsou souboje příliš lehké, nebo těžké? Herní obtížnost můžeš změnit v jakýkoliv moment.</Dest>
     </String>
     <String List="0" sID="032DF2">
       <EDID>GeneralGameplay06</EDID>
@@ -3825,7 +3827,7 @@ Faktury&#xD;
       <EDID>GeneralGameplay17Doctors</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Doctors, located in most settlements, provide a variety of services. They can heal all wounds (including crippled limbs), cure radiation damage and cure addiction to chems and alcohol. Most of them also sell medical supplies. </Source>
-      <Dest>Doktoři, kteří jsou k nalezení ve většině osad, poskytují všemožné služby. Dokáží vyléčit veškeré rány (včetně zmrzačených končetin), poškození radiací nebo vyléčit závislost alkoholu a chemikáliích. Většina z nich také prodává zdravotní materiál.</Dest>
+      <Dest>Doktoři, kteří jsou k nalezení ve většině osad, poskytují všemožné služby. Dokáží vyléčit veškeré rány (včetně zmrzačených končetin), poškození radiací nebo vyléčit závislost na alkoholu a chemikáliích. Většina z nich také prodává zdravotní materiál.</Dest>
     </String>
     <String List="0" sID="033139">
       <EDID>GhoulRace</EDID>
@@ -4239,7 +4241,7 @@ Faktury&#xD;
       <EDID>GeneralGameplay24Resting</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Need to pass some some time in a hurry? Using any piece of unowned furniture will allow you to "Wait" for up to 24 hours.</Source>
-      <Dest>Nutně potřebuješ zabít čas? Jakýkoli kus opuštěného nábytku ti pomůže "vyčkat" až 24 hodin.</Dest>
+      <Dest>Nutně potřebuješ zabít čas? Jakýkoli kus opuštěného nábytku ti pomůže „vyčkat“ až 24 hodin.</Dest>
     </String>
     <String List="0" sID="033DC8">
       <EDID>GlowingLootDrop</EDID>
@@ -4605,7 +4607,7 @@ Faktury&#xD;
       <EDID>FortifyXPBonusFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+2% XP gain for 2 hours.</Source>
-      <Dest>+2% ke ZK po 2 hodiny.</Dest>
+      <Dest>+2 % ke ZK po 2 hodiny.</Dest>
     </String>
     <String List="0" sID="0356F3">
       <EDID>GrapeMentats</EDID>
@@ -5193,7 +5195,7 @@ Faktury&#xD;
       <EDID>GeneralGameplay28WeaponRename</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Grown attached to a weapon? Give it a custom name at any Weapons Workbench.</Source>
-      <Dest>Oblíbil jsi si nějakou zbraň? Na jakémkoli ponku na úpravu zbraní ji můžeš dát vlastní jméno.</Dest>
+      <Dest>Oblíbil sis nějakou zbraň? Na jakémkoli ponku na úpravu zbraní ji můžeš dát vlastní jméno.</Dest>
     </String>
     <String List="1" sID="013723">
       <EDID>Ghoulish01</EDID>
@@ -5229,7 +5231,7 @@ Faktury&#xD;
       <EDID>FollowersCompanionMenuTactics</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické nabídka dočasného společníka</Dest>
+      <Dest>Taktická nabídka dočasného společníka</Dest>
     </String>
     <String List="1" sID="0180DD">
       <EDID>GunNut03</EDID>
@@ -5241,13 +5243,13 @@ Faktury&#xD;
       <EDID>GateLocked</EDID>
       <REC>MESG:DESC</REC>
       <Source>This gate can be accessed remotely.</Source>
-      <Dest>Tato brána může mít ovládána vzdáleně.</Dest>
+      <Dest>Tato brána může být ovládána vzdáleně.</Dest>
     </String>
     <String List="1" sID="01A559">
       <EDID>FollowersCompanionMenuWait</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické nabídka dočasného společníka</Dest>
+      <Dest>Taktická nabídka dočasného společníka</Dest>
     </String>
     <String List="1" sID="01D1F2">
       <EDID>FollowersCompanionMenuMain</EDID>
@@ -5259,7 +5261,7 @@ Faktury&#xD;
       <EDID>FollowersCompanionMenuFollow</EDID>
       <REC>MESG:DESC</REC>
       <Source>Temp Companion Tactics Menu</Source>
-      <Dest>Taktické nabídka dočasného společníka</Dest>
+      <Dest>Taktická nabídka dočasného společníka</Dest>
     </String>
     <String List="1" sID="01D988">
       <EDID>Gunslinger02</EDID>
@@ -5277,7 +5279,7 @@ Faktury&#xD;
       <EDID>GunNut01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Shoot first, kill first, with access to base level and Rank 1 gun mods.</Source>
-      <Dest>Střílej první, zabij první... s přístupem ke úpravám zbraní základní a 1. úrovně.</Dest>
+      <Dest>Střílej první, zabij první... s přístupem k úpravám zbraní základní a 1. úrovně.</Dest>
     </String>
     <String List="1" sID="01D9C1">
       <EDID>GunNut02</EDID>
@@ -5289,7 +5291,7 @@ Faktury&#xD;
       <EDID>GunFu01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You've learned to apply ancient martial arts to gunplay! Do 25% more damage to your second V.A.T.S. target and beyond.</Source>
-      <Dest>Naučil jsi se uplatnit starodávná bojová umění na hrátky se střelnými zbraněmi! Působíš o 25 % větší poškození druhému cíli v režimu V.A.T.S. a cílům po něm následujících.</Dest>
+      <Dest>Naučil ses uplatnit starodávná bojová umění na hrátky se střelnými zbraněmi! Působíš o 25 % větší poškození druhému cíli v režimu V.A.T.S. a cílům po něm následujícím.</Dest>
     </String>
     <String List="1" sID="01DA5D">
       <EDID>GrimReaperSprint01</EDID>
@@ -5325,7 +5327,7 @@ Faktury&#xD;
       <EDID>FortuneFinder01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You've learned to discover the Wasteland's hidden wealth, and find more bottle caps in containers.</Source>
-      <Dest>Umíš objevovat skrytá bohatství Pustiny a z beden získáváš váce zátek.</Dest>
+      <Dest>Umíš objevovat skrytá bohatství Pustiny a z beden získáváš více zátek.</Dest>
     </String>
     <String List="1" sID="022920">
       <EDID>FollowerForceGreetOn</EDID>
@@ -5433,7 +5435,7 @@ Náklad:&#xD;
       <EDID>FortifyBuySell10ChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Buy for 10% lower and sell for 10% higher.</Source>
-      <Dest>Nakupujte o 10 % levněji a prodávejte o 10 % dráže.</Dest>
+      <Dest>Nakupuj o 10 % levněji a prodávej o 10 % dráže.</Dest>
     </String>
     <String List="1" sID="02B41E">
       <EDID>FortifyCritChance25xChemPerk</EDID>
@@ -5445,7 +5447,7 @@ Náklad:&#xD;
       <EDID>FortifySneakAttackBonus2xChemPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Additional x2 damage with sneak attacks.</Source>
-      <Dest>Dodatečné x2 poškození při útoku z krytu.</Dest>
+      <Dest>Dodatečné dvojnásobné poškození při útoku z krytu.</Dest>
     </String>
     <String List="1" sID="02B4AF">
       <EDID>Ghoulish02</EDID>
@@ -5531,7 +5533,7 @@ We will not act against him until we have word from you, or a sign from Atom him
 Brother Hoberman</Source>
       <Dest>Matko Isoldo -&#xD;
 &#xD;
-Jihovýchodně od kráteru jsme našli jeskyni, kterou obývá ten zvaný "Virgil". Jak jsi předpokládala, je chráněna.&#xD;
+Jihovýchodně od kráteru jsme našli jeskyni, kterou obývá ten takzvaný „Virgil“. Jak jsi předpokládala, je chráněna.&#xD;
 &#xD;
 Nebudeme proti němu zasahovat, dokud neobdržíme Tvůj souhlas nebo znamení od samotného Atoma.&#xD;
 &#xD;
@@ -5547,7 +5549,7 @@ Bratr Hoberman</Dest>
       <EDID>Fury</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+50% Melee Damage, +25 Damage Resist and -5 Perception for 8 minutes.</Source>
-      <Dest>+50% poškození v boji zblízka, +25 odolnost vůči zranění a -5 vnímání na 8 minut.</Dest>
+      <Dest>+50 % poškození v boji zblízka, +25 odolnost vůči zranění a -5 vnímání na 8 minut.</Dest>
     </String>
     <String List="1" sID="0307A9">
       <EDID>GrapeMentats</EDID>
@@ -5565,7 +5567,7 @@ Bratr Hoberman</Dest>
       <EDID>GunFu03</EDID>
       <REC>PERK:DESC</REC>
       <Source>In V.A.T.S. you instantly do a Critical Hit against your fourth target and beyond.</Source>
-      <Dest>V režimu V.A.T.S. okamžitě působíš kritický zásah čtvrtému cíli a všem cílům po něm následujících.</Dest>
+      <Dest>V režimu V.A.T.S. okamžitě působíš kritický zásah čtvrtému cíli a všem cílům po něm následujícím.</Dest>
     </String>
     <String List="1" sID="031945">
       <EDID>FourLeafClover04</EDID>
@@ -5577,7 +5579,7 @@ Bratr Hoberman</Dest>
       <EDID>GunFu02</EDID>
       <REC>PERK:DESC</REC>
       <Source>In V.A.T.S. you do 50% more damage to your third target and beyond.</Source>
-      <Dest>Působíš o 50 % větší poškození třetímu cíli v režimu V.A.T.S. a cílům po něm následujících.</Dest>
+      <Dest>Působíš o 50 % větší poškození třetímu cíli v režimu V.A.T.S. a cílům po něm následujícím.</Dest>
     </String>
     <String List="1" sID="033422">
       <EDID>FortifyXPBonusFoodPerk</EDID>
@@ -5603,7 +5605,7 @@ Bratr Hoberman</Dest>
       <EDID>FollowersCompanionMurderDismissMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=Companion&gt; won't participate in murder.</Source>
-      <Dest>&lt;Alias=Companion&gt; se nebude spolupachatelem vraždy.</Dest>
+      <Dest>&lt;Alias=Companion&gt; nebude spolupachatelem vraždy.</Dest>
     </String>
     <String List="1" sID="035DE1">
       <EDID>FollowersDogmeatCompanionDismissMessageNameUnknown</EDID>
