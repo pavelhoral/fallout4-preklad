@@ -5,6 +5,7 @@
 var parseSource = require('./parse/parse-source'),
     parseModfile = require('./parse/parse-modfile'),
     parseStrings = require('./parse/parse-strings'),
+    renderFormId = require('./utils/render-formId'),
     program = require('commander'),
     util = require('util'),
     fs = require('fs');
@@ -24,11 +25,6 @@ function readModfile(handler) {
     modfileParser.parse(handler);
     modfileSource.close();
     return handler;
-}
-
-function renderFormId(formId) {
-    var hexId = formId.toString(16).toUpperCase();
-    return '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']';
 }
 
 function writeOutput(data) {

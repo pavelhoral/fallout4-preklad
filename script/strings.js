@@ -3,6 +3,7 @@
  * Search for text in STRINGS.
  */
 var parseStrings = require('./parse/parse-strings'),
+    renderStringId = require('./utils/render-formId'),
     program = require('commander'),
     fs = require('fs');
 
@@ -14,11 +15,6 @@ program.
 
 if (!program.args.length) {
     program.help();
-}
-
-function renderStringId(stringId) {
-    var hexId = (stringId | 0).toString(16).toUpperCase();
-    return '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']';
 }
 
 var strings = new parseStrings.StringsReader().readFile(program.strings),

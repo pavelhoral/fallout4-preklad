@@ -1,15 +1,11 @@
 "use strict";
 
-var parseModfile = require('../parse/parse-modfile');
+var parseModfile = require('../parse/parse-modfile'),
+    renderFormId = require('../utils/render-formId');
 
 var MODFILE_TYPES = new parseModfile.ModfileType([
     'QUST', 'DIAL', 'INFO', 'EDID'
 ]);
-
-function renderFormId(formId) {
-    var hexId = formId.toString(16).toUpperCase();
-    return '[' + '00000000'.substring(0, 8 - hexId.length) + hexId + ']';
-}
 
 /**
  * ModfileHandler implementation for extracting DIAL/INFO tree.
