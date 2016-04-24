@@ -354,7 +354,7 @@ Bratrstvo oceli se objevilo ve velkém stylu. Musím tam někoho poslat, aby je 
 &#xD;
 Povídá se, že Fahrenheitini lidé v Salemu jsou na kordy s nedalekou osadou. Musím být na pozoru, jestli sem z těch míst nezabloudí více tuláků, mohl bych jejich neobyčejné schopnosti dobře využít.&#xD;
 &#xD;
-Výslech mojí zamýšlené náhrady stále bez výsledků. Změnit metodu? Dokážeme tu věc vůbec cracknout? Zaplatil jsem Bobbi za nějaké korby, které by fungovaly jako stráž, kdyby se to opět pokusilo utéct. Na to bych se rád podíval, suterén je zamčený dokonale.&#xD;
+Výslech mojí zamýšlené náhrady stále bez výsledků. Změnit metodu? Dokážeme tu věc vůbec cracknout? Poslal jsem tam stráž pro případ, kdyby se to opět pokusilo utéct. Na to bych se rád podíval, suterén je zamčený dokonale.&#xD;
 &#xD;
 Pořád si nejsem jistý, na co si to SM hraje. Vypadá to, že prostě navázal na to, kde brácha skončil. O co jde? Čeká na něco?</Dest>
     </String>
@@ -424,10 +424,11 @@ Please ensure that Charge Pod is unobstructed.&#xD;
 </Source>
       <Dest>&#xD;
 ...Zpřístupňování stanice... &#xD;
-...Čekání na odezvu jednotky Protektrona... &#xD;
+...Čekání na odezvu jednotky protektrona... &#xD;
 ...Vysílání vypínacího signálu... &#xD;
 &#xD;
-Prosím, ujistěte se, že je nabíjecí stanice volná.</Dest>
+Prosíme, ujistěte se, že je nabíjecí stanice volná.&#xD;
+</Dest>
     </String>
     <String List="0" sID="014CC5">
       <EDID>MS17</EDID>
@@ -511,7 +512,7 @@ Prosím, ujistěte se, že je nabíjecí stanice volná.</Dest>
       <EDID>NHMFreightDepotLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>NH&amp;M Freight Depot</Source>
-      <Dest>NH&amp;M nádraží</Dest>
+      <Dest>Nákladové nádraží NH&amp;M</Dest>
     </String>
     <String List="0" sID="015586">
       <EDID>NpcBedMilitaryCotMattressLay01</EDID>
@@ -583,7 +584,7 @@ Prosím, ujistěte se, že je nabíjecí stanice volná.</Dest>
       <EDID>NHMFreightDepotMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>NH&amp;M Freight Depot</Source>
-      <Dest>NH&amp;M nádraží</Dest>
+      <Dest>Nákladové nádraží NH&amp;M</Dest>
     </String>
     <String List="0" sID="0161C7">
       <EDID>nativeDoorTerminalSubMenu</EDID>
@@ -631,7 +632,7 @@ Prosím, ujistěte se, že je nabíjecí stanice volná.</Dest>
       <EDID>NpcBedVaultBunkChildLay01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Bed</Source>
-      <Dest>Poschoďová postel</Dest>
+      <Dest>Patrová postel</Dest>
     </String>
     <String List="0" sID="0168DE">
       <EDID>NpcBenchShortVaultSit01</EDID>
@@ -649,7 +650,7 @@ Prosím, ujistěte se, že je nabíjecí stanice volná.</Dest>
       <EDID>NpcCouchAirplaneSit01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Airplane Seat</Source>
-      <Dest>Letadlová sedadla</Dest>
+      <Dest>Letadlové sedadlo</Dest>
     </String>
     <String List="0" sID="0169AF">
       <EDID>MS17OfficeTerminalSubTerminal1</EDID>
@@ -838,7 +839,7 @@ Notes:&#xD;
 After bringing up my concerns to her Ms. McGovern has really come around. Part of our job is to act natural and if anything she over does it.&#xD;
 &#xD;
 I really hope she's truly recovering instead of putting on an act. Even if it is an act, she's utterly indispensable to our operation.</Source>
-      <Dest>McGovern, T.&#xD;
+      <Dest>McGovernová, T.&#xD;
 &#xD;
 Starosti:&#xD;
 * Návštěvníci si všímají její „nervozity“ a „vylekanosti“.&#xD;
@@ -883,7 +884,7 @@ Vážně doufám, že se skutečně zotavuje a že to pouze nepředstírá. I kd
       <EDID>nativeTurretTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Turret Functions...</Source>
-      <Dest>Zpřístupňování funkcí věží...</Dest>
+      <Dest>Zpřístupňování funkcí věže...</Dest>
     </String>
     <String List="0" sID="0181FC">
       <EDID>OfficeFileCabinet02_Beige_Vault</EDID>
@@ -973,7 +974,7 @@ Vážně doufám, že se skutečně zotavuje a že to pouze nepředstírá. I kd
       <EDID>OldGranaryBuryingGround</EDID>
       <REC>REFR:FULL</REC>
       <Source>Old Granary Burying Ground</Source>
-      <Dest>Pohřebiště u Staré sýpky</Dest>
+      <Dest>Pohřebiště U Staré sýpky</Dest>
     </String>
     <String List="0" sID="018B36">
       <EDID>MS19MiscVault81</EDID>
@@ -1009,11 +1010,12 @@ Vážně doufám, že se skutečně zotavuje a že to pouze nepředstírá. I kd
 &#xD;
 Please ensure that Charge Pad is unobstructed.&#xD;
 </Source>
-      <Dest>...Zpřístupňování stanice... &#xD;
-...Čekání na odezvu jednotky Anihilatrona... &#xD;
+      <Dest>&#xD;
+...Zpřístupňování stanice... &#xD;
+...Čekání na odezvu jednotky anihilatrona... &#xD;
 ...Vysílání vypínacího signálu... &#xD;
 &#xD;
-Prosím, ujistěte se, že je nabíjecí stanice volná.&#xD;
+Prosíme, ujistěte se, že je nabíjecí stanice volná.&#xD;
 </Dest>
     </String>
     <String List="0" sID="01905E">
@@ -1051,14 +1053,14 @@ STATUS: Unit(s) Patrolling/Active&#xD;
 CONNECTED: &lt;Token.ValueInt=Connected&gt; Unit(s) Connected to this terminal&#xD;
 &#xD;
 Please choose an option:</Source>
-      <Dest>Standardní rozhraní ovládání Protektrona v2.40&#xD;
+      <Dest>Standardní rozhraní ovládání protektrona v2.40&#xD;
 &#xD;
-Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou Protektrona může vést k trvalým následkům.&#xD;
+Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou protektrona může vést k trvalým následkům.&#xD;
 &#xD;
 STAV: jednotka/y na hlídce/aktivní&#xD;
 PŘIPOJENY: počet jednotek připojených na tento terminál: &lt;Token.ValueInt=Connected&gt;&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="01945B">
       <EDID>NPCInstituteReclamationChair01</EDID>
@@ -1092,7 +1094,7 @@ Starosti:&#xD;
 * Návštěvníci se cítí nepříjemně kvůli jeho celkově asociálnímu chování.&#xD;
 &#xD;
 Poznámky:&#xD;
-Huntley je v Covenantu nový, a vezmeme-li v úvahu jeho minulost, je pochopitelné, že se necítí ve své kůži. Snad mu naše komunita postupem času pomůže se cítit bezpečně. Jestliže však bude i nadále návštěvníky znervózňovat, bude jej možná třeba přemístit.&#xD;
+Huntley je v Covenantu nový a vezmeme-li v úvahu jeho minulost, je pochopitelné, že se necítí ve své kůži. Snad mu naše komunita postupem času pomůže se cítit bezpečně. Jestliže však bude i nadále návštěvníky znervózňovat, bude jej možná potřeba přemístit.&#xD;
 &#xD;
 Má to ale i svá pozitiva, díky své samotářské povaze je ideální pro doručování zpráv do Areálu. Málokdy si někdo všimne jeho absence, a to i když jsou ve městě obchodníci.</Dest>
     </String>
@@ -1112,7 +1114,7 @@ Our guest dormitories are spacious, well appointed, and our friendly Mr. Handy e
 We hope you enjoy your stay here as much as we enjoy having you!</Source>
       <Dest>Ať už si chcete jen na chvíli odpočinout, nebo hodláte zůstat déle, v Covenantu máme vše, co hledáte. Díky naší pozici ve středu Commonwealthu máme přístup k těm nejlepším a nejbezpečnějším obchodním trasám v oblasti.&#xD;
 &#xD;
-Naše ubytovny pro hosty jsou prostorné, komfortní a náš přátelský pan Šikulka dokonce nabízí limonádu zdarma. Pro větší karavany poskytujeme na požádání spacáky navíc. Stačí si promluvit s panem Fitzgeraldem.&#xD;
+Naše ubytovny pro hosty jsou prostorné, komfortní a náš přátelský Pan Šikulka dokonce nabízí limonádu zdarma. Pro větší karavany poskytujeme na požádání spacáky navíc. Stačí si promluvit s panem Fitzgeraldem.&#xD;
  &#xD;
 Doufáme, že si užijete svůj pobyt zde stejně, jako si my užíváme to, že Vás tu máme!</Dest>
     </String>
@@ -1163,8 +1165,8 @@ Doufáme, že si užijete svůj pobyt zde stejně, jako si my užíváme to, že
       <REC id="1">TERM:BTXT</REC>
       <Source>                ! ! ERROR ! !&#xD;
 Protectron unit absent or damaged!</Source>
-      <Dest>                ! ! CHYBA ! !&#xD;
-Jednotka Protektrona chybí, nebo je poškozená!</Dest>
+      <Dest>! ! CHYBA ! !&#xD;
+Jednotka protektrona chybí nebo je poškozená!</Dest>
     </String>
     <String List="0" sID="019DB0">
       <EDID>NpcChairAirplaneSit01</EDID>
@@ -1176,7 +1178,7 @@ Jednotka Protektrona chybí, nebo je poškozená!</Dest>
       <EDID>NpcBedVaultBunkLay01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Bed</Source>
-      <Dest>Poschoďová postel</Dest>
+      <Dest>Patrová postel</Dest>
     </String>
     <String List="0" sID="019E85">
       <EDID>OldStateHouseTerminalMain</EDID>
@@ -1203,17 +1205,18 @@ Remember, it's all for your SAFEty!&#xD;
 </Source>
       <Dest>Často se nás ptají na test BEZPEČÍ. Co to je? Proč je to nutné?&#xD;
 &#xD;
-Vaše a naše bezpečí je naší prvořadou prioritou. A právě tento test představuje způsob, kterým jej udržujeme. Test, jehož cílem je získat psychologické profily jeho účastníků, byl navržen některými z  největších myslitelů starého světa.&#xD;
+Vaše a naše bezpečí je naší prvořadou prioritou. A právě tento test představuje způsob, kterým jej udržujeme. Test, jehož cílem je získat psychologické profily jeho účastníků, byl navržen některými z největších myslitelů starého světa.&#xD;
 &#xD;
-Lidé testem neprojdou z nejrůznějších důvodů: protispolečenské tendence, vulgarita či duševní zdraví, jmenujeme-li některé. Často by byli v naprostém pořádku, pokud bychom je pustili dovnitř. Ale jsme zvlášť opatrní, abychom zajistili, že si pohodlí Covenantu budou moci užívat pouze dobří, kvalitní lidé (jako jste Vy). &#xD;
+Lidé testem neprojdou z nejrůznějších důvodů: protispolečenské tendence, vulgarita či duševní zdraví, jmenujeme-li jen některé. Často by byli v naprostém pořádku, pokud bychom je pustili dovnitř. Ale jsme zvlášť opatrní, abychom zajistili, že si pohodlí Covenantu budou moci užívat pouze dobří, kvalitní lidé (jako jste Vy). &#xD;
 &#xD;
-Pamatujte, vše je to pro vaše BEZPEČÍ!</Dest>
+Pamatujte, vše je to pro vaše BEZPEČÍ!&#xD;
+</Dest>
     </String>
     <String List="0" sID="01A0BF">
       <EDID>nativeProtectronTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Protectron Control</Source>
-      <Dest>Ovládání Protektrona</Dest>
+      <Dest>Ovládání protektrona</Dest>
     </String>
     <String List="0" sID="01A1E7">
       <EDID>MS17_Q8</EDID>
@@ -1243,7 +1246,7 @@ Pamatujte, vše je to pro vaše BEZPEČÍ!</Dest>
       <EDID>MS17BloodEntryMessage</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>[Investigate (Per 6+)] Examine blood trail.</Source>
-      <Dest>[Investigate (Per 6+)] Prozkoumat stopu krve.</Dest>
+      <Dest>[Vnímání 6+] Prozkoumat stopu krve.</Dest>
     </String>
     <String List="0" sID="01A5DC">
       <EDID>MS17_Q5</EDID>
@@ -1266,7 +1269,7 @@ LOADING[/]&#xD;
 LOADING[|]&#xD;
 LOADING[\]&#xD;
 LOADING[-]</Source>
-      <Dest>-=Robotické rozhraní Anihilatrona=-&#xD;
+      <Dest>-=Robotické rozhraní anihilatrona=-&#xD;
 NAČÍTÁNÍ[-]&#xD;
 NAČÍTÁNÍ[/]&#xD;
 NAČÍTÁNÍ[|]&#xD;
@@ -1302,14 +1305,14 @@ STATUS: Unit(s) Charging/Inactive&#xD;
 CONNECTED: &lt;Token.ValueInt=Connected&gt; Unit(s) Connected to this terminal&#xD;
 &#xD;
 Please choose an option:</Source>
-      <Dest>Standardní rozhraní ovládání Protektrona v2.40&#xD;
+      <Dest>Standardní rozhraní ovládání protektrona v2.40&#xD;
 &#xD;
-Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou Protektrona může vést k trvalým následkům.&#xD;
+Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou protektrona může vést k trvalým následkům.&#xD;
 &#xD;
 STAV: jednotka/y se nabíjí/neaktivní&#xD;
 PŘIPOJENY: počet jednotek připojených na tento terminál: &lt;Token.ValueInt=Connected&gt;&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="01AA12">
       <EDID>NationalGuardTrainingYard02</EDID>
@@ -1397,11 +1400,11 @@ Prosím, zvolte možnost:</Dest>
 STATUS: Unit(s) Patrolling/Active&#xD;
 &#xD;
 Please choose an option:</Source>
-      <Dest>-=Robotické rozhraní Anihilatrona=-&#xD;
+      <Dest>-=Robotické rozhraní anihilatrona=-&#xD;
 &#xD;
 STAV: jednotka/y na hlídce/aktivní&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="01B168">
       <EDID>MS17OfficeTerminalSubTerminal1</EDID>
@@ -1415,15 +1418,15 @@ Notes:&#xD;
 I have no specific concerns about Dr. Montgomery. Looking at her now, you'd have no idea of what she's been through. The only niggling detail is that she keeps to herself and hasn't integrated into the community. But I suspect she resents being transferred here and would prefer to be working on the core mission. &#xD;
 &#xD;
 But before she was here, our visitors' number one complaint was the lack of medical services. So we need at least one doctor here. And, unfortunately for her, she's the only one qualified that has a suitable temperament.</Source>
-      <Dest>Montgomery, P.&#xD;
+      <Dest>Montgomeryová, P.&#xD;
 &#xD;
 Starosti:&#xD;
 * Žádné&#xD;
 &#xD;
 Poznámky:&#xD;
-S doktorkou Montgomeryovou nemám žádné konkrétní problémy. Podíváte-li se na ni dnes, nikdy byste netušili, čím si prošla. Na to ukazuje jediný drobný detail, a sice že je samotářská a nezačlenila se do komunity. Mám však podezření, že své převelení sem nese nelibě a raději by pracovala na hlavní části mise.&#xD;
+S doktorkou Montgomeryovou nemám žádné konkrétní problémy. Podíváte-li se na ni dnes, nikdy byste netušili, čím si prošla. Na to ukazuje jediný drobný detail, a sice, že je samotářská a nezačlenila se do komunity. Mám však podezření, že své převelení sem nese nelibě a raději by pracovala na hlavní části mise.&#xD;
 &#xD;
-Ale předtím, než tu byla, byl stížností číslo jedna od našich návštěvníků nedostatek zdravotní péče. Čili potřebujeme zde alespoň jednoho doktora. A ona je, naneštěstí pro ni, jediná s odpovídající kvalifikací a vyhovující povahou.</Dest>
+Ale předtím než tu byla, byl stížností číslo jedna od našich návštěvníků nedostatek zdravotní péče. Čili potřebujeme zde alespoň jednoho doktora. A ona je, naneštěstí pro ni, jediná s odpovídající kvalifikací a vyhovující povahou.</Dest>
     </String>
     <String List="0" sID="01B20D">
       <EDID>NpcCouchOfficeSit01Dogmeat01</EDID>
@@ -1507,7 +1510,7 @@ Uzel | Stav | Status | Vzdálenost&#xD;
       <EDID>MS17CameraEntryMessage</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>[Intelligence 6+] Examine camera.</Source>
-      <Dest>[Intelligence 6+] Prozkoumat kameru.</Dest>
+      <Dest>[Inteligence 6+] Prozkoumat kameru.</Dest>
     </String>
     <String List="0" sID="01B5AC">
       <EDID>NpcBenchStoneSit01</EDID>
@@ -1647,7 +1650,7 @@ STAV: odemčeno</Dest>
       <EDID>nativeProtectronTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Standard Protectron Control Interface v2.40</Source>
-      <Dest>Standardní rozhraní ovládání Protektrona v2.40</Dest>
+      <Dest>Standardní rozhraní ovládání protektrona v2.40</Dest>
     </String>
     <String List="0" sID="01C1A4">
       <EDID>MS17OfficeTerminalPassword</EDID>
@@ -1767,9 +1770,9 @@ STAV: &lt;Token.Name=TurretOnStatus&gt;, &lt;Token.Name=TurretAIstatus&gt;&#xD;
 ADMIN: &lt;Token.Name=TurretFaction&gt;&#xD;
 PŘIPOJENÝCH JEDNOTEK:&lt;Token.ValueInt=TurretsConnected&gt;&#xD;
 &#xD;
-Prosím, dbejte zvýšené opatrnosti v okolí věží. Uživatelé by měli vždy předpokládat, že jsou věže nabité a způsobilé k palbě.&#xD;
+Prosíme, dbejte zvýšené opatrnosti v okolí věží. Uživatelé by měli vždy předpokládat, že jsou věže nabité a způsobilé k palbě.&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="01D0C6">
       <EDID>NpcStoolStadiumSit01EatNoodles</EDID>
@@ -1793,7 +1796,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17_Q8</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Sneak into his quarters and steal it.</Source>
-      <Dest>Proplížíš se na jeho ubikaci a komiks mu ukradneš..</Dest>
+      <Dest>Proplížíš se na jeho ubikaci a komiks mu ukradneš.</Dest>
     </String>
     <String List="0" sID="01D19F">
       <EDID>MS17_Q8</EDID>
@@ -1841,7 +1844,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17_Q7</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Prayer. Maybe God will spare you in exchange for a life of pious devotion.</Source>
-      <Dest>Modlitba. Možná tě bůh ušetří, povedeš-li zbožný život.</Dest>
+      <Dest>Modlitba. Možná tě Bůh ušetří, povedeš-li zbožný život.</Dest>
     </String>
     <String List="0" sID="01D1C5">
       <EDID>MS17_Q7</EDID>
@@ -1925,7 +1928,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17DebugPublicTerminal</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Hack with high science.</Source>
-      <Dest>Hacknout pomocí vysoké úrovně Vědy.</Dest>
+      <Dest>Hacknout pomocí vysoké úrovně vědy.</Dest>
     </String>
     <String List="0" sID="01D237">
       <EDID>MS17DebugPublicTerminal</EDID>
@@ -1954,7 +1957,7 @@ Please advise any personnel standing near charge pod to make way.&#xD;
 ...Zapínání jednotky... &#xD;
 ...Nahrávání přiřazených podprogramů... &#xD;
 &#xD;
-Prosím, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstoupily.&#xD;
+Prosíme, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstoupily.&#xD;
 </Dest>
     </String>
     <String List="0" sID="01D44E">
@@ -2017,7 +2020,7 @@ STAV: zaneprázdněno</Dest>
       <EDID>NatickBanksLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Natick Banks</Source>
-      <Dest>Natické nábřeží</Dest>
+      <Dest>Natick</Dest>
     </String>
     <String List="0" sID="01D6EE">
       <EDID>nativeSwitchDoorTerminalSubMenu</EDID>
@@ -2162,7 +2165,7 @@ Optická detekce neoprávněného vniknutí&#xD;
 &#xD;
 Vítejte, Administrator_uživatel.&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="01DFB9">
       <EDID>NpcChairInstituteSit02</EDID>
@@ -2210,7 +2213,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17MiscCovenant</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Investigate &lt;Alias=MyLocation&gt;</Source>
-      <Dest>Prozkoumat lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Prozkoumej lokaci &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="01E7C1">
       <EDID>OldStateHouseTerminalSubIntel</EDID>
@@ -2336,7 +2339,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17RadioEntryMessage</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>[Perception 6+] Examine Radio.</Source>
-      <Dest>[Perception 6+] Prozkoumat rádio.</Dest>
+      <Dest>[Vnímání 6+] Prozkoumat rádio.</Dest>
     </String>
     <String List="0" sID="02000B">
       <EDID>nativeTripwireTerminal</EDID>
@@ -2404,19 +2407,19 @@ Please choose an option:</Source>
 ADMIN: &lt;Token.Name=SpotlightFaction&gt;&#xD;
 PŘIPOJENÝCH JEDNOTEK:&lt;Token.ValueInt=SpotlightsConnected&gt;&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="0207E9">
       <EDID>nativeProtectronTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt;Protectron Control</Source>
-      <Dest>&gt;Ovládání Protektrona</Dest>
+      <Dest>&gt;Ovládání protektrona</Dest>
     </String>
     <String List="0" sID="0208DE">
       <EDID>nativeAssaultronTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt;Assaultron Control</Source>
-      <Dest>&gt;Ovládání Anihilatrona</Dest>
+      <Dest>&gt;Ovládání anihilatrona</Dest>
     </String>
     <String List="0" sID="020A5F">
       <EDID>nativeSwitchDoorTerminalSubMenu</EDID>
@@ -2550,7 +2553,7 @@ Starosti:&#xD;
 * Několikrát napomenuta za to, že varovala jednoho obchodníka před Institutem a „jeho způsoby“.&#xD;
 &#xD;
 Poznámky:&#xD;
-Pokud by paní Fitzgeraldová nevykonávala svou roli s takovou extrémní efektivitou, požádal bych o její přeřazení do Areálu. Je však vdaná za pana Fitzgeralda, a tak je její trvalé nasazení zde nutné. Nedá se dělat nic jiného než často zdůrazňovat naše poslání a jeho rámec.&#xD;
+Pokud by paní Fitzgeraldová nevykonávala svou roli s takovou extrémní efektivitou, požádal bych o její přeřazení do Areálu. Je však vdaná za pana Fitzgeralda, a tak je její trvalé nasazení zde nutné. Nedá se dělat nic jiného, než často zdůrazňovat naše poslání a jeho rámec.&#xD;
 &#xD;
 Občas mám pocit, že jí více záleží na provozu jejího obchodu než na našich cílech.</Dest>
     </String>
@@ -2622,11 +2625,11 @@ Pan Fitzgerald přistupuje k našemu poslání se stejnou vážností jako já. 
 Consumer commands are limited to activation/deactivation of the turret(s) hardlined to this terminal.  For all other operations, please refer to a licensed technician.&#xD;
 &#xD;
 Any tampering will void warranty and indemnify the manufacturer against potenial injury and/or death caused to users or passers-by.</Source>
-      <Dest>Ovládání věží by mělo být vyhrazeno pouze vyškoleným odborníkům.&#xD;
+      <Dest>Ovládání věže by mělo být vyhrazeno pouze vyškoleným odborníkům.&#xD;
 &#xD;
-Příkazy zákazníků jsou omezeny na aktivaci/deaktivaci věže či věží napojených na tento terminál. Pro provedení dalších operací se, prosím, obraťte na licencovaného technika.&#xD;
+Příkazy zákazníků jsou omezeny na aktivaci/deaktivaci věže či věží napojených na tento terminál. Pro provedení dalších operací se, prosíme, obraťte na licencovaného technika.&#xD;
 &#xD;
-Jakékoli neoprávněné zacházení anuluje záruku a zbaví výrobce odpovědnosti za potenciální zranění a/nebo smrt uživatelů či kolemjdoucích.</Dest>
+Jakékoli neoprávněné zacházení anuluje záruku a zbaví výrobce odpovědnosti za potenciální zranění anebo smrt uživatelů či kolemjdoucích.</Dest>
     </String>
     <String List="0" sID="022992">
       <EDID>MS17RaiderReports</EDID>
@@ -2668,7 +2671,7 @@ Jakékoli neoprávněné zacházení anuluje záruku a zbaví výrobce odpovědn
       <EDID>NatickBanksMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Natick Banks</Source>
-      <Dest>Natické nábřeží</Dest>
+      <Dest>Natick</Dest>
     </String>
     <String List="0" sID="022E54">
       <EDID>NpcChairStadiumRedSit02</EDID>
@@ -2798,11 +2801,10 @@ Assaultron unit absent or damaged!&#xD;
 &#xD;
 ::error 3487xKSJ109j&#xD;
 </Source>
-      <Dest>                ! ! CHYBA ! !&#xD;
-Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
+      <Dest>! ! CHYBA ! !&#xD;
+Jednotka anihilatrona chybí nebo je poškozená!&#xD;
 &#xD;
-::chyba 3487xKSJ109j&#xD;
-</Dest>
+::chyba 3487xKSJ109j</Dest>
     </String>
     <String List="0" sID="0238F1">
       <EDID>NpcChairStadiumRedSit01</EDID>
@@ -2832,7 +2834,7 @@ Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
       <EDID>NpcCouchAirplaneSit02</EDID>
       <REC>FURN:FULL</REC>
       <Source>Airplane Seat</Source>
-      <Dest>Letadlová sedadla</Dest>
+      <Dest>Letadlové sedadlo</Dest>
     </String>
     <String List="0" sID="023C4B">
       <EDID>OldStateHouseTerminalSubLedger</EDID>
@@ -2874,7 +2876,7 @@ Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
       <EDID>nativeTurretTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Turret Control</Source>
-      <Dest>Ovládání věží</Dest>
+      <Dest>Ovládání věže</Dest>
     </String>
     <String List="0" sID="023E6F">
       <EDID>OfficeFileCabinet03_Beige_Prewar</EDID>
@@ -2904,7 +2906,7 @@ Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
       <EDID>nativeAssaultronTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Assaultron Control</Source>
-      <Dest>Ovládání Anihilatrona</Dest>
+      <Dest>Ovládání anihilatrona</Dest>
     </String>
     <String List="0" sID="024070">
       <EDID>NatDoorSm02</EDID>
@@ -2946,7 +2948,7 @@ Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
       <EDID>nativeAssaultronTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Assaultron Control</Source>
-      <Dest>&gt; Ovládání Anihilatrona</Dest>
+      <Dest>&gt; Ovládání anihilatrona</Dest>
     </String>
     <String List="0" sID="02466E">
       <EDID>MS17Blythe</EDID>
@@ -2966,9 +2968,9 @@ Jednotka Anihilatrona chybí, nebo je poškozená!&#xD;
       <Source>===================================&#xD;
 Covenant Public Terminal - Welcome!&#xD;
 ===================================</Source>
-      <Dest>===================================&#xD;
+      <Dest>=======================================&#xD;
 Veřejný terminál v Covenantu - Vítejte!&#xD;
-===================================</Dest>
+=======================================</Dest>
     </String>
     <String List="0" sID="02491D">
       <EDID>OldGulletSinkhole01</EDID>
@@ -3095,7 +3097,7 @@ Please advise any personnel standing near charge pod to make way.&#xD;
 ...Zapínání jednotky... &#xD;
 ...Nahrávání přiřazených podprogramů... &#xD;
 &#xD;
-Prosím, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstoupily.&#xD;
+Prosíme, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstoupily.&#xD;
 </Dest>
     </String>
     <String List="0" sID="025362">
@@ -3176,11 +3178,11 @@ Prosím, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstou
       <Source>Map to Compound</Source>
       <Dest>Mapa k Areálu</Dest>
     </String>
-    <String List="0" sID="0258F4" Partial="1">
+    <String List="0" sID="0258F4">
       <EDID>NpcLibertyPrimeAgitatorInsert01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Reactor Port</Source>
-      <Dest>Otvor reaktoru</Dest>
+      <Dest>Port reaktoru</Dest>
     </String>
     <String List="0" sID="0258F7">
       <EDID>MS17OfficeTerminalSubTerminal1</EDID>
@@ -3288,7 +3290,7 @@ Prosím, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstou
       <EDID>MS17RadioEntryMessage</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>[Luck 9+] Fiddle with radio.</Source>
-      <Dest>[Luck 9+] Pohrát si s rádiem.</Dest>
+      <Dest>[Štěstí 9+] Pohrát si s rádiem.</Dest>
     </String>
     <String List="0" sID="02648E">
       <EDID>nativeSafeTerminalSubMenu</EDID>
@@ -3296,8 +3298,8 @@ Prosím, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodstou
       <Source>...Checking Clearance..........&#xD;
 ...AUTHORIZED.................&#xD;
 ...Locking Mechanism Disable..</Source>
-      <Dest>...Kontrola oprávnění..........&#xD;
-...SCHVÁLENO.................&#xD;
+      <Dest>...Kontrola oprávnění................&#xD;
+...SCHVÁLENO.........................&#xD;
 ...Zamykací mechanismus deaktivován..</Dest>
     </String>
     <String List="0" sID="0264D4">
@@ -3325,7 +3327,8 @@ Povídá se, že Fahrenheitini lidé v Salemu jsou na kordy s nedalekou osadou. 
 &#xD;
 Výslech mojí zamýšlené náhrady stále bez výsledků. Změnit metodu? Dokážeme tu věc vůbec cracknout? Zaplatil jsem Bobbi za nějaké korby, které by fungovaly jako stráž, kdyby se to opět pokusilo utéct. Na to bych se rád podíval, suterén je teď uzamčený dokonale.&#xD;
 &#xD;
-Pořád si nejsem jistý, na co si to SM hraje. Vypadá to, že prostě navázal na to, kde brácha skončil. O co jde? Čeká na něco?</Dest>
+Pořád si nejsem jistý, na co si to SM hraje. Vypadá to, že prostě navázal na to, kde brácha skončil. O co jde? Čeká na něco?&#xD;
+</Dest>
     </String>
     <String List="0" sID="026522">
       <EDID>MS17RobotSurgeon</EDID>
@@ -3406,8 +3409,8 @@ Dodavatel z DC (12,000)</Dest>
       <Source>...Checking Clearance..........&#xD;
 ...AUTHORIZED.................&#xD;
 ...Locking Mechanism Enable...</Source>
-      <Dest>...Kontrola oprávnění..........&#xD;
-...SCHVÁLENO.................&#xD;
+      <Dest>...Kontrola oprávnění..............&#xD;
+...SCHVÁLENO.......................&#xD;
 ...Zamykací mechanismus aktivován..</Dest>
     </String>
     <String List="0" sID="026FA0">
@@ -3418,11 +3421,11 @@ Dodavatel z DC (12,000)</Dest>
 STATUS: Unit(s) Inactive&#xD;
 &#xD;
 Please choose an option:</Source>
-      <Dest>-=Robotické rozhraní Anihilatrona=-&#xD;
+      <Dest>-=Robotické rozhraní anihilatrona=-&#xD;
 &#xD;
 STAV: jednotka/y neaktivní&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="02707C">
       <EDID>nativeProtectronTerminalSubMenu</EDID>
@@ -3464,7 +3467,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Find the Covenant Compound</Source>
-      <Dest>Najdi Covenantský Areál</Dest>
+      <Dest>Najdi covenantský Areál</Dest>
     </String>
     <String List="0" sID="0274A4">
       <EDID>nativeTurretTerminalSubMenu</EDID>
@@ -3480,9 +3483,9 @@ Please choose an option:</Source>
 Počet připojených jednotek: &lt;Token.ValueInt=TurretsConnected&gt; &#xD;
 ADMIN: &lt;Token.Name=TurretFaction&gt;&#xD;
 &#xD;
-Prosím, dbejte zvýšené opatrnosti. Vždy předpokládejte, že jsou věže nabité a způsobilé k palbě.&#xD;
+Prosíme, dbejte zvýšené opatrnosti. Vždy předpokládejte, že jsou věže nabité a způsobilé k palbě.&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="0274E1">
       <EDID>nativeSwitchDoorTerminalSubMenu</EDID>
@@ -3536,7 +3539,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>nativeProtectronTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Protectron Control</Source>
-      <Dest>&gt; Ovládání Protektrona</Dest>
+      <Dest>&gt; Ovládání protektrona</Dest>
     </String>
     <String List="0" sID="02817B">
       <EDID>MS17</EDID>
@@ -3874,9 +3877,9 @@ Povězte o nás svým přátelům.</Dest>
       <EDID>NpcBedVaultBunkLay02</EDID>
       <REC>FURN:FULL</REC>
       <Source>Bed</Source>
-      <Dest>Poschoďová postel</Dest>
+      <Dest>Patrová postel</Dest>
     </String>
-    <String List="0" sID="02A633" Partial="1">
+    <String List="0" sID="02A633">
       <EDID>nativeBoSR04TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>BoSR04</Source>
@@ -4123,7 +4126,7 @@ Dokud nebude tahle záležitost s „Čestnýn Danem“ vyřešena, dejte si poh
 Od: Manny &#xD;
 Komu: Roslyn Chambersová &#xD;
 &#xD;
-Náš tým je zpátky na nohou a připraven sebrat nějaké synťáky. Stále sledujeme subjekt Boyda, stačí vydat rozkaz.</Dest>
+Náš tým je zpátky na nohou a připraven sebrat nějaké synťáky. Stále sledujeme subjekt Boyd, stačí vydat rozkaz.</Dest>
     </String>
     <String List="0" sID="02BB16">
       <EDID>MS17ChambersSubTerminal</EDID>
@@ -4149,7 +4152,7 @@ Covenant is a mistake. I cannot dispute Dr. Ryan's case for the therapeutic valu
       <Dest>Od: Roslyn Chambersová&#xD;
 Komu: Emmanuel Rogers&#xD;
 &#xD;
-Opravdu si myslíte, že tyto námitky již nebyl předtím vzneseny? Ale samozřejmě, jste-li schopen navrhnout použitelnou alternativu, směle do toho. Ale mějte na paměti toto:&#xD;
+Opravdu si myslíte, že tyto námitky již nebyly předtím vzneseny? Ale samozřejmě jste-li schopen navrhnout použitelnou alternativu, směle do toho. Ale mějte na paměti toto:&#xD;
 &#xD;
 Fakt: potřebujeme širokou škálu vzorků. Čím širší, tím lepší.&#xD;
 Fakt: počáteční test je nejefektivnější, nacházejí-li se subjekty v normálním psychickém stavu (nebo blízko něj).&#xD;
@@ -4207,7 +4210,7 @@ Covenant je chyba. Nepopírám argument doktora Ryana ohledně terapeutické hod
 NH&amp;M Freight Depot Security Terminal&#xD;
 ==============================================</Source>
       <Dest>==============================================&#xD;
-Terminál ostrahy NH&amp;M nádraží&#xD;
+Terminál ostrahy nákladového nádraží NH&amp;M&#xD;
 ==============================================</Dest>
     </String>
     <String List="0" sID="02BCE6">
@@ -4232,7 +4235,7 @@ Terminál ostrahy NH&amp;M nádraží&#xD;
       <EDID>MS16StrongroomExitTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>NH&amp;M Freight </Source>
-      <Dest>NH&amp;M nádraží</Dest>
+      <Dest>Nákladové nádraží NH&amp;M</Dest>
     </String>
     <String List="0" sID="02C281">
       <EDID>MS19Infect</EDID>
@@ -4382,7 +4385,7 @@ Terminál ostrahy NH&amp;M nádraží&#xD;
       <EDID>NpcBedVaultBunkChildLay02</EDID>
       <REC>FURN:FULL</REC>
       <Source>Bed</Source>
-      <Dest>Poschoďová postel</Dest>
+      <Dest>Patrová postel</Dest>
     </String>
     <String List="0" sID="02FD85">
       <EDID>NPCPipBoyPlugin</EDID>
@@ -4470,7 +4473,7 @@ Terminál ostrahy NH&amp;M nádraží&#xD;
 At this time, only 19% of serums have the potential to be mass produced. We have tasked our latest robot lab assistant to find ways to synthesize more of them efficiently.</Source>
       <Dest>Vytvořili jsme 197 různých sér schopných léčit 36 % známých virů. To je mírné zlepšení oproti 33 % z minulého roku. Nicméně z tohoto počtu je 11 sér, která stojí za 61 % výsledků v léčbě, což je povzbudivé.&#xD;
 &#xD;
-V současné chvíli pouze 19 % z těchto sér mají potenciál na hromadnou produkci. Pověřili jsme našeho nejnovějšího robotického asistenta, aby našel možnosti, jak jich efektivně syntetizovat větší množství.</Dest>
+V současné chvíli pouze 19 % z těchto sér má potenciál na hromadnou produkci. Pověřili jsme našeho nejnovějšího robotického asistenta, aby našel možnosti, jak jich efektivně syntetizovat větší množství.</Dest>
     </String>
     <String List="0" sID="030A2E">
       <EDID>MS19FirstTerminal</EDID>
@@ -4511,7 +4514,8 @@ VAULT 81 CVRIE Station &#xD;
 </Source>
       <Dest>================================================&#xD;
 VAULT 81 stanice CVRIE &#xD;
-================================================</Dest>
+================================================&#xD;
+</Dest>
     </String>
     <String List="0" sID="030E20">
       <EDID>MS19FinalTerminal</EDID>
@@ -4546,9 +4550,10 @@ VAULT 81 Public Terminal&#xD;
 </Source>
       <Dest>================================================&#xD;
 VAULT 81 veřejný terminál&#xD;
-================================================</Dest>
+================================================&#xD;
+</Dest>
     </String>
-    <String List="0" sID="0310D9">
+    <String List="0" sID="0310D9" Partial="1">
       <EDID>MS19FinalTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>From: Vault-Tec Board of Directors&#xD;
@@ -4568,9 +4573,9 @@ Pověřujeme vás misí, která má zásadní význam pro celé lidstvo. Vault 8
 &#xD;
 Vaše sekce vaultu byla vybavena nejmodernějším lékařským vybavením, včetně Curie (CVRIE - Contagions Vulnerability Robotic Infirmary Engineer). Jsou tu biologické a chemické zásoby shromažďované několik set let. Jsou tu geneticky přizpůsobení krtkopotkani. A co je nejdůležitější, vault plný testovacích subjektů.&#xD;
 &#xD;
-Tak jako to je u každého velkého kroku vpřed, potřeby mnoha převáží potřeby jednotlivců. Budete infikovat obyvatele vaultu nemocemi při pokusu vypěstovat u nich protilátky. Někteří možná nepřežijí, vy však musíte zajistit, aby populace byla vždy dostateně početná pro pokračující reprodukci. Bude to trvat mnoho generací, ale s pomocí správných postupu byste měl být schopen vyvinout lidskou skupinu odolnou vůči nemocem.&#xD;
+Tak jako to je u každého velkého kroku vpřed, potřeby mnoha převáží potřeby jednotlivců. Budete infikovat obyvatele vaultu nemocemi při pokusu vypěstovat u nich protilátky. Někteří možná nepřežijí, vy však musíte zajistit, aby populace byla vždy dostateně početná pro pokračující reprodukci. Bude to trvat mnoho generací, ale s pomocí správných postupů byste měl být schopen vyvinout lidskou skupinu odolnou vůči nemocem.&#xD;
 &#xD;
-Vaše práce bude prací pro generace. Každá generace vědců musí vybrat vedoucího výzkumu. Curie se ujistí, že si každý z nich přečte tyto specifikace, aby bylo směřování vaultu během staletí zachováno. Přejem vám hodně štěstí.</Dest>
+Vaše práce bude prací pro generace. Každá generace vědců musí vybrat vedoucího výzkumu. Curie se ujistí, že si každý z nich přečte tyto specifikace, aby bylo směřování vaultu během staletí zachováno. Přejeme vám hodně štěstí.</Dest>
     </String>
     <String List="0" sID="031134">
       <EDID>NpcChairPatioSit01Static</EDID>
@@ -4690,7 +4695,7 @@ Can you please talk to Chambers about this?</Source>
       <Dest>Od: Tach Blythe&#xD;
 Komu: Emmanuel Rogers&#xD;
 &#xD;
-Chambersová si přece musí uvědomit, že ztráta Montgomeryové je chybou. Je mi jedno, jestli v Covenantu chybí lékařská péče. Faktorem, jenž nás limituje, není proud testovacích subjektů procházející přes Covenant - je to míra nárůstu negativních testů a šířka záběru našeho výzkumu. Je mnohem důležitější, aby byla Montgomeryová zde, než aby dávala sběračům prohlídky.&#xD;
+Chambersová si přece musí uvědomit, že ztráta Montgomeryové je chybou. Je mi jedno, jestli v Covenantu chybí lékařská péče. Faktorem, jenž nás limituje, není proud testovacích subjektů, procházející přes Covenant - je to míra nárůstu negativních testů a šířka záběru našeho výzkumu. Je mnohem důležitější, aby byla Montgomeryová zde, než aby dávala sběračům prohlídky.&#xD;
 &#xD;
 Mohl by sis o tom, prosím, promluvit s Chambersovou?</Dest>
     </String>
@@ -4834,7 +4839,7 @@ Vím, že odmítáte mé naléhání, že klíčová je O3, ovšem pokud bychom 
       <EDID>OBSOLETE_HelpWorkshopSettlementHappinessXbox</EDID>
       <REC>MESG:FULL</REC>
       <Source>Workshop - Settlers and Happiness</Source>
-      <Dest>Díla - osadníci a spokojenost</Dest>
+      <Dest>Dílna - Spokojenost</Dest>
     </String>
     <String List="0" sID="03264A">
       <EDID>nativeWorkshopSwitchTerminalSubMenu</EDID>
@@ -4918,7 +4923,7 @@ Optická detekce neoprávněného vniknutí&#xD;
 &#xD;
 Vítejte, Administrator_uživatel.&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 </Dest>
     </String>
     <String List="0" sID="0326F2">
@@ -5035,7 +5040,7 @@ Please choose an option:</Source>
 &#xD;
 Panel dálkového ovládání světelných boxů&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="0327DD">
       <EDID>nativeSpotlightTerminalSubMenu</EDID>
@@ -5170,7 +5175,7 @@ Please choose an option:&#xD;
 &#xD;
 Panel dálkového ovládání intervalových spínačů&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 </Dest>
     </String>
     <String List="0" sID="032A0C">
@@ -5248,7 +5253,7 @@ Please choose an option:&#xD;
 &#xD;
 Nastavit interval VYPNUTÍ spínače:&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -5266,7 +5271,7 @@ Please choose an option:&#xD;
 &#xD;
 Panel dálkového ovládání přepínačů&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -5347,8 +5352,7 @@ Set sensor target profile:&#xD;
       <Dest>LaZeR-Sec Systems&#xD;
 Optická detekce neoprávněného vniknutí&#xD;
 &#xD;
-Nastavit profil cíle senzoru:&#xD;
-</Dest>
+Nastavit profil cíle senzoru:</Dest>
     </String>
     <String List="0" sID="032C52">
       <EDID>nativeWorkshopTripwireTerminalSubMenu</EDID>
@@ -5661,7 +5665,7 @@ Please choose an option:&#xD;
 &#xD;
 Nastavit interval ZAPNUTÍ spínače:&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 </Dest>
     </String>
     <String List="0" sID="033006">
@@ -5692,7 +5696,7 @@ Nastavit barvu světla na ČERVENOU:&#xD;
       <EDID>nativeWorkshopLightboxTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Lightbox Control</Source>
-      <Dest>Ovládání světelných panelů</Dest>
+      <Dest>Ovládání světelného panelu</Dest>
     </String>
     <String List="0" sID="033020">
       <EDID>nativeWorkshopSwitchTerminalSubMenu</EDID>
@@ -5860,7 +5864,7 @@ Nastavit barvu světla na MODROU:&#xD;
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycleTime</EDID>
       <REC>TERM:FULL</REC>
       <Source>Lightbox Control</Source>
-      <Dest>Ovládání světelných panelů</Dest>
+      <Dest>Ovládání světelného panelu</Dest>
     </String>
     <String List="0" sID="03323A">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycleType</EDID>
@@ -5915,7 +5919,7 @@ Set color cycling. Please choose an option:&#xD;
 </Source>
       <Dest>Universal Electric, Inc.&#xD;
 &#xD;
-Nastavit cyklování barev. Prosím, zvolte možnost:&#xD;
+Nastavit cyklování barev. Prosíme, zvolte možnost:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -5945,7 +5949,7 @@ Please choose an option:&#xD;
 &#xD;
 Nastavit časový interval cyklování barev:&#xD;
 &#xD;
-Prosím, zvolte možnost:&#xD;
+Prosíme, zvolte možnost:&#xD;
 </Dest>
     </String>
     <String List="0" sID="0334AA">
@@ -5990,7 +5994,7 @@ Prosím, zvolte možnost:&#xD;
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycleType</EDID>
       <REC>TERM:FULL</REC>
       <Source>Lightbox Control</Source>
-      <Dest>Ovládání světelných panelů</Dest>
+      <Dest>Ovládání světelného panelu</Dest>
     </String>
     <String List="0" sID="0337D0">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycleTime</EDID>
@@ -6080,13 +6084,13 @@ Nastavit typ cyklování barev:&#xD;
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetColorNEW</EDID>
       <REC>TERM:FULL</REC>
       <Source>Lightbox Control</Source>
-      <Dest>Ovládání světelných panelů</Dest>
+      <Dest>Ovládání světelného panelu</Dest>
     </String>
     <String List="0" sID="033AD5">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycle</EDID>
       <REC>TERM:FULL</REC>
       <Source>Lightbox Control</Source>
-      <Dest>Ovládání světelných panelů</Dest>
+      <Dest>Ovládání světelného panelu</Dest>
     </String>
     <String List="0" sID="033AEB">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetCycleTime</EDID>
@@ -6106,7 +6110,7 @@ Please choose a color to set connected lightboxes to:</Source>
 &#xD;
 Panel dálkového ovládání světelných boxů&#xD;
 &#xD;
-Prosím, vyberte, jakou barvu nastavit připojeným světelným panelům:</Dest>
+Prosíme, vyberte, jakou barvu nastavit připojeným světelným panelům:</Dest>
     </String>
     <String List="0" sID="033AF4">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetColorNEW</EDID>
@@ -6522,7 +6526,7 @@ Please choose an option:&#xD;
 &#xD;
 Nastavit časový interval zpoždění:&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="03425C">
       <EDID>nativeWorkshopDelaySwitchTerminalSubMenuSetTime</EDID>
@@ -6741,14 +6745,14 @@ STATUS: Unit(s) BUSY&#xD;
 CONNECTED: &lt;Token.ValueInt=Connected&gt; Unit(s) Connected to this terminal&#xD;
 &#xD;
 Please choose an option:</Source>
-      <Dest>Standardní rozhraní ovládání Protektrona v2.40&#xD;
+      <Dest>Standardní rozhraní ovládání protektrona v2.40&#xD;
 &#xD;
-Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou Protektrona může vést k trvalým následkům.&#xD;
+Toto rozhraní by měli používat pouze technici s RobCo licencí. Nevhodné zacházení s jednotkou protektrona může vést k trvalým následkům.&#xD;
 &#xD;
 STAV: jednotka/y ZANEPRÁZDNĚNA/Y&#xD;
 PŘIPOJENY: počet jednotek připojených na tento terminál: &lt;Token.ValueInt=Connected&gt;&#xD;
 &#xD;
-Prosím, zvolte možnost:</Dest>
+Prosíme, zvolte možnost:</Dest>
     </String>
     <String List="0" sID="034877">
       <EDID>NeonGreen</EDID>
@@ -6928,7 +6932,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>OfficeFileCabinetEmpty01</EDID>
       <REC>STAT:FULL</REC>
       <Source>File Cabinet Drawer</Source>
-      <Dest>Šuplík z kartotéky</Dest>
+      <Dest>Prázdná kartotéka</Dest>
     </String>
     <String List="0" sID="034F87">
       <EDID>NpcChairPlayerHouseRuinKitchenSit03Static</EDID>
@@ -7126,7 +7130,7 @@ Prosím, zvolte možnost:</Dest>
       <EDID>MS17RadioLuckMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Broken Radio comes alive.</Source>
-      <Dest>Rozbité rádio oživá.</Dest>
+      <Dest>Rozbité rádio ožívá.</Dest>
     </String>
     <String List="1" sID="015241">
       <EDID>MS17DebugPublicTerminal</EDID>
@@ -7159,16 +7163,16 @@ Wed     10 r.scorp    109    87   795   &#xD;
 ~13 days until empty.&#xD;
 Ask C about changing price. Burn rate is over 500c a week. Unsustainable.</Source>
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
-Den     I                   CoG  CR     R.T.&#xD;
+Den     I                   CoG   CR    R.T.&#xD;
 ----------------------------------------------&#xD;
-Pon     3 Stm           305   281   832&#xD;
+Po          3 stm           305   281   832&#xD;
             1 RX&#xD;
             3 zás .9mm&#xD;
-Út      4 H2O          203   188   817&#xD;
-           12 Stm&#xD;
+Út          4 H2O           203   188   817&#xD;
+           12 stm&#xD;
             2 zás 9mm&#xD;
             2 zás energ&#xD;
-St      10 r.škorp    109    87   795   &#xD;
+St         10 r.škorp       109    87   795   &#xD;
             8 H2O&#xD;
 &#xD;
 ~13 dní, než budeme na suchu.&#xD;
@@ -7265,7 +7269,7 @@ Tedy, některé zásady:&#xD;
       <EDID>MS17_Q10</EDID>
       <REC>MESG:DESC</REC>
       <Source>Who is indisputably the most important person in Vault 101: He who shelters us from the harshness of the atomic wasteland, and to whom we owe everything we have, including our lives?</Source>
-      <Dest>Kdo je bezpochyby nejdůležitější osobou ve Vaultu 101? Tou, která nás ochraňuje před nevlídností atomové pustiny a které jsme povinováni celým majetkem i našimi životy?</Dest>
+      <Dest>Kdo je bezpochyby nejdůležitější osobou ve Vaultu 101? Tou, která nás ochraňuje před nevlídností atomové pustiny a které jsme povinnováni celým majetkem i našimi životy?</Dest>
     </String>
     <String List="1" sID="01D1A1">
       <EDID>MS17_Q8</EDID>
@@ -7308,6 +7312,12 @@ Tedy, některé zásady:&#xD;
       <REC>MESG:DESC</REC>
       <Source>So after you've dug for a little bit, you'll hit bedrock, and the workers will tell you to ask Jules what to do next.</Source>
       <Dest>So after you've dug for a little bit, you'll hit bedrock, and the workers will tell you to ask Jules what to do next.</Dest>
+    </String>
+    <String List="1" sID="01D2D5" Partial="1">
+      <EDID>MS16TunnelEndMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Eventually you finish the dig. This space is currently really big and really empty, so we're going to just teleport you to the end of it. The others will join you shortly.</Source>
+      <Dest>Eventually you finish the dig. This space is currently really big and really empty, so we're going to just teleport you to the end of it. The others will join you shortly.</Dest>
     </String>
     <String List="1" sID="01D451">
       <EDID>MS17BloodInvestigateMessage</EDID>
@@ -7368,7 +7378,7 @@ Chybový poměr 28 %, delta -1 % (je třeba více vzorků)&#xD;
 &#xD;
 Bezejmenní cestovatelé (2): 1 chyba, zaevidováno&#xD;
 Ghúlové z Dřiny (5): 1 chyba, jednoznačně falešně pozitivní&#xD;
-Stocktonova karavana (5): 2 chyby, vyřešené (Žel. či Inst.?)&#xD;
+Stocktonova karavana (5): 2 chyby, vyřešené (Žel., či Inst.?)&#xD;
 Pan Tims (1): 0 chyb&#xD;
 Finchova farma (3): 0 chyb, fungující dlouhodobá dohoda&#xD;
 Boyd (1): 1 chyba, zaevidováno&#xD;
@@ -7384,7 +7394,7 @@ Boyd (1): 1 chyba, zaevidováno&#xD;
       <EDID>MysteriousStranger01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Who is he? Why does he help? Who cares! The Mysterious Stranger will appear occasionally in V.A.T.S. to lend a hand, with deadly efficiency...</Source>
-      <Dest>Kdo to je? Proč pomáhá? Koho to zajímá! Tajemný cizinec se příležitostně objeví v režimu V.A.T.S, aby nabídl pomocnou ruku, a to se smrtící efektiviou...</Dest>
+      <Dest>Kdo to je? Proč pomáhá? Koho to zajímá! Tajemný cizinec se příležitostně objeví v režimu V.A.T.S, aby nabídl pomocnou ruku, a to se smrtící efektivitou...</Dest>
     </String>
     <String List="1" sID="022407" Partial="1">
       <EDID>MS16TempHeistMessage</EDID>
@@ -7478,7 +7488,7 @@ Jay Mayfield - ostraha&#xD;
       <EDID>MS17</EDID>
       <REC id="11">QUST:CNAM</REC>
       <Source>Doctor Chambers paid me to let Covenant continue to perfect their Synth detection test. Amelia Stockton was executed. Sacrifices had to be made.</Source>
-      <Dest>Doktorska Chambersová mi zaplatila, a tak Covenant nechám, aby dále zdokonaloval svůj test na odhalování syntetiků. Amelia Stocktonová byla popravena. Bylo nutné učinit oběti.</Dest>
+      <Dest>Doktorka Chambersová mi zaplatila, a tak Covenant nechám, aby dále zdokonaloval svůj test na odhalování syntetiků. Amelia Stocktonová byla popravena. Bylo nutné učinit oběti.</Dest>
     </String>
     <String List="1" sID="030A52">
       <EDID>MS17</EDID>
@@ -7490,13 +7500,13 @@ Jay Mayfield - ostraha&#xD;
       <EDID>MS17</EDID>
       <REC id="9">QUST:CNAM</REC>
       <Source>I rescued Amelia Stockton from Doctor Chambers. Her father, Old Man Stockton, is at Bunker Hill. I should see him about getting a reward.</Source>
-      <Dest>Podařilo se mi zachránit Amelii Stocktonovou od doktorky Chambersové. Její otec, Starej Stockton, je v Bunker Hillu. Je třeba si s ním promluvit o odměně.</Dest>
+      <Dest>Podařilo se mi zachránit Amelii Stocktonovou od doktorky Chambersové. Její otec, Starej Stockton, je v Bunker Hillu. Je potřeba si s ním promluvit o odměně.</Dest>
     </String>
     <String List="1" sID="030A6C">
       <EDID>MS17</EDID>
       <REC id="8">QUST:CNAM</REC>
       <Source>Honest Dan and I found a survivor from the Stockton caravan massacre. I should talk with Dan for my cut of the reward.</Source>
-      <Dest>Spolu s Čestným Danem jsme našli přeživšího z masakru Stocktonovy karavany. Je třeba si s Danem promluvit ohledně mého podílu z odměny.</Dest>
+      <Dest>Spolu s Čestným Danem jsme našli přeživšího z masakru Stocktonovy karavany. Je potřeba si s Danem promluvit ohledně mého podílu z odměny.</Dest>
     </String>
     <String List="1" sID="030B29">
       <EDID>MS17</EDID>
@@ -7520,7 +7530,7 @@ Jay Mayfield - ostraha&#xD;
       <EDID>MS17</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>The leader of Covenant, Jacob Orden, bribed me to stay away from the Compound and drop the search for Stockton's caravan.</Source>
-      <Dest>Jacob Orden, vůdce Covenantu, mi zaplatil - budu se proto držet od Areál dál a zanechám svého pátrání po Stocktonově karavaně.</Dest>
+      <Dest>Jacob Orden, vůdce Covenantu, mi zaplatil - budu se proto držet od Areálu dál a zanechám svého pátrání po Stocktonově karavaně.</Dest>
     </String>
     <String List="1" sID="030C73">
       <EDID>MS17</EDID>
@@ -7538,7 +7548,7 @@ Jay Mayfield - ostraha&#xD;
       <EDID>MS17</EDID>
       <REC id="10">QUST:CNAM</REC>
       <Source>It turns out, Covenant has been working on a Synth detection test. Poor Amelia Stockton was kidnapped and tortured because of it. After what Honest Dan and I did, I doubt I'll receive a warm welcome back at Covenant.</Source>
-      <Dest>Ukázalo se, že Covenant pracoval na testu pro odhalování syntetiků. Kvůli tomu byla chudák Amelia Stocktonová unesena a mučena. Po tom, co jsme já a Čestný Dan udělali, pochybuji, že se mi v Covenantu dostane vřelého přivítání.</Dest>
+      <Dest>Ukázalo se, že Covenant pracoval na testu pro odhalování syntetiků. Kvůli tomu byla chudák Amelia Stocktonová unesena a mučena. Pochybuji, že po tom, co jsme s Čestným Danem udělali, se mi v Covenantu dostane vřelého přivítání.</Dest>
     </String>
     <String List="1" sID="030D64">
       <EDID>MS17</EDID>
@@ -7556,7 +7566,7 @@ Jay Mayfield - ostraha&#xD;
       <EDID>NuclearPhysicist01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You've learned to split the atom... and command it. Radiation weapons do 50% more damage and Fusion Cores last an extra 25% longer.</Source>
-      <Dest>Víš, jak štěpit atom... a jak ho jím vládnout. Radičaní zbraně působí o 50 % vyšší poškození a fúzní jádra vydrží o 25 % déle.</Dest>
+      <Dest>Víš, jak štěpit atom... a jak jím vládnout. Radiační zbraně působí o 50 % vyšší poškození a fúzní jádra vydrží o 25 % déle.</Dest>
     </String>
     <String List="1" sID="031AB8">
       <EDID>NightPerson02</EDID>
@@ -7621,42 +7631,52 @@ Note that happiness, unlike other reported values, doesn't change instantly - it
 &#xD;
 Why should you care about happiness? The higher a settlement's overall happiness, the more productive your settlers will be. Also, if happiness goes too low, you may lose control of a settlement.</Source>
       <Dest>Přilákání nových osadníků&#xD;
-Pokud si nakloníte již existující osadu, mohou tam již žít lidé. Do osady můžete nové lidi přilákat tak, že postavíte náborový radiomaják (Zdroje &gt; Různé).&#xD;
+Pokud si nakloníš již existující osadu, mohou tam již žít lidé. Do osady můžeš nové lidi přilákat tak, že postavíš náborový radiomaják (Zdroje &gt; Různé).&#xD;
 &#xD;
-Když máte jeden z těchto majáků aktivní v místě dílny, existuje každý den možnost, že se objeví noví osadníci, rozhodnuti žít ve vaší dílně.&#xD;
+Když máš jeden z těchto majáků aktivní v místě dílny, existuje každý den možnost, že se objeví noví osadníci, rozhodnuti žít ve tvojí dílně.&#xD;
 &#xD;
 Přesun osadníků mezi dílenskými osadami&#xD;
-Můžete přesouvat kteréhokoliv přátelského osadníka mezi vašimi dílenskými osadami. Pro přesun osadníka jej zvýrazněte a stiskněte [ReadyWeapon] pro zobrazení přehledu vašich dílenských osad. Vyberte novou osadu a osadník odcestuje do vybraného místa a bude tam žít.&#xD;
+Můžeš přesouvat kteréhokoliv přátelského osadníka mezi tvými dílenskými osadami.&#xD;
+&#xD;
+Pro přesun osadníka jej zvýrazni a stiskni [ReadyWeapon] pro zobrazení přehledu tvých dílenských osad. Vyber novou osadu a osadník odcestuje do vybraného místa a bude tam žít.&#xD;
 &#xD;
 Zásobovací trasy&#xD;
-Jakmile získáte perk „Místní vůdce“, můžete vytvářet zásobovací trasy mezi vašimi dílnami.&#xD;
+Jakmile získáš perk „Místní vůdce“, můžeš vytvářet zásobovací trasy mezi tvými dílenskými osadami.&#xD;
 &#xD;
-Zvýrazněte osadníka v jedné z vašich osad a stiskněte [Melee] pro zobrazení přehledu vašich dílenských osad. Vyberte osadu, kterou chcete spojit s osadou, ve které se nacházíte. Osadník bude nyní přiřazen do „zásobovací trasy“ a bude cestovat mezi osadami. (Pokud budete chtít zrušit zásobovací trasu, jednoduše přidělte osadníkovi jinou práci.)&#xD;
+Pro vytvoření zásobovací trasy, zvýrazni osadníka v jedné z tvých osad a stiskni [Melee] pro zobrazení přehledu tvých dílenských osad. Vyber osadu, kterou chceš spojit s osadou, ve které se nacházíš.&#xD;
 &#xD;
-Spojování vašich osad pomocí zásobovacích tras poskytuje následující výhody:&#xD;
+Osadník bude nyní přiřazen do „zásobovací trasy“ a bude cestovat mezi osadami. (Pokud budeš chtít zrušit zásobovací trasu, jednoduše přiděl osadníkovi jinou práci.)&#xD;
 &#xD;
-- Při stavbě v dílně můžete využít inventáře všech spojených dílen.&#xD;
+Spojování tvých osad pomocí zásobovacích tras poskytuje následující výhody:&#xD;
 &#xD;
-- Spojené dílny mohou sdílet zdroje. To znamená, že pokud máte nadbytek jídla v jedné osadě, můžete ji spojit s osadou, která má jídla nedostatek.&#xD;
+- Při stavbě v dílně můžeš využít inventáře všech spojených dílen.&#xD;
+&#xD;
+- Spojené dílny mohou sdílet zdroje. To znamená, že pokud máš nadbytek jídla v jedné osadě, můžeš ji spojit s osadou, která má jídla nedostatek.&#xD;
 &#xD;
 Spokojenost&#xD;
-Rozhraní vaší dílny zobrazuje momentální spokojenost vaší osady. Může se zvýšit nebo snížit v závislosti na dostupných zdrojích pro osadníky, kteří tam žijí.&#xD;
+Rozhraní tvé dílny zobrazuje momentální spokojenost tvé osady. Může se zvýšit nebo snížit v závislosti na dostupných zdrojích pro osadníky, kteří tam žijí.&#xD;
 &#xD;
-Základní potřeby, které každý osadník vyžaduje pro svoji spokojenost, jsou:&#xD;
+Základní potřeby, které každý osadník vyžaduje pro svoji spokojenost jsou:&#xD;
 &#xD;
-- Postel - každý osadník potřebuje postel: postel pod střechou je ještě lepší. Rozhraní ukáže POSTELE v červené, pokud momentálně není jedna pro každého osadníka.&#xD;
+Postele&#xD;
+Každý osadník potřebuje postel: postel pod střechou je ještě lepší. Rozhraní zobrazuje POSTELE v červené barvě, pokud je jejich aktuální počet nižší než počet osadníků.&#xD;
 &#xD;
-- Jídlo a voda - každý osadník potřebuje jednu jednotku jídla a vody denně, aby byl spokojený. Tyto jídlo a voda mohou pocházet z momentální produkce, zdrojů uloženách v inventáři dílny nebo z jiných dílenských osad spojených Zásobovacími trasami (viz dále).&#xD;
+Jídlo a voda&#xD;
+Každý osadník potřebuje jednu jednotku jídla a vody denně, aby byl spokojený. Toto jídlo a voda mohou pocházet z momentální produkce, zdrojů uložených v inventáři dílny, nebo z jiných dílenských osad spojených zásobovacími trasami (viz „Dílna - Osady“ pro více informací ohledně zásobovacích tras).&#xD;
 &#xD;
-- Obrana - čím vyšší bude hodnota obrany vaší osady, tím spokojenější osadníci budou.&#xD;
+Obrana&#xD;
+Čím vyšší bude hodnota obrany tvé osady, tím spokojenější osadníci budou.&#xD;
 &#xD;
-Některé objekty dokonce „produkují“ spokojenost. To přispívá k celkové spokojenosti osady. Osadníci také ztrácejí spokojenost v důsledku některých událostí, jako útoky nájezdníků, únosy, atd.&#xD;
+Některé objekty dokonce produkují spokojenost. To přispívá k celkové spokojenosti osady. Osadníci také ztrácejí spokojenost v důsledku některých událostí, jako útoky nájezdníků, únosy atd.&#xD;
 &#xD;
-Všimněte si, že spokojenost, narozdíl od ostatních uvedených hodnot, s nemění okamžitě; pohybuje se nahoru a dolů během určité doby, v závislosti na stavu osady. Takže, pokud poskytnete potřebné jídlo a vodu nespokojené osadě, neuvidíte okamžitou změnu hodnoty spokojenosti, ale uvidíte, že se zvyšuje časem. Stejně tak, když například útok nájezdníků zničí veškerou vaší úrodu a zásoby vody, nepoklesne spojenost osady najednou. Máte čas na vyřešení problému předtím, než se vaši osadníci stanou nebezpečně nespokojenými.&#xD;
+Všimni si, že spokojenost na rozdíl od ostatních uvedených hodnot, se nemění okamžitě; pohybuje se nahoru a dolů během určité doby, v závislosti na stavu osady. Takže, pokud poskytneš potřebné jídlo a vodu nespokojené osadě, neuvidíš okamžitou změnu hodnoty spokojenosti, ale uvidíš ji zvyšovat se časem.&#xD;
+&#xD;
+Stejně tak, když například útok nájezdníků zničí veškerou tvojí úrodu a zásoby vody, nepoklesne spojenost osady najednou. Máš čas na vyřešení problému předtím, než se tví osadníci stanou nebezpečně nespokojenými.&#xD;
 &#xD;
 Why should you care about happiness? The higher a settlement's overall happiness, the more productive your settlers will be. Also, if happiness goes too low, you may lose control of a settlement.&#xD;
 &#xD;
-Proč byste se měl zajímat o spokojenost? Čím vyšší je celková spokojenost osady, tím produktivnější vaši osadníci budou. Také, jestliže spokojenost klesne příliš nízko, můžete nad osadou ztratit kontrolu.</Dest>
+Proč se zajímat o spokojenost?&#xD;
+Čím vyšší je celková spokojenost tvé osady, tím produktivnější jsou tví osadníci. Pokud spokojenost klesne příliš nízko, můžeš ztratit kontrolu nad osadou.</Dest>
     </String>
     <String List="1" sID="034EE9">
       <EDID>MS19DiseasePerk</EDID>
