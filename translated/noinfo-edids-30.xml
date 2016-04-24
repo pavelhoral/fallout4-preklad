@@ -130,7 +130,7 @@
       <EDID>RRR04</EDID>
       <REC>QUST:FULL</REC>
       <Source>Mercer Safehouse</Source>
-      <Dest>Mercerův úkryt</Dest>
+      <Dest>Úkryt Mercer</Dest>
     </String>
     <String List="0" sID="012A96">
       <EDID>RRR01bDeadBlackbird</EDID>
@@ -144,11 +144,11 @@
       <Source>Ricky Dalton</Source>
       <Dest>Ricky Dalton</Dest>
     </String>
-    <String List="0" sID="012B2C" Partial="1">
+    <String List="0" sID="012B2C">
       <EDID>RRR06RandolphHolotape03</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #3</Source>
-      <Dest>Randolph Station Update #3</Dest>
+      <Dest>Zpráva ze stanice Randolph #3</Dest>
     </String>
     <String List="0" sID="012C97">
       <EDID>RESceneKMK05</EDID>
@@ -214,7 +214,7 @@
       <EDID>RestoreConditionTorso</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Torso</Source>
-      <Dest>Uzdravit trup</Dest>
+      <Dest>Uzdraví trup</Dest>
     </String>
     <String List="0" sID="013322">
       <EDID>RestoreConditionLeftArm</EDID>
@@ -244,13 +244,13 @@
       <EDID>RR102PAMTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>TOP SECRET - Switchboard Research - TOP SECRET</Source>
-      <Dest>PŘÍSNĚ TAJNÉ - Výzkumný projekt Rozvaděč - PŘÍSNĚ TAJNÉ</Dest>
+      <Dest>PŘÍSNĚ TAJNÉ - Výzkum Operačního ústředí - PŘÍSNĚ TAJNÉ</Dest>
     </String>
     <String List="0" sID="0135E3">
       <EDID>RETreasureHuntSC05</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Search for tech in &lt;Alias=Dungeon&gt;.</Source>
-      <Dest>Najdi technologie v lokaci &lt;Alias=Dungeon&gt;.</Dest>
+      <Dest>Pátrej po technologii v lokaci &lt;Alias=Dungeon&gt;.</Dest>
     </String>
     <String List="0" sID="01364B">
       <EDID>Res01ModernPocketDoorL01</EDID>
@@ -280,7 +280,7 @@
       <EDID>RR101TrailBaseMarker01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0139E2">
       <EDID>RottenLandfillMapMarker</EDID>
@@ -304,7 +304,7 @@
       <EDID>RRHQPAMTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Granting admin rights.</Source>
-      <Dest>Uděluji administrátorská práva</Dest>
+      <Dest>Uděluji administrátorská práva.</Dest>
     </String>
     <String List="0" sID="013ADB">
       <EDID>RESceneKMK_MS09Jack</EDID>
@@ -472,11 +472,11 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
 What people don't know is another runaway was recaptured by the Coursers before we even got to them.&#xD;
 &#xD;
 John D has been finding tourists at a pretty good clip. But he keeps their identities to himself.  Operational security he calls it. It makes me grind my teeth, but he's probably right. I think our whole organization needs to be more like a pyramid. A broad base of tourists that help out, mainly with information. Then the runners and safehouse owners in the middle. Then agents. Then HQ on top of that.</Source>
-      <Dest>V minulém měsíci jsme dostali prvního syntetika z Commonwealthu. Udělali jsme pořádnou oslavu.&#xD;
+      <Dest>V minulém měsíci jsme dostali prvního syntetika pryč z Commonwealthu. Udělali jsme pořádnou oslavu.&#xD;
 &#xD;
 Lidi ale nevědí, že další uprchlík byl polapen lovci z Institutu, ještě než jsme se k němu mohli dostat.&#xD;
 &#xD;
-John D získává turisty slušným tempem. Ale jejich identitu si nechává pro sebe. Říká tomu operační bezpečnost. Sice je mi to proti srsti, ale asi má pravdu. Myslím, že celá naše organizace by měla být jako pyramida. Základ tvoří turisté, kteří primárně dodávají informace. Běžci a vlastníci bezpečných domů potom tvoří střed. Nad nimi jsou agenti a na vrcholu je velitelství.</Dest>
+John D získává turisty slušným tempem. Ale jejich identitu si nechává pro sebe. Říká tomu operační bezpečnost. Sice je mi to proti srsti, ale asi má pravdu. Myslím, že celá naše organizace by měla být jako pyramida. Široká základna turistů, kteří primárně dodávají informace. Potom uprostřed běžci a vlastníci úkrytů. Potom agenti. A nakonec na vcholu velitelství.</Dest>
     </String>
     <String List="0" sID="01533E">
       <EDID>RR301TempDeadDrop</EDID>
@@ -516,7 +516,7 @@ Přišli jsme o jeden úkryt a stáhli jsme se. Standardní postup. Desdemona ř
       <EDID>RRR02a</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Go to Mercer Safehouse</Source>
-      <Dest>Jdi do Mercerova úkrytu</Dest>
+      <Dest>Jdi do úkrytu Mercer</Dest>
     </String>
     <String List="0" sID="0156C8">
       <EDID>RR201</EDID>
@@ -542,7 +542,7 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
       <EDID>RETreasureHuntSC04</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Search for scrap in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Najdi šrot v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>Pátrej po šrotu v lokaci &lt;Alias=Dungeon&gt;</Dest>
     </String>
     <String List="0" sID="015904">
       <EDID>RR102PAMTerminalSubTerminal</EDID>
@@ -575,7 +575,7 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
 „Zahajuji analýzu geografické polohy.“&#xD;
 „Ona tam opravdu je. Nemůžu uvěřit, že se to děje.“&#xD;
 „Potom, co se ji povedlo v červenci... Říká se, že ji pošlou do Bílého domu.“&#xD;
-„Zhodnocení dokončeno. Zdravím, doktorko Mae a doktore Ramajirane.“ [z wiki není jasné pohlaví doktorů, tak jsem to dala 50:50 :)]&#xD;
+„Zhodnocení dokončeno. Zdravím, doktorko Mae a doktore Ramajirane.“&#xD;
 „To rozhraní se opravdu podařilo.“&#xD;
 „Když ho spustí ona. Viděl jsi, kolik cyklů na to potřebuje Malcolm?“&#xD;
 „P.A.M., proveď primární funkci.“&#xD;
@@ -604,13 +604,13 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
       <EDID>RestoreHealthChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Restore Health</Source>
-      <Dest>Lék: Obnovit zdraví</Dest>
+      <Dest>Chemie: Obnoví zdraví</Dest>
     </String>
     <String List="0" sID="015D2E">
       <EDID>RR101TrailBaseMarker06</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="015DDF">
       <EDID>RR102PAMTerminalSubTerminal</EDID>
@@ -683,7 +683,7 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
       <EDID>RR201TunnelGuard</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Guard</Source>
-      <Dest>Strážný</Dest>
+      <Dest>Strážce</Dest>
     </String>
     <String List="0" sID="016253">
       <EDID>RR201</EDID>
@@ -695,7 +695,7 @@ Koncový znak: Je mi to líto, mějte se hezky!</Dest>
       <EDID>RestoreConditionRightArm</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Right Arm</Source>
-      <Dest>Uzdravit pravou ruku</Dest>
+      <Dest>Uzdraví pravou ruku</Dest>
     </String>
     <String List="0" sID="016280">
       <EDID>RR201</EDID>
@@ -732,9 +732,9 @@ The team asks for double the funding for the upcoming fiscal year. With addition
 </Source>
       <Dest>SHRNUTÍ&#xD;
 &#xD;
-Projekt P.A.M. již nese ovovce. Zahraniční operativci hlásí, že nápravná opatření v regionu kolem Taiwanského zálivu již výrazně napomohla stabilizaci situace po Incidentu Pascale. Několik prvních iterací jádra PAM výrazně zlepšilo účinnost programu, ale pokud nedojde k radikálnímu zásahu, tak se kvalita výsledků nebude zlepšovat. &#xD;
+Iniciativa P.A.M. již nese ovovce. Zahraniční operativci hlásí, že nápravná opatření v regionu kolem Taiwanského zálivu již výrazně napomohla stabilizaci situace po incidentu Pascale. Několik prvních iterací základního kódu PAM výrazně zlepšilo účinnost programu, ale pokud nedojde k radikálnímu zásahu, tak se kvalita výsledků nebude zlepšovat. &#xD;
 &#xD;
-V následujícím fiskálním roce tým žádá o dvojnásobné financování. Pokud budeme mít další nejmodernější databanky, můžeme vylepšit výkon PAM až trojnásobně. Projekt P.A.M. se navíc musí napojit do aparátu vojenských a civilních výzvědných služeb. Kombinací těchto dvou oblastí bychom měli získat rozhodující převahu nad Čínou.</Dest>
+V následujícím fiskálním roce tým žádá o dvojnásobné financování. Pokud budeme mít další nejmodernější databanky, můžeme zvýšit výkon PAM až trojnásobně. Projekt P.A.M. se navíc musí plně napojit na aparát vojenských a civilních výzvědných služeb. Kombinací těchto dvou oblastí bychom měli získat rozhodující převahu nad Čínou.</Dest>
     </String>
     <String List="0" sID="016579">
       <EDID>RufusRubins</EDID>
@@ -746,7 +746,7 @@ V následujícím fiskálním roce tým žádá o dvojnásobné financování. P
       <EDID>RR301TempMessage</EDID>
       <REC>MESG:ITXT</REC>
       <Source>Continue</Source>
-      <Dest>Pokračuj</Dest>
+      <Dest>Pokračovat</Dest>
     </String>
     <String List="0" sID="016827">
       <EDID>RETravelCT05</EDID>
@@ -764,9 +764,9 @@ My job is to rebuild the Railroad from scratch. I think where Agamemnon went wro
 Current count: 13. 0 synths.&#xD;
 &#xD;
 How the hell do we rebuild from here?</Source>
-      <Dest>Shromáždili jsme zbývající běžce a volili jsme. Já pohrál, nebo vyhrál. Záleží na úhlu pohledu. Po masakru na velitelství většina lidí Železnici prostě opustila. Jenom jeden člověk ten masakr přežil - běžec jménem John D.&#xD;
+      <Dest>Shromáždili jsme zbývající běžce a volili jsme. Já pohrál, nebo vyhrál... záleží na úhlu pohledu. Po masakru na velitelství většina lidí Železnici prostě opustila. Jenom jeden člověk ten masakr přežil - běžec jménem John D. Poprosil o doborovolníky na získání některých starých záznamů. Nikdo se nepřihlásil.&#xD;
 &#xD;
-Mým úkolem je od nuly znovu vybudovat Železnici. Tuším, že chybu udělal Agamemnon v tom, že o velitelství vědělo příliš mnoho lidí. Je to jenom teorie, ale jakmile Insitut najde úkryt a na kohokoliv udeří, tak je velmi dnadné velitelství najít. Ale jak mohl Agamemnon vědět, jak nebezpečný ty zatracený lovci jsou?&#xD;
+Mým úkolem je od nuly znovu vybudovat Železnici. Tuším, že chybu udělal Agamemnon v tom, že o velitelství vědělo příliš mnoho lidí. Je to jenom teorie, ale jakmile Insitut najde úkryt a na kohokoliv udeří, tak je velmi snadné velitelství najít. Ale jak mohl Agamemnon vědět, jak nebezpečný ty zatracení lovci jsou?&#xD;
 &#xD;
 Aktuální počet: 13. 0 syntetiků.&#xD;
 &#xD;
@@ -784,15 +784,15 @@ Deacon's been digging into Institute sightings from years, even decades before. 
 Coursers caught Package 7. Almost nailed Old Man Stockton, too. One of our scouts found Package 8 heading to Mass Fusion. The coded message he carried was another location, Prospect Hill.&#xD;
 &#xD;
 8 escapees this year, 1 loss, 1 reclaimed.</Source>
-      <Dest>Neuvěřitelný rok. Už se to začíná rýsovat. Tom rozluštil Patriotovu šifru, říká, že byla navržená tak, aby se dala rozluštit (ať už to znamená cokoliv). Jenom dvě slova „Fúzní závody“. Poslali jsme tam průzkumníky, ale nic jsme nenašli. Později jsme zjistili proč.&#xD;
+      <Dest>Neuvěřitelný rok. Už se to začíná rýsovat. Tom rozluštil Patriotovu šifru, říká, že byla navržena tak, aby se dala prolomit (ať už to znamená cokoliv). Jenom dvě slova „Fúzní závody“. Poslali jsme tam průzkumníky, ale nic jsme nenašli. Později jsme zjistili proč.&#xD;
 &#xD;
 PAM se svědomitě snaží najít polohu Institutu. Nedaří se to. Deacon je přesvědčený, že řešení je v minulosti, ne v budoucnosti. Deacon už taky ví to velké tajemství - o Železnici z doby, než ji vedl Wyatt, nic nevíme (anebo není Deacon Johnny D???). &#xD;
 &#xD;
-Deacon se probírá zprávami o zpozorování Institutu z minulých let, a i desetiletí. Nebo to aspoň říká. Už mě ty všechny jeho lži unavují.&#xD;
+Deacon se probírá zprávami o pozorování Institutu z minulých let, a i desetiletí. Nebo to alespoň říká. Už mě ty všechny jeho lži unavují.&#xD;
 &#xD;
-Lovci chytili balík č.7. Skoro dostali i Starýho Stocktona. Jeden z našich průzkumníků zachytil balík č.8 cestou do Fúzních závodů. Zašifrovaná zpráva, kterou nesl bylo jméno dalšího místa - Prospect Hill.&#xD;
+Lovci chytili Zásilku 7. Skoro dostali i Starýho Stocktona. Jeden z našich průzkumníků zachytil Zásilku 8 cestou do Fúzních závodů. Kódovaná zpráva, kterou nesl bylo jméno dalšího místa - Prospect Hill.&#xD;
 &#xD;
-Letos 8 uprchlíků, 1 ztráta, 1 zachráněný.</Dest>
+Letos 8 uprchlíků, 1 ztráta, 1 navrácený.</Dest>
     </String>
     <String List="0" sID="016962">
       <EDID>Res01ModernDoor02Load</EDID>
@@ -804,7 +804,7 @@ Letos 8 uprchlíků, 1 ztráta, 1 zachráněný.</Dest>
       <EDID>RR201</EDID>
       <REC id="17">QUST:NNAM</REC>
       <Source>Kill the tunnel guards</Source>
-      <Dest>Zabij strážné v tunelu</Dest>
+      <Dest>Zabij strážce v tunelu</Dest>
     </String>
     <String List="0" sID="016A88">
       <EDID>Rum</EDID>
@@ -846,7 +846,7 @@ Letos 8 uprchlíků, 1 ztráta, 1 zachráněný.</Dest>
       <EDID>RR101_TrailMarkerActivator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="016F1B">
       <EDID>RR102ElevatorTerminal</EDID>
@@ -950,7 +950,7 @@ Letos 8 uprchlíků, 1 ztráta, 1 zachráněný.</Dest>
       <Source>A whole work crew of synths escaped together. Five synths at once. We're scrambling to keep them hidden. Coursers have been spotted looking for them. They found one of our safehouses, but no one there knew where our HQ is. John developed a dead drop system we've been using.&#xD;
 &#xD;
 Some vocal elements (Toby) say we should shut down. But that's a year and half worth of synths.</Source>
-      <Dest>Celá pracovní skupina syntetiků společně uprchla. Pět syntetiků najednou. Ze všech sil se snažíme je ukrýt. Lovci je už hledají. Našli jeden z našich úkrytů, ale nikdo nevěděl, kde je velitelství. John vypracoval systém mrtvých schránek, které používáme.&#xD;
+      <Dest>Celá pracovní skupina syntetiků společně uprchla. Pět syntetiků najednou. Ze všech sil se snažíme je ukrýt. Zpozorovali jsme lovce, jak po nich pátrají. Našli jeden z našich úkrytů, ale nikdo nevěděl, kde je velitelství. John vypracoval systém mrtvých schránek, které používáme.&#xD;
 &#xD;
 Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. Ale tolik jich normálně uprchne za rok a půl.</Dest>
     </String>
@@ -1020,7 +1020,7 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <Source>Mail Box</Source>
       <Dest>Poštovní schránka</Dest>
     </String>
-    <String List="0" sID="017DCD">
+    <String List="0" sID="017DCD" Partial="1">
       <EDID>RR102</EDID>
       <REC>QUST:FULL</REC>
       <Source>Tradecraft</Source>
@@ -1030,7 +1030,7 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <EDID>RevolutionarySword</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0" sID="018078">
       <EDID>RR302</EDID>
@@ -1060,13 +1060,13 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <EDID>RRHQPAMTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Access records</Source>
-      <Dest>Načíst data</Dest>
+      <Dest>Načíst záznamy</Dest>
     </String>
     <String List="0" sID="0181A3">
       <EDID>RR101TrailBaseMarker05</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="01822E">
       <EDID>RR301</EDID>
@@ -1108,7 +1108,7 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <EDID>RR102</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Get inside the escape tunnel</Source>
-      <Dest>Dojdi do únikového tunelu</Dest>
+      <Dest>Dostaň se do únikového tunelu</Dest>
     </String>
     <String List="0" sID="0185C8">
       <EDID>RestoreHealthChem</EDID>
@@ -1128,11 +1128,11 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <Source>DN101 Pickman Gallery hook - pile of dead raiders with Pickman's calling card</Source>
       <Dest>DN101 Hook Pickmanova Gallerie - hromada mrtvých nájezdníků s Pickmanovou vizitkou</Dest>
     </String>
-    <String List="0" sID="018A22" Partial="1">
+    <String List="0" sID="018A22">
       <EDID>RRR06RandolphHolotape01</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #1</Source>
-      <Dest>Randolph Station Update #1</Dest>
+      <Dest>Zpráva ze stanice Randolph #1</Dest>
     </String>
     <String List="0" sID="018ADA">
       <EDID>RRHQPAMTerminalSubTerminalDesdemona</EDID>
@@ -1170,9 +1170,9 @@ Third package went straight to Diamond City again. Set up Old Man Stockton as th
 All told 5 escapees this year.</Source>
       <Dest>Jedno slovo: PATRIOT&#xD;
 &#xD;
-Letošní druhý balík byl zvláštní hned od začátku. Vůbec nevypadala bezradně. Vyrazila přímo do Diamond City. Starej Stockton ji odchytil dřív, než stihla vzbudit moc velký rozruch. Neměla být v žádné přiřazené práci a měla s sebou balíček, ve kterém byla mapa, instrukce a zašifrovaná holopáska. Tom byl celý rok k ničemu, protože se tu zatracenou věc pokoušel rozšifrovat.&#xD;
+Letošní druhá zásilka byla zvláštní hned od začátku. Vůbec nevypadala bezradně. Vyrazila přímo do Diamond City. Starej Stockton ji odchytil dřív, než stihla vzbudit moc velký rozruch. Neměla být v žádné přiřazené práci a měla s sebou balíček, ve kterém byla mapa, instrukce a zašifrovaná holopáska. Tom byl celý rok k ničemu, protože se tu zatracenou věc pokoušel rozšifrovat.&#xD;
 &#xD;
-Třetí balík taky rovnou do Diamond City. Ze Starýho Stocktona jsme udělali vrátného. Čtvrtý balík dorazil týden nato. Všichni přišli s balíčkem. Všichni s dalšími šiframi. Někdo uvnitř nám pomáhá. Krycí jméno PATRIOT.&#xD;
+Třetí zásilka zamířila taky rovnou do Diamond City. Ze Starýho Stocktona jsme udělali vrátného. Čtvrtá dorazila týden nato. Všichni přišli s balíčkem. Všichni s dalšími šiframi. Někdo uvnitř nám pomáhá. Krycí jméno PATRIOT.&#xD;
 &#xD;
 Celkem za tento rok 5 uprchlíků.</Dest>
     </String>
@@ -1198,7 +1198,7 @@ Celkem za tento rok 5 uprchlíků.</Dest>
       <EDID>RosalindOrman</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Rosalind</Source>
-      <Dest>Rosalind</Dest>
+      <Dest>Rosalinda</Dest>
     </String>
     <String List="0" sID="0190F8">
       <EDID>RR102PAMTerminal</EDID>
@@ -1246,7 +1246,7 @@ Celkem za tento rok 5 uprchlíků.</Dest>
       <EDID>RR101TrailBaseMarker03</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0196D7">
       <EDID>RRDeadDrop</EDID>
@@ -1270,7 +1270,7 @@ Celkem za tento rok 5 uprchlíků.</Dest>
       <EDID>RR302</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Secure the Catacombs</Source>
-      <Dest>Zajisti tunely</Dest>
+      <Dest>Zajisti katakomby</Dest>
     </String>
     <String List="0" sID="019896">
       <EDID>RRHQPAMTerminalSubTerminalDesdemona</EDID>
@@ -1282,11 +1282,11 @@ We now have 12 safehouses and I don't even know how many people. Carrington worr
 Deacon working on secret project. Code-name Wanderer. Deacon has a wild theory and an even wilder plan (Tea Party). I agree there's something strange there, but I'm withholding judgment.&#xD;
 &#xD;
 9-1-1.</Source>
-      <Dest>PAM se zavařila při hledání Institutu. Trvalo nám dobře měsíc, než jsme ji dokázali rozběhnout, aniž by padala. To, že nefungovala, zasáhlo do výsledků.  &#xD;
+      <Dest>PAM se zavařila při hledání Institutu. Trvalo nám dobrý měsíc, než jsme ji dokázali rozběhnout, aniž by padala. To, že nefungovala, zasáhlo do výsledků.  &#xD;
 &#xD;
 Máme teď 12 úkrytů a ani nevím kolik členů. Carrington si dělá starosti, že už jsme moc velcí. Ale na to, abychom se postarali o všechny ty syntetiky, které posílá PATRIOT, potřebujeme místa, kde je schováme.&#xD;
 &#xD;
-Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou teorii a ještě divočejší plán (Čajový dýchanek). Souhlasím, že tam je něco divného, ale zatím se k tomu nechci vyjadřovat.&#xD;
+Deacon pracuje na tajném projektu. Krycí jméno Tulák. Deacon má divokou teorii a ještě divočejší plán (Pití čaje). Souhlasím, že tam je něco divného, ale zatím se k tomu nechci vyjadřovat.&#xD;
 &#xD;
 9-1-1.</Dest>
     </String>
@@ -1296,11 +1296,11 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <Source>Talk with Desdemona</Source>
       <Dest>Promluv si s Desdemonou</Dest>
     </String>
-    <String List="0" sID="019AA5" Partial="1">
+    <String List="0" sID="019AA5">
       <EDID>RRR06RandolphHolotape06</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #6</Source>
-      <Dest>Randolph Station Update #6</Dest>
+      <Dest>Zpráva ze stanice Randolph #6</Dest>
     </String>
     <String List="0" sID="019B38">
       <EDID>ResDoor01</EDID>
@@ -1318,13 +1318,13 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RR303</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Escape the Prydwen</Source>
-      <Dest>Uprchni z Prydwenu</Dest>
+      <Dest>Uprchni z Prydwen</Dest>
     </String>
-    <String List="0" sID="019D04" Partial="1">
+    <String List="0" sID="019D04">
       <EDID>RRR06RandolphHolotape05</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #5</Source>
-      <Dest>Randolph Station Update #5</Dest>
+      <Dest>Zpráva ze stanice Randolph #5</Dest>
     </String>
     <String List="0" sID="019EAA">
       <EDID>RETravelKMK_MS19_B</EDID>
@@ -1378,7 +1378,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RRR01a</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Determine status of Augusta Safehouse</Source>
-      <Dest>Zjisti stav skrýše Augusta</Dest>
+      <Dest>Zjisti stav úkrytu Augusta</Dest>
     </String>
     <String List="0" sID="01A4B3">
       <EDID>RETravelKMK_DN121</EDID>
@@ -1426,7 +1426,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RestoreHealthFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Restore Health</Source>
-      <Dest>Obnovit zdraví</Dest>
+      <Dest>Obnoví zdraví</Dest>
     </String>
     <String List="0" sID="01A8C9">
       <EDID>RestoreConditionRightLeg</EDID>
@@ -1456,7 +1456,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RestoreRadsCompanion</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Remove Radiation</Source>
-      <Dest>Odstranit radiaci</Dest>
+      <Dest>Odstraní radiaci</Dest>
     </String>
     <String List="0" sID="01AA78">
       <EDID>RETreasureHuntSC05NoteTech</EDID>
@@ -1480,7 +1480,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RR101TrailBaseMarker08</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="01AECB">
       <EDID>Res01ModernClosetDoor01</EDID>
@@ -1548,7 +1548,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <Source>A dry year. Coursers, work crews, and synths vanished for three months. No idea why. Worked on fortifying Switchboard. Deacon was barely here all year. Chasing ghosts.&#xD;
 &#xD;
 4-1-0.</Source>
-      <Dest>Suchý rok. Lovci, pracovní skupiny a syntetikové úplně zmizeli na tři měsíce. Nevíme proč. Pracovali jsme na opevnění Rozvaděče. Deacon tu za celý rok skoro vůbec nebyl. Honí duchy.&#xD;
+      <Dest>Suchý rok. Lovci, pracovní skupiny a syntetikové úplně zmizeli na tři měsíce. Nevíme proč. Pracovali jsme na opevnění Operačního ústředí. Deacon tu za celý rok skoro vůbec nebyl. Honí duchy.&#xD;
 &#xD;
 4-1-0.</Dest>
     </String>
@@ -1556,13 +1556,13 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RestoreConditionLeftArm</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Left Arm</Source>
-      <Dest>Uzdravit levou ruku</Dest>
+      <Dest>Uzdraví levou ruku</Dest>
     </String>
     <String List="0" sID="01B5FC">
       <EDID>RR101TrailBaseMarker07</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="01B7A2">
       <EDID>RR302</EDID>
@@ -1640,7 +1640,7 @@ Deacon pracuje na tajném projektu. Krycí jméno Poutník. Deacon má divokou t
       <EDID>RRM01</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Wait for Railroad contact</Source>
-      <Dest>Počkej na agenta Železnice</Dest>
+      <Dest>Počkej na spojku Železnice</Dest>
     </String>
     <String List="0" sID="01C03A">
       <EDID>RRM01</EDID>
@@ -1664,19 +1664,19 @@ Called her into the HQ. Promoted "Glory" to heavy. She's well suited for the rol
 Been working with Tom. Brilliant, but he's getting increasingly eccentric. Carrington says the stress is causing severe psychological problems. But he's too damned essential. God help me, I'm keeping him on.&#xD;
 &#xD;
 2 escapes. No losses. 1 reclaimed. Quiet year. Less chrome domes in the field than the last two years. No idea why.</Source>
-      <Dest>Z G7-81, jedné ze zachráněných se vyklubalo něco zvláštního. Většina syntetiků je traumatizovaná a podstoupí proceduru doktorky A. G7 ji podstoupit nechtěla. Prosila, aby se mohla k nám přidat. Spolu s High Risem provedli pár šílených kousků v Ticon.&#xD;
+      <Dest>Ze jedné ze zachráněných jednotek, G7-81, se vyklubalo něco zvláštního. Většina syntetiků je traumatizovaná a podstoupí proceduru doktorky A. G7 ji podstoupit nechtěla. Prosila, aby se k nám mohla přidat. Spolu s High Risem provedli pár šílených kousků v Ticon.&#xD;
 &#xD;
-Zavolali jsme ji na velitelství. Povýšili jsme „Glory“ na obrněnce. To zařazení jí sedne (možná až moc).&#xD;
+Povolali jsme ji na velitelství. Povýšili jsme „Glory“ na obrněnce. To zařazení jí sedne (možná až moc).&#xD;
 &#xD;
-Pracuju s Tomem. Je geniální, ale zároveň je čím dál podivnější. Carrington tvrdí, že u něj stres vede k závažným psychologickým problémům. Jenže on je nenahraditelný, sakra. Bože, musím si ho tu nechat.&#xD;
+Pracuju s Tomem. Je geniální, ale zároveň je čím dál podivnější. Carrington tvrdí, že u něj stres vede k závažným psychologickým problémům. Jenže on je nenahraditelný, sakra. Bože, musím ho nechat pracovat.&#xD;
 &#xD;
-2 útěky. Žádné ztráty. 1 zachráněný. Klidný rok. Je méně plešounů než v předchozích dvou letetch. Nemám tušení proč.</Dest>
+2 útěky. Žádné ztráty. 1 navrácený. Klidný rok. Je méně plešounů než v předchozích dvou letetch. Nemám tušení proč.</Dest>
     </String>
     <String List="0" sID="01C1B1">
       <EDID>RRFreedomTrailMarkerActivator01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="01C230">
       <EDID>RETreasureHuntSC06_DN070</EDID>
@@ -1754,7 +1754,7 @@ Pracuju s Tomem. Je geniální, ale zároveň je čím dál podivnější. Carri
       <EDID>RR101CenterRing</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Button</Source>
-      <Dest>Knoflík</Dest>
+      <Dest>Tlačítko</Dest>
     </String>
     <String List="0" sID="01C84E">
       <EDID>RockyNarrowsParkMapMarkerRef</EDID>
@@ -1772,7 +1772,7 @@ Pracuju s Tomem. Je geniální, ale zároveň je čím dál podivnější. Carri
       <EDID>RR102</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Leave The Switchboard</Source>
-      <Dest>Odejdi z Rozvaděče</Dest>
+      <Dest>Odejdi z Operačního ústředí</Dest>
     </String>
     <String List="0" sID="01CDBF">
       <EDID>RR101FakeGage</EDID>
@@ -1820,7 +1820,7 @@ Konec zprávy.&#xD;
       <Source>Promoted Tommy to be our second heavy. Tom made him a custom pistol, the kid's frightening with it. P.A.M. has us running strange ops for data. She's not always right, but right enough to be a trap. Too tempting to rely on her predictions. One day Deacon recommended moth-balling her. Took an hour to talk him down.&#xD;
 &#xD;
 2 escapees. Not many runners this year.</Source>
-      <Dest>Z Tommyho jsme udělali druhého obrněnce. Tom mu udělal speciální pistoli, a ten kluk s ní vypadá děsivě. P.A.M. nás nutí dělat zvláštní operace kvůli datům. Nemá vždycky pravdu, ale má ji dost často na to, abychom se zahnali do pasti. Je až příliš lákavé se na její predikce spoléhat. Deacon jednou doporučil, abychom ji vypnuli. Trvalo hodinu mu to rozmluvit.&#xD;
+      <Dest>Z Tommyho jsme udělali druhého obrněnce. Tom mu udělal speciální pistoli, a ten kluk s ní vypadá děsivě. P.A.M. nás nutí dělat zvláštní operace kvůli datům. Nemá vždycky pravdu, ale chyba nikdy není taková, abychom skočili do pasti. Je až příliš lákavé se na její predikce spoléhat. Deacon jednou doporučil, abychom ji vypnuli. Trvalo hodinu mu to rozmluvit.&#xD;
 &#xD;
 2 uprchlíci. Letos málo běžců.</Dest>
     </String>
@@ -1846,13 +1846,13 @@ Konec zprávy.&#xD;
       <EDID>RR301TempDeadDrop</EDID>
       <REC>MESG:ITXT</REC>
       <Source>Continue</Source>
-      <Dest>Pokračuj</Dest>
+      <Dest>Pokračovat</Dest>
     </String>
     <String List="0" sID="01D33B">
       <EDID>RR302TempHackTerminalMessage</EDID>
       <REC id="0">MESG:ITXT</REC>
       <Source>Leave.</Source>
-      <Dest>Ukončit.</Dest>
+      <Dest>Odejít.</Dest>
     </String>
     <String List="0" sID="01D33D">
       <EDID>RR302TempHackTerminalMessage</EDID>
@@ -1876,7 +1876,7 @@ Konec zprávy.&#xD;
       <EDID>RR302TempTurretTerminalMessage</EDID>
       <REC id="0">MESG:ITXT</REC>
       <Source>Leave.</Source>
-      <Dest>Ukončit.</Dest>
+      <Dest>Odejít.</Dest>
     </String>
     <String List="0" sID="01D3F5">
       <EDID>RRM02DeadDropMessage</EDID>
@@ -1942,7 +1942,7 @@ Konec zprávy.&#xD;
       <EDID>RR303DisplayClaymore</EDID>
       <REC>MESG:FULL</REC>
       <Source>Claymore</Source>
-      <Dest>Obouruční meč</Dest>
+      <Dest>Claymore</Dest>
     </String>
     <String List="0" sID="01D558">
       <EDID>RR201HolotapeName</EDID>
@@ -2020,7 +2020,7 @@ Konec zprávy.&#xD;
       <EDID>RestoreConditionLeftLeg</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Left Leg</Source>
-      <Dest>Uzdravit levou nohu</Dest>
+      <Dest>Uzdraví levou nohu</Dest>
     </String>
     <String List="0" sID="01D996">
       <EDID>Rifleman01</EDID>
@@ -2064,7 +2064,7 @@ Konec zprávy.&#xD;
       <Source>Explosive Charge</Source>
       <Dest>Výbušná nálož</Dest>
     </String>
-    <String List="0" sID="01DC4D">
+    <String List="0" sID="01DC4D" Partial="1">
       <EDID>RR303BlimpBuster</EDID>
       <REC>PERK:FULL</REC>
       <Source>Blimp Buster</Source>
@@ -2170,7 +2170,7 @@ Konec zprávy.&#xD;
       <EDID>RR302</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Eliminate Brotherhood forces</Source>
-      <Dest>Zabij vojáky Bratrstva</Dest>
+      <Dest>Zlikviduj síly Bratrstva</Dest>
     </String>
     <String List="0" sID="01E331">
       <EDID>SalemLocation</EDID>
@@ -2254,7 +2254,7 @@ Konec zprávy.&#xD;
       <EDID>RR302LvlBoSStationLeader</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Head Knight</Source>
-      <Dest>Vedoucí rytíř</Dest>
+      <Dest>Vrchní rytíř</Dest>
     </String>
     <String List="0" sID="01EED2">
       <EDID>REObjectKMK_MQ206</EDID>
@@ -2385,7 +2385,7 @@ Konec zprávy.&#xD;
       <EDID>RETreasureHuntSC06_DN070</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Look for the gun in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Najdi zbraň v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>Pátrej po zbraňi v lokaci &lt;Alias=Dungeon&gt;</Dest>
     </String>
     <String List="0" sID="01FD93">
       <EDID>RR201</EDID>
@@ -2421,7 +2421,7 @@ Konec zprávy.&#xD;
       <EDID>RRR06</EDID>
       <REC>QUST:FULL</REC>
       <Source>Randolph Safehouse &lt;Global=RRR06DisplayNumber&gt;</Source>
-      <Dest>Randolphův úkryt &lt;Global=RRR06DisplayNumber&gt;</Dest>
+      <Dest>Úkryt Randolph &lt;Global=RRR06DisplayNumber&gt;</Dest>
     </String>
     <String List="0" sID="0203CC">
       <EDID>RETreasureHuntSC05</EDID>
@@ -2475,7 +2475,7 @@ Konec zprávy.&#xD;
       <EDID>RR102PAMTerminalSubTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&gt; 2075 Dec 17</Source>
-      <Dest>17. prosince 2075</Dest>
+      <Dest>&gt; 17. prosince 2075</Dest>
     </String>
     <String List="0" sID="020FD3">
       <EDID>REObjectSC02</EDID>
@@ -2541,7 +2541,7 @@ Konec zprávy.&#xD;
       <EDID>Ripper</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Default</Source>
-      <Dest>Základní</Dest>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="0" sID="021A23">
       <EDID>RRM01</EDID>
@@ -2593,9 +2593,9 @@ Konec zprávy.&#xD;
 Lamda 8 homesteaded off Parsons. She got married to a farmer. Coursers found her and it got bloody. Lost Lamda 8. Her wife almost bit the bucket, too.&#xD;
 &#xD;
 Courser spotted heading south (with company). Watts volunteered to track them.</Source>
-      <Dest>Poučení: všechny balíky musí pryč z Commonwealthu. &#xD;
+      <Dest>Poučení: všechny zásilky musí pryč z Commonwealthu. &#xD;
 &#xD;
-Lamda 8 se usadila kousek od Parsonsu. Dala se dohromady s farmářkou. Lovci ji našli a došlo ke krveprolití. Přišli jsme o Lamdu 8. Její žena taky málem zařvala.&#xD;
+Lamda 8 se usadila kousek od Parsonsu. Vdala se za farmářku. Lovci ji našli a došlo ke krveprolití. Přišli jsme o Lamdu 8. Její žena taky málem zařvala.&#xD;
 &#xD;
 Lovce zpozorovali jak míří na jih (se společností). Watts se přihlásil, že je bude stopovat.</Dest>
     </String>
@@ -2627,7 +2627,7 @@ Lovce zpozorovali jak míří na jih (se společností). Watts se přihlásil, �
       <EDID>RR102</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Follow Deacon and find the "tourist"</Source>
-      <Dest>Následuj Deacona a najdi „turistu“.</Dest>
+      <Dest>Následuj Deacona a najdi „turistu“</Dest>
     </String>
     <String List="0" sID="022F59">
       <EDID>RestoreActionPoints</EDID>
@@ -2659,11 +2659,11 @@ Lovce zpozorovali jak míří na jih (se společností). Watts se přihlásil, �
       <Source>Agent</Source>
       <Dest>Agent</Dest>
     </String>
-    <String List="0" sID="0233C0" Partial="1">
+    <String List="0" sID="0233C0">
       <EDID>RRR06RandolphHolotape02</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #2</Source>
-      <Dest>Randolph Station Update #2</Dest>
+      <Dest>Zpráva ze stanice Randolph #2</Dest>
     </String>
     <String List="0" sID="0233CC">
       <EDID>RR101</EDID>
@@ -2717,13 +2717,13 @@ Lovce zpozorovali jak míří na jih (se společností). Watts se přihlásil, �
       <EDID>RETreasureHunt_TEMPLATE</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Look for the gun in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Najdi zbraň v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>Pátrej po zbraňi v lokaci &lt;Alias=Dungeon&gt;</Dest>
     </String>
     <String List="0" sID="023674">
       <EDID>RR101TrailBaseMarker02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="02370D">
       <EDID>RR301DeadDrop</EDID>
@@ -2792,16 +2792,16 @@ Risk Index:      Red 3&#xD;
 Current task:    N/A&#xD;
 &#xD;
 Special note: SYNTH MISSING, PRESUMED ESCAPED. Recovery pending courser availability. Bring any info on unit's whereabouts/status to Alana Secord.</Source>
-      <Dest>------------------&#xD;
+      <Dest>-----------------------&#xD;
 ZPRÁVA O STAVU JEDNOTKY&#xD;
-------------------&#xD;
+-----------------------&#xD;
 Jednotka:        Z1-14&#xD;
 DV:              030419I ÚNO 42&#xD;
 Zařazení:        Infrastruktura a opravy&#xD;
 Rizikový index:  Červený 3&#xD;
 Aktuální úkol:   Nedostupný&#xD;
 &#xD;
-Zvláštní poznámka: SYNTETIK CHYBÍ, PRAVDĚPODOBNĚ UPRCHL. Zpětné navrácení závislé na dostupnosti lovců. Jakékoliv informace o místě pobytu/stavu jednotky předejte Alaně Secordové.</Dest>
+Zvláštní poznámka: SYNTETIK SE POHŘEŠUJE, PŘEDPOKLÁDÁN ÚTĚK. Zpětné navrácení čeká na dostupnost lovce. Jakékoliv informace o místě pobytu / stavu jednotky předejte Alaně Secordové.</Dest>
     </String>
     <String List="0" sID="023E80">
       <EDID>RRFreedomTrailMarkerRing03</EDID>
@@ -2831,7 +2831,7 @@ Zvláštní poznámka: SYNTETIK CHYBÍ, PRAVDĚPODOBNĚ UPRCHL. Zpětné navrác
       <EDID>RestoreHealthGeneric</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Restore Health</Source>
-      <Dest>Obnovit zdraví</Dest>
+      <Dest>Obnoví zdraví</Dest>
     </String>
     <String List="0" sID="024439">
       <EDID>RR101</EDID>
@@ -2843,7 +2843,7 @@ Zvláštní poznámka: SYNTETIK CHYBÍ, PRAVDĚPODOBNĚ UPRCHL. Zpětné navrác
       <EDID>RestoreConditionHead</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Head</Source>
-      <Dest>Uzdravit hlavu</Dest>
+      <Dest>Uzdraví hlavu</Dest>
     </String>
     <String List="0" sID="0244F0">
       <EDID>REPrisoner</EDID>
@@ -2869,7 +2869,7 @@ Zvláštní poznámka: SYNTETIK CHYBÍ, PRAVDĚPODOBNĚ UPRCHL. Zpětné navrác
       <Source>Diverting Power to Elevator...&#xD;
 &#xD;
 Complete</Source>
-      <Dest>Přesměrování energie do výtahu...&#xD;
+      <Dest>Přesměrování napájení do výtahu...&#xD;
 &#xD;
 Dokončeno</Dest>
     </String>
@@ -2877,7 +2877,7 @@ Dokončeno</Dest>
       <EDID>RR201</EDID>
       <REC id="13">QUST:NNAM</REC>
       <Source>Give password to Liam Binet</Source>
-      <Dest>Dej Liamu Binetovi heslo</Dest>
+      <Dest>Dej heslo Liamu Binetovi</Dest>
     </String>
     <String List="0" sID="0249D4">
       <EDID>RobotClass</EDID>
@@ -2907,7 +2907,7 @@ Dokončeno</Dest>
       <EDID>RRKickOut</EDID>
       <REC>QUST:FULL</REC>
       <Source>Kicked out of the Railroad</Source>
-      <Dest>Vykopnutí ze Železnice</Dest>
+      <Dest>Vyhoštění z Železnice</Dest>
     </String>
     <String List="0" sID="024AC5">
       <EDID>RETravelKMK03</EDID>
@@ -2933,11 +2933,11 @@ Dokončeno</Dest>
       <Source>Standard</Source>
       <Dest>Standardní</Dest>
     </String>
-    <String List="0" sID="024C21" Partial="1">
+    <String List="0" sID="024C21">
       <EDID>RRR06RandolphHolotape04</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Randolph Station Update #4</Source>
-      <Dest>Randolph Station Update #4</Dest>
+      <Dest>Zpráva ze stanice Randolph #4</Dest>
     </String>
     <String List="0" sID="024C26">
       <EDID>RRHQPAMTerminalSubTerminalPinky</EDID>
@@ -2951,11 +2951,11 @@ Something everyone should know: if one safehouse goes down assume that all Hell'
 From now on only the heavies leave HQ. And we got to move our packages fast. This slow crap hurts more than it helps.</Source>
       <Dest>Zrovna jsem našla Wyattův deník. Ať už to tady v budoucnu povede kdokoliv, měli byste vědět, jak jsme to zkazili.&#xD;
 &#xD;
-Provozovali jsme Pracovní skupinu pět v Commonwealthu. Lovci našli naše velitelství. Totální průser. Deacon (tak si teď říká) měl naplánovanou únikovou trasu a většina přeživších mu vděčí za svůj život. Wyatt nepřežil první smršť kulek.&#xD;
+Provozovali jsme Pracovní skupinu pět v Commonwealthu, když lovci našli naše velitelství. Totální průser. Deacon (tak si teď říká) měl naplánovanou únikovou trasu a většina přeživších mu vděčí za svůj život. Wyatt nepřežil první smršť kulek.&#xD;
 &#xD;
-Tady je něco, co by měli všichni vědět. Když přijdete o jeden úkryt, můžete předpokládat, že vám jde celý peklo nakopat zadek, protože nejspíš to tak je. Vždycky, vždycky, VŽDYCKY počítejte s tím, že Institut má zdroje, jaké si ani neumíme představit.&#xD;
+Tady je něco, co by měli všichni vědět: Když přijdete o jeden úkryt, můžete předpokládat, že vám jde celý peklo nakopat zadek, protože nejspíš to tak je. Vždycky, vždycky, VŽDYCKY počítejte s tím, že Institut má zdroje, jaké si ani neumíme představit.&#xD;
 &#xD;
-Odteď jenom obrněnci opouštějí velitelství. A musíme balíky přemisťovat rychle. Tohle pomalý crcání nadělá vic škody než užitku.</Dest>
+Odteď opouštějí velitelství jenom obrněnci. A musíme naše zásilky přemisťovat rychle. Tohle pomalý crcání nadělá vic škody než užitku.</Dest>
     </String>
     <String List="0" sID="024C99">
       <EDID>RR301</EDID>
@@ -2967,7 +2967,7 @@ Odteď jenom obrněnci opouštějí velitelství. A musíme balíky přemisťova
       <EDID>RR102ElevatorTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Power Elevator</Source>
-      <Dest>Energie do výtahu</Dest>
+      <Dest>Zapnout výtah</Dest>
     </String>
     <String List="0" sID="024D40">
       <EDID>rl_Lantern_Working</EDID>
@@ -2989,17 +2989,17 @@ Odteď jenom obrněnci opouštějí velitelství. A musíme balíky přemisťova
 The doctor, Deacon, and I have been analyzing the many, many mistakes of Pinky. Our "batting average" is  roughly 50/50. Only a few synths a year make it out. It's hard to keep motivated when failure is so epidemic.&#xD;
 &#xD;
 We're going to hit the fundamentals: operational security. Look outs, counter-intelligence, and compartmentalization. We need to reduce the response time to find a new synth runner.</Source>
-      <Dest>Pinky odstoupil poté, co jsme přišli o Trinity. Museli jsme ho přesvědčit. Pak jsme hlasovali, kdo by měl Železnici vést. Rozhodovalo se mezi mnou a Carringtonem. Z toho by mohl být později problém.&#xD;
+      <Dest>Pinky Thompson odstoupil poté, co jsme přišli o Trinity. Museli jsme ho přesvědčit. Pak jsme hlasovali, kdo by měl Železnici vést. Rozhodovalo se mezi mnou a Carringtonem. Z toho by mohl být později problém.&#xD;
 &#xD;
 Spolu s doktorem a Deaconem jsme analyzovali Pinkyho četné chyby. Náš „pálkařský průměr“ je zhruba fifty-fifty. Utéct dokáže jenom několik syntetiků za rok. Je těžké si udržet motivaci, když je nezdarů tolik.&#xD;
 &#xD;
-Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a kompartmentalizace. Potřebujeme zkrátit reakční čas k nalezení nových uprchlých syntetiků.</Dest>
+Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a kompartmentalizace. Potřebujeme zkrátit reakční čas při nalezení nových uprchlých syntetiků.</Dest>
     </String>
     <String List="0" sID="024E9B">
       <EDID>RR101TrailBaseMarker04</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="024ED8">
       <EDID>RoachFakeActorCont</EDID>
@@ -3083,7 +3083,7 @@ Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a komp
       <EDID>RRHQPAMTerminalSubTerminalDesdemona</EDID>
       <REC id="7">TERM:UNAM</REC>
       <Source>Busy. We're in Switchboard now. Bolthole went down on fire. Coursers getting very active. But, by God, we're rescuing synths. 9-2-1. Both of those 2 were from goddamned lynch mobs.</Source>
-      <Dest>Máme napilno. Teď jsme v Rozvaděči. Úkryt shořel. Lovci jsou teď velmi aktivní. Navzdory tomu ale, díky Bohu, zachraňujeme syntetiky. 9-2-1. O ty dva jsme přišli kvůli lynčování.</Dest>
+      <Dest>Máme napilno. Teď jsme v Operačním ústředí. Úkryt vyhořel. Lovci jsou teď velmi aktivní. Navzdory tomu ale, díky Bohu, zachraňujeme syntetiky. 9-2-1. O ty dva jsme přišli kvůli zpropadenému lynčování.</Dest>
     </String>
     <String List="0" sID="025A16">
       <EDID>REObjectSC03</EDID>
@@ -3149,7 +3149,7 @@ Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a komp
       <EDID>RestoreConditionRightLeg</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Heal Right Leg</Source>
-      <Dest>Uzdravit pravou nohu</Dest>
+      <Dest>Uzdraví pravou nohu</Dest>
     </String>
     <String List="0" sID="025E76">
       <EDID>RETreasureHuntSC04NoteScrap</EDID>
@@ -3171,9 +3171,9 @@ Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a komp
 Added a new member to core HQ. Thomas Weatherby. An Institute grenade did a number on his family farm. He's rattled but very, very smart. Hoping he can arm us with something better than pipe pistols.&#xD;
 &#xD;
 Organization grown. Devised rail signs and improvements to dead drops. No Coursers spotted all year. Merry Christmas.</Source>
-      <Dest>2 uprchlíci. 1 ztráta. 2 zachránění. &#xD;
+      <Dest>2 uprchlíci. 1 ztráta. 2 navráceni před zachycením. &#xD;
 &#xD;
-Do vedení přibyl nový člen - Thomas Weatherby. Institut granátem poškodil farmu jeho rodiny. Je otřesený, ale velmi, velmi chytrý. Doufejme, že nás dokáže vyzbrojit nečím lepším než jsou trubkové zbraně.&#xD;
+Na velitelství přibyl nový člen - Thomas Weatherby. Institut granátem napáchal škody na jeho rodinné farmě. Je otřesený, ale velmi, velmi chytrý. Doufejme, že nás dokáže vyzbrojit nečím lepším než jsou trubkové zbraně.&#xD;
 &#xD;
 Organizace se rozrostla. Vymysleli jsme systém značek a vylepšili mrtvé schránky. Za celý rok jsme neviděli ani jednoho lovce z Institutu. Veselé Vánoce.</Dest>
     </String>
@@ -3253,7 +3253,7 @@ Organizace se rozrostla. Vymysleli jsme systém značek a vylepšili mrtvé schr
       <EDID>RRFreedomTrailMarker01a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0268C4">
       <EDID>REObjectSC05_DN154_Note</EDID>
@@ -3271,7 +3271,7 @@ Organizace se rozrostla. Vymysleli jsme systém značek a vylepšili mrtvé schr
       <EDID>RestoreRadsChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Chem: Remove Radiation</Source>
-      <Dest>Lék: Odstranit rediaci</Dest>
+      <Dest>Chemie: odstraní rediaci</Dest>
     </String>
     <String List="0" sID="026AB5">
       <EDID>RestoreConditionRightArm</EDID>
@@ -3299,13 +3299,13 @@ Year ended badly. We had a synth infiltrator at Mercer. Deacon caught her before
 &#xD;
 Začátek roku byl na hovno. Odnikud se zjevili lovci z Institutu. Našli Farmu a hlídky je ohlásily jenom s 30 vteřinovým předstihem. Zničili jsme, co šlo, ztráty na životech mírné. &#xD;
 &#xD;
-Přesunuli jsme se do Bestie. Potom Tommy Whispers, jeden z průzkumníků ze skupiny náhradníků, udělal objev století. Starou základnu DIA, tzv. „Rozvaděč“. Povolali jsme ho na velitelství (se zpožděním), Glory si ho vzala na starost (pomáhej mu Bůh). Tom se přesunul do Rozvaděče nebo-li do Zařízení X, jak tomu říká. Potom poslal urgentní zprávu.&#xD;
+Přesunuli jsme se do Bestie. Potom Tommy Whispers, jeden z průzkumníků ze skupiny náhradníků, udělal objev století. Starou základnu DIA, tzv. „Operační ústředí“. Povolali jsme ho na velitelství (se zpožděním), Glory si ho vzala na starost (pomáhej mu Bůh). Tom se přesunul do Operačního ústředí nebo-li do Zařízení X, jak tomu říká. Potom poslal urgentní zprávu.&#xD;
 &#xD;
-Moje první setkání s P.A.M... Nedokážu to popsat. Vyslovila nějaké předpovědi, které byly děsivě přesné. Požádala o data. Začali jsme je tam sypat. Zdráhala se pomoct naší věci. Ale po dlouhém rozhovoru s Glory v tom je s námi. Nikdo neví, co Glory PAM řekla. Deacon vtipkuje, že PAM je do Glory zakoukaná. PAM se určitě chová jinak, když je Glory poblíž. Ale PAM nemá žádné emoce.&#xD;
+Moje první setkání s P.A.M... Nedokážu to popsat. Vyslovila nějaké předpovědi, které byly děsivě přesné. Požádala o data. Začali jsme jí je sypat. Zdráhala se pomoct naší věci. Ale po dlouhém rozhovoru s Glory je v tom s námi. Nikdo neví, co Glory PAM řekla. Deacon vtipkuje, že PAM je do Glory zakoukaná. PAM se určitě chová jinak, když je Glory poblíž. Ale PAM nemá žádné emoce.&#xD;
 &#xD;
 S pomocí PAMiných predikcí jsme dokázali předpovědět uprchlíka.&#xD;
 &#xD;
-Rok skončil špatně. V Merceru jsme měli syntetickou tajnou agentku. Deacon ji chytil, než se dostala k P.A.M. Ale už jsme byli prozrazení. Zničili jsme Bestii a přesunuli se do Úkrytu. Měli jsme jenom hodinu, než dorazili lovci z Institutu.&#xD;
+Rok skončil špatně. V Merceru jsme měli syntetickou infiltrátorační jednotku. Deacon ji chytil, než se dostala k P.A.M. Ale už jsme byli prozrazení. Zničili jsme Bestii a přesunuli se do Úkrytu. Měli jsme jenom hodinu, než dorazili lovci z Institutu.&#xD;
 &#xD;
 2 uprchlíci, 1 ztráta, 0 navrácení.</Dest>
     </String>
@@ -3329,9 +3329,9 @@ Rok skončil špatně. V Merceru jsme měli syntetickou tajnou agentku. Deacon j
 P.K. almost lost his package near Danvers, too. I kicked Deacon out of HQ, got sick of the lying, face-changing son of a bitch. That month he spent as a Ghoul freaked a lot of people out.&#xD;
 &#xD;
 Going to keep running hard.</Source>
-      <Dest>Sakra. Povedlo se nám dostat dva syntetiky nebo-li balíky (tak jim teď říkáme), z Commonwealthu. Třetího při přesunu chytil gang nájezdníků. Úplná krvavá koupel.&#xD;
+      <Dest>Sakra. Povedlo se nám dostat dva syntetiky nebo-li zásilky (tak jim teď říkáme), z Commonwealthu. Třetího při přesunu chytil gang nájezdníků. Úplná krvavá koupel.&#xD;
 &#xD;
-P.K. taky málem přišel o svůj balík poblíž Danversu. Vykopla jsem Deacona z velitelství, měla jsem toho prolhanýho obličej měníciho hajzla plný zuby. To, jak strávil měsíc jako ghúl, dost lidí vyděsilo.&#xD;
+P.K. taky málem přišel o svoji zásilku poblíž Danversu. Vykopla jsem Deacona z velitelství, měla jsem toho prolhanýho obličej měníciho hajzla plný zuby. To, jak strávil měsíc jako ghúl, dost lidí vyděsilo.&#xD;
 &#xD;
 Musíme to tempo vydržet.</Dest>
     </String>
@@ -3351,7 +3351,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RETreasureHuntSC02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Look for the stash of chems in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Najdi skrýš podpůrných drog v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>Pátrej po podpůrných drogách v lokaci &lt;Alias=Dungeon&gt;</Dest>
     </String>
     <String List="0" sID="027224">
       <EDID>RevereBeachStationMapMarker</EDID>
@@ -3375,7 +3375,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RosalindOrman</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Rosalind Orman</Source>
-      <Dest>Rosalind Ormanová</Dest>
+      <Dest>Rosalinda Ormanová</Dest>
     </String>
     <String List="0" sID="027488">
       <EDID>RRR01b</EDID>
@@ -3399,7 +3399,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RR101TrailSpinner01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="027769">
       <EDID>SalemMuseumDoor01</EDID>
@@ -3459,7 +3459,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RestoreRadsChem</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Remove &lt;mag&gt; points of Radiation.</Source>
-      <Dest>Odstranit &lt;mag&gt; jednotek radiace.</Dest>
+      <Dest>Odstraní &lt;mag&gt; jednotek radiace.</Dest>
     </String>
     <String List="0" sID="027DD1">
       <EDID>RR201</EDID>
@@ -3483,7 +3483,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RoslynChambers</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Dr. Roslyn Chambers</Source>
-      <Dest>Doktorka Roslyn Chambersová</Dest>
+      <Dest>Dr. Roslyn Chambersová</Dest>
     </String>
     <String List="0" sID="028116">
       <EDID>RR102CorpseRoger</EDID>
@@ -3591,7 +3591,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRFreedomTrailMarker04a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0295E2">
       <EDID>RRFreedomTrailMarker08a</EDID>
@@ -3603,7 +3603,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRFreedomTrailMarker07a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="029624">
       <EDID>RR102DEFCONTerminal</EDID>
@@ -3641,39 +3641,39 @@ Musíme to tempo vydržet.</Dest>
 230942ROCT77 PENNSYLVANIA, NEW YORK -- CONFIRM STRIKE&#xD;
 &#xD;
 230947ROCT77 OFFLINE - OFFLINE - OFFLINE</Source>
-      <Dest>281632RJAN77 ANCHORAGE POPLACH UKONČEN **DEFCON 3**&#xD;
+      <Dest>281632RLED77 ANCHORAGE KONEC POPLACHU **DEFCON 3**&#xD;
 &#xD;
-230003ROCT77 VEL.PAC.FL. HLÁSÍ 3 USO U KALIF. POBŘEŽÍ, ŽÁDÁME POKYNY SB. NÁČ. ŠTÁBŮ&#xD;
+230003RŘÍJ77 COMPACFLT HLÁSÍ 3 USO U KALIF. POBŘEŽÍ, ŽÁDÁME POKYNY GEN. NÁČ. ŠTÁBU&#xD;
 &#xD;
-230337ROCT77 LET.USA SLEDUJE LETKU (MOŽNÁ ČÍNSKOU) VE VYSOKÉ LET. HLADINĚ NAD BERINGOVOU ÚŽINOU&#xD;
+230337RŘÍJ77 USAF SLEDUJE LETKU (MOŽNÁ ČÍNSKOU) VE VYSOKÉ LET. HLADINĚ NAD BERINGOVOU ÚŽINOU&#xD;
 &#xD;
-230913ROCT77 IONDS HLÁSÍ 4 PRAVDĚPODOBNÉ ODPALY **DEFCON 2**&#xD;
+230913RŘÍJ77 IONDS HLÁSÍ 4 PRAVDĚPODOBNÉ ODPALY **DEFCON 2**&#xD;
 &#xD;
-230917ROCT77 NORAD POTVRZUJE RAKETY VE VZDUCHU **DEFCON 1**&#xD;
+230917RŘÍJ77 NORAD POTVRZUJE RAKETY VE VZDUCHU **DEFCON 1**&#xD;
 &#xD;
-230926ROCT77 OVEŘENÝ ROZKAZ -- REAKČNÍ SCÉNÁŘ MX-CN91 -- OPAKUJI MX-CN91&#xD;
+230926RŘÍJ77 OVEŘENÝ ROZKAZ -- ODVETNÝ SCÉNÁŘ MX-CN91 -- OPAKUJI MX-CN91&#xD;
 &#xD;
-230942ROCT77 PENNSYLVANIA, NEW YORK -- POTVRZENÝ ZÁSAH&#xD;
+230942RŘÍJ77 PENSYLVÁNIE, NEW YORK -- POTVRZENÝ ZÁSAH&#xD;
 &#xD;
-230947ROCT77 ODPOJENO - ODPOJENO - ODPOJENO</Dest>
+230947RŘÍJ77 ODPOJENO - ODPOJENO - ODPOJENO</Dest>
     </String>
     <String List="0" sID="029776">
       <EDID>RRFreedomTrailMarker02a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0297FC">
       <EDID>RRFreedomTrailMarker05a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="029883">
       <EDID>RRAct3Lost</EDID>
       <REC>QUST:FULL</REC>
       <Source>Burning Cover</Source>
-      <Dest>Prozrazené krytí</Dest>
+      <Dest>Hořící krytí</Dest>
     </String>
     <String List="0" sID="0298E6">
       <EDID>RR102FireRemains</EDID>
@@ -3691,7 +3691,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRFreedomTrailMarker08a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="0299AA">
       <EDID>RR102</EDID>
@@ -3703,7 +3703,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRM01</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Give Carrington his prototype</Source>
-      <Dest>Dej Carringtonovi prototyp</Dest>
+      <Dest>Dej Carringtonovi jeho prototyp</Dest>
     </String>
     <String List="0" sID="029A0C">
       <EDID>RRFreedomTrailMarker04a</EDID>
@@ -3721,7 +3721,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRAct3Lost</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Find the Minutemen</Source>
-      <Dest>Najdi minutemany</Dest>
+      <Dest>Najdi Minutemany</Dest>
     </String>
     <String List="0" sID="029B0D">
       <EDID>RR102DEFCONTerminal</EDID>
@@ -3751,7 +3751,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRFreedomTrailMarker03a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="029C7F">
       <EDID>RRAct3Lost</EDID>
@@ -3769,7 +3769,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRFreedomTrailMarker06a</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Freedom Trail Marker</Source>
-      <Dest>Značka na Cestě svobody</Dest>
+      <Dest>Značka na Stezce svobody</Dest>
     </String>
     <String List="0" sID="029CEC">
       <EDID>RRFreedomTrailMarker01a</EDID>
@@ -3799,7 +3799,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RR102DEFCONTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Switchboard Mainframe (SW-01)</Source>
-      <Dest>Mainframe Rozvaděč (SW-01)</Dest>
+      <Dest>Mainframe Operačního ústředí (SW-01)</Dest>
     </String>
     <String List="0" sID="029D85">
       <EDID>RRAct3Lost</EDID>
@@ -3943,7 +3943,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RR_PrewarSweaterVest_01</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Covert Sweater Vest</Source>
-      <Dest>Krycí pletená vesta</Dest>
+      <Dest>Krycí svetrová vesta</Dest>
     </String>
     <String List="0" sID="02CAF7">
       <EDID>RRInTheBloodPerk</EDID>
@@ -4359,7 +4359,7 @@ Musíme to tempo vydržet.</Dest>
       <Source>Settler</Source>
       <Dest>Osadník</Dest>
     </String>
-    <String List="0" sID="0305CF">
+    <String List="0" sID="0305CF" Partial="1">
       <EDID>RETravelRJ01_SkrapRat</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Skrap Rat</Source>
@@ -4423,7 +4423,7 @@ Ptáček: Cestička připravená. Potřebuji z velitelství krycí jméno Ptáč
 &#xD;
 Mandarinka: Chci to ukončit. Znovu návrat k závislosti na drogách. To vysvětlilo všechny odchylky. Téměř určitě není tajný agent.&#xD;
 &#xD;
-Jukebox: Dobře postavený. Karty si drží blízko u těla. 2 potvrzení agenti z Rozvaděče tam byli před zničením. Potenciálně nebezpečné se v tom dál vrtat. Doporučuji vyhnout se.&#xD;
+Jukebox: Dobře postavený. Karty si drží blízko u těla. 2 potvrzení agenti z Operačního ústředí tam byli před zničením. Potenciálně nebezpečné se v tom dál vrtat. Doporučuji vyhnout se.&#xD;
 &#xD;
 Táborník: Souhlasím s D. Táborníkova dcera zmizela. Všechny stopy ukazují na nepřátelskou akci. Prahne po pomstě. Potenciální sebevrah, je potřeba jednat rychle. Potřebujeme nové agenty.</Dest>
     </String>
@@ -4493,7 +4493,7 @@ Nechápejte mě špatně, G má výsledky. Ale tak blízko zdroji, jako jsme my,
       <EDID>RRHQTiconderogaTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Tourist reports</Source>
-      <Dest>Turistické zprávy</Dest>
+      <Dest>Turistovi zprávy</Dest>
     </String>
     <String List="0" sID="031106">
       <EDID>RR102SigIntTerminal</EDID>
@@ -4503,11 +4503,11 @@ FROM: Dr. Ramarijan&#xD;
 SUBJECT: Hindu Kush: TPN Intercept&#xD;
 &#xD;
 We need everything you can get from unknown broadcast TPN-03. HumINT, SigINT, anything. I cannot stress the importance enough. Daily updates. The second you have anything actionable run it over to Databank.</Source>
-      <Dest>PRO: Michael F. Gelesky, Cpl&#xD;
+      <Dest>PRO: Michael F. Gelesky, des.&#xD;
 OD: Dr. Ramarijan&#xD;
 PŘEDMĚT: Hindu Kush: Zachycení TPN&#xD;
 &#xD;
-Potřebujeme všechno, co dokážete sehnat, o neznámém vysílání TPN-03. Lidské zdroje, signální informace, cokoliv. Nedokážu dostatečně zdůraznit, jak moc je to důležité. Updatovat každý den. Jakmile budete mít cokoliv užitečného, pošlete to do Databanky.</Dest>
+Potřebujeme všechno, co dokážete sehnat, o neznámém vysílání TPN-03. Lidské zdroje, signální informace, cokoliv. Nedokážu dostatečně zdůraznit, jak moc je to důležité. Podávat hlášení každý den. Jakmile budete mít cokoliv užitečného, pošlete to do Databanky.</Dest>
     </String>
     <String List="0" sID="03110B">
       <EDID>REPostman_DN102_HalluciGen</EDID>
@@ -4519,7 +4519,7 @@ Potřebujeme všechno, co dokážete sehnat, o neznámém vysílání TPN-03. Li
       <EDID>RR102SigIntTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>SigInt Terminal #03</Source>
-      <Dest>Terminál SigINT #03</Dest>
+      <Dest>Terminál SigOdp #03</Dest>
     </String>
     <String List="0" sID="031121">
       <EDID>REPostman_DN059_CollegeSquare</EDID>
@@ -4565,7 +4565,7 @@ V sobotu byla strašná bouřka, která odpálila jeden z transformátorů. Cel�
 &#xD;
 Pamatujte: Mlžit, mlžit, mlžit. Čím méně detailů prozradíte, tím menší je šance, že se prořeknete.&#xD;
 &#xD;
-TAJNÉ - NEŠÍŘIT - TAJNÉ</Dest>
+DŮVĚRNÉ - NEŠÍŘIT - DŮVĚRNÉ</Dest>
     </String>
     <String List="0" sID="03117A">
       <EDID>RR102SigIntTerminal</EDID>
@@ -4577,11 +4577,11 @@ SUBJECT: Halloween Bash&#xD;
 After our shift, we're hitting Antoine's for a genuine Halloween party. Costumes and everything. Civvies will be in attendance. Including someone Kate says you'll like. Guaranteed not to be a honeypot. &#xD;
 &#xD;
 You need to get out! This is a tough assignment for all of us, so don't let those Data losers get you down.</Source>
-      <Dest>PRO: Michael F. Gelesky, Cpl&#xD;
-OD: Jay T. Faraday, Cpl&#xD;
-PŘEDMĚT: Halloween Bash&#xD;
+      <Dest>PRO: Michael F. Gelesky, des.&#xD;
+OD: Jay T. Faraday, des.&#xD;
+PŘEDMĚT: Halloweenská párty&#xD;
 &#xD;
-Po směně jdeme k Antoinovi na pravou halloweenskou party. Kostýmy a tak vůbec. Budou tam i civilisti. Včetně někoho, o kom Kate tvrdí, že je tvůj typ. Zaručeně to není zvěd.&#xD;
+Po směně jdeme k Antoinovi na opravdovou halloweenskou party. Kostýmy a tak vůbec. Budou tam i civilisti. Včetně někoho, o kom Kate tvrdí, že je tvůj typ. Zaručeně to není zvěd.&#xD;
 &#xD;
 Musíš odtamtud na chvíli vypadnout. Ten úkol je pro všechny těžký, tak se nenech od těch ubožáků od Dat vydeptat.</Dest>
     </String>
@@ -4700,13 +4700,13 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreRadsFood</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Food Remove Radiation</Source>
-      <Dest>Odstranění radiace jídlem</Dest>
+      <Dest>Jídlo: odstraní radiaci</Dest>
     </String>
     <String List="0" sID="033265">
       <EDID>RestoreRadsFood</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Remove &lt;mag&gt; points of Radiation.</Source>
-      <Dest>Odstranit &lt;mag&gt; jednotek radiace</Dest>
+      <Dest>Odstraní &lt;mag&gt; jednotek radiace</Dest>
     </String>
     <String List="0" sID="033FCE">
       <EDID>RuinedSkyscraperLocation</EDID>
@@ -4724,7 +4724,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreHealthStimpak</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Restore Health</Source>
-      <Dest>Obnovit zdraví</Dest>
+      <Dest>Obnoví zdraví</Dest>
     </String>
     <String List="0" sID="0344EE">
       <EDID>RETravelJB01</EDID>
@@ -4748,7 +4748,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RevolutionarySword</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
-      <Dest>[] Standardní Epický</Dest>
+      <Dest>Standardní Epický</Dest>
     </String>
     <String List="0" sID="034731">
       <EDID>RESceneKMK03LimbDamageDisease</EDID>
@@ -4760,7 +4760,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>Ripper</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>[] Jednoduchý epický</Dest>
+      <Dest>Jednoduchý epický</Dest>
     </String>
     <String List="0" sID="034829">
       <EDID>RollingPin</EDID>
@@ -4772,7 +4772,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RollingPin</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>[] Jednoduchý Epický</Dest>
+      <Dest>Jednoduchý epický</Dest>
     </String>
     <String List="0" sID="0348A3">
       <EDID>Ripper</EDID>
@@ -4784,7 +4784,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RollingPin</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
-      <Dest>[] Standardní Epický</Dest>
+      <Dest>Standardní epický</Dest>
     </String>
     <String List="0" sID="0348C4">
       <EDID>RevolutionarySword</EDID>
@@ -4802,13 +4802,13 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RevolutionarySword</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
-      <Dest>[] Jednoduchý epický</Dest>
+      <Dest>Jednoduchý epický</Dest>
     </String>
     <String List="0" sID="03497C">
       <EDID>Ripper</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
-      <Dest>[] Standardní Epický</Dest>
+      <Dest>Standardní epický</Dest>
     </String>
     <String List="0" sID="034A60">
       <EDID>ResidentialStreetLamp01</EDID>
@@ -4832,7 +4832,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RR301SynthTeleportGrenade</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Synth Beacon Grenade</Source>
-      <Dest>Signální granát syntetiků</Dest>
+      <Dest>Naváděcí granát syntentika</Dest>
     </String>
     <String List="0" sID="034E8D">
       <EDID>RoofHatch01ExpensivePathing</EDID>
@@ -4850,7 +4850,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RR301SynthTeleportGrenadeProjectile</EDID>
       <REC>PROJ:FULL</REC>
       <Source>Synth Beacon Grenade</Source>
-      <Dest>Signální granát syntetiků</Dest>
+      <Dest>Naváděcí granát syntentika</Dest>
     </String>
     <String List="0" sID="0350C5">
       <EDID>Res01ModernRubbleSm02</EDID>
@@ -4946,7 +4946,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionOverdrive</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Overdrive</Source>
-      <Dest>Vyléčit závislost na Rychloběhu</Dest>
+      <Dest>Vyléčí závislost na Rychloběhu</Dest>
     </String>
     <String List="0" sID="035693">
       <EDID>RowboatRudder01</EDID>
@@ -4958,19 +4958,19 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionMentats</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Mentats</Source>
-      <Dest>Vyléčit závislost na Mentatech</Dest>
+      <Dest>Vyléčí závislost na Mentatech</Dest>
     </String>
     <String List="0" sID="0356A0">
       <EDID>RestoreAddictionBuffout</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Buffout</Source>
-      <Dest>Vyléčit závislost na Buffoutu</Dest>
+      <Dest>Vyléčí závislost na Buffoutu</Dest>
     </String>
     <String List="0" sID="0356A5">
       <EDID>RestoreAddictionMedX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Med-X</Source>
-      <Dest>Vyléčit závislost na Med-X</Dest>
+      <Dest>Vyléčí závislost na Med-X</Dest>
     </String>
     <String List="0" sID="0356AD">
       <EDID>RestoreAddictionDaddyO</EDID>
@@ -4988,7 +4988,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionAlcohol</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Alcohol</Source>
-      <Dest>Vyléčit závislost na alkoholu</Dest>
+      <Dest>Vyléčí závislost na alkoholu</Dest>
     </String>
     <String List="0" sID="0356DA">
       <EDID>RestoreAddictionMentats</EDID>
@@ -5012,7 +5012,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionXCell</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction X-Cell</Source>
-      <Dest>Vyléčit závislost na X-Cellu</Dest>
+      <Dest>Vyléčí závislost na X-Cellu</Dest>
     </String>
     <String List="0" sID="035707">
       <EDID>RestoreAddictionXCell</EDID>
@@ -5024,7 +5024,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionPsycho</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Psycho</Source>
-      <Dest>Vyléčit závislost na Psychu</Dest>
+      <Dest>Vyléčí závislost na Psychu</Dest>
     </String>
     <String List="0" sID="035713">
       <EDID>RestoreAddictionAlcohol</EDID>
@@ -5036,7 +5036,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionJet</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Jet</Source>
-      <Dest>Vyléčit závislost na Jetu</Dest>
+      <Dest>Vyléčí závislost na Jetu</Dest>
     </String>
     <String List="0" sID="035736">
       <EDID>RestoreAddictionJet</EDID>
@@ -5048,7 +5048,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionDaddyO</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction DaddyO</Source>
-      <Dest>Vyléčit závislost na Taťkově šleze</Dest>
+      <Dest>Vyléčí závislost na Taťkově šleze</Dest>
     </String>
     <String List="0" sID="035741">
       <EDID>RestoreAddictionBuffout</EDID>
@@ -5066,7 +5066,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionCalmex</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Calmex</Source>
-      <Dest>Vyléčit závislost na Calmexu</Dest>
+      <Dest>Vyléčí závislost na Calmexu</Dest>
     </String>
     <String List="0" sID="0358F4">
       <EDID>RestoreAddictionCalmex</EDID>
@@ -5078,7 +5078,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionFury</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Fury</Source>
-      <Dest>Vyléčit závislost na Běsu</Dest>
+      <Dest>Vyléčí závislost na Běsu</Dest>
     </String>
     <String List="0" sID="0359A4">
       <EDID>RestoreAddictionDaytripper</EDID>
@@ -5096,7 +5096,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>RestoreAddictionDaytripper</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cure Addiction Daytripper</Source>
-      <Dest>Vyléčit závislost na Výletníkovi</Dest>
+      <Dest>Vyléčí závislost na Výletníkovi</Dest>
     </String>
     <String List="0" sID="035E99">
       <EDID>Res01ModernDoor01RRStatic</EDID>
@@ -5138,7 +5138,7 @@ Jste dostatečně stateční na opětovnou návštěvu? Členové získají slev
       <EDID>Rifleman02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Attacks with non-automatic rifles now do 40% more damage and ignore 15% of a target's armor.</Source>
-      <Dest>Útok neautomatickou zbraní nyní způsobí o 40 % vetší poškození a ignoruje 15 % obrnění cíle.</Dest>
+      <Dest>Útok neautomatickou zbraní nyní působí o 40 % vetší poškození a ignoruje 15 % obrnění cíle.</Dest>
     </String>
     <String List="1" sID="012998">
       <EDID>RR201CodeDPassword</EDID>
@@ -5149,20 +5149,20 @@ password: Vernon!Is!An!Idiot!&#xD;
 &lt;/font&gt;</Source>
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 uživatelské jméno: TWilliams&#xD;
-heslo: Vernon!Is!An!Idiot!&#xD;
+heslo: Vernon!Je!Idiot!&#xD;
 &lt;/font&gt;</Dest>
     </String>
     <String List="1" sID="012A12">
       <EDID>RETreasureHuntSC04NoteScrap</EDID>
       <REC>BOOK:DESC</REC>
       <Source>One of the caravan guards said they passed by &lt;Alias=Dungeon&gt; a while back. Thought it might have some good scrap left to salvage. Might be worth a look.</Source>
-      <Dest>Jeden z ochránců karavany mi řekl, že před časem procházeli oblastí, kde je &lt;Alias=Dungeon&gt;. Možná tam ještě zůstal nějaký dobrý šrot na sesbírání. Mohlo by stát za to se tam podívat.</Dest>
+      <Dest>Jeden z ochránců karavany mi řekl, že před časem procházeli oblastí, kde je &lt;Alias=Dungeon&gt;. Myslí, že tam ještě zůstal nějaký dobrý šrot na sesbírání. Mohlo by stát za to se tam podívat.</Dest>
     </String>
     <String List="1" sID="012D10">
       <EDID>RR301TempDeadDrop</EDID>
       <REC>MESG:DESC</REC>
       <Source>In this dead drop you find an encrypted message about the Code Red. It's from Ticonderoga Station and it warns that Institute forces have been spotted near their station. Ticonderoga requests immediate assistance from HQ.</Source>
-      <Dest>V této mrtvé schránce najdeš zašifrovanou zprávu o Červeném kódu. Je ze stanice Ticonderoga a varuje, že síly Institutu byly spatřeny poblíž jejich stanice. Ticonderoga žádá úsředí o okamžitou pomoc.</Dest>
+      <Dest>V této mrtvé schránce najdeš zašifrovanou zprávu o Červeném kódu. Je ze stanice Ticonderoga a varuje, že síly Institutu byly spatřeny v jejich okolí. Ticonderoga žádá úsředí o okamžitou pomoc.</Dest>
     </String>
     <String List="1" sID="013328">
       <EDID>REObjectSC05_DN154_Note</EDID>
@@ -5178,7 +5178,7 @@ heslo: Vernon!Is!An!Idiot!&#xD;
       <EDID>Rifleman04</EDID>
       <REC>PERK:DESC</REC>
       <Source>Attacks with non-automatic rifles now do 80% more damage and ignore 25% of a target's armor. They also have a slight chance of crippling a limb.</Source>
-      <Dest>Útok neautomatickou zbraní nyní způsobí o 80 % vetší poškození a ignoruje 25 % obrnění cíle. Také má mírnou šanci zlomit končetinu.</Dest>
+      <Dest>Útok neautomatickou zbraní nyní působí o 80 % vetší poškození a ignoruje 25 % obrnění cíle. Také má mírnou šanci zlomit končetinu.</Dest>
     </String>
     <String List="1" sID="014A47">
       <EDID>REScene01Note</EDID>
@@ -5197,9 +5197,9 @@ P.S. Make sure you're not followed!! I think John is starting to get suspicious.
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 Billy,&#xD;
 &#xD;
-Mám &lt;Alias=Item&gt;! Teď akorát musíme vymyslet, jak to prodat, než někomu dojde, o co nám jde.&#xD;
+&lt;Alias=Item&gt; je moje! Teď akorát musíme vymyslet, jak to prodat, než někomu dojde, o co nám jde.&#xD;
 &#xD;
-Ukryl jsem to v &lt;Alias=Dungeon&gt;. Sejdeme se tam dnes večer.&#xD;
+&lt;Alias=Dungeon&gt; může posloužit jako skrýš. Sejdeme se tam dnes večer.&#xD;
 &#xD;
 - Sue&#xD;
 &#xD;
@@ -5209,7 +5209,7 @@ P.S. Ujisti se, že tě nikdo nesleduje. Přijde mi, že John začíná mít pod
       <EDID>RR101TouristFaneuilHallMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Donated to the city of Boston in 1742 by French merchant Peter Faneuil, Faneuil Hall was a commercial hub in colonial Massachusetts. It played a notable role in the American Revolution. Protests against the British Sugar and Stamp Acts that began here led to the doctrine of "no taxation without representation." Later meetings were held here which culminated in the Boston Tea Party. Many of the Founding Fathers met here or gave speeches here (notably Samuel Adams) leading to the building's nickname, "The Cradle of Liberty."</Source>
-      <Dest>Síň Faneuil, kterou daroval městu Boston francouzský obchodník Peter Faneuil, byla obchodním centrem v koloniálním Massachussets. Hrála významnou roli za Americké revoluce. Protesty proti cukrovému a kolkovému zákonu, které tu začaly, vedly až k doktríně „bez zastoupení nebude zdanění“. Později se tu odehrávala setkání, která vyústila až v Bostonský čajový dýchánek. Mnoho z Otců zakladatelů se tu setkalo nebo tu proneslo své projevy (z významných Samuel Adams), čímž budova získala svoji přezdívku „Kolébka svobody“.</Dest>
+      <Dest>Hala Faneuil, kterou daroval městu Boston francouzský obchodník Peter Faneuil, byla obchodním centrem v koloniálním Massachussets. Hrála významnou roli za Americké revoluce. Protesty proti cukrovému a kolkovému zákonu, které tu začaly, vedly až k doktríně „bez zastoupení nebude zdanění“. Později se tu odehrávala setkání, která vyústila až v Bostonské pití čaje. Mnoho z Otců zakladatelů se tu setkalo nebo tu proneslo své projevy (z významných Samuel Adams), čímž budova získala svoji přezdívku „Kolébka svobody“.</Dest>
     </String>
     <String List="1" sID="016298">
       <EDID>RETreasureHuntSC02NoteChems</EDID>
@@ -5227,19 +5227,19 @@ P.S. Ujisti se, že tě nikdo nesleduje. Přijde mi, že John začíná mít pod
       <EDID>RR303DisplayClaymore</EDID>
       <REC>MESG:DESC</REC>
       <Source>Scabbard</Source>
-      <Dest>Pochva</Dest>
+      <Dest>Pouzdrák</Dest>
     </String>
     <String List="1" sID="01998E">
       <EDID>RR101OldCornerBookstoreMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Old Corner Bookstore was originally built as an apothecary after the devastating Great Fire of 1711. Originally the land belonged to Anne Hutchinson, the controversial puritan who was excommunicated and banished from Massachusetts for her "heretical" beliefs and sermons. During the mid-nineteenth century, the Old Corner Bookstore was the home of the leading American publisher Ticknor and Fields. They published the works of such luminaries as Charles Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Wadsworth Longfellow, Harriet Beecher Stowe, and Henry Dave Thoreau. Many of those were frequent visitors to this site.</Source>
-      <Dest>Původně lékárna, dnes knihkupectví Old Corner bylo postaveno po ničivém Velkém požáru v roce 1711. Pozemek původně patřil Anne Hutchinsonové, kontroverzní puritánce, která byla exkomunikována a i vyhoštěna z Massachusetts kvůli svým kacířským názorům a kázáním. V polovině 19. století sídlilo v knihkupectví Old Corner přední americké nakladatelství Ticknor and Fields. Publikovali práce takových osobností jako byli Charles Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Wadsworth Longfellow, Harriet Beecher Stoweová a Henry Dave Thoreau. Spousta z nich knihkupectví osobně navštěvovala.</Dest>
+      <Dest>Původně lékárna, dnes knihkupectví Old Corner bylo postaveno po ničivém Velkém požáru v roce 1711. Pozemek původně patřil Anne Hutchinsonové, kontroverzní puritánce, která byla exkomunikována a vyhoštěna z Massachusettsu kvůli svým kacířským názorům a kázáním. V polovině 19. století sídlilo v knihkupectví Old Corner přední americké nakladatelství Ticknor and Fields. Publikovali práce takových osobností jako byli Charles Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Wadsworth Longfellow, Harriet Beecher Stoweová a Henry Dave Thoreau. Spousta z nich knihkupectví osobně navštěvovala.</Dest>
     </String>
     <String List="1" sID="01B284">
       <EDID>RETreasureHuntSC03NoteGun</EDID>
       <REC>BOOK:DESC</REC>
       <Source>I got the intel. The gang at &lt;Alias=Dungeon&gt; looks tough, but their leader has the gun - a &lt;Alias=Weapon&gt;, just like the contact said. The right squad of men could take it.</Source>
-      <Dest>Dostal jsem info. Gang v lokaci &lt;Alias=Dungeon&gt; vypadá odolně, ale jejich velitel vlastní tu zbraň. Je to  &lt;Alias=Weapon&gt;, přesně jak řekl informátor. Správná jednotka by ji mohla získat.</Dest>
+      <Dest>Dostal jsem info. Gang v lokaci &lt;Alias=Dungeon&gt; vypadá odolně, ale jejich velitel vlastní tu zbraň. Je to &lt;Alias=Weapon&gt;, přesně jak řekl informátor. Správná jednotka by ji mohla získat.</Dest>
     </String>
     <String List="1" sID="01C8FB">
       <EDID>RR301TempMessage</EDID>
@@ -5267,7 +5267,7 @@ Jeden ze záznamů říká, že lovci používají blízké místo jako svoji op
       <EDID>RRKickoutMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You are now enemies with the Railroad.</Source>
-      <Dest>Od teď jste s Železnicí nepřátelé</Dest>
+      <Dest>Od teď jste s Železnicí nepřátelé.</Dest>
     </String>
     <String List="1" sID="01D202">
       <EDID>RESceneCC_DN101Note</EDID>
@@ -5289,7 +5289,7 @@ Kdo si troufne, ať mě najde.&#xD;
       <Source>The Trail Markers are like manhole covers with letters around the edge. The letters spell, "THE FREEDOM TRAIL - BOSTON". There's also some spray paint which highlights a single letter. When you activate the marker, you're turning the marker which means a new letter is highlighted. When you highlight the correct letter there is an audible click and the objective automatically changes pointing you further down the Freedom Trail. You can keep spinning the marker and the objective pops back to your current marker (since you no longer have the correct letter highlighted).&#xD;
 &#xD;
 There are eight markers you'll be going to. The letters you're highlighting spell out RAILROAD.</Source>
-      <Dest>Značky na Stezce vapdají jako poklopy na kanál s písmeny kolem dokole. Dohromady ta písmená dávají „THE FREEDOM TRAIL - BOSTON“. Jedno písmeno je vždycky označeno barvou. Když ukazatel aktivuješ, tak jím otáčíš a označuješ další písmeno. Když označíš správné písmeno uslyšíš hlasité cvaknutí a cíl se automaticky změní a nasměruje tě dál po Stezce svobody. Můžeš pokračovat v otáčení a cíl se vrátí zpět k aktuálnímu ukazateli (protože není označené správné písmeno).&#xD;
+      <Dest>Značky na Stezce vapdají jako poklopy na kanál s písmeny kolem dokola. Dohromady ta písmená dávají „THE FREEDOM TRAIL - BOSTON“. Jedno písmeno je vždycky označeno barvou. Když ukazatel aktivuješ, tak jím otáčíš a označuješ další písmeno. Když označíš správné písmeno uslyšíš hlasité cvaknutí a cíl se automaticky změní a nasměruje tě dál po Stezce svobody. Můžeš pokračovat v otáčení a cíl se vrátí zpět k aktuálnímu ukazateli (protože není označené správné písmeno).&#xD;
 &#xD;
 Je třeba dojít k osmi ukazatelům. Písmena, která označuješ, dají dohromay RAILROAD.</Dest>
     </String>
@@ -5303,7 +5303,7 @@ Je třeba dojít k osmi ukazatelům. Písmena, která označuješ, dají dohroma
       <EDID>RRM01DeadDropMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Requesting heavy support at Bunker Hill. Package delivery aborted. Cannot safely hold package for much longer.</Source>
-      <Dest>Žádám ozbrojenou podporu na Bunker Hillu. Předání balíku přerušeno. Balík už nemůže zůstat bezpečně na místě.</Dest>
+      <Dest>Žádám ozbrojenou podporu na Bunker Hillu. Předání zásilky přerušeno. Zásilka už nemůže zůstat bezpečně na místě.</Dest>
     </String>
     <String List="1" sID="01D40E">
       <EDID>RRR01DeadDropMessage02b</EDID>
@@ -5321,7 +5321,7 @@ Je třeba dojít k osmi ukazatelům. Písmena, která označuješ, dají dohroma
       <EDID>RR101TouristStateHouseMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>The "New" State House was completed in 1798 to house the government of the state of Massachusetts. The land selected was originally one of John Hancock's cow pastures. The original dome was constructed of wooden shingles and covered in copper smelted by Paul Revere. The state government used this building continuously until the formation of the Thirteen Commonwealths in 1969.</Source>
-      <Dest>Stavba „Nového“ sídla vlády byla dokončena v roce 1798 proto, aby měla vláda státu Massachussets své sídlo. Vybraný pozemek daroval John Hancock a byl původně pastvinou pro krávy. Konstrukce původní kupole využila dřevěné šindele překryté mědí, kterou odlil Paul Revere. Státní vláda tuto budovu využívala do založení Třinácti Commonwealthů v roce 1969.</Dest>
+      <Dest>Stavba „Nového“ sídla vlády státu Massachusetts byla dokončena v roce 1798. Vybraný pozemek daroval John Hancock a byl původně pastvinou pro krávy. Konstrukce původní kupole využila dřevěné šindele překryté mědí, kterou odlil Paul Revere. Státní vláda tuto budovu využívala do založení Třinácti Commonwealthů v roce 1969.</Dest>
     </String>
     <String List="1" sID="01D4E0">
       <EDID>RR101TouristGranaryBuryingMessage</EDID>
@@ -5351,13 +5351,13 @@ Je třeba dojít k osmi ukazatelům. Písmena, která označuješ, dají dohroma
       <EDID>Rifleman01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Keep your distance long and your kill-count high. Attacks with non-automatic rifles do 20% more damage.</Source>
-      <Dest>Nepřátele si drž od těla daleko a počet mrtvých udržuj vysoko. Útok s neautomatickou zbraní udělá o 20 % větší poškození.</Dest>
+      <Dest>Nepřátele si drž od těla daleko a počet mrtvých udržuj vysoko. Útok s neautomatickou zbraní působí o 20 % větší poškození.</Dest>
     </String>
     <String List="1" sID="01D999">
       <EDID>Rifleman03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Attacks with non-automatic rifles now do 60% more damage and ignore 20% of a target's armor.</Source>
-      <Dest>Útok neautomatickou zbraní nyní způsobí o 60 % vetší poškození a ignoruje 20 % obrnění cíle.</Dest>
+      <Dest>Útok neautomatickou zbraní nyní působí o 60 % vetší poškození a ignoruje 20 % obrnění cíle.</Dest>
     </String>
     <String List="1" sID="01E077">
       <EDID>RETreasureHuntSC01NoteCaps</EDID>
@@ -5390,7 +5390,7 @@ Jsme tví přátelé. Prostě se nechceme dívat na to, jak scházíš na scest�
       <EDID>RRM02DeadDropMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Immediate assistance required at Memory Den. Road out blocked. Package in danger. Repeat: Package in danger.</Source>
-      <Dest>Okamžitá pomoc nutná v Hnízdečku vzpomínek. Cesta ven je blokovaná. Balík je v nebezpečí. Opakuji: Balík je v nebezpečí.</Dest>
+      <Dest>Okamžitá pomoc nutná v Hnízdečku vzpomínek. Cesta ven je blokovaná. Zásilka je v nebezpečí. Opakuji: Zásilka je v nebezpečí.</Dest>
     </String>
     <String List="1" sID="0219C1">
       <EDID>RR101PaulRevereHouseMessage</EDID>
@@ -5435,7 +5435,7 @@ Dr. Forsythe</Dest>
       <Source>Augusta overrun. Two coursers, unknown number of old-models. I'm the only survivor. They came straight at us, knew our location. Package's fate is unknown. If I don't make it out, make them pay.&#xD;
 &#xD;
 - BB</Source>
-      <Dest>Audusta dobita. Dva lovci, neznámý počet starých modelů. Jsem jediný přeživší. Přišli si rovnou pro nás, znali naši pozici. Osud balíčku je neznámý. Pokud to nezvládnu, musíte mě pomstít.&#xD;
+      <Dest>Augusta dobita. Dva lovci, neznámý počet starých modelů. Jsem jediný přeživší. Přišli si rovnou pro nás, znali naši pozici. Osud balíčku je neznámý. Pokud to nezvládnu, musíte mě pomstít.&#xD;
 &#xD;
 - Kos</Dest>
     </String>
@@ -5452,9 +5452,9 @@ RETURN&#xD;
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 ZABÍT&#xD;
 &#xD;
-LOUPIT&#xD;
+OLOUPIT&#xD;
 &#xD;
-VRÁTIT SE&#xD;
+PŘINÉST&#xD;
 &lt;/font&gt;</Dest>
     </String>
     <String List="1" sID="025A03">
@@ -5467,7 +5467,7 @@ VRÁTIT SE&#xD;
       <EDID>RoboticsExpert01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Machines will always serve humans, if you have anything to say about it. Hack a robot, and gain a chance to power it on or off, or initiate a self-destruct.</Source>
-      <Dest>Co se tebe týče, tak stroje budou vždycky sloužit lidem. Hackni robota a máš šanci ho zapnout, vypnout a nebo zahájit sebedestrukci.</Dest>
+      <Dest>Co se tebe týče, tak stroje budou vždycky sloužit lidem. Hackni robota a máš šanci ho zapnout, vypnout anebo zahájit sebedestrukci.</Dest>
     </String>
     <String List="1" sID="025EBA">
       <EDID>RETravelJS01Note</EDID>
@@ -5483,10 +5483,10 @@ Gruel's Shopping List&#xD;
 (what they don't know won't hurt 'em)&#xD;
 &lt;/font&gt;</Source>
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
-Gruel's Shopping List&#xD;
+Škraloupův seznam na nákup&#xD;
 &#xD;
 - Pár kilo masa z yao guai&#xD;
-- Půl tuctu páračích vajíček&#xD;
+- Půl tuctu páračích vajec&#xD;
 - Maso z plíživce - jenom z měkkého!&#xD;
 - Pivo. Spousta.&#xD;
 -Šálek krve ze zářícího ghúla &#xD;
@@ -5503,13 +5503,13 @@ Gruel's Shopping List&#xD;
       <EDID>RR303DisguiseCompromisedMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your Brotherhood disguise has been compromised.</Source>
-      <Dest>Tvůj převlek za člena Bratrstva byl prozrazen</Dest>
+      <Dest>Tvůj krytí za člena Bratrstva bylo prozrazeno</Dest>
     </String>
     <String List="1" sID="02B991">
       <EDID>Rifleman05</EDID>
       <REC>PERK:DESC</REC>
       <Source>Attacks with non-automatic rifles now do double damage and ignore 30% of a target's armor. They also have a slightly higher chance of crippling a limb.</Source>
-      <Dest>Útok neautomatickou zbraní nyní způsobí dvojnásobné poškození a ignoruje 30 % obrnění cíle. Má také o něco větší šanci zlomit končetinu.</Dest>
+      <Dest>Útok neautomatickou zbraní nyní působí dvojnásobné poškození a ignoruje 30 % obrnění cíle. Má také o něco větší šanci zlomit končetinu.</Dest>
     </String>
     <String List="1" sID="02BA9C">
       <EDID>RoboticsExpert02</EDID>
@@ -5539,7 +5539,7 @@ Gruel's Shopping List&#xD;
       <EDID>RRInTheBloodPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>+5 radiation resistance but -5 to maximum health</Source>
-      <Dest>+5 k odolnosti vůči radiaci, ale -5 od maximálního zdraví</Dest>
+      <Dest>+5 k odolnosti vůči radiaci, ale -5 z maximálního zdraví</Dest>
     </String>
     <String List="1" sID="02D936">
       <EDID>RRPatriotSuicideNote</EDID>
@@ -5609,7 +5609,7 @@ Your pen pal,&#xD;
 Alexander</Source>
       <Dest>Kristen,&#xD;
 &#xD;
-Měla jsi pravdu! Ta věc s kamarády na dopisování je zábava! Celý týden se mám na co těšit. Někdy si tu připadám osamělý, ale teď jsem vzrušený pokaždé, když jde pošťák kolem!&#xD;
+měla jsi pravdu! Ta věc s kamarády na dopisování je zábava! Celý týden se mám na co těšit. Někdy si tu připadám osamělý, ale teď jsem vzrušený pokaždé, když jde pošťák kolem!&#xD;
 &#xD;
 Představ si, našel jsem pár nadbytečných dřevěných fošen a rozhodl jsem se, že ke staré boudě přidám solárium. Jasně, s děravou střechou je každá místnost solárium, nebo ne? Ale našel jsem pár zahradních křesílek a nějaké tvárnice, které mám místo stolku. Je to otočené na východ a je nádherné, když se slunce vynoří. Možná se sem někdy vydáš a uvidíš to se mnou.&#xD;
 &#xD;
@@ -5672,7 +5672,7 @@ Don't write me back,&#xD;
 Sharon</Source>
       <Dest>Larsi,&#xD;
 &#xD;
- neznám snadný způsob, jak to udělat, takže to prostě řeknu. Opouštím Tě. Vím, že rozejít se po dopisu ze mě dělá zbabělce, a jsem s tím smířená. Prostě už s Tebou nedokážu být. To, jak se necháš od všech komandovat a do všeho si necháš mluvit. Pochlap se! Kdo by chtěl takového muže? Teď bydlím s Paulem. Ano, s tím Paulem. Možná je to ghúl, ale aspoň si nenechá od nikoho nic líbit. A nebydlí se svojí matkou, jako někdo, koho znám. &#xD;
+ neznám snadný způsob, jak to udělat, takže to prostě řeknu. Opouštím Tě. Vím, že rozejít se takhle písemně ze mě dělá zbabělce, a jsem s tím smířená. Prostě už s Tebou nedokážu být. To, jak se necháš od všech komandovat a do všeho si necháš mluvit. Pochlap se! Kdo by chtěl takového muže? Teď bydlím s Paulem. Ano, s tím Paulem. Možná je to ghúl, ale aspoň si nenechá od nikoho nic líbit. A nebydlí se svojí matkou, jako někdo, koho znám. &#xD;
 &#xD;
 Už mi nepiš,&#xD;
 Sharon</Dest>
@@ -5705,7 +5705,7 @@ Skrap Rat</Dest>
 When the hell are you getting back? I can't believe you left this stupid thing with me. A mole rat is not a goddamned pet! It chews on everything and then craps all over the floor. This is not worth it, I don't care how much you're paying me. Get back here in 10 days or I swear I will butcher the thing and eat it. I'm not kidding.</Source>
       <Dest>Joeli,&#xD;
 &#xD;
-Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou věcí. Krtkopotkan není žádný domácí mazlíček! Všechno okusuje a pak kadí po celé podlaze. Je mi jedno, kolik mi platíš, toto mi za to nestojí. Vrať se do 10 dnů nebo přísahám, že tu věc zabiju a sním. Nekecám.</Dest>
+Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou věcí. Krtkopotkan není žádný domácí mazlíček! Všechno okusuje a pak kadí po celé podlaze. Je mi jedno, kolik mi platíš, tohle mi za to nestojí. Vrať se do 10 dnů nebo přísahám, že tu věc zabiju a sním. Nekecám.</Dest>
     </String>
     <String List="1" sID="0307B5">
       <EDID>RoastYaoGuai</EDID>
@@ -5717,7 +5717,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRR06</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Randolph Safehouse is under quarantine until PAM can verify this isn't an Institute trap. Until then, I'm to check in regularly with Drummer Boy to assist them further.</Source>
-      <Dest>Randolphův úkryt je pod karanténou dokud PAM neověří, že nejde o past Institutu. Do té doby se mám hlásit u Bubeníka, abych jim pomohl i jinde.</Dest>
+      <Dest>Úkryt Randolph je pod karanténou dokud PAM neověří, že nejde o past Institutu. Do té doby se mám hlásit u Bubeníka, abych jim pomohl i jinde.</Dest>
     </String>
     <String List="1" sID="030A28">
       <EDID>RRR06</EDID>
@@ -5741,13 +5741,13 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR101</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>The Freedom Trail leads to the Old North Church. The clue said : "At journey's end follow freedom's lantern." Using the letters and numbers I found on the trail, hopefully I can find the Railroad.</Source>
-      <Dest>Stezka svobody vede ke kostelu Old North. Stopa říká: „Na konci cesty následuj lucernu svobody.“ Doufám, že pokud použiju písmena a čísla, která cestou nacházím, tak najdu Železnici.</Dest>
+      <Dest>Stezka svobody vede ke kostelu Old North. Stopa říká: „Na konci cesty následuj lucernu svobody.“ Doufám, že pokud použiju písmena a čísla, byla na cestě k nalezení, tak najdu Železnici.</Dest>
     </String>
     <String List="1" sID="030A42">
       <EDID>RR201</EDID>
       <REC id="9">QUST:CNAM</REC>
       <Source>With the tunnel guards eliminated, Z1-14 has the materials he needs to make crude weapons for the uprising. Now I need to let him know the good news.</Source>
-      <Dest>Strážní z tunelu jsou mrtví, a Z1-14 má tedy metariály, které potřebuje na výrobu hrubých zbraní pro povstalce. Teď se s ním musím o ty dobré zprávy podělit.</Dest>
+      <Dest>Strážci z tunelu jsou mrtví a Z1-14 má metariály, které potřebuje na výrobu zbraní pro povstalce. Teď se s ním musím o ty dobré zprávy se podělit.</Dest>
     </String>
     <String List="1" sID="030A49">
       <EDID>RRR08</EDID>
@@ -5783,19 +5783,19 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR102</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>I impressed Desdemona enough with my actions at Switchboard that she asked me to join the Railroad.</Source>
-      <Dest>Moje činy v Rozvaděči zapůsobily na Desdemonu natolik, že mi nabídla členství v Železnici.</Dest>
+      <Dest>Moje činy v Operačním ústředí zapůsobily na Desdemonu natolik, že mi nabídla členství v Železnici.</Dest>
     </String>
     <String List="1" sID="030A7C">
       <EDID>RRM01</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>I safely got High Rise and H2-22 to Ticonderoga Safehouse. It's time to report back to Doctor Carrington.</Source>
-      <Dest>Já, High Rise a H2-22 jsme v bezpečí dorazili do úkrytu Ticonderoga. Je se vrátit k doktoru Carringtonovi.</Dest>
+      <Dest>Já, High Rise a H2-22 jsme se v bezpečí dostali do úkrytu Ticonderoga. Je na čase se vrátit k doktoru Carringtonovi.</Dest>
     </String>
     <String List="1" sID="030A7F">
       <EDID>RRAct3Lost</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>My cover with the Institute has been blown. I need to report back to Desdemona and see how we can proceed.</Source>
-      <Dest>Moje krytí v Institutu je prozrazené. Musím se hlásit Desdemoně, abychom se dohodli, jak bychom mohli dál pokračovat.</Dest>
+      <Dest>Moje krytí v Institutu je prozrazené. Musím se hlásit Desdemoně, abychom se dohodli, jak budeme dál pokračovat.</Dest>
     </String>
     <String List="1" sID="030A83">
       <EDID>RRM02</EDID>
@@ -5849,7 +5849,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRM01</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>My first official assignment in the Railroad is to deliver Doctor Carrington the prototype we recovered from Switchboard. And then see if he needs any help.</Source>
-      <Dest>Můj první oficiální úkol pro Železnici je doručit doktoru Carringtonovi ten prototyp, který jsme získali v Rozvaděči. A zjistit, jestli nepotřebuje s něčím pomoct.</Dest>
+      <Dest>Můj první oficiální úkol pro Železnici je doručit doktoru Carringtonovi ten prototyp, který jsme získali v Operačním ústředí. A zjistit, jestli nepotřebuje s něčím pomoct.</Dest>
     </String>
     <String List="1" sID="030B01">
       <EDID>RRR01b</EDID>
@@ -5873,25 +5873,25 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR201</EDID>
       <REC id="8">QUST:CNAM</REC>
       <Source>Z1-14 found many volunteers willing to fight for their freedom. But they need weapons. There's a mining tunnel that has materials they need to make crude weapons. I just have to take out the guards.</Source>
-      <Dest>Z1-14 získal mnoho dobrovolníků ochotných bojovat za svou svobodu. Ale potřebují zbraně. Poblíž je důlní tunel, ve kterém jsou materiály, s jejichž pomocí se dají vyrobit hrubé zbraně. Jenom musím odstranit strážné.</Dest>
+      <Dest>Z1-14 získal mnoho dobrovolníků ochotných bojovat za svou svobodu. Ale potřebují zbraně. Poblíž je důlní tunel, ve kterém jsou materiály, s jejichž pomocí se dají vyrobit hrubé zbraně. Jenom musím odstranit strážce.</Dest>
     </String>
     <String List="1" sID="030B1F">
       <EDID>RRR02a</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Well, the hostiles were eliminated. Hopefully that'll make it so the tourist is willing to work with us. I should report this to Caretaker back at Mercer Safehouse.</Source>
-      <Dest>Well, the hostiles were eliminated. Hopefully that'll make it so the tourist is willing to work with us. I should report this to Caretaker back at Mercer Safehouse.</Dest>
+      <Dest>No, nepřátelé byli zlikvidování. Doufejme, že to přinutí turistu s námi spolupracovat. Musím to nahlásit Správci zpět v úkrytu Mercer.</Dest>
     </String>
     <String List="1" sID="030B23">
       <EDID>RR102</EDID>
       <REC id="5">QUST:CNAM</REC>
       <Source>Now that we've recovered the prototype from the Switchboard, it's time to return it to Desdemona. She'll be at the meeting place underneath the Old North Church.</Source>
-      <Dest>Když už máme ten prototyp z Rozvaděče, je čas ho vrátit Desdemoně. Potkáme se s ní pod kostelem Old North.</Dest>
+      <Dest>Když už máme ten prototyp z Operačního ústředí, je čas ho vrátit Desdemoně. Bude na mě čekat pod kostelem Old North.</Dest>
     </String>
     <String List="1" sID="030B25">
       <EDID>RR101</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>The Freedom Trail leads to the Old North Church. Using the letters and numbers I found on the trail hopefully I can find the Railroad.</Source>
-      <Dest>Stezka svobody vede ke kostelu Old North. Doufám, že pokud použiju písmena a čísla, která cestou nacházím, tak najdu Železnici.</Dest>
+      <Dest>Stezka svobody vede ke kostelu Old North. Doufám, že pokud použiju písmena a čísla, která byla na cestě k nalezení, tak najdu Železnici.</Dest>
     </String>
     <String List="1" sID="030B27">
       <EDID>RR102</EDID>
@@ -5903,7 +5903,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR201</EDID>
       <REC id="10">QUST:CNAM</REC>
       <Source>Z1-14 will need time to build weapons and recruit more rebels. Until then I need to continue working with Father in order to maintain my cover. When the time is right, Z1-14 will contact me.</Source>
-      <Dest>Z1-14 potřebuje čas na výrobu zbrání a na získání dalších rebelů. Dokud nebude připraven, musím pokračovat v práci s Otcem, abych se neprozradila moje skutečná identita. Z1-14 se mi ozve, až bude čas.</Dest>
+      <Dest>Z1-14 potřebuje čas na výrobu zbrání a na získání dalších rebelů. Dokud nebude připraven, musím pokračovat v práci s Otcem, aby nedošlo k prozrazení mé skutečná identity. Z1-14 se mi ozve, až bude čas.</Dest>
     </String>
     <String List="1" sID="030B43">
       <EDID>RR101</EDID>
@@ -5939,19 +5939,19 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR201</EDID>
       <REC id="11">QUST:CNAM</REC>
       <Source>I've received a cryptic message from Z1-14. He wants to meet. Perhaps he's finally ready to launch the Synth rebellion.</Source>
-      <Dest>Dostal jsem tajemnou zprávu od Z1-14. Chce se setkat. Možná je konečně připravený zahájit povstání syntetiků.</Dest>
+      <Dest>Dostala se ke mně tajemná zpráva od Z1-14. Chce se setkat. Možná je konečně připravený zahájit povstání syntetiků.</Dest>
     </String>
     <String List="1" sID="030B74">
       <EDID>RRR06</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Randolph Safehouse is in trouble and needs me to clear out some hostiles for them. The life of a heavy is never dull.</Source>
-      <Dest>Randolphův úkryt je v potížích a potřeboval by ode mě zneškodnit pár nepřátel. Život obrněnce rozhodně není nezáživný.</Dest>
+      <Dest>Úkryt Randolph je v potížích a potřeboval by ode mě zneškodnit pár nepřátel. Život obrněnce rozhodně není nezáživný.</Dest>
     </String>
     <String List="1" sID="030B7B">
       <EDID>RRAct3Lost</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>With no access to the Institute, there's nothing more the Railroad can do to thwart the Institute. Desdemona says my best chance to stop the Institute lies with the Minutemen.</Source>
-      <Dest>Bez přístupu do Institutu nemůže Železnice podniknout nic, co by překazilo plány Institutu. Desdemona říká, že moje jediná šance, jak zastavit Institut, je najít minutemany.</Dest>
+      <Dest>Bez přístupu do Institutu nemůže Železnice podniknout nic, co by překazilo plány Institutu. Desdemona říká, že moje jediná šance, jak zastavit Institut, je najít Minutemany.</Dest>
     </String>
     <String List="1" sID="030B88">
       <EDID>RRR09</EDID>
@@ -5963,7 +5963,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRR06</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>Randolph Safehouse was disbanded and I got to meet Mister Tims in the flesh. Three Synths and a whole station of agents are grateful to me.</Source>
-      <Dest>Randolphův úkryt byl rozpuštěn a mám potkat pana Timse osobně. Tři syntetici a celá stanice agentů mi jsou vděčni.</Dest>
+      <Dest>Úkryt Randolph byl rozpuštěn a mám potkat pana Timse osobně. Tři syntetici a celá stanice agentů mi jsou vděčni.</Dest>
     </String>
     <String List="1" sID="030B93">
       <EDID>RRR01a</EDID>
@@ -5981,13 +5981,13 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRM02</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>H2-22 has been moved from the Memory Den and is already on his road to freedom. As a bonus, Doctor Amari's operation is secure once again.</Source>
-      <Dest>H2-22 už odešel z Hnízdečka vzpomínek a je na cestě za svobodou. Navíc je operace doktorky Amariové znovu bezpečná.</Dest>
+      <Dest>H2-22 byl přesunut z Hnízdečka vzpomínek a je na cestě za svobodou. Navíc je operace doktorky Amariové znovu bezpečná.</Dest>
     </String>
     <String List="1" sID="030BD4">
       <EDID>RRR06</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Randolph Safehouse has been dark since Switchboard fell. Drummer Boy says the safehouse has left a message at a dead drop. I've been tapped to intercept it.</Source>
-      <Dest>Randolphův úkryt nereaguje od doby, kdy padlo operační ústředí. Bubeník říká, že ovybavelé úkrytu zanechali zprávu v mrtvé schránce. Musím ji odposlechnout.</Dest>
+      <Dest>Úkryt Randolph nereaguje od doby, kdy padlo operační ústředí. Bubeník říká, že ovybavelé úkrytu zanechali zprávu v mrtvé schránce. Musím ji odposlechnout.</Dest>
     </String>
     <String List="1" sID="030BEA">
       <EDID>RRR08</EDID>
@@ -6071,7 +6071,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRR01b</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Doctor Carrington wasn't surprised that Blackbird was killed. Rest in peace, Augusta Safehouse.</Source>
-      <Dest>Doktor Carrington nebyl smrtí Kosa překvapen. Odpočívej v pokoji, úkryte Augusto.</Dest>
+      <Dest>Doktor Carrington nebyl smrtí Kosa překvapen. Odpočívej v pokoji, Augusto.</Dest>
     </String>
     <String List="1" sID="030C35">
       <EDID>RRR01b</EDID>
@@ -6107,7 +6107,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR101</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>If I want to fight the Institute, I've been told I should find the Railroad. The only clue I have is: "Follow the Freedom Trail." The tourist trail starts at Boston Common.</Source>
-      <Dest>Doneslo se mi, že pokud chci bojovat s Institutem, mám najít Železnici. Jediná stopa, kterou mám, je: „Sleduj Stezku svobody.“ Turistická stezka začíná v Bostonském parku.</Dest>
+      <Dest>Bylo mi řečeno, že pokud chci bojovat s Institutem, mám najít Železnici. Jediná stopa, kterou mám, je: „Sleduj Stezku svobody.“ Turistická stezka začíná v Bostonském parku.</Dest>
     </String>
     <String List="1" sID="030C6E">
       <EDID>RR302</EDID>
@@ -6137,7 +6137,7 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRAct3Lost</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>If I'm to defeat the Institute it will be with Preston Garvey and the Minutemen. </Source>
-      <Dest>Pokud mám porazit Institut, tak jedině s Prestonem Garveym a minutemany po boku.</Dest>
+      <Dest>Pokud mám porazit Institut, tak jedině s Prestonem Garveym a Minutemany po boku.</Dest>
     </String>
     <String List="1" sID="030C8F">
       <EDID>RRR07</EDID>
@@ -6203,13 +6203,13 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RRM01</EDID>
       <REC id="7">QUST:CNAM</REC>
       <Source>Scant thanks from Doctor Carrington for helping H2-22 get to Ticonderoga Safehouse. He's already lined up the next fire I need to put out.</Source>
-      <Dest>Stručné díky od doktora Carringtona za pomoc s dopravením H2-22 do Ticonderogy. Už má připravený další problém, který budu muset uhasit.</Dest>
+      <Dest>Stručné díky od doktora Carringtona za pomoc s dopravením H2-22 do Ticonderogy. Už má připravený další doutnající problém, který budu muset uhasit.</Dest>
     </String>
     <String List="1" sID="030CF9">
       <EDID>RR201</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>A man named Wilfred Berman worked at Cambridge Polymer Labs. PAM says he would've had the login credentials we need to rescue Patriot's 13 Synths. Now it's just a matter of finding them.</Source>
-      <Dest>Wilfred Berman byl jedním z pracovníků Cambridgeských polymerních laboratoří. PAM říká, že on určitě míval přístupové údaje, které potřebujeme k záchraně Patriotových 13 syntetiků. Teď už jenom zbývá je najít.</Dest>
+      <Dest>Wilfred Berman byl jedním z pracovníků Cambridgeských polymerních laboratoří. PAM říká, že on určitě míval přístupové údaje, které potřebujeme k záchraně Patriotových 13 syntetiků. Teď už je jenom zbývá najít.</Dest>
     </String>
     <String List="1" sID="030CFB">
       <EDID>RR301</EDID>
@@ -6239,19 +6239,19 @@ Kdy se sakra vrátíš? Nemůžu uvěřit, že jsi mě tu nechal s tou pitomou v
       <EDID>RR102</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>The Railroad's old base is crawling with older model Synths. Deacon suggests we use the back entrance to get inside and complete this mysterious errand we're on.</Source>
-      <Dest>Stará základna železnice je prolezlá staršími modely syntetiků. Deacon navrhl, abychom pro vstup použili zadní vchod a splnili ten náš tajemný úkol.</Dest>
+      <Dest>Stará základna Železnice je prolezlá staršími modely syntetiků. Deacon navrhl, abychom pro vstup použili zadní vchod a splnili ten náš tajemný úkol.</Dest>
     </String>
     <String List="1" sID="030D30">
       <EDID>RR101</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>At the start of the Freedom Trail I found a clue: "At journey's end follow freedom's lantern." The trail also has markers with letters and numbers. So, if I follow the trail and solve the cipher, maybe I'll find the Railroad.</Source>
-      <Dest>Na začátku Stezky svobody byla stopa: „Na konci cesty následuj lampu svobody.“ Na stezce jsou také značky s písmeny a čísly. Pokud tedy budu pokračovat po stezce a rozluštím šifru, možná najdu Železnici.</Dest>
+      <Dest>Na začátku Stezky svobody byla stopa: „Na konci cesty následuj lucernu svobody.“ Na stezce jsou také značky s písmeny a čísly. Pokud tedy budu pokračovat po stezce a rozluštím šifru, možná najdu Železnici.</Dest>
     </String>
     <String List="1" sID="030D3E">
       <EDID>RRR04</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Mercer Safehouse is fortified and clear of hostiles. Time to let PAM know the good news.</Source>
-      <Dest>Mercerův úkryt je opevněný a vyčištěný od nepřátel. Na časa oznámit dobré zprávy PAM.</Dest>
+      <Dest>Úkryt Mercer je opevněný a vyčištěný od nepřátel. Na časa oznámit dobré zprávy PAM.</Dest>
     </String>
     <String List="1" sID="030D46">
       <EDID>RRR09</EDID>
@@ -6367,7 +6367,7 @@ každý den od 8 do 17&lt;/p&gt;&lt;/font&gt;&#xD;
       <EDID>RR303</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>The Prydwen is no more. The Brotherhood of Steel's presence in the Commonwealth is effectively over. Now I just need to report back to Desdemona.</Source>
-      <Dest>Prydwen už není. Bratrstvo oceli tím pádem z Commonwealthu zmizelo. Teď o tom akorát informovat Desdemonu.</Dest>
+      <Dest>Prydwen už není. Přítomnost Bratrstva oceli v Commonwealthu je tím pádem u konce. Teď o tom akorát informovat Desdemonu.</Dest>
     </String>
     <String List="1" sID="03106C">
       <EDID>RR303</EDID>
@@ -6379,7 +6379,7 @@ každý den od 8 do 17&lt;/p&gt;&lt;/font&gt;&#xD;
       <EDID>RR303</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>The explosives are placed, now I just need to make it back to the stolen vertibird so Tinker Tom can get us to a safe distance. Then we trigger the explosives and watch the Prydwen go up like a candle.</Source>
-      <Dest>Výbušniny jsou na místě, takže se akorát musím vrátit zpátky na ukradený vertibird, aby s ním Dráteník Tom mohl odletět do bezpečné vzdálenosti. Potom odpálíme nálože a budeme se dívat, jak Prydwen vyletí do povětří.</Dest>
+      <Dest>Výbušniny jsou na místě, takže se jen musím vrátit zpátky na ukradený vertibird, aby s ním Dráteník Tom mohl odletět do bezpečné vzdálenosti. Potom odpálíme nálože a budeme se dívat, jak Prydwen shoří jako svíčka.</Dest>
     </String>
     <String List="1" sID="0315AD">
       <EDID>RoboticsExpertTargetConscious</EDID>
@@ -6409,7 +6409,7 @@ každý den od 8 do 17&lt;/p&gt;&lt;/font&gt;&#xD;
       <EDID>Rooted01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You're part tree! While standing still, you gain +25 Damage Resistance and your melee and unarmed attacks deal 25% more damage.</Source>
-      <Dest>Jsi napůl strom! Když stojíš na místě, tak získáš +25 k odolnosti vůči poškození a tvoje útoky při boji zblízka a beze zbraně způsobují o 25 % větší poškození.</Dest>
+      <Dest>Jsi napůl strom! Když stojíš na místě, tak získáš +25 k odolnosti vůči zranění a tvoje útoky v boji zblízka a beze zbraně působí o 25 % větší poškození.</Dest>
     </String>
     <String List="1" sID="0319CF">
       <EDID>Ricochet01</EDID>
@@ -6421,7 +6421,7 @@ každý den od 8 do 17&lt;/p&gt;&lt;/font&gt;&#xD;
       <EDID>Rooted02</EDID>
       <REC>PERK:DESC</REC>
       <Source>While standing still, you now gain +50 Damage Resistance and your melee and unarmed attacks deal 50% more damage.</Source>
-      <Dest>Když stojíš na místě, tak teď získáváš +50 k odolnosti vůči poškození a tvůj útok při boji na blízko a beze zbraně působí o 50 % větší poškození.</Dest>
+      <Dest>Když stojíš na místě, tak teď získáváš +50 k odolnosti vůči zranění a tvůj útok v boji zblízka a beze zbraně působí o 50 % větší poškození.</Dest>
     </String>
     <String List="1" sID="032D7B">
       <EDID>RoboticsExpertTargetCanSelfDestruct</EDID>
