@@ -28,6 +28,7 @@ function readBatchEdids(batch) {
     if (dialog) {
         rows = rows.reduce((edids, row) => {
             row.substring(row.indexOf('[INFO]') + 7).split(' ').forEach((edid) => edids.push(edid));
+            return edids;
         }, []);
     }
     return rows;
