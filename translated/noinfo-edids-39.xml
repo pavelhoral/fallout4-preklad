@@ -1,0 +1,3316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000001">
+      <EDID>HC_SleepInterruptedMsg_SleepingBag</EDID>
+      <REC>MESG:NNAM</REC>
+      <Source>Interrupted</Source>
+      <Dest>Přerušení</Dest>
+    </String>
+    <String List="0" sID="000002">
+      <EDID>HC_Antiboitics_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Cures Illness</Source>
+      <Dest>Léčí nemoci</Dest>
+    </String>
+    <String List="0" sID="000004">
+      <EDID>HC_SleepInterruptedMsg_Insomnia</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Sleep Interrupted</Source>
+      <Dest>Spánek přerušen</Dest>
+    </String>
+    <String List="0" sID="000005">
+      <EDID>workshopRecipe_SuperMutantMeatbags</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Meat Bag</Source>
+      <Dest>Pytel s ostatky</Dest>
+    </String>
+    <String List="0" sID="000006">
+      <EDID>HC_ReduceActionPointRateMultEffect_SleepEffectOnly</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Action Point Rate Mult</Source>
+      <Dest>Snižuje rychlost obnovy AB</Dest>
+    </String>
+    <String List="0" sID="000009">
+      <EDID>HC_DisableRunningEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Can't run</Source>
+      <Dest>Nelze běhat</Dest>
+    </String>
+    <String List="0" sID="00000A">
+      <EDID>HC_HelpSurvival</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Survival Difficulty</Source>
+      <Dest>Obtížnost Přežití</Dest>
+    </String>
+    <String List="0" sID="00000C">
+      <EDID>HC_DiseaseEffect_Weakness</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Weakness</Source>
+      <Dest>Slabost</Dest>
+    </String>
+    <String List="0" sID="00000E">
+      <EDID>HC_Disease_Insomnia_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Require more sleep</Source>
+      <Dest>Vyžaduje více spánku</Dest>
+    </String>
+    <String List="0" sID="000012">
+      <EDID>HC_SleepEffect_Exhausted</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Exhausted</Source>
+      <Dest>Vyčerpání</Dest>
+    </String>
+    <String List="0" sID="000016">
+      <EDID>HC_Adrenaline</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>ADR</Source>
+      <Dest>ADR</Dest>
+    </String>
+    <String List="0" sID="000018">
+      <EDID>HC_HelpSurvival</EDID>
+      <REC>MESG:NNAM</REC>
+      <Source>Survival</Source>
+      <Dest>Přežití</Dest>
+    </String>
+    <String List="0" sID="000019">
+      <EDID>HC_Antiboitics_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Cures sickness</Source>
+      <Dest>Léčí nemoci</Dest>
+    </String>
+    <String List="0" sID="00001B">
+      <EDID>HC_SleepEffect_Incapacitated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Incapacitated</Source>
+      <Dest>Neschopnost</Dest>
+    </String>
+    <String List="0" sID="00001C">
+      <EDID>HC_ThirstEffect_Hydrated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Hydrated</Source>
+      <Dest>Hydratace</Dest>
+    </String>
+    <String List="0" sID="00001E">
+      <EDID>HC_LoversEmbracePerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Lover's Embrace</Source>
+      <Dest>Milenecké objetí</Dest>
+    </String>
+    <String List="0" sID="00001F">
+      <EDID>workshop_MeatTotem02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Totem</Source>
+      <Dest>Totem</Dest>
+    </String>
+    <String List="0" sID="000020">
+      <EDID>HC_HungerEffect_Ravenous</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Ravenous</Source>
+      <Dest>Trpění hlady</Dest>
+    </String>
+    <String List="0" sID="000021">
+      <EDID>HC_DiseaseEffect_Lethargy</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Lethargy</Source>
+      <Dest>Letargie</Dest>
+    </String>
+    <String List="0" sID="000022">
+      <EDID>workshop_SteamTMetalDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000023">
+      <EDID>workshop_PictureAbstractRect01Framed02I</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000024">
+      <EDID>workshop_PictureAbstractRect01Framed02C</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000025">
+      <EDID>HC_HungerEffect_Hungry</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Hungry</Source>
+      <Dest>Hlad</Dest>
+    </String>
+    <String List="0" sID="000026">
+      <EDID>HC_DiseaseEffect_NeedMoreFood</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Parasites</Source>
+      <Dest>Paraziti</Dest>
+    </String>
+    <String List="0" sID="000027">
+      <EDID>workshop_SignClutterK01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000029">
+      <EDID>HC_Disease_NeedMoreFood_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Trouble sleeping.</Source>
+      <Dest>Problémy se spaním.</Dest>
+    </String>
+    <String List="0" sID="00002B">
+      <EDID>HC_ThirstEffect_Dehydrated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Dehydrated</Source>
+      <Dest>Dehydratace</Dest>
+    </String>
+    <String List="0" sID="00002D">
+      <EDID>HC_WellRestedPerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Well Rested</Source>
+      <Dest>Svěží</Dest>
+    </String>
+    <String List="0" sID="00002E">
+      <EDID>HC_ThirstEffect_Parched</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Parched</Source>
+      <Dest>Malá žízeň</Dest>
+    </String>
+    <String List="0" sID="000030">
+      <EDID>HC_DisableRunningEffect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Can't Sprint</Source>
+      <Dest>Nelze běhat</Dest>
+    </String>
+    <String List="0" sID="000032">
+      <EDID>HC_Disease_Fatigue_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Require frequent sleep</Source>
+      <Dest>Vyžaduje častý spánek</Dest>
+    </String>
+    <String List="0" sID="000033">
+      <EDID>workshop_SignClutterK08</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000037">
+      <EDID>HC_SleepInterruptedMsg_SleepingBag</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Sleep Interrupted</Source>
+      <Dest>Spánek přerušen</Dest>
+    </String>
+    <String List="0" sID="00003A">
+      <EDID>HC_SleepInterruptedMsg_Mattress</EDID>
+      <REC>MESG:NNAM</REC>
+      <Source>Interrupted</Source>
+      <Dest>Přerušení</Dest>
+    </String>
+    <String List="0" sID="00003B">
+      <EDID>HC_SleepInterruptedMsg_Mattress</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Sleep Interrupted</Source>
+      <Dest>Spánek přerušen</Dest>
+    </String>
+    <String List="0" sID="00003D">
+      <EDID>HC_ReduceLimbConditionHealRateMultEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>HC_ReduceLimbConditionHealRateMultEffect</Source>
+      <Dest>HC_ReduceLimbConditionHealRateMultEffect</Dest>
+    </String>
+    <String List="0" sID="000041">
+      <EDID>workshop_BldWoodPDoorBroke01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000043">
+      <EDID>workshop_PictureAbstractRect01Framed02L</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000048">
+      <EDID>HC_DamageMultPerkEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>HC_DamageMultPerkEffect</Source>
+      <Dest>HC_DamageMultPerkEffect</Dest>
+    </String>
+    <String List="0" sID="000049">
+      <EDID>workshop_PictureAbstractRect01Framed02E</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00004D">
+      <EDID>HC_ReduceActionPointRateMultEffect_SleepEffectOnly</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>%AP Refresh</Source>
+      <Dest>%AB obnova</Dest>
+    </String>
+    <String List="0" sID="000050">
+      <EDID>HC_DisableSprintingEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Can't sprint</Source>
+      <Dest>Nelze běhat</Dest>
+    </String>
+    <String List="0" sID="000052">
+      <EDID>workshop_PictureFramePortrait03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000053">
+      <EDID>HC_StarvingEffect_DamagePlayerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Periodic damage</Source>
+      <Dest>Periodické poškození</Dest>
+    </String>
+    <String List="0" sID="000054">
+      <EDID>HC_DiseaseEffect_Insomnia</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Insomnia</Source>
+      <Dest>Nespavost</Dest>
+    </String>
+    <String List="0" sID="000056">
+      <EDID>workshop_PictureAbstractRect01Framed01I</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000057">
+      <EDID>HC_ThirstEffect_SeverelyDehydrated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Severely Dehydrated</Source>
+      <Dest>Vážná dehydratace</Dest>
+    </String>
+    <String List="0" sID="000059">
+      <EDID>HC_DamageLimb_LeftMobilityCondition</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Damage Left Leg</Source>
+      <Dest>Zranění levé nohy</Dest>
+    </String>
+    <String List="0" sID="00005A">
+      <EDID>workshopRecipe_RaiderCageLarge</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="00005C">
+      <EDID>HC_Disease_Weakness_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Take +20% DMG</Source>
+      <Dest>Působí +20 % k POŠ</Dest>
+    </String>
+    <String List="0" sID="00005D">
+      <EDID>workshop_PictureFramePortrait04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00005E">
+      <EDID>HC_Disease_Insomnia_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Trouble sleeping.</Source>
+      <Dest>Problémy se spaním.</Dest>
+    </String>
+    <String List="0" sID="000061">
+      <EDID>workshop_UtilMetalDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000064">
+      <EDID>HC_SleepEffect_Rested</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Rested</Source>
+      <Dest>Odpočatost</Dest>
+    </String>
+    <String List="0" sID="000065">
+      <EDID>HC_DiseaseEffect_Fatigue</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Fatigue</Source>
+      <Dest>Únava</Dest>
+    </String>
+    <String List="0" sID="000066">
+      <EDID>workshop_SignClutterK02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000069">
+      <EDID>HC_HungerEffect_Peckish</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Peckish</Source>
+      <Dest>Malý hlad</Dest>
+    </String>
+    <String List="0" sID="00006A">
+      <EDID>HC_DiseaseEffect_Infection</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Infection</Source>
+      <Dest>Infekce</Dest>
+    </String>
+    <String List="0" sID="00006B">
+      <EDID>workshop_SignClutterM01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="00006C">
+      <EDID>workshop_BldWoodPDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="00006E">
+      <EDID>HC_EncumbranceEffect_OverEncumbered</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Over Encumbered</Source>
+      <Dest>Přetíženost</Dest>
+    </String>
+    <String List="0" sID="00006F">
+      <EDID>HC_AdrenalinePerk</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Adrenaline</Source>
+      <Dest>Adrenalin</Dest>
+    </String>
+    <String List="0" sID="000070">
+      <EDID>workshop_PictureAbstractRect01Framed01K</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000071">
+      <EDID>HC_HungerEffect_Famished</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Famished</Source>
+      <Dest>Velký hlad</Dest>
+    </String>
+    <String List="0" sID="000072">
+      <EDID>HC_EncumbranceEffect_DamagePlayerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Periodic damage</Source>
+      <Dest>Periodické poškození</Dest>
+    </String>
+    <String List="0" sID="000073">
+      <EDID>HC_DrinkWaterEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>HC_DrinkWaterEffect</Source>
+      <Dest>HC_DrinkWaterEffect</Dest>
+    </String>
+    <String List="0" sID="000074">
+      <EDID>workshop_PictureAbstractRect01Framed02F</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000077">
+      <EDID>HC_SleepEffect_Weary</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Weary</Source>
+      <Dest>Malátnost</Dest>
+    </String>
+    <String List="0" sID="000078">
+      <EDID>HC_SleepEffect_Tired</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Tired</Source>
+      <Dest>Únava</Dest>
+    </String>
+    <String List="0" sID="00007A">
+      <EDID>HC_SustenanceEffectsTurnOffFood</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>HC_SustenanceEffectsTurnOffFood</Source>
+      <Dest>HC_SustenanceEffectsTurnOffFood</Dest>
+    </String>
+    <String List="0" sID="00007B">
+      <EDID>HC_Manager</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Heal your Companion</Source>
+      <Dest>Uzdrav svého společníka</Dest>
+    </String>
+    <String List="0" sID="00007C">
+      <EDID>HC_ReduceActionPointRateMultEffect_DiseaseEffectOnly</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Reduce Action Point Rate Mult</Source>
+      <Dest>Snižuje rychlost obnovy AB</Dest>
+    </String>
+    <String List="0" sID="00007D">
+      <EDID>HC_ReduceActionPointRateMultEffect_DiseaseEffectOnly</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>%AP Refresh</Source>
+      <Dest>%AB obnova</Dest>
+    </String>
+    <String List="0" sID="00007F">
+      <EDID>HC_SeverlyDehydratedEffect_DamagePlayerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Periodic damage</Source>
+      <Dest>Periodické poškození</Dest>
+    </String>
+    <String List="0" sID="000081">
+      <EDID>HC_CannibalRavenousHunger_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Food no longer satisfies</Source>
+      <Dest>Jídlo již nepostačuje</Dest>
+    </String>
+    <String List="0" sID="000083">
+      <EDID>workshop_MeatTotem03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Totem</Source>
+      <Dest>Totem</Dest>
+    </String>
+    <String List="0" sID="000085">
+      <EDID>HC_Cannibal_RavenousHunger</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Dark Craving</Source>
+      <Dest>Temné chutě</Dest>
+    </String>
+    <String List="0" sID="000086">
+      <EDID>workshop_SignClutterK05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000088">
+      <EDID>workshop_PictureAbstractRect01Framed01H</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00008D">
+      <EDID>workshop_PictureAbstractRect01Framed01D</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000091">
+      <EDID>workshop_SignClutterM02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000092">
+      <EDID>workshop_MeatTotem01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Totem</Source>
+      <Dest>Totem</Dest>
+    </String>
+    <String List="0" sID="000093">
+      <EDID>workshop_BldWoodPDoor02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="0000A0">
+      <EDID>workshop_SignClutterK04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="0000A6">
+      <EDID>workshop_SignDrugs01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="0000A9">
+      <EDID>workshop_PictureFramePortrait01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0000C2">
+      <EDID>workshopRecipe_SignsMetal02</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Signs</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="0000C7">
+      <EDID>workshopRecipe_PictureFrames02</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0000CB">
+      <EDID>workshopRecipe_SuperMutantTotem</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Totem</Source>
+      <Dest>Totem</Dest>
+    </String>
+    <String List="0" sID="0000CD">
+      <EDID>workshopRecipe_RaiderCageSmall</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="0000CE">
+      <EDID>workshop_SignClutterK03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="0000CF">
+      <EDID>workshopRecipe_RaiderPoles</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Spiked Pole</Source>
+      <Dest>Špičatý stožár</Dest>
+    </String>
+    <String List="0" sID="0000D2">
+      <EDID>workshop_PictureAbstractRect01Framed02H</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0000DB">
+      <EDID>workshopRecipe_RaiderCageMedium</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="0000DF">
+      <EDID>workshop_PictureAbstractRect01Framed01G</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0000E1">
+      <EDID>workshop_SignBiohazard02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Biohazard Sign</Source>
+      <Dest>Biohazard - cedule</Dest>
+    </String>
+    <String List="0" sID="0000FA">
+      <EDID>workshop_PictureAbstractRect01Framed01F</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000101">
+      <EDID>workshop_PictureAbstractRect01Framed02K</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000105">
+      <EDID>workshop_MetalMeshDoorSm01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000109">
+      <EDID>workshop_PictureAbstractRect01Framed01E</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00010A">
+      <EDID>workshopRecipe_RaiderPolesNoSkulls</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Spiked Pole</Source>
+      <Dest>Špičatý stožár</Dest>
+    </String>
+    <String List="0" sID="000114">
+      <EDID>workshop_PictureAbstractRect01Framed01J</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00011F">
+      <EDID>workshop_PictureAbstractRect01Framed02B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000125">
+      <EDID>workshop_SignClutterL02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000128">
+      <EDID>workshop_SignPoliceGeneric03</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000129">
+      <EDID>workshop_PictureAbstractRect01Framed02A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000134">
+      <EDID>workshop_NoTrespassing</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="00014C">
+      <EDID>workshop_SignClutterK07</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="00014D">
+      <EDID>workshop_PictureAbstractRect01Framed01A</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00014E">
+      <EDID>workshop_PictureAbstractRect01Framed01C</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="000150">
+      <EDID>workshop_IndMetalDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000156">
+      <EDID>workshop_BldWoodPDoorBroke02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="000157">
+      <EDID>workshop_SignBiohazard01</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Biohazard Sign</Source>
+      <Dest>Biohazard - cedule</Dest>
+    </String>
+    <String List="0" sID="000159">
+      <EDID>workshop_SignGenLiqours02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="00015C">
+      <EDID>workshop_SignClutterK06</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Sign</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="000168">
+      <EDID>workshop_PictureAbstractRect01Framed02G</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00016A">
+      <EDID>workshop_PictureFramePortrait02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="00016C">
+      <EDID>workshop_MeatTotem04</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Totem</Source>
+      <Dest>Totem</Dest>
+    </String>
+    <String List="0" sID="000195">
+      <EDID>workshop_PictureFramePortrait06</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0001A7">
+      <EDID>workshop_PictureAbstractRect01Framed01B</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0001AF">
+      <EDID>workshop_PictureAbstractRect01Framed02J</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0001B6">
+      <EDID>workshop_PictureFramePortrait07</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0001B8">
+      <EDID>workshop_PictureFramePortrait05</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="0001BC">
+      <EDID>workshop_PictureAbstractRect01Framed02D</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Painting</Source>
+      <Dest>Obraz</Dest>
+    </String>
+    <String List="0" sID="012D16">
+      <EDID>vltoutsideentranceexterior01valve</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Valve</Source>
+      <Dest>Ventil</Dest>
+    </String>
+    <String List="0" sID="036517">
+      <EDID>AbWorkshopProvisionerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Workshop Provisioner Actor Value</Source>
+      <Dest>Workshop Provisioner Actor Value</Dest>
+    </String>
+    <String List="0" sID="03651A">
+      <EDID>WorkshopRecipeFilterCages</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Cages</Source>
+      <Dest>Klece</Dest>
+    </String>
+    <String List="0" sID="03651D">
+      <EDID>WorkshopRecipeFilterResource02Power03NeonLights</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Neon</Source>
+      <Dest>Neony</Dest>
+    </String>
+    <String List="0" sID="036525">
+      <EDID>AbWorkshopProvisioner</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Add provisioner resource value</Source>
+      <Dest>Add provisioner resource value</Dest>
+    </String>
+    <String List="0" sID="036527">
+      <EDID>WorkshopMenu01Cages</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Cages</Source>
+      <Dest>Klece</Dest>
+    </String>
+    <String List="0" sID="03652D">
+      <EDID>WorkshopMenu01Power02NeonLights</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Neon</Source>
+      <Dest>Neon</Dest>
+    </String>
+    <String List="0" sID="03652E">
+      <EDID>V81_01Ashes</EDID>
+      <REC>PERK:EPF2</REC>
+      <Source>SEND HOME</Source>
+      <Dest>POSLAT DOMŮ</Dest>
+    </String>
+    <String List="0" sID="036534">
+      <EDID>ap_Bot_BotLegs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Legs</Source>
+      <Dest>Nohy</Dest>
+    </String>
+    <String List="0" sID="036535">
+      <EDID>JumpHeightMult</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Jump Multiplier</Source>
+      <Dest>Násobitel výskoku</Dest>
+    </String>
+    <String List="0" sID="036536">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Lettering</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Lettering</Source>
+      <Dest>Písmena</Dest>
+    </String>
+    <String List="0" sID="036537">
+      <EDID>COMCodsworthRumor</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>default player rumor line</Source>
+      <Dest>default player rumor line</Dest>
+    </String>
+    <String List="0" sID="036538">
+      <EDID>ap_Bot_BotCore</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="036539">
+      <EDID>Vault_Crate_01_Red</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03653A">
+      <EDID>Vault_Crate_03_Blue</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03653B">
+      <EDID>SuperMutant_Cart</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Cart</Source>
+      <Dest>Vozík</Dest>
+    </String>
+    <String List="0" sID="03653C">
+      <EDID>Vault_Crate_02_Blue</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03653D">
+      <EDID>Vault_Crate_03_Red</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03653E">
+      <EDID>Vault_Crate_04_Beige</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03653F">
+      <EDID>Vault_Crate_02_Red</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036540">
+      <EDID>Vault_Crate_03_White</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036541">
+      <EDID>Vault_Crate_02_White</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036542">
+      <EDID>Vault_Crate_04_White</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036543">
+      <EDID>Vault_Crate_03_Beige</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036544">
+      <EDID>workshop_RaiderCampCage02</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="036545">
+      <EDID>Vault_Crate_01_Blue</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036547">
+      <EDID>Vault_Crate_04_Red</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036548">
+      <EDID>Vault_Crate_01_White</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="036549">
+      <EDID>Vault_Crate_02_Beige</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
+    </String>
+    <String List="0" sID="03654E">
+      <EDID>HC_ThirstEffect_Thirsty</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Thirsty</Source>
+      <Dest>Žízeň</Dest>
+    </String>
+    <String List="0" sID="036550">
+      <EDID>HC_Adrenaline</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Adrenaline</Source>
+      <Dest>Adrenalin</Dest>
+    </String>
+    <String List="0" sID="036552">
+      <EDID>HC_Disease_Infection_DamagePlayerEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Periodic damage</Source>
+      <Dest>Periodické poškození</Dest>
+    </String>
+    <String List="0" sID="036553">
+      <EDID>HC_DamageLimb_RightMobilityCondition</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Damage Right Leg</Source>
+      <Dest>Zranění pravé nohy</Dest>
+    </String>
+    <String List="0" sID="036554">
+      <EDID>HC_SleepInterruptedMsg_Insomnia</EDID>
+      <REC>MESG:NNAM</REC>
+      <Source>Interrupted</Source>
+      <Dest>Přerušení</Dest>
+    </String>
+    <String List="0" sID="03655A">
+      <EDID>HC_Antibiotics</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Antibiotics</Source>
+      <Dest>Antibiotika</Dest>
+    </String>
+    <String List="0" sID="03655B">
+      <EDID>HC_ThirstEffect_MildlyDehydrated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mildly Dehydrated</Source>
+      <Dest>Mírná dehydratace</Dest>
+    </String>
+    <String List="0" sID="03655C">
+      <EDID>HC_Disease_NeedMoreFood_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Require more food</Source>
+      <Dest>Vyžaduje více jídla</Dest>
+    </String>
+    <String List="0" sID="03655F">
+      <EDID>HC_HungerEffect_Starving</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Starving</Source>
+      <Dest>Umírání hlady</Dest>
+    </String>
+    <String List="0" sID="036560">
+      <EDID>HC_SleepEffect_Overtired</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Overtired</Source>
+      <Dest>Přetaženost</Dest>
+    </String>
+    <String List="0" sID="0366AD">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="0366AE">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="0366AF">
+      <EDID>HC_Antibiotics_SILENT_SCRIPT_ONLY</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Antibiotics</Source>
+      <Dest>Antibiotika</Dest>
+    </String>
+    <String List="0" sID="0366B0">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="0366B1">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="0366B2">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="0366B3">
+      <EDID>HC_Manager</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Repair your Companion</Source>
+      <Dest>Oprav svého společníka</Dest>
+    </String>
+    <String List="0" sID="0366B5">
+      <EDID>WorkshopRecipeFilterBuilding02Concrete03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="0366B7">
+      <EDID>HC_ImmunodeficiencyDescription</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Adds Fatigue Suppresses Immunity</Source>
+      <Dest>Působí únavu a potlačuje imunitu</Dest>
+    </String>
+    <String List="0" sID="0366BB">
+      <EDID>HC_Caffeinated</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Feel less tired and delay the need to sleep.</Source>
+      <Dest>Buď méně ospalý a oddal potřebu spánku.</Dest>
+    </String>
+    <String List="0" sID="0366BD">
+      <EDID>HC_Effect_Caffeinated</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Caffeinated</Source>
+      <Dest>Kofein</Dest>
+    </String>
+    <String List="0" sID="0366BE">
+      <EDID>HC_Immunodeficiency</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Increased chance of getting sick</Source>
+      <Dest>Zvýšená šance onemocnění</Dest>
+    </String>
+    <String List="0" sID="0366C0">
+      <EDID>HC_Effect_Immunodeficiency</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Suppressed Immunity</Source>
+      <Dest>Potlačená imunita</Dest>
+    </String>
+    <String List="0" sID="0366C8">
+      <EDID>LegendaryExplosionRads</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Radiation Damage</Source>
+      <Dest>Poškození radiací</Dest>
+    </String>
+    <String List="0" sID="0366C9">
+      <EDID>HC_SippableWater</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Purified Water</Source>
+      <Dest>Vyčištěná voda</Dest>
+    </String>
+    <String List="0" sID="0366CB">
+      <EDID>HC_FillWaterBottlePerk</EDID>
+      <REC>PERK:EPF2</REC>
+      <Source>Fill bottle</Source>
+      <Dest>Naplň lahev</Dest>
+    </String>
+    <String List="0" sID="0366CC">
+      <EDID>HC_AdrenalineDescriptionEffect_15</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +15%</Source>
+      <Dest>POŠ +15%</Dest>
+    </String>
+    <String List="0" sID="0366CD">
+      <EDID>Raider_Clutter05</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="0366CE">
+      <EDID>HC_AdrenalineDescriptionEffect_05</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +5%</Source>
+      <Dest>POŠ +5%</Dest>
+    </String>
+    <String List="0" sID="0366CF">
+      <EDID>HC_AdrenalineDescriptionEffect_35</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +35%</Source>
+      <Dest>POŠ +35%</Dest>
+    </String>
+    <String List="0" sID="0366D0">
+      <EDID>HC_AdrenalineDescriptionEffect_45</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +45%</Source>
+      <Dest>POŠ +45%</Dest>
+    </String>
+    <String List="0" sID="0366D4">
+      <EDID>HC_AdrenalineDescriptionEffect_30</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +30%</Source>
+      <Dest>POŠ +30%</Dest>
+    </String>
+    <String List="0" sID="0366D5">
+      <EDID>HC_AdrenalineDescriptionEffect_40</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +40%</Source>
+      <Dest>POŠ +40%</Dest>
+    </String>
+    <String List="0" sID="0366D6">
+      <EDID>HC_AdrenalineDescriptionEffect_20</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +20%</Source>
+      <Dest>POŠ +20%</Dest>
+    </String>
+    <String List="0" sID="0366D7">
+      <EDID>HC_AdrenalineDescriptionEffect_10</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +10%</Source>
+      <Dest>POŠ +10%</Dest>
+    </String>
+    <String List="0" sID="0366D8">
+      <EDID>Raider_Clutter01</EDID>
+      <REC>SCOL:FULL</REC>
+      <Source>Cage</Source>
+      <Dest>Klec</Dest>
+    </String>
+    <String List="0" sID="0366D9">
+      <EDID>HC_AdrenalineDescriptionEffect_50</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +50%</Source>
+      <Dest>POŠ +50%</Dest>
+    </String>
+    <String List="0" sID="0366DA">
+      <EDID>HC_AdrenalineDescriptionEffect_25</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>DAM +25%</Source>
+      <Dest>POŠ +25%</Dest>
+    </String>
+    <String List="0" sID="0366DB">
+      <EDID>HC_SippableDirtyWater</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Dirty Water</Source>
+      <Dest>Špinavá voda</Dest>
+    </String>
+    <String List="0" sID="0366DC">
+      <EDID>HC_AdrenalineEffect</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Adrenaline</Source>
+      <Dest>Adrenalin</Dest>
+    </String>
+    <String List="0" sID="0366DD">
+      <EDID>HC_DrinkDirtyWaterEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>HC_DrinkDirtyWaterEffect</Source>
+      <Dest>HC_DrinkDirtyWaterEffect</Dest>
+    </String>
+    <String List="0" sID="0366DF">
+      <EDID>HC_ReduceCarryWeight</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>HC_ReduceCarryWeight</Source>
+      <Dest>HC_ReduceCarryWeight</Dest>
+    </String>
+    <String List="0" sID="0366EA">
+      <EDID>HC_SurvivalCompanions</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, if your companion goes down during combat, you must heal them before they can get back up. If you leave the area without healing them, they will return home to recover.</Source>
+      <Dest>Při Přežití musíš v boji padlé společníky nejdříve vyléčit, než se mohou zpátky postavit na nohy. Pokud opustíš lokaci bez jejich vyléčení, vrátí na zotavení domů.</Dest>
+    </String>
+    <String List="0" sID="0366EB">
+      <EDID>HC_SurvivalWellnessB</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, going without food, water of rest will begin to adversely affect your health, hurting your SPECIAL stats, adding to your Fatigue, lowering your immunity, and eventually even dealing physical damage to you.</Source>
+      <Dest>Při Přežití absence jídla, vody nebo odpočinku nepříznivě ovlivňuje zdraví, zhoršuje SPECIAL vlastnosti, přidává únavu, snižuje imunitu a po jisté době dokonce i působí fyzické poškození.</Dest>
+    </String>
+    <String List="0" sID="0366EC">
+      <EDID>HC_Herbal_Anodyne_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Resist: Insomnia &amp; Weakness</Source>
+      <Dest>Odolnost proti nespavosti a slabosti</Dest>
+    </String>
+    <String List="0" sID="0366ED">
+      <EDID>HC_SurvivalCaffeinated</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, large doses of Caffeine, such as that found in Nuka-Cola Quantum, gives you a short reprieve from your tiredness, possibly buying you time to finish a fight or find a bed.</Source>
+      <Dest>Při Přežití ti vyšší hladina kafeinu, dostupného například v Nuka-Cole Quantum, poskytuje krátké odvobození od únavy, čímž můžeš získat čas na dokončení boje nebo nalezení postele.</Dest>
+    </String>
+    <String List="0" sID="0366EE">
+      <EDID>HC_Herbal_Antimicrobial_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Resist: Infection &amp; Parasites</Source>
+      <Dest>Odolnost proti infekci a parazitům</Dest>
+    </String>
+    <String List="0" sID="0366EF">
+      <EDID>HC_SurvivalSaving</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, manual, quicksaving &amp; most autosaves are disabled. To save your game, you'll need to find a bed and sleep for at least an hour.</Source>
+      <Dest>Při Přežití nejsou ruční, rychlé a většina automatických ukládání povolené. Pro uložení herní pozice smusíš najít postel a spát v ní alespoň jednu hodinu.</Dest>
+    </String>
+    <String List="0" sID="0366F0">
+      <EDID>HC_SurvivalAdrenaline</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Adrenaline provides a bonus to your damage output. The higher your Adrenaline, the higher the damage bonus. Sleeping for any amount of time will lower your Adrenaline, taking your damage bonus down with it.</Source>
+      <Dest>Při Přežití poskytuje adrenalin bonus k působenému poškozené. Čím vyšší hladina adrenalinu, tím vyšší je bonusové poškození. Jakkoliv krátký spánek pak hladinu adrenalinu snižuje a spolu s ním ním i získané bonusové poškození.</Dest>
+    </String>
+    <String List="0" sID="0366F1">
+      <EDID>HC_SurvivalWellness</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, you'll find it difficult to survive without taking proper care of yourself. Going for extended periods of time without food, water, or rest will begin to adversely affect your health. Stay hydrated, fed, and rested to remain combat-ready.</Source>
+      <Dest>Při Přežití není tak snadné přežít, pokud se o sebe patřičně nestaráš. Delší čas bez jídla, vody nebo odpočinku se negativně podepíše na tvém zdraví. Dodržuj pitný režim, pravidelnou stravu a častý odpočinek, ať máš vždy plno sil do boje.</Dest>
+    </String>
+    <String List="0" sID="0366F2">
+      <EDID>HC_SurvivalCarryWeight</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, both you and your companion's Carry Weight has been significantly reduced. Exceeding your carry weight reduces your Endurance and Agility stats, and periodically damages your legs and health. Think of your back!</Source>
+      <Dest>Při Přežití je nosnost tvá i tvého společníka významně omezena. Přílišné zatížení zhoršuje odolnost a hbitost a periodicky poškozuje tvé nohy a zdraví. Mysli na svá záda!</Dest>
+    </String>
+    <String List="0" sID="0366F3">
+      <EDID>HC_SurvivalFatigue</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Fatigue works like radiation, but affects your Action Points (AP) rather than your Hit Points (HP). Fatigue mostly comes from being tired, but both hunger and thirst also affect it. The more Fatigue you've built up, the less AP you'll have for actions like sprinting and VATS.</Source>
+      <Dest>Při Přežití funguje únava podobně jako radiace s tím rozdílem, že místo bodů zdraví (BZ) ovlivňuje akční body (AB). Únava obvykle pochází z absence spánku, ale vliv na ni má i hlad a žízeň. Čím je větší únava, tím je méně AB pro akce jako sprint nebo režim VATS.</Dest>
+    </String>
+    <String List="0" sID="0366F5">
+      <EDID>HC_SurvivalFood</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, a food's bonus effects, such as increased carry weight from Radstag steak, will only apply if eaten when you are not currently hungry. Make sure to take care of the basics before eating for bonuses.</Source>
+      <Dest>Při Přežití jsou bonusové účinky jídla, jako například zvýšená nosnost u steaku z mutajelena, aplikovány pouze tehdy, nejsou-li konzumovány při hladu. Vždy dbej na vyřešení svých základních potřeb, než začneš jíst kvůli bonusům.</Dest>
+    </String>
+    <String List="0" sID="0366F6">
+      <EDID>HC_SurvivalAntibiotics</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Antibiotics, which can be crafted at Chem Stations, purchased from doctors or found in medical containers, instantly heal the various effects of Illness.</Source>
+      <Dest>Při Přežití poskytují antibiotika okamžitou pomoc od různých účinků onemocnění. Antibiotika lze vvyrobit pomocí chemické laboratoře, koupit od doktorů nebo nalézt v rozličných lékařských kontejnerech.</Dest>
+    </String>
+    <String List="0" sID="0366F7">
+      <EDID>HC_SurvivalIllness</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, eating uncooked meat, drinking unpurified water, taking damage from disease-ridden foes and using harmful Chems all put your body at increased risk for various ill effects.  Be smart and keep Antibiotics handy.</Source>
+      <Dest>Při Přežití se po požití syrového masa, pití nevyčištěné vody, zásahu od nemocemi prolezlých nepřátel a užívání poškozujících chemikálií vystavuješ zvýšenému riziku nákazy.  Nezapomeň proto mít při ruce antibiotika.</Dest>
+    </String>
+    <String List="0" sID="0366F8">
+      <EDID>HC_SurvivalCrippled</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Crippled limbs will no longer auto-heal after combat. You will remain crippled until you are healed from a Stimpak or until you sleep it off.</Source>
+      <Dest>Při Přežití se zlomené končetiny po ukončení boje automaticky neléčí. Zmrzačení je trvalé do doby, než jej vyléčíš pomocí Stimpaku nebo se vyspíš.</Dest>
+    </String>
+    <String List="0" sID="0366F9">
+      <EDID>HC_SurvivalImmunodeficiency</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, items that cleanse your body of Rads come with the cost of making you tired and temporarily damaging your immunity, leaving you more vulnerable to Illness than usual.</Source>
+      <Dest>Při Přežití předměty pro léčbu ozáření působí negativně na únavu a dočasně i poškozují imunitu, čímž výrazně zvyšují náchylnost k onemocnění.</Dest>
+    </String>
+    <String List="0" sID="0366FA">
+      <EDID>HC_SurvivalCompass</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, enemies no longer appear on your compass. Keep your eyes peeled, and your weapon ready.</Source>
+      <Dest>Při Přežití se nepřátelé nezobrazují na tvém kompasu. Měj oči otevřené a zbraň připravenou.</Dest>
+    </String>
+    <String List="0" sID="0366FB">
+      <EDID>HC_SurvivalFastTravel</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Fast Travel is disabled. If you wish to be somewhere, you'll have to get there the old-fashioned way.</Source>
+      <Dest>Při Přežití je rychlé cestování zakázáno. Pokud chceš někde být, musíš se tam dostat pěkně po staru.</Dest>
+    </String>
+    <String List="0" sID="0366FC">
+      <EDID>HC_Herbal_Anodyne</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Herbal Anodyne</Source>
+      <Dest>Bylinky proti bolesti</Dest>
+    </String>
+    <String List="0" sID="0366FD">
+      <EDID>HC_SurvivalSustenanceItems</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, an items value is often a good way to determine how much hunger or thirst it might counter. Keep in mind, certain items may not give you the results you expect. For example, Chems and Alcohol dehydrate, Caffeine makes you hungry, etc.</Source>
+      <Dest>Při Přežití je hodnota předmětů obvykle dobrým ukazatelem toho, kolik hladu nebo žízně zaženou. Některé předměty ale nemusejí nemusejí mít očekávané účinky. Například chemikálie a alkohol dehydrují, kofein způsobuje hlad atd.</Dest>
+    </String>
+    <String List="0" sID="0366FE">
+      <EDID>HC_SurvivalItemWeight</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, Stimpaks and Ammo both have weight. Bullets and shells have a small amount of weight, which varies by caliber. Heavier items such as fusion cores, rockets, and mini-nukes can really drag you down.</Source>
+      <Dest>Při Přežití mají stimpaky i munice hmotnost. Náboje mají hmotnost odvozenou od svého kalibru. Těžší předměty jako jsou fúzní jádra, rakety a mini atomovky tě pak můžou opravdu zatížit.</Dest>
+    </String>
+    <String List="0" sID="036700">
+      <EDID>HC_SurvivalBeds</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, the type of bed you're sleeping in determines the length of time you're able to stay asleep. A sleeping bag will save your game and may save your life, but it'll never give you a full night's rest and the benefits that come with it.</Source>
+      <Dest>Při Přežití má na možnou délku spánku vliv typ ležení. Spací pytel uloží hru a možná i zachrání život, ale nikdy neposkytne plnohodnotný odpočinek a benefity s ním spojené.</Dest>
+    </String>
+    <String List="0" sID="036701">
+      <EDID>HC_Herbal_Stimulant</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Herbal Stimulant</Source>
+      <Dest>Bylinkový stimulant</Dest>
+    </String>
+    <String List="0" sID="036702">
+      <EDID>HC_SurvivalAbout</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>Is the struggle of this world merely a pleasant game for you? &#xD;
+Do you long for a more brutal take on a life lived post apocalypse?&#xD;
+&#xD;
+If you answered "Yes and yes!", Survival difficulty is for you!</Source>
+      <Dest>Jsou nástrahy tohoto světa pro tebe pouhou procházkou růžovým sadem?&#xD;
+Dychtíš po brutálnějším pojetí života v postapokalypse?&#xD;
+&#xD;
+Odpovídáš-li "Ano a ano!", pak je obtížnost Přežití přesně pro tebe!</Dest>
+    </String>
+    <String List="0" sID="036703">
+      <EDID>HC_Herbal_Stimulant_Effect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Resist: Fatigue &amp; Lethargy</Source>
+      <Dest>Odolnost proti únavě a spavosti</Dest>
+    </String>
+    <String List="0" sID="036704">
+      <EDID>HC_Herbal_Antimicrobial</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Herbal Antimicrobial</Source>
+      <Dest>Antimikrobiální bylinky</Dest>
+    </String>
+    <String List="0" sID="036705">
+      <EDID>HC_SurvivalBalance</EDID>
+      <REC>LSCR:DESC</REC>
+      <Source>In Survival, both you and your foes are deadlier than ever. Don't expect to survive more than a few hits from most enemies.</Source>
+      <Dest>Při Přežití jsi jak ty, tak i tvoji nepřátelé, smrtonosnější než kdy jindy. U většiny nepřátel nepředpokládej, že přežiješ víc než jen pár zásahů.</Dest>
+    </String>
+    <String List="0" sID="036707">
+      <EDID>HC_Herbal_Anodyne_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Resist: Insomnia &amp; Weakness</Source>
+      <Dest>Odolnost proti nespavosti a slabosti</Dest>
+    </String>
+    <String List="0" sID="036708">
+      <EDID>HC_Herbal_Stimulant_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Resist: Fatigue &amp; Lethargy</Source>
+      <Dest>Odolnost proti únavě a spavosti</Dest>
+    </String>
+    <String List="0" sID="036709">
+      <EDID>HC_Herbal_Antimicrobial_Effect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Resist: Infection &amp; Parasites</Source>
+      <Dest>Odolnost proti infekci a parazitům</Dest>
+    </String>
+    <String List="0" sID="03670A">
+      <EDID>HC_QuantumAPDescription</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Instantly restores AP</Source>
+      <Dest>Okamžitě obnoví AB</Dest>
+    </String>
+    <String List="0" sID="03670B">
+      <EDID>HC_CaffeinatedDescription</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Caffeinates</Source>
+      <Dest>Dodává kofein</Dest>
+    </String>
+    <String List="0" sID="03670C">
+      <EDID>HC_ImmunodeficiencyDescription</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Adds Fatigue &amp; Suppresses Immunity</Source>
+      <Dest>Působí únavu a potlačuje imunitu</Dest>
+    </String>
+    <String List="0" sID="03670D">
+      <EDID>HC_CaffeinatedDescription</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Caffeinates</Source>
+      <Dest>Dodává kofein</Dest>
+    </String>
+    <String List="0" sID="03670E">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="03670F">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036710">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="036711">
+      <EDID>WorkshopRecipeFilterDecor02WallDecorations03Posters</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Posters</Source>
+      <Dest>Plakáty</Dest>
+    </String>
+    <String List="0" sID="036712">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Scaffolding</Source>
+      <Dest>Lešení</Dest>
+    </String>
+    <String List="0" sID="036713">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="036714">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="036715">
+      <EDID>WorkshopRecipeFilterDecor02DisplayCases03ArmorRacks</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Armor Racks</Source>
+      <Dest>Stojany na zbroj</Dest>
+    </String>
+    <String List="0" sID="036716">
+      <EDID>WorkshopRecipeFilterBuilding02Barn</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Barn</Source>
+      <Dest>Stodola</Dest>
+    </String>
+    <String List="0" sID="036717">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="036718">
+      <EDID>WorkshopRecipeFilterBuilding02Boxcars03Orange</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Orange</Source>
+      <Dest>Oranžový</Dest>
+    </String>
+    <String List="0" sID="036719">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="03671A">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="03671B">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="03671C">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Doors</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Doors</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="03671D">
+      <EDID>WorkshopMenu01Build02Scaffolding</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Scaffolding</Source>
+      <Dest>Lešení</Dest>
+    </String>
+    <String List="0" sID="03671E">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="03671F">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="036720">
+      <EDID>WorkshopRecipeFilterDecor02DisplayCases03PowerArmor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Power Armor</Source>
+      <Dest>Energozbroj</Dest>
+    </String>
+    <String List="0" sID="036721">
+      <EDID>WorkshopRecipeFilterDecor02DisplayCases03DisplayCases</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Display Cases</Source>
+      <Dest>Vitríny</Dest>
+    </String>
+    <String List="0" sID="036722">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="036723">
+      <EDID>WorkshopMenu01Build02Boxcars</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Boxcars</Source>
+      <Dest>Vagony</Dest>
+    </String>
+    <String List="0" sID="036724">
+      <EDID>WorkshopMenu01Decor02DisplayCases</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Display</Source>
+      <Dest>Výstava</Dest>
+    </String>
+    <String List="0" sID="036725">
+      <EDID>WorkshopMenu01Build02Warehouse</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Warehouse</Source>
+      <Dest>Skladiště</Dest>
+    </String>
+    <String List="0" sID="036726">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036727">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="036728">
+      <EDID>WorkshopRecipeFilterBuilding02Boxcars</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Boxcars</Source>
+      <Dest>Vagony</Dest>
+    </String>
+    <String List="0" sID="036729">
+      <EDID>WorkshopRecipeFilterDecor02DisplayCases03WeaponRacks</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Weapon Racks</Source>
+      <Dest>Stojany na zbraně</Dest>
+    </String>
+    <String List="0" sID="03672A">
+      <EDID>WorkshopMenu01Build02Barn</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Barn</Source>
+      <Dest>Stodola</Dest>
+    </String>
+    <String List="0" sID="03672B">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Doors</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Doors</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="03672C">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="03672D">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="03672E">
+      <EDID>WorkshopRecipeFilterBuilding02Boxcars03Blue</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Blue</Source>
+      <Dest>Modrý</Dest>
+    </String>
+    <String List="0" sID="03672F">
+      <EDID>WorkshopRecipeFilterBuilding02Warehouse03Doors</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Doors</Source>
+      <Dest>Dveře</Dest>
+    </String>
+    <String List="0" sID="036730">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036731">
+      <EDID>WorkshopRecipeFilterDecor02DisplayCases</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Display</Source>
+      <Dest>Výstava</Dest>
+    </String>
+    <String List="0" sID="036732">
+      <EDID>WorkshopRecipeFilterBuilding02Barn03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="036733">
+      <EDID>WorkshopRecipeFilterBuilding02Scaffolding03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Framework</Source>
+      <Dest>Základna</Dest>
+    </String>
+    <String List="0" sID="036734">
+      <EDID>WorkshopMenu01Power02Manufacturing</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Neon</Source>
+      <Dest>Neon</Dest>
+    </String>
+    <String List="0" sID="036735">
+      <EDID>WorkshopRecipeFilterResource02Power03Manufacturing04Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036736">
+      <EDID>WorkshopRecipeFilterResource02Power03AdvancedSwitches</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Logic Gates</Source>
+      <Dest>Logická hradla</Dest>
+    </String>
+    <String List="0" sID="036737">
+      <EDID>WorkshopRecipeFilterBuilding02BallTrack</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Ball Track</Source>
+      <Dest>Kuličková dráha</Dest>
+    </String>
+    <String List="0" sID="036738">
+      <EDID>WorkshopRecipeFilterResource02Power03Marquee</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Marquee</Source>
+      <Dest>Poutače</Dest>
+    </String>
+    <String List="0" sID="036739">
+      <EDID>WorkshopRecipeFilterResource02Power03Manufacturing04ConveyorBelts</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Conveyor Belts</Source>
+      <Dest>Pásové dopravníky</Dest>
+    </String>
+    <String List="0" sID="03673A">
+      <EDID>WorkshopRecipeFilterResource02Power03Manufacturing</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Manufacturing</Source>
+      <Dest>Výroba</Dest>
+    </String>
+    <String List="0" sID="03673B">
+      <EDID>WorkshopRecipeFilterResource02Power03Manufacturing04Machinery</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Machinery</Source>
+      <Dest>Stroje</Dest>
+    </String>
+    <String List="0" sID="03673C">
+      <EDID>SplineSparks02</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>SplineSparks</Source>
+      <Dest>SplineSparks</Dest>
+    </String>
+    <String List="0" sID="03673D">
+      <EDID>WorkshopRecipeFilterBuilding02BallTrack03Straight</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Straight</Source>
+      <Dest>Rovné</Dest>
+    </String>
+    <String List="0" sID="03673E">
+      <EDID>WorkshopMenu01Build02BallTrack</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Ball Track</Source>
+      <Dest>Kuličková dráha</Dest>
+    </String>
+    <String List="0" sID="03673F">
+      <EDID>HC_CureRavenousHunger</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Cure Dark Cravings.</Source>
+      <Dest>Léčí temné chutě.</Dest>
+    </String>
+    <String List="0" sID="036740">
+      <EDID>HC_CureRavenousHunger</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Cure Dark Cravings</Source>
+      <Dest>Léčí temné chutě</Dest>
+    </String>
+    <String List="0" sID="036741">
+      <EDID>WorkshopRecipeFilterBuilding02BallTrack03Curves</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Curves</Source>
+      <Dest>Zahnuté</Dest>
+    </String>
+    <String List="0" sID="036742">
+      <EDID>WorkshopRecipeFilterResource02Power03Conduit</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Conduit</Source>
+      <Dest>Vodiče</Dest>
+    </String>
+    <String List="0" sID="036743">
+      <EDID>WorkshopRecipeFilterBuilding02BallTrack03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036744">
+      <EDID>WorkshopRecipeFilterBuilding02Elevators</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Elevators</Source>
+      <Dest>Výtahy</Dest>
+    </String>
+    <String List="0" sID="036745">
+      <EDID>sNoFastTravelSurvivalMode</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel to this location.</Source>
+      <Dest>Do této lokace nemůžeš rychle cestovat.</Dest>
+    </String>
+    <String List="0" sID="036746">
+      <EDID>sFatigueWarningString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>+FATIGUE</Source>
+      <Dest>+ÚNAVA</Dest>
+    </String>
+    <String List="0" sID="036747">
+      <EDID>HC_JetUseEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Make player thirsty</Source>
+      <Dest>Způsobuje hráči žízeň</Dest>
+    </String>
+    <String List="0" sID="036748">
+      <EDID>HC_JetUseEffect</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Slows time for &lt;dur&gt; seconds.</Source>
+      <Dest>Zpomalí čas na &lt;dur&gt; vteřin.</Dest>
+    </String>
+    <String List="0" sID="036749">
+      <EDID>sModdedString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Modded</Source>
+      <Dest>Modifikováno</Dest>
+    </String>
+    <String List="0" sID="03674A">
+      <EDID>sNoFastTravelSurvivalModeOfferToPlaceMarker</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You cannot fast travel to this location. Place marker?</Source>
+      <Dest>Do této lokace nemůžeš rychle cestovat. Umístit značku?</Dest>
+    </String>
+    <String List="0" sID="03674C">
+      <EDID>sConfirmDeleteContent</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Are you sure you want to delete this DLC?</Source>
+      <Dest>Opravdu chceš smazat vybraný stahovatelný obsah?</Dest>
+    </String>
+    <String List="0" sID="03674D">
+      <EDID>sSurvivalString</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Survival</Source>
+      <Dest>Přežití</Dest>
+    </String>
+    <String List="0" sID="03674E">
+      <EDID>sWorkshopMenuLogicText</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>LOGIC GATE</Source>
+      <Dest>LOGICKÉ HRADLO</Dest>
+    </String>
+    <String List="0" sID="03674F">
+      <EDID>sIn</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>In</Source>
+      <Dest>Vstup</Dest>
+    </String>
+    <String List="0" sID="036750">
+      <EDID>HelpMods</EDID>
+      <REC>MESG:NNAM</REC>
+      <Source>Mods</Source>
+      <Dest>Modifikace</Dest>
+    </String>
+    <String List="0" sID="036751">
+      <EDID>HelpMods</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mods</Source>
+      <Dest>Modifikace</Dest>
+    </String>
+    <String List="0" sID="036753">
+      <EDID>sOut</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Out</Source>
+      <Dest>Výstup</Dest>
+    </String>
+    <String List="0" sID="036754">
+      <EDID>WorkshopRecipeFilterRaider02Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036755">
+      <EDID>WorkshopRecipeFilterRaider02Flags</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Flags</Source>
+      <Dest>Vlajky</Dest>
+    </String>
+    <String List="0" sID="036756">
+      <EDID>WorkshopRecipeFilterRaider02Resources</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Resources</Source>
+      <Dest>Zdroje</Dest>
+    </String>
+    <String List="0" sID="036757">
+      <EDID>WorkshopMenu01Raider</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Raider</Source>
+      <Dest>Nájezdník</Dest>
+    </String>
+    <String List="0" sID="036758">
+      <EDID>WorkshopRecipeFilterRaider02Vendor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Dealers</Source>
+      <Dest>Dealeři</Dest>
+    </String>
+    <String List="0" sID="036759">
+      <EDID>WorkshopRecipeFilterRaider</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Raider</Source>
+      <Dest>Nájezdník</Dest>
+    </String>
+    <String List="0" sID="03675A">
+      <EDID>EncMinutemenFaceF01b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="03675B">
+      <EDID>encMinutemenFaceF02b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="03675C">
+      <EDID>EncMinutemenFaceM04b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="03675D">
+      <EDID>EncMinutemenFaceM02b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="03675E">
+      <EDID>EncMinutemenFaceM01b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="03675F">
+      <EDID>EncMinutemenFaceF03b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="036760">
+      <EDID>EncMinutemenFaceM05b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="036761">
+      <EDID>EncWorkshopNPCMaleFarmer01b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="036762">
+      <EDID>EncMinutemenFaceM03b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="036763">
+      <EDID>EncMinutemenFaceM06b</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Settler</Source>
+      <Dest>Osadník</Dest>
+    </String>
+    <String List="0" sID="036764">
+      <EDID>WorkshopRecipeFilterResource02Vault</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault</Source>
+      <Dest>Vault</Dest>
+    </String>
+    <String List="0" sID="036765">
+      <EDID>WorkshopRecipeFilterDecor02Vault</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault</Source>
+      <Dest>Vault</Dest>
+    </String>
+    <String List="0" sID="036766">
+      <EDID>WorkshopRecipeFilterDecor02Vault03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="036767">
+      <EDID>WorkshopMenu01Decor02Vault</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Vault</Source>
+      <Dest>Vault</Dest>
+    </String>
+    <String List="0" sID="036768">
+      <EDID>WorkshopRecipeFilterDecor02Vault03Posters</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Posters</Source>
+      <Dest>Plakáty</Dest>
+    </String>
+    <String List="0" sID="036769">
+      <EDID>WorkshopRecipeFilterDecor02Vault03Signs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Signs</Source>
+      <Dest>Cedule</Dest>
+    </String>
+    <String List="0" sID="03676A">
+      <EDID>WorkshopRecipeFilterDecor02Vault03Statues</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Statues</Source>
+      <Dest>Sochy</Dest>
+    </String>
+    <String List="0" sID="03676B">
+      <EDID>WorkshopMenu01Build02Vault</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Vault</Source>
+      <Dest>Vault</Dest>
+    </String>
+    <String List="0" sID="03676C">
+      <EDID>HairColor31_DLC04RedViolet</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Red Violet Dye</Source>
+      <Dest>Červeno-fialová barva</Dest>
+    </String>
+    <String List="0" sID="03676D">
+      <EDID>HairColor24_DLC04Blue</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Blue Dye</Source>
+      <Dest>Modrá barva</Dest>
+    </String>
+    <String List="0" sID="03676E">
+      <EDID>HairColor26_DLC04Green</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Green Dye</Source>
+      <Dest>Zelená barva</Dest>
+    </String>
+    <String List="0" sID="03676F">
+      <EDID>HairColor23_DLC04Purple</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Purple Dye</Source>
+      <Dest>Růžová barva</Dest>
+    </String>
+    <String List="0" sID="036770">
+      <EDID>HairColor30_DLC04Red</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Red Dye</Source>
+      <Dest>Červená barva</Dest>
+    </String>
+    <String List="0" sID="036771">
+      <EDID>HairColor25_DLC04BlueGreen</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Blue Green Dye</Source>
+      <Dest>Modro-zelená barva</Dest>
+    </String>
+    <String List="0" sID="036772">
+      <EDID>HairColor32_DLC04Pink</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Pink Dye</Source>
+      <Dest>Růžová barva</Dest>
+    </String>
+    <String List="0" sID="036773">
+      <EDID>HairColor28_DLC04LightPink</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Light Pink Dye</Source>
+      <Dest>Světle růžová barva</Dest>
+    </String>
+    <String List="0" sID="036774">
+      <EDID>HairColor29_DLC04Orange</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Orange Dye</Source>
+      <Dest>Oranžová barva</Dest>
+    </String>
+    <String List="0" sID="036775">
+      <EDID>HairColor27_DLC04YellowGreen</EDID>
+      <REC>CLFM:FULL</REC>
+      <Source>Yellow Green Dye</Source>
+      <Dest>Žluto-zelená barva</Dest>
+    </String>
+    <String List="0" sID="036777">
+      <EDID>shipment_Copper_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Copper - 50</Source>
+      <Dest>Zásilka mědi - 50</Dest>
+    </String>
+    <String List="0" sID="036778">
+      <EDID>shipment_Steel_250</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Steel - 250</Source>
+      <Dest>Zásilka oceli - 250</Dest>
+    </String>
+    <String List="0" sID="036779">
+      <EDID>shipment_Rubber_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Rubber - 100</Source>
+      <Dest>Zásilka gumy - 100</Dest>
+    </String>
+    <String List="0" sID="03677A">
+      <EDID>shipment_Ceramic_large</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Ceramic - 50</Source>
+      <Dest>Zásilka keramiky - 50</Dest>
+    </String>
+    <String List="0" sID="03677B">
+      <EDID>shipment_Wood_250</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Shipment of Wood - 250</Source>
+      <Dest>Zásilka dřeva - 250</Dest>
+    </String>
+    <String List="0" sID="03677C">
+      <EDID>WorkshopStoreMisc01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Stand</Source>
+      <Dest>Stánek se smíšeným zbožím</Dest>
+    </String>
+    <String List="0" sID="03677D">
+      <EDID>WorkshopRecipeFilterRaider02Pack</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>The Pack</Source>
+      <Dest>Tlupa</Dest>
+    </String>
+    <String List="0" sID="036780">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03DryRock</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Dry Rock Gulch</Source>
+      <Dest>Vyprahlá rokle</Dest>
+    </String>
+    <String List="0" sID="036781">
+      <EDID>WorkshopBar02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Bar</Source>
+      <Dest>Bar</Dest>
+    </String>
+    <String List="0" sID="036784">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03Nukatown</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Nukatown USA</Source>
+      <Dest>Nukatown USA</Dest>
+    </String>
+    <String List="0" sID="036785">
+      <EDID>WorkshopStoreArmor02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Shop</Source>
+      <Dest>Obchod se zbrojemi</Dest>
+    </String>
+    <String List="0" sID="036786">
+      <EDID>WorkshopStoreWeapon03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Emporium</Source>
+      <Dest>Prodejna zbraní</Dest>
+    </String>
+    <String List="0" sID="036787">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Nuka-World</Source>
+      <Dest>Nuka-World</Dest>
+    </String>
+    <String List="0" sID="036788">
+      <EDID>WorkshopStoreClinic02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clinic</Source>
+      <Dest>Klinika</Dest>
+    </String>
+    <String List="0" sID="03678E">
+      <EDID>WorkshopStoreClinic01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>First Aid Station</Source>
+      <Dest>Stanoviště první pomoci</Dest>
+    </String>
+    <String List="0" sID="036790">
+      <EDID>WorkshopStoreClothing02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Shop</Source>
+      <Dest>Obchod s oblečením</Dest>
+    </String>
+    <String List="0" sID="036792">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03BottlingPlant</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Bottling Plant</Source>
+      <Dest>Lahvárna</Dest>
+    </String>
+    <String List="0" sID="036793">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03NukaCade</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Nuka-Cade</Source>
+      <Dest>Nuka-Cade</Dest>
+    </String>
+    <String List="0" sID="036797">
+      <EDID>WorkshopRecipeFilterRaider02Disciples</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Disciples</Source>
+      <Dest>Stoupenci</Dest>
+    </String>
+    <String List="0" sID="036799">
+      <EDID>WorkshopStoreClothing03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Emporium</Source>
+      <Dest>Prodejna oblečení</Dest>
+    </String>
+    <String List="0" sID="03679A">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03Safari</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Safari Adventure</Source>
+      <Dest>Safari dobrodružství</Dest>
+    </String>
+    <String List="0" sID="03679B">
+      <EDID>WorkshopStoreClinic03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Surgery Center</Source>
+      <Dest>Chirurgické centrum</Dest>
+    </String>
+    <String List="0" sID="03679C">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03Galactic</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Galactic Zone</Source>
+      <Dest>Galaktická zóna</Dest>
+    </String>
+    <String List="0" sID="03679D">
+      <EDID>WorkshopStoreWeapon01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Stand</Source>
+      <Dest>Stánek se zbraněmi</Dest>
+    </String>
+    <String List="0" sID="03679F">
+      <EDID>WorkshopBar03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Restaurant</Source>
+      <Dest>Restaurace</Dest>
+    </String>
+    <String List="0" sID="0367A1">
+      <EDID>WorkshopStoreMisc03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Emporium</Source>
+      <Dest>Prodejna smíšeného zboží</Dest>
+    </String>
+    <String List="0" sID="0367A2">
+      <EDID>WorkshopStoreArmor01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Stand</Source>
+      <Dest>Stánek se zbrojemi</Dest>
+    </String>
+    <String List="0" sID="0367A3">
+      <EDID>WorkshopRecipeFilterRaider02Operators</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Operators</Source>
+      <Dest>Obsluha</Dest>
+    </String>
+    <String List="0" sID="0367A4">
+      <EDID>WorkshopStoreArmor03Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Armor Emporium</Source>
+      <Dest>Prodejna zbojí</Dest>
+    </String>
+    <String List="0" sID="0367A5">
+      <EDID>WorkshopMenu01Decor02NukaWorld</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Nuka-World</Source>
+      <Dest>Nuka-World</Dest>
+    </String>
+    <String List="0" sID="0367A7">
+      <EDID>WorkshopBar01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Drink Stand</Source>
+      <Dest>Stánek s nápoji</Dest>
+    </String>
+    <String List="0" sID="0367A8">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="0367A9">
+      <EDID>WorkshopRecipeFilterDecor02NukaWorld03Kiddie</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Kiddie Kingdom</Source>
+      <Dest>Dětské království</Dest>
+    </String>
+    <String List="0" sID="0367AA">
+      <EDID>WorkshopStoreMisc02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Trading Shop</Source>
+      <Dest>Obchod se smíšeným zbožím</Dest>
+    </String>
+    <String List="0" sID="0367AB">
+      <EDID>WorkshopStoreWeapon02Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Weapons Shop</Source>
+      <Dest>Obchod se zbraněmi</Dest>
+    </String>
+    <String List="0" sID="0367AC">
+      <EDID>WorkshopStoreClothing01Counter</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Clothing Stand</Source>
+      <Dest>Stánek s oblečením</Dest>
+    </String>
+    <String List="1" sID="000003">
+      <EDID>HC_DiseaseInfected_EffectMsg_Damage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your Infection spreads.</Source>
+      <Dest>Tvá nemoc se šíří.</Dest>
+    </String>
+    <String List="1" sID="000007">
+      <EDID>HC_DE_Msg_NeedMoreFood</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Parasites).</Source>
+      <Dest>Necítíš se dobře (paraziti).</Dest>
+    </String>
+    <String List="1" sID="000008">
+      <EDID>HC_SE_Msg_WellRestedAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake Well Rested.</Source>
+      <Dest>Probouzíš se naprosto svěží.</Dest>
+    </String>
+    <String List="1" sID="00000B">
+      <EDID>HC_SE_EffectMsg_CantSprint</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Exhausted and can't sprint.</Source>
+      <Dest>Cítíš se vyčerpaně a nemůžeš sprintovat.</Dest>
+    </String>
+    <String List="1" sID="00000D">
+      <EDID>HardCorePlayerSleepInterruptMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your sleep is interrupted. Enemies may be nearby.</Source>
+      <Dest>Spánek byl přerušen. Na blízku jsou nepřátelé.</Dest>
+    </String>
+    <String List="1" sID="000010">
+      <EDID>HC_Antibiotics</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Cures sickness.</Source>
+      <Dest>Léčí nemoci.</Dest>
+    </String>
+    <String List="1" sID="000011">
+      <EDID>HC_SE_Msg_LoversEmbrace</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel your Lover's Embrace.</Source>
+      <Dest>Cítíš obětí své lásky.</Dest>
+    </String>
+    <String List="1" sID="000014">
+      <EDID>HC_SE_Msg_Exhausted</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Exhausted from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu vyčerpáni.</Dest>
+    </String>
+    <String List="1" sID="000015">
+      <EDID>HC_DamageMultPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Scale actor's incoming and outgoing damage by the HC_IncomingDamageMult and HC_OutgoiningDamageMult actorvalues.</Source>
+      <Dest>Scale actor's incoming and outgoing damage by the HC_IncomingDamageMult and HC_OutgoiningDamageMult actorvalues.</Dest>
+    </String>
+    <String List="1" sID="000017">
+      <EDID>HC_SE_Msg_Weary</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Weary from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu malátnosti.</Dest>
+    </String>
+    <String List="1" sID="00001A">
+      <EDID>HC_HE_Msg_Ravenous</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Ravenous from lack of food.</Source>
+      <Dest>Z nedostatku jídla trpíš hlady.</Dest>
+    </String>
+    <String List="1" sID="00001D">
+      <EDID>HC_AdrenalinePerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>+5% Bonus Damage per Adrenaline rank. You gain ranks by killing enemies but lose ranks while sleeping.</Source>
+      <Dest>5% bonus k poškození za jednotlivé úrovně adrenalinu. Úrovně adrenalinu získáváš zabíjením nepřátel a naopak spánkem ztrácíš.</Dest>
+    </String>
+    <String List="1" sID="000028">
+      <EDID>HC_DE_Msg_Insomnia</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Insomnia).</Source>
+      <Dest>Necítíš se dobře (nespavost).</Dest>
+    </String>
+    <String List="1" sID="00002A">
+      <EDID>HC_SE_Msg_ExhaustedAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake still Exhausted.</Source>
+      <Dest>Po probuzení se stále cítíš vyčerpaně.</Dest>
+    </String>
+    <String List="1" sID="00002C">
+      <EDID>HC_SE_Msg_WearyAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake still Weary.</Source>
+      <Dest>Po probuzení se stále cítíš malátně.</Dest>
+    </String>
+    <String List="1" sID="00002F">
+      <EDID>HC_SE_Msg_IncapacitatedAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake still Incapacitated from lack of sleep.</Source>
+      <Dest>Po probuzení se stále cítíš v neschopnosti.</Dest>
+    </String>
+    <String List="1" sID="000034">
+      <EDID>HC_HE_Msg_Starving</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Starving from lack of food.</Source>
+      <Dest>Z nedostatku jídla umíráš hlady.</Dest>
+    </String>
+    <String List="1" sID="000036">
+      <EDID>HC_Encumbrance_EffectMsg_Damage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Over Encumbered.</Source>
+      <Dest>Neseš příliš mnoho věcí.</Dest>
+    </String>
+    <String List="1" sID="000038">
+      <EDID>HC_IncomingDamageMult</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Scale player's incoming damage by this amount. 1 = standard. 1.5 = 150%.</Source>
+      <Dest>Scale player's incoming damage by this amount. 1 = standard. 1.5 = 150%.</Dest>
+    </String>
+    <String List="1" sID="00003C">
+      <EDID>HC_SleepInterruptedMsg_Mattress</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can't sleep more than 5 hours on a dirty mattress.</Source>
+      <Dest>Na špinavé matraci nemůžeš spát déle než 5 hodin.</Dest>
+    </String>
+    <String List="1" sID="00003E">
+      <EDID>HC_HE_Msg_Peckish</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Peckish from lack of food.</Source>
+      <Dest>Z nedostatku jídla máš malý hlad.</Dest>
+    </String>
+    <String List="1" sID="00003F">
+      <EDID>HC_ThirstEffect</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>See globals HC_SE_xxx</Source>
+      <Dest>See globals HC_SE_xxx</Dest>
+    </String>
+    <String List="1" sID="000040">
+      <EDID>HC_HE_Msg_Famished</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Famished from lack of food.</Source>
+      <Dest>Z nedostatku jídla máš velký hlad.</Dest>
+    </String>
+    <String List="1" sID="000042">
+      <EDID>HC_SE_Msg_OvertiredAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake still Overtired.</Source>
+      <Dest>Po probuzení se stále cítíš přetaženě.</Dest>
+    </String>
+    <String List="1" sID="000044">
+      <EDID>HC_TE_Msg_Parched</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Parched from lack of water.</Source>
+      <Dest>Z nedostatku vody máš malou žízeň.</Dest>
+    </String>
+    <String List="1" sID="000045">
+      <EDID>HC_HungerEffect</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>See globals HC_SE_xxx</Source>
+      <Dest>See globals HC_SE_xxx</Dest>
+    </String>
+    <String List="1" sID="000046">
+      <EDID>HC_DE_Msg_Infection</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Infection).</Source>
+      <Dest>Necítíš se dobře (infekce).</Dest>
+    </String>
+    <String List="1" sID="000047">
+      <EDID>HC_Starving_EffectMsg_Damage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Starving.</Source>
+      <Dest>Umíráš hlady.</Dest>
+    </String>
+    <String List="1" sID="00004A">
+      <EDID>HC_SleepInterruptedMsg_Insomnia</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You find it impossible to stay asleep. (Insomnia)</Source>
+      <Dest>Máš problémy zůstat spát. (Nespavost)</Dest>
+    </String>
+    <String List="1" sID="00004C">
+      <EDID>HC_DE_Msg_Weakness</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Weakness).</Source>
+      <Dest>Necítíš se dobře (slabost).</Dest>
+    </String>
+    <String List="1" sID="00004E">
+      <EDID>HC_TE_Msg_SeverelyDehydrated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Severely Dehydrated from lack of water.</Source>
+      <Dest>Z nedostatku vody jsi ve stavu vážné dehydratace.</Dest>
+    </String>
+    <String List="1" sID="000055">
+      <EDID>HC_Adrenaline</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Hardcore mode Adrenaline value.</Source>
+      <Dest>Úroveň adrenalinu v hardcore režimu.</Dest>
+    </String>
+    <String List="1" sID="000058">
+      <EDID>HC_SleepEffect</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>See globals HC_SE_xxx</Source>
+      <Dest>See globals HC_SE_xxx</Dest>
+    </String>
+    <String List="1" sID="00005B">
+      <EDID>HC_TE_Msg_Dehydrated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Dehydrated from lack of water.</Source>
+      <Dest>Z nedostatku vody jsi ve stavu dehydratace.</Dest>
+    </String>
+    <String List="1" sID="00005F">
+      <EDID>HC_WellRestedPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You had a great sleep, and feel alert and invigorated! +2 END, +2 AGI, and +10% XP for a limited time.</Source>
+      <Dest>Máš za sebou skvělý spánek a cítíš čile a v plné síle! +2 ODO, +2 HBI a +10 % k získaným zkušenostem na omezenou dobu.</Dest>
+    </String>
+    <String List="1" sID="000060">
+      <EDID>HC_SE_Msg_RestedAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel rested.</Source>
+      <Dest>Cítíš se odpočatě.</Dest>
+    </String>
+    <String List="1" sID="000063">
+      <EDID>HC_SE_Msg_Overtired</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Overtired from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu přetaženosti.</Dest>
+    </String>
+    <String List="1" sID="000067">
+      <EDID>HC_SleepInterruptedMsg_SleepingBag</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can't sleep more than 3 hours in a sleeping bag.</Source>
+      <Dest>Ve spacím pytli nemůžeš spát déle než 3 hodiny.</Dest>
+    </String>
+    <String List="1" sID="000068">
+      <EDID>HC_TE_Msg_Thirsty</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Thirsty from lack of water.</Source>
+      <Dest>Z nedostatku vody máš žízeň.</Dest>
+    </String>
+    <String List="1" sID="00006D">
+      <EDID>HC_HelpSurvival</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Is the struggle of this world merely a pleasant game for you? Do you long for a more brutal take on a life lived post apocalypse? &#xD;
+&#xD;
+If you answered "Yes and yes!", then Survival difficulty is for you! &#xD;
+&#xD;
+Survival upends many of the rules of life in the Commonwealth for maximum challenge. For a full list of these changes, see below. &#xD;
+&#xD;
+To enable Survival, press [Pause], select "Settings," then "Gameplay" and choose "Survival" from the "Difficulty" options.&#xD;
+&#xD;
+&#xD;
+Survival: Basics&#xD;
+&#xD;
+Saving &#xD;
+Manual, quicksaving &amp; most autosaves are disabled. To save your game, you'll need to find a bed and sleep for at least an hour. &#xD;
+&#xD;
+Staying Healthy&#xD;
+Survival makes it more challenging to keep yourself in top health and high spirits. Food and stimpaks heal at a significantly slower rate, and you'll need to pay attention to your overall wellness by staying properly fed, rested and hydrated. See "Survival: Healing Changes" and "Survival: Rest &amp; Wellness" entries for more details.&#xD;
+&#xD;
+Lethality&#xD;
+You now deal, but also take, more damage. You can increase the damage you deal even further with "Adrenaline". See the "Survival: Combat &amp; Adrenaline" entry for more details.&#xD;
+&#xD;
+Fast Travel &#xD;
+Fast Travel is disabled. If you wish to be somewhere, you'll have to get there the old-fashioned way. &#xD;
+&#xD;
+Inventory Management &#xD;
+You're able to carry far fewer items, including ammunition &amp; Stimpaks, which now both have weight. Your companions can still help you carry the load, but their capacity has also been decreased. See the "Survival: Items &amp; Companions" entry for more details.&#xD;
+&#xD;
+&#xD;
+Survival: Combat &amp; Adrenaline&#xD;
+&#xD;
+Adrenaline &#xD;
+Survival automatically grants the Adrenaline perk, which provides a bonus to your damage output. Unlike other perks, the only way to increase your rank of the Adrenaline perk is by getting kills (hostile or otherwise). The higher your Adrenaline rank, the higher the damage bonus. Sleeping for any amount of time will cause your Adrenaline rank to lower, taking your damage bonus down with it. You can check your current Adrenaline rank at any time in the Perks section on the Stat tab in your Pip-Boy. &#xD;
+&#xD;
+Compass &#xD;
+Be sure to keep your eyes peeled, as enemies will no longer appear on your compass. The distance at which locations of interest will appear has been significantly shortened as well.&#xD;
+&#xD;
+Combat&#xD;
+In Survival, both you and your foes are deadlier than ever, so don't expect to survive more than a few hits from most enemies. Good armor, reliable cover, and tactical thinking are critical. Choose your openings wisely to make the most of your own increased damage.&#xD;
+&#xD;
+&#xD;
+Survival: Rest, Wellness &amp; Fatigue&#xD;
+&#xD;
+Bed Types &#xD;
+The type of bed you're sleeping in determines the length of time you are able to stay asleep. A sleeping bag will save your game and may save your life when you're desperate. A mattress offers strong healing and can clear most of your fatigue. The comfort of a bed allows for a full night's rest and all the benefits that come with it.&#xD;
+&#xD;
+Wellness &#xD;
+You'll find it difficult to survive without taking proper care of yourself. You must stay hydrated, fed, and rested to remain combat-ready. Going for extended periods of time without food, water, or a good night's sleep will begin to adversely affect your health, hurting your SPECIAL stats, adding to your Fatigue (see "Fatigue" below), lowering your immunity (see "Illness" below), and eventually even dealing physical damage to you.&#xD;
+&#xD;
+Fatigue &#xD;
+Fatigue mostly comes from being tired, but both hunger and thirst also affect it. Fatigue works like radiation, but affects your Action Points (AP) rather than your Hit Points (HP). The more Fatigue you've built up, the less AP you'll have for actions like sprinting and VATS. The amount of Fatigue you've accumulated is displayed in red on your AP bar.&#xD;
+&#xD;
+&#xD;
+Survival: Illness &amp; Health&#xD;
+&#xD;
+Illness &#xD;
+Eating uncooked meat, drinking unpurified water, taking damage from disease-ridden foes and using harmful Chems all put your body at increased risk for various ill effects. When you are afflicted with an Illness, a message will appear onscreen. You can check specifics about your current Illnesses by navigating to the Status section of your Pip-Boy's Stat tab and pressing [RShoulder] to view your active effects.&#xD;
+&#xD;
+Illnesses &#xD;
+Insomnia: You get less sleep than desired.&#xD;
+Lethargy: Your AP regenerates much more slowly.&#xD;
+Fatigue: You need to sleep more frequently. &#xD;
+Parasites: It takes more food than normal to satiate your hunger.&#xD;
+Weakness: Your body can't handle as much damage as normal.&#xD;
+Infection: You take damage as the infection spreads.&#xD;
+&#xD;
+Doctors &#xD;
+Doctors can heal your wounds, cure your addictions, and banish diseases... for a price. You can find a doctor in most major settlements.&#xD;
+&#xD;
+Antibiotics &#xD;
+Antibiotics, which can be crafted at Chem Stations, purchased from doctors or found in medical containers, instantly heal the various effects of Illness.&#xD;
+&#xD;
+Herbal Remedies&#xD;
+Herbal Remedies, which can be crafted at Chem Stations, purchased from vendors &amp; doctors and found in various containers significantly lower your chances of developing particular Illnesses.&#xD;
+&#xD;
+Suppressed Immunity &#xD;
+Items that cleanse your body of Rads come with the cost of making you tired and temporarily damaging your immunity, leaving you more vulnerable to Illness than usual.&#xD;
+&#xD;
+Survival: Healing Changes&#xD;
+&#xD;
+Slower Healing &#xD;
+In Survival, the rate at which restorative items, like Stimpaks and food, recover your health is significantly reduced. You'll need to time your healing precisely if you hope to last. &#xD;
+&#xD;
+Crippled Limbs &#xD;
+Crippled limbs will no longer auto-heal after combat, and will remain crippled until healed by a Stimpak. &#xD;
+&#xD;
+Companion Healing&#xD;
+If your companion goes down during combat, you must heal them before they can get back up. If you leave the area without healing them, they will return home to recover.&#xD;
+&#xD;
+&#xD;
+Survival: Hunger, Thirst, Food &amp; Beverages&#xD;
+&#xD;
+Food / Drink Value&#xD;
+Looking at an item's value is a good way to determine how much that item will counter your thirst and hunger.&#xD;
+&#xD;
+Food Bonus Effects&#xD;
+A food's bonus effects, such as increased carry weight from Radstag steak, will only apply if eaten when you are not currently hungry. Make sure to take care of the basics before eating for bonuses.&#xD;
+&#xD;
+Counter Effects&#xD;
+Keep in mind, certain items may not give you the results you expect. For example, Chems and Alcohol dehydrate, Caffeine makes you hungry, etc.&#xD;
+&#xD;
+Caffeinated &#xD;
+Caffeine gives you a short reprieve from your tiredness, possibly buying you time to finish a fight or find a bed.&#xD;
+&#xD;
+&#xD;
+Survival: Items &amp; Companions&#xD;
+&#xD;
+Weighted Ammo &#xD;
+Bullets and shells now all have a small amount of weight, which varies by caliber. Heavier items such as fusion cores, rockets, and mini-nukes can really drag you down. &#xD;
+&#xD;
+Carry Weight &#xD;
+In Survival, both you and your companion's Carry Weight has been significantly reduced. Exceeding your carry weight reduces your Endurance and Agility stats, and periodically damages your legs and health. Think of your back! &#xD;
+&#xD;
+Companions &#xD;
+Carry weight for companions has been decreased. Companions will also no longer automatically get back up if downed during combat and will return home if abandoned without being healed.&#xD;
+&#xD;
+Enemy and Loot Repopulation &#xD;
+Locations you've cleared will now repopulate with new enemies and loot at a significantly slower rate.&#xD;
+&#xD;
+Strong Back&#xD;
+Instead of allowing Fast Travel, with Strong Back Rank 4, you no longer take damage from exceeding your carry weight.&#xD;
+</Source>
+      <Dest>Jsou nástrahy tohoto světa pro tebe pouhou procházkou růžovým sadem? Dychtíš po brutálnějším pojetí života v postapokalypse?&#xD;
+&#xD;
+Odpovídáš-li "Ano a ano!", pak je obtížnost Přežití přesně pro tebe!&#xD;
+&#xD;
+Obtížnost Přežití přichází pro poskytnutí maximální výzvy hned s několika pravidly života v Commonwealthu. Úplný výpis pravidel najdeš níže.  &#xD;
+&#xD;
+Pro zapnutí Přežití stiskni [Pause], vyber "Nastavení", pak "Hra" a zvol "Přežití" z dostupných úrovní "Obtížnosti".&#xD;
+&#xD;
+&#xD;
+Přežití: Základy&#xD;
+&#xD;
+Ukládání &#xD;
+Ruční, rychlé a většina automatických ukládání jsou zakázány. Pro uložení hry musíš najít postel a spát v ní alespoň jednu hodinu.&#xD;
+&#xD;
+Udržení zdraví&#xD;
+Udržet si silné zdraví a dobrou formu je při Přežití velká výzva. Jídlo a stimpaky obnovují zdraví v omezené míře a zvláštní pozornost musíš věnovat pravidelné stravě, pití a spánku. Viz záznamy pro "Přežití: změny ve zdraví" a "Přežití: odpočinek a základní potřeby".&#xD;
+&#xD;
+Smrtelnost&#xD;
+Při Přežití působíš ty, ale i tví nepřátelé, větší poškození. Udělované poškození můžeš zvýšit ještě více pomocí "adrenalinu". Viz záznam "Přežití: souboj a adrenalin".&#xD;
+&#xD;
+Rychlé cestování &#xD;
+Rychlé cestování je zakázáno. Pokud si přeješ někde být, musíš se tam dostat pěkně po staru. &#xD;
+&#xD;
+Inventář &#xD;
+Uneseš o dost méně předmětů, včetně munice a stimpaků, kdy oboje má hmotnost. S nákladem ti mohou pomoci tví společníci, ale omezena je i jejich nosnost. Viz "Přežití: předměty a společníci"&#xD;
+&#xD;
+&#xD;
+Přežití: Souboj a adrenalin&#xD;
+&#xD;
+Adrenalin &#xD;
+Přežití automaticky uděluje perk Adrenalin, který přidává bonus k udělovanému poškození. Pro zvýšení úrovně perku, na rozdíl od ostatních perků, je nutné zabíjet (nepřátele a ostatní). Čím vyšší je úroveň tím vyšší je bonus k poškození. Spánek na libovolně krátkou dobu úroveň adrenalinu a tím i bonus k poškození snižuje. V Pip-Boyovi v sekci Perků na záložce statistik můžeš úroveň adrenalinu můžeš kdykoliv zkontrolovat.&#xD;
+&#xD;
+Kompas &#xD;
+Měj oči otevřené, protože nepřátelé se na tvém kompasu již nebudou zobrazovat. Významně je snížena i vzdálenost, na kterou se vykreslují lokace zájmu.&#xD;
+&#xD;
+Souboj&#xD;
+Při Přežití jsi ty i tví nepřátelé mnohem více smrtelnější, a proto neočekávej, že od většiny nepřátel přežiješ víc než jen pár zásahů. Dobrá zbroj, spolehlivé krytí a taktické myšlení jsou klíčové. Své výpady si dobře naplánuj, ať využiješ maximum ze svého zvýšeného poškození.&#xD;
+&#xD;
+&#xD;
+Přežití: Odpočinek, základní potřeby a únava&#xD;
+&#xD;
+Typy postelí &#xD;
+Typ postele, do které si lehneš, ovlivňuje maximální délku nerušeného spánku. Spací pytel uloží hru a třeba i zachrání život, pokud jsi v zoufalé situaci. Matrace vyléčí závažnější zranění a zbaví tě velké části únavy. Pohodlí postele poskytuje nerušený spánek skrze celou noc a benefity s ním spojené.&#xD;
+&#xD;
+Základní potřeby &#xD;
+Přežití je velmi obtížné, pokud se o sebe nezvládneš patřičně starat. Pro uchování bojeschopnosti musíš dodržovat pitný režim a pravidelně jíst a odpočívat. Při delším čase bez jídla, vody nebo poctivého spánku začneš pociťovat negativní účinky na svém zdraví, zhoršení SPECIAL vlastností a zvýšení únavy (viz "Únava" níže), sníženou imunitu (viz "Nemoci" níže) a postupně i pravidelné fyzické poškození.&#xD;
+&#xD;
+Únava &#xD;
+Únava pochází většinou z nedostatku spánku, ale vliv na ni má jak hlad, tak i žízeň. Únava funguje podobně jako radiace, ale místo bodů zdraví (BZ) ovlivňuje akční body (AB). Čím více únavy získáš, tím budeš mít méně dostupných AB pro akce jako sprintování nebo režim VATS. Celková úrovaň únavy je zobrazena v červené barvě na liště AB.&#xD;
+&#xD;
+&#xD;
+Přežití: Nemoci a zdraví&#xD;
+&#xD;
+Nemoci &#xD;
+Konzumace syrového masa, pití nevyčištěné vody, zásah od nemocemi-prolezlých nepřátel a užívání škodlivých chemikálií zvyšují riziko onemocnění. V případě nákazy je na obrazovce zobrazena krátká zpráva. Detaily nemoci si pak můžeš prohlédnou v Pip-Boyovi v sekci Stav v rámci záložky statistik po stisknutí [RShoulder] na zobrazení aktivních účinků.&#xD;
+&#xD;
+Nákazy &#xD;
+Neppavost: Je ti dopřáno méně spánku, než je potřeba.&#xD;
+Letargie: Tvé AB jsou doplňovány o dost pomaleji.&#xD;
+Vyčerpání: Musíš spát více často. &#xD;
+Paraziti: Pro nasycení musíš zkonzumovat víc jídla než obvykle.&#xD;
+Slabost: Tvé tělo nevydrží takové poškození jako obvykle.&#xD;
+Infekce: Šířící se infekce tě pomalu zraňuje.&#xD;
+&#xD;
+Doktoři &#xD;
+Doktoři mohou vyléčit tvá zranění, zbavit tě závislostí a uzdravit od nemocí... za peníze. Doktory najdeš ve většině velkých osad.&#xD;
+&#xD;
+Antibiotika &#xD;
+Antibiotika, které můžeš vyrábět v chemické laboratoři, kupovat od doktorů nebo najít v lékařských kontejnerech, okamžitě léčí různé účinky onemocnění.&#xD;
+&#xD;
+Bylinné prostředky&#xD;
+Bylinné prostředky, které lze vyrábět v chemické laboratoři, kupovat od obchodníků a doktorů nebo najít v rozličných kontejnerech významně snižují šance nákazy specifických onemocnění.&#xD;
+&#xD;
+Snížená imunita &#xD;
+Předměty pro léčbu ozáření způsobují zvýšenou únavu a dočasné snížení imunity, a tak tě i vystavují vyššímu riziku onemocnění.&#xD;
+&#xD;
+&#xD;
+Přežití: Výzvy při léčení&#xD;
+&#xD;
+Pomalejší léčení &#xD;
+Při Přežití je výrazně snížena rychlost, se kterou působí léčebné prostředky jako jsou stimpaky nebo jídlo. Chceš-li přežít, musíš si své léčení dobře rozplánovat.&#xD;
+&#xD;
+Ochromené končetiny &#xD;
+Ochromené končetiny se po ukončení boje samy neuzdraví a do vyléčením stimpakem zůstanou ochromené. &#xD;
+&#xD;
+Léčení společníků&#xD;
+Pokud je v boji tvůj společník sražen k zemi, musíš ho vyléčit, aby se mohl vrátit zpátky na nohy. Pokud opustíš oblast bez vyléčení raněného společníka, tak se sám vydá domů.&#xD;
+&#xD;
+&#xD;
+Přežití: Hlad, žízeň a nápoje&#xD;
+&#xD;
+Jídlo / hodnota pití&#xD;
+Hodnota předmětu je dobrým indikátorem toho, jak výrazně předmět při konzumaci ovlivní tvůj hlad a žízeň.&#xD;
+&#xD;
+Bonusové účinky jídla&#xD;
+Bonusové účinky jídla, jako například zvýšená nosnost u steaku z mutajelena, jsou aplikovány pouze tehdy, nemáš-li při jejich konzumaci hlad. Vždy dbej na vyřešení svých základních potřeb, než začneš jíst kvůli bonusům.&#xD;
+&#xD;
+Negativní účinky&#xD;
+Pamatuj, že některé předměty mohou poskytovat neočekávané účinky. Například chemikálie nebo alkohol dehydrují, kofein způsobuje hlad atd.&#xD;
+&#xD;
+Kofein &#xD;
+Kofein krátkodobě vysvobozuje z ospalosti, čímž může poskytnout čas pro dokončení souboje nebo nalezení postele.&#xD;
+&#xD;
+&#xD;
+Přežití: Předměty a společníci&#xD;
+&#xD;
+Hmotnost munice &#xD;
+Náboje a střelivo mají malou hmotnost určenou svým kalibrem. Těžší předměty jako fúzní jádra, rakety nebo mini atomovky tě zase o dost více zatíží. &#xD;
+&#xD;
+Nosnost&#xD;
+Při Přežití je výrazně omezena nosnost tvé i tvého společníka. Překročení nosnosti snížuje odolnost a hbitost a periodicky poškozuje nohy a zdraví. Myslí na svá záda! &#xD;
+&#xD;
+Společníci &#xD;
+Nostnost společníků je snížena. Společníci se v boji vlastními silami nezvednou ze země. V případě opuštění raněného společníka se pak sami vrátí domů.&#xD;
+&#xD;
+Nepřátelé a objevování kořisti &#xD;
+Ve vyčištěných lokacích se nepřátelé a kořist znovu objevují ve výrazně snížené frekvenci.&#xD;
+&#xD;
+Stěhovák&#xD;
+Místo rychlého cestování s perkem Stěhovák na 4. úrovni, na tebe nebude působit poškození při překročení nosnosti.</Dest>
+    </String>
+    <String List="1" sID="000075">
+      <EDID>HC_SE_Msg_WellRested</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Well Rested.</Source>
+      <Dest>Cítíš se naprosto svěží.</Dest>
+    </String>
+    <String List="1" sID="000076">
+      <EDID>HC_SE_Msg_LoversEmbraceAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake feeling your Lover's Embrace.</Source>
+      <Dest>Probouzíš se s příjemným pocitem mileneckého objetí.</Dest>
+    </String>
+    <String List="1" sID="000079">
+      <EDID>HC_SE_EffectMsg_CantRun</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Incapacitated from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu neschopnosti.</Dest>
+    </String>
+    <String List="1" sID="00007E">
+      <EDID>HC_SeverlyDehydrated_EffectMsg_Damage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Severely Dehydrated.</Source>
+      <Dest>Jsi ve stavu vážné dehydratace.</Dest>
+    </String>
+    <String List="1" sID="000080">
+      <EDID>HC_Cannibal_Msg_RavenousHunger_DropToRavenousLevel</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>A Dark Craving stirs within you.</Source>
+      <Dest>Zmítají tebou temné chutě.</Dest>
+    </String>
+    <String List="1" sID="000082">
+      <EDID>HC_Cannibal_Msg_RavenousHunger_EatFood</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You crave a different kind of food.</Source>
+      <Dest>Dychtíš po jiném druhu potravy.</Dest>
+    </String>
+    <String List="1" sID="000084">
+      <EDID>HC_CannibalEffect</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>0 = not suffering Ravenous Hunger, 1 = suffering from it. Set by HC_Cannibal_Effect</Source>
+      <Dest>0 = not suffering Ravenous Hunger, 1 = suffering from it. Set by HC_Cannibal_Effect</Dest>
+    </String>
+    <String List="1" sID="036516">
+      <EDID>WorkshopSynthInfiltrator01WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036518">
+      <EDID>WorkshopGunnerAttack02LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036519">
+      <EDID>WorkshopRaiderAttack01WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="03651B">
+      <EDID>WorkshopMirelurkAttack_SI_LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="03651C">
+      <EDID>WorkshopSuperMutantAttack01LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="03651E">
+      <EDID>WorkshopGunnerAttack01LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="03651F">
+      <EDID>WorkshopRaiderAttack02WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036520">
+      <EDID>WorkshopSuperMutantAttack01WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036521">
+      <EDID>WorkshopSynthInfiltrator02LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036522">
+      <EDID>WorkshopMirelurkAttack_SI_WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036523">
+      <EDID>WorkshopRaiderAttack03LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036524">
+      <EDID>WorkshopRaiderAttack02LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036526">
+      <EDID>WorkshopFeralGhoulAttack01LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036528">
+      <EDID>WorkshopGunnerAttack01WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036529">
+      <EDID>WorkshopGunnerAttack02WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="03652A">
+      <EDID>WorkshopSynthInfiltrator01LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="03652B">
+      <EDID>WorkshopRaiderAttack01LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="03652C">
+      <EDID>WorkshopFeralGhoulAttack01WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="03652F">
+      <EDID>WorkshopRaiderAttack03WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036530">
+      <EDID>WorkshopSynthInfiltrator02WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036531">
+      <EDID>WorkshopSuperMutantAttack02WinMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; successfully defended itself.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; se sama úspěšně ubránila.</Dest>
+    </String>
+    <String List="1" sID="036532">
+      <EDID>WorkshopSuperMutantAttack02LoseMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>&lt;Alias=myLocation&gt; suffered damage from an attack.</Source>
+      <Dest>Osada &lt;Alias=myLocation&gt; byla při útoku poškozena.</Dest>
+    </String>
+    <String List="1" sID="036533">
+      <EDID>WorkshopHideHappinessBarAV</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Turn off workshop happiness bar if &gt; 0</Source>
+      <Dest>Turn off workshop happiness bar if &gt; 0</Dest>
+    </String>
+    <String List="1" sID="03654A">
+      <EDID>WorkshopProhibitRename</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>don't add to Provisioner rename alias if &gt; 0</Source>
+      <Dest>don't add to Provisioner rename alias if &gt; 0</Dest>
+    </String>
+    <String List="1" sID="03654B">
+      <EDID>HC_DE_Msg_Fatigue</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Fatigue).</Source>
+      <Dest>Necítíš se dobře (únava).</Dest>
+    </String>
+    <String List="1" sID="03654C">
+      <EDID>HC_HE_Msg_Hungry</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Hungry from lack of food.</Source>
+      <Dest>Z nedostatku jídla máš hlad.</Dest>
+    </String>
+    <String List="1" sID="03654D">
+      <EDID>HC_TE_Msg_Hydrated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are properly hydrated.</Source>
+      <Dest>Pocit žízně byl zažehnán.</Dest>
+    </String>
+    <String List="1" sID="03654F">
+      <EDID>HC_SE_Msg_TiredAfterSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You awake still Tired.</Source>
+      <Dest>Po probuzení se stále cítíš unaveně.</Dest>
+    </String>
+    <String List="1" sID="036551">
+      <EDID>HC_LoversEmbracePerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>After spending some quality time with your special someone, you feel completely relaxed and ready for anything! +2 END, +2 AGI, and +15% XP earned for a limited time.</Source>
+      <Dest>Po strávení krásných chvilek s tím, kdo je tvému srdci nablízku, se cítíš odpočatě a v plné síle na cokoliv! +2 ODO, +2 HBI a +15 % k získaným zkušenostem na omezenou dobu.</Dest>
+    </String>
+    <String List="1" sID="036555">
+      <EDID>HC_DE_Msg_Lethargy</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel ill (Lethargy).</Source>
+      <Dest>Necítíš se dobře (letargie).</Dest>
+    </String>
+    <String List="1" sID="036557">
+      <EDID>HC_Cannibal_Msg_RavenousHunger_EatCorpse</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You succumb to a Dark Craving.</Source>
+      <Dest>Propadáš temným chutím.</Dest>
+    </String>
+    <String List="1" sID="036558">
+      <EDID>HC_TE_Msg_MildlyDehydrated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Mildly Dehydrated from lack of water.</Source>
+      <Dest>Z nedostatku vody jsi ve stavu mírné dehydratace.</Dest>
+    </String>
+    <String List="1" sID="036559">
+      <EDID>HC_SE_Msg_Tired</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Tired from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu únavy.</Dest>
+    </String>
+    <String List="1" sID="03655D">
+      <EDID>HC_OutgoingDamageMult</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Scale the player's outgoing damage by this amount. 1 = standard. 1.5 = 150%.</Source>
+      <Dest>Scale the player's outgoing damage by this amount. 1 = standard. 1.5 = 150%.</Dest>
+    </String>
+    <String List="1" sID="03655E">
+      <EDID>HC_HE_Msg_Fed</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are properly fed.</Source>
+      <Dest>Pocit hladu byl zažehnán.</Dest>
+    </String>
+    <String List="1" sID="036561">
+      <EDID>HC_SE_Msg_Incapacitated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are Incapacitated from lack of sleep.</Source>
+      <Dest>Z nedostatku spánku jsi ve stavu neschopnosti.</Dest>
+    </String>
+    <String List="1" sID="036562">
+      <EDID>HC_DE_Msg_InsomniaReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Insomnia).</Source>
+      <Dest>Tvá nemoc přetrvává (nespavost).</Dest>
+    </String>
+    <String List="1" sID="036563">
+      <EDID>HC_DE_Msg_LethargyReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Lethargy).</Source>
+      <Dest>Tvá nemoc přetrvává (letargie).</Dest>
+    </String>
+    <String List="1" sID="036564">
+      <EDID>HC_DE_Msg_InfectionReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Infection).</Source>
+      <Dest>Tvá nemoc přetrvává (infekce).</Dest>
+    </String>
+    <String List="1" sID="036565">
+      <EDID>HC_DE_Msg_WeaknessReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Weakness).</Source>
+      <Dest>Tvá nemoc přetrvává (slabost).</Dest>
+    </String>
+    <String List="1" sID="036566">
+      <EDID>HC_DE_Msg_NeedMoreFoodReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Parasites).</Source>
+      <Dest>Tvá nemoc přetrvává (paraziti).</Dest>
+    </String>
+    <String List="1" sID="036567">
+      <EDID>HC_DE_Msg_FatigueReset</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your illness persists (Fatigue).</Source>
+      <Dest>Tvá nemoc přetrvává (únava).</Dest>
+    </String>
+    <String List="1" sID="0366B4">
+      <EDID>HC_Antibiotics_SILENT_SCRIPT_ONLY</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Cures sickness.</Source>
+      <Dest>Léčí nemoci.</Dest>
+    </String>
+    <String List="1" sID="0366B6">
+      <EDID>HC_TE_Msg_ParchedAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Parched.</Source>
+      <Dest>Cítíš se lépe, ale stále máš malou žízeň.</Dest>
+    </String>
+    <String List="1" sID="0366B8">
+      <EDID>HC_TE_Msg_DehydratedAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Dehydrated.</Source>
+      <Dest>Cítíš se lépe, ale stále dehydrovaně.</Dest>
+    </String>
+    <String List="1" sID="0366B9">
+      <EDID>HC_TE_Msg_MildlyDehydratedAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Mildly Dehydrated.</Source>
+      <Dest>Cítíš se lépe, ale stále mírně dehydrovaně.</Dest>
+    </String>
+    <String List="1" sID="0366BA">
+      <EDID>HC_TE_Msg_SeverelyDehydratedAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are still Severely Dehydrated from lack of water.</Source>
+      <Dest>Z nedostatku vody jsi stále ve stavu vážné dehydratace.</Dest>
+    </String>
+    <String List="1" sID="0366BC">
+      <EDID>HC_TE_Msg_HydratedAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are properly hydrated.</Source>
+      <Dest>Pocit žízně byl zažehnán.</Dest>
+    </String>
+    <String List="1" sID="0366BF">
+      <EDID>HC_HE_Msg_StarvingAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are still Starving from lack of food.</Source>
+      <Dest>Z nedostatku jídla stále umíráš hlady.</Dest>
+    </String>
+    <String List="1" sID="0366C1">
+      <EDID>HC_HE_Msg_FamishedAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Famished.</Source>
+      <Dest>Cítíš se lépe, ale stále máš velký hlad.</Dest>
+    </String>
+    <String List="1" sID="0366C2">
+      <EDID>HC_DE_Msg_Immunodeficiency</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This rad treatment increases Fatigue &amp; temporarily lowers Immunity.</Source>
+      <Dest>Tato léčba ozáření způsobuje únavu a dočasně snižuje imunitu.</Dest>
+    </String>
+    <String List="1" sID="0366C3">
+      <EDID>HC_HE_Msg_HungryAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Hungry.</Source>
+      <Dest>Cítíš se lépe, ale stále máš hlad.</Dest>
+    </String>
+    <String List="1" sID="0366C4">
+      <EDID>HC_SE_Msg_Caffeinated</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel the caffeine in your veins!</Source>
+      <Dest>Cítíš, jak ti v žilách koluje kofein!</Dest>
+    </String>
+    <String List="1" sID="0366C5">
+      <EDID>HC_HE_Msg_FedAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are properly fed.</Source>
+      <Dest>Pocit hladu byl zažehnán.</Dest>
+    </String>
+    <String List="1" sID="0366C6">
+      <EDID>HC_HE_Msg_PeckishAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Peckish.</Source>
+      <Dest>Cítíš se lépe, ale stále máš malý hlad.</Dest>
+    </String>
+    <String List="1" sID="0366C7">
+      <EDID>HC_HE_Msg_RavenousAfterEating</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Ravenous.</Source>
+      <Dest>Cítíš se lépe, ale stále trpíš hlady.</Dest>
+    </String>
+    <String List="1" sID="0366CA">
+      <EDID>HC_TE_Msg_ThirstyAfterDrinking</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You feel better, but still Thirsty.</Source>
+      <Dest>Cítíš se lépe, ale stále máš žízeň.</Dest>
+    </String>
+    <String List="1" sID="0366D1">
+      <EDID>HC_TutorialFastTravelInstitute</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can now fast travel to Institute from anywhere in the Commonwealth and out of the Institute to the C.I.T. Ruins.</Source>
+      <Dest>Nyní můžeš cestovat do Institutu odkudkoliv z Commonwealthu a vez z Institutu do ruin C.I.T.</Dest>
+    </String>
+    <String List="1" sID="0366D2">
+      <EDID>HC_FastTravelInstitute_To</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can fast travel to Institute from anywhere in the Commonwealth.</Source>
+      <Dest>Do Institutu můžeš rychle cestovat odkudkoliv z Commonwealthu.</Dest>
+    </String>
+    <String List="1" sID="0366D3">
+      <EDID>HC_FastTravelInstitute_Out</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can fast travel out of the Institute to the C.I.T. Ruins.</Source>
+      <Dest>Z Institutu můžeš rychle cestovat do ruin C.I.T.</Dest>
+    </String>
+    <String List="1" sID="0366DE">
+      <EDID>HC_IsCompanionInNeedOfHealing</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>1 = has entered bleedout&#xD;
+0 = has been healed by player, or after being abandoned by player</Source>
+      <Dest>1 = has entered bleedout&#xD;
+0 = has been healed by player, or after being abandoned by player</Dest>
+    </String>
+    <String List="1" sID="0366E0">
+      <EDID>HC_TutorialDownedCompanion</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Your companion needs medical attention. They will head home if they're abandoned without being healed.&#xD;
+</Source>
+      <Dest>Tvůj společník potřebuje lékařskou pomoc. Pokud ho bez vyléčení opustíš, zamíří sám domů.</Dest>
+    </String>
+    <String List="1" sID="0366E1">
+      <EDID>HC_TutorialImmunodeficiency</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Some Rad treatments increase your Fatigue &amp; temporarily lower your Immunity, increasing the risk of Illness.</Source>
+      <Dest>Některé léčby ozáření zvyšují únavu a dočasně snižují imunitu, což zvyšuje riziko onemocnění.</Dest>
+    </String>
+    <String List="1" sID="0366E2">
+      <EDID>HC_TutorialHunger</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Going without food will make you Hungry, negatively affecting your stats. Find food and eat to sate your Hunger.</Source>
+      <Dest>Delší čas bez jídla ti způsobí hlad, což negativně ovlivní tvé vlastnosti. Pro zahnání hladu hledej a konzumuj jídlo.</Dest>
+    </String>
+    <String List="1" sID="0366E3">
+      <EDID>HC_TutorialTiredness</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Going without sleep will make you Tired, negatively affecting your stats. Find a bed and sleep to clear your Tiredness.</Source>
+      <Dest>Delší čas bez spánku ti způsobí únavu, což negativně ovlivní tvé vlastnosti. Pro zbavení se únavy najdi postel a vyspi se.</Dest>
+    </String>
+    <String List="1" sID="0366E4">
+      <EDID>HC_TutorialDiseased</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You are being affected by an Illness. Remove it by taking Antibiotics or visiting doctors.</Source>
+      <Dest>Působí na tebe onemocnění. Zbav se ho pomocí antibiotik nebo návštiv lékaře.</Dest>
+    </String>
+    <String List="1" sID="0366E5">
+      <EDID>HC_TutorialSleepToSave</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Manual, quicksaving &amp; most autosaves are disabled. To save your game, find a bed and sleep.</Source>
+      <Dest>Ruční, rychlé a většina automatických ukládání jsou zakázány. Pro uložení hry najdi postel a vyspi se.</Dest>
+    </String>
+    <String List="1" sID="0366E6">
+      <EDID>HC_TutorialHighRiskEvent</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Certain events, such as taking hits from creatures, using Chems or eating uncooked food, have a chance to make you Ill.</Source>
+      <Dest>Po některých událostech jako například zásahu od stvoření, užití chemikálií nebo požití syrového jídla, máš šanci onemocnět.</Dest>
+    </String>
+    <String List="1" sID="0366E7">
+      <EDID>HC_TutorialNonBedSleep</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can only get a full night's sleep and the benefits that come with it by sleeping in a bed.</Source>
+      <Dest>Dopřát si spánek přes celou noc a získat s tím spojené benefity můžeš pouze při spaní v posteli.</Dest>
+    </String>
+    <String List="1" sID="0366E8">
+      <EDID>HC_TutorialAdrenaline</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Adrenaline is increasing your damage. Stay awake and get more kills to increase the bonus. Sleeping will reduce it.</Source>
+      <Dest>Adrenalin zvyšuje tebou udělované poškození. Pro zvýšení bonusu zůstaň vzhůru více zabíjej. Spánek adrenalin snižuje.</Dest>
+    </String>
+    <String List="1" sID="0366E9">
+      <EDID>HC_TutorialThirst</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Going without water will make you Thirsty, negatively affecting your stats. Find water and drink to quench your Thirst.</Source>
+      <Dest>Delší čas bez vody ti způsobí žízeň, což negativně ovlivní tvé vlastnosti. Pro uhašení žízně hledej a pij vodu.</Dest>
+    </String>
+    <String List="1" sID="0366F4">
+      <EDID>HC_Herbal_Anodyne</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Improves resistance to Insomnia &amp; Weakness.</Source>
+      <Dest>Zlepšuje odolnost proti nespavosti a slabosti.</Dest>
+    </String>
+    <String List="1" sID="0366FF">
+      <EDID>HC_Herbal_Antimicrobial</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Improves resistance to Infection &amp; Parasites.</Source>
+      <Dest>Zlepšuje odolnost proti infekci a parazitům.</Dest>
+    </String>
+    <String List="1" sID="036706">
+      <EDID>HC_Herbal_Stimulant</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Improves resistance to Fatigue &amp; Lethargy.</Source>
+      <Dest>Zlepšuje odolnost proti únavě a spavosti.</Dest>
+    </String>
+    <String List="1" sID="036752">
+      <EDID>HelpMods</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Mods are user generated content created by fans using the Creation Kit and shared on Bethesda.net. To play with Mods, create a Bethesda.net account at https://account.bethesda.net/en/login. Once you log in, you'll be able to browse, download and manage Mods.&#xD;
+&#xD;
+When playing with Mods, the game will create a new set of saved games for the character you decide to use, so your original saves will remain intact. They will appear in the Load menu as [Modded]. If you decide not to play with Mods, you can disable or delete any downloaded Mods and go back to the last, unmodded saved game.&#xD;
+&#xD;
+LOAD ORDER&#xD;
+The Load Order menu allows you to manage the Mods you have downloaded. &#xD;
+&#xD;
+Enable/Disable/Delete: Enable Mods that you want to play with. When you no longer want to play with a Mod, Disable or Delete it.&#xD;
+&#xD;
+Reorder: Reordering Mods allows you to prioritize which Mods load first. Changing the load order is important when running several Mods to resolve conflicts between them. &#xD;
+&#xD;
+For troubleshooting tips and more details, visit our forums at https://community.bethesda.net/community/fallout/.</Source>
+      <Dest>Modifikace jsou uživatelský obsah vytvářený fanoušky za použití Creation Kitu a sdílené skrze Bethesda.net. Pro hraní s modifikacemi si vytvoř Bethesda.net účet na https://account.bethesda.net/en/login. Po přihlášení budeš moci procházet, stahovat a spravovat dostupné modifikace.&#xD;
+&#xD;
+Při hraní s modifikacemi bude hra vytvářet oddělené uložené pozice tak, aby tvé původní pozice vybrané postavy zůstaly bez změny. Takto uložené pozice se zobrazí v nabídce Nahrát jako [Modded]. Pokud se rozhodneš nehrát s modifikacemi, můžeš libovolnou modifikaci zakázat nebo smazat a vrátit se k poslední nemodifikované uložené pozici.&#xD;
+&#xD;
+POŘADÍ NAČTENÍ&#xD;
+Nabídka Pořadí načtení ti umožní spravovat stažené modifikace. &#xD;
+&#xD;
+Povolit / Zakázat / Smazat: Povol modifikaci, se kterou chceš hrát. Pokud s modifikací již hrát nechceš, zakaž ji nebo ji smaž.&#xD;
+&#xD;
+Změna pořadí: Změna pořadí modifikací ti umožní určit prioritu načítaných modifikací. Změna pořadí načtení je důležitá, pokud používáš více modifikací najednou a je třeba řešit jejich vzájemné konflikty. &#xD;
+&#xD;
+Pro pomoc s problémy a více informací navštiv fórum na https://community.bethesda.net/community/fallout/.</Dest>
+    </String>
+    <String List="1" sID="03677E">
+      <EDID>workshop_co_StoreArmor03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="03677F">
+      <EDID>workshop_co_StoreWeapon01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="036782">
+      <EDID>workshop_co_StoreMisc03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="036783">
+      <EDID>workshop_co_StoreMisc01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="036789">
+      <EDID>workshop_co_StoreClinic03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="03678A">
+      <EDID>workshop_co_Bar02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="03678B">
+      <EDID>workshop_co_StoreClothing02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="03678C">
+      <EDID>workshop_co_StoreArmor01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="03678D">
+      <EDID>workshop_co_StoreArmor02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="03678F">
+      <EDID>workshop_co_StoreClinic01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="036791">
+      <EDID>workshop_co_StoreClothing01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="036794">
+      <EDID>workshop_co_StoreWeapon03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="036795">
+      <EDID>workshop_co_StoreMisc02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="036796">
+      <EDID>workshop_co_StoreWeapon02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population.</Source>
+      <Dest>Generuje příjmy na základě celkové populace.</Dest>
+    </String>
+    <String List="1" sID="036798">
+      <EDID>workshop_co_Bar01Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="03679E">
+      <EDID>workshop_co_StoreClothing03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="0367A0">
+      <EDID>workshop_co_Bar03Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="0367A6">
+      <EDID>workshop_co_StoreClinic02Counter</EDID>
+      <REC>COBJ:DESC</REC>
+      <Source>Produces income based on the total population. Makes settlements happier.</Source>
+      <Dest>Generuje příjem na základě velikosti populace. Činí osady spokojenějšími.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
