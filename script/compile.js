@@ -56,7 +56,7 @@ var xmlObject = loadXml(program.args[0]),
     inputParams = xmlObject.SSTXMLRessources.Params[0],
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
     targetDirectory = program.target || path.join(__dirname, '..', 'target/Strings'),
-    targetPrefix = path.join(targetDirectory, inputParams.Addon[0] + '_' + inputParams.Dest[0] + '.');
+    targetPrefix = path.join(targetDirectory, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.');
 
 ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach((type, index) => {
     var strings = inputStrings.
