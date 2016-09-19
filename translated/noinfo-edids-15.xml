@@ -1476,6 +1476,7 @@ CHYBA: Nejsou dostupné žádné nové zaměřovací parametry, navrácení k v�
 &#xD;
 POZNÁMKA: Pracovníci by měli postupovat obezřetně při čištění a úpravě aktivních věží. &#xD;
 Dle závazků plynoucích z pracovní smlouvy vás musíme upozornit, že v případě jakéhokoliv poškození nebo zranění v rámci údržby souhlasíte, že firma nenese žádnou právní zodpově::PŘEPIS::&#xD;
+&#xD;
 </Dest>
     </String>
     <String List="0" sID="028812">
@@ -4434,7 +4435,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="10">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nozdry</Dest>
+      <Dest>Nosní dírky</Dest>
     </String>
     <String List="0" sID="033373">
       <EDID>HumanRace</EDID>
@@ -4944,7 +4945,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="42">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nozdry</Dest>
+      <Dest>Nosní dírky</Dest>
     </String>
     <String List="0" sID="033560">
       <EDID>HumanRace</EDID>
@@ -8376,7 +8377,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="202">RACE:TTGP</REC>
       <Source>Thick Downward</Source>
-      <Dest>Tenké spodní</Dest>
+      <Dest>Tlusté spodní</Dest>
     </String>
     <String List="0" sID="0365F5">
       <EDID>HumanRace</EDID>
@@ -8856,7 +8857,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="161">RACE:TTGP</REC>
       <Source>Eye Black</Source>
-      <Dest>Monokly</Dest>
+      <Dest>Podmalované oči</Dest>
     </String>
     <String List="0" sID="036645">
       <EDID>HumanRace</EDID>
@@ -8898,7 +8899,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="102">RACE:TTGP</REC>
       <Source>Moles - Full Face</Source>
-      <Dest>Znaménka - celý obličj</Dest>
+      <Dest>Znaménka - celý obličej</Dest>
     </String>
     <String List="0" sID="03664C">
       <EDID>HumanRace</EDID>
@@ -8964,7 +8965,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="201">RACE:TTGP</REC>
       <Source>Thick Raised</Source>
-      <Dest>Zenké zvýšené</Dest>
+      <Dest>Tenké zvýšené</Dest>
     </String>
     <String List="0" sID="036657">
       <EDID>HumanRace</EDID>
@@ -9120,13 +9121,13 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="7">RACE:TTGP</REC>
       <Source>Full Eye Black</Source>
-      <Dest>Plné monokly</Dest>
+      <Dest>Plně podmalované oči</Dest>
     </String>
     <String List="0" sID="036671">
       <EDID>HumanRace</EDID>
       <REC id="9">RACE:TTGP</REC>
       <Source>Eye Black</Source>
-      <Dest>Monokly</Dest>
+      <Dest>Podmalované oči</Dest>
     </String>
     <String List="0" sID="036672">
       <EDID>HumanRace</EDID>
@@ -9276,7 +9277,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="159">RACE:TTGP</REC>
       <Source>Full Eye Black</Source>
-      <Dest>Plné monokly</Dest>
+      <Dest>Plně podmalované oči</Dest>
     </String>
     <String List="0" sID="03668B">
       <EDID>HumanRace</EDID>
@@ -9506,7 +9507,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <Source>NOTE - Dogmeat's mult is (re)set to 100 in DogmeatQuest Stage 1 and should be modified there if this default value changes</Source>
       <Dest>NOTE - Dogmeat's mult is (re)set to 100 in DogmeatQuest Stage 1 and should be modified there if this default value changes</Dest>
     </String>
-    <String List="1" sID="01D1E5" Partial="1">
+    <String List="1" sID="01D1E5">
       <EDID>HelpBarterXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can purchase new goods and sell your spoils by bartering with merchants throughout the Commonwealth. &#xD;
@@ -9650,7 +9651,7 @@ Stiskni [Cancel] pro opuštění nabídky.</Dest>
       <Source>Command attempt failed.</Source>
       <Dest>Pokus o příkaz neuspěl.</Dest>
     </String>
-    <String List="1" sID="03148D" Partial="1">
+    <String List="1" sID="03148D">
       <EDID>HelpTerminalsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Access terminals to uncover useful information, unlock secure doors, take control of linked turrets, bots, and spotlights, or play holotape games.&#xD;
@@ -9690,15 +9691,13 @@ Pokud se ti nepodaří pokus o hacknutí, terminál bude uzamčen na 10 vteřin,
 Pro více informací navštiv záznam „Hackování“.&#xD;
 &#xD;
 Holopáskové hry&#xD;
-Na některých terminálech lze hrát holopáskové hry.&#xD;
-Pro hraní holopáskové hry, vstup do terminálu a stiskni [XButton].&#xD;
+Na některých terminálech lze hrát holopáskové hry. Pro hraní holopáskové hry, vstup do terminálu a stiskni [XButton].&#xD;
 &#xD;
 Tímto zobrazíš přehled všech holopáskových her, které máš ve svém inventáři. Vyber hru, kterou chceš hrát pomocí [Click].&#xD;
 &#xD;
-V holopáskové hře pohybuj svojí postavou pomocí [Left]/[Right]/[Up]/[Down].&#xD;
-Pro provedení akce stiskni [Space].</Dest>
+V holopáskové hře pohybuj svojí postavou pomocí [Left]/[Right]/[Up]/[Down]. Pro provedení akce stiskni [Space].</Dest>
     </String>
-    <String List="1" sID="03148F" Partial="1">
+    <String List="1" sID="03148F">
       <EDID>HelpPickpocketingPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>To pickpocket, press [Sneak] and approach your target. When you're within range, press [Activate] to look through their inventory.&#xD;
@@ -9728,7 +9727,7 @@ Můžeš také použít kapsářství pro vkládání předmětů do inventáře
 &#xD;
 Zlepši svoje šance pro úspěšné kapsářství zvýšením schopnosti Obratnost nebo výběrem určitých perků.</Dest>
     </String>
-    <String List="1" sID="0316CD" Partial="1">
+    <String List="1" sID="0316CD">
       <EDID>HelpCrime</EDID>
       <REC>MESG:DESC</REC>
       <Source>There are a number of actions that the decent people of the Commonwealth consider crimes.&#xD;
@@ -9790,7 +9789,7 @@ Pokud tě přistihnou při trestné činnosti, je radno se po nějaký čas vyh�
       <Source>When hacking, you never get locked out of a terminal when things go wrong.</Source>
       <Dest>Při hackování terminálů ti nikdy nebude odepřen přístup, když se věci nepovedou.</Dest>
     </String>
-    <String List="1" sID="031C1E" Partial="1">
+    <String List="1" sID="031C1E">
       <EDID>HelpAiming</EDID>
       <REC>MESG:DESC</REC>
       <Source>While wielding a gun, hold [SecondaryAttack] to aim. &#xD;
@@ -9811,19 +9810,18 @@ For more information about mods, see the "Mods" entry.</Source>
 &#xD;
 Míření ti poskytuje lepší kontrolu nad zbraní. Zvyšuje přesnost, snižuje rychlost pohybu a v závislosti na mířidle může poskytnout menší přiblížení cíle.&#xD;
 &#xD;
-Zbraně s optikou poskytují větší přiblížení, ale budou se kývat.&#xD;
-Pro snížení kývání při míření přes optiku přidrž [Steady] k zadržení dechu. Zadržení dechu vyrovná tvojí optiku, ale průběžně spotřebovává Akční Body.&#xD;
+Zbraně s optikou poskytují větší přiblížení, ale budou se kývat. Pro snížení kývání při míření přes optiku přidrž [Steady] k zadržení dechu. Zadržení dechu vyrovná tvojí optiku, ale průběžně spotřebovává Akční Body.&#xD;
 &#xD;
 Různé druhy zbraňových modifikací mohou ovlivnit tvé míření:&#xD;
 &#xD;
--	Dlouhé hlavně mohou zvýšit tvou přesnost&#xD;
--	Reflexní mířidla, přidaná k optice, urychlují míření&#xD;
--	Těžší modifikace zvýšují čas potřebný pro míření&#xD;
--	Optika zlepšuje přiblížení&#xD;
+- Dlouhé hlavně mohou zvýšit tvou přesnost&#xD;
+- Reflexní mířidla, přidaná k optice, urychlují míření&#xD;
+- Těžší modifikace zvýšují čas potřebný pro míření&#xD;
+- Optika zlepšuje přiblížení&#xD;
 &#xD;
 Pro více informací o modifikacích otevři záznam „Modifikace“.</Dest>
     </String>
-    <String List="1" sID="031C5E" Partial="1">
+    <String List="1" sID="031C5E">
       <EDID>HelpRadiation</EDID>
       <REC>MESG:DESC</REC>
       <Source>Two centuries after the advent of nuclear war, radiation is still a very real danger in the Commonwealth.&#xD;
@@ -9849,12 +9847,11 @@ Rady můžeš získat konzumací zamořeného jídla a nápojů nebo vystavením
 &#xD;
 Množství radů, které momentálně dostáváš, bude zobrazeno nad ukazatelem zdraví. Pokud jsi v energozbroji, množství radů, které dostáváš, bude zobrazeno na budíku „Rady“ vedle tvých Bodů zdraví.&#xD;
 &#xD;
-Můžeš zpomalit hromadění radů zvýšením tvé odolnosti vůči radiaci. Svojí současnou odolnost vůči radiaci nalezneš v sekci Stav tvého Pip-Boye, v záložce STAT., vedle symbolu radiace.&#xD;
-Rad-X, oblečení, zbroje a některé perky mohou zvýšit tvou odolnost vůči radiaci.&#xD;
+Můžeš zpomalit hromadění radů zvýšením tvé odolnosti vůči radiaci. Svojí současnou odolnost vůči radiaci nalezneš v sekci Stav tvého Pip-Boye, v záložce STAT., vedle symbolu radiace. Rad-X, oblečení, zbroje a některé perky mohou zvýšit tvou odolnost vůči radiaci.&#xD;
 &#xD;
 Pokud nebude léčeno, je radiační poškození stálé. Použij RadAway nebo navštiv lékaře pro obnovu zdraví ztraceného díky radům.</Dest>
     </String>
-    <String List="1" sID="031FC3" Partial="1">
+    <String List="1" sID="031FC3">
       <EDID>HelpLegendaryEnemies</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you travel across the Commonwealth, you may find yourself facing off against Legendary enemies.&#xD;
@@ -9868,7 +9865,7 @@ Legendární nepřátelé jsou obtížnější než jejich standardní obdoby, a
 &#xD;
 Legendární předměty jsou silnější verze standardního vybavení, nicméně na rozdíl od standardních zbraní a zbroje nemohou být šrotovány.</Dest>
     </String>
-    <String List="1" sID="031FD9" Partial="1">
+    <String List="1" sID="031FD9">
       <EDID>HelpPipBoyInventoryPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Pip-Boy Inventory (INV) tab contains information on all the items you're currently carrying, as well as your gear's total weight and the number of caps you've acquired.&#xD;
@@ -9982,7 +9979,7 @@ Všechny zakoupené nebo postavené modifikace, které nejsou připojené k pře
 Munice&#xD;
 Sekce Munice zobrazuje veškerou munici, kterou momentálně máš ve svém inventáři.</Dest>
     </String>
-    <String List="1" sID="032020" Partial="1">
+    <String List="1" sID="032020">
       <EDID>HelpCookingXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cooking stations allow you to craft food items which, when consumed, can boost stats, restore lost health, or grant temporary beneficial effects. All cooking recipes require ingredients, which can be purchased or found throughout the world. &#xD;
@@ -10016,12 +10013,11 @@ Pokud postrádáš ingredience vyžadované konkrétním receptem, vyber jej v 
 Označené ingredience budou mít ve světě vedle svého názvu malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Ingredience můžeš skladovat v kuchařských stanovištích tak,&#xD;
-že se přiblížíš a stiskneš [XButton:16] pro otevření nabídky k přesunu do stanoviště. Při vaření podle receptu se prioritně spotřebují ingredience uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
+Ingredience můžeš skladovat v kuchařských stanovištích tak, že se přiblížíš a stiskneš [XButton:16] pro otevření nabídky k přesunu do stanoviště. Při vaření podle receptu se prioritně spotřebují ingredience uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
 Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="03202B" Partial="1">
+    <String List="1" sID="03202B">
       <EDID>HelpControlsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>[Forward] - Walk forward&#xD;
@@ -10079,7 +10075,7 @@ Numerické klávesy – Použít oblíbený předmět&#xD;
 &#xD;
 Kolečko myši nebo [TogglePOV] – Přepínání mezi pohledem 1. a 3. osoby</Dest>
     </String>
-    <String List="1" sID="03203B" Partial="1">
+    <String List="1" sID="03203B">
       <EDID>HelpHolotapesXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your Pip-Boy can be used to play any holotapes you discover.&#xD;
@@ -10101,7 +10097,7 @@ Vyber holopásku pomocí [LeftStick] a stiskni [Accept] pro zahájení přehráv
 &#xD;
 Některé holopásky také obsahují hry, které se dají hrát na určitých terminálech nebo ve tvém Pip-Boyovi. Viz záznam „Holopáskové hry“ pro více informací.</Dest>
     </String>
-    <String List="1" sID="032045" Partial="1">
+    <String List="1" sID="032045">
       <EDID>HelpWeaponsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Commonwealth is a dangerous place to travel unarmed. Luckily, you'll find plenty of weapons scattered throughout the world and available for purchase in settlements. &#xD;
@@ -10205,7 +10201,7 @@ Většinu zbraní je možno modifikovat. Pro zjištění, které modifikace jsou
 &#xD;
 Navštiv záznam „Modifikace“ pro více informací ohledně stavby modifikací.</Dest>
     </String>
-    <String List="1" sID="032059" Partial="1">
+    <String List="1" sID="032059">
       <EDID>HelpPersuade</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you talk to people throughout the Commonwealth, you may come across opportunities to persuade others to provide you with information or support or even pony up additional caps. &#xD;
@@ -10216,14 +10212,12 @@ You can improve your chances to successfully persuade others by increasing your 
 </Source>
       <Dest>Při mluvení s lidmi po celém Commonwealthu můžeš narazit na příležitost přesvědčit ostatní, aby ti poskytli informace, podporu nebo dokonce vyplázli zátky navíc. &#xD;
 &#xD;
-Příležitost k přesvědčování se objeví během konverzace&#xD;
-jako žlutá, oranžová nebo červená dialogová možnost. &#xD;
-Barva dialogové možnosti indikuje její obtížnost:&#xD;
-žlutá - lehká, oranžová - středně náročná, červená - těžká.&#xD;
+Příležitost k přesvědčování se objeví během konverzace jako žlutá, oranžová nebo červená dialogová možnost. Barva dialogové možnosti indikuje její obtížnost: žlutá - lehká, oranžová - středně náročná, červená - těžká.&#xD;
 &#xD;
-Svojí šanci na úspěšné přesvědčování druhých můžeš zlepšit zvýšením atributu Charisma nebo výběrem některých perků.</Dest>
+Svojí šanci na úspěšné přesvědčování druhých můžeš zlepšit zvýšením atributu Charisma nebo výběrem některých perků.&#xD;
+</Dest>
     </String>
-    <String List="1" sID="03205D" Partial="1">
+    <String List="1" sID="03205D">
       <EDID>HelpVertibirdsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Enter a friendly Vertibird by pressing [Activate]. Fire the Vertbird's mini-gun by pressing [PrimaryAttack].&#xD;
@@ -10249,7 +10243,7 @@ Když se rozhodneš přivolat vertibird, ujisti se, že místo, na které hází
 &#xD;
 Přivolanému vertibirdu může být nakázáno přistát stisknutím [YButton] nebo můžeš naskočit stisknutím [Activate].</Dest>
     </String>
-    <String List="1" sID="032083" Partial="1">
+    <String List="1" sID="032083">
       <EDID>HelpPipBoyDataXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Head to the Data tab in the Pip-Boy to check out your active and available quests, the state of your workshop locations, and tons of stats on your time in the Commonwealth.&#xD;
@@ -10290,8 +10284,7 @@ Všechny tvé momentálně aktivní, dostupné a ukončené úkoly jsou vypsány
  &#xD;
 Chceš-li zobrazit aktuální cíl pro daný úkol, vyber jej pomocí [LeftStick]. Jeho současný cíl (stejně jako cíle již splněné) se zobrazí vpravo. &#xD;
 &#xD;
-Můžeš označit zvýrazněný úkol jako aktivní stisknutím [Accept].&#xD;
-Cíle úkolu pro všechny tvé aktivní úkoly se zobrazí na mapě a na kompasu.&#xD;
+Můžeš označit zvýrazněný úkol jako aktivní stisknutím [Accept]. Cíle úkolu pro všechny tvé aktivní úkoly se zobrazí na mapě a na kompasu.&#xD;
 &#xD;
 Chceš-li vidět polohu aktuálního cíle daného úkolu na mapě, zvýrazni jej a stiskni [XButton].&#xD;
 &#xD;
@@ -10316,7 +10309,7 @@ Stiskni [XButton] pro zobrazení vybrané dílny na mapě.&#xD;
 Statistiky&#xD;
 Sekce statistiky obsahuje nejrůznější možné údaje o tvých činnostech za veškerý čas strávený v Commonwealthu.</Dest>
     </String>
-    <String List="1" sID="03209F" Partial="1">
+    <String List="1" sID="03209F">
       <EDID>HelpPerksPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Perks are special abilities that can affect everything from the damage you deal in combat, to your ability to persuade others, to new and questionably moral methods of healing yourself. &#xD;
@@ -10354,7 +10347,7 @@ Mnoho perků má několik úrovní, které poskytují nové nebo efektivnější
 &#xD;
 Pro výstup z přehledu perků stiskni [Cancel].</Dest>
     </String>
-    <String List="1" sID="0320A7" Partial="1">
+    <String List="1" sID="0320A7">
       <EDID>HelpWorkshopResourcesSettlements</EDID>
       <REC>MESG:DESC</REC>
       <Source>While you can use the workshop to simply modify the environment, you can also turn your workshops into thriving settlements. &#xD;
@@ -10478,7 +10471,7 @@ Spojování tvých osad pomocí zásobovacích tras poskytuje následující vý
 &#xD;
 - Spojené dílny mohou sdílet zdroje. To znamená, že pokud máš nadbytek jídla v jedné osadě, můžeš ji spojit s osadou, která má jídla nedostatek.</Dest>
     </String>
-    <String List="1" sID="0320B4" Partial="1">
+    <String List="1" sID="0320B4">
       <EDID>HelpSprinting</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [Sprint] to sprint.&#xD;
@@ -10492,7 +10485,7 @@ Sprintování spotřebovává Akční body (AB). Pokud ti dojdou Akční body, n
 &#xD;
 Můžeš snížit rychlost, kterou sprintování spotřebovává tvoje AB, zvýšením vlastnosti Odolnost.</Dest>
     </String>
-    <String List="1" sID="0320C8" Partial="1">
+    <String List="1" sID="0320C8">
       <EDID>HelpSleeping</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can sleep in any unowned bed, cot, mat, or sleeping bag.&#xD;
@@ -10506,7 +10499,7 @@ Spánek obnoví všechny ztracené Body zdraví a obnoví ochromené části tě
 &#xD;
 Spánek v posteli, kterou vlastníš, dočasně poskytne „Svěží“ perk, který zvyšuje počet získávaných zkušeností.</Dest>
     </String>
-    <String List="1" sID="0320CF" Partial="1">
+    <String List="1" sID="0320CF">
       <EDID>HelpCompanionsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you travel the Commonwealth, you'll have the opportunity to enlist Companions to help you on your journey. Companions can aid you in combat, haul gear, and if they like you enough, provide you with special perks.&#xD;
@@ -10620,7 +10613,7 @@ Když zařídíš, aby tě měl tvůj společník dostatečně rád, poskytne ti
 &#xD;
 Učiň však dostatek rozhodnutí, se kterými tvůj společník nesouhlasí a odmítne s tebou cestovat. Natrvalo.</Dest>
     </String>
-    <String List="1" sID="0320D3" Partial="1">
+    <String List="1" sID="0320D3">
       <EDID>HelpTerminalsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Access terminals to uncover useful information, unlock secure doors, take control of linked turrets, bots, and spotlights, or play holotape games.&#xD;
@@ -10660,15 +10653,13 @@ Pokud se ti nepodaří pokus o hacknutí, terminál bude uzamčen na 10 vteřin,
 Pro více informací navštiv záznam „Hackování“.&#xD;
 &#xD;
 Holopáskové hry&#xD;
-Na některých terminálech lze hrát holopáskové hry.&#xD;
-Pro hraní holopáskové hry, vstup do terminálu a stiskni [XButton].&#xD;
+Na některých terminálech lze hrát holopáskové hry. Pro hraní holopáskové hry, vstup do terminálu a stiskni [XButton].&#xD;
 &#xD;
 Tímto zobrazíš přehled všech holopáskových her, které máš ve svém inventáři. Vyber hru, kterou chceš hrát pomocí [Leftstick] a stiskni [Accept].&#xD;
 &#xD;
-V holopáskové hře pohybuj svojí postavou pomocí [_Dpad_None].&#xD;
-Pro provedení akce stiskni [Activate].</Dest>
+V holopáskové hře pohybuj svojí postavou pomocí [_Dpad_None]. Pro provedení akce stiskni [Activate].</Dest>
     </String>
-    <String List="1" sID="0320DE" Partial="1">
+    <String List="1" sID="0320DE">
       <EDID>HelpDogmeat</EDID>
       <REC>MESG:DESC</REC>
       <Source>Dogmeat is a special companion who can accompany you as you travel across the Commonwealth. &#xD;
@@ -10703,6 +10694,7 @@ Ačkoliv Žeryk nemůže používat zbraně, během souboje se bude snažit napa
 &#xD;
 Nabídka společníka&#xD;
 Až na pár výjimek není Žeryk nijak odlišný od standardního společníka. Můžeš s ním vyměňovat předměty, vybavit ho určitou kosmetickou výstrojí (šátky, obojky atd.) a vydávat mu příkazy.&#xD;
+&#xD;
 Pro více informací o tom, jak fungují standardní společníci, navštiv záznam „Společníci“.&#xD;
 &#xD;
 V čem se ale Žeryk liší, je nabídka „Mluvit - [MultiActivateY]“. Z této nabídky můžeš:&#xD;
@@ -10713,7 +10705,7 @@ V čem se ale Žeryk liší, je nabídka „Mluvit - [MultiActivateY]“. Z tét
 &#xD;
 Když propustíš Žeryka, můžeš mu říct, aby na tebe počkal v kterékoliv přátelské dílně. Jinak se vrátí na místo, kde přebýval naposledy.</Dest>
     </String>
-    <String List="1" sID="0320EA" Partial="1">
+    <String List="1" sID="0320EA">
       <EDID>HelpFavoritesXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Speedily access items or gear by adding them to the Favorites menu.  &#xD;
@@ -10731,7 +10723,7 @@ Při svých cestách po světě pak můžeš kdykoliv vyvolat nabídku Oblíben�
 &#xD;
 Pro odstranění předmětu z oblíbených, otevři záložku Inventář, zvýrazni předmět, který si přeješ odstranit a stiskni [RShoulder]. Označ předmět v nabídce Oblíbené pomocí [_Dpad_None] a stiskni [Accept].</Dest>
     </String>
-    <String List="1" sID="0320F4" Partial="1">
+    <String List="1" sID="0320F4">
       <EDID>HelpArmorPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Stay alive longer by wearing Armor. Armor provides Damage Resistance, which reduces the damage you'll suffer from incoming attacks. You can purchase armor from merchants or loot it from your fallen foes.&#xD;
@@ -10799,7 +10791,7 @@ Zbroj je velmi modifikovatelná. V ponku na úpravu zbroje zjisti, které modifi
 &#xD;
 Pro více informací ohledně tvorby modifikací se podívej do záznamu „Modifikace“.</Dest>
     </String>
-    <String List="1" sID="032148" Partial="1">
+    <String List="1" sID="032148">
       <EDID>HelpCarryWeightPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>The amount of weight you can carry is determined by your Strength attribute. The higher your Strength, the more you can carry. You can increase this amount further by taking certain perks or wearing Power Armor.&#xD;
@@ -10821,7 +10813,7 @@ Pro zahození předmětu stiskni [PipBoy] pro vstup do Pip-Boye a otevři zálo�
 &#xD;
 Předměty, které zahodíš, po nějakou dobu zůstanou na místě, ale pokud je necháš ležet delší čas, je pravděpodobné, že zmizí, až se pro ně nakonec vrátíš.</Dest>
     </String>
-    <String List="1" sID="03216C" Partial="1">
+    <String List="1" sID="03216C">
       <EDID>HelpLeveling</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you complete quests, defeat enemies, and explore the world, you'll earn Experience Points (XP). Once you've gained sufficient XP, your level will increase. Every level you gain provides:&#xD;
@@ -10841,7 +10833,7 @@ Svůj nový perk si můžeš vybrat okamžitě v přehledu perků, nebo si výb�
 &#xD;
 Pro otevření přehledu perků stiskni [PipBoy] pro vstup do Pip-Boye a poté stiskni [YButton].</Dest>
     </String>
-    <String List="1" sID="032176" Partial="1">
+    <String List="1" sID="032176">
       <EDID>HelpAttacking</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [PrimaryAttack] to attack with a gun or melee weapon. &#xD;
@@ -10877,9 +10869,10 @@ Stiskni [Melee] pro provedení silného útoku. Silný útok spotřebovává Ak�
 Odkládání zbraně&#xD;
 Cestování s vytaženou zbraní může nepříznivě ovlivnit rychlost pohybu. Čím těžší zbraň držíš, tím pomaleji se pohybuješ. Přidrž [ReadyWeapon] pro uložení zbraně do pouzdra a obnovení rychlosti.&#xD;
 &#xD;
-Pro opětovné tasení zbraně stiskni [PrimaryAttack].</Dest>
+Pro opětovné tasení zbraně stiskni [PrimaryAttack].&#xD;
+</Dest>
     </String>
-    <String List="1" sID="032199" Partial="1">
+    <String List="1" sID="032199">
       <EDID>HelpPerksXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Perks are special abilities that can affect everything from the damage you deal in combat, to your ability to persuade others, to new and questionably moral methods of healing yourself. &#xD;
@@ -10917,7 +10910,7 @@ Mnoho perků má několik úrovní, které poskytují nové nebo efektivnější
 &#xD;
 Pro výstup z přehledu perků stiskni [Cancel].</Dest>
     </String>
-    <String List="1" sID="03219F" Partial="1">
+    <String List="1" sID="03219F">
       <EDID>HelpScrapping</EDID>
       <REC>MESG:DESC</REC>
       <Source>Scrapping allows you to break down unwanted weapons and armor into components. You can also scrap structures and objects in workshop locations.&#xD;
@@ -10935,7 +10928,7 @@ Legendární předměty nelze sešrotovat.&#xD;
 &#xD;
 Pro sešrotování stavby v oblasti dílny, vstup do nabídky dílny přidržením [TogglePOV], zvýrazni stavbu, kterou si přeješ rozebrat a stiskni [XButton]. Výsledné komponenty budou umístěny do inventáře dílny.</Dest>
     </String>
-    <String List="1" sID="0321AB" Partial="1">
+    <String List="1" sID="0321AB">
       <EDID>HelpContainerXBox</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Commonwealth has a variety of containers to discover and loot. Some containers may be locked, requiring a bobby pin, key, or terminal to access.&#xD;
@@ -11001,7 +10994,7 @@ Pokud tě někdo zpozoruje, jak bereš cizí předmět, pokusí se jej jeho vlas
 VAROVÁNÍ!&#xD;
 Nezanechávej svoje předměty v úložných prostorách, které ti nepatří. Nemusely by tam být, až se vrátíš. Pokud chceš mít místo, kde můžeš skladovat předměty nastálo, uvažuj o koupi domu nebo získej pokoj v osadě.</Dest>
     </String>
-    <String List="1" sID="0321AD" Partial="1">
+    <String List="1" sID="0321AD">
       <EDID>HelpRadioStationsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Any radio station broadcasting in your current area will be displayed on the Radio tab in the Pip-Boy. To listen in, use [LeftStick] to select a station and press [Accept].&#xD;
@@ -11011,7 +11004,7 @@ While a station is active, you can enter or exit the Pip-Boy and your selected s
 &#xD;
 Dokud je stanice aktivní, můžeš zapínat a vypínat Pip-Boye a vybraná stanice bude pokračovat v hraní.</Dest>
     </String>
-    <String List="1" sID="0321B1" Partial="1">
+    <String List="1" sID="0321B1">
       <EDID>HelpChemistryStationPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cook up homemade chems at a Chemistry Station. Chems can provide a variety of stat bonuses and beneficial effects, even restore lost health, but use them too frequently and you risk addiction. &#xD;
@@ -11053,7 +11046,7 @@ Můžeš také skladovat přísady v chemické laboratoři přistoupením ke sta
 &#xD;
 Pro více informací o používání Nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="0321CA" Partial="1">
+    <String List="1" sID="0321CA">
       <EDID>HelpPipBoyRadioXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Any radio station broadcasting in your current area will be displayed on the Radio tab.&#xD;
@@ -11063,12 +11056,11 @@ To tune to a station, select it with [LeftStick] and press [Accept]. While a sta
 To turn off a station, select it again and press [Accept].</Source>
       <Dest>Jakákoliv radiostanice, která vysílá ve tvém okolí, se zobrazí v záložce Rádio.&#xD;
 &#xD;
-Pro naladění radiostanice ji vyber pomocí [LeftStick] a stiskni [Accept]. &#xD;
-Dokud je stanice aktivní, můžeš zapínat a vypínat Pip-Boye a vybraná stanice bude pokračovat v hraní.&#xD;
+Pro naladění radiostanice ji vyber pomocí [LeftStick] a stiskni [Accept]. Dokud je stanice aktivní, můžeš zapínat a vypínat Pip-Boye a vybraná stanice bude pokračovat v hraní.&#xD;
 &#xD;
 Pro vypnutí radiostanice ji opět vyber pomocí [Accept].</Dest>
     </String>
-    <String List="1" sID="0321D3" Partial="1">
+    <String List="1" sID="0321D3">
       <EDID>HelpPipBoyMapPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Use the Map tab to get a bird's-eye view of the Commonwealth on the World Map or check out a local map of your current location. To switch between map views, press [XButton].&#xD;
@@ -11108,7 +11100,7 @@ Na mapu můžeš také umístit vlastní značky, které se pak při tvých cest
 &#xD;
 Pro vytvoření vlastní značky umísti kurzor na požadovanou lokaci a stiskni [Click]. Pro odstranění značky pohni kurzorem na prázdné místo, stiskni [Click] a poté vyber „Odstranit značku“.</Dest>
     </String>
-    <String List="1" sID="032235" Partial="1">
+    <String List="1" sID="032235">
       <EDID>HelpPipBoyDataPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Head to the Data tab in the Pip-Boy to check out your active and available quests, the state of your workshop locations, and tons of stats on your time in the Commonwealth.&#xD;
@@ -11170,7 +11162,7 @@ Stiskni [XButton] pro zobrazení vybrané dílny na mapě.&#xD;
 Statistiky&#xD;
 Sekce statistiky obsahuje nejrůznější možné údaje o tvých činnostech za veškerý čas, strávený v Commonwealthu.</Dest>
     </String>
-    <String List="1" sID="03223D" Partial="1">
+    <String List="1" sID="03223D">
       <EDID>HelpHealingLimbs</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your limbs, head, and torso can take damage during combat. If they take too much damage, they'll become crippled. &#xD;
@@ -11184,7 +11176,7 @@ Pro léčbu zlomených částí těla použij stimpak. Toto vyléčí všechny p
  &#xD;
 Momentální stav svých částí těla si můžeš prohlédnout v Pip-Boyovi v sekci Status v záložce Stav. Vault Boy uprostřed obrazovky ukáže jakékoliv poškození částí těla. Malé ukazatele kolem Vault Boye představují momentální stav každé části.</Dest>
     </String>
-    <String List="1" sID="032255" Partial="1">
+    <String List="1" sID="032255">
       <EDID>HelpLockpickingXBox</EDID>
       <REC>MESG:DESC</REC>
       <Source>When faced with a locked door or container, you can attempt to pick the lock.&#xD;
@@ -11222,7 +11214,7 @@ Některé zámky vyžadují klíč nebo nemohou být otevřeny skrze otevírán�
 &#xD;
 Zámky, které jsou v cizím vlastnictví budou zobrazovat červený text. Otevírání zámku, na cizích dveřích nebo úložném prostoru je trestný čin. Pokud tě odhalí, svědci poblíž se stanou nepřátelskými.</Dest>
     </String>
-    <String List="1" sID="0322C0" Partial="1">
+    <String List="1" sID="0322C0">
       <EDID>HelpHolotapesPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your Pip-Boy can be used to play any holotapes you discover. &#xD;
@@ -11244,7 +11236,7 @@ Vyber holopásku pomocí [Click]. Poté můžeš opustit Pip-Boye a holopáska s
 &#xD;
 Některé holopásky také obsahují hry, které se dají hrát na určitých terminálech nebo ve tvém Pip-Boyovi. Viz záznam „Holopáskové hry“ pro více informací.</Dest>
     </String>
-    <String List="1" sID="0322C5" Partial="1">
+    <String List="1" sID="0322C5">
       <EDID>HelpSPECIAL</EDID>
       <REC>MESG:DESC</REC>
       <Source>The SPECIAL attributes define your natural abilities, affecting everything from the prices you'll pay for goods to how quickly you gain Experience Points.&#xD;
@@ -11282,8 +11274,7 @@ Note that temporary SPECIAL bonuses (like those from chems, clothes, etc.) don't
       <Dest>SPECIAL vlastnosti definují tvé přirozené schopnosti, které ovlivňují vše, od cen, které zaplatíš za zboží, až po rychlost, se kterou získáváš zkušenosti.&#xD;
 &#xD;
 Síla&#xD;
-Čím vyšší je tvá síla,&#xD;
-tím více zátěže uneseš a jsi efektivnější v boji zblízka.&#xD;
+Čím vyšší je tvá síla, tím více zátěže uneseš a jsi efektivnější v boji zblízka.&#xD;
 &#xD;
 Vnímání&#xD;
 Vysoké vnímání zvyšuje tvou šanci na zásah ve V.A.T.S. a od jaké vzdálenosti se začnou nepřátelé zobrazovat na kompasu.&#xD;
@@ -11313,7 +11304,7 @@ Většina perků má požadavek na určitou hodnotu SPECIAL vlastností. Nebude�
 &#xD;
 Povšimni si, že dočasné bonusy ke SPECIAL vlastnostem (jako ty získané z chemikálií, oblečení atd.) se nezapočítávají k hodnotám, vyžadovaným perky.</Dest>
     </String>
-    <String List="1" sID="032310" Partial="1">
+    <String List="1" sID="032310">
       <EDID>HelpHealing</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Commonwealth can be hazardous to your health. You can restore lost health through a variety of methods.&#xD;
@@ -11329,14 +11320,13 @@ Sleeping also fully restores any lost health and limb damage.</Source>
 &#xD;
 Stimpaky během několika vteřin obnoví 30 % tvého celkového zdraví a také z 30 % uzdravují poškozené části těla. Některé perky mohou zvýšit množství zdraví, které stimpaky obnovují.&#xD;
 &#xD;
-Mnoho jídel obnovuje malé množství zdraví, ale většina jídla také způsobuje radiační poškození, které celkové zdraví snižuje.&#xD;
-Zdraví, ztracené v důsledku radiačního poškození, můžeš obnovit návštěvou u doktora nebo aplikací RadAway.&#xD;
+Mnoho jídel obnovuje malé množství zdraví, ale většina jídla také způsobuje radiační poškození, které celkové zdraví snižuje. Zdraví, ztracené v důsledku radiačního poškození, můžeš obnovit návštěvou u doktora nebo aplikací RadAway.&#xD;
 &#xD;
 Většina osad má také svého místního doktora, který je schopen tě za poplatek plně vyléčit včetně poškozených částí těla.&#xD;
 &#xD;
 Spánek také plně obnoví ztracené zdraví a poškozené části těla.</Dest>
     </String>
-    <String List="1" sID="032345" Partial="1">
+    <String List="1" sID="032345">
       <EDID>HelpVertibirdsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Enter a friendly Vertibird by pressing [Activate]. Fire the Vertbird's mini-gun by pressing [PrimaryAttack].&#xD;
@@ -11362,7 +11352,7 @@ Když se rozhodneš přivolat vertibird, ujisti se, že místo, na které hází
 &#xD;
 Přivolanému vertibirdu může být nakázáno přistát stisknutím [YButton] nebo můžeš naskočit stisknutím [Activate].</Dest>
     </String>
-    <String List="1" sID="03234F" Partial="1">
+    <String List="1" sID="03234F">
       <EDID>HelpModdingStationsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Mods are special attachments or adjustments made to weapons, armor, and Power Armor that can increase the item's stats, change its material, or provide beneficial effects. &#xD;
@@ -11464,7 +11454,7 @@ Ve stanovištích úprav můžeš skladovat předměty. Přibliž se a stiskni [
 &#xD;
 Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="032354" Partial="1">
+    <String List="1" sID="032354">
       <EDID>HelpFastTravelPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can quickly return to any location you've previously visited by fast traveling. &#xD;
@@ -11477,9 +11467,10 @@ You cannot fast travel while you are in combat, if you are carrying too much wei
 &#xD;
 Pro rychlé cestování stiskni [PipBoy] pro vstup do Pip-Boye a použij [Click] k otevření záložky Mapa. Vyber lokaci, do které si přeješ cestovat pomocí [Click] a pak zvol „Rychlé cestování“.&#xD;
 &#xD;
-Rychle nelze cestovat, pokud se účastníš boje, pokud je tvá nosnost nad limit (přetížení) nebo z většiny interiérů.</Dest>
+Rychle nelze cestovat, pokud se účastníš boje, pokud je tvá nosnost nad limit (přetížení) nebo z většiny interiérů.&#xD;
+</Dest>
     </String>
-    <String List="1" sID="032356" Partial="1">
+    <String List="1" sID="032356">
       <EDID>HelpWorkshopMenuPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Workshops allow you to mold the environment around them: building new objects and structures, adjusting the location and orientation of existing ones, or scrapping items you don't want.&#xD;
@@ -11567,7 +11558,7 @@ Pro manipulaci s novými nebo existujícími objekty můžeš použít tato ovl�
 &#xD;
 - [Activate] umístí objekt na jeho novou pozici. [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší budování nového objektu.</Dest>
     </String>
-    <String List="1" sID="032358" Partial="1">
+    <String List="1" sID="032358">
       <EDID>HelpDamage</EDID>
       <REC>MESG:DESC</REC>
       <Source>The effectiveness of your attacks is determined by your weapon's damage type. There are four damage types:&#xD;
@@ -11595,8 +11586,7 @@ Your Damage Resistance is displayed as a number. If that number is equal to the 
 &#xD;
 Čím vyšší je odolnost vůči zranění tvého cíle proti danému druhu poškození, tím méně zranění utrpí z příchozího útoku. Určité perky ti dovolí vidět odolnosti cíle, a umožní ti tak vybrat vhodnou zbraň pro danou situaci.&#xD;
 &#xD;
-Druh a množství poškození, které tvé zbraně působí,&#xD;
-jsou k nahlédnutí v sekci Zbraně v záložce Inventář (INV).&#xD;
+Druh a množství poškození, které tvé zbraně působí, jsou k nahlédnutí v sekci Zbraně v záložce Inventář (INV).&#xD;
 &#xD;
 Vlastní odolnost vůči zranění můžeš zvýšit nošením zbroje nebo výběrem určitých perků.&#xD;
 &#xD;
@@ -11604,7 +11594,7 @@ Pro přehled tvého současného celkového součtu odolností, zamiř do sekce 
 &#xD;
 Tvá odolnost vůči zranění je zobrazena jako číslo. Pokud je toto číslo rovno hodnotě poškození příchozího útoku, zranění, které obdržíš, bude sníženo o 50 %.</Dest>
     </String>
-    <String List="1" sID="0323AC" Partial="1">
+    <String List="1" sID="0323AC">
       <EDID>HelpPipBoyControlsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>[Click] or [Forward]/[Back] - Change tabs&#xD;
@@ -11626,7 +11616,7 @@ Tvá odolnost vůči zranění je zobrazena jako číslo. Pokud je toto číslo 
 &#xD;
 [Cancel] - Odejít</Dest>
     </String>
-    <String List="1" sID="0323B2" Partial="1">
+    <String List="1" sID="0323B2">
       <EDID>HelpSneaking</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [Sneak] to sneak. Sneaking allows you to avoid detection by enemies. &#xD;
@@ -11710,7 +11700,7 @@ Zbroj&#xD;
  &#xD;
 Nepřátelé budou také reagovat na hluk v prostředí. Pokud se ti podaří spustit explozi nebo past bez povšimnutí, můžeš tak odlákat nic netušící nepřátele.</Dest>
     </String>
-    <String List="1" sID="0323BD" Partial="1">
+    <String List="1" sID="0323BD">
       <EDID>HelpVATSPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Vault-Tec Assisted Targeting System - or V.A.T.S. - allows you to queue up a series of attacks against nearby enemies.&#xD;
@@ -11738,8 +11728,7 @@ Critical Hits&#xD;
 Every successful hit made in V.A.T.S. fills your Critical meter. Once full, you can press [ApplyCritical] to unleash a high-powered attack.&#xD;
 &#xD;
 How quickly your Critical meter fills is determined by your Luck attribute.</Source>
-      <Dest>Vault-Tec Pomocný zaměřovací systém - neboli V.A.T.S.&#xD;
-ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
+      <Dest>Vault-Tec Pomocný zaměřovací systém - neboli V.A.T.S. - ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
 &#xD;
 Pro vstup do V.A.T.S. stiskni [VATS]. Jakmile se ocitneš v módu V.A.T.S., běh času bude zpomalen, ale stále můžeš obdržet poškození z příchozích útoků.&#xD;
 &#xD;
@@ -11765,7 +11754,7 @@ Každý úspěšný zásah provedený ve V.A.T.S. naplňuje tvou schopnost kriti
 &#xD;
 Rychlost naplňování tvé schopnosti kritického útoku je určená atributem Štěstí.</Dest>
     </String>
-    <String List="1" sID="0323D4" Partial="1">
+    <String List="1" sID="0323D4">
       <EDID>HelpPickpocketingXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>To pickpocket, press [Sneak] and approach your target. When you're within range, press [Activate] to look through their inventory.&#xD;
@@ -11795,7 +11784,7 @@ Můžeš také použít kapsářství pro vkládání předmětů do inventáře
 &#xD;
 Zlepši svoje šance pro úspěšné kapsářství zvýšením schopnosti Obratnost nebo výběrem určitých perků.</Dest>
     </String>
-    <String List="1" sID="0323D5" Partial="1">
+    <String List="1" sID="0323D5">
       <EDID>HelpModdingStationsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Mods are special attachments or adjustments made to weapons, armor, and Power Armor that can increase the item's stats, change its material, or provide beneficial effects. &#xD;
@@ -11893,7 +11882,7 @@ Ve stanovištích úprav můžeš skladovat předměty. Přibliž se a stiskni [
 &#xD;
 Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="0323D9" Partial="1">
+    <String List="1" sID="0323D9">
       <EDID>HelpQuestsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Visit the Quests section of the Pip-Boy Data tab to view all your currently active, available, and completed quests. &#xD;
@@ -11910,11 +11899,12 @@ To mark individual misc objectives as active, select the "Miscellanous" entry, t
 Vyber úkol v sekci Úkoly pomocí [LeftStick] a stiskni [Accept] pro označení úkolu, jako aktivního. Když je úkol aktivní, cíl úkolu se objeví na tvém kompasu a na mapě.&#xD;
 &#xD;
 Výběrem úkolu v sekci Úkoly a stisknutím [XButton] se zobrazí lokace momentálního cíle na tvé mapě.&#xD;
+&#xD;
 Jakékoliv dostupné různé úkoly budou zobrazeny pod položkou „Různé“.&#xD;
 &#xD;
 Pro označení jednotlivých cílů různých úkolů jako aktivních, vyber položku „Různé“ a poté pomocí [RightStick] vyber zvolený cíl a stiskni [Accept].</Dest>
     </String>
-    <String List="1" sID="0323DC" Partial="1">
+    <String List="1" sID="0323DC">
       <EDID>HelpWorkshopMenuXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Workshops allow you to mold the environment around them: building new objects and structures, adjusting the location and orientation of existing ones, or scrapping items you don't want.&#xD;
@@ -12002,7 +11992,7 @@ Pro manipulaci s novými nebo existujícími objekty můžeš použít tato ovl�
 &#xD;
 - [Activate] umístí objekt na jeho novou pozici. [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší budování nového objektu.</Dest>
     </String>
-    <String List="1" sID="0323ED" Partial="1">
+    <String List="1" sID="0323ED">
       <EDID>HelpPipBoyInventoryXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Pip-Boy Inventory (INV) tab contains information on all the items you're currently carrying, as well as your gear's total weight and the number of caps you've acquired.&#xD;
@@ -12116,7 +12106,7 @@ Všechny zakoupené nebo postavené modifikace, které nejsou připojené k pře
 Munice&#xD;
 Sekce Munice zobrazuje veškerou munici, kterou momentálně máš ve svém inventáři.</Dest>
     </String>
-    <String List="1" sID="0323F5" Partial="1">
+    <String List="1" sID="0323F5">
       <EDID>HelpCookingPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cooking stations allow you to craft food items which, when consumed, can boost stats, restore lost health, or grant temporary beneficial effects. All cooking recipes require ingredients, which can be purchased or found throughout the world. &#xD;
@@ -12150,12 +12140,11 @@ Pokud postrádáš ingredience vyžadované konkrétním receptem, vyber jej v 
 Označené ingredience budou mít ve světě vedle svého názvu malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Ingredience můžeš skladovat v kuchařských stanovištích tak,&#xD;
-že se přiblížíš a stiskneš [XButton:16] pro otevření nabídky k přesunu do stanoviště. Při vaření podle receptu se prioritně spotřebují ingredience uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
+Ingredience můžeš skladovat v kuchařských stanovištích tak, že se přiblížíš a stiskneš [XButton:16] pro otevření nabídky k přesunu do stanoviště. Při vaření podle receptu se prioritně spotřebují ingredience uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
 Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="0323F6" Partial="1">
+    <String List="1" sID="0323F6">
       <EDID>HelpPipBoyControlsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>[LTrigger]/[RTrigger] - Change tabs&#xD;
@@ -12177,7 +12166,7 @@ Pro více informací o tom, jak používat nabídku pro přesun, navštiv zázna
 &#xD;
 [Cancel] - Odejít</Dest>
     </String>
-    <String List="1" sID="03242E" Partial="1">
+    <String List="1" sID="03242E">
       <EDID>HelpMeleeCombat</EDID>
       <REC>MESG:DESC</REC>
       <Source>To attack with a melee weapon, press [PrimaryAttack]. &#xD;
@@ -12199,7 +12188,7 @@ Většina chladných zbraní je také značné tišší než střelné zbraně, 
 &#xD;
 Efektivitu s chladnými zbraněmi můžeš zvýšit navýšením atributu Síla nebo nošením energozbroje.</Dest>
     </String>
-    <String List="1" sID="03242F" Partial="1">
+    <String List="1" sID="03242F">
       <EDID>HelpHolotapeGamesXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Some holotapes contain games that can be played at game-friendly terminals or via the Pip-Boy. &#xD;
@@ -12225,7 +12214,7 @@ Pro pohybování se v holopáskové hře použij [_Dpad_None]. Pro provedení ak
 &#xD;
 Stiskni [Cancel] pro pozastavení hry. Pozastavení hry také vyvolá nabídku Ukončit. Zvol „Ano“ pomocí [Accept] pro ukončení.</Dest>
     </String>
-    <String List="1" sID="032444" Partial="1">
+    <String List="1" sID="032444">
       <EDID>HelpHackingXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Terminals containing useful information will often be locked with a password. Hack them to access their contents.&#xD;
@@ -12271,7 +12260,7 @@ Můžeš kdykoliv stisknout [Cancel] pro opuštění terminálu.&#xD;
 &#xD;
 Terminály, které jsou někým vlastněny zobrazují červený text. Hackování cizího terminálu je trestný čin. Pokud tě přistihnou při této činnosti, lidé v okolí začnou být vůči tobě nepřátelští.</Dest>
     </String>
-    <String List="1" sID="03247D" Partial="1">
+    <String List="1" sID="03247D">
       <EDID>HelpBarterPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can purchase new goods and sell your spoils by bartering with merchants throughout the Commonwealth.&#xD;
@@ -12327,7 +12316,7 @@ Požití látky, na kterou máš závislost, tento postih dočasně odstraní. A
 &#xD;
 Dopady závislostí si můžeš prohlédnout v Pip-Boyovi na záložce Statistik v sekci Stav a stisknutím [RShoulder].</Dest>
     </String>
-    <String List="1" sID="032485" Partial="1">
+    <String List="1" sID="032485">
       <EDID>HelpBlocking</EDID>
       <REC>MESG:DESC</REC>
       <Source>With a melee weapon equipped, press [SecondaryAttack] to block an incoming melee attack. Successfully blocked attacks do reduced damage and have a chance to cause your opponent to briefly stagger.&#xD;
@@ -12339,7 +12328,7 @@ Projectiles cannot be blocked.&#xD;
 Projektily nemohou být blokovány.&#xD;
 </Dest>
     </String>
-    <String List="1" sID="032489" Partial="1">
+    <String List="1" sID="032489">
       <EDID>HelpChemistryStationXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cook up homemade chems at a Chemistry Station. Chems can provide a variety of stat bonuses and beneficial effects, even restore lost health, but use them too frequently and you risk addiction. &#xD;
@@ -12381,7 +12370,7 @@ Můžeš také skladovat přísady v chemické laboratoři přistoupením ke sta
 &#xD;
 Pro více informací o používání Nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
-    <String List="1" sID="032493" Partial="1">
+    <String List="1" sID="032493">
       <EDID>HelpExperiencePoints</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you complete quests and defeat enemies across the Commonwealth, you'll be awarded with Experience Points (XP). Earn enough XP and your level will increase, providing bonus Hit Points and unlocking new perks. &#xD;
@@ -12405,7 +12394,7 @@ Zkušenosti mohou být získány následujícími způsoby:&#xD;
 - Výrobou modifikací, drog a jídel&#xD;
 - Stavbou objektů a staveb v dílně</Dest>
     </String>
-    <String List="1" sID="032499" Partial="1">
+    <String List="1" sID="032499">
       <EDID>HelpWeaponsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Commonwealth is a dangerous place to travel unarmed. Luckily, you'll find plenty of weapons scattered throughout the world and available for purchase in settlements. &#xD;
@@ -12468,7 +12457,6 @@ Existují tři základní druhy zbraní:&#xD;
 &#xD;
 - Beze zbraně - holé pěsti, mosazné boxery, boxerské rukavice a podobná výzbroj&#xD;
 &#xD;
-&#xD;
 Vyzbrojování&#xD;
 Pro vybavení se zbraní, stiskni [Pipboy] pro vstup do Pip-Boye a otevři záložku Inventář (INV) pomocí [Click]. Použij [StrafeLeft]/[StrafeRight] pro výběr sekce Zbraně.&#xD;
 &#xD;
@@ -12510,7 +12498,7 @@ Většinu zbraní je možno modifikovat. Pro zjištění, které modifikace jsou
 &#xD;
 Navštiv záznam „Modifikace“ pro více informací ohledně stavby modifikací.</Dest>
     </String>
-    <String List="1" sID="0324A6" Partial="1">
+    <String List="1" sID="0324A6">
       <EDID>HelpHolotapeGamesPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Some holotapes contain games that can be played at game-friendly terminals or via the Pip-Boy. &#xD;
@@ -12536,7 +12524,7 @@ Pro pohybování se v holopáskové hře použij [Left]/[Right]/[Up]/[Down]. Pro
 &#xD;
 Stiskni [Cancel] pro pozastavení hry. Pozastavení hry také vyvolá nabídku Ukončit. Zvol „Ano“ pomocí [Click] pro ukončení.</Dest>
     </String>
-    <String List="1" sID="0324B1" Partial="1">
+    <String List="1" sID="0324B1">
       <EDID>HelpRadioStationsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Any radio station broadcasting in your current area will be displayed on the Radio tab in the Pip-Boy. To listen in, select a station with [Click].&#xD;
@@ -12546,7 +12534,7 @@ While a station is active, you can enter or exit the Pip-Boy and your selected s
 &#xD;
 Dokud je stanice aktivní, můžeš zapínat a vypínat Pip-Boye a vybraná stanice bude pokračovat v hraní.</Dest>
     </String>
-    <String List="1" sID="0324C9" Partial="1">
+    <String List="1" sID="0324C9">
       <EDID>HelpChems</EDID>
       <REC>MESG:DESC</REC>
       <Source>Drug use is prevalent throughout the Commonwealth. "Chems" like Jet, Psycho, and Mentats to name a few, can be consumed to provide temporary stat bonuses and beneficial effects. &#xD;
@@ -12572,7 +12560,7 @@ Na rozdíl od jiných chemikálií, stimpaky a RadAway závislost nezpůsobují.
 &#xD;
 Můžeš si také vyrobit svoje vlastní drogy v chemické laboratoři.</Dest>
     </String>
-    <String List="1" sID="0324DE" Partial="1">
+    <String List="1" sID="0324DE">
       <EDID>HelpHackingPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Terminals containing useful information will often be locked with a password. Hack them to access their contents.&#xD;
@@ -12618,7 +12606,7 @@ Můžeš kdykoliv stisknout [Cancel] pro opuštění terminálu.&#xD;
 &#xD;
 Terminály, které jsou někým vlastněny zobrazují červený text. Hackování cizího terminálu je trestný čin. Pokud tě přistihnou při této činnosti, lidé v okolí začnou být vůči tobě nepřátelští.</Dest>
     </String>
-    <String List="1" sID="0324F2" Partial="1">
+    <String List="1" sID="0324F2">
       <EDID>HelpLockpickingPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>When faced with a locked door or container, you can attempt to pick the lock.&#xD;
@@ -12656,7 +12644,7 @@ Některé zámky vyžadují klíč nebo nemohou být otevřeny skrze otevírán�
 &#xD;
 Zámky, které jsou v cizím vlastnictví budou zobrazovat červený text. Otevírání zámku, na cizích dveřích nebo úložném prostoru je trestný čin. Pokud tě odhalí, svědci poblíž se stanou nepřátelskými.</Dest>
     </String>
-    <String List="1" sID="0324F8" Partial="1">
+    <String List="1" sID="0324F8">
       <EDID>HelpFavoritesPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Speedily access items or gear by adding them to the Favorites menu.  &#xD;
@@ -12674,7 +12662,7 @@ Při svých cestách po světě můžeš použít oblíbený předmět kdykoliv,
 &#xD;
 Pro odstranění předmětu z oblíbených, otevři záložku Inventář, zvýrazni předmět, který si přeješ odstranit a stiskni [RShoulder]. Poté označ předmět pomocí [Click] pro jeho odstranění.</Dest>
     </String>
-    <String List="1" sID="032502" Partial="1">
+    <String List="1" sID="032502">
       <EDID>HelpVATSXBox</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Vault-Tec Assisted Targeting System - or V.A.T.S. - allows you to queue up a series of attacks against nearby enemies.&#xD;
@@ -12704,8 +12692,7 @@ Critical Hits&#xD;
 Every successful hit made in V.A.T.S. fills your Critical meter. Once full, you can press [ApplyCritical] to unleash a high-powered attack.&#xD;
 &#xD;
 How quickly your Critical meter fills is determined by your Luck attribute.</Source>
-      <Dest>Vault-Tec Pomocný zaměřovací systém - neboli V.A.T.S.&#xD;
-ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
+      <Dest>Vault-Tec Pomocný zaměřovací systém - neboli V.A.T.S. - ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
 &#xD;
 Pro vstup do V.A.T.S. stiskni [VATS]. Jakmile se ocitneš v módu V.A.T.S., běh času bude zpomalen, ale stále můžeš obdržet poškození z příchozích útoků.&#xD;
 &#xD;
@@ -12733,7 +12720,7 @@ Každý úspěšný zásah provedený ve V.A.T.S. naplňuje tvou schopnost kriti
 &#xD;
 Rychlost naplňování tvé schopnosti kritického útoku je určená atributem Štěstí.</Dest>
     </String>
-    <String List="1" sID="032508" Partial="1">
+    <String List="1" sID="032508">
       <EDID>HelpContainerPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Commonwealth has a variety of containers to discover and loot. Some containers may be locked, requiring a bobby pin, key, or terminal to access.&#xD;
@@ -12799,7 +12786,7 @@ Pokud tě někdo zpozoruje, jak bereš cizí předmět, pokusí se jej jeho vlas
 VAROVÁNÍ!&#xD;
 Nezanechávej svoje předměty v úložných prostorách, které ti nepatří. Nemusely by tam být, až se vrátíš. Pokud chceš mít místo, kde můžeš skladovat předměty nastálo, uvažuj o koupi domu nebo získej pokoj v osadě.</Dest>
     </String>
-    <String List="1" sID="032529" Partial="1">
+    <String List="1" sID="032529">
       <EDID>HelpArmorXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Stay alive longer by wearing Armor. Armor provides Damage Resistance, which reduces the damage you'll suffer from incoming attacks. You can purchase armor from merchants or loot it from your fallen foes.&#xD;
@@ -12837,8 +12824,7 @@ For more information on building mods, see the "Mods" entry.</Source>
       <Dest>Přežij déle díky nasazené zbroji. Zbroj poskytuje odolnost vůči zraněním, způsobeným příchozími útoky. Zbroje můžeš zakoupit u obchodníků nebo sebrat z padlých nepřátel.&#xD;
 &#xD;
 Nasazení zbroje&#xD;
-Pro nasazení části zbroje stiskni [Pipboy]  pro vstup do Pip-Boye a použij [LTrigger]/[RTrigger] pro otevření záložky Inventář (INV). &#xD;
-Poté vyhledej sekci Výstroj pomocí [Left]/[Right].&#xD;
+Pro nasazení části zbroje stiskni [Pipboy]  pro vstup do Pip-Boye a použij [LTrigger]/[RTrigger] pro otevření záložky Inventář (INV). Poté vyhledej sekci Výstroj pomocí [Left]/[Right].&#xD;
 &#xD;
 Vyber část zbroje, kterou si chceš nasadit pomocí [Leftstick] a stiskni [Accept]. Nasazená zbroj spolu se svojí odolností vůči zranění bude zobrazena ve Vault Boyovi na pravé straně obrazovky.&#xD;
 &#xD;
@@ -12868,7 +12854,7 @@ Zbroj je velmi modifikovatelná. V ponku na úpravu zbroje zjisti, které modifi
 &#xD;
 Pro více informací ohledně tvorby modifikací se podívej do záznamu „Modifikace“.</Dest>
     </String>
-    <String List="1" sID="03253E" Partial="1">
+    <String List="1" sID="03253E">
       <EDID>HelpFood</EDID>
       <REC>MESG:DESC</REC>
       <Source>Consuming food items can restore lost health as well as provide temporary stat boosts and other beneficial effects. &#xD;
@@ -12882,7 +12868,7 @@ Měj však na paměti, že většina potravy v Commonwealthu také způsobuje po
 &#xD;
 Jídlo připravené v kuchařských stanovištích ale žádné radiační poškození nezpůsobuje. Navštiv záznam „Vaření“ pro více detailů.</Dest>
     </String>
-    <String List="1" sID="032557" Partial="1">
+    <String List="1" sID="032557">
       <EDID>HelpDoctors</EDID>
       <REC>MESG:DESC</REC>
       <Source>Doctor can be found in most settlements throughout the Commonwealth. For a fee, doctors can:&#xD;
@@ -12904,7 +12890,7 @@ Většina doktorů bude ochotna obchodovat se svými zdravotními zásobami.&#xD
 &#xD;
 Existují také specializovaní chirurgové, kteří jsou schopni provést plastickou operaci a umožnit tak změnu vzhledu.</Dest>
     </String>
-    <String List="1" sID="03256D" Partial="1">
+    <String List="1" sID="03256D">
       <EDID>HelpCompanionsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you travel the Commonwealth, you'll have the opportunity to enlist Companions to help you on your journey. Companions can aid you in combat, haul gear, and if they like you enough, provide you with special perks.&#xD;
@@ -13014,7 +13000,7 @@ Když zařídíš, aby tě měl tvůj společník dostatečně rád, poskytne ti
 &#xD;
 Učiň však dostatek rozhodnutí, se kterými tvůj společník nesouhlasí a odmítne s tebou cestovat. Natrvalo.</Dest>
     </String>
-    <String List="1" sID="03257D" Partial="1">
+    <String List="1" sID="03257D">
       <EDID>HelpPipBoyMapXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Use the Map tab to get a bird's-eye view of the Commonwealth on the World Map or check out a local map of your current location. To switch between map views, press [XButton].&#xD;
@@ -13054,7 +13040,7 @@ Na mapu můžeš také umístit vlastní značky, které se pak při tvých cest
 &#xD;
 Pro vytvoření vlastní značky umísti kurzor na požadovanou lokaci a stiskni [Accept]. Pro odstranění značky pohni kurzorem na prázdné místo, stiskni [Accept] a poté vyber „Odstranit značku“.</Dest>
     </String>
-    <String List="1" sID="032584" Partial="1">
+    <String List="1" sID="032584">
       <EDID>HelpQuestsPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Visit the Quests section of the Pip-Boy Data tab to view all your currently active, available, and completed quests. &#xD;
@@ -13076,7 +13062,7 @@ Jakékoliv dostupné různé úkoly budou zobrazeny pod položkou „Různé“.
 &#xD;
 Pro označení jednotlivých cílů různých úkolů jako aktivních, zvýrazni položku „Různé“ a zvolený cíl vyber pomocí [Click].</Dest>
     </String>
-    <String List="1" sID="032588" Partial="1">
+    <String List="1" sID="032588">
       <EDID>HelpPipBoyRadioPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Any radio station broadcasting in your current area will be displayed on the Radio tab.&#xD;
@@ -13090,7 +13076,7 @@ Pro naladění radiostanice použij [Click]. Dokud je stanice aktivní, můžeš
 &#xD;
 Pro vypnutí radiostanice ji opět vyber pomocí [Click].</Dest>
     </String>
-    <String List="1" sID="032596" Partial="1">
+    <String List="1" sID="032596">
       <EDID>HelpPipBoyStats01</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Stat tab contains information on your current status, SPECIAL attributes, and perks.&#xD;
@@ -13148,7 +13134,7 @@ Sekce SPECIAL zobrazuje přehled hodnot tvých SPECIAL vlastností spolu s možn
 PERKY&#xD;
 Sekce Perky zobrazuje všechny získané perky, jejich účinky a úrovně.</Dest>
     </String>
-    <String List="1" sID="0325B3" Partial="1">
+    <String List="1" sID="0325B3">
       <EDID>HelpComponents</EDID>
       <REC>MESG:DESC</REC>
       <Source>Components are the fundamental pieces that make up most items and gear in the Commonwealth. Components can be used to assemble mods at modding stations, build structures in the workshop, and are also necessary for crafting certain cooking and chems recipes.&#xD;
@@ -13204,13 +13190,11 @@ Když jsi u stanoviště úprav nebo výrobního stanoviště, můžeš také oz
 Šrotování&#xD;
 Veškeré zbraně a zbroje, které cestou nasbíráš, mohou být šešrotovány na komponenty.&#xD;
 &#xD;
-Pro rozebrání vybavení navštiv stanoviště úprav. &#xD;
-Vyber předmět, který chceš rozebrat v inventáři a stiskni [XButton]. &#xD;
-Pamatuj, že šrotování předmětu jej zničí spolu s jakoukoliv modifikací k němu připojenou.&#xD;
+Pro rozebrání vybavení navštiv stanoviště úprav. Vyber předmět, který chceš rozebrat v inventáři a stiskni [XButton]. Pamatuj, že šrotování předmětu jej zničí spolu s jakoukoliv modifikací k němu připojenou.&#xD;
 &#xD;
 Můžeš také rozebírat nežádoucí stavby v oblasti dílny. Pro rozebrání stavby vstup do nabídky Dílny, označ stavbu, které se chceš zbavit a stiskni [XButton].</Dest>
     </String>
-    <String List="1" sID="0325C5" Partial="1">
+    <String List="1" sID="0325C5">
       <EDID>HelpCompass</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you explore the world, your compass, displayed at the bottom of the screen, can be a valuable source of information. &#xD;
@@ -13232,7 +13216,7 @@ Detekovaní nepřátelé se na kompasu objeví jako červené čtverce. Pokud je
 &#xD;
 Cíle aktivních úkolů se na kompasu objeví jako zelené čtverce. Stejně jako u nepřátel, šipka na čtverci značí jejich relativní vertikální pozici.</Dest>
     </String>
-    <String List="1" sID="0325CF" Partial="1">
+    <String List="1" sID="0325CF">
       <EDID>HelpControlsXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>[LeftStick] - Walk/run &#xD;
@@ -13276,7 +13260,7 @@ Cíle aktivních úkolů se na kompasu objeví jako zelené čtverce. Stejně ja
 &#xD;
 [TogglePOV] – Přepínání mezi pohledem 1. a 3. osoby (přidrž [TogglePOV] a pohybuj [RightStick] pro přizpůsobení)</Dest>
     </String>
-    <String List="1" sID="0325D3" Partial="1">
+    <String List="1" sID="0325D3">
       <EDID>HelpPowerArmor</EDID>
       <REC>MESG:DESC</REC>
       <Source>Power Armor suits can be found scattered across the Commonwealth, particularly in old military installations. &#xD;
@@ -13336,13 +13320,13 @@ Pro výstup z energozbroje stiskni [Activate].&#xD;
  &#xD;
 Fúzní jádra&#xD;
 Energozbroj je napájena fúzními jádry. Provedení kterékoliv z následujících akcí spotřebovává náboj jádra:&#xD;
+&#xD;
 - Běhání&#xD;
 - Sprintování&#xD;
 - Silné útoky&#xD;
 - V.A.T.S.&#xD;
  &#xD;
-Jakmile bude tvé fúzní jádro vybité,&#xD;
-budeš se pomaleji pohybovat a nebudeš moci provádět silné útoky nebo používat V.A.T.S. &#xD;
+Jakmile bude tvé fúzní jádro vybité, budeš se pomaleji pohybovat a nebudeš moci provádět silné útoky nebo používat V.A.T.S. &#xD;
 &#xD;
 Pokud máš další fúzní jádro v inventáři, automaticky nahradí to vybité. Jinak budeš muset najít nové pro obnovení funkčnosti energozbroje, nebo opustit energozbroj.&#xD;
  &#xD;
@@ -13374,7 +13358,7 @@ Navštiv záznam „Modifikace“ pro více informací.&#xD;
 Označení energozbroje na mapě&#xD;
 Pokud opustíš svoji energozbroj, automaticky se na mapě objeví značka ukazující polohu tvé zbroje. Tato značka se vždy vztahuje pouze k naposledy používané energozbroji. Najdi si novou zbroj a tu starou budeš muset hledat klasickým způsobem.</Dest>
     </String>
-    <String List="1" sID="0325E8" Partial="1">
+    <String List="1" sID="0325E8">
       <EDID>HelpFastTravelXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can quickly return to any location you've previously visited by fast traveling. &#xD;
@@ -13387,9 +13371,10 @@ You cannot fast travel while you are in combat, if you are carrying too much wei
 &#xD;
 Pro rychlé cestování stiskni [PipBoy] pro vstup do Pip-Boye a otevři záložku Mapa pomocí [LTrigger]/[RTrigger]. Přesuň kurzor na lokaci, do které si přeješ cestovat, stiskni [Accept] a pak zvol „Rychlé cestování“.&#xD;
 &#xD;
-Rychle nelze cestovat, pokud se účastníš boje, pokud je tvá nosnost nad limit (přetížení) nebo z většiny interiérů.</Dest>
+Rychle nelze cestovat, pokud se účastníš boje, pokud je tvá nosnost nad limit (přetížení) nebo z většiny interiérů.&#xD;
+</Dest>
     </String>
-    <String List="1" sID="0325E9" Partial="1">
+    <String List="1" sID="0325E9">
       <EDID>HelpCarryWeightXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>The amount of weight you can carry is determined by your Strength attribute. The higher your Strength, the more you can carry. You can increase this amount further by taking certain perks or wearing Power Armor.&#xD;
@@ -13411,7 +13396,7 @@ Pro zahození předmětu stiskni [PipBoy] pro vstup do Pip-Boye a otevři zálo�
 &#xD;
 Předměty, které zahodíš, po nějakou dobu zůstanou na místě, ale pokud je necháš ležet delší čas, je pravděpodobné, že zmizí, až se pro ně nakonec vrátíš.</Dest>
     </String>
-    <String List="1" sID="032CA6" Partial="1">
+    <String List="1" sID="032CA6">
       <EDID>HelpWorkshopSettlementHappiness</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your settlements require a variety of resources to function: food, water, shelter. If all your citizens' needs are met, it will increase the settlement's Happiness.&#xD;
@@ -13459,7 +13444,7 @@ Všimni si, že spokojenost na rozdíl od ostatních uvedených hodnot, se nemě
 &#xD;
 Stejně tak, když například útok nájezdníků zničí veškerou tvojí úrodu a zásoby vody, nepoklesne spojenost osady najednou. Máš čas na vyřešení problému předtím, než se tví osadníci stanou nebezpečně nespokojenými.</Dest>
     </String>
-    <String List="1" sID="032D64" Partial="1">
+    <String List="1" sID="032D64">
       <EDID>HelpWorkshopWorkers</EDID>
       <REC>MESG:DESC</REC>
       <Source>Certain workshop objects won't function without someone to work them, and that requires workers. &#xD;
@@ -13481,7 +13466,7 @@ V některých případech může osadník pracovat pouze na jednom objektu (nap�
 &#xD;
 Zvýraznění osadníka také zvýrazní všechny objekty, ke kterým je momentálně přidělen, takže můžeš vidět, na čem momentálně pracuje.</Dest>
     </String>
-    <String List="1" sID="032EDA" Partial="1">
+    <String List="1" sID="032EDA">
       <EDID>HelpWorkshopPower</EDID>
       <REC>MESG:DESC</REC>
       <Source>Many workshop objects require Power to function. To provide Power to an object, you'll need to hook it up to an existing generator or build a new one from the Workshop menu (Resources &gt; Power &gt; Generators).&#xD;
@@ -13519,7 +13504,7 @@ Kabely mají omezený dosah; pokud potřebuješ položit kabely na dlouhou vzdá
 &#xD;
 Některé objekty jako žárovky, přijímají elektřinu jednoduše díky tomu, že se nacházejí v blízkosti napájecího konektoru jako je elektrický stožár než díky přímému zapojení kabelem.</Dest>
     </String>
-    <String List="1" sID="0347BB" Partial="1">
+    <String List="1" sID="0347BB">
       <EDID>HelpWaiting</EDID>
       <REC>MESG:DESC</REC>
       <Source>Pass time quickly by sitting in an unowned piece of furniture and pressing [YButton] to wait.&#xD;
@@ -13533,7 +13518,7 @@ Narozdíl od spánku v posteli, čekání neobnovuje ztracené zdraví ani neuzd
 &#xD;
 Nemůžeš čekat, pokud jsou v blízkosti nepřátelé.</Dest>
     </String>
-    <String List="1" sID="034C9B" Partial="1">
+    <String List="1" sID="034C9B">
       <EDID>HelpGrenadesAndMinesPC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Alongside your standard weapon, you can also equip a single type of grenade or mine. &#xD;
@@ -13549,10 +13534,9 @@ Pro použití granátu nebo miny, podrž a poté pusť [Melee].&#xD;
 &#xD;
 Pro výběr typu granátu nebo miny, stiskni [Pipboy] pro vstup do Pip-Boye, poté se přesuň v záložce Inventář (INV) do sekce Zbraně. Vyber předmět, kterým se chceš vybavit pomocí [Click].&#xD;
 &#xD;
-Položené miny a hozené granáty mohou být zaměřeny ve V.A.T.S.&#xD;
-(i v případě, že byly hozeny/položeny tebou). Viz záznam „V.A.T.S.“ pro více informací.</Dest>
+Položené miny a hozené granáty mohou být zaměřeny ve V.A.T.S. (i v případě, že byly hozeny/položeny tebou). Viz záznam „V.A.T.S.“ pro více informací.</Dest>
     </String>
-    <String List="1" sID="034D77" Partial="1">
+    <String List="1" sID="034D77">
       <EDID>HelpGrenadesAndMinesXbox</EDID>
       <REC>MESG:DESC</REC>
       <Source>Alongside your standard weapon, you can also equip a single type of grenade or mine. &#xD;
@@ -13568,10 +13552,9 @@ Pro použití granátu nebo miny, podrž a poté pusť [Melee].&#xD;
 &#xD;
 Pro výběr typu granátu nebo miny, stiskni [Pipboy] pro vstup do Pip-Boye, poté se přesuň v záložce Inventář (INV) do sekce Zbraně. Vyber předmět, kterým se chceš vybavit pomocí [LeftStick] a stiskni [Accept].&#xD;
 &#xD;
-Položené miny a hozené granáty mohou být zaměřeny ve V.A.T.S.&#xD;
-(i v případě, že byly hozeny/položeny tebou). Viz záznam „V.A.T.S.“ pro více informací.</Dest>
+Položené miny a hozené granáty mohou být zaměřeny ve V.A.T.S. (i v případě, že byly hozeny/položeny tebou). Viz záznam „V.A.T.S.“ pro více informací.</Dest>
     </String>
-    <String List="1" sID="0357CE" Partial="1">
+    <String List="1" sID="0357CE">
       <EDID>HelpDifficulty</EDID>
       <REC>MESG:DESC</REC>
       <Source>Finding your Fallout experience too easy or too hard? You can adjust your game's difficulty at any time in the "Gameplay" section of the "Settings" menu.&#xD;
@@ -13583,8 +13566,7 @@ If you're looking for a real challenge, try "Survival" difficulty. In addition t
 &#xD;
 Čím vyšší je obtížnost, tím větší poškození ti budou nepřátelé působit a tím méně je budou tvé útoky zraňovat. Na vyšších obtížnostech je také pravděpodobnější, že narazíš na legendární nepřátele (viz záznam „Legend. nepřátelé“ pro více informací ohledně těchto mocných protivníků).&#xD;
 &#xD;
-Pokud tě láká skutečná výzva, vyzkoušej obtížnost „Přežití“.&#xD;
-Kromě standardních prvků zvýšené obtížnosti, „Přežití“ také značně snižuje účinnost prospěšných chemikálií jako jsou RadAway a stimpacky.</Dest>
+Pokud tě láká skutečná výzva, vyzkoušej obtížnost „Přežití“. Kromě standardních prvků zvýšené obtížnosti, „Přežití“ také značně snižuje účinnost prospěšných chemikálií jako jsou RadAway a stimpacky.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
