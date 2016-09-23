@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="012738">
@@ -1030,7 +1031,7 @@
       <EDID>BoSM01_Player_Final3_Neutral1</EDID>
       <REC>INFO:RNAM</REC>
       <Source>He's unstable</Source>
-      <Dest>Je nestabilní</Dest>
+      <Dest>Je labilní</Dest>
     </String>
     <String List="0" sID="020316">
       <EDID>[000B0F9C]</EDID>
@@ -1620,17 +1621,17 @@
       <Source>That Was Me</Source>
       <Dest>To já</Dest>
     </String>
-    <String List="0" sID="02A6F2" Partial="1">
+    <String List="0" sID="02A6F2">
       <EDID>[0004394F]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Then don't</Source>
-      <Dest>[@000B0E1A] Then don't</Dest>
+      <Dest>Tak nežij</Dest>
     </String>
-    <String List="0" sID="02A7AB" Partial="1">
+    <String List="0" sID="02A7AB">
       <EDID>[0004394E]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Then don't</Source>
-      <Dest>[@000B0E1A] Then don't</Dest>
+      <Dest>Tak nežij</Dest>
     </String>
     <String List="0" sID="02B1B6">
       <EDID>[0005E6D8]</EDID>
@@ -1816,13 +1817,7 @@
       <EDID>[000B2535]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We have a lot of work to do. Report back when you're ready to move out.</Source>
-      <Dest>Máme před sebou spoustu práce. Ohlas se mi, až budeš moct vyjít na misi.</Dest>
-    </String>
-    <String List="2" sID="012D06">
-      <EDID>[000AE7E8]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
+      <Dest>Máme před sebou spoustu práce. Ohlas se mi, až budeš moct vyrazit na misi.</Dest>
     </String>
     <String List="2" sID="012E66">
       <EDID>[000B2F73]</EDID>
@@ -1859,12 +1854,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Just... just leave me be. That's all I ask.</Source>
       <Dest>Prostě... prostě mě nechej být. To je vše, co žádám.</Dest>
-    </String>
-    <String List="2" sID="0131C4">
-      <EDID>[000AE7E7]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="2" sID="0131C9">
       <EDID>[000B1385]</EDID>
@@ -1924,7 +1913,7 @@
       <EDID>[000B25BA]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I owe you an apology. Anyone who kills a Courser is good in my book.</Source>
-      <Dest>Dlužím ti omluvu. Kdokoli zabije lovce je z mého pohledu v pohodě.</Dest>
+      <Dest>Dlužím ti omluvu. Kdokoli zabije lovce, je z mého pohledu v pohodě.</Dest>
     </String>
     <String List="2" sID="01362D">
       <EDID>[000B0F9B]</EDID>
@@ -1972,7 +1961,7 @@
       <EDID>[000B17C9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Eve was going to kill me to protect your secret.</Source>
-      <Dest>Eva mě chtěla zabít, abych uchránila tvé tajemství.</Dest>
+      <Dest>Eva mě chtěla zabít, aby uchránila tvé tajemství.</Dest>
     </String>
     <String List="2" sID="013880">
       <EDID>[000B1D1D]</EDID>
@@ -2026,7 +2015,7 @@
       <EDID>[000B1F41]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Details await at the dead drop. Have a care. Odds are very good you're walking into something nasty.</Source>
-      <Dest>Detaily nalezneš u mrtvé schránky. Opatruj se. Je velmi pravděpodobné, že vejdeš do něčeho vskutku nepříjemného.</Dest>
+      <Dest>Detaily nalezneš u mrtvé schránky. Opatruj se. Je velmi pravděpodobné, že se ocitneš vskutku v něčem nepříjemném.</Dest>
     </String>
     <String List="2" sID="013C26">
       <EDID>[000B2F37]</EDID>
@@ -2140,7 +2129,7 @@
       <EDID>[000B26E7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>If Blackbird's alive, I want to bring him back.</Source>
-      <Dest>Pokud je Kos naživu, chci ho přívést zpátky.</Dest>
+      <Dest>Pokud je Kos naživu, chci ho přivést zpátky.</Dest>
     </String>
     <String List="2" sID="01457A">
       <EDID>BoSM01_Kells_Walkaway2</EDID>
@@ -2332,7 +2321,7 @@
       <EDID>BoSM01_Player_Final3_Neutral1</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'm worried about him. He's paranoid, unstable.</Source>
-      <Dest>Mám o něj obavy. Je paranoidní, nestabilní.</Dest>
+      <Dest>Mám o něj obavy. Je paranoidní, labilní.</Dest>
     </String>
     <String List="2" sID="01535E">
       <EDID>[000B1D26]</EDID>
@@ -2489,12 +2478,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Ready to hand over the plans? This is the big one.</Source>
       <Dest>Už nám můžeš předat ten plán? Tohle bude velký.</Dest>
-    </String>
-    <String List="2" sID="015B83">
-      <EDID>[000B24AE]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="2" sID="015C57">
       <EDID>[000B13FD]</EDID>
@@ -2776,7 +2759,7 @@
       <EDID>InstM02Shared7</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I'm sorry I had to threaten you, I guess I just felt cornered and panicked a little bit.</Source>
-      <Dest>Je mi líto, že jsem ti musela vyhrožoval, asi jsem se prostě cítila zahnána do kouta a trochu jsem zpanikařila.</Dest>
+      <Dest>Je mi líto, že jsem ti musela vyhrožovat, asi jsem se prostě cítila zahnána do kouta a trochu jsem zpanikařila.</Dest>
     </String>
     <String List="2" sID="016A66">
       <EDID>[000B28BB]</EDID>
@@ -2812,7 +2795,7 @@
       <EDID>[000D1017]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hey, man, need help with the Signal Interceptor? This thing is going to be huge. We'll finally learn about what the Institute's really up to, man.</Source>
-      <Dest>Hej, kámo, potřebuješ s tím zachycovačem signálu pomoc? Tohle je bude velký. Konečně zjistíme, co má Institut doopravdy za lubem, člověče.</Dest>
+      <Dest>Hej, kámo, potřebuješ s tím zachycovačem signálu pomoc? Tohle bude velký. Konečně zjistíme, co má Institut doopravdy za lubem, člověče.</Dest>
     </String>
     <String List="2" sID="016C60">
       <EDID>[000B26B7]</EDID>
@@ -2986,7 +2969,7 @@
       <EDID>[000B0E2A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Yes. Well. Free to be a monster. Free to be hunted anywhere I go. Free to cower in this wretched cave. Not much of a life.</Source>
-      <Dest>Ano. No. Jsem svobodný být zrůdou. Můžu být svobodně loven, kamkoli půjdu. Můžu se svobodně krčit v téhle žalostné jeskyni. To není žádný život.</Dest>
+      <Dest>Ano. No. Jsem svobodně zrůdou. Můžu být svobodně loven, kamkoli půjdu. Můžu se svobodně krčit v téhle žalostné jeskyni. To není žádný život.</Dest>
     </String>
     <String List="2" sID="0174AF">
       <EDID>[0017129A]</EDID>
@@ -3274,7 +3257,7 @@
       <EDID>[000B28D1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I need to build a Signal Interceptor to get into the Institute.</Source>
-      <Dest>Chci se dostat do Institutu a k tomu potřebuju sestrojit Zachycovač signálu.</Dest>
+      <Dest>Chci se dostat do Institutu a k tomu potřebuju sestrojit zachycovač signálu.</Dest>
     </String>
     <String List="2" sID="018468">
       <EDID>[000B2677]</EDID>
@@ -3443,12 +3426,6 @@
       <REC id="0">INFO:NAM1</REC>
       <Source>The only people who have any interest in the synth lab already have access to those computers.</Source>
       <Dest>Jediní lidé s jakýmkoli zájmem na laboratoři syntetiků už k těm počítačům přístup mají.</Dest>
-    </String>
-    <String List="2" sID="018BBE">
-      <EDID>[000B24AC]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="2" sID="018BEC">
       <EDID>[000AE16D]</EDID>
@@ -4048,7 +4025,7 @@
       <EDID>[000B0F91]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>No. If we split up, we can flank them from both sides. It'll be like shooting fish in a barrel.</Source>
-      <Dest>Ne. Pokud se rozdělíme, můžeme je napadnout z obou stran. Bude to jak střílet na sedící kachny, pohoda.</Dest>
+      <Dest>Ne. Pokud se rozdělíme, můžeme je napadnout z obou stran. Bude to, jak střílet na sedící kachny, pohoda.</Dest>
     </String>
     <String List="2" sID="01A957">
       <EDID>[000AE4C5]</EDID>
@@ -4216,7 +4193,7 @@
       <EDID>[000B1D19]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>They can't be the only people who can crack a damn code.</Source>
-      <Dest>To nemůžou být jediní lidi, co umí cracknout jeden blbý kód.</Dest>
+      <Dest>To nemůžou být jediní lidi, co umí cracknout jeden blbej kód.</Dest>
     </String>
     <String List="2" sID="01B34B">
       <EDID>BoSM01_Player_WithBrotherhood1</EDID>
@@ -4474,7 +4451,7 @@
       <EDID>[000AEFA1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We're locked onto your target. It's about to get really hot over there.</Source>
-      <Dest>Máme zamířeno na tvůj cíl. Za chvíli tam začne být pořádné horko.</Dest>
+      <Dest>Máme zaměřeno na tvůj cíl. Za chvíli tam začne být pořádné horko.</Dest>
     </String>
     <String List="2" sID="01C2AF">
       <EDID>[000B2D9A]</EDID>
@@ -4594,7 +4571,7 @@
       <EDID>[000B17FA]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Everyone's trying to blame my dad, but he didn't do it.</Source>
-      <Dest>Všichni se to pokouší hodit na mojeho tátu, ale on to neudělal.</Dest>
+      <Dest>Všichni se to pokouší hodit na mýho tátu, ale on to neudělal.</Dest>
     </String>
     <String List="2" sID="01CA48">
       <EDID>[000B2D9B]</EDID>
@@ -4643,12 +4620,6 @@
       <REC id="1">INFO:NAM1</REC>
       <Source>We've rigged up this Distress Pulser to emit a unique tone that we'll be listening for.</Source>
       <Dest>Upravili jsme nouzový pulzér tak, aby vysílal unikátní tón, který se budeme snažit zachytit.</Dest>
-    </String>
-    <String List="2" sID="01D835">
-      <EDID>[000B24AD]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="2" sID="01D843">
       <EDID>[000AE80B]</EDID>
@@ -4780,7 +4751,7 @@
       <EDID>[000AE51A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>A threat? One scientist?</Source>
-      <Dest>Hrozbu? Jeden věděc?</Dest>
+      <Dest>Hrozbu? Jeden vědec?</Dest>
     </String>
     <String List="2" sID="01E46F">
       <EDID>InstM02Shared6</EDID>
@@ -4792,19 +4763,19 @@
       <EDID>BoSM01_Kells_InitialAssignment2b</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'm aware of your search for the missing recon team. Complete your investigation and report back to me. Dismissed.</Source>
-      <Dest>Tvého pátrání po ztraceném průzkumném týmu jsem si vědom. Dokonči své vyšetřování, a pak se hlas u mě. Odchod.</Dest>
+      <Dest>Tvého pátrání po ztraceném průzkumném týmu jsem si vědom. Dokonči své vyšetřování a pak se hlas u mě. Odchod.</Dest>
     </String>
     <String List="2" sID="01E502">
       <EDID>BoSM01_Kells_InitialAssignment1b</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Paladin Danse has already briefed me on your search for the missing recon team. Complete your investigation and report back to me. Dismissed.</Source>
-      <Dest>Paladin Danse mě již o tvém pátrání po ztraceném průzkumném týmu informoval. Dokonči své vyšetřování, a pak se hlas u mě. Odchod.</Dest>
+      <Dest>Paladin Danse mě již o tvém pátrání po ztraceném průzkumném týmu informoval. Dokonči své vyšetřování a pak se hlas u mě. Odchod.</Dest>
     </String>
     <String List="2" sID="01E581">
       <EDID>[000B138D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Something else has come up. You know how it goes.</Source>
-      <Dest>Objevilo se něco další. Víš, jak to chodí.</Dest>
+      <Dest>Objevilo se něco dalšího. Víš, jak to chodí.</Dest>
     </String>
     <String List="2" sID="01E5E4">
       <EDID>[000B26B4]</EDID>
@@ -5014,7 +4985,7 @@
       <EDID>[000B28C9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ah, the Courser Killer returns. What brings you back here?</Source>
-      <Dest>Ach, Zabíják lovců se vrací. Co tě k nám zpátky přivádí?</Dest>
+      <Dest>Ach, Zabiják lovců se vrací. Co tě k nám přivádí zpátky?</Dest>
     </String>
     <String List="2" sID="01FE2C">
       <EDID>[000B3D67]</EDID>
@@ -5266,7 +5237,7 @@
       <EDID>[000B2669]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Solve for N. Come on, show me that sweet base number. And we got it! We got the code! Hahaha. Let me load that onto a holotape for ya.</Source>
-      <Dest>Řešení pro N. No tak, ukaž mi to krásné základní čísélko. A máme ho! Máme ten kód! Hahaha. Ukaž, nahraju ti to na holopásku.</Dest>
+      <Dest>Řešení pro N. No tak, ukaž mi to krásný základní čísílko. A máme ho! Máme ten kód! Hahaha. Ukaž, nahraju ti to na holopásku.</Dest>
     </String>
     <String List="2" sID="0212C9">
       <EDID>[000AE501]</EDID>
@@ -5548,7 +5519,7 @@
       <EDID>[000B17F0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I don't know. You figure it out. Just leave my dad out of it, okay?</Source>
-      <Dest>Nevím. To zjisti ty. Jen z toho vynech mojeho tátu, ok?</Dest>
+      <Dest>Nevím. To zjisti ty. Jen z toho vynech mýho tátu, ok?</Dest>
     </String>
     <String List="2" sID="022C9F">
       <EDID>BoSM01_Danse_Recap1</EDID>
@@ -5602,7 +5573,7 @@
       <EDID>[000AE808]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ceasing fire. Hope that helped. Anything left is all yours.</Source>
-      <Dest>Zastavuju palbu. Snad to pomohlo. Cokoli zůstalo je jen tvoje.</Dest>
+      <Dest>Zastavuju palbu. Snad to pomohlo. Cokoli zůstalo, je jen tvoje.</Dest>
     </String>
     <String List="2" sID="02325E">
       <EDID>BoSM01_Player_Midquest_Neutral2</EDID>
@@ -5782,7 +5753,7 @@
       <EDID>[000AEF98]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Huh. I guess I never thought of robots being Minutemen, but... why not? If they're willing, I guess we can use them.</Source>
-      <Dest>Hmm. Vlastně jsem nikdy nepřemýšlel nad tím, že by roboti mohli být minutemany, ale... proč ne? Pokud chtějí, tak je asi použít můžeme.</Dest>
+      <Dest>Hmm. Vlastně jsem nikdy nepřemýšlel nad tím, že by roboti mohli být Minutemany, ale... proč ne? Pokud chtějí, tak je asi použít můžeme.</Dest>
     </String>
     <String List="2" sID="0237DB">
       <EDID>[000B17DB]</EDID>
@@ -5908,7 +5879,7 @@
       <EDID>[000B267A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I have a report here. It reads more like a comic book. Apparently, one hell of a fight took place at Greenetech Genetics.</Source>
-      <Dest>Mám tu hlášení. I když se to vypadá spíš jako komiks. Zdá se, že v Genetickém ústavu Greentech došlo k pořádnému boji.</Dest>
+      <Dest>Mám tu hlášení. I když to vypadá spíš jako komiks. Zdá se, že v Genetickém ústavu Greentech došlo k pořádnému boji.</Dest>
     </String>
     <String List="2" sID="024086">
       <EDID>[000B13F2]</EDID>
@@ -5932,7 +5903,7 @@
       <EDID>BoSM01_Player_HereToTalk</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Calm down. I'm just here to talk.</Source>
-      <Dest>Uklidni se. Chci se jen promluvit.</Dest>
+      <Dest>Uklidni se. Chci si jen promluvit.</Dest>
     </String>
     <String List="2" sID="024259">
       <EDID>[000B25B7]</EDID>
@@ -6082,7 +6053,7 @@
       <EDID>[000B17B3]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I wouldn't want to interfere with your stupid investigation.</Source>
-      <Dest>Nerad bych ti zasahoval do toho tvoje pitomého vyšetřování.</Dest>
+      <Dest>Nerad bych ti zasahoval do toho tvýho pitomýho vyšetřování.</Dest>
     </String>
     <String List="2" sID="0254AA">
       <EDID>[000B1FA9]</EDID>
@@ -6094,7 +6065,7 @@
       <EDID>[000B1F4A]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Ah, the Institute didn't content itself with just destroying our headquarters. No. They launched simultaneous strikes on all we hold dear.</Source>
-      <Dest>Ach, Institut se nespokojil jen se zničením velitelství. Ne. Spustil soubežné údery na všechno, co je nám drahé.</Dest>
+      <Dest>Ach, Institut se nespokojil jen se zničením velitelství. Ne. Spustil souběžné údery na všechno, co je nám drahé.</Dest>
     </String>
     <String List="2" sID="025621">
       <EDID>[000B253D]</EDID>
@@ -6396,12 +6367,6 @@
       <Source>Maybe. Those walls could definitely use some work.</Source>
       <Dest>Možná. Na těch zdech by bylo rozhodně třeba zapracovat.</Dest>
     </String>
-    <String List="2" sID="0276BE">
-      <EDID>[000B24AF]</EDID>
-      <REC>INFO:NAM1</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="2" sID="02772C">
       <EDID>[000B1FA4]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6580,7 +6545,7 @@
       <EDID>[000B1FB6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You'd think Justin Ayo would have better ways to spend his time than to make ridiculous accusations.</Source>
-      <Dest>Člověk by si myslel, že Justin Ayo bude znát lepší způsoby, jak trávit svůj čas, než vymýšlet si směšná obvinění.</Dest>
+      <Dest>Člověk by si myslel, že Justin Ayo bude znát lepší způsoby, jak trávit svůj čas, než si vymýšlet směšná obvinění.</Dest>
     </String>
     <String List="2" sID="028250">
       <EDID>[000B1FBD]</EDID>
@@ -6592,7 +6557,7 @@
       <EDID>[000B1FA5]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I intend to implement improved internal security measures, and that includes tighter monitoring of our network.</Source>
-      <Dest>Mám v úmyslu zavést vylepšená vnitřní bezpečnostní opatření, a ta zahrnují i pečlivější sledování naší sítě.</Dest>
+      <Dest>Mám v úmyslu zavést vylepšená vnitřní bezpečnostní opatření a ta zahrnují i pečlivější sledování naší sítě.</Dest>
     </String>
     <String List="2" sID="028256">
       <EDID>BoSM01_Danse_CMPFinalGreet2</EDID>
@@ -6736,7 +6701,7 @@
       <EDID>[000AEF9F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We've got smoke at a friendly target. Cancelling fire mission.</Source>
-      <Dest>Vidíme dým u spřáleného cíle. Ruším palbu.</Dest>
+      <Dest>Vidíme dým u spřáteleného cíle. Ruším palbu.</Dest>
     </String>
     <String List="2" sID="028568">
       <EDID>BoSM04_Kells_Walkaway2</EDID>
@@ -6994,7 +6959,7 @@
       <EDID>[000AF8F5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Oooh!</Source>
-      <Dest>[@000AF8F0] Óóó!</Dest>
+      <Dest>Hohóóó!</Dest>
     </String>
     <String List="2" sID="02C7FA">
       <EDID>[000AF8E1]</EDID>
@@ -7174,7 +7139,7 @@
       <EDID>[000AE100]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>He's a prototype, you understand. We're only just now beginning to explore the effects of extreme emotional stimuli.</Source>
-      <Dest>Víš, je to prototyp. Teprve začínáme zkoumat účínky extrémních emocionálních podnětů.</Dest>
+      <Dest>Víš, je to prototyp. Teprve začínáme zkoumat účinky extrémních emocionálních podnětů.</Dest>
     </String>
     <String List="2" sID="02CBE3">
       <EDID>[0009E0B6]</EDID>
@@ -7234,7 +7199,7 @@
       <EDID>[0009E0B5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We owe you everything. Thank you.</Source>
-      <Dest>Dlužíme ti vše. Děkuju ti.</Dest>
+      <Dest>Dlužíme ti za vše. Děkuju ti.</Dest>
     </String>
     <String List="2" sID="02CE16">
       <EDID>[000AFB06]</EDID>
