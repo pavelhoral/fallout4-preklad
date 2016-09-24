@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="01270F">
@@ -375,8 +376,8 @@
     <String List="0" sID="016916">
       <EDID>FFDiamondCity08</EDID>
       <REC>QUST:FULL</REC>
-      <Source>Nuka Cola Needs</Source>
-      <Dest>Potřeby Nuka Coly</Dest>
+      <Source>Nuka-Cola Needs</Source>
+      <Dest>Nuka-Colová pořeba</Dest>
     </String>
     <String List="0" sID="01691F">
       <EDID>EncVertibird01Template</EDID>
@@ -1389,8 +1390,8 @@
     <String List="0" sID="0213C9">
       <EDID>FFDiamondCity08</EDID>
       <REC>QUST:NNAM</REC>
-      <Source>Give Sheffield a Nuka Cola</Source>
-      <Dest>Dej Sheffieldovi Nuka Colu</Dest>
+      <Source>Give Sheffield a Nuka-Cola</Source>
+      <Dest>Dej Sheffieldovi Nuka-Colu</Dest>
     </String>
     <String List="0" sID="02164B">
       <EDID>encViciousDogAlpha04</EDID>
@@ -3150,7 +3151,7 @@
       <Source>FemaleEyesGhoulLashes</Source>
       <Dest>FemaleEyesGhoulLashes</Dest>
     </String>
-    <String List="0" sID="02D0C5">
+    <String List="0" sID="02D0C5" Partial="2">
       <EDID>FensBank01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Bridgeway Trust</Source>

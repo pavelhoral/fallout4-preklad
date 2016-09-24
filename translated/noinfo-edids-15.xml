@@ -9789,6 +9789,48 @@ Pokud tě přistihnou při trestné činnosti, je radno se po nějaký čas vyh�
       <Source>When hacking, you never get locked out of a terminal when things go wrong.</Source>
       <Dest>Při hackování terminálů ti nikdy nebude odepřen přístup, když se věci nepovedou.</Dest>
     </String>
+    <String List="1" sID="031B46">
+      <EDID>HelpActionPoints</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Action Points (AP) are a measurement of your physical energy. AP is used to:&#xD;
+&#xD;
+- Sprint&#xD;
+- Power Attack&#xD;
+- Perform attacks and reload in V.A.T.S.&#xD;
+- Steady your aim while using a scoped weapon&#xD;
+&#xD;
+Sprinting and steadying your aim consume AP continually. Power Attacks and actions performed during V.A.T.S. consume a set amount each time they're used. When marking a target in V.A.T.S., the amount of AP needed to perform each attack is shown in red on your AP bar. Weapons with a slower attack speed tend to consume more AP.&#xD;
+&#xD;
+When your AP is depleted, none of these actions can be performed until the required amount regenerates. &#xD;
+&#xD;
+Many factors can affect your AP:&#xD;
+&#xD;
+- Agility determines your total AP&#xD;
+- Endurance slows the rate of AP consumption when sprinting&#xD;
+- Perks grant permanent or situational bonuses&#xD;
+- Consumable items can grant temporary bonuses&#xD;
+&#xD;
+Your total AP is listed in the Pip-Boy on the Stat tab. When consumed, your AP displays on screen until fully recovered.</Source>
+      <Dest>Akční body (AB) představují míru tvojí fyzické energie. AB jsou používány pro:&#xD;
+&#xD;
+- Sprint&#xD;
+- Silný útok&#xD;
+- Provádění útoků a přebíjení ve V.A.T.S.&#xD;
+- Stabilitu míření při používání zbraní s optikou&#xD;
+&#xD;
+Sprintování a stabilizace zaměřování spotřebovává AB průběžně. Silné útoky a úkony prováděné v prostředí V.A.T.S. spotřebovávají určité množství pokaždé, když jsou použity. Při označování cíle ve V.A.T.S. je množství AB potřebných pro provedení útoku zobrazeno červeně na tvé AB liště. Zbraně s pomalejší rychlostí útoku obvykle spotřebovávají více AB.&#xD;
+&#xD;
+Když jsou tvé AB vyčerpány, nemůže být žádná z těchto akcí použita, dokud se neobnoví jejich potřebné množství. &#xD;
+&#xD;
+Řada faktorů ovlivňuje tvoje AB:&#xD;
+&#xD;
+- Obratnost určuje celkový počet tvých AB&#xD;
+- Odolnost zpomaluje rychlost spotřeby AB při sprintování&#xD;
+- Perky poskytují stálé nebo situační bonusy&#xD;
+- Konzumací některých drog a potravin lze získat dočasné bonusy&#xD;
+&#xD;
+Celkový počet tvých AB je uveden v Pip-Boyovi v záložce Status. Když se spotřebují, objeví se aktuální AB na obrazovce, dokud nejsou plně obnoveny.</Dest>
+    </String>
     <String List="1" sID="031C1E">
       <EDID>HelpAiming</EDID>
       <REC>MESG:DESC</REC>
@@ -9864,6 +9906,43 @@ Legendary items are high-powered versions of standard equipment, though unlike s
 Legendární nepřátelé jsou obtížnější než jejich standardní obdoby, ale poskytují bonusové zkušenosti a máš šanci u nich najít legendární předměty.&#xD;
 &#xD;
 Legendární předměty jsou silnější verze standardního vybavení, nicméně na rozdíl od standardních zbraní a zbroje nemohou být šrotovány.</Dest>
+    </String>
+    <String List="1" sID="031FC5">
+      <EDID>HelpLimbDamage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>During combat, your arms, legs, head, and torso will often become damaged. If they take too much damage, they'll become crippled. &#xD;
+&#xD;
+Crippled limbs inflict the following penalties: &#xD;
+&#xD;
+- Arms - it will be harder to aim your weapon&#xD;
+- Legs - you will move at a reduced speed&#xD;
+- Head - your vision and hearing will become distorted&#xD;
+&#xD;
+Once a limb has become crippled, it will remain so until treated. To treat a crippled limb, use a Stimpak. This will restore health to all your damaged limbs. You can also visit a doctor to heal your limbs for a fee or heal your limbs by sleeping.&#xD;
+&#xD;
+To view the current condition of your limbs, open the Pip-Boy Stat tab and visit the Status section. The Vault Boy in the center of the screen will display any currently crippled limbs. The small bars surrounding the Vault Boy represent each of your limb's current health.&#xD;
+&#xD;
+Crippling Enemies&#xD;
+You can also cripple enemy limbs during combat. Press [VATS] while wielding a gun to specifically target enemy limbs using V.A.T.S. Check out the "V.A.T.S." entry for more information.&#xD;
+&#xD;
+In additional to standard limbs, certain enemies have Combat Inhibitors. Cripple these and the enemy will be driven into a frenzy, attacking anyone nearby.</Source>
+      <Dest>Během boje dojde často k poškození tvých paží, nohou, hlavy a trupu. Pokud obdrží příliš mnoho poškození, stanou se ochromenými.&#xD;
+&#xD;
+Ochromené části těla ponesou následující postihy:&#xD;
+&#xD;
+- Ruce  – bude obtížnější mířit se zbraní&#xD;
+- Nohy  – budeš se pohybovat menší rychlostí&#xD;
+- Hlava – tvé vidění a sluch budou zkreslené&#xD;
+&#xD;
+Jakmile bude část těla ochromena, zůstane tak, dokud nebude ošetřena. Pro léčbu použij stimpak. Ten obnoví zdraví všem tvým poškozeným částem těla. Můžeš také navštívit doktora, který tě za poplatek vyléčí nebo se můžeš vyspat.&#xD;
+&#xD;
+Pro přehled tvého momentálního stavu, otevři Pip-Boye a sekci Stav. Vault Boy uprostřed obrazovky zobrazí jakékoliv momentálně ochromené části. Malé ukazatele kolem Vault Boye představují aktuální stav jednotlivých částí těla.&#xD;
+&#xD;
+Ochromení nepřátel&#xD;
+Během boje také můžeš ochromit části těl nepřátel. Stiskni [VATS], zatímco držíš zbraň a zaměř jednotlivé části nepřítele ve V.A.T.S.&#xD;
+Navštiv záznam „V.A.T.S.“ pro více informací.&#xD;
+&#xD;
+Někteří nepřátelé mají mimo běžných částí navíc také bojové inhibitory. Pokud je ochromíš, dostane se nepřítel do stavu bojového šílenství a začne útočit na kohokoliv v blízkosti.</Dest>
     </String>
     <String List="1" sID="031FD9">
       <EDID>HelpPipBoyInventoryPC</EDID>
@@ -13503,6 +13582,12 @@ To znamená, že objekt buď není připojen ke zdroji, nebo je elektrická sí�
 Kabely mají omezený dosah; pokud potřebuješ položit kabely na dlouhou vzdálenost, použij napájecí konektor pro přemostění mezery (Zdroje &gt; Elektřina &gt; Konektory &amp; Spínače). Tyto obsahují spínací verze, které dovolují zapínat a vypínat přívod elektřiny ke všemu, co je na spínač připojené.&#xD;
 &#xD;
 Některé objekty jako žárovky, přijímají elektřinu jednoduše díky tomu, že se nacházejí v blízkosti napájecího konektoru jako je elektrický stožár než díky přímému zapojení kabelem.</Dest>
+    </String>
+    <String List="1" sID="0333E7">
+      <EDID>IgnoreExplosionKnockdown</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>if not zero on an actor, that actor will never be knocked down by an explosion</Source>
+      <Dest>if not zero on an actor, that actor will never be knocked down by an explosion</Dest>
     </String>
     <String List="1" sID="0347BB">
       <EDID>HelpWaiting</EDID>

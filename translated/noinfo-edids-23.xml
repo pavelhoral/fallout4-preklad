@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0127DE">
@@ -203,12 +204,6 @@
       <REC id="10">QUST:NNAM</REC>
       <Source>Kill the Raiders (&lt;Global=MQ102FirstRaiderCount&gt;/&lt;Global=MQ102FirstRaiderTotal&gt;)</Source>
       <Dest>Zabij nájezdníky (&lt;Global=MQ102FirstRaiderCount&gt;/&lt;Global=MQ102FirstRaiderTotal&gt;)</Dest>
-    </String>
-    <String List="0" sID="014214">
-      <EDID>MQ101</EDID>
-      <REC id="3">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="014293">
       <EDID>MQ103</EDID>
@@ -480,12 +475,6 @@ I přesto děkuji kurátorskému a provoznímu týmu za všechnu dosavadní odve
       <Source>Bobrov's Best Moonshine</Source>
       <Dest>Bobrova nejlepší pálenka</Dest>
     </String>
-    <String List="0" sID="01721A">
-      <EDID>MQ101</EDID>
-      <REC id="1">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="0" sID="017241">
       <EDID>MQ101MrWhitfield</EDID>
       <REC>NPC_:FULL</REC>
@@ -605,12 +594,6 @@ I přesto děkuji kurátorskému a provoznímu týmu za všechnu dosavadní odve
       <REC id="3">QUST:NNAM</REC>
       <Source>Search for clues to Kellogg</Source>
       <Dest>Hledej stopy, vedoucí ke Kelloggovi</Dest>
-    </String>
-    <String List="0" sID="018CEE">
-      <EDID>MQ101</EDID>
-      <REC id="0">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="018FAD">
       <EDID>mod_PipeRevolver_Receiver_Lighter</EDID>
@@ -1113,12 +1096,6 @@ Tenhle typ vylomenin nebude tolerován. Komukoliv přistiženému při podobném
       <REC>OMOD:FULL</REC>
       <Source>Powerful Automatic Receiver</Source>
       <Dest>Silné tělo pro automat</Dest>
-    </String>
-    <String List="0" sID="01C79E">
-      <EDID>MQ101</EDID>
-      <REC id="4">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="01C7A6">
       <EDID>mod_PipeBoltAction_Receiver_Heavier</EDID>
@@ -1953,12 +1930,6 @@ Tenhle typ vylomenin nebude tolerován. Komukoliv přistiženému při podobném
       <REC>NPC_:FULL</REC>
       <Source>Neighbor</Source>
       <Dest>Soused</Dest>
-    </String>
-    <String List="0" sID="02161D">
-      <EDID>MQ101</EDID>
-      <REC id="2">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="02180D">
       <EDID>MQ101PlayerCommentWasher</EDID>

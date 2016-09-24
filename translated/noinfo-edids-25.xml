@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0126D0">
@@ -805,8 +806,8 @@ Prosíme, ujistěte se, že je nabíjecí stanice volná.&#xD;
     <String List="0" sID="017A83">
       <EDID>NukaColaQuantum_Cold</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Ice Cold Nuka Cola Quantum</Source>
-      <Dest>Ledově vychlazená Nuka-Cola Quantum</Dest>
+      <Source>Ice Cold Nuka-Cola Quantum</Source>
+      <Dest>Vychlazená Nuka-Cola Quantum</Dest>
     </String>
     <String List="0" sID="017B51">
       <EDID>NpcStoolDinerIntSit01</EDID>
@@ -1437,7 +1438,7 @@ Ale předtím než tu byla, byl stížností číslo jedna od našich návštěv
     <String List="0" sID="01B254">
       <EDID>NukaColaQuantum</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Nuka Cola Quantum</Source>
+      <Source>Nuka-Cola Quantum</Source>
       <Dest>Nuka-Cola Quantum</Dest>
     </String>
     <String List="0" sID="01B377">
@@ -2314,8 +2315,8 @@ Prosíme, zvolte možnost:</Dest>
     <String List="0" sID="01FCBC">
       <EDID>NukaColaCherry</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Nuka Cherry</Source>
-      <Dest>Nuka Cherry</Dest>
+      <Source>Nuka-Cherry</Source>
+      <Dest>Nuka-Cherry</Dest>
     </String>
     <String List="0" sID="01FD3F">
       <EDID>nativeSwitchDoorTerminalSubMenu</EDID>
@@ -2790,8 +2791,8 @@ Jakékoli neoprávněné zacházení anuluje záruku a zbaví výrobce odpovědn
     <String List="0" sID="023832">
       <EDID>NukaCola</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Nuka Cola</Source>
-      <Dest>Nuka Cola</Dest>
+      <Source>Nuka-Cola</Source>
+      <Dest>Nuka-Cola</Dest>
     </String>
     <String List="0" sID="023873">
       <EDID>nativeAssaultronTerminalSubMenu</EDID>
@@ -3109,8 +3110,8 @@ Prosíme, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodsto
     <String List="0" sID="0253AC">
       <EDID>NukaColaEmpty</EDID>
       <REC>MISC:FULL</REC>
-      <Source>Nuka Cola Bottle</Source>
-      <Dest>Prázdná láhev od Nuka-Coly</Dest>
+      <Source>Nuka-Cola Bottle</Source>
+      <Dest>Lahev od Nuka-Coly</Dest>
     </String>
     <String List="0" sID="025539">
       <EDID>NpcBenchStadiumSit01</EDID>
@@ -3199,8 +3200,8 @@ Prosíme, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodsto
     <String List="0" sID="025A7D">
       <EDID>NukaColaCherry_Cold</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Ice Cold Nuka Cherry</Source>
-      <Dest>Ledově vychlazená Nuka Cherry</Dest>
+      <Source>Ice Cold Nuka-Cherry</Source>
+      <Dest>Vychlazená Nuka-Cherry</Dest>
     </String>
     <String List="0" sID="025A92">
       <EDID>MS16Mel</EDID>
@@ -3568,8 +3569,8 @@ Prosíme, zvolte možnost:</Dest>
     <String List="0" sID="0284AB">
       <EDID>NukaCola_Cold</EDID>
       <REC>ALCH:FULL</REC>
-      <Source>Ice Cold Nuka Cola</Source>
-      <Dest>Ledově vychlazená Nuka Cola</Dest>
+      <Source>Ice Cold Nuka-Cola</Source>
+      <Dest>Vychlazená Nuka-Cherry</Dest>
     </String>
     <String List="0" sID="028521">
       <EDID>NpcChairVaultSit03</EDID>
@@ -4553,7 +4554,7 @@ VAULT 81 veřejný terminál&#xD;
 ================================================&#xD;
 </Dest>
     </String>
-    <String List="0" sID="0310D9" Partial="1">
+    <String List="0" sID="0310D9">
       <EDID>MS19FinalTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>From: Vault-Tec Board of Directors&#xD;
@@ -4567,11 +4568,11 @@ As with all great progress, the needs of the many outweigh the needs of the few.
 &#xD;
 Your work will be the work of generations. Each generation of scientists must select a chief scientist. Curie will make sure that each reads this mission statement to keep the vault focused over the centuries. We wish you the best of luck.</Source>
       <Dest>Od: představenstvo společnosti Vault-Tec&#xD;
-Komu: vedoucí výzkumu, Vault 81, sekce klinické laboratoře&#xD;
+Komu: vedoucí výzkumu, Vault 81, laboratorní sekce&#xD;
 &#xD;
-Pověřujeme vás misí, která má zásadní význam pro celé lidstvo. Vault 81 poslouží k tomu, aby vymýtil nemoci v podobě, v jaké je zná lidská rasa.&#xD;
+Pověřujeme vás misí, která má zásadní význam pro celé lidstvo. Vault 81 bude sloužit k celkovému vymýcení známých nemocí, které sužují lidskou rasu.&#xD;
 &#xD;
-Vaše sekce vaultu byla vybavena nejmodernějším lékařským vybavením, včetně Curie (CVRIE - Contagions Vulnerability Robotic Infirmary Engineer). Jsou tu biologické a chemické zásoby shromažďované několik set let. Jsou tu geneticky přizpůsobení krtkopotkani. A co je nejdůležitější, vault plný testovacích subjektů.&#xD;
+Vaše sekce vaultu byla vybavena nejmodernějším lékařským vybavením, včetně Curie (CVRIE - Contagions Vulnerability Robotic Infirmary Engineer - robotický pracovník centra nebezpečných nákaz). Jsou tu biologické a chemické zásoby shromažďované několik set let. Jsou tu geneticky přizpůsobení krtkopotkani. A co je nejdůležitější, vault plný testovacích subjektů.&#xD;
 &#xD;
 Tak jako to je u každého velkého kroku vpřed, potřeby mnoha převáží potřeby jednotlivců. Budete infikovat obyvatele vaultu nemocemi při pokusu vypěstovat u nich protilátky. Někteří možná nepřežijí, vy však musíte zajistit, aby populace byla vždy dostateně početná pro pokračující reprodukci. Bude to trvat mnoho generací, ale s pomocí správných postupů byste měl být schopen vyvinout lidskou skupinu odolnou vůči nemocem.&#xD;
 &#xD;
@@ -6865,7 +6866,7 @@ Prosíme, zvolte možnost:</Dest>
     <String List="0" sID="034EBF">
       <EDID>NukaColaMachine_Broken01</EDID>
       <REC>STAT:FULL</REC>
-      <Source>Nuka Cola Machine</Source>
+      <Source>Nuka-Cola Machine</Source>
       <Dest>Automat na Nuka-Colu</Dest>
     </String>
     <String List="0" sID="034ECB">
@@ -6889,7 +6890,7 @@ Prosíme, zvolte možnost:</Dest>
     <String List="0" sID="034EE6">
       <EDID>NukaColaMachine_Dest</EDID>
       <REC>MSTT:FULL</REC>
-      <Source>Nuka Cola Machine</Source>
+      <Source>Nuka-Cola Machine</Source>
       <Dest>Automat na Nuka-Colu</Dest>
     </String>
     <String List="0" sID="034EFF">
@@ -7111,7 +7112,7 @@ Prosíme, zvolte možnost:</Dest>
     <String List="0" sID="0360EA">
       <EDID>NukaColaMachine_Broken01NO</EDID>
       <REC>STAT:FULL</REC>
-      <Source>Nuka Cola Machine</Source>
+      <Source>Nuka-Cola Machine</Source>
       <Dest>Automat na Nuka-Colu</Dest>
     </String>
     <String List="0" sID="0362B0">
@@ -7295,11 +7296,11 @@ Tedy, některé zásady:&#xD;
       <Source>Congratulations! You made one of the Vault 101 baseball teams! Which position do you prefer?</Source>
       <Dest>Gratuluji! Právě tě přijali do baseballového týmu Vaultu 101. Jaký post preferuješ?</Dest>
     </String>
-    <String List="1" sID="01D263" Partial="1">
+    <String List="1" sID="01D263">
       <EDID>MS16TempWallExplodeMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Congratulations! You blew up the wall.</Source>
-      <Dest>Congratulations! You blew up the wall.</Dest>
+      <Dest>Gratulace! Podařilo se ti vyhodit zeď do povětří.</Dest>
     </String>
     <String List="1" sID="01D27C">
       <EDID>MS17DebugCompoundInfo</EDID>
@@ -7307,17 +7308,17 @@ Tedy, některé zásady:&#xD;
       <Source>You find a log which indicate that the caravan operation hit complications. 2 survivors, but the target was undamaged. Taking them back to the compound. Mission debrief will be handled by the doctor.</Source>
       <Dest>Nacházíš záznam naznačující, že mise s karavanami se zkomplikovala. Dva přeživší, ale cíl nebyl poškozen. Berou je do Areálu. O hlášení z mise se postará doktor.</Dest>
     </String>
-    <String List="1" sID="01D2D2" Partial="1">
+    <String List="1" sID="01D2D2">
       <EDID>MS16TempStage35Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>So after you've dug for a little bit, you'll hit bedrock, and the workers will tell you to ask Jules what to do next.</Source>
-      <Dest>So after you've dug for a little bit, you'll hit bedrock, and the workers will tell you to ask Jules what to do next.</Dest>
+      <Dest>Takže až budeš chvíli kopat, tak narazíš na podloží a dělníci ti řeknou, ať se zeptáš na další postup Julese.</Dest>
     </String>
-    <String List="1" sID="01D2D5" Partial="1">
+    <String List="1" sID="01D2D5">
       <EDID>MS16TunnelEndMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Eventually you finish the dig. This space is currently really big and really empty, so we're going to just teleport you to the end of it. The others will join you shortly.</Source>
-      <Dest>Eventually you finish the dig. This space is currently really big and really empty, so we're going to just teleport you to the end of it. The others will join you shortly.</Dest>
+      <Dest>Nakonec ten výkop stejně dokončíš. Tohle místo je momentálně opravdu rozlehlé a prázdné, takže tě prostě teleportujeme na konec. Ostatní se v zápětí přidají.</Dest>
     </String>
     <String List="1" sID="01D451">
       <EDID>MS17BloodInvestigateMessage</EDID>
@@ -7396,7 +7397,7 @@ Boyd (1): 1 chyba, zaevidováno&#xD;
       <Source>Who is he? Why does he help? Who cares! The Mysterious Stranger will appear occasionally in V.A.T.S. to lend a hand, with deadly efficiency...</Source>
       <Dest>Kdo to je? Proč pomáhá? Koho to zajímá! Tajemný cizinec se příležitostně objeví v režimu V.A.T.S, aby nabídl pomocnou ruku, a to se smrtící efektivitou...</Dest>
     </String>
-    <String List="1" sID="022407" Partial="1">
+    <String List="1" sID="022407">
       <EDID>MS16TempHeistMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Here's where we'll have the gameplay where you're directing workers to dig out the various areas. For now it's just temped in, so just talk to the guy here, and then activate the door. He'll walk over and "dig it out," so you can then proceed. </Source>
@@ -7471,12 +7472,6 @@ Jay Mayfield - ostraha&#xD;
       <REC id="0">QUST:CNAM</REC>
       <Source>Austin was bitten by a diseased mole rat. I'm going to the newly discovered secret part of the vault to look for a cure.</Source>
       <Dest>Austina pokousal nakažený krtkopotkan. Jdu se poohlédnout po léku do nově objevené tajné části vaultu.</Dest>
-    </String>
-    <String List="1" sID="03097F">
-      <EDID>NoodleCup</EDID>
-      <REC>ALCH:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="0309EC">
       <EDID>MS19</EDID>

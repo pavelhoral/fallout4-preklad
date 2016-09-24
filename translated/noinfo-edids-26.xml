@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="012844">
@@ -240,11 +241,11 @@
       <Source>Stealth Boy</Source>
       <Dest>Tichošlápek</Dest>
     </String>
-    <String List="0" sID="0154C3" Partial="1">
+    <String List="0" sID="0154C3">
       <EDID>pa_comp_T60_Helmet</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Helmet</Source>
-      <Dest>T-60 Helmet</Dest>
+      <Dest>T-60 (helma)</Dest>
     </String>
     <String List="0" sID="015591">
       <EDID>pa_comp_T60_Torso_Misc_Reactive</EDID>
@@ -480,11 +481,11 @@
       <Source>Oxygen Tank</Source>
       <Dest>Kyslíková bomba</Dest>
     </String>
-    <String List="0" sID="018B82" Partial="1">
+    <String List="0" sID="018B82">
       <EDID>pa_comp_T60_RArm</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Right Arm Armor</Source>
-      <Dest>T-60 Right Arm Armor</Dest>
+      <Dest>T-60 (pravá ruka)</Dest>
     </String>
     <String List="0" sID="018CB3">
       <EDID>pa_comp_T51_Arm_Lining_D</EDID>
@@ -1152,23 +1153,23 @@
       <Source>X-01 Mk.II Arm Armor</Source>
       <Dest>X-01 (ruka) - model Mk.II</Dest>
     </String>
-    <String List="0" sID="01FA46" Partial="1">
+    <String List="0" sID="01FA46">
       <EDID>pa_comp_T60_RLeg</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Right Leg Armor</Source>
-      <Dest>T-60 Right Leg Armor</Dest>
+      <Dest>T-60 (pravá noha)</Dest>
     </String>
-    <String List="0" sID="01FE40" Partial="1">
+    <String List="0" sID="01FE40">
       <EDID>pa_comp_T60_LArm</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Left Arm Armor</Source>
-      <Dest>T-60 Left Arm Armor</Dest>
+      <Dest>T-60 (levá ruka)</Dest>
     </String>
-    <String List="0" sID="020461" Partial="1">
+    <String List="0" sID="020461">
       <EDID>pa_comp_T60_LLeg</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Left Leg Armor</Source>
-      <Dest>T-60 Left Leg Armor</Dest>
+      <Dest>T-60 (levá noha)</Dest>
     </String>
     <String List="0" sID="0204D6">
       <EDID>pa_comp_T60_Leg_Lining_E</EDID>
@@ -1200,11 +1201,11 @@
       <Source>Mk.III</Source>
       <Dest>Model Mk. III</Dest>
     </String>
-    <String List="0" sID="0215D6" Partial="1">
+    <String List="0" sID="0215D6">
       <EDID>pa_comp_T60_Body</EDID>
       <REC>MISC:FULL</REC>
       <Source>T-60 Torso Armor</Source>
-      <Dest>T-60 Torso Armor</Dest>
+      <Dest>T-60 (trup)</Dest>
     </String>
     <String List="0" sID="021A15">
       <EDID>pa_comp_T51_Torso_Lining_C</EDID>
@@ -3876,12 +3877,6 @@
       <Source>Improves Damage and Energy Resistance.</Source>
       <Dest>Vylepšuje odolnost vůči klasickému a energetickému poškození.</Dest>
     </String>
-    <String List="1" sID="02B4C4">
-      <EDID>PA_Material_Null</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="1" sID="02B4CD">
       <EDID>PA_T51_Torso_Lining_A</EDID>
       <REC>OMOD:DESC</REC>
@@ -3953,12 +3948,6 @@
       <REC>OMOD:DESC</REC>
       <Source>Standard.</Source>
       <Dest>Standardní.</Dest>
-    </String>
-    <String List="1" sID="02B843">
-      <EDID>PA_Misc_Null</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="02B850">
       <EDID>PA_X01_Torso_Lining_A</EDID>
@@ -4206,6 +4195,12 @@
       <Source>Adds bright headlamp.</Source>
       <Dest>Přidává jasnou čelovku.</Dest>
     </String>
+    <String List="1" sID="0307A1">
+      <EDID>OmeletteEggDeathclaw</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Small Health Regen for 2 hours.</Source>
+      <Dest>Pomalá regenerace zdraví na 2 hodiny.</Dest>
+    </String>
     <String List="1" sID="0307C5">
       <EDID>PA_Material_HotRod03</EDID>
       <REC>OMOD:DESC</REC>
@@ -4224,6 +4219,12 @@
       <Source>+25% Damage and +25% Critical Chance for 8 minutes.</Source>
       <Dest>+25 % k poškození a +25 % k šanci na kritický zásah na 8 minut.</Dest>
     </String>
+    <String List="1" sID="0308DF">
+      <EDID>OmeletteEggRadscorpion</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Cures addictions.</Source>
+      <Dest>Léčí závislosti.</Dest>
+    </String>
     <String List="1" sID="030912">
       <EDID>OrangeMentats</EDID>
       <REC>ALCH:DESC</REC>
@@ -4235,6 +4236,18 @@
       <REC>OMOD:DESC</REC>
       <Source>Increases Agility with all pieces painted.</Source>
       <Dest>Zvyšuje hbitost, jsou-li natřené všechny části zbroje.</Dest>
+    </String>
+    <String List="1" sID="030990">
+      <EDID>OmeletteEggDeathclawPristine</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Small Health Regen and +50 Max Health for 2 hours.</Source>
+      <Dest>Pomalá regenerace zdraví a +50 k maximálnímu zdraví na 2 hodiny.</Dest>
+    </String>
+    <String List="1" sID="0309CF">
+      <EDID>OmeletteEggMirelurk</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Restores 50 AP.</Source>
+      <Dest>Obnovuje 50 AB.</Dest>
     </String>
     <String List="1" sID="030BC7">
       <EDID>PA_WaterBreathTime</EDID>

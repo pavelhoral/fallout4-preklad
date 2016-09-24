@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0127AF">
@@ -2560,7 +2561,7 @@
       <EDID>mod_Legendary_Weapon_RadiationDamage</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Irradiated</Source>
-      <Dest>Ozářená zbraň</Dest>
+      <Dest>Ozářená</Dest>
     </String>
     <String List="0" sID="03153E">
       <EDID>mod_melee_Machete_Sacrificial</EDID>
@@ -2608,7 +2609,7 @@
       <EDID>mod_Legendary_Weapon_Speed</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Rapid</Source>
-      <Dest>Rychlá zbraň</Dest>
+      <Dest>Rychlík</Dest>
     </String>
     <String List="0" sID="0322E2">
       <EDID>mod_Legendary_Weapon_Bleed</EDID>
@@ -2650,7 +2651,7 @@
       <EDID>mod_Legendary_Weapon_ChanceToStagger</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Staggering</Source>
-      <Dest>Vrávorajicí zbraň</Dest>
+      <Dest>Cloumák</Dest>
     </String>
     <String List="0" sID="032466">
       <EDID>mod_Legendary_Weapon_DamageInverseHealth</EDID>
@@ -2668,7 +2669,7 @@
       <EDID>mod_Legendary_Weapon_DamageNight</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Nocturnal</Source>
-      <Dest>Noční zbraň</Dest>
+      <Dest>Soumrak</Dest>
     </String>
     <String List="0" sID="0324EC">
       <EDID>mod_Legendary_Weapon_DamageVsAnimals</EDID>
@@ -2782,7 +2783,7 @@
       <EDID>mod_Legendary_Weapon_DamageConsecutiveHits</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Furious</Source>
-      <Dest>Vzteklá zbraň</Dest>
+      <Dest>Vztekloun</Dest>
     </String>
     <String List="0" sID="032CF3">
       <EDID>mod_Legendary_Weapon_DamageUnarmored</EDID>
@@ -3347,12 +3348,6 @@
       <REC>OMOD:DESC</REC>
       <Source>Standard.</Source>
       <Dest>Standardní.</Dest>
-    </String>
-    <String List="1" sID="01C244">
-      <EDID>mod_melee_Sledgehammer_Null</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="01C37C">
       <EDID>mod_melee_PipeWrench_SpikesLarge</EDID>
@@ -4721,12 +4716,6 @@
       <REC>OMOD:DESC</REC>
       <Source>Increased damage vs armored targets</Source>
       <Dest>Zvýšené poškození proti obrněným cílům.</Dest>
-    </String>
-    <String List="1" sID="02B36A">
-      <EDID>mod_melee_BaseballBat_LogoWorldChampions</EDID>
-      <REC>OMOD:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="02B3B9">
       <EDID>mod_melee_BaseballBat_LogoB_NOTUSED</EDID>

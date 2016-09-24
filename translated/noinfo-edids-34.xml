@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="000140">
@@ -3026,7 +3027,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>Invalid Target.</Source>
       <Dest>Neplatný cíl.</Dest>
     </String>
-    <String List="0" sID="0359A5">
+    <String List="0" sID="0359A5" Partial="2">
       <EDID>sTopicSubtypeTextMiscellaneousGreeting</EDID>
       <REC>GMST:DATA</REC>
       <Source>Greeting</Source>
@@ -3044,7 +3045,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>Retrieve</Source>
       <Dest>Retrieve</Dest>
     </String>
-    <String List="0" sID="0359A9">
+    <String List="0" sID="0359A9" Partial="2">
       <EDID>sTopicSubtypeTextFavorAgree</EDID>
       <REC>GMST:DATA</REC>
       <Source>Agree</Source>
@@ -3134,11 +3135,11 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>This person cannot be commanded by you.</Source>
       <Dest>Této osobě nemůžeš dávat příkazy.</Dest>
     </String>
-    <String List="0" sID="0359E3" Partial="1">
+    <String List="0" sID="0359E3">
       <EDID>sWorkshopWallItemsStored</EDID>
       <REC>GMST:DATA</REC>
       <Source>Clamped items were stored in the Workbench.</Source>
-      <Dest>Přimontované předměty byly uloženy v dílně.</Dest>
+      <Dest>Přimontované předměty byly uloženy v dílenském kontejneru.</Dest>
     </String>
     <String List="0" sID="0359E5">
       <EDID>sWorkshopItemsUsed</EDID>
@@ -3266,7 +3267,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>Confirm travel?</Source>
       <Dest>Potvrdit cestu?</Dest>
     </String>
-    <String List="0" sID="035A55" Partial="1">
+    <String List="0" sID="035A55">
       <EDID>sWorkshopItemStored</EDID>
       <REC>GMST:DATA</REC>
       <Source>Item stored in the Workbench.</Source>
@@ -3290,7 +3291,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>Reject</Source>
       <Dest>Reject</Dest>
     </String>
-    <String List="0" sID="035A64">
+    <String List="0" sID="035A64" Partial="2">
       <EDID>sTopicSubtypeTextFavorRefuse</EDID>
       <REC>GMST:DATA</REC>
       <Source>Refuse</Source>
@@ -3302,13 +3303,13 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <Source>Water</Source>
       <Dest>Voda</Dest>
     </String>
-    <String List="0" sID="035A6D" Partial="1">
+    <String List="0" sID="035A6D">
       <EDID>sWorkshopContainerContentsTransferred</EDID>
       <REC>GMST:DATA</REC>
       <Source>Contents transferred to the Workbench.</Source>
-      <Dest>Předměty přesunuty do dílenského kontejneru.</Dest>
+      <Dest>Obsah přesunut do dílenského kontejneru.</Dest>
     </String>
-    <String List="0" sID="035A77">
+    <String List="0" sID="035A77" Partial="2">
       <EDID>sTopicSubtypeTextFavorTrade</EDID>
       <REC>GMST:DATA</REC>
       <Source>Trade</Source>
@@ -3733,12 +3734,6 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <REC>MESG:DESC</REC>
       <Source> </Source>
       <Dest> </Dest>
-    </String>
-    <String List="1" sID="018BD5">
-      <EDID>SupermutantBehemothRace</EDID>
-      <REC>RACE:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="01D4FE">
       <EDID>terminalTurretStatusDead</EDID>

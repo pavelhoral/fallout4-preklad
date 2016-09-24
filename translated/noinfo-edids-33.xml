@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="000031">
@@ -3226,6 +3227,12 @@ Vítejte, předáku.</Dest>
       <Source>+10 AP for 30 minutes.</Source>
       <Dest>+10 AB na 30 minut.</Dest>
     </String>
+    <String List="1" sID="0307D6">
+      <EDID>SteakDeathclaw</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+1 Agility for 1 hour.</Source>
+      <Dest>+1 hbitost na 1 hodinu.</Dest>
+    </String>
     <String List="1" sID="03080F">
       <EDID>steakStingwing</EDID>
       <REC>ALCH:DESC</REC>
@@ -3292,6 +3299,12 @@ Vítejte, předáku.</Dest>
       <Source>+25 Carry Weight for 1 hour</Source>
       <Dest>+25 nosnost na 1 hodinu.</Dest>
     </String>
+    <String List="1" sID="031FE0">
+      <EDID>StealthBoy</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Invisible for 30 seconds.</Source>
+      <Dest>Neviditelnost na 30 vteřin.</Dest>
+    </String>
     <String List="1" sID="03218E">
       <EDID>SquirrelStew</EDID>
       <REC>ALCH:DESC</REC>
@@ -3321,6 +3334,12 @@ Vítejte, předáku.</Dest>
       <REC>ALCH:DESC</REC>
       <Source>Increased Radiation Resistance.</Source>
       <Dest>Zvýšená odolnost vůči radiaci.</Dest>
+    </String>
+    <String List="1" sID="0362AA">
+      <EDID>StealthBoyBonuses</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You are now 50% harder to detect while sneaking, and engaging stealth causes distant enemies to lose you.</Source>
+      <Dest>Při plížení je o 50 % obtížnější tě zpozorovat a při přechodu do skrytu tě vzdálení nepřátelé ztratí.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

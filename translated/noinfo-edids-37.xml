@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="003199">
@@ -132,7 +133,7 @@
       <Source>Power Armor Station</Source>
       <Dest>Stojan na úpravu energozbroje</Dest>
     </String>
-    <String List="0" sID="014A74" Partial="1">
+    <String List="0" sID="014A74">
       <EDID>WorkshopNPCSpawner</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Spawn Workshop NPC</Source>
@@ -420,7 +421,7 @@
       <Source>Shack Wall and Roof</Source>
       <Dest>Stěna a střecha</Dest>
     </String>
-    <String List="0" sID="01B191" Partial="1">
+    <String List="0" sID="01B191">
       <EDID>WorkshopParent</EDID>
       <REC>QUST:FULL</REC>
       <Source>Workshop Parent Quest</Source>
@@ -540,11 +541,11 @@
       <Source>Settlement Recruitment Beacon</Source>
       <Dest>Osadnický náborový radiomaják</Dest>
     </String>
-    <String List="0" sID="01D574" Partial="1">
+    <String List="0" sID="01D574">
       <EDID>WorkbenchPowerArmorRecallArmorMSG</EDID>
       <REC>MESG:FULL</REC>
       <Source>Recalling last used Power Armor</Source>
-      <Dest>Recalling last used Power Armor</Dest>
+      <Dest>Přivolání poslední použité energozbroje</Dest>
     </String>
     <String List="0" sID="01D636">
       <EDID>WestEverettEstatesLocation</EDID>
@@ -630,7 +631,7 @@
       <Source>Structures</Source>
       <Dest>Stavba</Dest>
     </String>
-    <String List="0" sID="01DCA5" Partial="1">
+    <String List="0" sID="01DCA5">
       <EDID>WorkshopMenu01Resource</EDID>
       <REC>FLST:FULL</REC>
       <Source>Resource Production</Source>
@@ -971,12 +972,6 @@
       <REC>ACTI:FULL</REC>
       <Source>Generator - Large</Source>
       <Dest>Generátor - velký</Dest>
-    </String>
-    <String List="0" sID="02573A">
-      <EDID>WellRestedEffect</EDID>
-      <REC>MGEF:DNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="025879">
       <EDID>workshop_ShackBalconyFloor05</EDID>
@@ -2736,6 +2731,12 @@
       <Source>No Power Armor at Workstation.</Source>
       <Dest>Na pracovišti není žádná energozbroj.</Dest>
     </String>
+    <String List="1" sID="01D575">
+      <EDID>WorkbenchPowerArmorRecallArmorMSG</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>No Power Armor at Workstation, recalling last used Power Armor.</Source>
+      <Dest>Žádná energozbroj k dispozici na pracovní stanici, přivolání poslední použité energozbroje.</Dest>
+    </String>
     <String List="1" sID="026BDD">
       <EDID>WorkshopPlayerLostControl</EDID>
       <REC>AVIF:DESC</REC>
@@ -2825,6 +2826,12 @@
       <REC>COBJ:DESC</REC>
       <Source>Only 1 per location. Moves the fast travel arrival point.</Source>
       <Dest>Pouze 1 na lokaci. Přemisťuje příchozí bod rychlého cestování.</Dest>
+    </String>
+    <String List="1" sID="030E5E">
+      <EDID>WellRestedXPBonus</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>You had a great sleep, and feel alert and invigorated! +10% XP earned for a limited time.</Source>
+      <Dest>Máš za sebou skvělý spánek a cítíš se čile a v plné síle! +10 % k získaným zkušenostem na omezenou dobu.</Dest>
     </String>
     <String List="1" sID="031BF7">
       <EDID>workshop_co_CaravanHitchingPost</EDID>

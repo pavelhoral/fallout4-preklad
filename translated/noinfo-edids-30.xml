@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="001759">
@@ -4359,11 +4360,11 @@ Musíme to tempo vydržet.</Dest>
       <Source>Settler</Source>
       <Dest>Osadník</Dest>
     </String>
-    <String List="0" sID="0305CF" Partial="1">
+    <String List="0" sID="0305CF">
       <EDID>RETravelRJ01_SkrapRat</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Skrap Rat</Source>
-      <Dest>Skrap Rat</Dest>
+      <Dest>Šroťačka</Dest>
     </String>
     <String List="0" sID="0305E1">
       <EDID>RETravelSC03_ImpersonatorName</EDID>
@@ -4406,7 +4407,7 @@ Musíme to tempo vydržet.</Dest>
       <REC id="0">TERM:UNAM</REC>
       <Source>The Gentleman: Maintaining loose surveillance. Nothing new.&#xD;
 &#xD;
-Big Cheese: Being very careful. Interactions with Redou are suspicious. Strange hours being kept. Definitely abnormal behavior. Separate report will be filed.&#xD;
+Big Cheese: Being very careful. Interactions with Red are suspicious. Strange hours being kept. Definitely abnormal behavior. Separate report will be filed.&#xD;
 &#xD;
 Snowbird: Bread crumbs in place. Need Snowbird's code name from HQ. Would make it easier to track movements. I got a theory.&#xD;
 &#xD;
@@ -4417,7 +4418,7 @@ Jukebox: Well-positioned. Plays it close to the vest. Confirmed 2 Switchboard ag
 Camper: Going to back up D. Camper's daughter is gone. All the signs point to an enemy job. Spoiling for revenge. Possible suicide risk, need to move fast. We need new agents.</Source>
       <Dest>Gentleman: Udržuji volný dohled. Nic nového.&#xD;
 &#xD;
-Cihla sýra: Velká opatrnost. Interakce s Červenou jsou podezřelé. Podivný denní režim. Rozhodně nenormální chování. Bude připravena samostatná zpráva.&#xD;
+Sýrař: Velká opatrnost. Interakce s Redou jsou podezřelé. Podivný denní režim. Rozhodně nenormální chování. Bude připravena samostatná zpráva.&#xD;
 &#xD;
 Ptáček: Cestička připravená. Potřebuji z velitelství krycí jméno Ptáčka. Usnadnilo by to sledování pohybů. Mám teorii. &#xD;
 &#xD;
@@ -5683,7 +5684,7 @@ Sharon</Dest>
       <Source>Steph, they know! Don't ask me how, but they found out what you did. I don't think they know where you're hiding, and I hope to God this finds you first, but you have to pack up and get the hell out of there, ok? Don't tell anyone where you're going this time! I'll try and delay them as much as I can, but you'd better hurry.</Source>
       <Dest>Steph, oni to vědí! Neptej se mě jak, ale přišli na to, co jsi udělala. Myslím, že nevědí, kde se schováváš a modlím se, aby se toto k Tobě dostalo dřív než oni. Musíš se sbalit a vypadnout odtamtud, jasný? Nikomu tentokrát neříkej, kam jdeš! Pokusím se je co nejdéle zdržet, ale raději si pospěš.</Dest>
     </String>
-    <String List="1" sID="030606" Partial="1">
+    <String List="1" sID="030606">
       <EDID>RETravelRJ01_Note</EDID>
       <REC>BOOK:DESC</REC>
       <Source>Bradlee,&#xD;
@@ -5693,9 +5694,9 @@ Look, I know you've doubted me since we killed that guy who came into our camp, 
 Skrap Rat</Source>
       <Dest>Bradlee,&#xD;
 &#xD;
-Podívej, já vím, že o mně pochybuješ od té doby, co jsme zabili toho chlápka, který přišel do našeho tábora, ale tak tady prostě fungujeme. Nemám čas se pokoušet zjišťovat, jestli se nově příchozímu dá věřit, nebo jestli nám všem v noci podřízne krk. Nemám na výběr. Prostě vidím cizince, zabiju ho. Je to pro dobro naší party. &#xD;
+Podívej, já vím, že o mně pochybuješ od té doby, co jsme zabili toho chlápka, který přišel do našeho tábora, ale tak tady prostě fungujeme. Nemám čas se pokoušet zjišťovat, jestli se nově příchozímu dá věřit, nebo jestli nám všem hned první noc podřízne krk. Nemám na výběr. Prostě vidím cizince, zabiju ho. Je to pro dobro naší party. &#xD;
 &#xD;
-Skrap Rat</Dest>
+Veteš Krysa</Dest>
     </String>
     <String List="1" sID="0306C7">
       <EDID>RESceneRJ02_Note09</EDID>

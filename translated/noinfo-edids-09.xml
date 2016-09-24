@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0126E0">
@@ -36,7 +37,7 @@
       <Source>Safety First</Source>
       <Dest>Bezpečnost především</Dest>
     </String>
-    <String List="0" sID="01289E" Partial="1">
+    <String List="0" sID="01289E">
       <EDID>DN049</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN049 - General Atomics Galleria]</Source>
@@ -550,7 +551,7 @@ Franšízové smlouvy Maddenovy tělocvičny dovolují lokálním provozovatelů
       <Source>Mainframe Terminal</Source>
       <Dest>Střediskový terminál</Dest>
     </String>
-    <String List="0" sID="01412A" Partial="1">
+    <String List="0" sID="01412A">
       <EDID>DN017_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN017 - Arcjet Systems Change Location]</Source>
@@ -772,11 +773,11 @@ Vedení</Dest>
       <Source>Unidentified Sample 11317</Source>
       <Dest>Neidentifikovaný vzorek 11317</Dest>
     </String>
-    <String List="0" sID="0156F8" Partial="1">
+    <String List="0" sID="0156F8">
       <EDID>DN040_SecurityDoorTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>[Hack] Toggle Security Door</Source>
-      <Dest>[Hack] Přepnout bezpečnostní dveře</Dest>
+      <Dest>[Hackovat] Změnit stav bezpečnostních dveří</Dest>
     </String>
     <String List="0" sID="0157F6">
       <EDID>DN042FenwayPhantom</EDID>
@@ -842,7 +843,7 @@ Proces nouzové sebedestrukce obchodní galerie byl spuštěn. Evakuujte, prosí
       <Source>Toggling Security Door. Please wait...&#xD;
 &#xD;
 </Source>
-      <Dest>Přepínám bezpečnostní dveře. Čekejte, prosím...</Dest>
+      <Dest>Změna stavu bezpečnostních dveří. Čekejte, prosím...</Dest>
     </String>
     <String List="0" sID="015D69">
       <EDID>DN033_SubTerminalSafety</EDID>
@@ -1039,7 +1040,7 @@ Zjistil jsem, že jsou tu okolo další přeživší. Nekteří z nich vypadají
       <Source>Exam Room Terminal</Source>
       <Dest>Terminál zkušební místnosti</Dest>
     </String>
-    <String List="0" sID="016693" Partial="1">
+    <String List="0" sID="016693">
       <EDID>DN053_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN053 - Virgil's Lab Change Location]</Source>
@@ -1102,11 +1103,11 @@ Výběr zaměřovacího režimu:</Dest>
       <Source>Blood Storage Refrigerator</Source>
       <Dest>Chladnička pro skladování krve</Dest>
     </String>
-    <String List="0" sID="016A3E" Partial="1">
+    <String List="0" sID="016A3E">
       <EDID>DN040_SecurityDoorTerminalCOPY0000</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>[Password] Toggle Security Door</Source>
-      <Dest>[Password] Přepnout bezpečnostní dveře</Dest>
+      <Dest>[Heslo] Změnit stav bezpečnostních dvěří</Dest>
     </String>
     <String List="0" sID="016AFC">
       <EDID>DN029FireCannonActivator</EDID>
@@ -1173,7 +1174,7 @@ Spustitelné operace:&#xD;
       <Source>Disable Security System</Source>
       <Dest>Vypnout bezpečnostní systém</Dest>
     </String>
-    <String List="0" sID="016EC5" Partial="1">
+    <String List="0" sID="016EC5">
       <EDID>DN070</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN070 - Jamaica Plain]</Source>
@@ -1423,11 +1424,11 @@ Sahám po zbrani na zemi a kovová ruka není mou vlastní. Podívám se dolů, 
       <Source>Defeat the Gunners</Source>
       <Dest>Poraž Ranaře</Dest>
     </String>
-    <String List="0" sID="018184" Partial="1">
+    <String List="0" sID="018184">
       <EDID>DN040_SecurityDoorTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>[Password] Toggle Security Door</Source>
-      <Dest>[Password] Přepnout bezpečnostní dveře</Dest>
+      <Dest>[Heslo] Změnit stav bezpečnostních dvěří</Dest>
     </String>
     <String List="0" sID="0181F9">
       <EDID>DN070</EDID>
@@ -1444,7 +1445,7 @@ Sahám po zbrani na zemi a kovová ruka není mou vlastní. Podívám se dolů, 
 &#xD;
 </Source>
       <Dest>=================================================&#xD;
-    Soukromé záznamy uživatele &lt;Phyllis Dailyová&gt;&#xD;
+    Osobní záznamy uživatele &lt;Phyllis Dailyová&gt;&#xD;
 =================================================</Dest>
     </String>
     <String List="0" sID="018374">
@@ -1613,7 +1614,7 @@ Všechny výsledky krevních testů pí. Martinové mají být předány na př�
       <Source>Tour Schedule</Source>
       <Dest>Plán výletu</Dest>
     </String>
-    <String List="0" sID="018E35" Partial="1">
+    <String List="0" sID="018E35">
       <EDID>DN035</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN035 - Easy City Downs]</Source>
@@ -2414,7 +2415,7 @@ Pro ovladače zařízení se prosím obraťte na prodejce.&#xD;
       <EDID>DN040_SecurityDoorTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Releasing Security Door. Please wait...</Source>
-      <Dest>Uvolňuji bezpečnostní dveře. Čekejte, prosím...</Dest>
+      <Dest>Uvolňování zámku bezpečnostních dveří. Čekejte, prosím...</Dest>
     </String>
     <String List="0" sID="01CD92">
       <EDID>DN035_RobotControlTerminal_Route</EDID>
@@ -2754,9 +2755,9 @@ Nouzové vypnutí pošle příkaz všem připojeným robotům. Tato operace nem�
       <Source>Toggling Security Door. Please wait...&#xD;
 &#xD;
 </Source>
-      <Dest>Přepínám bezpečnostní dveře. Čekejte, prosím...</Dest>
+      <Dest>Změna stavu bezpečnostních dveří. Čekejte, prosím...</Dest>
     </String>
-    <String List="0" sID="01EA1A" Partial="1">
+    <String List="0" sID="01EA1A">
       <EDID>DN031</EDID>
       <REC>QUST:FULL</REC>
       <Source>[Parsons State Insane Asylum]</Source>
@@ -2962,7 +2963,7 @@ Brad, PM Stanice 3</Dest>
       <Source>Faneuil Hall - Manager's Office</Source>
       <Dest>Hala Faneuil - Kancelář ředitele</Dest>
     </String>
-    <String List="0" sID="02091F" Partial="1">
+    <String List="0" sID="02091F">
       <EDID>DN053</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN053 - Virgil's Lab, Act III]</Source>
@@ -3293,7 +3294,7 @@ Trasa restartována úspěšně.</Dest>
       <Source>Picking yard manifest</Source>
       <Dest>Seznam sběrného dvora</Dest>
     </String>
-    <String List="0" sID="023546" Partial="1">
+    <String List="0" sID="023546">
       <EDID>DN046_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[Fort Strong Change Location]</Source>
@@ -3383,11 +3384,11 @@ Lexington je teď ale zajištěnej, konečně se můžu pustit do práce.</Dest>
       <Source>Kellogg's Terminal</Source>
       <Dest>Kelloggův terminál</Dest>
     </String>
-    <String List="0" sID="023F98" Partial="1">
+    <String List="0" sID="023F98">
       <EDID>DN040_SecurityDoorTerminalCOPY0000</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>[Hack] Toggle Security Door</Source>
-      <Dest>[Hack] Přepnout bezpečnostní dveře</Dest>
+      <Dest>[Hackovat] Změnit stav bezpečnostních dveří</Dest>
     </String>
     <String List="0" sID="024009">
       <EDID>DN020_PrincipalTerminal</EDID>
@@ -3460,7 +3461,7 @@ Funkce nepřipojena. Prosím, kontaktujte svého administrátora</Dest>
       <EDID>DN036Terminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Personal Logs</Source>
-      <Dest>Soukromé záznamy</Dest>
+      <Dest>Osobní záznamy</Dest>
     </String>
     <String List="0" sID="0243C2">
       <EDID>DN053</EDID>
@@ -3528,13 +3529,13 @@ Funkce nepřipojena. Prosím, kontaktujte svého administrátora</Dest>
       <Source>Message From "Management"&#xD;
 Message To "_ProjectManagersAll" - Received&#xD;
 --&#xD;
-Annual Picnic this year will be held near the entrance to the quarry, rain or shine. Feel free to bring a dish of any kind. Nuka Cola will be provided. If you're bringing children, please keep an eye on them, epecially if they are playing near the quarry ledge. To prevent a repeat of last year's incident, we are excited to announce that we've struck a deal with Robco and they will be providing an extra Sentry Bot to keep everyone in order.&#xD;
+Annual Picnic this year will be held near the entrance to the quarry, rain or shine. Feel free to bring a dish of any kind. Nuka-Cola will be provided. If you're bringing children, please keep an eye on them, epecially if they are playing near the quarry ledge. To prevent a repeat of last year's incident, we are excited to announce that we've struck a deal with Robco and they will be providing an extra Sentry Bot to keep everyone in order.&#xD;
 &#xD;
 Management</Source>
       <Dest>Zpráva od „Vedení“&#xD;
 Zpráva pro „_VšichniProjektovíManažeři“ - Doručeno&#xD;
 --&#xD;
-Každoroční piknik se tento rok uskuteční nedaleko vstupu do lomu, za deště i za sluníčka. Klidně si přineste jakékoli jídlo. Nuka Cola bude zajištěna. Pokud si přivedete děti, dávejte na ně prosím pozor, obzvláště, pokud si budou hrát u okraje lomu. Abychom předešli podobným událostem, jako byla ta loňská, rádi bychom oznámili, že jsme uzavřeli dohodu s Robco a ti nám poskytnou strážního robota navíc, který bude dohlížet na pořádek.&#xD;
+Každoroční piknik se tento rok uskuteční nedaleko vstupu do lomu, za deště i za sluníčka. Klidně si přineste jakékoli jídlo. Nuka-Cola bude zajištěna. Pokud si přivedete děti, dávejte na ně prosím pozor, obzvláště, pokud si budou hrát u okraje lomu. Abychom předešli podobným událostem, jako byla ta loňská, rádi bychom oznámili, že jsme uzavřeli dohodu s Robco a ti nám poskytnou strážního robota navíc, který bude dohlížet na pořádek.&#xD;
 &#xD;
 Vedení</Dest>
     </String>
@@ -3753,7 +3754,7 @@ Výjimečné vtry pro výjimečné lidi&#xD;
       <EDID>DN040_SecurityDoorTerminalCOPY0000</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Releasing Security Door. Please wait...</Source>
-      <Dest>Uvolňuji bezpečnostní dveře. Čekejte, prosím...</Dest>
+      <Dest>Uvolňování zámku bezpečnostních dveří. Čekejte, prosím...</Dest>
     </String>
     <String List="0" sID="025345">
       <EDID>DN036Terminal</EDID>
@@ -3789,7 +3790,7 @@ Výjimečné vtry pro výjimečné lidi&#xD;
       <EDID>DN036Terminal_SubJournal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Personal Logs</Source>
-      <Dest>Soukromé záznamy</Dest>
+      <Dest>Osobní záznamy</Dest>
     </String>
     <String List="0" sID="0254CC">
       <EDID>DN033_SubTerminalCommunications3</EDID>
@@ -3815,7 +3816,7 @@ Výjimečné vtry pro výjimečné lidi&#xD;
       <Source>Ricca</Source>
       <Dest>Ricca</Dest>
     </String>
-    <String List="0" sID="025634" Partial="1">
+    <String List="0" sID="025634">
       <EDID>DN046</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN046 - Fort Strong]</Source>
@@ -3958,7 +3959,7 @@ VAROVÁNÍ: RESTARTOVÁNÍ SYSTÉMŮ VRÁTÍ FUNKCE DO TOVÁRNÍHO NASTAVENÍ. N
       <Source>Safe</Source>
       <Dest>Trezor</Dest>
     </String>
-    <String List="0" sID="0260B1" Partial="1">
+    <String List="0" sID="0260B1">
       <EDID>DN020</EDID>
       <REC>QUST:FULL</REC>
       <Source>[Chelsea Community School Quest]</Source>
@@ -4645,7 +4646,7 @@ Stanice 2, Projektový manažer</Dest>
       <EDID>DN041_Holotape01</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Employee 011985TP Personal Log</Source>
-      <Dest>Soukromý záznam zaměstnance 011985TP</Dest>
+      <Dest>Osobní záznam zaměstnance 011985TP</Dest>
     </String>
     <String List="0" sID="0289DA">
       <EDID>DN041_Radio03</EDID>
@@ -5038,7 +5039,7 @@ Továrna General Atomics  &#xD;
       <EDID>DN050KincaidTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Personal Logs</Source>
-      <Dest>Soukromé záznamy</Dest>
+      <Dest>Osobní záznamy</Dest>
     </String>
     <String List="0" sID="029447">
       <EDID>DN062PrincipalTerminalLogs</EDID>
@@ -6508,12 +6509,6 @@ Bezpečnostní terminál konzervárny Čtyřlístek&#xD;
       <Source>Cell Terminal</Source>
       <Dest>Terminál cel</Dest>
     </String>
-    <String List="0" sID="02C6C9">
-      <EDID>DN066_LobbyTerminal</EDID>
-      <REC>TERM:BTXT</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="0" sID="02C6DD">
       <EDID>DN034_TortureTerminal02</EDID>
       <REC id="1">TERM:ITXT</REC>
@@ -7611,7 +7606,7 @@ Zastavení dokončeno. Všichni roboti byli vypnuti.</Dest>
       <Source>Disable Combat Inhibitors</Source>
       <Dest>Zakázat bojové inhibitory</Dest>
     </String>
-    <String List="0" sID="02DD43" Partial="1">
+    <String List="0" sID="02DD43">
       <EDID>DN070_Baseball</EDID>
       <REC>MISC:FULL</REC>
       <Source>Youth League Baseball</Source>
@@ -8295,7 +8290,7 @@ Státní správa zahájila izolaci tohoto zařízení. Veškerý bezpečnostní 
       <Source>***SECURITY ALERT***</Source>
       <Dest>***BEZPEČNOSTNÍ POPLACH***</Dest>
     </String>
-    <String List="0" sID="02ED5D" Partial="1">
+    <String List="0" sID="02ED5D">
       <EDID>DN015_Robot</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>Default_MrHandy</Source>
@@ -8982,7 +8977,7 @@ Pokud na ni Tom nějak sáhnul, vyrvu tomu bastardovi srdce a připíchnu si ho 
       <Source>Something's Not Right</Source>
       <Dest>Něco není v pořádku</Dest>
     </String>
-    <String List="0" sID="030C77" Partial="1">
+    <String List="0" sID="030C77">
       <EDID>DN028_BossTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Torque's mutt. I think it was sick. Since the bite, I've been blacking out, can't keep my temprr tem[rr&#xD;
@@ -8995,16 +8990,16 @@ FUCK THLS KEYBOAED&#xD;
 Having some trouble keeping my temper in check. No one in the crew seems to suspect anything, but if this keeps getting worse, someone's gonna think they can do this job better.&#xD;
 &#xD;
 Time I made a statement.</Source>
-      <Dest>Krouťákův čokl. Myslím, že byl nemocný. Od toho kousnutí mívám výpadky, nemůžu udržet svoje nervrvyyy tem[rr&#xD;
+      <Dest>Krouťákův čokl. Myslím, že byl nemocný. Od toho kousnutí mívám výpadky, nemůžu udržet svoje nerrrrv ner[yy&#xD;
 &#xD;
-TEMPER&#xD;
-IN&#xD;
-CHECK&#xD;
-FUCK THLS KEYBOAED&#xD;
+NERVY&#xD;
+NA &#xD;
+UZDĚ&#xD;
+ZKURVENÁ KLÁVSENIE&#xD;
 &#xD;
-Having some trouble keeping my temper in check. No one in the crew seems to suspect anything, but if this keeps getting worse, someone's gonna think they can do this job better.&#xD;
+Mám problémy udržet svoje nervy na uzdě. Nikdo v bandě nic netuší, ale jestli se to bude zhoršovat, tak si někdo může myslet, že by mojí práci zvládnul líp.&#xD;
 &#xD;
-Time I made a statement.</Dest>
+Na čase se k tomu vyjádřit.</Dest>
     </String>
     <String List="0" sID="030C7E">
       <EDID>DN063_BossTerminal</EDID>
@@ -9738,7 +9733,7 @@ Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unave
       <Source>Alpha Team just shipped out the first batch of T-51B suits to the front in China. Reports are already coming in that the suits are performing better than expected, chewing through enemy tanks and armor like they were paper. Word has it that some of the enemy troops are even surrendering when they catch sight of the Power Armor troops hauling their 5mm Miniguns. Looks like Alpha Team has earned themselves a weekend pass in Boston.</Source>
       <Dest>Tým Alpha právě odeslal první dodávku energozbrojí T-51B na čínskou frontu. Už přicházejí první zprávy a zdá se, že si zbroje vedou lépe, než se čekalo. Prokousávají se nepřátelskými tanky jako by byly z papíru. Prý se dokonce některé nepřátelské jednotky vzdávají, když vidí jednotky v energozbrojích, jak zvedají své rotační kulomety. Zdá se, že si tým Alpha vysloužil víkendový opušťák do Bostonu.</Dest>
     </String>
-    <String List="0" sID="032EAB" Partial="1">
+    <String List="0" sID="032EAB">
       <EDID>DN035_EasyCityRadioOverrides</EDID>
       <REC>QUST:FULL</REC>
       <Source>[Easy City Downs Radio Overrides]</Source>
@@ -9912,7 +9907,7 @@ NEJSI ZEKE? TAK NAMIŘ KUKADLA JINAM!!!&#xD;
       <EDID>DN017_JunkjetHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Technician's Personal Log</Source>
-      <Dest>Technikův soukromý záznam</Dest>
+      <Dest>Technikovy osobní záznamy</Dest>
     </String>
     <String List="0" sID="033F9E">
       <EDID>DN039_BldWoodPDoor02_DontOpenInSearch</EDID>
@@ -10128,7 +10123,7 @@ Přístup zamítnut.</Dest>
       <Source>Missing Eyes: Right</Source>
       <Dest>Chybějící oči: pravé</Dest>
     </String>
-    <String List="0" sID="0358BD" Partial="1">
+    <String List="0" sID="0358BD">
       <EDID>DN049_LvlMrHandy_Outlet</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>Default_MrHandy</Source>

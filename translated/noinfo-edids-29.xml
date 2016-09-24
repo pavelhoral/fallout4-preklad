@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0001F6">
@@ -1239,12 +1240,6 @@ Hele, kdyby nám příroda nadělila jeskyni hned pod obchodem, tak se tomu snad
       <Source>Camp - Deserted Camp with Mines</Source>
       <Dest>Camp - Deserted Camp with Mines</Dest>
     </String>
-    <String List="0" sID="01E107">
-      <EDID>ReconScopeQuest</EDID>
-      <REC id="1">QUST:NNAM</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="0" sID="01E138">
       <EDID>RECampCT03</EDID>
       <REC>QUST:FULL</REC>
@@ -2002,7 +1997,7 @@ Jsem si jist, že jí můžeme pomoct.</Dest>
       <Source>Quentin Filmore</Source>
       <Dest>Quentin Filmore</Dest>
     </String>
-    <String List="0" sID="0281AA" Partial="1">
+    <String List="0" sID="0281AA">
       <EDID>RadioDiamondCitySSMistress</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Mistress of Mysterious</Source>
@@ -2994,11 +2989,12 @@ Stav věže [NEAKTIVNÍ]&#xD;
       <Source>Faction Assault: BoS vs. Minutemen</Source>
       <Dest>Faction Assault: BoS vs. Minutemen</Dest>
     </String>
-    <String List="0" sID="02FC9A" Partial="1">
+    <String List="0" sID="02FC9A">
       <EDID>REMerchant02Guard</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Gunner Mercenary</Source>
-      <Dest>Žoldák Ranařů</Dest>
+      <Dest>Žoldák Ranařů&#xD;
+</Dest>
     </String>
     <String List="0" sID="02FD42">
       <EDID>RelayTower11TransmitterName</EDID>
@@ -3372,11 +3368,11 @@ Stav věže [NEAKTIVNÍ]&#xD;
       <Source>All Books</Source>
       <Dest>Všechny knihy</Dest>
     </String>
-    <String List="0" sID="0321D8" Partial="1">
+    <String List="0" sID="0321D8">
       <EDID>RelayTowerOfflineMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>[OFFLINE]</Source>
-      <Dest>[OFFLINE]</Dest>
+      <Dest>[NEPŘIPOJENO]</Dest>
     </String>
     <String List="0" sID="0321E3">
       <EDID>QATestTerminal</EDID>
@@ -3774,7 +3770,7 @@ Stav věže [NEAKTIVNÍ]&#xD;
       <Source>Merchant</Source>
       <Dest>Obchodník</Dest>
     </String>
-    <String List="1" sID="014130" Partial="1">
+    <String List="1" sID="014130">
       <EDID>RadioDisplayEyebot</EDID>
       <REC>MESG:DESC</REC>
       <Source>Commonwealth EBS</Source>

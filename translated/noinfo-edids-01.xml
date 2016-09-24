@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="00039A">
@@ -1860,7 +1861,7 @@
       <Source>Powered Armor Frame</Source>
       <Dest>Rám energozbroje</Dest>
     </String>
-    <String List="0" sID="0245DD" Partial="1">
+    <String List="0" sID="0245DD">
       <EDID>ArmorBlockPercent</EDID>
       <REC>AVIF:FULL</REC>
       <Source>Armor Block Percent</Source>
@@ -2340,11 +2341,11 @@
       <Source>Raider Chest Piece</Source>
       <Dest>Nájezdnická zbroj (hrudní část)</Dest>
     </String>
-    <String List="0" sID="028B95" Partial="1">
+    <String List="0" sID="028B95">
       <EDID>ap_PowerArmor_Lining</EDID>
       <REC>KYWD:FULL</REC>
       <Source>Lining</Source>
-      <Dest>Lining</Dest>
+      <Dest>Podšívka</Dest>
     </String>
     <String List="0" sID="028C56">
       <EDID>Armor_RaiderMod_ArmLeft</EDID>
@@ -2778,11 +2779,11 @@
       <Source>Brotherhood Fatigues</Source>
       <Dest>Polní uniforma Bratrstva</Dest>
     </String>
-    <String List="0" sID="02E54A" Partial="1">
+    <String List="0" sID="02E54A">
       <EDID>ap_LightMod</EDID>
       <REC>KYWD:FULL</REC>
       <Source>Light Mod</Source>
-      <Dest>Light Mod</Dest>
+      <Dest>Úprava světla</Dest>
     </String>
     <String List="0" sID="02E72A">
       <EDID>abReducePerceptionAddiction</EDID>
@@ -3612,11 +3613,11 @@
       <Source>The T-45 series was the first version of Power Armor ever employed on the battlefield by the U.S. military. Many suits remain active in the Wasteland today, and provide their wearers with substantial protection.</Source>
       <Dest>Série T-45 byla první verzí energozbroje, kterou vojsko Spojených států na bojišti využilo. Mnoho kusů je v Pustině aktivních i dnes a svým uživatelům poskytují značnou ochranu.</Dest>
     </String>
-    <String List="0" sID="0336AA" Partial="1">
+    <String List="0" sID="0336AA">
       <EDID>ap_Railroad_ClothingArmor</EDID>
       <REC>KYWD:FULL</REC>
       <Source>No Weave</Source>
-      <Dest>No Weave</Dest>
+      <Dest>Bez vazby</Dest>
     </String>
     <String List="0" sID="033860">
       <EDID>Armor03PowerArmor6T51</EDID>
@@ -5484,11 +5485,11 @@
       <Source>+&lt;mag&gt; Carry Weight</Source>
       <Dest>+&lt;mag&gt; nosnost</Dest>
     </String>
-    <String List="0" sID="035940" Partial="1">
+    <String List="0" sID="035940">
       <EDID>ap_gun_Muzzle</EDID>
       <REC>KYWD:FULL</REC>
       <Source>No Muzzle</Source>
-      <Dest>No Muzzle</Dest>
+      <Dest>Bez úpravy ústí</Dest>
     </String>
     <String List="0" sID="035C09">
       <EDID>Aspiration_Weapon_Drumlin_OfficerSword</EDID>
@@ -5964,6 +5965,18 @@
       <Source>Your Action Points now regenerate 50% faster.</Source>
       <Dest>Tvé akční body se obnovují o 50 % rychleji.</Dest>
     </String>
+    <String List="1" sID="02C1E3">
+      <EDID>ArmorPenetration</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>For weapons with Armor Penetration. 0-100 (treat as % armor ignored)</Source>
+      <Dest>For weapons with Armor Penetration. 0-100 (treat as % armor ignored)</Dest>
+    </String>
+    <String List="1" sID="0308EC">
+      <EDID>Addictol</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>Cures all addictions.</Source>
+      <Dest>Léčí všechny závislosti.</Dest>
+    </String>
     <String List="1" sID="031883">
       <EDID>AttackDog03</EDID>
       <REC>PERK:DESC</REC>
@@ -5993,6 +6006,12 @@
       <REC>PERK:DESC</REC>
       <Source>When you successfully pacify an animal, you can give it specific commands.</Source>
       <Dest>Jakmile se ti podaří zvíře uklidnit, můžeš mu zadávat konkrétní příkazy.</Dest>
+    </String>
+    <String List="1" sID="032609">
+      <EDID>AddictionCount</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Count of the number of actively running addiction withdrawals.</Source>
+      <Dest>Počet aktivně působících abstitenčních příznaků.</Dest>
     </String>
     <String List="1" sID="0362CC">
       <EDID>Armor_Power_T60_LegLeft_Danse</EDID>

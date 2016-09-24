@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="000B1E">
@@ -30,7 +31,7 @@
       <Source>Torso</Source>
       <Dest>Trup</Dest>
     </String>
-    <String List="0" sID="009F82" Partial="1">
+    <String List="0" sID="009F82">
       <EDID>DefaultBodyPartData</EDID>
       <REC id="0">BPTD:BPTN</REC>
       <Source>Fly Grab</Source>
@@ -276,11 +277,11 @@
       <Source>Terminal</Source>
       <Dest>Terminál</Dest>
     </String>
-    <String List="0" sID="014604" Partial="1">
+    <String List="0" sID="014604">
       <EDID>defaultCreatureSpawnerDeathclawDoll</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Death Claw Spawner</Source>
-      <Dest>Párač Spawner</Dest>
+      <Dest>Death Claw Spawner</Dest>
     </String>
     <String List="0" sID="014627">
       <EDID>DN009_MQ205_Hello</EDID>
@@ -958,11 +959,11 @@ Stav: Veškeré DATA zkomprimována na holopásku&#xD;
       <Source>View Cargo Manifests</Source>
       <Dest>Zobrazit seznam nákladu</Dest>
     </String>
-    <String List="0" sID="01C237" Partial="1">
+    <String List="0" sID="01C237">
       <EDID>DialogueRailroad</EDID>
       <REC>QUST:FULL</REC>
       <Source>Railroad HQ - Core NPCs Generic</Source>
-      <Dest>Velitelství Železnice - Core NPCs Generic</Dest>
+      <Dest>Railroad HQ - Core NPCs Generic</Dest>
     </String>
     <String List="0" sID="01C5AD">
       <EDID>DialogueGeneric</EDID>
@@ -1748,11 +1749,11 @@ Stav: Veškeré DATA zkomprimována na holopásku&#xD;
       <Source>Security Terminal</Source>
       <Dest>Bezpečnostní terminál</Dest>
     </String>
-    <String List="0" sID="023DF7" Partial="1">
+    <String List="0" sID="023DF7">
       <EDID>DialogueRailroadGenericNPCs</EDID>
       <REC>QUST:FULL</REC>
       <Source>Railroad HQ - Generic Peeps</Source>
-      <Dest>Velitelství Železnice - Generic Peeps</Dest>
+      <Dest>Railroad HQ - Generic Peeps</Dest>
     </String>
     <String List="0" sID="023E84">
       <EDID>DeskLamp01</EDID>
@@ -2036,7 +2037,7 @@ JSTE SI JISTI?</Dest>
       <Source>Diamond City Radio Key</Source>
       <Dest>Klíč k rádiu Diamond City</Dest>
     </String>
-    <String List="0" sID="0254C0">
+    <String List="0" sID="0254C0" Partial="2">
       <EDID>DarcyPembroke</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Darcy</Source>
@@ -2208,11 +2209,11 @@ Stav: !DOKONČEN!&#xD;
       <Source>&lt;Alias=Item02&gt; | Cost:&lt;Global=DN011OverdueBooksItemCost02&gt; Tokens | &lt;Global=DN011OverdueBooksItemCount02&gt; Remaining</Source>
       <Dest>&lt;Alias=Item02&gt; | Cena v žetonech: &lt;Global=DN011OverdueBooksItemCost02&gt; | &lt;Global=DN011OverdueBooksItemCount02&gt; zbývá</Dest>
     </String>
-    <String List="0" sID="0264BA" Partial="1">
+    <String List="0" sID="0264BA">
       <EDID>defaultCreatureSpawnerRaiderDoll</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Raider Spawner</Source>
-      <Dest>Nájezdník Spawner</Dest>
+      <Dest>Raider Spawner</Dest>
     </String>
     <String List="0" sID="026576">
       <EDID>DN011OverdueBookVendSubTermItem01</EDID>
@@ -3171,7 +3172,7 @@ Ochutnávka: 5 $</Dest>
       <Source>Hellos to NPCs in combat</Source>
       <Dest>Pozdravy NPC v souboji</Dest>
     </String>
-    <String List="0" sID="02A6AB" Partial="1">
+    <String List="0" sID="02A6AB">
       <EDID>DiamondCitySuperMutantIntro</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DiamondCityGuards VS Supermutants]</Source>
@@ -4855,7 +4856,7 @@ KONEC</Dest>
 &#xD;
 I was struck by this very question as I sat at the counter of Power Noodles last Wednesday night, just after 5:00 pm, enjoying a dinner I had so many times before. That's when I noticed our very own Mayor McDonough sidle up to a stool, and engage in the very same ritual. Right hand extending. Mouth opening. Teeth chewing. Yes, eating noodles. The shared experience of almost every Diamond City resident.&#xD;
 &#xD;
-So it must have also seemed to the residents of Diamond City nearly sixty years ago, on an uncharacteristically warm May evening in 2229, as they sat around this very same counter. But that was before the days of Takahashi and his noodles, when the bar served not noodles, but ice cold Nuka Colas, frothy beers, and stiff shots of whiskey. The barman's name was Henry, and that night, he facilitated the shared human experiences of drinking, smoking, talking and laughing. That is, until tragedy struck.&#xD;
+So it must have also seemed to the residents of Diamond City nearly sixty years ago, on an uncharacteristically warm May evening in 2229, as they sat around this very same counter. But that was before the days of Takahashi and his noodles, when the bar served not noodles, but ice cold Nuka-Colas, frothy beers, and stiff shots of whiskey. The barman's name was Henry, and that night, he facilitated the shared human experiences of drinking, smoking, talking and laughing. That is, until tragedy struck.&#xD;
 &#xD;
 There aren't many among us who are even old enough to remember that evening - although some of the city's Ghoul residents certainly could have, had they not been forcibly removed, thanks to Mayor McDonough's anti-Ghoul decree of 2282. But there is one person among us who does remember, distinctly, the events of that evening: respected matriarch Eustace Hawthorne, who recounted her story in a Publick Occurrences exclusive interview.&#xD;
 &#xD;
@@ -4878,7 +4879,7 @@ Are we?</Source>
 &#xD;
 Ta otázka mi probleskla hlavou, když jsem seděla u pultu Energonudlí minulou středu, těsně po 5. hodině odpolední, vychutnávajíc si večeři, tak jako mnohokrát před tím. V tu chvíli jsem si všimla, jak se samotný starosta McDonough přikradl ke stolu a připojil se ke stejnému rituálu. Natahujíc pravou ruku. Otevírajíc pusu. Žvýkajíc. Ano, pojídajíc nudle. Společný zážitek téměř každého obyvatele Diamond City.&#xD;
 &#xD;
-Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, kdy na baru nepodávali nudle, ale ledově vychlazenou Nuka Colu, napěněné pivo a velké panáky whisky. Barman se jmenoval Henry a oné noci pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
+Stejně to muselo připadat obyvatelům Diamond City téměř před šedesáti lety, při nebývale teplém květnovém večeru v roce 2229, když seděli u toho samého pultu. Ale to bylo před Takahashiho nudlemi, kdy na baru nepodávali nudle, ale ledově vychlazenou Nuka-Colu, napěněné pivo a velké panáky whisky. Barman se jmenoval Henry a oné noci pomáhal zažívat společné lidské prožitky z pití, kouření, rozhovorů a smíchu. Až do oné tragédie.&#xD;
 &#xD;
 Mezi námi není mnoho takových, kteří jsou dost staří na to, aby si ten večer pamatovali - ačkoliv někteří ghúlští obyvatelé města by jistě mohli, kdyby nebyli vyhnáni díky proti-ghúlskému dekretu starosty McDonougha z roku 2282. Ale jedna osoba, která si zřetelně pamatuje události toho večera, je mezi námi: uznávaná matriarcha Eustacie Hawthornová. Vylíčila svůj příběh v exkluzivním interview pro Veřejné záležitosti.&#xD;
 &#xD;
@@ -6219,7 +6220,7 @@ Už déle nevydržím.</Dest>
       <Source>Sharp</Source>
       <Dest>[Bystrost]</Dest>
     </String>
-    <String List="0" sID="033153" Partial="1">
+    <String List="0" sID="033153">
       <EDID>DialogueSharedInfos</EDID>
       <REC>QUST:FULL</REC>
       <Source>SharedInfos Only, Quest Starts Enabled and has No Persist Location</Source>
@@ -6317,7 +6318,7 @@ Už déle nevydržím.</Dest>
     </String>
     <String List="0" sID="0333D9">
       <EDID>dn_CommonMelee</EDID>
-      <REC id="31">INNR:WNAM</REC>
+      <REC id="32">INNR:WNAM</REC>
       <Source>Nocturnal</Source>
       <Dest>[Soumrak]</Dest>
     </String>
@@ -6671,7 +6672,7 @@ Už déle nevydržím.</Dest>
     </String>
     <String List="0" sID="03375A">
       <EDID>dn_CommonMelee</EDID>
-      <REC id="32">INNR:WNAM</REC>
+      <REC id="31">INNR:WNAM</REC>
       <Source>Irradiated</Source>
       <Dest>[Ozářená]</Dest>
     </String>
@@ -6743,13 +6744,13 @@ Už déle nevydržím.</Dest>
     </String>
     <String List="0" sID="033772">
       <EDID>dn_CommonMelee</EDID>
-      <REC id="13">INNR:WNAM</REC>
+      <REC id="12">INNR:WNAM</REC>
       <Source>Furious</Source>
       <Dest>[Vztekloun]</Dest>
     </String>
     <String List="0" sID="033775">
       <EDID>dn_CommonMelee</EDID>
-      <REC id="12">INNR:WNAM</REC>
+      <REC id="13">INNR:WNAM</REC>
       <Source>Rapid</Source>
       <Dest>[Rychlík]</Dest>
     </String>
@@ -7217,6 +7218,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Bloodied</Source>
       <Dest>[Zkrvavenec]</Dest>
     </String>
+    <String List="0" sID="0349ED">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="90">INNR:WNAM</REC>
+      <Source>Zeta Gun</Source>
+      <Dest>Zeta Gun</Dest>
+    </String>
     <String List="0" sID="0349EF">
       <EDID>dn_CommonGun</EDID>
       <REC id="34">INNR:WNAM</REC>
@@ -7251,7 +7258,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="37">INNR:WNAM</REC>
       <Source>Lucky</Source>
-      <Dest>Šťastná zbroj</Dest>
+      <Dest>Lucky</Dest>
     </String>
     <String List="0" sID="0349FE">
       <EDID>dn_CommonGun</EDID>
@@ -7263,7 +7270,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="12">INNR:WNAM</REC>
       <Source>Nocturnal</Source>
-      <Dest>Noční zbraň</Dest>
+      <Dest>Nocturnal</Dest>
     </String>
     <String List="0" sID="034A04">
       <EDID>dn_CommonGun</EDID>
@@ -7313,11 +7320,23 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Tempered</Source>
       <Dest>[Kalená]</Dest>
     </String>
+    <String List="0" sID="034A14">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="60">INNR:WNAM</REC>
+      <Source>Short</Source>
+      <Dest>Short</Dest>
+    </String>
     <String List="0" sID="034A16">
       <EDID>dn_CommonArmor</EDID>
       <REC id="64">INNR:WNAM</REC>
       <Source>Welded</Source>
       <Dest>[Svářená]</Dest>
+    </String>
+    <String List="0" sID="034A1A">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="39">INNR:WNAM</REC>
+      <Source>Fluted</Source>
+      <Dest>Fluted</Dest>
     </String>
     <String List="0" sID="034A1B">
       <EDID>dn_CommonArmor</EDID>
@@ -7373,11 +7392,17 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Excited</Source>
       <Dest>[Vybuzovač]</Dest>
     </String>
+    <String List="0" sID="034A39">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="41">INNR:WNAM</REC>
+      <Source>Compensated</Source>
+      <Dest>Compensated</Dest>
+    </String>
     <String List="0" sID="034A45">
       <EDID>dn_BACKUP</EDID>
       <REC id="102">INNR:WNAM</REC>
       <Source>Rifle</Source>
-      <Dest>Puška</Dest>
+      <Dest>Rifle</Dest>
     </String>
     <String List="0" sID="034A4C">
       <EDID>dn_CommonGun</EDID>
@@ -7389,19 +7414,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="17">INNR:WNAM</REC>
       <Source>Sentinel's</Source>
-      <Dest>Ochráncova zbraň</Dest>
+      <Dest>Sentinel's</Dest>
     </String>
     <String List="0" sID="034A57">
       <EDID>dn_BACKUP</EDID>
       <REC id="65">INNR:WNAM</REC>
       <Source>Quad Barrel</Source>
-      <Dest>Čtyřhlaveň</Dest>
+      <Dest>Quad Barrel</Dest>
     </String>
     <String List="0" sID="034A61">
       <EDID>dn_BACKUP</EDID>
       <REC id="31">INNR:WNAM</REC>
       <Source>Junkie's</Source>
-      <Dest>Feťákova zbraň</Dest>
+      <Dest>Junkie's</Dest>
     </String>
     <String List="0" sID="034A63">
       <EDID>dn_CommonGun</EDID>
@@ -7439,11 +7464,17 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Automatic</Source>
       <Dest>[Automat]</Dest>
     </String>
+    <String List="0" sID="034A71">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="50">INNR:WNAM</REC>
+      <Source>Tactical</Source>
+      <Dest>Tactical</Dest>
+    </String>
     <String List="0" sID="034A72">
       <EDID>dn_BACKUP</EDID>
       <REC id="13">INNR:WNAM</REC>
       <Source>Staggering</Source>
-      <Dest>Vrávorající zbraň</Dest>
+      <Dest>Staggering</Dest>
     </String>
     <String List="0" sID="034A74">
       <EDID>dn_CommonMelee</EDID>
@@ -7467,7 +7498,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="11">INNR:WNAM</REC>
       <Source>Explosive</Source>
-      <Dest>Explozivní zbraň</Dest>
+      <Dest>Explosive</Dest>
     </String>
     <String List="0" sID="034A7F">
       <EDID>dn_CommonMelee</EDID>
@@ -7653,7 +7684,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="92">INNR:WNAM</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="034AC8">
       <EDID>dn_CommonGun</EDID>
@@ -7661,9 +7692,15 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Troubleshooter's</Source>
       <Dest>[Opravář]</Dest>
     </String>
+    <String List="0" sID="034ACA">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="38">INNR:WNAM</REC>
+      <Source>Steady</Source>
+      <Dest>Steady</Dest>
+    </String>
     <String List="0" sID="034ACB">
       <EDID>dn_CommonGun</EDID>
-      <REC id="13">INNR:WNAM</REC>
+      <REC id="12">INNR:WNAM</REC>
       <Source>Staggering</Source>
       <Dest>[Cloumák]</Dest>
     </String>
@@ -7671,7 +7708,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="7">INNR:WNAM</REC>
       <Source>Incendiary</Source>
-      <Dest>Zápalná zbraň</Dest>
+      <Dest>Incendiary</Dest>
     </String>
     <String List="0" sID="034ACF">
       <EDID>dn_CommonGun</EDID>
@@ -7707,7 +7744,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="30">INNR:WNAM</REC>
       <Source>Nimble</Source>
-      <Dest>Pohotová zbraň</Dest>
+      <Dest>Nimble</Dest>
     </String>
     <String List="0" sID="034AE3">
       <EDID>dn_CommonGun</EDID>
@@ -7791,13 +7828,13 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="99">INNR:WNAM</REC>
       <Source>Pistol</Source>
-      <Dest>Pistole</Dest>
+      <Dest>Pistol</Dest>
     </String>
     <String List="0" sID="034B0A">
       <EDID>dn_BACKUP</EDID>
       <REC id="9">INNR:WNAM</REC>
       <Source>Exterminator's</Source>
-      <Dest>Deratizátorova zbraň</Dest>
+      <Dest>Exterminator's</Dest>
     </String>
     <String List="0" sID="034B0B">
       <EDID>dn_CommonGun</EDID>
@@ -7852,6 +7889,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <REC id="72">INNR:WNAM</REC>
       <Source>Sawed-Off</Source>
       <Dest>[Upilovaná]</Dest>
+    </String>
+    <String List="0" sID="034B1F">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="62">INNR:WNAM</REC>
+      <Source>Extended</Source>
+      <Dest>Extended</Dest>
     </String>
     <String List="0" sID="034B21">
       <EDID>dn_CommonGun</EDID>
@@ -7929,7 +7972,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="66">INNR:WNAM</REC>
       <Source>Triple Barrel</Source>
-      <Dest>Trojhlaveň</Dest>
+      <Dest>Triple Barrel</Dest>
     </String>
     <String List="0" sID="034B3E">
       <EDID>dn_CommonGun</EDID>
@@ -7961,11 +8004,17 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Suppressed</Source>
       <Dest>[Tlumič]</Dest>
     </String>
+    <String List="0" sID="034B4A">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="44">INNR:WNAM</REC>
+      <Source>Focused</Source>
+      <Dest>Focused</Dest>
+    </String>
     <String List="0" sID="034B4F">
       <EDID>dn_BACKUP</EDID>
       <REC id="6">INNR:WNAM</REC>
       <Source>Mutant Slayer's</Source>
-      <Dest>Zbraň zabijáka mutantů</Dest>
+      <Dest>Mutant Slayer's</Dest>
     </String>
     <String List="0" sID="034B50">
       <EDID>dn_CommonGun</EDID>
@@ -8001,7 +8050,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="29">INNR:WNAM</REC>
       <Source>Crippling</Source>
-      <Dest>Mrzačící zbraň</Dest>
+      <Dest>Crippling</Dest>
     </String>
     <String List="0" sID="034B62">
       <EDID>dn_CommonGun</EDID>
@@ -8033,6 +8082,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Berserker's</Source>
       <Dest>[Zuřivec]</Dest>
     </String>
+    <String List="0" sID="034B72">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="63">INNR:WNAM</REC>
+      <Source>Compressed</Source>
+      <Dest>Compressed</Dest>
+    </String>
     <String List="0" sID="034B7A">
       <EDID>dn_CommonGun</EDID>
       <REC id="19">INNR:WNAM</REC>
@@ -8045,9 +8100,15 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Plasma Infused</Source>
       <Dest>[Plazmička]</Dest>
     </String>
+    <String List="0" sID="034B80">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="42">INNR:WNAM</REC>
+      <Source>Muzzled</Source>
+      <Dest>Muzzled</Dest>
+    </String>
     <String List="0" sID="034B84">
       <EDID>dn_CommonGun</EDID>
-      <REC id="12">INNR:WNAM</REC>
+      <REC id="13">INNR:WNAM</REC>
       <Source>Nocturnal</Source>
       <Dest>[Soumrak]</Dest>
     </String>
@@ -8087,6 +8148,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Boosted</Source>
       <Dest>[Kondenzátor+]</Dest>
     </String>
+    <String List="0" sID="034B8C">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="78">INNR:WNAM</REC>
+      <Source>Three-Crank</Source>
+      <Dest>Three-Crank</Dest>
+    </String>
     <String List="0" sID="034B8D">
       <EDID>dn_CommonGun</EDID>
       <REC id="3">INNR:WNAM</REC>
@@ -8109,7 +8176,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="97">INNR:WNAM</REC>
       <Source>Submachine Gun</Source>
-      <Dest>Samopal</Dest>
+      <Dest>Submachine Gun</Dest>
     </String>
     <String List="0" sID="034B9D">
       <EDID>dn_CommonGun</EDID>
@@ -8121,13 +8188,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="14">INNR:WNAM</REC>
       <Source>Cavalier's</Source>
-      <Dest>Kavalírova zbroj</Dest>
+      <Dest>Cavalier's</Dest>
     </String>
     <String List="0" sID="034B9F">
       <EDID>dn_BACKUP</EDID>
       <REC id="94">INNR:WNAM</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
+    </String>
+    <String List="0" sID="034BA2">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="87">INNR:WNAM</REC>
+      <Source>Experimental MIRV</Source>
+      <Dest>Experimental MIRV</Dest>
     </String>
     <String List="0" sID="034BA3">
       <EDID>dn_CommonGun</EDID>
@@ -8135,11 +8208,29 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Hardened</Source>
       <Dest>[Tělo+]</Dest>
     </String>
+    <String List="0" sID="034BA5">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="53">INNR:WNAM</REC>
+      <Source>Quick</Source>
+      <Dest>Quick</Dest>
+    </String>
+    <String List="0" sID="034BA7">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="91">INNR:WNAM</REC>
+      <Source>*</Source>
+      <Dest>*</Dest>
+    </String>
     <String List="0" sID="034BAF">
       <EDID>dn_BACKUP</EDID>
       <REC id="93">INNR:WNAM</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
+    </String>
+    <String List="0" sID="034BB3">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="85">INNR:WNAM</REC>
+      <Source>Combat Sniper Rifle</Source>
+      <Dest>Combat Sniper Rifle</Dest>
     </String>
     <String List="0" sID="034BB5">
       <EDID>dn_CommonGun</EDID>
@@ -8151,13 +8242,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="82">INNR:WNAM</REC>
       <Source>Automatic</Source>
-      <Dest>Automatická zbraň</Dest>
+      <Dest>Automatic</Dest>
     </String>
     <String List="0" sID="034BB7">
       <EDID>dn_BACKUP</EDID>
       <REC id="22">INNR:WNAM</REC>
       <Source>Enraging</Source>
-      <Dest>Rozčilující zbraň</Dest>
+      <Dest>Enraging</Dest>
+    </String>
+    <String List="0" sID="034BBA">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="79">INNR:WNAM</REC>
+      <Source>Four-Crank</Source>
+      <Dest>Four-Crank</Dest>
     </String>
     <String List="0" sID="034BBC">
       <EDID>dn_CommonGun</EDID>
@@ -8165,17 +8262,71 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Poisoner's</Source>
       <Dest>[Travič]</Dest>
     </String>
+    <String List="0" sID="034BBE">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="77">INNR:WNAM</REC>
+      <Source>Overcharged</Source>
+      <Dest>Overcharged</Dest>
+    </String>
     <String List="0" sID="034BC0">
       <EDID>dn_BACKUP</EDID>
       <REC id="71">INNR:WNAM</REC>
       <Source>Incendiary</Source>
-      <Dest>Zápalná zbraň</Dest>
+      <Dest>Incendiary</Dest>
     </String>
     <String List="0" sID="034BC1">
       <EDID>dn_BACKUP</EDID>
       <REC id="2">INNR:WNAM</REC>
       <Source>Violent</Source>
-      <Dest>Divoká zbraň</Dest>
+      <Dest>Violent</Dest>
+    </String>
+    <String List="0" sID="034BC3">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="76">INNR:WNAM</REC>
+      <Source>Maximized</Source>
+      <Dest>Maximized</Dest>
+    </String>
+    <String List="0" sID="034BC7">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="75">INNR:WNAM</REC>
+      <Source>Boosted</Source>
+      <Dest>Boosted</Dest>
+    </String>
+    <String List="0" sID="034BC8">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="74">INNR:WNAM</REC>
+      <Source>Agitated</Source>
+      <Dest>Agitated</Dest>
+    </String>
+    <String List="0" sID="034BC9" Partial="2">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="73">INNR:WNAM</REC>
+      <Source>Excited</Source>
+      <Dest>Excited</Dest>
+    </String>
+    <String List="0" sID="034BCB">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="72">INNR:WNAM</REC>
+      <Source>Fiery</Source>
+      <Dest>Fiery</Dest>
+    </String>
+    <String List="0" sID="034BCF">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="69">INNR:WNAM</REC>
+      <Source>Huge</Source>
+      <Dest>Huge</Dest>
+    </String>
+    <String List="0" sID="034BD1">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="68">INNR:WNAM</REC>
+      <Source>Large</Source>
+      <Dest>Large</Dest>
+    </String>
+    <String List="0" sID="034BD3">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="67">INNR:WNAM</REC>
+      <Source>Shredding</Source>
+      <Dest>Shredding</Dest>
     </String>
     <String List="0" sID="034BD4">
       <EDID>dn_CommonGun</EDID>
@@ -8183,11 +8334,47 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Targeting</Source>
       <Dest>[Gyroskop]</Dest>
     </String>
+    <String List="0" sID="034BD9">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="56">INNR:WNAM</REC>
+      <Source>Bayoneted</Source>
+      <Dest>Bayoneted</Dest>
+    </String>
+    <String List="0" sID="034BDA">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="64">INNR:WNAM</REC>
+      <Source>Vaporizing</Source>
+      <Dest>Vaporizing</Dest>
+    </String>
+    <String List="0" sID="034BDE">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="58">INNR:WNAM</REC>
+      <Source>Subnosed</Source>
+      <Dest>Subnosed</Dest>
+    </String>
+    <String List="0" sID="034BDF">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="57">INNR:WNAM</REC>
+      <Source>Bull Barrel</Source>
+      <Dest>Bull Barrel</Dest>
+    </String>
+    <String List="0" sID="034BE1">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="54">INNR:WNAM</REC>
+      <Source>Maximum Capacity</Source>
+      <Dest>Maximum Capacity</Dest>
+    </String>
     <String List="0" sID="034BE5">
       <EDID>dn_CommonMelee</EDID>
       <REC id="38">INNR:WNAM</REC>
       <Source>Shock</Source>
       <Dest>[Elektrický]</Dest>
+    </String>
+    <String List="0" sID="034BE6">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="51">INNR:WNAM</REC>
+      <Source>Targeting</Source>
+      <Dest>Targeting</Dest>
     </String>
     <String List="0" sID="034BE7">
       <EDID>dn_CommonMelee</EDID>
@@ -8199,7 +8386,43 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="20">INNR:WNAM</REC>
       <Source>Relentless</Source>
-      <Dest>Nelítostná zbraň</Dest>
+      <Dest>Relentless</Dest>
+    </String>
+    <String List="0" sID="034BEB">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="49">INNR:WNAM</REC>
+      <Source>Glow-Sighted</Source>
+      <Dest>Glow-Sighted</Dest>
+    </String>
+    <String List="0" sID="034BEC">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="48">INNR:WNAM</REC>
+      <Source>Ported</Source>
+      <Dest>Ported</Dest>
+    </String>
+    <String List="0" sID="034BEE">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="47">INNR:WNAM</REC>
+      <Source>Targeting</Source>
+      <Dest>Targeting</Dest>
+    </String>
+    <String List="0" sID="034BF1">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="59">INNR:WNAM</REC>
+      <Source>Sawed-Off</Source>
+      <Dest>Sawed-Off</Dest>
+    </String>
+    <String List="0" sID="034BF2">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="45">INNR:WNAM</REC>
+      <Source>High Speed</Source>
+      <Dest>High Speed</Dest>
+    </String>
+    <String List="0" sID="034BF5">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="43">INNR:WNAM</REC>
+      <Source>Scattered</Source>
+      <Dest>Scattered</Dest>
     </String>
     <String List="0" sID="034BFA">
       <EDID>dn_CommonArmor</EDID>
@@ -8211,7 +8434,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="32">INNR:WNAM</REC>
       <Source>VATS Enhanced</Source>
-      <Dest>Vylepšený VATS</Dest>
+      <Dest>VATS Enhanced</Dest>
     </String>
     <String List="0" sID="034C02">
       <EDID>dn_CommonGun</EDID>
@@ -8223,49 +8446,55 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="36">INNR:WNAM</REC>
       <Source>Powerful</Source>
-      <Dest>Mocná zbraň</Dest>
+      <Dest>Powerful</Dest>
     </String>
     <String List="0" sID="034C06">
       <EDID>dn_BACKUP</EDID>
       <REC id="28">INNR:WNAM</REC>
       <Source>Bloodied</Source>
-      <Dest>Zakrvácená zbraň</Dest>
+      <Dest>Bloodied</Dest>
     </String>
     <String List="0" sID="034C08">
       <EDID>dn_BACKUP</EDID>
       <REC id="27">INNR:WNAM</REC>
       <Source>Medic's</Source>
-      <Dest>Medikova zbraň</Dest>
+      <Dest>Medic's</Dest>
     </String>
     <String List="0" sID="034C0A">
       <EDID>dn_BACKUP</EDID>
       <REC id="26">INNR:WNAM</REC>
       <Source>Berserker's</Source>
-      <Dest>Zuřivcova zbraň</Dest>
+      <Dest>Berserker's</Dest>
     </String>
     <String List="0" sID="034C0B">
       <EDID>dn_BACKUP</EDID>
       <REC id="25">INNR:WNAM</REC>
       <Source>Quickdraw</Source>
-      <Dest>Tasící zbraň</Dest>
+      <Dest>Quickdraw</Dest>
+    </String>
+    <String List="0" sID="034C0F">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="81">INNR:WNAM</REC>
+      <Source>Six-Crank</Source>
+      <Dest>Six-Crank</Dest>
     </String>
     <String List="0" sID="034C10">
       <EDID>dn_BACKUP</EDID>
       <REC id="21">INNR:WNAM</REC>
       <Source>Furious</Source>
-      <Dest>Vzteklá zbraň</Dest>
+      <Dest>Furious</Dest>
     </String>
     <String List="0" sID="034C17">
       <EDID>dn_BACKUP</EDID>
       <REC id="16">INNR:WNAM</REC>
       <Source>Plasma Infused</Source>
-      <Dest>Plazmová příměs</Dest>
+      <Dest>Plasma Infused</Dest>
     </String>
     <String List="0" sID="034C1A">
       <EDID>dn_BACKUP</EDID>
       <REC id="15">INNR:WNAM</REC>
       <Source>Wounding</Source>
-      <Dest>Zraňující zbraň</Dest>
+      <Dest>Wounding</Dest>
     </String>
     <String List="0" sID="034C1F">
       <EDID>dn_CommonMelee</EDID>
@@ -8277,13 +8506,13 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="10">INNR:WNAM</REC>
       <Source>Hunter's</Source>
-      <Dest>Lovcova zbraň</Dest>
+      <Dest>Hunter's</Dest>
     </String>
     <String List="0" sID="034C21">
       <EDID>dn_BACKUP</EDID>
       <REC id="8">INNR:WNAM</REC>
       <Source>Troubleshooter's</Source>
-      <Dest>Opravářova zbraň</Dest>
+      <Dest>Troubleshooter's</Dest>
     </String>
     <String List="0" sID="034C23">
       <EDID>dn_CommonGun</EDID>
@@ -8295,7 +8524,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="5">INNR:WNAM</REC>
       <Source>Ghoul Slayer's</Source>
-      <Dest>Zbraň zabijáka ghúlů</Dest>
+      <Dest>Ghoul Slayer's</Dest>
     </String>
     <String List="0" sID="034C28">
       <EDID>dn_CommonGun</EDID>
@@ -8303,23 +8532,35 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Advanced</Source>
       <Dest>[Tělo+++]</Dest>
     </String>
+    <String List="0" sID="034C2A">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="61">INNR:WNAM</REC>
+      <Source>Long</Source>
+      <Dest>Long</Dest>
+    </String>
     <String List="0" sID="034C2B">
       <EDID>dn_BACKUP</EDID>
       <REC id="1">INNR:WNAM</REC>
       <Source>Penetrating</Source>
-      <Dest>Průrazná zbraň</Dest>
+      <Dest>Penetrating</Dest>
     </String>
     <String List="0" sID="034C2C">
       <EDID>dn_BACKUP</EDID>
       <REC id="0">INNR:WNAM</REC>
       <Source>Kneecapper</Source>
-      <Dest>Kolínkovač</Dest>
+      <Dest>Kneecapper</Dest>
     </String>
     <String List="0" sID="034C31">
       <EDID>dn_BACKUP</EDID>
       <REC id="24">INNR:WNAM</REC>
       <Source>Stalker's</Source>
-      <Dest>Stopařova zbroj</Dest>
+      <Dest>Stalker's</Dest>
+    </String>
+    <String List="0" sID="034C3C">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="70">INNR:WNAM</REC>
+      <Source>Repeating</Source>
+      <Dest>Repeating</Dest>
     </String>
     <String List="0" sID="034C40">
       <EDID>dn_CommonArmor</EDID>
@@ -8351,6 +8592,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Quickdraw</Source>
       <Dest>[Tasič]</Dest>
     </String>
+    <String List="0" sID="034C5B">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="95">INNR:WNAM</REC>
+      <Source>Thrower</Source>
+      <Dest>Thrower</Dest>
+    </String>
     <String List="0" sID="034C64">
       <EDID>dn_CommonGun</EDID>
       <REC id="155">INNR:WNAM</REC>
@@ -8373,13 +8620,25 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="3">INNR:WNAM</REC>
       <Source>Assassin's</Source>
-      <Dest>Atentátníkova zbraň</Dest>
+      <Dest>Assassin's</Dest>
     </String>
     <String List="0" sID="034C72">
       <EDID>dn_CommonGun</EDID>
       <REC id="50">INNR:WNAM</REC>
       <Source>Improved Targeting</Source>
       <Dest>[Gyroskop+]</Dest>
+    </String>
+    <String List="0" sID="034C7B">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="46">INNR:WNAM</REC>
+      <Source>High Powered</Source>
+      <Dest>High Powered</Dest>
+    </String>
+    <String List="0" sID="034C89">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="55">INNR:WNAM</REC>
+      <Source>High Capacity</Source>
+      <Dest>High Capacity</Dest>
     </String>
     <String List="0" sID="034C8E">
       <EDID>DeadShrub05</EDID>
@@ -8409,7 +8668,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="35">INNR:WNAM</REC>
       <Source>Irradiated</Source>
-      <Dest>Ozářená zbraň</Dest>
+      <Dest>Irradiated</Dest>
     </String>
     <String List="0" sID="034CB2">
       <EDID>dn_CommonGun</EDID>
@@ -8427,19 +8686,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="19">INNR:WNAM</REC>
       <Source>Rapid</Source>
-      <Dest>Rychlá zbraň</Dest>
+      <Dest>Rapid</Dest>
     </String>
     <String List="0" sID="034CC6">
       <EDID>dn_BACKUP</EDID>
       <REC id="86">INNR:WNAM</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="034CC7">
       <EDID>dn_BACKUP</EDID>
       <REC id="100">INNR:WNAM</REC>
       <Source>Rifle</Source>
-      <Dest>Puška</Dest>
+      <Dest>Rifle</Dest>
     </String>
     <String List="0" sID="034CD8">
       <EDID>dn_CommonGun</EDID>
@@ -8451,7 +8710,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="33">INNR:WNAM</REC>
       <Source>Never Ending</Source>
-      <Dest>Nekončící zbraň</Dest>
+      <Dest>Never Ending</Dest>
     </String>
     <String List="0" sID="034CF3">
       <EDID>dn_CommonGun</EDID>
@@ -8465,11 +8724,23 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Powerful</Source>
       <Dest>[Tělo++]</Dest>
     </String>
+    <String List="0" sID="034CFC">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="84">INNR:WNAM</REC>
+      <Source>Napalmer</Source>
+      <Dest>Napalmer</Dest>
+    </String>
     <String List="0" sID="034CFE">
       <EDID>dn_BACKUP</EDID>
       <REC id="83">INNR:WNAM</REC>
       <Source>Automatic</Source>
-      <Dest>Automatická zbraň</Dest>
+      <Dest>Automatic</Dest>
+    </String>
+    <String List="0" sID="034CFF">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="89">INNR:WNAM</REC>
+      <Source>Lorenzo's Artifact Gun</Source>
+      <Dest>Lorenzo's Artifact Gun</Dest>
     </String>
     <String List="0" sID="034D00">
       <EDID>dn_CommonGun</EDID>
@@ -8477,23 +8748,53 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Glow-Sighted</Source>
       <Dest>[Trit.]</Dest>
     </String>
+    <String List="0" sID="034D0B">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="96">INNR:WNAM</REC>
+      <Source>Scattergun</Source>
+      <Dest>Scattergun</Dest>
+    </String>
     <String List="0" sID="034D0E">
       <EDID>dn_BACKUP</EDID>
       <REC id="101">INNR:WNAM</REC>
       <Source>Rifle</Source>
-      <Dest>Puška</Dest>
+      <Dest>Rifle</Dest>
+    </String>
+    <String List="0" sID="034D18">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="40">INNR:WNAM</REC>
+      <Source>Suppressed</Source>
+      <Dest>Suppressed</Dest>
     </String>
     <String List="0" sID="034D27">
       <EDID>dn_BACKUP</EDID>
       <REC id="4">INNR:WNAM</REC>
       <Source>Poisoner's</Source>
-      <Dest>Travičova zbraň</Dest>
+      <Dest>Poisoner's</Dest>
     </String>
     <String List="0" sID="034D2F">
       <EDID>dn_CommonGun</EDID>
       <REC id="22">INNR:WNAM</REC>
       <Source>Enraging</Source>
       <Dest>[Naštvávač]</Dest>
+    </String>
+    <String List="0" sID="034D31">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="52">INNR:WNAM</REC>
+      <Source>Recon</Source>
+      <Dest>Recon</Dest>
+    </String>
+    <String List="0" sID="034D35">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="98">INNR:WNAM</REC>
+      <Source>Auto Pistol</Source>
+      <Dest>Auto Pistol</Dest>
+    </String>
+    <String List="0" sID="034D36">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="88">INNR:WNAM</REC>
+      <Source>Target Seeking Fat Man</Source>
+      <Dest>Target Seeking Fat Man</Dest>
     </String>
     <String List="0" sID="034D3A">
       <EDID>dn_CommonGun</EDID>
@@ -8519,6 +8820,12 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <Source>Focused</Source>
       <Dest>[Zaostřovač]</Dest>
     </String>
+    <String List="0" sID="034D5E">
+      <EDID>dn_BACKUP</EDID>
+      <REC id="80">INNR:WNAM</REC>
+      <Source>Five-Crank</Source>
+      <Dest>Five-Crank</Dest>
+    </String>
     <String List="0" sID="034D61">
       <EDID>dn_CommonGun</EDID>
       <REC id="112">INNR:WNAM</REC>
@@ -8529,19 +8836,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>dn_BACKUP</EDID>
       <REC id="34">INNR:WNAM</REC>
       <Source>Two Shot</Source>
-      <Dest>Douranná zbraň</Dest>
+      <Dest>Two Shot</Dest>
     </String>
     <String List="0" sID="034D70">
       <EDID>dn_BACKUP</EDID>
       <REC id="18">INNR:WNAM</REC>
       <Source>Freezing</Source>
-      <Dest>Mrazící zbraň</Dest>
+      <Dest>Freezing</Dest>
     </String>
     <String List="0" sID="034D71">
       <EDID>dn_BACKUP</EDID>
       <REC id="23">INNR:WNAM</REC>
       <Source>Instigating</Source>
-      <Dest>Štvavá zbraň</Dest>
+      <Dest>Instigating</Dest>
     </String>
     <String List="0" sID="034D78">
       <EDID>dn_CommonGun</EDID>

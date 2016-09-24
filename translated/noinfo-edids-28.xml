@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="012852">
@@ -346,11 +347,11 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Poison Resist</Source>
       <Dest>Odolnost vůči jedu</Dest>
     </String>
-    <String List="0" sID="0175D6" Partial="1">
+    <String List="0" sID="0175D6">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="4">BPTD:BPTN</REC>
       <Source>Right Arm</Source>
-      <Dest>(Pravá ruka)</Dest>
+      <Dest>Pravá ruka</Dest>
     </String>
     <String List="0" sID="0176F6">
       <EDID>PresetMale4</EDID>
@@ -802,23 +803,23 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>RFoot</Source>
       <Dest>RFoot</Dest>
     </String>
-    <String List="0" sID="01D821" Partial="1">
+    <String List="0" sID="01D821">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="6">BPTD:BPTN</REC>
       <Source>Left Arm</Source>
       <Dest>Levá ruka</Dest>
     </String>
-    <String List="0" sID="01D822" Partial="1">
+    <String List="0" sID="01D822">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="5">BPTD:BPTN</REC>
       <Source>Left Leg</Source>
-      <Dest>(Levá noha)</Dest>
+      <Dest>Levá noha</Dest>
     </String>
-    <String List="0" sID="01D823" Partial="1">
+    <String List="0" sID="01D823">
       <EDID>PowerArmorBodyPartData</EDID>
       <REC id="3">BPTD:BPTN</REC>
       <Source>Right Leg</Source>
-      <Dest>(Pravá noha)</Dest>
+      <Dest>Pravá noha</Dest>
     </String>
     <String List="0" sID="01D82A">
       <EDID>PlasmaGun</EDID>
@@ -2428,11 +2429,11 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Right Foot</Source>
       <Dest>Pravé chodidlo</Dest>
     </String>
-    <String List="0" sID="02F562" Partial="1">
+    <String List="0" sID="02F562">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="6">BPTD:BPTN</REC>
       <Source>Right Arm</Source>
-      <Dest>(Pravá ruka)</Dest>
+      <Dest>Pravá ruka</Dest>
     </String>
     <String List="0" sID="02F624">
       <EDID>PlayerHouse_BathroomMirror02</EDID>
@@ -2452,11 +2453,11 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Coastal Cottage</Source>
       <Dest>Domek na pobřeží</Dest>
     </String>
-    <String List="0" sID="02F983" Partial="1">
+    <String List="0" sID="02F983">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="0">BPTD:BPTN</REC>
       <Source>Right Leg</Source>
-      <Dest>(Pravá noha)</Dest>
+      <Dest>Pravá noha</Dest>
     </String>
     <String List="0" sID="02FB2C">
       <EDID>ProtectronBodyPartData</EDID>
@@ -2476,13 +2477,13 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <Source>Brotherhood Initiate</Source>
       <Dest>Zasvěcenec Bratrstva</Dest>
     </String>
-    <String List="0" sID="030265" Partial="1">
+    <String List="0" sID="030265">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="5">BPTD:BPTN</REC>
       <Source>Left Leg</Source>
-      <Dest>(Levá noha)</Dest>
+      <Dest>Levá noha</Dest>
     </String>
-    <String List="0" sID="030494" Partial="1">
+    <String List="0" sID="030494">
       <EDID>ProtectronBodyPartData</EDID>
       <REC id="7">BPTD:BPTN</REC>
       <Source>Left Arm</Source>
@@ -2673,12 +2674,6 @@ Setkání členů se konají 1. čtvrtek každý měsíc</Dest>
       <REC>WEAP:FULL</REC>
       <Source>Flamer</Source>
       <Dest>Plamenomet</Dest>
-    </String>
-    <String List="0" sID="031C2C" Partial="1">
-      <EDID>PlayerPerk</EDID>
-      <REC>PERK:EPF2</REC>
-      <Source>SEND HOME</Source>
-      <Dest>SEND HOME</Dest>
     </String>
     <String List="0" sID="031C9C">
       <EDID>POIDL018_Terminal</EDID>
@@ -2896,17 +2891,17 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Fisherman</Source>
       <Dest>Rybář</Dest>
     </String>
-    <String List="0" sID="033134" Partial="1">
+    <String List="0" sID="033134">
       <EDID>PowerArmorRace</EDID>
       <REC id="22">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
-      <Dest>Koutky úst</Dest>
+      <Dest>Mouth Corners</Dest>
     </String>
-    <String List="0" sID="03315E" Partial="1">
+    <String List="0" sID="03315E">
       <EDID>PowerArmorRace</EDID>
       <REC id="59">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
-      <Dest>Tuk na straně nosu</Dest>
+      <Dest>Side Nose Fat</Dest>
     </String>
     <String List="0" sID="03319B">
       <EDID>PowerArmorRadResistEffect</EDID>
@@ -2914,31 +2909,31 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Power Armor Rad Resist Effect</Source>
       <Dest>Efekt odolnosti proti radiaci energozbroje</Dest>
     </String>
-    <String List="0" sID="03322A" Partial="1">
+    <String List="0" sID="03322A">
       <EDID>PowerArmorRace</EDID>
       <REC id="11">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
-      <Dest>Vnější čelist</Dest>
+      <Dest>Jaw Outer</Dest>
     </String>
-    <String List="0" sID="03323C" Partial="1">
+    <String List="0" sID="03323C">
       <EDID>PowerArmorRace</EDID>
       <REC id="49">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
-      <Dest>Zadní lícní kosti</Dest>
+      <Dest>Cheek Bones Back</Dest>
     </String>
-    <String List="0" sID="03325A" Partial="1">
+    <String List="0" sID="03325A">
       <EDID>PowerArmorRace</EDID>
       <REC id="9">RACE:FMRN</REC>
       <Source>Nose Main</Source>
-      <Dest>Nos hlavní</Dest>
+      <Dest>Nose Main</Dest>
     </String>
-    <String List="0" sID="0332A7" Partial="1">
+    <String List="0" sID="0332A7">
       <EDID>PowerArmorRace</EDID>
       <REC id="44">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
-      <Dest>Čelist střed</Dest>
+      <Dest>Jaw Mid</Dest>
     </String>
-    <String List="0" sID="0332C7" Partial="1">
+    <String List="0" sID="0332C7">
       <EDID>PowerArmorRace</EDID>
       <REC id="56">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
@@ -2950,53 +2945,53 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Prydwen Foredeck</Source>
       <Dest>Přední paluba Prydwen</Dest>
     </String>
-    <String List="0" sID="0332E9" Partial="1">
+    <String List="0" sID="0332E9">
       <EDID>PowerArmorRace</EDID>
       <REC id="0">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
-      <Dest>Obočí hlavní</Dest>
+      <Dest>Eyebrow Main</Dest>
     </String>
-    <String List="0" sID="0332F6" Partial="1">
+    <String List="0" sID="0332F6">
       <EDID>PowerArmorRace</EDID>
       <REC id="54">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
-      <Dest>Koutky úst</Dest>
+      <Dest>Mouth Corners</Dest>
     </String>
-    <String List="0" sID="033324" Partial="1">
+    <String List="0" sID="033324">
       <EDID>PowerArmorRace</EDID>
       <REC id="45">RACE:FMRN</REC>
       <Source>Temple</Source>
-      <Dest>Spánek</Dest>
+      <Dest>Temple</Dest>
     </String>
-    <String List="0" sID="03332D" Partial="1">
+    <String List="0" sID="03332D">
       <EDID>PowerArmorRace</EDID>
       <REC id="1">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
-      <Dest>Obočí vnitřní</Dest>
+      <Dest>Eyebrow In</Dest>
     </String>
-    <String List="0" sID="03333A" Partial="1">
+    <String List="0" sID="03333A">
       <EDID>PowerArmorRace</EDID>
       <REC id="36">RACE:FMRN</REC>
       <Source>Cheeks</Source>
-      <Dest>Tváře</Dest>
+      <Dest>Cheeks</Dest>
     </String>
-    <String List="0" sID="033344" Partial="1">
+    <String List="0" sID="033344">
       <EDID>PowerArmorRace</EDID>
       <REC id="57">RACE:FMRN</REC>
       <Source>Forehead</Source>
-      <Dest>Čelo</Dest>
+      <Dest>Forehead</Dest>
     </String>
-    <String List="0" sID="03334B" Partial="1">
+    <String List="0" sID="03334B">
       <EDID>PowerArmorRace</EDID>
       <REC id="3">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
-      <Dest>Lícní kost</Dest>
+      <Dest>Cheek Bones</Dest>
     </String>
-    <String List="0" sID="0333CD" Partial="1">
+    <String List="0" sID="0333CD">
       <EDID>PowerArmorRace</EDID>
       <REC id="51">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
-      <Dest>Obočí střed</Dest>
+      <Dest>Eyebrows Mid</Dest>
     </String>
     <String List="0" sID="03340C">
       <EDID>Prydwen_FlightDeck</EDID>
@@ -3004,71 +2999,71 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Prydwen Flight Deck</Source>
       <Dest>Vzletová paluba Prydwen</Dest>
     </String>
-    <String List="0" sID="03341D" Partial="1">
+    <String List="0" sID="03341D">
       <EDID>PowerArmorRace</EDID>
       <REC id="33">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
-      <Dest>Obočí vnitřní</Dest>
+      <Dest>Eyebrow In</Dest>
     </String>
-    <String List="0" sID="033458" Partial="1">
+    <String List="0" sID="033458">
       <EDID>PowerArmorRace</EDID>
       <REC id="26">RACE:FMRN</REC>
       <Source>Lower Face</Source>
-      <Dest>Spodní obličej</Dest>
+      <Dest>Lower Face</Dest>
     </String>
-    <String List="0" sID="03347B" Partial="1">
+    <String List="0" sID="03347B">
       <EDID>PowerArmorRace</EDID>
       <REC id="6">RACE:FMRN</REC>
       <Source>Ears Top</Source>
-      <Dest>Uši vrch</Dest>
+      <Dest>Ears Top</Dest>
     </String>
-    <String List="0" sID="033488" Partial="1">
+    <String List="0" sID="033488">
       <EDID>PowerArmorRace</EDID>
       <REC id="19">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
-      <Dest>Obočí střed</Dest>
+      <Dest>Eyebrows Mid</Dest>
     </String>
-    <String List="0" sID="03348D" Partial="1">
+    <String List="0" sID="03348D">
       <EDID>PowerArmorRace</EDID>
       <REC id="38">RACE:FMRN</REC>
       <Source>Ears Top</Source>
-      <Dest>Uši vrch</Dest>
+      <Dest>Ears Top</Dest>
     </String>
-    <String List="0" sID="0334E1" Partial="1">
+    <String List="0" sID="0334E1">
       <EDID>PowerArmorRace</EDID>
       <REC id="42">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nosní dírky</Dest>
+      <Dest>Nostrils</Dest>
     </String>
-    <String List="0" sID="03350E" Partial="1">
+    <String List="0" sID="03350E">
       <EDID>PowerArmorRace</EDID>
       <REC id="35">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
-      <Dest>Lícní kost</Dest>
+      <Dest>Cheek Bones</Dest>
     </String>
-    <String List="0" sID="033538" Partial="1">
+    <String List="0" sID="033538">
       <EDID>PowerArmorRace</EDID>
       <REC id="46">RACE:FMRN</REC>
       <Source>Chin</Source>
-      <Dest>Brada</Dest>
+      <Dest>Chin</Dest>
     </String>
-    <String List="0" sID="033584" Partial="1">
+    <String List="0" sID="033584">
       <EDID>PowerArmorRace</EDID>
       <REC id="50">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
-      <Dest>Nosní kost</Dest>
+      <Dest>Nose Bridge</Dest>
     </String>
-    <String List="0" sID="033647" Partial="1">
+    <String List="0" sID="033647">
       <EDID>PowerArmorRace</EDID>
       <REC id="2">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
-      <Dest>Obočí vnější</Dest>
+      <Dest>Eyebrow Outer</Dest>
     </String>
-    <String List="0" sID="03365B" Partial="1">
+    <String List="0" sID="03365B">
       <EDID>PowerArmorRace</EDID>
       <REC id="12">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
-      <Dest>Čelist střed</Dest>
+      <Dest>Jaw Mid</Dest>
     </String>
     <String List="0" sID="03365D">
       <EDID>POISC21_Hunter</EDID>
@@ -3076,169 +3071,169 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Hunter</Source>
       <Dest>Lovec</Dest>
     </String>
-    <String List="0" sID="0336C1" Partial="1">
+    <String List="0" sID="0336C1">
       <EDID>PowerArmorRace</EDID>
       <REC id="43">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
-      <Dest>Vnější čelist</Dest>
+      <Dest>Jaw Outer</Dest>
     </String>
-    <String List="0" sID="033759" Partial="1">
+    <String List="0" sID="033759">
       <EDID>PowerArmorRace</EDID>
       <REC id="27">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
-      <Dest>Tuk na straně nosu</Dest>
+      <Dest>Side Nose Fat</Dest>
     </String>
-    <String List="0" sID="033789" Partial="1">
+    <String List="0" sID="033789">
       <EDID>PowerArmorRace</EDID>
       <REC id="23">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
-      <Dest>Ústa vrch</Dest>
+      <Dest>Mouth Top</Dest>
     </String>
-    <String List="0" sID="0337D6" Partial="1">
+    <String List="0" sID="0337D6">
       <EDID>PowerArmorRace</EDID>
       <REC id="7">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
-      <Dest>Uši střed</Dest>
+      <Dest>Ears Mid</Dest>
     </String>
-    <String List="0" sID="0337DD" Partial="1">
+    <String List="0" sID="0337DD">
       <EDID>PowerArmorRace</EDID>
       <REC id="14">RACE:FMRN</REC>
       <Source>Chin</Source>
-      <Dest>Brada</Dest>
+      <Dest>Chin</Dest>
     </String>
-    <String List="0" sID="0337F2" Partial="1">
+    <String List="0" sID="0337F2">
       <EDID>PowerArmorRace</EDID>
       <REC id="39">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
-      <Dest>Uši střed</Dest>
+      <Dest>Ears Mid</Dest>
     </String>
-    <String List="0" sID="033856" Partial="1">
+    <String List="0" sID="033856">
       <EDID>PowerArmorRace</EDID>
       <REC id="58">RACE:FMRN</REC>
       <Source>Lower Face</Source>
-      <Dest>Spodní obličej</Dest>
+      <Dest>Lower Face</Dest>
     </String>
-    <String List="0" sID="0338DB" Partial="1">
+    <String List="0" sID="0338DB">
       <EDID>PowerArmorRace</EDID>
       <REC id="15">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
-      <Dest>Tuk na krku</Dest>
+      <Dest>Neck Fat</Dest>
     </String>
-    <String List="0" sID="03390A" Partial="1">
+    <String List="0" sID="03390A">
       <EDID>PowerArmorRace</EDID>
       <REC id="32">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
-      <Dest>Obočí hlavní</Dest>
+      <Dest>Eyebrow Main</Dest>
     </String>
-    <String List="0" sID="033958" Partial="1">
+    <String List="0" sID="033958">
       <EDID>PowerArmorRace</EDID>
       <REC id="5">RACE:FMRN</REC>
       <Source>Ears Main</Source>
-      <Dest>Uši hlavní</Dest>
+      <Dest>Ears Main</Dest>
     </String>
-    <String List="0" sID="0339A6" Partial="1">
+    <String List="0" sID="0339A6">
       <EDID>PowerArmorRace</EDID>
       <REC id="13">RACE:FMRN</REC>
       <Source>Temple</Source>
-      <Dest>Spánek</Dest>
+      <Dest>Temple</Dest>
     </String>
-    <String List="0" sID="0339D6" Partial="1">
+    <String List="0" sID="0339D6">
       <EDID>PowerArmorRace</EDID>
       <REC id="55">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
-      <Dest>Ústa vrch</Dest>
+      <Dest>Mouth Top</Dest>
     </String>
-    <String List="0" sID="0339E9" Partial="1">
+    <String List="0" sID="0339E9">
       <EDID>PowerArmorRace</EDID>
       <REC id="52">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
-      <Dest>Špička nosu</Dest>
+      <Dest>Nose Tip</Dest>
     </String>
-    <String List="0" sID="0339F2" Partial="1">
+    <String List="0" sID="0339F2">
       <EDID>PowerArmorRace</EDID>
       <REC id="16">RACE:FMRN</REC>
       <Source>Eyes</Source>
-      <Dest>Oči</Dest>
+      <Dest>Eyes</Dest>
     </String>
-    <String List="0" sID="0339F7" Partial="1">
+    <String List="0" sID="0339F7">
       <EDID>PowerArmorRace</EDID>
       <REC id="21">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
-      <Dest>Ústa hlavní</Dest>
+      <Dest>Mouth Main</Dest>
     </String>
-    <String List="0" sID="033A1F" Partial="1">
+    <String List="0" sID="033A1F">
       <EDID>PowerArmorRace</EDID>
       <REC id="25">RACE:FMRN</REC>
       <Source>Forehead</Source>
-      <Dest>Čelo</Dest>
+      <Dest>Forehead</Dest>
     </String>
-    <String List="0" sID="033A2C" Partial="1">
+    <String List="0" sID="033A2C">
       <EDID>PowerArmorRace</EDID>
       <REC id="4">RACE:FMRN</REC>
       <Source>Cheeks</Source>
-      <Dest>Tváře</Dest>
+      <Dest>Cheeks</Dest>
     </String>
-    <String List="0" sID="033A37" Partial="1">
+    <String List="0" sID="033A37">
       <EDID>PowerArmorRace</EDID>
       <REC id="40">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
-      <Dest>Uši spodek</Dest>
+      <Dest>Ears Bottom</Dest>
     </String>
-    <String List="0" sID="033A4F" Partial="1">
+    <String List="0" sID="033A4F">
       <EDID>PowerArmorRace</EDID>
       <REC id="34">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
-      <Dest>Obočí vnější</Dest>
+      <Dest>Eyebrow Outer</Dest>
     </String>
-    <String List="0" sID="033A52" Partial="1">
+    <String List="0" sID="033A52">
       <EDID>PowerArmorRace</EDID>
       <REC id="8">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
-      <Dest>Uši spodek</Dest>
+      <Dest>Ears Bottom</Dest>
     </String>
-    <String List="0" sID="033A86" Partial="1">
+    <String List="0" sID="033A86">
       <EDID>PowerArmorRace</EDID>
       <REC id="41">RACE:FMRN</REC>
       <Source>Nose Main</Source>
-      <Dest>Nos hlavní</Dest>
+      <Dest>Nose Main</Dest>
     </String>
-    <String List="0" sID="033AA2" Partial="1">
+    <String List="0" sID="033AA2">
       <EDID>PowerArmorRace</EDID>
       <REC id="20">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
-      <Dest>Špička nosu</Dest>
+      <Dest>Nose Tip</Dest>
     </String>
-    <String List="0" sID="033AA8" Partial="1">
+    <String List="0" sID="033AA8">
       <EDID>PowerArmorRace</EDID>
       <REC id="17">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
-      <Dest>Zadní lícní kosti</Dest>
+      <Dest>Cheek Bones Back</Dest>
     </String>
-    <String List="0" sID="033AA9" Partial="1">
+    <String List="0" sID="033AA9">
       <EDID>PowerArmorRace</EDID>
       <REC id="53">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
-      <Dest>Ústa hlavní</Dest>
+      <Dest>Mouth Main</Dest>
     </String>
-    <String List="0" sID="033AAF" Partial="1">
+    <String List="0" sID="033AAF">
       <EDID>PowerArmorRace</EDID>
       <REC id="48">RACE:FMRN</REC>
       <Source>Eyes</Source>
-      <Dest>Oči</Dest>
+      <Dest>Eyes</Dest>
     </String>
-    <String List="0" sID="033AB1" Partial="1">
+    <String List="0" sID="033AB1">
       <EDID>PowerArmorRace</EDID>
       <REC id="10">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nosní dírky</Dest>
+      <Dest>Nostrils</Dest>
     </String>
-    <String List="0" sID="033ABD" Partial="1">
+    <String List="0" sID="033ABD">
       <EDID>PowerArmorRace</EDID>
       <REC id="18">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
-      <Dest>Nosní kost</Dest>
+      <Dest>Nose Bridge</Dest>
     </String>
-    <String List="0" sID="033AE0" Partial="1">
+    <String List="0" sID="033AE0">
       <EDID>PowerArmorRace</EDID>
       <REC id="24">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
@@ -3250,17 +3245,17 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Teddy</Source>
       <Dest>Teddy</Dest>
     </String>
-    <String List="0" sID="033B2F" Partial="1">
+    <String List="0" sID="033B2F">
       <EDID>PowerArmorRace</EDID>
       <REC id="37">RACE:FMRN</REC>
       <Source>Ears Main</Source>
-      <Dest>Uši hlavní</Dest>
+      <Dest>Ears Main</Dest>
     </String>
-    <String List="0" sID="033B3B" Partial="1">
+    <String List="0" sID="033B3B">
       <EDID>PowerArmorRace</EDID>
       <REC id="47">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
-      <Dest>Tuk na krku</Dest>
+      <Dest>Neck Fat</Dest>
     </String>
     <String List="0" sID="033B54">
       <EDID>POISC22_RadiationHazardStrong3584</EDID>
@@ -3322,11 +3317,11 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>PresetFemale8</Source>
       <Dest>PresetFemale8</Dest>
     </String>
-    <String List="0" sID="034027" Partial="1">
+    <String List="0" sID="034027">
       <EDID>PowerArmorRace</EDID>
       <REC id="28">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
-      <Dest>Oční víčka - Vrch</Dest>
+      <Dest>Eyelids - Top</Dest>
     </String>
     <String List="0" sID="034089">
       <EDID>PresetFemale10</EDID>
@@ -3340,11 +3335,11 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Dryer</Source>
       <Dest>Sušička</Dest>
     </String>
-    <String List="0" sID="0340CC" Partial="1">
+    <String List="0" sID="0340CC">
       <EDID>PowerArmorRace</EDID>
       <REC id="31">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
-      <Dest>Nos - hřbet</Dest>
+      <Dest>Nose - Ridge</Dest>
     </String>
     <String List="0" sID="0340DC">
       <EDID>POIDL030_Bethany</EDID>
@@ -3370,35 +3365,35 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>PresetFemale9</Source>
       <Dest>PresetFemale9</Dest>
     </String>
-    <String List="0" sID="0341F8" Partial="1">
+    <String List="0" sID="0341F8">
       <EDID>PowerArmorRace</EDID>
       <REC id="61">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
-      <Dest>Oční víčka - spodek</Dest>
+      <Dest>Eyelids - Bottom</Dest>
     </String>
-    <String List="0" sID="03420B" Partial="1">
+    <String List="0" sID="03420B">
       <EDID>PowerArmorRace</EDID>
       <REC id="29">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
-      <Dest>Oční víčka - spodek</Dest>
+      <Dest>Eyelids - Bottom</Dest>
     </String>
-    <String List="0" sID="034288" Partial="1">
+    <String List="0" sID="034288">
       <EDID>PowerArmorRace</EDID>
       <REC id="62">RACE:FMRN</REC>
       <Source>Jowls - Lower</Source>
-      <Dest>Dásně - spodní</Dest>
+      <Dest>Jowls - Lower</Dest>
     </String>
-    <String List="0" sID="034354" Partial="1">
+    <String List="0" sID="034354">
       <EDID>PowerArmorRace</EDID>
       <REC id="60">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
-      <Dest>Oční víčka - Vrch</Dest>
+      <Dest>Eyelids - Top</Dest>
     </String>
-    <String List="0" sID="03437A" Partial="1">
+    <String List="0" sID="03437A">
       <EDID>PowerArmorRace</EDID>
       <REC id="63">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
-      <Dest>Nos - hřbet</Dest>
+      <Dest>Nose - Ridge</Dest>
     </String>
     <String List="0" sID="034402">
       <EDID>PowerArmorFurnitureRaiderPartial</EDID>
@@ -3406,11 +3401,11 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Power Armor</Source>
       <Dest>Energozbroj</Dest>
     </String>
-    <String List="0" sID="034440" Partial="1">
+    <String List="0" sID="034440">
       <EDID>PowerArmorRace</EDID>
       <REC id="30">RACE:FMRN</REC>
       <Source>Jowls -  Lower</Source>
-      <Dest>Dásně -  spodní</Dest>
+      <Dest>Jowls -  Lower</Dest>
     </String>
     <String List="0" sID="034472">
       <EDID>PresetFemale7</EDID>
@@ -3424,7 +3419,7 @@ Možné katastrofické selhání, vykliďte prosím oblast!</Dest>
       <Source>Fear the Future?</Source>
       <Dest>Obavy z budoucnosti?</Dest>
     </String>
-    <String List="0" sID="034600" Partial="1">
+    <String List="0" sID="034600">
       <EDID>PreventPowerArmorExitTrigger</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Test No Power Armor Exit Trigger</Source>
@@ -4932,13 +4927,13 @@ Nic nám tu nezbývá, Natalie, už nic. Starosta Jackson nás neochrání. Minu
 Je čas jít. Sejdeme se za skladištěm severně od města, přibližně po setmění. Schoval jsem tam nějaké zátky do kontejneru. Dole na pobřeží mám loď. Vyrazíme podél břehu směrem ke starému nábřeží. S trochou štěstí můžeme být před úsvitem v Dobrém sousedství.&#xD;
 &lt;/font&gt;</Dest>
     </String>
-    <String List="1" sID="033BE7" Partial="1">
+    <String List="1" sID="033BE7">
       <EDID>PowerArmorFramePurchaseMessageDC</EDID>
       <REC>MESG:DESC</REC>
       <Source>Your purchased Power Armor frame is available next to Commonwealth Weaponry.</Source>
-      <Dest>Vámi zakoupený rám energozbroje je k dispozici vedle Zbrojařství Commonwealth.</Dest>
+      <Dest>Vámi zakoupený rám energozbroje je k dispozici vedle Commonwealthského zbrojařství.</Dest>
     </String>
-    <String List="1" sID="033C3C" Partial="1">
+    <String List="1" sID="033C3C">
       <EDID>PowerArmorFramePurchaseItemDC</EDID>
       <REC>BOOK:DESC</REC>
       <Source>Purchase Order&#xD;
@@ -4946,7 +4941,7 @@ Je čas jít. Sejdeme se za skladištěm severně od města, přibližně po set
 This Power Armor is certified pre-owned by Commonwealth Weaponry. It is sold as-is. Commonwealth Weaponry is not liable for any deficiencies, defects, or after-sale damage.</Source>
       <Dest>Objednávka&#xD;
 &#xD;
-Tato energozbroj je certifikována jako použita Zbrojařstvím Commonwealth. Je prodávána v takovém stavu, v jakém je. Zbrojařství Commonwealth nezodpovídá za jekékoliv nedostatky, vady, nebo poprodejní poškození.</Dest>
+Tato energozbroj je Commonwealthským zbrojařstvím certifikována jako použitá. Je prodávána v takovém stavu, v jakém je. Commonwealthské zbrojařství nezodpovídá za jekékoliv nedostatky, vady, nebo poprodejní poškození.</Dest>
     </String>
     <String List="1" sID="033C9B">
       <EDID>PowerArmorFramePurchaseMessageBoS</EDID>

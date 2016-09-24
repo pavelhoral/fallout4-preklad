@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0001D9">
@@ -1168,7 +1169,7 @@ Je to jedno. Už to funguje.</Dest>
       <Source>Greater Mass Blood Clinic</Source>
       <Dest>Ústřední krevní klinika</Dest>
     </String>
-    <String List="0" sID="01D64E" Partial="1">
+    <String List="0" sID="01D64E">
       <EDID>GreatLinks18Location</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Great Links 18</Source>
@@ -5470,8 +5471,8 @@ Náklad:&#xD;
     <String List="1" sID="02B70F">
       <EDID>FollowersCompanionDismissMessage</EDID>
       <REC>MESG:DESC</REC>
-      <Source>&lt;Alias=Companion&gt; is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
-      <Dest>&lt;Alias=Companion&gt; odchází do osady &lt;Alias=DismissMessageLocation&gt;.</Dest>
+      <Source>&lt;Alias.CurrentName=Companion&gt; is going to &lt;Alias=DismissMessageLocation&gt;.</Source>
+      <Dest>&lt;Alias.CurrentName=Companion&gt; míří do osady &lt;Alias=DismissMessageLocation&gt;.</Dest>
     </String>
     <String List="1" sID="02B784">
       <EDID>Ghoulish03</EDID>

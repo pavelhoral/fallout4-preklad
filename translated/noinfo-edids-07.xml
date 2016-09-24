@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0127B4">
@@ -738,7 +739,7 @@
       <Source>Radiation Cloak</Source>
       <Dest>Radiační opar</Dest>
     </String>
-    <String List="0" sID="01BF7D">
+    <String List="0" sID="01BF7D" Partial="2">
       <EDID>CovenantLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Covenant</Source>
@@ -1002,7 +1003,7 @@
       <Source>Cutler Bend</Source>
       <Dest>Nožířův záhyb</Dest>
     </String>
-    <String List="0" sID="01F088">
+    <String List="0" sID="01F088" Partial="2">
       <EDID>CrimeCovenant</EDID>
       <REC>FACT:FULL</REC>
       <Source>Covenant</Source>
@@ -1530,7 +1531,7 @@
       <Source>Concord</Source>
       <Dest>Concord</Dest>
     </String>
-    <String List="0" sID="02603C">
+    <String List="0" sID="02603C" Partial="2">
       <EDID>CovenantMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Covenant</Source>
@@ -2701,11 +2702,11 @@
       <Source>Combat Medic</Source>
       <Dest>Polní medik</Dest>
     </String>
-    <String List="0" sID="0320B8" Partial="1">
+    <String List="0" sID="0320B8">
       <EDID>Companion01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>You can alter the weapons and attire of most companions by accessing the trade menu in dialogue.</Source>
-      <Dest>Můžeš měnit zbraně a vybavení většiny společníků volbou obchodování v dialogové nabídce.</Dest>
+      <Dest>Můžeš měnit zbraně a vybavení většiny společníků skrze volbu Vybavení v dialogové nabídce.</Dest>
     </String>
     <String List="0" sID="03210B">
       <EDID>CompCurieAvoidDeath</EDID>
@@ -3587,6 +3588,12 @@ Nemůžeš každému věřit.&#xD;
       <Source>You can now save 3 Critical Hits, to be used in V.A.T.S. when you need them the most. Banking a Critical has a chance to save an additional Critical.</Source>
       <Dest>Od teď jsi schopný uchovat si 3 kritické zásahy pro použití ve V.A.T.S. na chvíle, kdy budou potřeba. Uchování kritického zásahu má šanci uchovat jeden další navíc.</Dest>
     </String>
+    <String List="1" sID="022022">
+      <EDID>crRangedDmgPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Adds the crAttackDamage actor value to the melee damage done by creatures.</Source>
+      <Dest>Adds the crAttackDamage actor value to the melee damage done by creatures.</Dest>
+    </String>
     <String List="1" sID="023364">
       <EDID>ConcordMuseumMuralMessage</EDID>
       <REC>MESG:DESC</REC>
@@ -3612,6 +3619,12 @@ Nechť nám jejich oběti připomenou, že svoboda je privilegium poskytnuté mn
       <REC>PERK:DESC</REC>
       <Source>Your automatic weapons now do double damage and have a greater chance to stagger opponents.</Source>
       <Dest>Tvoje automatické zbraně nyní působí dvakrát větší zranění a mají větší šanci ochromit nepřátele.</Dest>
+    </String>
+    <String List="1" sID="02BB5A">
+      <EDID>crSetRangedDmgPerk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Sets the crAttackDamage actor value to the melee damage done by creatures.</Source>
+      <Dest>Sets the crAttackDamage actor value to the melee damage done by creatures.</Dest>
     </String>
     <String List="1" sID="02E76E">
       <EDID>CompHancockPerk</EDID>

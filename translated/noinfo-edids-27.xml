@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0128AB">
@@ -354,7 +355,7 @@
       <Source>Picket Fences</Source>
       <Dest>Laťkové ploty</Dest>
     </String>
-    <String List="0" sID="018992">
+    <String List="0" sID="018992" Partial="2">
       <EDID>PaulPembroke</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Paul Pembroke</Source>
@@ -366,7 +367,7 @@
       <Source>Simple Rifle</Source>
       <Dest>Jednoduchá puška</Dest>
     </String>
-    <String List="0" sID="018C42" Partial="1">
+    <String List="0" sID="018C42">
       <EDID>PerksQuest</EDID>
       <REC>QUST:FULL</REC>
       <Source>Perks Quest</Source>
@@ -3123,8 +3124,9 @@ Zjištěn neoprávněný vstup.</Dest>
     <String List="0" sID="031E32">
       <EDID>PerkStrongBack</EDID>
       <REC>LSCR:DESC</REC>
-      <Source>With the Strong Back perk, you can carry additional weight, and may even gain the abilities to run and fast travel while encumbered.</Source>
-      <Dest>S perkem Stěhovák uneseš větší náklad a můžeš dokonce získat schopnost běhat a rychle cestovat, i když jsi přetížen.</Dest>
+      <Source>With the Strong Back perk, you can carry additional weight, and may even gain the abilities to run and fast travel while encumbered. (In Survival, instead of allowing fast travel, you will no longer take damage from exceeding your carry weight.)&#xD;
+</Source>
+      <Dest>S perkem Stěhovák uneseš větší náklad a můžeš dokonce získat schopnost běhat a rychle cestovat, i když jsi přetížen. (Při Přežití místo možnosti rychle cestovat na tebe nebude při překročení nosnosti působit poškození.)</Dest>
     </String>
     <String List="0" sID="031E45">
       <EDID>PerkAttackDog</EDID>
@@ -4299,6 +4301,12 @@ POZNÁMKY:&#xD;
       <Source>Talked to Parker, didn't buy a card.</Source>
       <Dest>Pokecali jsme si s Parkerem, karta nekoupena.</Dest>
     </String>
+    <String List="1" sID="01552E">
+      <EDID>Perception</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Perception is your environmental awareness and "sixth sense," and affects weapon accuracy in V.A.T.S.</Source>
+      <Dest>Vnímání je smyslem pro povědomí o tvém okolí a ovlivňuje přesnost zbraní v režimu V.A.T.S.</Dest>
+    </String>
     <String List="1" sID="01566B">
       <EDID>Pickpocket02</EDID>
       <REC>PERK:DESC</REC>
@@ -4550,12 +4558,6 @@ POZNÁMKY:&#xD;
       <REC>PERK:DESC</REC>
       <Source>Ballistic weapons do +5% critical damage.</Source>
       <Dest>Balistické zbraně způsobují o 5 % vyšší poškození kritickým zásahem.</Dest>
-    </String>
-    <String List="1" sID="02A3C5">
-      <EDID>PerkMagAstoundinglyAwesomeTales10</EDID>
-      <REC>BOOK:DESC</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="1" sID="02B30B">
       <EDID>PerkBobbleheadBigGuns</EDID>

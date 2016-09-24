@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="013226">
@@ -2200,6 +2201,12 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <Source>You cannot use this workshop yet.</Source>
       <Dest>Tuto dílnu zatím nemůžeš použít.</Dest>
     </String>
+    <String List="1" sID="018F7F">
+      <EDID>YaoGuaiRace</EDID>
+      <REC>RACE:DESC</REC>
+      <Source>45 degree right swipe</Source>
+      <Dest>45 degree right swipe</Dest>
+    </String>
     <String List="1" sID="01D2A9">
       <EDID>WorkshopResourceAssignedMessage</EDID>
       <REC>MESG:DESC</REC>
@@ -2311,8 +2318,8 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
     <String List="1" sID="029CDA">
       <EDID>WorkshopTutorialMessage06_1_Start</EDID>
       <REC>MESG:DESC</REC>
-      <Source>Your &lt;Alias=DamagedObject&gt; is damaged. Damaged objects can't produce their resources until they are repaired.</Source>
-      <Dest>Jeden z objektů je poškozen (&lt;Alias=DamagedObject&gt;). Poškozené objekty nemohou produkovat své zdroje, dokud nejsou opraveny.</Dest>
+      <Source>A resource object is damaged. Damaged objects can't produce their resources until they are repaired.</Source>
+      <Dest>Objekt produkující zdroje byl poškozen. Poškozené objekty nemohou produkovat své zdroje dokud nejsou opraveny.</Dest>
     </String>
     <String List="1" sID="029D0A">
       <EDID>WorkshopTutorialMessage03_1_Finish</EDID>

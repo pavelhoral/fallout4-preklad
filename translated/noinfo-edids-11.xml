@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0126FE">
@@ -1974,12 +1975,6 @@ Atomhračky Wilson</Dest>
       <Source>CHECK THIS MESSAGE</Source>
       <Dest>KOUKNĚTE NA TUHLE ZPRÁVU</Dest>
     </String>
-    <String List="0" sID="01CB60">
-      <EDID>Dogmeat</EDID>
-      <REC>NPC_:FULL</REC>
-      <Source>Dog</Source>
-      <Dest>Pes</Dest>
-    </String>
     <String List="0" sID="01CBAC">
       <EDID>DN160_Scavenger01Note</EDID>
       <REC>BOOK:FULL</REC>
@@ -2913,7 +2908,7 @@ DATUM DORUČENÍ - 23. 10. 2077&#xD;
 TYP -  barely&#xD;
 POPIS - odpadové materiály</Dest>
     </String>
-    <String List="0" sID="023371">
+    <String List="0" sID="023371" Partial="2">
       <EDID>EarlSterling</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Earl Sterling</Source>
@@ -3114,12 +3109,6 @@ POPIS - odpadové materiály</Dest>
       <Source>Doctor Duff</Source>
       <Dest>Doktorka Duffová</Dest>
     </String>
-    <String List="0" sID="023FAF">
-      <EDID>DogWhistle</EDID>
-      <REC>ALCH:DNAM</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="0" sID="023FC9">
       <EDID>ElevatorHatchHiTech</EDID>
       <REC>DOOR:FULL</REC>
@@ -3214,7 +3203,7 @@ POPIS - odpadové materiály</Dest>
       <EDID>Empty_NukaColaMachine</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Nuka-Cola Machine</Source>
-      <Dest>Nuka Cola automat</Dest>
+      <Dest>Automat na Nuka-Colu</Dest>
     </String>
     <String List="0" sID="0248D7">
       <EDID>DN142</EDID>
@@ -4414,7 +4403,7 @@ Pokus použít tyto podprogramy bez licence je považován za krádež firemníh
 &#xD;
 It's been three months since the bombs fell. I left the bunker for the first time last night. Our plan to tap into the main from the water tower worked, but the piping took more duct tape than expected and was leaking pretty bad. We didn't have any more in the house so I tried to sneak over to the Cobb's house across the street. He was working with the construction crew in the neighborhood so I figured he might have some.&#xD;
 &#xD;
-I was in Ron's den, where he'd been working on that Nuka Cola machine, and must not have heard him over the distant gunfire and explosions. There was just that cold barrel pushed up against the back of my head suddenly.&#xD;
+I was in Ron's den, where he'd been working on that Nuka-Cola machine, and must not have heard him over the distant gunfire and explosions. There was just that cold barrel pushed up against the back of my head suddenly.&#xD;
 &#xD;
 &#xD;
 He told me to turn around slowly, and oh god Bonnie, his face. The radiation had hit him hard, his hair was falling out and half his face looked melted. I begged him to stop, but he put the gun in my mouth and cocked back the hammer.&#xD;
@@ -4424,7 +4413,7 @@ I heard the gunshot, but when I opened my eyes, Ron was falling to the ground, a
 &#xD;
 Jsou to tři měsíce, co bomby spadly. Minulou noc jsem poprvé opustil bunkr. Náš plán napojit se na hlavní rozvod z vodojemu fungoval, ale potrubí vyžadovalo víc lepicí písky, než jsme počítali, a hodně teklo. V domě jsme už žádnou další neměli, takže jsem se pokusil vplížit do Cobbova domu naproti přes ulici. Pracoval se stavaři v sousedství, takže jsem usoudil, že nějakou mít bude.&#xD;
 &#xD;
-Byl jsem v Ronově doupěti, kde pracoval na tom automatu na Nuka Colu, a nemohl jsem ho slyšet přes vzdálenou střelbu a exploze. Najednou tu byla jen chladná hlaveň, přitisknutá vzadu k mé hlavě.&#xD;
+Byl jsem v Ronově doupěti, kde pracoval na tom automatu na Nuka-Colu, a nemohl jsem ho slyšet přes vzdálenou střelbu a exploze. Najednou tu byla jen chladná hlaveň, přitisknutá vzadu k mé hlavě.&#xD;
 &#xD;
 Řekl mi, ať se pomalu otočím a, o Bože, Bonnnie, jeho obličej. Radiace ho zasáhla těžce, jeho vlasy vypadávaly a polovina jeho obličeje vypadala rozteklá. Prosil jsem ho, ať přestane, ale vrazil mi zbraň do pusy a natáhl kohoutek.&#xD;
 &#xD;
@@ -10323,6 +10312,12 @@ Pátek pořád platí?&#xD;
       <Source>Dogmeat</Source>
       <Dest>Žeryk</Dest>
     </String>
+    <String List="1" sID="01D4AF">
+      <EDID>ElevatorDeactivatedMesssage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This elevator isn't functioning.</Source>
+      <Dest>Tento výtah není funkční.</Dest>
+    </String>
     <String List="1" sID="01D511">
       <EDID>DN154_IDCardReaderMessageNeedsCard</EDID>
       <REC>MESG:DESC</REC>
@@ -10411,11 +10406,11 @@ Prokletý opice, nahánějí mi hrůzu.&#xD;
 &#xD;
 - Tom</Dest>
     </String>
-    <String List="1" sID="028F2B" Partial="1">
+    <String List="1" sID="028F2B">
       <EDID>DogmeatRace</EDID>
       <REC>RACE:DESC</REC>
       <Source>jumping bite</Source>
-      <Dest>skákající trhač</Dest>
+      <Dest>jumping bite</Dest>
     </String>
     <String List="1" sID="02901B">
       <EDID>DogWhistleDogmeatAbsentMSG</EDID>

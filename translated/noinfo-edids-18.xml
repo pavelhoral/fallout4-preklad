@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="01274D">
@@ -1608,11 +1609,11 @@
       <Source>10mm Muzzle Brake</Source>
       <Dest>Pistole ráže 10mm - úsťová brzda</Dest>
     </String>
-    <String List="0" sID="01F842" Partial="1">
+    <String List="0" sID="01F842">
       <EDID>MinutemenCentralQuest</EDID>
       <REC>QUST:FULL</REC>
       <Source>Minutemen Central</Source>
-      <Dest>Ústředí Minutemanů</Dest>
+      <Dest>Minutemen Central</Dest>
     </String>
     <String List="0" sID="01FBF0">
       <EDID>MinRecruit00</EDID>
@@ -1752,11 +1753,11 @@
       <Source>Shaped Charge</Source>
       <Dest>Tvarovaný náboj</Dest>
     </String>
-    <String List="0" sID="020B53" Partial="1">
+    <String List="0" sID="020B53">
       <EDID>MirelurkHypnosisTower</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Vapor Tower</Source>
-      <Dest>Vapor Tower</Dest>
+      <Dest>Věž páry</Dest>
     </String>
     <String List="0" sID="020B68">
       <EDID>MinRadiantOwned02Radio</EDID>
@@ -4296,6 +4297,12 @@
       <Source>Is there a doctor in the house? Stimpaks restore 40% of lost Health, and RadAway removes 40% of radiation.</Source>
       <Dest>Je tu někde doktor? Stimpaky obnovují 40 % ztraceného zdraví a RadAway odstraňuje 40 % radiace.</Dest>
     </String>
+    <String List="1" sID="017DD6">
+      <EDID>MightDelete_SilentRunning</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Running is as quiet as sneaking.</Source>
+      <Dest>Běh je stejně tichý jako plížení.</Dest>
+    </String>
     <String List="1" sID="01DAC2">
       <EDID>Medic02</EDID>
       <REC>PERK:DESC</REC>
@@ -4425,8 +4432,8 @@
     <String List="1" sID="03092C">
       <EDID>MedX</EDID>
       <REC>ALCH:DESC</REC>
-      <Source>+25% Damage Resist for 5 minutes.</Source>
-      <Dest>+25 % odolnosti vůči zranění na 5 minut.</Dest>
+      <Source>+25% Damage Resist and +1000% Poison Resistance for 5 minutes.</Source>
+      <Dest>+25 % k odolnosti vůči poškození a +1000 % k odolnosti vůči jedu na 5 minut.</Dest>
     </String>
     <String List="1" sID="0309E6">
       <EDID>Mentats</EDID>

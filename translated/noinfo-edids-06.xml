@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0001EF">
@@ -41,12 +42,6 @@
       <REC>ARMO:FULL</REC>
       <Source>Faded Trench Coat</Source>
       <Dest>Vybledlý plášť</Dest>
-    </String>
-    <String List="0" sID="012C8A">
-      <EDID>ChameleonEffectStealthBoy</EDID>
-      <REC>MGEF:DNAM</REC>
-      <Source/>
-      <Dest/>
     </String>
     <String List="0" sID="012D82">
       <EDID>CoASisterVerena</EDID>
@@ -1908,12 +1903,6 @@
       <Source>Stealth Field</Source>
       <Dest>Pole neviditelnosti</Dest>
     </String>
-    <String List="0" sID="02C561">
-      <EDID>ChameleonEffectArmorMod</EDID>
-      <REC>MGEF:DNAM</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="0" sID="02C79A">
       <EDID>CharlestownDrugDen</EDID>
       <REC>CELL:FULL</REC>
@@ -3384,6 +3373,52 @@
       <Source>All the rush without the hassle! You're 50% less likely to get addicted when consuming chems.</Source>
       <Dest>Pořádná jízda bez potíží! Jsi o 50% méně náchylný k závislosti po požití podpůrných prostředků.</Dest>
     </String>
+    <String List="1" sID="014AA1">
+      <EDID>Charisma</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter.</Source>
+      <Dest>Charisma mírou tvé schopnosti působit na ostatní. Ovlivňuje úspěšnost přesvědčování v rozhovorech a ceny při obchodování.</Dest>
+    </String>
+    <String List="1" sID="014BBD">
+      <EDID>CastleClearRubbleTempMsg</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>(This is a stand-in for future rubble clearing process)&#xD;
+&#xD;
+Do you want to clear the rubble from in front of this door?</Source>
+      <Dest>(This is a stand-in for future rubble clearing process)&#xD;
+&#xD;
+Do you want to clear the rubble from in front of this door?</Dest>
+    </String>
+    <String List="1" sID="01BFBB">
+      <EDID>CIS_PlayerActivateEventSender_Perk</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Perk used to send Companion Interaction Scene events when player "hovers over" certain types of objects.</Source>
+      <Dest>Perk used to send Companion Interaction Scene events when player "hovers over" certain types of objects.</Dest>
+    </String>
+    <String List="1" sID="01C3BA">
+      <EDID>ChainedDoorOpenMSG</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Unchain this door to open.</Source>
+      <Dest>Pro otevření dveří musíš sundat řetěz.</Dest>
+    </String>
+    <String List="1" sID="01D44C">
+      <EDID>ChipBoard_Notification</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This requires a Relay Chip.</Source>
+      <Dest>Toto vyžaduje přenosový čip.</Dest>
+    </String>
+    <String List="1" sID="01D4EB">
+      <EDID>CircuitBreakerDeniedMessage</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This breaker is not functional.</Source>
+      <Dest>Tento jistič není funkční.</Dest>
+    </String>
+    <String List="1" sID="01D7BE">
+      <EDID>ChemDurationMod</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>Modifies the magnitude of chem effects. NOTE: for this actor value to actually do anything, the actor needs to have the associated perk.</Source>
+      <Dest>Modifies the magnitude of chem effects. NOTE: for this actor value to actually do anything, the actor needs to have the associated perk.</Dest>
+    </String>
     <String List="1" sID="01DBBB">
       <EDID>Chemist01</EDID>
       <REC>PERK:DESC</REC>
@@ -3401,6 +3436,12 @@
       <REC>PERK:DESC</REC>
       <Source>Any chems you take now last an additional 150% longer.</Source>
       <Dest>Všechny podpůrné prostředky které požiješ účinkují o dalších 150% déle.</Dest>
+    </String>
+    <String List="1" sID="024386">
+      <EDID>ChainedDoorMSG</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>This door is chained on the other side.</Source>
+      <Dest>Tyto dveře jsou z druhé strany uvázané řetězem.</Dest>
     </String>
     <String List="1" sID="02596C">
       <EDID>CastleRadioTransmitterRepairMsg</EDID>
@@ -3430,6 +3471,18 @@ Chceš opravit rádiový vysílač?</Dest>
       <Source>Cait has confided in me that her dependence on Psycho is taking its toll on her health. I need to bring her to Vault 95 to cure her addiction before it's too late.</Source>
       <Dest>Cait se mi svěřila, že její závislost na Psychu si vybírá daň na jejím zdraví. Potřebuju ji dovést do Vaultu 95 a vyléčit její závislost dříve, než bude příliš pozdě.</Dest>
     </String>
+    <String List="1" sID="030F87">
+      <EDID>ClothesDog_ArmorHeavy</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Metal "armor" for a dog.  Appears to offer no meaningful protection.</Source>
+      <Dest>Železná "zbroj" pro psa. Vypadá, že neposkytuje žádnou smysluplnou ochranu.</Dest>
+    </String>
+    <String List="1" sID="0310DB">
+      <EDID>ClothesDog_ArmorLight</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Metal "armor" for a dog.  Appears to offer no meaningful protection.</Source>
+      <Dest>Železná "zbroj" pro psa. Vypadá, že neposkytuje žádnou smysluplnou ochranu.</Dest>
+    </String>
     <String List="1" sID="03117B">
       <EDID>COMCaitQuest</EDID>
       <REC id="3">QUST:CNAM</REC>
@@ -3442,6 +3495,12 @@ Chceš opravit rádiový vysílač?</Dest>
       <Source>I've arrived at Valut 95 with Cait. I'm hoping the facility contains whatever it is we need to cure her addiction to Psycho.</Source>
       <Dest>Cait se mnou dorazila k Valutu 95. Doufám, že zde nalezneme vše, co je potřeba k vyléčení její závislosti na Psychu, ať už je to cokoliv.</Dest>
     </String>
+    <String List="1" sID="0311BC">
+      <EDID>ClothesDog_ArmorMedium</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Metal "armor" for a dog.  Appears to offer no meaningful protection.</Source>
+      <Dest>Železná "zbroj" pro psa. Vypadá, že neposkytuje žádnou smysluplnou ochranu.</Dest>
+    </String>
     <String List="1" sID="031974">
       <EDID>Chemist04</EDID>
       <REC>PERK:DESC</REC>
@@ -3453,6 +3512,20 @@ Chceš opravit rádiový vysílač?</Dest>
       <REC id="2">QUST:CNAM</REC>
       <Source>Inside Vault 95, Cait and I have located the "Clean Room," an area dedicated to drug rehabilitation. After a short discussion, Cait has agreed to allow the Psycho to be purged from her body.</Source>
       <Dest>Cait se mnou objevila „sterilní místnost“ uvnitř Vaultu 95. Místo navržené pro léčbu drogových závislostí. Po krátké diskusi Cait souhlasila, že si nechá vyčistit Psycho z těla.</Dest>
+    </String>
+    <String List="1" sID="03441D">
+      <EDID>CombatNoActivate</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>You can't do that while in combat.</Source>
+      <Dest>Toto v boji nemůžeš dělat.</Dest>
+    </String>
+    <String List="1" sID="035DE0">
+      <EDID>CCE_TestCompanionChatEvent</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source>1 = Companion Chat Event is valid, companion witnessed event and will talk about it.&#xD;
+0 = not witnessed, won't talk about it.</Source>
+      <Dest>1 = Companion Chat Event is valid, companion witnessed event and will talk about it.&#xD;
+0 = not witnessed, won't talk about it.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

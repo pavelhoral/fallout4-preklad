@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="01275E">
@@ -2128,7 +2129,7 @@ STAV: Odhlášena strážníkem Doylem, policejní oddělení Jižní Boston, 22
       <Source>Kill Bobbi</Source>
       <Dest>Zabij Bobbi</Dest>
     </String>
-    <String List="0" sID="019BA2">
+    <String List="0" sID="019BA2" Partial="2">
       <EDID>MS13PaulDiesShared</EDID>
       <REC>DIAL:FULL</REC>
       <Source>Paul Pembroke</Source>
@@ -6436,13 +6437,13 @@ Příkaz?</Dest>
 &#xD;
 1. Center of Earth Black Hole &#xD;
 2. 90% Synth Infiltration&#xD;
-3. Nuka Cola Strawberry&#xD;
+3. Nuka-Cola Strawberry&#xD;
 4. Monty's Theory</Source>
       <Dest>(přinejmenším prozatím)&#xD;
 &#xD;
-1. Středem Země černá díra &#xD;
+1. Středem Země černá díra&#xD;
 2. 90 % infiltrace syntetiků&#xD;
-3. Nuka Cola Jahoda&#xD;
+3. Nuka-Cola Jahoda&#xD;
 4. Montyho teorie</Dest>
     </String>
     <String List="0" sID="02BEDC">
@@ -7571,16 +7572,15 @@ To se plete. On dluží mně, za ten čas, který jsem tu promrhala. Já budu n�
 &#xD;
 1. Center of Earth Black Hole &#xD;
 2. 90% Synth Infiltration&#xD;
-3. Nuka Cola Strawberry&#xD;
+3. Nuka-Cola Strawberry&#xD;
 4. Monty's Theory&#xD;
 </Source>
       <Dest>(přinejmenším prozatím)&#xD;
 &#xD;
-1. Středem Země černá díra &#xD;
+1. Středem Země černá díra&#xD;
 2. 90 % infiltrace syntetiků&#xD;
-3. Nuka Cola Jahoda&#xD;
-4. Montyho teorie&#xD;
-</Dest>
+3. Nuka-Cola Jahoda&#xD;
+4. Montyho teorie</Dest>
     </String>
     <String List="0" sID="032F73">
       <EDID>MS16_BobbisTerminal</EDID>
@@ -8091,12 +8091,6 @@ Podepsán,&#xD;
 Doktor Crocker&#xD;
 Chirurgická megaklinika</Dest>
     </String>
-    <String List="1" sID="015E45">
-      <EDID>MS13MarowskiPhoto</EDID>
-      <REC>BOOK:DESC</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="1" sID="016F09">
       <EDID>MS07aReceipt</EDID>
       <REC>BOOK:DESC</REC>
@@ -8190,6 +8184,14 @@ Vadim přišel do mojí kanceláře, napůl opilý a se smutným příběhem o t
 &#xD;
 Earl neměl žádné nepřátele, alespoň nikoho s motivem tak velkým, aby ho zabil. Navíc s nikým nežil, takže se musím podívat, jestli Vadim nebo někdo jiný z hostince Na Střídačce nemá jeho klíče. Raději bych nevysvětloval ostraze, proč jsem vypáčil zámek u Earlových dveří, kdybych to zvoral a chytili mě při tom.&#xD;
 &lt;/p&gt;</Dest>
+    </String>
+    <String List="1" sID="01A5E3">
+      <EDID>MS13TrishNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&#xD;
+</Source>
+      <Dest>&#xD;
+</Dest>
     </String>
     <String List="1" sID="01A8CD">
       <EDID>MS11PowerRelayMessage</EDID>
@@ -8401,12 +8403,6 @@ Jedinou pokaženou součástkou je vyhořelý radarový vysílač Poseidonu. Je 
       <Source>This is a partially dismantled turbopump. When fully operational it can deliver fuel to an enormously powerful engine.</Source>
       <Dest>Tohle je částečně rozebraná turbopumpa. Pokud je plně funkční, dodává palivo pro velmi silný motor. </Dest>
     </String>
-    <String List="1" sID="01D2C4">
-      <EDID>MS04_CollectibleSilverShroudPhoto</EDID>
-      <REC>BOOK:DESC</REC>
-      <Source/>
-      <Dest/>
-    </String>
     <String List="1" sID="01D315">
       <EDID>MS11GuidanceBoardFixedMessage</EDID>
       <REC>MESG:DESC</REC>
@@ -8544,7 +8540,7 @@ CHIRURGICKÁ MEGAKLINIKA</Dest>
       <Source>There's been some kind of attack on Jack's facility at the Parsons State Insane Asylum. Jack and I are going to deal with it.</Source>
       <Dest>Na Jackovo vybavení v Parsonské státní psychiatrické léčebně někdo zaútočil. Jack a já to jdeme vyřešit.</Dest>
     </String>
-    <String List="1" sID="02367D" Partial="1">
+    <String List="1" sID="02367D">
       <EDID>MS07b_ShemDrowneNote</EDID>
       <REC>BOOK:DESC</REC>
       <Source>&lt;font face='$HandwrittenFont'&gt;Shem Drowne made it, May 25, 1742. &#xD;

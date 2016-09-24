@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="000090">
@@ -1044,11 +1045,11 @@
       <Source>Deep King</Source>
       <Dest>Hlubinný král</Dest>
     </String>
-    <String List="0" sID="02B227" Partial="1">
+    <String List="0" sID="02B227">
       <EDID>SkeetoSpit</EDID>
       <REC>ALCH:FULL</REC>
       <Source>Skeeto Spit</Source>
-      <Dest>Skeeto Spit</Dest>
+      <Dest>Máří flus</Dest>
     </String>
     <String List="0" sID="02C62C">
       <EDID>SignEmployeesOnly01</EDID>
@@ -3031,11 +3032,11 @@ DRINK</Source>
       <Source>Legendary Enemies Killed</Source>
       <Dest>Zabití legendární nepřátelé</Dest>
     </String>
-    <String List="0" sID="036211" Partial="1">
+    <String List="0" sID="036211">
       <EDID>sMiscStatMoneyShots</EDID>
       <REC>GMST:DATA</REC>
       <Source>Money Shots</Source>
-      <Dest>Money Shots</Dest>
+      <Dest>Výstřely peněz</Dest>
     </String>
     <String List="0" sID="036235">
       <EDID>sMiscStatIntimidations</EDID>
@@ -3054,6 +3055,12 @@ DRINK</Source>
       <REC>GMST:DATA</REC>
       <Source>Bright Ideas</Source>
       <Dest>Chytré nápady</Dest>
+    </String>
+    <String List="1" sID="03091A">
+      <EDID>SkeetoSpit</EDID>
+      <REC>ALCH:DESC</REC>
+      <Source>+25 max Health for 20 minutes.</Source>
+      <Dest>+25 maximální zdraví na 20 minut.</Dest>
     </String>
     <String List="1" sID="031005">
       <EDID>SleepWellRestedMessage</EDID>

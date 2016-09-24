@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="000264">
@@ -101,12 +102,6 @@
       <REC>NPC_:FULL</REC>
       <Source>Bobby De Luca</Source>
       <Dest>Bobby De Luca</Dest>
-    </String>
-    <String List="0" sID="012D16">
-      <EDID>VltOutsideEntranceExterior01Valve</EDID>
-      <REC>ACTI:FULL</REC>
-      <Source>Valve</Source>
-      <Dest>Ventil</Dest>
     </String>
     <String List="0" sID="012D9F">
       <EDID>WarwickHomesteadChest</EDID>
@@ -797,7 +792,7 @@ Shromažďuji zbývající zásoby a zahajuji bezpečnostní uzamčení. Musím 
 &#xD;
 Pokud se to lidem nelíbí, no... tím méně hladových krků.</Dest>
     </String>
-    <String List="0" sID="017D43">
+    <String List="0" sID="017D43" Partial="2">
       <EDID>VirgilHuman</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Virgil</Source>
@@ -1379,7 +1374,7 @@ Děti mladší 17 let budou odvedeny přímo do atria.  Jako Správce jste zodpo
       <Source>Alcohol</Source>
       <Dest>Alkohol</Dest>
     </String>
-    <String List="0" sID="01D7E0">
+    <String List="0" sID="01D7E0" Partial="2">
       <EDID>Virgil</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Virgil</Source>
@@ -1791,7 +1786,7 @@ Kryogenicky uchovaní rezidenti nesmí být vyrušeni nebo evakuováni. Vault-Te
 - Povinná doba uzavření&#xD;
 Pokud nebude signál „Bezpečí“ od Vault-Tecu obdržen, může správce po uplynutí 180 dnů povinné doby uzavření rozhodnout o evakuaci personálu.</Dest>
     </String>
-    <String List="0" sID="022565">
+    <String List="0" sID="022565" Partial="2">
       <EDID>VirgilHuman</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Virgil</Source>
@@ -1815,7 +1810,7 @@ Pokud nebude signál „Bezpečí“ od Vault-Tecu obdržen, může správce po 
       <Source>Warwick Homestead Key</Source>
       <Dest>Klíč k Warwickově usedlosti</Dest>
     </String>
-    <String List="0" sID="0229B9">
+    <String List="0" sID="0229B9" Partial="2">
       <EDID>Virgil</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Virgil</Source>
@@ -1839,7 +1834,7 @@ Pokud nebude signál „Bezpečí“ od Vault-Tecu obdržen, může správce po 
       <Source>Turn</Source>
       <Dest>Otočit</Dest>
     </String>
-    <String List="0" sID="022F3E">
+    <String List="0" sID="022F3E" Partial="2">
       <EDID>Virgil_VoiceOnly</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Virgil</Source>
@@ -6208,8 +6203,8 @@ Budete spolupracovat se správcem, pocházejícím z armádních kruhů.  Váš 
     <String List="0" sID="03557B">
       <EDID>Vault_Crate_02_Steel</EDID>
       <REC>STAT:FULL</REC>
-      <Source>Vault_Crate_03_Steel</Source>
-      <Dest>Vault_Crate_03_Steel</Dest>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
     </String>
     <String List="0" sID="0355D1">
       <EDID>Vault_Crate_03_Steel</EDID>
@@ -6226,8 +6221,8 @@ Budete spolupracovat se správcem, pocházejícím z armádních kruhů.  Váš 
     <String List="0" sID="035680">
       <EDID>Vault_Crate_04_Steel</EDID>
       <REC>STAT:FULL</REC>
-      <Source>Vault_Crate_03_Steel</Source>
-      <Dest>Vault_Crate_03_Steel</Dest>
+      <Source>Crate</Source>
+      <Dest>Bedna</Dest>
     </String>
     <String List="0" sID="0356B4">
       <EDID>Vault_Crate_04_Blue</EDID>

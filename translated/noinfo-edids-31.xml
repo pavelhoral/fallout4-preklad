@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="00009C">
@@ -2787,8 +2788,8 @@ Do toho 108.!&#xD;
     <String List="0" sID="028C8B">
       <EDID>SanctACT_NukaColaBottleFull</EDID>
       <REC>ACTI:FULL</REC>
-      <Source>Nuka Cola</Source>
-      <Dest>Nuka Cola</Dest>
+      <Source>Nuka-Cola</Source>
+      <Dest>Nuka-Cola</Dest>
     </String>
     <String List="0" sID="028CCF">
       <EDID>SanctACT_FancyLadCakes</EDID>
@@ -3777,8 +3778,8 @@ Do toho 108.!&#xD;
     <String List="1" sID="03225B">
       <EDID>Scrounger04</EDID>
       <REC>PERK:DESC</REC>
-      <Source>You find even more ammunition in containers.</Source>
-      <Dest>V úložných prostorách nalezneš ještě více munice.</Dest>
+      <Source>There is a chance to gain ammo when firing the last round in your clip.</Source>
+      <Dest>Při vystřelení posledního náboje v zásobníku existuje šance na získání dalších nábojů.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
