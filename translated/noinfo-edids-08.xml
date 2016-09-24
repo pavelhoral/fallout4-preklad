@@ -747,7 +747,7 @@ Pokračovat v sekvenci komprese DAT?:&#xD;
       <EDID>DN015_CleanRoomTalkingActivator</EDID>
       <REC>TACT:FULL</REC>
       <Source>Automated Clean Room</Source>
-      <Dest>Automatická sterilní místnost</Dest>
+      <Dest>Automatická čistá místnost</Dest>
     </String>
     <String List="0" sID="01A04B">
       <EDID>DiamondCityFallonsBasementLocation</EDID>
@@ -3530,7 +3530,7 @@ Genetický ústav Greenetech&#xD;
       <EDID>DN015_CleanRoomTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Clean Room Terminal</Source>
-      <Dest>Terminál sterilní místnosti</Dest>
+      <Dest>Terminál čisté místnosti</Dest>
     </String>
     <String List="0" sID="02CE5A">
       <EDID>DN009_SynthTerminal</EDID>
@@ -3666,7 +3666,7 @@ Genetický ústav Greenetech&#xD;
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Open Exterior Clean Room Door</Source>
-      <Dest>Otevřít vnější dveře sterilní místnosti</Dest>
+      <Dest>Otevřít vnější dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="02F49E">
       <EDID>DN015_DirectorsSubTerminalLogs</EDID>
@@ -3688,7 +3688,7 @@ Genetický ústav Greenetech&#xD;
 NOTICE: Security Lockdown Currently in effect.&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
+      <Dest>===================================================           Podsystém čisté místnosti            =&#xD;
 ==================================================&#xD;
 UPOZORNĚNÍ: Bezpečnostní uzávěry nyní aktivní.&#xD;
 &#xD;
@@ -3769,7 +3769,7 @@ Miluji tě a vím, že to dokážeš.&#xD;
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =           Systém sterilní místnosti           =&#xD;
+=================================================                      =            Systém čisté místnosti             =&#xD;
 =================================================&#xD;
 &#xD;
 </Dest>
@@ -3816,7 +3816,7 @@ Místní ovládání se nachází v izolační laboratoři C5.</Dest>
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Clean Room Terminal</Source>
-      <Dest>Terminál sterilní místnosti</Dest>
+      <Dest>Terminál čisté místnosti</Dest>
     </String>
     <String List="0" sID="02F676">
       <EDID>DN015_BergmanSubTerminalMail</EDID>
@@ -3898,7 +3898,7 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Close Exterior Clean Room Door</Source>
-      <Dest>Zavřít vnější dveře sterilní místnosti</Dest>
+      <Dest>Zavřít vnější dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="02F8CA">
       <EDID>DN015_ErickaSubTerminalMail</EDID>
@@ -3945,11 +3945,11 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =           Systém sterilní místnosti           =&#xD;
+=================================================                      =            Systém čisté místnosti             =&#xD;
 =================================================&#xD;
 &#xD;
      Momentálně probíhá dekontaminační sekvence&#xD;
-        Prosím, vstupte do sterilní místnosti&#xD;
+        Prosím, vstupte do čisté místnosti&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -3984,7 +3984,7 @@ Wil, this is insane! Even if you manage to hack into the administrative controls
       <Dest>Odesílatel: [E.ElwoodWoolum]&#xD;
 &gt;&gt; Izolace izotopů&#xD;
  &#xD;
-Wile, tohle je šílené! I když se ti podaří nabourat se do administrativního ovládání, víš, co se stane, pokud spustíš bezpečnostní protokoly? Ano, otevřou se dveře skrze sterilní místnost, ale první, co jimi projde, bude vlna robotů k likvidaci všech žijících „narušitelů“ v laboratoři! A pokud se nám podaří přes ně dostat, jsou tam také věže. Jedna je přímo zde v laboratoři, vzpomínáš? Pokud to uděláš, je mnohem pravděpodobnější, že nás všechny zabiješ, než že nás osvobodíš!&#xD;
+Wile, tohle je šílené! I když se ti podaří nabourat se do administrativního ovládání, víš, co se stane, pokud spustíš bezpečnostní protokoly? Ano, otevřou se dveře skrze čistou místnost, ale první, co jimi projde, bude vlna robotů k likvidaci všech žijících „narušitelů“ v laboratoři! A pokud se nám podaří přes ně dostat, jsou tam také věže. Jedna je přímo zde v laboratoři, vzpomínáš? Pokud to uděláš, je mnohem pravděpodobnější, že nás všechny zabiješ, než že nás osvobodíš!&#xD;
 &#xD;
 -Erika</Dest>
     </String>
@@ -4057,7 +4057,7 @@ We're fighting our way out and then I'll deal with your husband.&#xD;
       <Dest>16. 1. 2078 04:17     Odesílatel:[W.Bergman]&#xD;
 &gt;&gt; Dostanu nás ven&#xD;
 &#xD;
-Nenechám Jona hrát si dále na samovládce. Z izolace izotopů uniká radiace a on nás stále drží uvnitř. Dostal jsem se skrz jeho vylepšený bezpečnostní podprogram a je jen otázkou času, než získám kontrolu nad obranným systémem. Je tak zaneprázdněn zamezením mého přístupu k ovládání sterilní místnosti, že si pravděpodobně neuvědomil, že při spuštění zásahu proti narušení bezpečnosti zařízení se všechny dveře otevřou, aby umožnili přístup robotům.&#xD;
+Nenechám Jona hrát si dále na samovládce. Z izolace izotopů uniká radiace a on nás stále drží uvnitř. Dostal jsem se skrz jeho vylepšený bezpečnostní podprogram a je jen otázkou času, než získám kontrolu nad obranným systémem. Je tak zaneprázdněn zamezením mého přístupu k ovládání čisté místnosti, že si pravděpodobně neuvědomil, že při spuštění zásahu proti narušení bezpečnosti zařízení se všechny dveře otevřou, aby umožnili přístup robotům.&#xD;
 &#xD;
 Probojujeme se ven a pak se vypořádám s tvým mužem.&#xD;
 - Wil</Dest>
@@ -4136,7 +4136,7 @@ Funkce momentálně nedostupná z důvodu bezpečnostní uzavírky.</Dest>
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Open Interior Clean Room Door</Source>
-      <Dest>Otevřít vnitřní dveře sterilní místnosti</Dest>
+      <Dest>Otevřít vnitřní dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="02FED8">
       <EDID>DN015_DirectorsSubTerminalAdmin</EDID>
@@ -4211,7 +4211,7 @@ Funkce momentálně nedostupná z důvodu bezpečnostní uzavírky.</Dest>
                ::::SYSTEM ERROR::::&#xD;
 &#xD;
 Access locked by user &lt;J.Elwood&gt;</Source>
-      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
+      <Dest>===================================================           Podsystém čisté místnosti            =&#xD;
 ==================================================&#xD;
                ::::SYSTÉMOVÁ CHYBA::::&#xD;
 &#xD;
@@ -4235,7 +4235,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =           Systém sterilní místnosti           =&#xD;
+=================================================                      =            Systém čisté místnosti             =&#xD;
 =================================================&#xD;
 &#xD;
 &#xD;
@@ -4267,7 +4267,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
       <EDID>DN015_BergmanSubTerminalAdmin</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Clean Room</Source>
-      <Dest>Sterilní místnost</Dest>
+      <Dest>Čistá místnost</Dest>
     </String>
     <String List="0" sID="0301B1">
       <EDID>DN015_DirectorsTerminal</EDID>
@@ -4291,7 +4291,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Open Exterior Clean Room Door</Source>
-      <Dest>Otevřít vnější dveře sterilní místnosti</Dest>
+      <Dest>Otevřít vnější dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="030292">
       <EDID>DN015_ErickaTerminal</EDID>
@@ -4319,7 +4319,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Close Interior Clean Room Door</Source>
-      <Dest>Zavřít vnitřní dveře sterilní místnosti</Dest>
+      <Dest>Zavřít vnitřní dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="030377">
       <EDID>DN015_AdminSubTerminalDefense</EDID>
@@ -4444,7 +4444,7 @@ SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím, buďte nanejvýš opatr
       <EDID>DN015_CleanRoomInternalTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Open Interior Clean Room Door</Source>
-      <Dest>Otevřít vnitřní dveře sterilní místnosti</Dest>
+      <Dest>Otevřít vnitřní dveře čisté místnosti</Dest>
     </String>
     <String List="0" sID="0305D9">
       <EDID>DN015_ErickaSubTerminalProject</EDID>
@@ -4481,7 +4481,7 @@ Some system functions may be unavailable at this time.&#xD;
 &#xD;
 </Source>
       <Dest>&#xD;
-=================================================                      =           Systém sterilní místnosti           =&#xD;
+=================================================                      =            Systém čisté místnosti             =&#xD;
 =================================================&#xD;
 &#xD;
     ! PROBÍHÁ BEZPEČNOSTNÍ UZAVÍRKA !&#xD;
@@ -4500,7 +4500,7 @@ Některé funkce systému mohou být momentálně nedostupné.&#xD;
       <EDID>DN015_DirectorsSubTerminalAdmin</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Clean Room</Source>
-      <Dest>Sterilní místnost</Dest>
+      <Dest>Čistá místnost</Dest>
     </String>
     <String List="0" sID="03066D">
       <EDID>DN015_DirectorsSubTerminalAdmin</EDID>
@@ -5976,7 +5976,7 @@ Dobré ráno všem, vím, že jste tu všichni byli přes noc a každý je unave
       <Source>We've been unable to gather the samples needed to try the new dosing pattern. Wil has locked himself in one of the labs, and has been attempting to hack into the administrative systems. When we tried to get the U-238 we need from the isotope containment, he locked it down leaving Mary stranded inside. He said he is going to set the facility defense systems so that it looks like the lab has been breached. This will unlock the clean room, but will also activate the automated defenses which will see us as attackers.&#xD;
 &#xD;
 He means to fight his way out, but that's suicide. He's the only one in the lab with military training, and we don't even have real weapons. I've tried to tell him that we can complete the project, that we have the answer now, but he refuses to see reason and doesn't believe Jon will actually let us out. We've managed to pull down part of the ceiling in C1, which will get us into the utility crawl space. It can't get us out, but it should be able to get us above the lab Wil has barricaded himself in. I don't like it, but we have to get the drop on him.</Source>
-      <Dest>Nepodařilo se nám nasbírat vzorky potřebné k vyzkoušení nového vzorku dávkování. Wil se zamknul v jedné z laboratoří a pokouší se nabourat do administrativního systému. Když jsme se pokoušeli získat potřebné U-238 z izolace izotopů, uzamknul ho i s Mary uvnitř. Řekl, že spustí obranné systémy zařízení tak, aby to vypadalo, že bezpečnost laboratoře byla narušena. Tím odemkne sterilní místnost, ale také aktivuje automatické obranné systémy, které nás budou považovat za útočníky.&#xD;
+      <Dest>Nepodařilo se nám nasbírat vzorky potřebné k vyzkoušení nového vzorku dávkování. Wil se zamknul v jedné z laboratoří a pokouší se nabourat do administrativního systému. Když jsme se pokoušeli získat potřebné U-238 z izolace izotopů, uzamknul ho i s Mary uvnitř. Řekl, že spustí obranné systémy zařízení tak, aby to vypadalo, že bezpečnost laboratoře byla narušena. Tím odemkne čistou místnost, ale také aktivuje automatické obranné systémy, které nás budou považovat za útočníky.&#xD;
 &#xD;
 Má v úmyslu probojovat se ven, ale to je sebevražda. Je v laboratoři jediný, kdo má vojenský výcvik a nemáme ani skutečné zbraně. Pokoušela jsem se mu říct, že jsme schopni projekt dokončit, že již známe odpověď, ale on to odmítá pochopit a nevěří, že nás Jon skutečně pustí ven. Podařilo se nám strhnout část stropu v C1, čímž se dostaneme do obslužné šachty. Nedovede nás ven, ale dostaneme se nad laboratoř, ve které je Wil zabarikádovaný. Nelíbí se mi to, ale musíme na něj vpadnout.</Dest>
     </String>
@@ -6068,7 +6068,7 @@ Chyba serveru: Zálohy momentálně nemohou být obnoveny&#xD;
 All Systems normal&#xD;
 &#xD;
 </Source>
-      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
+      <Dest>===================================================           Podsystém čisté místnosti            =&#xD;
 ==================================================&#xD;
 Všechny systémy v normálu&#xD;
 &#xD;
@@ -6092,7 +6092,7 @@ Všechny systémy v normálu&#xD;
       <Source>We've been trapped in the lab for days now and tensions are running high. The team is fractured and falling apart. They don't know what is going on outside and have started making attempts to escape the lab. While I was sleeping they managed to cut a hole through the thinner interior wall of the clean room, but have been unable to break through the hardened outer wall. Wil started talking with some of the others about going at the problem from "a more oblique angle", which got me to thinking about the thermal dissipation problem when it dawned on me.&#xD;
 &#xD;
 If we change dosing pattern so it isn't producing nanoholes perpendicular to the surface but instead at an angle, we might be able to reflect the most direct radioactive particles and trapping only those coming in at an oblique angle to the material. We would achieve a lower energy harvest, but the heat dissipation issues might be solved. Tom, Mary, and I are going to gather the samples needed to try it.</Source>
-      <Dest>Jsme uvězněni v laboratoři několik dní a napětí stoupá. Tým je rozdělený a rozpadá se. Nevědí, co se děje venku, a začínají se pokoušet unikat z laboratoře. Zatímco jsem spala, podařilo se jim provrtat díru tenkou vnitřní stěnou sterilní místnosti, ale nebyli schopni prolomit tvrzenou vnější stěnu. Wil začal s několika dalšími probírat možnost jít na problém „nepřímou cestou“, což mě přivedlo na myšlenku o teplotním rozptylu a vtom mi to došlo.&#xD;
+      <Dest>Jsme uvězněni v laboratoři několik dní a napětí stoupá. Tým je rozdělený a rozpadá se. Nevědí, co se děje venku, a začínají se pokoušet unikat z laboratoře. Zatímco jsem spala, podařilo se jim provrtat díru tenkou vnitřní stěnou čisté místnosti, ale nebyli schopni prolomit tvrzenou vnější stěnu. Wil začal s několika dalšími probírat možnost jít na problém „nepřímou cestou“, což mě přivedlo na myšlenku o teplotním rozptylu a vtom mi to došlo.&#xD;
 &#xD;
 Pokud změníme vzorec dávkování tak, aby produkoval nanojamky ne kolmo k povrchu ale pod úhlem, mohlo by se nám podařit odrazit přímo letící radioaktivní částice a zachytit jen ty letící k materiálu pod šikmým úhlem. Dosáhli bychom nižšího sběru energie, ale mohlo by to vyřešit problém s rozptylem tepla. Tom, Mary, a já se pokusíme nashromáždit vzorky potřebné k pokusu.</Dest>
     </String>
@@ -6236,7 +6236,7 @@ Už déle nevydržím.</Dest>
       <EDID>DN015_DirectorsTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>- Clean Room -</Source>
-      <Dest>- Sterilní místnost -</Dest>
+      <Dest>- Čistá místnost -</Dest>
     </String>
     <String List="0" sID="033204">
       <EDID>dn_CommonArmor</EDID>
@@ -6810,7 +6810,7 @@ Už déle nevydržím.</Dest>
                ::::SYSTEM ERROR::::&#xD;
 &#xD;
 Access locked by user &lt;J.Elwood&gt;</Source>
-      <Dest>===================================================          Podsystém sterilní místnosti          =&#xD;
+      <Dest>===================================================           Podsystém čistá místnosti            =&#xD;
 ==================================================&#xD;
                ::::SYSTÉMOVÁ CHYBA::::&#xD;
 &#xD;
@@ -6904,7 +6904,7 @@ Přístup uzamčen uživatelem &lt;J.Elwood&gt;</Dest>
       <EDID>DN015_BergmanTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>- Clean Room -</Source>
-      <Dest>- Sterilní místnost -</Dest>
+      <Dest>- čistá místnost -</Dest>
     </String>
     <String List="0" sID="033B25">
       <EDID>dn_CommonMelee</EDID>
