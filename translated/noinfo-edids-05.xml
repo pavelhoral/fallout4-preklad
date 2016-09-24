@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="01281D">
@@ -52,7 +53,7 @@
       <EDID>Caretaker</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Caretaker</Source>
-      <Dest>Opatrovník</Dest>
+      <Dest>Domovník</Dest>
     </String>
     <String List="0" sID="012DEE">
       <EDID>CA_Event_RadPoisoning_Deacon</EDID>
@@ -70,7 +71,7 @@
       <EDID>CarolPeabody</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Carol</Source>
-      <Dest>Karol</Dest>
+      <Dest>Carol</Dest>
     </String>
     <String List="0" sID="012EE2">
       <EDID>CA_Event_RadPoisoning_Cait</EDID>
@@ -190,7 +191,7 @@
       <EDID>CaravanCricketBrahmin</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Spot</Source>
-      <Dest>Spot</Dest>
+      <Dest>Stračena</Dest>
     </String>
     <String List="0" sID="013EF7">
       <EDID>CA_Event_Swim_Preston</EDID>
@@ -322,7 +323,7 @@
       <EDID>CaravanLucasBrahmin</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Ol' Girl</Source>
-      <Dest>Robotická dívka</Dest>
+      <Dest>Stará holka</Dest>
     </String>
     <String List="0" sID="015199">
       <EDID>CA_Event_PlayerCrippled_Leg_Cait</EDID>
@@ -730,7 +731,7 @@
       <EDID>CarolPeabody</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Carol Peabody</Source>
-      <Dest>Karol Peabody</Dest>
+      <Dest>Carol Peabody</Dest>
     </String>
     <String List="0" sID="0198B7">
       <EDID>CA_Event_Swim_X688</EDID>
@@ -904,7 +905,7 @@
       <EDID>Caretaker</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Caretaker</Source>
-      <Dest>Opatrovník</Dest>
+      <Dest>Domovník</Dest>
     </String>
     <String List="0" sID="01BACE">
       <EDID>CA_Event_LootPrewarItem_Curie</EDID>
@@ -1210,7 +1211,7 @@
       <EDID>CabotHouseIntercom</EDID>
       <REC>TACT:FULL</REC>
       <Source>Intercom</Source>
-      <Dest>Intercom</Dest>
+      <Dest>Interkom</Dest>
     </String>
     <String List="0" sID="01F251">
       <EDID>CA_Event_Murder_Curie</EDID>
@@ -1228,7 +1229,7 @@
       <EDID>CaravanBH01</EDID>
       <REC>QUST:FULL</REC>
       <Source>Bunker Hill - Caravan in there</Source>
-      <Dest>Bunker Hill - Karavana je zde</Dest>
+      <Dest>Bunker Hill - karavana</Dest>
     </String>
     <String List="0" sID="01F31F">
       <EDID>CA_Event_PlayerCrippled_Head_Piper</EDID>
@@ -2218,7 +2219,7 @@
       <EDID>CambridgeDiner01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Cambridge Diner</Source>
-      <Dest>Cambridgeské občerstvení</Dest>
+      <Dest>Cambridgeská jídelna</Dest>
     </String>
     <String List="0" sID="02C91C">
       <EDID>CambridgeChurchGraveyard01</EDID>
@@ -2290,7 +2291,7 @@
       <EDID>CampKendallMapMarkerREF</EDID>
       <REC>REFR:FULL</REC>
       <Source>Camp Kendall</Source>
-      <Dest>Kendallův kemp</Dest>
+      <Dest>Tábořiště Kendall</Dest>
     </String>
     <String List="0" sID="02E9BE">
       <EDID>CaptiveSettler_Base</EDID>
@@ -2338,7 +2339,7 @@
       <EDID>Cambridge_DinerLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Cambridge Diner</Source>
-      <Dest>Cambridgeské občerstvení</Dest>
+      <Dest>Cambridgeská jídelna</Dest>
     </String>
     <String List="0" sID="030024">
       <EDID>Cambridge_MonsignorPlazaLocation</EDID>
@@ -2350,7 +2351,7 @@
       <EDID>CambridgePlumbing01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Plumber's Secret</Source>
-      <Dest>Tajemství instalatéra</Dest>
+      <Dest>Instalatérovo tajemství</Dest>
     </String>
     <String List="0" sID="030CD2">
       <EDID>CambridgeParkingGarage01</EDID>
@@ -2630,23 +2631,23 @@
 Oh, and Anders is dead. I killed him. No one can believe it. Two days after Jack left, he decided that Cabot House belonged to him, and Mother and I would have to leave. I can't really blame him, I mean, it was the end of the world. I'm not sure most employment agreements cover that. But he made the mistake of underestimating me. He didn't know how fast I was, or how strong. I would have just made him leave, but he decided to fight. Probably better that way. One less person out there who knows about what we have here.&#xD;
 &#xD;
 We haven't heard from Jack for a week. He and Edward made it to Parsons, at least - Jack radioed when they arrived. Tried to be cheerful as usual - put on a happy face for Emogene - but who really knows if they're going to manage. At least Edward is with him. If anyone can get through this, it's Edward.</Source>
-      <Dest>Opět se mi podařilo nahodit elektřinu. Nevypadá to dobře - nikdy bych to nikomu nepřiznala, ale docela jsem si to užila. Konečně tu není nuda. Takto se nejspíš cítí většina lidí... Nedokážu říct, jaké to bývalo před použitím séra.&#xD;
+      <Dest>Opět se mi podařilo nahodit elektřinu. Nevypadá to dobře, ale - nikdy bych to nikomu nepřiznala, ale bavím se tak, jako nikdy před tím. Konečně se nenudím. Možná se takhle cítí ostatní většinu času... opravdu si nevybavuji, jaké to bývalo před použítím séra.&#xD;
 &#xD;
-Jo, a Anders je mrtvý. Zabila jsem ho. Nikdo tomu nemůže uvěřit. Dva dny poté, co Jack odešel, si chtěl přivlastnit sídlo Cabotů jen pro sebe, a já s matkou bychom musely odejít. Nemám mu to za zlé, přece jen nastal konec světa. Pochybuji, že s něčím takovým většina pracovních smluv počítá. Udělal ale chybu, že mě tak podcenil. Netušil, jak jsem hbitá a silná. Chtěla jsem ho nechat odejít, ale on zvolil cestu souboje. Nejspíš to tak bylo pro všechny jednodušší. Alespoň o člověka méně, který by věděl o našem úkrytu.&#xD;
+Jo, a Anders je mrtvý. Zabila jsem ho. Nikdo tomu nemůže uvěřit. Dva dny poté, co Jack odešel, si chtěl přivlastnit sídlo Cabotů jen pro sebe, a já s matkou bychom musely odejít. Nemám mu to za zlé, přece jen nastal konec světa. Pochybuji, že s něčím takovým většina pracovních smluv počítá. Udělal ale chybu, že mě tak podcenil. Netušil, jak jsem hbitá a silná. Nechala bych ho normálně odejít, ale rozhodl se prát. Nejspíš je to tak lepší. O člověka méně, který by věděl o našem úkrytu.&#xD;
 &#xD;
-Už týden jsme od Jacka nedostali žádnou zprávu. Alespoň se spolu s Edwardem dostali do Parsons - Jack nám to oznámil vysílačkou. Snažil se jako obvykle působit vesele - povzbudit Emogena svým úsměvem - ale kdo ví, jestli to zvládnou. Alespoň je Edward s ním. Jestliže je někdo schopný to přežít, je to Edward.</Dest>
+Už týden jsme od Jacka nedostali žádnou zprávu. On a Edward se konečně dostali do Parsonské - Jack nám to oznámil vysílačkou. Snažil se jako obvykle působit vesele - tvářit se vesele pro Emogene - ale kdo ví, jestli to zvládnou. Alespoň je s ním Edward. Jestli je někdo schopný to přežít, je to Edward.</Dest>
     </String>
     <String List="0" sID="03263D">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="7">TERM:UNAM</REC>
       <Source>Apparently the political situation has become very dangerous. I don't pay much attention to current events but Emogene's latest beau is a high muckety-muck in some government agency, and has been telling her alarming stories about how close things have gotten to a full-scale nuclear war. I wonder if we are following in the footsteps of the ancients who created the artifact - if so, who might our successors be, thousands of years from now? Will a cockroach civilization eventually rise to wonder at the artifacts we left behind?</Source>
-      <Dest>Politická situace se zřejmě poněkud vyhrotila. Několik posledních událostí mi sice uniklo, ale Emogenin nápadník je velké zvíře na úřadě a vyprávěl, jak se schyluje k nukleární válce. Říkám si, kdo mohl být naším předchůdcem - zda vůbec někdo a případně, kdo nastoupí za tisíc let po naší civilizaci? Ovládne pokolení švábů svět a budou se jednoho dne podivovat nad našimi výtvory?</Dest>
+      <Dest>Politická situace se podle všeho stala poněkud nebezpečnou. Posledním událostem nevěnuji přílišnou pozornost, ale Emogenin poslední nápadník je hogo fogo v nějaké státní agentuře a vyprávěl jí znepokojivé povídky o tom, jak blízko jsme se dostali k totální jaderné válce. Říkám si, zda náhodou nekráčíme v šlépějích našich předchůdců, kteří vytvořili artefakt - pokud ano, tak kdo by mohl být za tisíc let naším následovníkem? Povstane třeba švábí civilizace a bude se podivovat nad artefakty, které po sobě zanecháme my?</Dest>
     </String>
     <String List="0" sID="032678">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>It's good to be back. John Cabot, long lost cousin of the Cabots has returned to claim his inheritance after the freak accident that claimed the lives of Jack and his family. As usual, I have to be careful to respond when people address me as "John". And this beard is going to take some getting used to. But, such are the burdens of immortality. Anderson proved loyal and uninclined to poke his nose into anything, so that's another hurdle passed. I need to try to get as much done as I can while Mother is away - I find I am much more productive than usual during these transitions.</Source>
-      <Dest>Je krásné být zase zpátky. John Cabot, dlouho ztracený bratranec, se vrátil, aby si nárokoval své dědictví, i po tom incidentu s Jackovou rodinou. Jako obvykle musím být opatrný, když mě někdo osloví „John“. Chvíli si na ten vous budu muset zvykat. Ale to je břemeno nesmrtelnosti. Anderson se osvědčil jako věrný a nestrká nos tam, kam nemá. Pokusím se udělat co nejvíce, zatímco je matka pryč - v období takových změn si připadám mnohem produktivnější než kdy jindy.</Dest>
+      <Dest>Je skvělé být zpět. John Cabot, dlouho ztracený bratranec rodiny Cabotů se vrátil, aby si nárokoval dědictví po té hrůzné nehodě, která si vyžádala život Jacka a jeho rodiny. Jako obvykle si musím dávat pozor, abych nereagoval, když mě budou lidé oslovovat "Johne". A zvyknout si na tenhle plnovous také chvíli zabere. Ale to je břímě nesmrtelnosti. Anderson se osvědčil jako loajální a bez sklonů strkat nos tam, kam nemá, čímž máme i tohle vyřešené. Mezitím co je matka pryč se pokusím udělat co nejvíce práce půjde - v obdobobí těchto přechodů si připadám mnohem více produktivnnější než obvykle.</Dest>
     </String>
     <String List="0" sID="03268E">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2684,45 +2685,45 @@ At some point, I'll need to take the time to transcribe all my old paper notes i
 8. X-rays of Father's brain show no physical intrusion of the Artifact - his skull remains intact, and I can see no signs that it has even penetrated his flesh. At this point, I believe that the blood chemistry changes (etc.) must be being induced by the Artifact indirectly - it is instructing Father's cells on how to manufacture these substances. &#xD;
 &#xD;
 9. My most successful intervention to date has been the development of the "Abremalin Field" (detailed specs in files at Parsons). Earliest crude implementation (1898) was simply a full-spectrum dampening field tuned to the same frequencies given off by the Artifact. It did interfere with the Artifact's operation, but at great cost to Father's health. At the time I had no choice - he would have been impossible to confine any other way - but refinement of the field has been a priority over the last decades. I've managed to reduce the negative physical effects on Father while more directly blocking the Artifact's telekinesis power. So far my attempts to broaden the field's interference with other aspects of the Artifact have been unsuccessful - they bring on similar physical symptoms to attempting to physically remove the Artifact. But this remains the most promising avenue of my research - if I can discover how to interrupt this communication I believe I will have the key to removing it - or at the very least in mitigating some of the other dangerous symptoms (psychosis, etc.).</Source>
-      <Dest>Stále se učím s tím novým počítačem. Včera v noci jsem hledal dobrou hodinu manuál, ale nezjistil jsem, jak resetovat uživatelské jméno z přihlašovací obrazovky. Nicméně, je to jen maličkost, nic, s čím bych musel ztrácet čas. Určitě na to jednou přijdu.&#xD;
+      <Dest>Stále se učím jak pracovat s tímto novým počítačem. Včera v noci jsem hodinu neúspěšně hledal v manuálu, jak si změnit jméno na přihlašovací obrazovce. Vlastně to není nic, s čím bych teď měl ztrácet čas. Určitě na to časem přijdu.&#xD;
 &#xD;
-Chvíli zabere, než přepíšu všechny své poznámky do nového systému, abych se k nim mohl kdykoli dostat. Nyní se pokusím shrnout otcův zdravotní stav a jeho vývoj, abych měl základ pro další postup.&#xD;
+Někdy si budu muset najít čas na přepsání všech svých papírových poznámek do tohoto systému, abych k nim měl snadnější přístup. Pro teď se ale pokusím shrnout, kam jsem se dostal při zkoumání otcova zdravotního stavu a vytvořil si tak výchozí bod, na který se budu moci později odkazovat.&#xD;
 &#xD;
-1. Všechny pokusy o odstranění Artefaktu byly prozatím neúspěšné. Otcův tlak strmě klesal a detekoval jsem značné snížení mozkových impulzů. Výsledek byl totožný při použití následujících postupů:&#xD;
+1. Všechny pokusy o přímé odstranění artefaktu byly prozatím neúspěšné. Otcův tlak strmě klesl a detekovatelná mozková aktivita pokaždé klesla téměř až na nulu. Výsledek byl totožný i při použití:&#xD;
 * Celková anestezie (otec v bezvědomí)&#xD;
 * Lokální anestezie (otec při vědomí)&#xD;
-* Několik druhů anti-psychotik (NEZAPOMENOUT - doplnit dávkování dle poznámek)&#xD;
-* Různé dávky LSD (NEZAPOMENOUT - doplnit dávkování dle poznámek)&#xD;
+* Několik druhů anti-psychotik (NEZAPOMENOUT: doplnit přesný seznam a dávkování dle poznámek)&#xD;
+* Různé dávky LSD (NEZAPOMENOUT: doplnit dávkování dle poznámek)&#xD;
 &#xD;
-2. Deaktivace Artefaktu bude nejspíše pro zákrok odstranění nezbytná.&#xD;
-* Otázka - je účinek psychotik trvalý? Tj. přežil by odstranění artefaktu? Nebo už k němu nenávratně přirostl?&#xD;
+2. Toto znamená, že pro sejmutí artefaktu z otce bude nutná nějaká forma deaktivace Deaktivace.&#xD;
+* Otázka - Je psychotický efekt trvalý? Tj. přežije odstranění artefaktu? Nebo ho artefact aktivně a přímo vyvolává?&#xD;
 &#xD;
-3. Už od počátku jsem byl velice obezřetný ohledně parapsychologického zásahu do Artefaktu - moje prvotní pokusy o nějakou interakci měly podobné psychické následky jako snaha o jeho odstranění. Znovu se o to nepokusím dříve, než budu vědět o té věci něco více.&#xD;
+3. Už od prvních dnů jsem velice opatrný co se týká přímé fyzické interakce s artefaktem - mé počáteční pokusy o prozkoumání a manipulaci měly u otce podobné fyzické následky jako pokusy o jeho odstranění. Nebudu nic podobného znovu zkoušet do doby, než budu vědět o vnitřním fungování artefaktu více.&#xD;
 &#xD;
-4. Aktivní rentgen Artefaktu byl bezvýsledný. Zřejmě se jedná o slepou větev výzkumu.&#xD;
-* Rentgenové paprsky - nejsou dostatečně silné, aby dokázaly prosvítit objekt. Pochopitelně jsem limitován množstvím radiace, které mohu otce vystavit.&#xD;
-* Rádiové snímání - Artefakt je opět imunní všem vlnovým délkám.&#xD;
+4. Aktivní skenování samotného artefaktu se ukázalo jako bezvýsledné. Pro teď to považuji za slepou uličku.&#xD;
+* Rentgen - zatím se na všech snímcích jeví jako neprůhledný. Pochopitelně jsem limitován množstvím radiace, kterému mohu otce vystavit.&#xD;
+* Ultrazvuk - stejně tak se artefakt jeví jako neprůhledný pro všechny vlnové délky.&#xD;
 &#xD;
-5. Od pasivního rentgenu jsem si sliboval více. Tomuto způsobu jsem se rozhodl věnovat více času. Artefakt vyzařuje celé elektromagnetické spektrum o rozličné síle a délce vln. Vybudoval jsem základní telemetrická měření, jejichž data sbírám už dva roky. Zatím se mi nepodařilo získat něco užitečného, ale jsem přesvědčený, že za pomoci komplikovanějších senzorů něco objevím a získám lepší povědomí o tom, jak dokáže Artefakt ovládat otce.&#xD;
-* NEZAPOMENOUT - získat kontakt na armádu od senátora DeSota - mohli by mít pokročilejší technologie, než které mohu běžně získat. Pokud by to bylo nutné, na oplátku jim mohu nabídnout vzorky séra.&#xD;
+5. Pasivní skenování se tváří slibněji. Tomuto způsobu mám v plánu věnovat o dost více času. Artefakt září skrze celé elektromagnetické spektrum a to v různé intenzitě i různých vlnových délkách. Do otcovy cely jsem zabudoval pár základních detekčních zařízení a poslední dva roky skz ně sbírám data. Prozatím nejde o nic víc, než jen o naznačení možných cest výzkumu, ale jsem pevně přesvědčen, že v průběhu času a s dokonalejšími senzory získám lepší povědomí o způsobu, jakým artefakt otce ovládá.&#xD;
+* NEZAPOMENOUT: záskat armádní kontakty od senátora DeSota - je pravděpodobnější, že od nich získám pokročilejší technologie než ty, které jsou veřejně dostupné. Zvážit protinabídku ve formě vzorků séra, bude-li to nezbytné.&#xD;
 &#xD;
-6. Duševní symptomy a změny, které ovlivnil Artefakt:&#xD;
-* Extrémní paranoia a psychotické tendence - to bylo zřejmé od počátku. Žádné léky nezabíraly na zmírnění těchto symptomů a vše tak nasvědčovalo vlivu Artefaktu.&#xD;
-* Věčnost - prozatím blíže neurčená modifikace jeho krevního oběhu zamezuje stárnutí. Paradoxně může být v lepší kondici než kdy dříve. Zdá se, že Artefakt automaticky monitoruje a „opravuje“ veškeré tělesné problémy.&#xD;
-* Telekineze - nejvíce překvapivá schopnost. Myslím si, že se nejedná o pravou telekinezi, ale určitým způsobem přímo ovlivněná chováním Artefaktu, nejspíše manipulací s gravitací mimo naše chápání.&#xD;
-* Zvýšená síla - zřejmě vedlejší efekt věčnosti. Zpočátku to působilo komplikace s otcovým znehybněním (než jsem věděl o jeho schopnostech), ale nyní už s tím není problém.&#xD;
+6. Fyzické symptomy a změny, které artefakt v otci vyvolal, jsou následující:&#xD;
+* Extrémní paranoia a psychotické tendence - toto bylo patrné od začátku. Pro zmírnění symptomů nepomohl  žádný lék a vše tak nasvědčuje tomu, že jde o stav přímo vyvolávaný artefaktem.&#xD;
+* Pozastavené stárnutí - prozatím blíže neurčené modifikace ve složení krve zabraňuje jakémukoliv dalšímu stárnutí od chvíle, kdy poprvé přišel do styku s artefaktem. Ve skutečnosti je nejspíš v lepší fyzické kondici než kdy před tím. Zdá se, že artefakt aktivně monitoruje a "opravuje" jakékoliv problémy, které hostitelském organismu nalezne.&#xD;
+* Telekineze - nejpřekvapivější schopnost. Dopředu předpokládám, že NEJDE o skutečnou telekinezi, ale o něco generovaného přímo mechanismy uvnitř samotného artefaktu, např. manipulaci gravitačních vln mimo hranice naší současné technologie.&#xD;
+* Zvýšená fyzická síla - možná vedlejší účinek monitorování a "vylepšování" hostitele artefaktem. Toto působilo problémy v rané fázi otcova uvěznění (před tím, než jsem si byl otcových schopností plně vědom), ale nyní je potřeba na to jen nezapomínat.&#xD;
 &#xD;
-7. Otcův rozbor krve ukazuje zajímavý odklon od obyčejného člověka a stopové množství blíže neurčených látek. Podařilo se mi dokázat, že většinu z výše zmíněných schopností lze přenést transfuzí krve. Stylem pokus-omyl jsem dokázal vyprodukovat sérum s několika prospěšnými vlastnostmi a jen několika málo vedlejšími účinky, ale zatím nejsem schopen dokonale sérum popsat. Pokusím se v tomto výzkumu pokračovat, ale pochybuji, že mi to nějak pomůže s osvobozením otce od Artefaktu. &#xD;
+7. Otcův rozbor krve vykazuje různé změny oproti lidským normám, stejně tak i stopy prozatím neurčených látek. Podařilo se mi dokázat, že alespoň některé z výše popsaných symptomů je možné přenést na další osobu za pomoci transfuze krve. Metodou pokus-omyl se mi podařilo vyrobit sérum s hned několika blahodárnými a pár vedlejšími účinkym, ale mé současné chápání působení séra je velmi omezené. Budu se snažit tomu dále věnovat volný čas, nicméně je značně nepravděpodobné, že to pomůže v osvobození otce od artefaktu.&#xD;
 &#xD;
-8. Rentgen otcova mozku neukazuje žádné narušení od Artefaktu - jeho lebka zůstává netknutá a nevidím známky průniku do svalů. Momentální změny složení krve (atd.) musejí být vyvolané nepřímo - nějakým způsobem to nejspíše pozměnilo DNA otcových buněk. &#xD;
+8. Rentgen otcova mozku neukazuje žádné fyzické vniknutí artefaktu - jeho lebka zůstává nepoškozená a nevidím ani známky průniku svaloviny. V tento moment se domnívám, že změny ve složení krve (atd.) musejí být artefaktem vývolané nepřímo - nějakým způsobem nutí otcovy buňky tyto substance vyrábět.&#xD;
 &#xD;
-9. Dosud nejúspěšnější zásah jsem zaznamenal pomocí „Abremalinova pole“ (podrobný popis ve složkách v Parsons). Prvotní model (1898) pracoval na principu otupení signálu dle frekvencí vyzařovaných Artefaktem. Podařilo se mi narušit jeho fungování, ale za cenu zdraví otce. Nemám na vybranou - bylo by nemožné zabránit tomu jinak - zdokonalení pole je hlavní prioritou. Podařilo se mi snížit negativní vedlejší účinky a omezit telekinezi. Další využití této metody je prozatím bezúspěšné, jakékoli další pokusy vyvolávají stejné symptomy jako při pokusech o odstranění. Nicméně je to zatím nejslibnější vývojová větev výzkumu. Věřím, že jakmile se mi podaří naprosto omezit komunikaci plynoucí směrem z Artefaktu, budu jej schopen bezpečně odejmout nebo alespoň odstranit nejnebezpečnější symptomy (psychóza, atd.).</Dest>
+9. Dosud nejúspěšnějším zásahem k dnešnímu dni je vývoj tzv. „Abremalinova pole“ (detailní specifikace je k nalezení v Parsonské). Prvotní hrubá implementace (1898) sestávala z jednoduchého celospektrálního tlumícího pole nastaveného na frekvence vyzařované artefaktem. To narušilo funkci artefaktu, ale za cenu zhoršení otcova zdravotního stavu. Tehdy jsem neměl na vybranou - jinými prostředky ho nebyo možné udržet v izolaci - zdokonalení pole tak bylo za poslední desetiletí nejvyšší prioritou. Podařilo se mi redukovat pro otce negativní účinky a zároveň lépe blokovat telekinetické schopnosti artefaktu. Další snahy o rozšíření rušicího efektu byly neúspěšné - vyvolávaly podobné fyzické symptomy jako pokusy o fyzické odstranění artefaktu. Toto se nadále jeví jako nejslibnější cestou výzkumu - naleznu-li způsob, jak přerušit komunikaci artefaktu, tak věřím, že to bude klíčem k jeho odstranění - nebo alespoň pro zmírnění některých jiných nebezpečných symptomů (psychóza, atp.).</Dest>
     </String>
     <String List="0" sID="0326A8">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="12">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032703">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2734,13 +2735,13 @@ Chvíli zabere, než přepíšu všechny své poznámky do nového systému, aby
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032716">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032724">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2753,7 +2754,7 @@ Chvíli zabere, než přepíšu všechny své poznámky do nového systému, aby
       <REC id="4">TERM:UNAM</REC>
       <Source>I've been experimenting with some of the new transistors, and it looks possible to make a portable version of the Abremalin field generator. This would be very useful if we ever had to move Lorenzo to a different facility for any reason. A lot more work is necessary of course, and testing it on Lorenzo is out of the question - I won't risk shutting down the main field. But replicating the current field frequency pattern should at least give us something that we could try in an emergency, even if I can't be 100% certain it will work.&#xD;
 </Source>
-      <Dest>Experimentoval jsem s několika novými tranzistory a zdá se, že dokáží vytvořit přenosnou verzi generátoru Abremalinova pole. To by se mohlo hodit v případě, že někdy budeme nuceni se přesunout do jiné budovy. Samozřejmě je potřeba vše ještě vyladit, testování na Lorenzovi už není možné - nebudu riskovat pád hlavního generátoru. Okopírování stejného vzorce by však mohlo být v případě nouze velice užitečné, a v takových chvílích si musím být jistý, že vše bude fungovat na 100%.</Dest>
+      <Dest>Experimentoval jsem s několika novými tranzistory a zdá se, že bude možné vyrobit přenosnou verzi generátoru Abremalinova pole. To by mohlo být velmi užitečné v případě, že budeme v budoucnu z nějakého důvodu nuceni přesunout Lorenza do jiného objektu. Samozřejmě tomu chybí ještě spousta práce a testování na Lorenzovi nepřipadá v úvahu - nebudu riskovat vypnutí hlavního pole. Ale zreplikování frekvenčního vzoru současného pole nám může poskytnout něco, co budeme moci použít v případě nouze, byť si nemohu být 100% jistý, že to bude fungovat.</Dest>
     </String>
     <String List="0" sID="03276C">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2765,7 +2766,7 @@ Chvíli zabere, než přepíšu všechny své poznámky do nového systému, aby
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="10">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="0327D3">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2779,21 +2780,21 @@ Chvíli zabere, než přepíšu všechny své poznámky do nového systému, aby
       <Source>I've lately immersed myself in Lorenzo's work like never before. I wish now I had made more effort (when it was still possible) to try to locate the site of so-called Ubar. After my initial failed attempt to find the site, I dismissed it as both hopeless and useless - better to focus my energy on the immediate problems. But now, after going over Lorenzo's papers more thoroughly, I believe there are enough clues to the general location that a large-scale search using aircraft might have been feasible - something that wasn't possible in my first attempt, of course. Maybe I could have found some other artifacts that I could have studied more directly - even if they were for completely different purposes, it would be invaluable in understanding how the ancient technology functioned.&#xD;
 &#xD;
 I've also come to realize how brilliant Lorenzo actually was. I was far too quick to dismiss his theories - ah, the arrogance of youth! I'm now convinced that his essential premise is correct - the artifact he found was not made by humans. All the evidence was there, but Lorenzo was the only one who put it all together and actually understood what it meant. A staggering thing to think of - if only he had been capable of dealing with fools a bit more diplomatically, he might have gained more general acceptance of his theories and not been driven to such secrecy in his final expeditions.</Source>
-      <Dest>Poslední dobou jsem se ponořil do zkoumání Lorenza jako nikdy předtím. Škoda, že jsem se nepokusil lokalizovat oblast údajného Ubaru, dokud to bylo možné. Po úvodních průzkumech jsem toho bohužel zanechal jako beznadějné a neužitečné činnosti v domnění, že bude lepší investovat energii jiným směrem. Co jsem si nastudoval Lorenzovy záznamy důkladněji, určitě by bylo možné toto místo s pomocí leteckých snímků najít - na což jsem zpočátku neměl prostředky. Mohl jsem najít další artefakty, které by mi ulehčily výzkum, i když by měly naprosto jiné vlastnosti. Byla by to nedocenitelná pomůcka při snaze porozumět starodávné technologii.&#xD;
+      <Dest>Poslední dobou jsem se ponořil do zkoumání Lorenzovy práce jako nikdy předtím. Škoda, že jsem se nevěnoval více úsilí při nalezení oblasti údajného Ubaru, dokud to bylo možné. Po svém prvotním pokusu jsem tuto snahu zavrhl jako beznadějnou a neužitečnou - bylo lepší investovat energii do řešení více naléhavých problémů. Ale teď, když procházím Lorenzovy záznamy o něco důkladněji, mám pocit, že obsahují dostatek vodítek pro určení hrubé polohy, které by umožnilo plošný letecký průzkum - taková varianta nebyla při mém prvním pokusu možná. Možná bych nalezl jiné artefakty, které bych mohl blíže zkoumat - i kdyby měli zcela jiný účel, poskytly by jistě nedocenitelný vhled to způsobu fungování pradávné technologie.  &#xD;
 &#xD;
-Zároveň jsem si až nyní uvědomil, jak chytrý Lorenzo doopravdy byl. Příliš unáhleně jsem odmítal jeho teorie, to arogantní mládí! Jsem přesvědčený, že hlavní myšlenka je správná - tento artefakt nevyrobili lidé. Všechny důkazy byly dostupné, ale pouze Lorenzo je dokázal pochopit jako celek. Zajímavé je pomyslet na to, co by se stalo, kdyby dokázal lépe jednat s hlupáky. Možná by jeho teorie dosáhly většího uznání a nemusel by vyrážet na poslední expedici v takovém utajení.</Dest>
+Zároveň jsem si až nyní uvědomil, jak geniální Lorenzo ve skutečnosti byl. Příliš unáhleně jsem odmítal jeho teorie - ach, to arogantní mládí! Jsem přesvědčený, že hlavní myšlenka je správná - tento artefakt nevyrobili lidé. Existovaly pro to všechny důkazy, ale pouze Lorenzo je dokázal dát dohromady a pochopit. Zajímavé je pomyslet na to, co by se stalo, kdyby dokázal lépe jednat s hlupáky. Možná by jeho teorie dosáhly většího uznání a nemusel by vyrážet na poslední expedici v takovém utajení.</Dest>
     </String>
     <String List="0" sID="032815">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="5">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032835">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="8">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032837">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2815,23 +2816,23 @@ Zároveň jsem si až nyní uvědomil, jak chytrý Lorenzo doopravdy byl. Příl
 Speaking of Edward - his radiation sickness has developed in a most fortunate way. For a time I thought he was surely going to die, but then his condition stabilized. He now seems actually immune to further radiation. Apparently this is not unknown in the other survivors, although Edward tells me that a strong prejudice has developed against these people. Hard to understand, as they seem uniquely qualified to survive in this new world.&#xD;
 &#xD;
 One benefit of the end of civilization that I hadn't anticipated - there's no need now for us to have to "die" periodically. I can go back to being Jack Cabot again, for the foreseeable future. No more neighbors to poke their noses into our business!</Source>
-      <Dest>Konečně můžu říct, že se snad blýská na lepší časy. Edward konečně najal víceméně zodpovědné ozbrojené jednotky, aby chránily Parsons. Zásobování energií je stabilizováno - Edward mě ujistil, že máme zásobu na dalších padesát let. Přesuny mezi Parsons a sídlem jsou tedy zatím další největší komplikací - bohužel se nezdá, že by někdo autoritativně nastolil pořádek. Spíše naopak. Ale Edward nám ukázal, jak se dokáže vypořádat i s velkými skupinami lupičů.&#xD;
+      <Dest>Konečně můžu říct, že se snad blýská na lepší časy. Edward najal víceméně spolehlivou ochranku Parsonské. Situace okolo elektřiny je stabilizovaná - Edward mě ujistil, že máme zásobu náhradních dílů minimálně na dalších 50 let. Přesuny mezi sídlem a Parsonskou zůstávají největší komplikací - nastolení zákona a pořádku se v nejbližší době nechystá. Vlastně spíše naopak. Ale Edward prokázal, že se umí vypořádat s různými skupinami gaunerů, které se v okolí objevili.&#xD;
 &#xD;
-Když už mluvíme o Edwardovi - jeho zdravotní problémy způsobené radiací se naštěstí vyvíjí správným směrem. Na chvíli jsem si myslel, že musí brzy zemřít, ale jeho stav se stabilizoval. Nejspíše si tělo vybudovalo vlastní imunitu vůči dalšímu radiačnímu záření. Podle všeho se tento fakt projevil i u jiných přeživších a Edward mi oznámil, že takoví lidé jsou často terčem silných předsudků. Říkám si, jak někdo může neobdivovat někoho s tak adaptabilním imunitním systémem dokonalým pro dnešní svět.&#xD;
+Když už mluvíme o Edwardovi - jeho nemoc z ozáření se vyvynula tím nejlepším možným směrem. Na chvíli jsem si myslel, že skutečně brzy zemře, ale pak se jeho stav stabilizoval. Dokonce to vypadá, že je vůči další radiaci již imunní. Toto zřejmě není mezi ostatními přeživšími ojedinělý úkaz, i když Edward říkal, že venku podobní lidé vyvolávají obrovské předsudky. To je celkem těžké pochopit, protože se zdá, že jsou pro přežití v tomto novém světě jedinečně vybaveni.&#xD;
 &#xD;
-Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně „umírat“. Můžu se jednoduše opět stát Jackem Cabotem. A pochopitelně žádní sousedi, kteří by vám strkali nos do soukromí!</Dest>
+Konec světa přinesl jednu výhodu, kterou jsem neočekával - už není potřeba pravidelně „umírat“. Od teď se mohu znovu stát Jackem Cabotem. Nejsou žádní sousedi, kteří by vám strkali nos do vašeho soukromí!</Dest>
     </String>
     <String List="0" sID="0328AF">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032950">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032958">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2843,7 +2844,7 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Mother and Emogene have left for another European tour, while I take care of the latest "generational shift". Getting more difficult to make this work in our modern age. Luckily money still talks. I'll have to find someone reliable to leave in charge at Parsons while I'm gone - perhaps Anderson could be trusted not to meddle?</Source>
-      <Dest>Matka a Emogene odjeli na další cestu do Evropy, já se mám zatím postarat o „generační obměnu“. Něco zprovoznit je každým rokem o něco složitější. Naštěstí peníze dokáží stále vše ulehčit. Budu muset najmout někoho, kdo bude dohlížet na Parsons, když budu pryč - můžu se spolehnout například na Andersona?</Dest>
+      <Dest>Matka a Emogene odjeli na další cestu po Evropě a já se mám zatím postarat o aktuální „generační obměnu“. V dnešní moderní době je těžší a těžší hrát tuhle hru. Naštěstí se ale stále dá domluvit penězi. Pro vedení v Parsonské budu muset najít někoho spolehlivého - možná mohu důvěřovat Andersonovi, že se nebude do ničeho plést?</Dest>
     </String>
     <String List="0" sID="0329FC">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2867,13 +2868,13 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="9">TERM:UNAM</REC>
       <Source>Jack made it back, finally. He says Edward is very sick from radiation. He left him at Parsons. I don't think he expects him to live. I'm not sure why neither of us is sick - I was out quite a lot, now that I think about it. Maybe another of the many benefits of Jack's magic serum. I'll have to thank Father the next time I see him.</Source>
-      <Dest>Jack se konečně vrátil. Říká, že Edwardovi neudělalo příliš dobře velké množství radiace. Zůstal v Parsons. Nesmyslím si, že Jack věří v jeho přežití. Nechápu, proč není nemocný nikdo z nás - když nad tím přemýšlím, trávím hodně času venku. Možná jedna z dalších vlastností Jackova magického séra. Budu muset poděkovat otci, až ho zas příště uvidím.</Dest>
+      <Dest>Jack se konečně vrátil. Edward je prý z ozáření velmi nemocný. Zůstal v Parsonské. Nesmyslím si, že Jack věří v jeho přežití. Nechápu, proč není ani jeden z nás nemocný - venku jsem byla poměrně dostkrát, když nad tím tak uvažuji. Možná další z mnoha benefitů Jackova magického séra. Budu muset poděkovat otci, až ho příště uvidím.</Dest>
     </String>
     <String List="0" sID="032A72">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032A8F">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2885,19 +2886,19 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="11">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032AC4">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="9">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032ADD">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032B71">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2909,13 +2910,13 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>I've just hired a new fellow to help with the family's affairs - Edward Deegan, comes highly recommended. It's too easy for me to ignore the passage of time now, but I've just realized how old Daniel is getting - it will be time for him to retire in a few years, and it's past time to start grooming his replacement. This is always such a difficult process that I tend to put it off, especially as Mother can be so difficult with anyone new. If Edward proves reliable, I can start easing him into the "family secrets" - tricky, but necessary. So far so good - Mother has taken to him, which is an essential first step.</Source>
-      <Dest>Právě jsem najal nového kumpána, aby mi pomohl s rodinnými záležitostmi - Edward Deegan mi byl ze všech stran doporučován. Poměrně snadno zapomínám na přirozený koloběh života, ale nedávno jsem si uvědomil, jak Daniel stárne - za pár let zřejmě odejde na odpočinek a do té doby bych měl mít schopného nástupce. Nikdy to není jednoduchý proces a s pravidelností jej odkládám, obzvláště matka má problém přijmout novou tvář. Jestliže se Edward prokáže jako spolehlivý člověk, mohu ho brzy zasvětit do „rodinných tajemství“ - ošidné, ale nutné. Prozatím s ním matka vychází, což je skvělý první krok.</Dest>
+      <Dest>Právě jsem najal nového člověka, který pomůže s rodinnými záležitostmí - Edward Deegan mi byl ze všech stran doporučován. Je pro mě snadné si neuvědomovat, jak plyne čas, ale nedávno jsem si uvědomil, jak moc Daniel zestárl - za pár let bude v důchodovém věku a je tak nejvyšší čas pro zajištění jeho náhrady. Pokaždé jde o tak složitý proces a já ho obvykle odkládám, hlavně proto, že matka mívá s novými lidmi problémy. Jestliže se Edward prokáže jako spolehlivý člověk, mohu ho začít zasvěcovat „rodinných tajemství“ - ošidné, ale nutné. Prozatím vše dobré - matka s ním vychází, což je nezbytný první krok.</Dest>
     </String>
     <String List="0" sID="032BC5">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032C01">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2927,13 +2928,13 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="7">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032C8B">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="10">TERM:UNAM</REC>
       <Source>It turns out that eventually even the apocalypse can get boring. Jack and Edward are too good at keeping us safe. It looks like the Cabot Family is immune from the end of the world, just like everything else. We just shrug it off and keep on going, just like we always have. Sometimes I'm very pleased about that - it makes me feel incredibly superior. Sometimes, it makes me really really sad. Most of the time, it's just boring as hell.</Source>
-      <Dest>Ukázalo se, že i apokalypsa dokáže být pěkně nudná. Jack a Edward nás drží v bezpečí až moc dobře. Zdá se, že rodina Cabotů je dokonale chráněna před nástrahami okolního světa. Vůbec si venkovního života nevšímáme, vlastně stejně jako nikdy předtím. Občas mě tak zahřeje pocit nadřazenosti a uspokojení z našeho života. Někdy naopak cítím silný smutek. Nicméně většinu času je tady neuvěřitelná nuda.</Dest>
+      <Dest>Ukázalo se, že i apokalypsa se dokáže nakonec omrzet. Jack a Edward nás drží v bezpečí až moc dobře. Zdá se, že je rodina Cabotů před koncem světa imunní, stejně jako před vším ostatním. Jen jsme se malinko otřepali a jedeme dále, jako obvykle. Někdy mě to poměrně těší - cítím se neuvěřitelně nadřazeně. Někdy jsem naopak z toho velmi smutná. Nicméně většinu času je to ale neuvěřitelně nudné.</Dest>
     </String>
     <String List="0" sID="032CB1">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -2945,7 +2946,7 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032CD6">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2953,9 +2954,9 @@ Další pozitivum konce světa, na které jsem zapomněl - nemusíme pravidelně
       <Source>Went to see Father again. I just showed up at Parsons and threatened to make a scene until Jack finally agreed to let me go down. I don't know why I keep going. Father puts on quite an act for me, but I know it's not really him. Not since he got back from his trip wearing that horrible crown. I keep hoping that somehow he'll come back - that I'll see even a glimmer of the real person again. &#xD;
 &#xD;
 Maybe Jack will eventually succeed. As annoying as he can be, I can't deny that he's very smart.</Source>
-      <Dest>Opět jsem vyrazila za otcem. Když jsem došla do Parsons, musela jsem pohrozit, že ztropím scénu, jinak mě Jack nechtěl pustit dolů. Ani nevím, proč to pořád zkouším. Otec se kvůli mně snaží neustále předstírat, ale já vím, že už to není on. Od té doby, co se vrátil ze své cesty s tou příšernou korunou. Doufám, že jednoho dne by se to mohlo zlepšit - že uvidím záblesk člověka, jakým býval.&#xD;
+      <Dest>Znovu jsem vyrazila za otcem. Když jsem se objevila v Parsonské, musela jsem pohrozit, že ztropím scénu, aby mě pustil dolů. Ani nevím, proč tam stále chodím. Otec se kvůli mně snaží neustále předstírat, ale já vím, že to ve skutečnosti není on. Ne od té doby, co se vrátil z cesty s tou příšernou korunou. Pořád doufám, že jednoho dne by se mohl vrátit - že uvidím záblesk skutečného člověka, kterým býval.&#xD;
 &#xD;
-Snad bude Jack nakonec úspěšný. Ač je často nesnesitelný, je také velmi chytrý.</Dest>
+Možná bude Jack nakonec úspěšný. A i když je nesnesitelný jak jen může být, nemohu popřít, že mu to dost pálí.</Dest>
     </String>
     <String List="0" sID="032CE9">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2969,9 +2970,9 @@ Snad bude Jack nakonec úspěšný. Ač je často nesnesitelný, je také velmi 
       <Source>Things are just going from bad to worse. The things Robert tells me... most people don't even know how bad it is. And here we sit, safe in our little Cabot family bubble of privilege. I've tried to talk to Jack about it, but he's in his own world as usual. I doubt he even knows what year it is. And Mother - don't even get me started. Her whole life is a state of denial. &#xD;
 &#xD;
 I know this is insane to even think, but maybe this is for the best. You'd think I could just get a gun or some poison if I really wanted to end it for myself, but I could never be that... deliberate. How selfish must I be to think that I need the world to end as a way for me to get out of killing myself?</Source>
-      <Dest>Vše jde od desíti k pěti. Ty hrozné věci, co říká Robert... většina lidí ani netuší, jak je to špatné. A my si tady žijeme v naší neprostupné bublině. Snažila jsem se mluvit s Jackem, ale on je jako obvykle myšlenkami ve svém vlastním světě. Pochybuji, že vůbec ví, jaký je rok. A matka - nechtějte mě naštvat. Její celý život je založený na popírání reality.&#xD;
+      <Dest>Vše jde od desíti k pěti. Ty věci, co mi říká Robert... většina lidí ani netuší, jak moc je to špatné. A my si tady žijeme v naší malé privilegované bublině Cabotovy rodiny. Snažila jsem se o tom mluvit s Jackem, ale on je jako obvykle myšlenkami ve svém vlastním světě. Pochybuji, že vůbec ví, jaký je rok. A matka - to nemá cenu komentovat. Její celý život je založený na popírání reality.&#xD;
 &#xD;
-Vím, že je naprosto šílené takhle přemýšlet, možná to nakonec není tak hrozné. Asi si myslíte, že bych jednoduše mohla vzít zbraň či jed a ukončit své trápení, ale nikdy bych nedokázala být tak... přímočará. Jak sobecká musím být, že přemýšlím o konci světa jako úniku před sebevraždou?</Dest>
+Vím, že je naprosto šílené takhle přemýšlet, ale možná to tak bude nejlepší. Můžete si myslet, že si prostě seženu zbraň nebo nějaký jed a ukončím to, ale já nikdy neuměla jednat tak... záměrně. Jak sobecká musím být, když myslím na konec světa jen jako na vysvobození od smrti vlastní rukou?</Dest>
     </String>
     <String List="0" sID="032D35">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -2983,7 +2984,7 @@ Vím, že je naprosto šílené takhle přemýšlet, možná to nakonec není ta
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032DA3">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -3007,7 +3008,7 @@ Vím, že je naprosto šílené takhle přemýšlet, možná to nakonec není ta
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032DFC">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3028,15 +3029,15 @@ Vím, že je naprosto šílené takhle přemýšlet, možná to nakonec není ta
 &#xD;
 This time they completely wiped the entire system and reinstalled from their master holotapes. Unbelievably, the typo was still there. They've promised to have some of their sharpest engineers look into the problem, but I'm not sure they were being completely serious. If I don't hear from them within a couple of weeks, I'll make a few calls.&#xD;
 </Source>
-      <Dest>Opět jsem zde měl opraváře z RobCo. Vypadá to jako malý bug, ale ta přihlašovací obrazovka mě dovádí k šílenství. Doufal jsem, že to opraví nový update terminálu - můžete si být jistí, že tentokrát jsem napsal své jméno správně. Ale ne, jakmile se to nabootovalo, chyba se opět objevila.&#xD;
+      <Dest>Byl tu znovu člověk z RobCo. Může se to zdát jako maličkost, ale ta chybka na přihlašovací obrazovce mě dohání k šílenství. Čekal jsem, že se to s novými terminály  spraví - a můžete si být jistí, že tentokrát jsem si při zadávání svého jména dával pozor. Ale ne, hned při dalším zapnutí to tam bylo zase.&#xD;
 &#xD;
-Tentokrát obnovili tovární nastavení a pro jistotu reinstalovali hlavní holopásky. Nechápu jak je to možné, ale ten přepis v písmenku tu je pořád. Slíbili, že mi na to pošlou ty nejlepší odborníky, ale spíš si dělali srandu. Jestliže se mi do pár dnů neozvou, budu nucen zvednout telefon já.</Dest>
+Protentokrát úplně vymazali celý systém a nainstalovali ho znovu za pomoci jejich zdrojových holopásek. A k nevíře tam ten překlep byl stále. Slíbili, že na ten problém přiřadí jejich nejlepší techniky, ale nevím, zda to mysleli opravdu vážně. Jestli se neozvou do pár týdnů, tak udělám pár telefonátů já.</Dest>
     </String>
     <String List="0" sID="032EBD">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="12">TERM:UNAM</REC>
       <Source>I don't know how Jack keeps himself busy, day after day. You'd think he would realize that it was hopeless by now, after all these years and years. Maybe he's just going through the motions, the way I am? Or maybe he's stopped trying to cure Father. I mean, what happens after? To us? I'm the only one that's ever tried to go without the serum. Maybe Jack and Mother think they could just give it up, but I think they're fooling themselves.</Source>
-      <Dest>Nechápu, jak dokáže být Jack neustále zaneprázdněný. Člověk by si pomyslel, že už bude po těch letech naprosto zoufalý. Je to snad jeho způsob, jak prožívá to, co já? Nebo už vzdal snahu o vyléčení otce? Chci říct, co se stane poté? Nám? Jsem snad jediná, kdo si zkusil nevzít sérum? Možná si Jack s matkou nalhávají, že to mohou jen tak vzdát, ale já vím, že je to hloupost.</Dest>
+      <Dest>Nechápu, jak dokáže být Jack neustále zaneprázdněný. Člověk by si pomyslel, že po těch letech už ztratil naději. Možná se s tím snaží vypořádat podobným způsobem jako já? Nebo se otce už nesnaží vyléčit. Chci říct, co se stane potom? S námi? Jsem snad jediná, kdo si zkusil fungovat bez séra? Možná si Jack s matkou nalhávají, že se ho mohou jen tak vzdát, ale já vím, že je to hloupost.</Dest>
     </String>
     <String List="0" sID="032EC7">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3046,11 +3047,11 @@ Tentokrát obnovili tovární nastavení a pro jistotu reinstalovali hlavní hol
 I don't have time to write down everything that's happened. Fortunately Boston was spared a direct hit. My first concern was Parsons, of course - we had to maintain power at all costs. We've always had backup generators, more than usual even for a medical facility, but these were intended for short-term outages, not as a permanent power supply. Then there was the question of security. Edward proved himself amazingly resourceful - he already had plans in place for just such an emergency - thank god he paid more attention to the news than I did. Still, there's no real planning for the end of civilization. He and I have been at Parsons for almost a month, trying to keep things from completely falling apart. Edward has been out more than he should - I'm afraid he's taken a heavy dose of radiation. But there was really no choice. I'll do what I can for him - I don't know how I could replace him now.&#xD;
 &#xD;
 Emogene has stepped up amazingly - I had no idea she had it in her. The man we left in charge here proved unreliable - apparently cracked under the pressure, and tried to evict Emogene and Mother at gunpoint. He didn't reckon on Emogene (and neither did I). She took charge and somehow kept things secure here in spite of everything. I'll have to see what Edward can do about a more permanent solution for power (and security) for Cabot House, but for the moment things look much better than they might. I expect even our resources will be tested to the limit over the coming years, but in some ways I am glad of the challenge. One thing's for sure - the end of the world isn't boring.</Source>
-      <Dest>A je to tady. Nejspíše jsme se neshodli na časovém horizontu - byla to jedna velká katastrofa. Prozatím nejsme venku z lesa, ale fakt, že mohu konečně psát, naznačuje lepší vyhlídky, než má většina lidí. &#xD;
+      <Dest>Opravdu to nastalo. Nemyslím si, že mám zcela jasno v tom, co to pro nás v dlouhodobém horizontu znamená - je to jedna krize za druhou. Zcela jistě ještě nejsme z nejhoršího venku, ale už jen to, že mohu psát tyto řádky značí, že jsme na tom lépe, než většina ostatních.  &#xD;
 &#xD;
-Nemám čas sepsat úplně všechno, co se za poslední dny odehrálo. Naštěstí byl Boston ušetřen přímého zásahu. Mé první obavy směřovaly k Parsons, pochopitelně jsme museli udržet dodávky energie za každou cenu. Vždy jsme mívali neobvykle velké množství záložních generátorů, dokonce i na zdravotnické středisko, ale většina z nich je vhodná na krátkodobé a nikoli dlouhodobé výpadky. Pak se samozřejmě objevila otázka zabezpečení. Edward se ukázal jako velice nápaditý člověk - má sestavené krizové plány snad na všechny možné situace - ještěže sleduje zprávy častěji než já. Nicméně jen málokdo počítá s koncem světa. Spolu jsme byli v Parsons už skoro měsíc a pokoušeli jsme se udržet všechno v chodu. Edward se vystavoval venku radiaci častěji, než by bylo vhodné - obávám se, aby ho to nezabilo. Ale neměli jsme na výběr. Udělám pro něj první poslední - je pro mě momentálně nenahraditelný.&#xD;
+Nemám čas sepisovat úplně vše, co se odehrálo. Naštěstí byl Boston ušetřen přímého zásahu. Mé první obavy pochopitelně směřovaly k Parsonské - musíme za každou cenu udržet dodávku elektřiny. Vždy jsme měli záložní generátory, dokonce více než je pro podobný zdravotnický objekt obvyklé, ale ty byly určeny pro pokrytí krátkodobých výpadků a ne jako permanentí zdroj elektřiny. A pak tu byla otázka bezpečnosti. Edward se ukázal skvěle připravený - měl dávno připravené plány pro podobný případ nouze - díky bohu, že věnoval zprávám více pozornosti, než já. Každopádně pro konec civilizace nelze vytvořit skutečné plány. Byly jsme spolu v Parsonské téměř měsíc a snažili se vše držet nějak v chodu. Edward byl venku častěji, než by měl - bojím se, že byl vystaven velké dávce radiace. Ale jiná volba vlastně nebyla. Udělám pro něj vše, co je v mých silách - nevím, jak bych ho mohl nahradit.&#xD;
 &#xD;
-Emogene neuvěřitelně zasáhla - netušil jsem, co se v ní skrývá. Chlápek, kterého jsme pověřili vedením, se ukázal jako špatná volba - zřejmě se zhroutil pod tíhou zodpovědnosti a pokusil se vyhnat Emogene a matku. Nepočítal však s houževnatostí Emogene (to asi nikdo). Ujala se vedení a navzdory všemu se jí podařilo zabezpečit pořádek. Uvidíme, jak Edward vymyslí pravidelné dodávky energie a zabezpečení v našem sídle, ale prozatím je stav lepší, než by se mohlo zdát. Obávám se, že se naše zásoby v příštích letech notně vyčerpají, ale na druhou stranu miluji výzvy. Jedna věc je jistá - konec světa není nudný.</Dest>
+Emogene se neuvěřitelně vytáhla - netušil jsem, že je to v ní. Muž, kterého jsme s ní nechali se ukázal jako nespolehlivý - zřejmě se zlomil pod tlakem okolností a pokusil se Emogene a matku se zbraní vyhnat. Od Emogene něco takového nečekal (ani já ne). Převzala velení a i přeze všechno to tu zabezpečila. Uvidíme, co vymyslí Edward pro dlouhodobější řešení našeho problému s elektřinou (a bezpečností) pro sídlo Cabotů, pro teď ale vše vypadá lépe, než by se mohlo zdát. Očekávám, že i naše zásoby projdou v následujících letech zatěžkávací zkouškou, ale z určitého pohledu jsem za tu výzvu rád. Jedna věc je jistá - konec světa není nudný.</Dest>
     </String>
     <String List="0" sID="032ED2">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -3068,19 +3069,19 @@ Emogene neuvěřitelně zasáhla - netušil jsem, co se v ní skrývá. Chlápek
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Another unwanted gift from my loving brother. Still, it might be interesting to play around with.</Source>
-      <Dest>Další nechtěný dárek od mého milujícího bratra. I tak snad dokáže na chvíli zabavit.</Dest>
+      <Dest>Další nevyžádaný dárek od mého milujícího bratra. No co, možná bude zábavné si s ním trošku pohrát.</Dest>
     </String>
     <String List="0" sID="032F19">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>Apparently the RobCo techs don't even know how their own systems work. I mean, it's just a simple bat file in the root directory of the database server for crying out loud. Hardly the hack of the century or anything. :)</Source>
-      <Dest>V RobCo techs zřejmě neví, jak funguje jejich vlastní systém. Ten soubor .bat v adresáři root na serveru s databází si o to sám říká. Těžko se o něčem takovém dá mluvit jako o hackování :)</Dest>
+      <Dest>RobCo technici očividně neví, jak funguje jejich vlastní systém. Je to přeci jednoduchý .bat soubor v kořenovém adresáři databázového serveru, pro Kristovy rány. Těžko se u něčeho takového dá mluvit jako o hacku století nebo tak. :)</Dest>
     </String>
     <String List="0" sID="032F27">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="032F38">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
@@ -3088,7 +3089,7 @@ Emogene neuvěřitelně zasáhla - netušil jsem, co se v ní skrývá. Chlápek
       <Source>It's happening. I think a bomb must have hit somewhere near. Power is out all over, as far as we can see from here. The emergency power is still on in the house, but not for long. Edward and Jack went to try to get to Parsons - priorities, you see. Jack left Anders in charge here. He seems competent enough, but there's something about the way he's been looking since it happened that I don't like. &#xD;
 &#xD;
 I'd better get back to Mother.</Source>
-      <Dest>Je to tu. Myslím, že nedaleko odtud dopadla bomba. Všude kolem vypadla elektřina, alespoň tedy v dohledné vzdálenosti. Náš záložní generátor naštěstí stále funguje, ale nepotrvá to již dlouho. Edward a Jack odešli do Parsons. Jack pověřil prozatímním vedením Anderse. Zdá se být dostatečně schopný, ale od té doby se tváří poněkud neobvykle. &#xD;
+      <Dest>Už se to děje. Myslím, že nedaleko odtud musela dopadnout bomba. Všude, kam jen dohlédneme, vypadl proud. V našem domě funguje záložní zdroj, ale ne nadlouho. Edward a Jack se vydali směrem do Parsonské - mají očividně jiné priority. Jack pověřil vedením Anderse. Zdá se být dostatečně schopný, ale od té doby, co se tak stalo, je na něm něco, co semi vůbec nelíbí. &#xD;
 &#xD;
 Raději se vrátím k matce.</Dest>
     </String>
@@ -3114,13 +3115,13 @@ Raději se vrátím k matce.</Dest>
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Was playing around with some new ideas, and hit upon a good gag. I wonder how long it will take Jack to figure it out?</Source>
-      <Dest>Zkoušela jsem nějaké nové nápady a z ničeho nic na to přišla. Říkám si, jak dlouho by to asi trvalo Jackovi?</Dest>
+      <Dest>Zkoušela jsem nějaké nové nápady a narazila na celkem pěkný vtípek. Jsem zvědavá, jak dlouho se bude Jack tohle snažit vyřešit.</Dest>
     </String>
     <String List="0" sID="032FE2">
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>I think I finally have this new terminal set up correctly. Let's see if this saves... Yes! I can already see that this is going to increase my productivity immensely, never mind Mother's carping about "new-fangled contraptions." I see that I mistyped my name on the setup screen. I'll have to check the manual for how to fix that - would get annoying to see that every time I "log in"!</Source>
-      <Dest>Konečně se mi povedlo ten terminál správně nastavit. Uvidíme, zda se nic nepokazí i po uložení... Ano! Už mě to nebude rozčilovat a já se budu schopný v klidu soustředit na práci - matka si nicméně stěžuje na „moderní udělátka“. Při nastavování jsem špatně napsal své jméno. Budu se muset podívat do manuálu, jak to opravit - nebylo by úplně pěkné vidět při každém „přihlášení“ ten překlik!</Dest>
+      <Dest>Myslím, že se mi konečně povedlo tenhle nový terminál správně nastavit. Uvidíme, zda se tohle podaří uložit... Ano! Už teď vidím, jak mi to ohromně zvýší produktivitu, bez ohledu na matčinu kritiku "nových nafintěných udělátek". Vidím, že jsem udělal na úvodní obrazovce překlep ve svém jménu. Budu se muset podívat do manuálu, jak to opravit - bylo by otravné to vidět při každém „přihlášení“!</Dest>
     </String>
     <String List="0" sID="03302B">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3132,13 +3133,13 @@ Raději se vrátím k matce.</Dest>
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="5">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="033067">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="7">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="033093">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3150,13 +3151,13 @@ Raději se vrátím k matce.</Dest>
       <EDID>CabotHouseJackTerminal</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="0330C2">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>This whole computer thing turned out to be more interesting than I thought. I've been learning a lot from various BBSes. Jack's been griping about some mistake he made in setting up his terminal, so I poked around until I found the file. It would be simple to fix it for him, but not nearly as much fun as watching him try to solve it on his own.</Source>
-      <Dest>Ten počítač je zajímavější než jsem si myslela. Z těch BBSek lze docela hodně vyčíst. Jack si stěžoval na nějakou chybu, kterou udělal při nastavování systému, takže jsem trochu šmejdila a nakonec ten soubor našla. Opravení by mu zřejmě nezabralo ani minutu, ale sledovat ho, jak se to snaží sám rozluštit, je mnohem zábavnější.</Dest>
+      <Dest>Tahle celá počítačová věc se ukázala výrazně zajímavější než jsem si myslela. Z různých BBSek jsem se toho poměrně dost naučila. Jack remcá o nějaké chybě, kterou udělal nastavování svého terminálu, tak jsem se mu v tom trošku hrabala, dokud jsem ten soubor našla. Byla by brnkačka to opravit, ale sledovat jak se to snaží vyřešit sám je o dost zábavnější.</Dest>
     </String>
     <String List="0" sID="0330F2">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3168,19 +3169,19 @@ Raději se vrátím k matce.</Dest>
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>I went off the serum for a whole month. I thought I could stick with it this time, but - when you actually feel yourself getting older by the day, and know you can fix it... It's hard to give up youth and beauty, voluntarily. I bet most people couldn't do it, if they had the choice.</Source>
-      <Dest>Vysadila jsem sérum už někdy před měsícem. Říkala jsem si, že bych to mohla tentokrát vydržet - ale pod náporem radiace cítíš vlastní tělo stárnout a víš jak to pozastavit... Je těžké se dobrovolně vzdát mládí a krásy. Vsadím se, že mnoho lidí by to nevydrželo a podlehlo.</Dest>
+      <Dest>Vysadila jsem sérum už někdy před měsícem. Říkala jsem si, že bych to mohla tentokrát vydržet - ale když skutečně cítíš sám sebe den za dnem stárnout a přitom víš jak to zastavit... Je těžké se dobrovolně vzdát mládí a krásy. Vsadím se, že mnoho lidí by to nevydrželo, kdyby měli volbu.</Dest>
     </String>
     <String List="0" sID="033100">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="9">TERM:RNAM</REC>
       <Source>Accessing database...</Source>
-      <Dest>Otevírám databázi...</Dest>
+      <Dest>Přístup k databázi...</Dest>
     </String>
     <String List="0" sID="033101">
       <EDID>CabotHouseEmogeneTerminalDesk_ChairFederalist</EDID>
       <REC id="11">TERM:UNAM</REC>
       <Source>I've stopped even telling anyone where I'm going. The world isn't as dangerous as Jack says. There are still people out there, living their lives, like they always have. I guess more of them are willing to kill you now, but that's probably just because they CAN. I always got the feeling that plenty of people would have liked to see us dead, before - they just couldn't get away with it.</Source>
-      <Dest>Přestala jsem ostatním říkat, kam jdu. Svět není tak nebezpečný, jak říká Jack. Všude jsou stále lidé, kteří žijí normální životy. Chápu, že je více těch, kteří se nás budou snažit zabít, ale pochybuji, že by to udělali pouze pro radost. Už dříve jsem měla pocit, že by nás většina obyvatel viděla raději mrtvé - zřejmě se s tím nemohli smířit.</Dest>
+      <Dest>Přestala jsem ostatním říkat, kam chodím. Svět není tak nebezpečný, jak říká Jack. Všude jsou nějací lidé, kteří žijí své životy, jako před tím. Jasně, více by mě jich teď klidně zabilo, ale to nejspíš jen proto, že prostě MOHOU. Vždy jsem měla pocit, že by nás dost lidí vidělo rádo mrtvé i před tím - nemohlo jim to jen tak projít.</Dest>
     </String>
     <String List="0" sID="033103">
       <EDID>CabotHouseJackTerminal</EDID>
@@ -3204,13 +3205,13 @@ Raději se vrátím k matce.</Dest>
       <EDID>Cambridge_CampKendallLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Camp Kendall</Source>
-      <Dest>Kendallův kemp</Dest>
+      <Dest>Tábořiště Kendall</Dest>
     </String>
     <String List="0" sID="034485">
       <EDID>CambridgeMonsignorKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Monsignor Plaza Key</Source>
-      <Dest>Klíč k náměstí Monsignor</Dest>
+      <Dest>Klíč z náměstí Monsignor</Dest>
     </String>
     <String List="0" sID="03450F">
       <EDID>CambridgeDrifterGhoul</EDID>
@@ -3288,7 +3289,7 @@ Raději se vrátím k matce.</Dest>
       <EDID>CambridgePlumbingLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Cambridge Plumbing</Source>
-      <Dest>Cambridgeské kanalizace</Dest>
+      <Dest>Cambridgeské instalatérství</Dest>
     </String>
     <String List="0" sID="035107">
       <EDID>CarSedan05</EDID>
@@ -3504,25 +3505,25 @@ Raději se vrátím k matce.</Dest>
       <EDID>CarpetSquare02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Rug</Source>
-      <Dest>Kobereček</Dest>
+      <Dest>Koberec</Dest>
     </String>
     <String List="0" sID="0356BA">
       <EDID>CarpetSquare01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Rug</Source>
-      <Dest>Kobereček</Dest>
+      <Dest>Koberec</Dest>
     </String>
     <String List="0" sID="03571C">
       <EDID>CarpetRectangle02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Rug</Source>
-      <Dest>Kobereček</Dest>
+      <Dest>Koberec</Dest>
     </String>
     <String List="0" sID="035721">
       <EDID>CarpetRectangle01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Rug</Source>
-      <Dest>Kobereček</Dest>
+      <Dest>Koberec</Dest>
     </String>
     <String List="0" sID="0357E6">
       <EDID>CA_JunkItems</EDID>
@@ -3552,7 +3553,7 @@ Raději se vrátím k matce.</Dest>
       <EDID>CA_MurderSessionVictimCount</EDID>
       <REC>AVIF:DESC</REC>
       <Source>How many people were killed during the last murder session the companion witnessed (this might not be completely accurate, if lots of people died quickly one after another, it might miss some)</Source>
-      <Dest>Kolik lidí bylo zabito během posledního vraždění, u kterého byl společník přítomen (počet nemusí být přesný, jestliže bylo zabito hodně lidí najednou, v takovém případě je snadné někoho přehlédnout)</Dest>
+      <Dest>How many people were killed during the last murder session the companion witnessed (this might not be completely accurate, if lots of people died quickly one after another, it might miss some)</Dest>
     </String>
     <String List="1" sID="01492F">
       <EDID>CA_MurderSessionDay</EDID>
@@ -3576,7 +3577,7 @@ Raději se vrátím k matce.</Dest>
       <EDID>CantUseInCombatMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can't use this while in combat.</Source>
-      <Dest>Nemůžeš použít během boje.</Dest>
+      <Dest>Toto nemůžeš použít během boje.</Dest>
     </String>
     <String List="1" sID="0184C2">
       <EDID>CA_WantsToTalk</EDID>
@@ -3585,10 +3586,10 @@ Raději se vrátím k matce.</Dest>
 0 = doesn't want to talk&#xD;
 1 = wants to talk, will forcegreet player&#xD;
 2 = wants to talk, will not forcegreet player</Source>
-      <Dest>Ovlivňuje podmínky pozdravu dle náklonosti postavy:&#xD;
-0 = nechce mluvit&#xD;
-1 = chce mluvit, zastaví hráče&#xD;
-2 = chce mluvit, nezastaví hráče</Dest>
+      <Dest>Used for conditions on affinity scene greetings:&#xD;
+0 = doesn't want to talk&#xD;
+1 = wants to talk, will forcegreet player&#xD;
+2 = wants to talk, will not forcegreet player</Dest>
     </String>
     <String List="1" sID="0188C4">
       <EDID>CA_MacCready_Threshold_Neutral</EDID>
@@ -3624,19 +3625,19 @@ Raději se vrátím k matce.</Dest>
       <EDID>CA_MurderSessionCount</EDID>
       <REC>AVIF:DESC</REC>
       <Source>A running tally of murder sessions the companion has witnessed (murder defined by data set on his CompanionActorScript)</Source>
-      <Dest>Vede záznamy o vraždách, u kterých byl společník přítomen (počet se odvíjí od CompanionActorScript)</Dest>
+      <Dest>A running tally of murder sessions the companion has witnessed (murder defined by data set on his CompanionActorScript)</Dest>
     </String>
     <String List="1" sID="01B2F1">
       <EDID>CA_Trait_Peaceful</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="01B9C2">
       <EDID>CA_Trait_Selfish</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="01CC92">
       <EDID>CA_Preston_Threshold_Disdain</EDID>
@@ -3690,31 +3691,31 @@ Raději se vrátím k matce.</Dest>
       <EDID>CA_Trait_Generous</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="01D781">
       <EDID>CA_Trait_Nice</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="01D7CF">
       <EDID>CA_IsRomanceableNow</EDID>
       <REC>AVIF:DESC</REC>
       <Source>1 = Companion is ready for the Romance scene</Source>
-      <Dest>1 = Společník je připraven na milostnou scénu</Dest>
+      <Dest>1 = Companion is ready for the Romance scene</Dest>
     </String>
     <String List="1" sID="01D9D8">
       <EDID>Cannibal01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Feast on mortal flesh to heal your wounds! Eating human corpses restores Health.</Source>
-      <Dest>Hoduj na mase smrtelníků pro vyléčení tvých ran! Požitím lidských mrtvol si obnovíš zdraví.</Dest>
+      <Dest>Hoduj na mase smrtelníků pro vyléčení svých ran! Konzumací lidských mrtvol obnoví zdraví.</Dest>
     </String>
     <String List="1" sID="02284C">
       <EDID>CA_Trait_Mean</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="022E3A">
       <EDID>CA_Preston_Threshold_Infatuation</EDID>
@@ -3732,19 +3733,19 @@ Raději se vrátím k matce.</Dest>
       <EDID>CA_Trait_Violent</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used by the Companion Affinity system.</Source>
-      <Dest>Ovlivňuje systém náklonosti společníků.</Dest>
+      <Dest>Used by the Companion Affinity system.</Dest>
     </String>
     <String List="1" sID="025A0B">
       <EDID>CA_IsRomantic</EDID>
       <REC>AVIF:DESC</REC>
       <Source>1 = Is romantically involved with player character</Source>
-      <Dest>1 = Je zamilován do hráčovy postavy</Dest>
+      <Dest>1 = Is romantically involved with player character</Dest>
     </String>
     <String List="1" sID="029C62">
       <EDID>CantModifyArmorInArmorMsg</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can't modify your power armor while you're in it!</Source>
-      <Dest>Nelze modifikovat energozbroj, když ji máš na sobě!</Dest>
+      <Dest>Nelze modifikovat energozbroj, když ji zrovna používáš!</Dest>
     </String>
     <String List="1" sID="02A17D">
       <EDID>CA_Piper_Likes</EDID>
@@ -3877,8 +3878,8 @@ Raději se vrátím k matce.</Dest>
       <REC>AVIF:DESC</REC>
       <Source>Stores the type of the last affinity bump that happened in dialogue. Used to flavor generic comment after the scene ends.&#xD;
 (Numeric value corresponds to globals: CA_DialogueBump_Dislike|Hate|Like|Love; -1, -2, 1, 2 respectively)</Source>
-      <Dest>Zaznamenává změnu náklonosti, která byla ovlivněna rozhodnutími v dialogu. Výsledkem jsou komentáře na konci scén. &#xD;
-(Číselná hodnota se rovná: CA_DialogueBump_Dislike|Hate|Like|Love; -1, -2, 1, 2 )</Dest>
+      <Dest>Stores the type of the last affinity bump that happened in dialogue. Used to flavor generic comment after the scene ends.&#xD;
+(Numeric value corresponds to globals: CA_DialogueBump_Dislike|Hate|Like|Love; -1, -2, 1, 2 respectively)</Dest>
     </String>
     <String List="1" sID="02D5E4">
       <EDID>CambridgeDeadNewsieNote</EDID>
@@ -3891,38 +3892,38 @@ Okay, maybe some of the traders or farmers north of the river might buy some, bu
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 Proč si myslíš, že si od tebe budou chtít lidé koupit noviny, když je mohou sehnat v Diamond City? &#xD;
 &#xD;
-Jasně, možná někteří obchodníci a farmáři severně od řeky, ale celé město je plné nájezdníků. Nestojí to za to.&#xD;
+Jasně, možná si nějaké koupí někteří obchodníci a farmáři severně od řeky, ale celá ta oblast je plná nájezdníků. Nestojí to za to.&#xD;
 &lt;/font&gt;</Dest>
     </String>
     <String List="1" sID="030996">
       <EDID>Calmex</EDID>
       <REC>ALCH:DESC</REC>
       <Source>+3 Perception, +3 Agility and 2x Multiplier To Sneak Attacks for 8 minutes.</Source>
-      <Dest>+3 Vnímání, +3 Hbitost a 2x Zlepšení útoku z krytu na 8 minut.</Dest>
+      <Dest>+3 vnímání, +3 hbitost a 2x zlepšení útoku z krytu na 8 minut.</Dest>
     </String>
     <String List="1" sID="031747">
       <EDID>CapCollector01</EDID>
       <REC>PERK:DESC</REC>
       <Source>You've mastered the art of the deal! Buying and selling prices at vendors are better.</Source>
-      <Dest>Obchodní dovednost vylepšena! Ceny pro nákup i prodej jsou nyní výhodnější.</Dest>
+      <Dest>Ovládáš umění směnného obchodu! Ceny pro nákup i prodej jsou u obchodníků výhodnější.</Dest>
     </String>
     <String List="1" sID="0318A2">
       <EDID>Cannibal03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Eating human, Ghoul or Super Mutant corpses now restores a significant amount of Health.</Source>
-      <Dest>Požívání mrtvol lidí, ghúlů a supermutantů nyní obnovuje značné množství zdraví.</Dest>
+      <Dest>Konzumace mrtvol lidí, ghúlů a supermutantů nyní obnovuje značné množství zdraví.</Dest>
     </String>
     <String List="1" sID="0318FA">
       <EDID>Cannibal02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Eating Ghoul or Super Mutant corpses restores Health.</Source>
-      <Dest>Požívání mrtvol ghúlů a supermutantů nyní obnovuje zdraví.</Dest>
+      <Dest>Konzumace mrtvol ghúlů a supermutantů obnovuje zdraví.</Dest>
     </String>
     <String List="1" sID="031940">
       <EDID>CapCollector03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You can now invest a total of 500 caps to raise a store's buying capacity.</Source>
-      <Dest>Za 500 zátek lze zvýšit nákupní kapacitu obchodu.</Dest>
+      <Dest>Nyní můžeš investovat 500 zátek pro navýšení nákupní kapacitu obchodu.</Dest>
     </String>
     <String List="1" sID="031B6D">
       <EDID>CabotHouseLorenzoJournal</EDID>
@@ -4027,99 +4028,99 @@ Metternich was extremely surprised to see me wearing the crown this morning, and
 &lt;font face='$HandwrittenFont'&gt;&#xD;
 Čtvrtek, 8. února, 1894. Odjezd z Cape Cod, na palubě SS Wakeful.&#xD;
 &#xD;
-Konečně jsem pryč. Emogene a Wilhemina se se mnou přišly rozloučit, Emogene se mě dokonce snažila přesvědčit, abych zůstal - chudák holka. Bere odloučení těžce. Jack klasicky nepřišel. Myslí si, že se svými expedicemi dělám rodině jen ostudu - říká tomu „odvěká pověrčivost“. Nevadí. Tentokrát se vrátím s důkazem, že i Jackovi ztuhne úsměv.&#xD;
+Konečně jsem pryč. Emogene a Wilhemina se se mnou přišly rozloučit. Emogene mě prosila, abych zůstal - chudák holka, bere tyhle odloučení těžce. Jack nepřišel, samozřejmě. Myslí si, že je rodina díky mě ostatním pro smích - prý nemá čas na podobné „pravěké pověrčivosti“. Nevadí. Tentokrát se vrátím s důkazem, že ani Jack to nebude moci popřít.&#xD;
 &#xD;
 &#xD;
 Sobota, 10. února, 1894. Atlantik, na palubě SS Wakeful. &#xD;
 &#xD;
-Počasí je hezké a kapitán slibuje rychlý přejezd do Lisabonu. Byrokratická pravidla, která jsem musel podstoupit kvůli expedici, mě málem dohnala k šílenství, ale myslím, že získání potřebných povolení od úřadů v Omani bylo skrze ministerstvo zahraničí jednodušší. Doufám, že mé dokumenty (a hotovost) budou pro tamní úřady dostatečné.&#xD;
+Počasí je hezké a kapitán slibuje rychlý přejezd do Lisabonu. Byrokratická pravidla, která jsem musel podstoupit kvůli expedici, mě málem dohnala k šílenství, ale myslím, že se vyplatilo získat potřebná povolení od úřadů v Omani skrze ministerstvo zahraničí. Mohu jen doufat, že můj svazek formulářů (a hotovost) budou po mém příjezdu tamnímu guvernérovi stačit.&#xD;
 &#xD;
 &#xD;
 Středa, 21. února, 1894. Západ Středozemního moře, na palubě SS Wakeful. &#xD;
 &#xD;
-Prozatím jede vše jako po másle. Metternich na nás v Lisabonu už čekal - se zprávou, že vylepšil svůj přístroj na detekci elektrických vln a nyní je bezpečně naloděn v krabicích. Pokud bude pracovat správně, mohlo by nám to ušetřit týdny až měsíce práce.&#xD;
+Prozatím jde vše jako po másle. Metternich na nás čekal v Lisabonu - se zprávou, že vylepšil svůj přístroj na detekci elektrických vln a nyní je bezpečně naloděn v krabicích. Pokud bude fungovat správně, mohlo by nám to ušetřit týdny až měsíce výkopových prací.&#xD;
 &#xD;
 &#xD;
 Pondělí, 5. března, 1894. Suez, Egypt.&#xD;
 &#xD;
-Stále nemáme najaté všechny kopáče. Už se nemohu dočkat, až vyrazíme - jsme tak blízko - ale z dlouhodobých zkušeností vím, že zběhlý egyptský tým bude užitečnější než skupina místních.&#xD;
+Stále nemáme najaté všechny kopáče. Jsem celý nesvůj a rád bych co nejdříve vyrazil - jsme tak blízko - ale z vlastní zkušenosti vím, že více štěstí budeme mít se zkušeným egyptským týmem než se skupinou místních.&#xD;
 &#xD;
 &#xD;
 Středa, 14. března, 1894. Salalah, Omán.&#xD;
 &#xD;
-Konečně! Připluli jsme včera a vše hořečnatě vykládáme. Jakékoli zdržení by nás mohlo stát úspěch celé výpravy a museli bychom ji odložit, až pominou vedra.&#xD;
+Konečně! Včera jsme zakotvili a vše horečnatě vykládáme. Nastane-li jakékoliv další zdržení, tak bychom mohli být v ohrožení termínu kvůli vlnám letních veder, které bychom museli přečkávat.&#xD;
 &#xD;
 &#xD;
 Pátek, 16. březen, 1894. Nedaleko Wadi Aydam, Omán.&#xD;
 &#xD;
-Jsme na cestě. Nic kromě neprostupné pouště a nástrah minulosti už nám nestojí v cestě. Ha! Těším se na každou výzvu, co nás potká - prozatím bylo nejtěžší porazit neprostupnou byrokracii.&#xD;
+Vyrazili jsme. Nic dalšího už mi nestojí v cestě, kromě nepropustné pouště a pradavných tajemství. Ha! Těším se na každou takovou výzvu - jsou to dětské hrátky v porovnání s formuláři ověnčenými byrokraty, kterým jsem musel čelit, než jsem se dostal sem.&#xD;
 &#xD;
 &#xD;
 Čtvrtek, 29. března, 1894. Pustá končina, Arábie.&#xD;
 &#xD;
-Dosáhli jsme cíle bez jediné komplikace. Jen pár pověr z ústních místních průvodců, což považuji za dobré znamení. Zítra uvidíme, zda Metternichův přístroj funguje. Jestli ne, budeme muset kopat klasickým způsobem.&#xD;
+Dosáhli jsme cíle bez jediné komplikace. Jen pověrčivá mumlání z úst místních průvodců, což považuji za dobré znamení. Zítra uvidíme, zda Metternichův přístroj funguje. Pokud ne, začneme kopat starým způsobem.&#xD;
 &#xD;
 &#xD;
 Sobota, 30. března, 1894. Pustá končina, Arábie.&#xD;
 &#xD;
-Metternichův přístroj je lehce pochroumaný - zřejmě písek v útrobách - v nedaleké propadlině na jih odsud alespoň našel zajímavé písemnosti. Vedra jsou během dne naprosto nesnesitelná. Zítra se pustíme do práce a uvidíme, jak to dopadne.&#xD;
+Metternichův přístroj je nestabilní - určitě písek v jeho útrobách - nicméně naměřil příznivé hodnoty v nedaleké propadlině na jih odsud. Vedra jsou během dne nesnesitelná. Zítra se pustíme do práce a uvidíme, jak to dopadne.&#xD;
 &#xD;
 &#xD;
 Pondělí, 2. dubna, 1894. Pustá končina, Arábie.&#xD;
 &#xD;
-V propadlině zatím nic dalšího. Metternich přísahá, že jsme správně. Ještě dva dny a budu muset začít tvořit souřadnicovou síť naleziště.&#xD;
+V jižní propadlině zatím nic. Metternich přísahá, že naměřené hodnoty byly správné. Ještě dva dny a budu muset rozčlenit celou oblast pro systematický průzkum, byť to bude velkým zklamáním.&#xD;
 &#xD;
 &#xD;
 Úterý, 3. dubna, 1894. Pustá končina, Arábie.&#xD;
 &#xD;
-Úspěch! Během pozdního odpoledne kopáči konečně na něco narazili. Zřejmě nějaká velká zakulacená stavba. Průvodce opět dělá problémy - nenajmutí místních kopáčů se zdá jako výborná volba.&#xD;
+Úspěch! Během pozdního odpoledne kopáči narazili na opracovaný kámen. Očividně okraj nějaké velké kruhové stavby. Průvodce opět dělá problémy - rozhodnutí nenajmout místní kopáče se teď ukazuje jako nanejvýš moudré, protože ti naši mu nevěnují žádnou pozornost.&#xD;
 &#xD;
 &#xD;
 Pátek, 6. dubna, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Jsem přesvědčen, že jsme našli samotný Ubar! Odkryli jsme několik částečných runových nápisů, které připomínají prastaré texty. Dokonce jsme značně pokročili v odrývání prastarého monumentálního náměstí.&#xD;
+Jsem teď přesvědčen, že jsme našli samotný Ubar! Odkryli jsme několik částečných nápisů s runami, které které se shodují s historickými texty. Učinili jsme obrovský pokrok v odkrývání části, která se jeví jako velkolepé náměstí.&#xD;
 &#xD;
 &#xD;
 Středa, 18. duben, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Všechna práce je zastavena - písečná bouře, jedna z těch nejhorších. Choulíme se ve stanech v závětří jedné z obřích dun a doufáme, že to brzy přejde. Je naprostá tma, ačkoli je pravé poledne.&#xD;
+Všechna práce je zastavena - písečná bouře, jedna z nejhorších, kterou jsem kdy zažil. Choulíme se ve stanech v závětří jedné z obřích dun a doufáme, že to brzy přejde. Je naprostá tma, ačkoli je poledne.&#xD;
 &#xD;
 &#xD;
 Pátek, 20. duben, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Písečná bouře trvá již třetí den. Nic takového jsem v životě neviděl. Průvodce začíná svými historkami o hrozných kletbách děsit dělníky. Dokonce i na obyčejně flegmatickém Metternichovi začíná být vidět strach a únava.&#xD;
+Písečná bouře trvá již třetí den. Nic takového tu ještě nikdo neviděl. Průvodce je opravdu obtížný - někteří dělníci začínají naslouchat jeho divokým historkám o dávných kletbách a zapomenutých tajemstvích. Dokonce i na obyčejně flegmatickém Metternichovi začíná být vidět strach a únava.&#xD;
 &#xD;
 &#xD;
 Sobota, 21. dubna, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Písečná bouře je u konce, ale dokonale zahladila dva týdny usilovné práce - vykopaná oblast je opět pod hromadou písku. Průvodce během noci zmizel - nikomu chybět nebude, ale kopáči jsou lehce nervózní.&#xD;
+Písečná bouře je u konce, ale dokonale zahladila dva týdny usilovné práce - vykopaná oblast je opět pod hromadou písku. Průvodce během noci zmizel - nikomu chybět nebude, ale kopáči o to více nervózní.&#xD;
 &#xD;
 &#xD;
 Čtvrtek, 3. května, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Nejspíše jsme odkryli základy Velkého chrámu! Prozatím je to jen kamení a trosky, ale něco se muselo zachovat. Počasí se každým dnem horší. Metternich stále navrhuje odložit kopání na zimu, ale nikdo ho neposlouchá. Jsme tak blízko. &#xD;
+Nejspíše jsme odkryli základy Velkého chrámu! Prozatím to je jen kamení a trosky, ale něco se snad muselo zachovat. Počasí se každým dnem horší. Metternich opět navrhuje odložit kopání na zimu, ale já o tom nechci slyšet. Ne teď, když jsme tak blízko. &#xD;
 &#xD;
 &#xD;
 Neděle, 13. května, 1894. Ubar, Pustá končina, Arábie.&#xD;
 &#xD;
-Musím si vše důkladně zaznamenat, než na něco zapomenu. Ačkoli je složité soustředit se, když je ta koruna přímo přede mnou. Je to naprosto neuvěřitelné, ani já nevěřím vlastním očím. Dotýkat se artefaktu, který nebyl stvořen lidmi. Podělím se s vámi o to, jak jsme jej nalezli. &#xD;
+Musím vše důkladně zaznamenávat, než na něco zapomenu. Ačkoli je složité se soustředit, když je ta koruna přímo přede mnou. Je téměř neuvěřitelné, dokonce i pro mě, že ve svých rukách držím artefakt, který jednoznačně nebyl vytvořen lidskou civilizací. Teď bych ale rád co nejpřesněji zaznamenal, jak se to vlastně seběhlo.&#xD;
 &#xD;
-Kopali jsme skoro týden v kuse, abychom očistili šachtu pod Velkým chrámem - dokonce i dělníci jsou z toho nadšení. Pak jsme narazili na obří kámen - neuvěřitelně velký balvan (ve skutečnosti jich bylo více), který zavalil průchod. Zjevně záměrně zatarasený staviteli. Málem jsme to vzdali, ale 3 dny kutání - neopovážil jsem se použít výbušniny! - nakonec se to vyplatilo.&#xD;
+Pracovali jsme skoro týden v kuse, abychom vyčistili šachtu pod Velkým chrámem - dokonce i dělníci chytli mé nadšení. Pak jsme narazili na tvrdý kámen - kyklopskou zeď (sérii zdí, jak se ukázalo) blokující tunel, zjevně staviteli umístěnou v roli neprodyšného uzávěru. Dostat se skrz jsme téměř vzdali, ale po 3 dnech kutání - neopovážil jsem se použít výbušniny! - jsme se najednou probourali do tmy.&#xD;
 &#xD;
-Šel jsem první - prach byl naprosto všude - patrně pohřební hrobka - jeden sarkofág ležel na konci místnosti. Zažehli jsme louče a najednou - málem jsem šokem padl na kolena. Všichni kopáči utekli. Matternich zbělal, lekl jsem se, zda nemá infarkt (naštěstí ne).&#xD;
+Šel jsem první - vše pokrýval několikasetletá vrstva prach - zcela jistě podzemní hrobka - sarkofág na konci místnosti. Zvedli jsme víko a uvnitř - dokonce i já jsem v šoku padl na kolena. Kopáči, co pomáhali, utekli; Matternich zbledl a já se obával, zda nemá infarkt (naštěstí ne).&#xD;
 &#xD;
-Ráno vše důkladně prostudujeme. Nařídil jsem zakrýt vchod - ne, že bych se bál, že by se kterýkoli z kopáčů odvážil vkročit dovnitř, ale lepší si dávat pozor. Vzal jsem s sebou pouze korunu, opatrně sejmutou z hlavy mrtvého.&#xD;
+Ráno vytvoříme seznam všech nálezů z hrobky. Nařídil jsem zakrýt na nov vchod - ne, že bych se bál, že by se kterýkoliv z kopáčů odvážil vkročit dovnitř, ale pro jistotu. Vynesl jsem ven pouze korunu, s úctou, abych nenarušil tělo a ostatní artefakty.&#xD;
 &#xD;
-Takže satisfakce! Blyští se jako nová, ale je jasné, že je to artefakt, jaký ještě nikdy nebyl objeven.&#xD;
+A tak - zadostiučinění! Koruna čeká, blyští se jakoby byla nová, i když je jasné, že je starší než kterýkoliv jiný objevený lidský artefakt.&#xD;
 &#xD;
 Později:&#xD;
 &#xD;
-Nyní už vím, že se to místo nejmenovalo Ubar a ta budova nebyl chrám a pod ní se neskrývala krypta. Musím se toho ještě tolik naučit a předat Wilhemině, Jackovi a Emogene. Jakmile se vrátím, musíme uspořádat společnou výpravu.&#xD;
+Nyní už vím, že se to město nejmenovalo Ubar a ta budova nebyl chrám a pod ní se neskrývala hrobka. Je toho ještě tolik, co musím zjisti a tolik, co musím říci Wilhemině, Jackovi a Emogene. Jakmile se vrátím, musíme uspořádat společnou výpravu.&#xD;
 &#xD;
 &#xD;
 Pondělí, 14. května&#xD;
 &#xD;
-Metternich byl překvapen, když mě toto ráno viděl s korunou na hlavě a já nařídil zakopat vše ostatní. Další písečná bouře zahladí důkazy o naší přítomnosti dříve, než sem dorazí další expedice. Lokace města bude u mě v bezpečí do doby, než se vrátím pro ostatní tajemství.</Dest>
+Metternich byl velmi překvapen, když mě dnes ráno viděl s korunou na hlavě a snažil se se mnou dohadovat, když jsem nařídil zakopat vše, co jsme odhalili. Už na tom stejně nesejde. Písečné bouře stejně zahladí veškeré důkazy o naší přítomnosti dříve, než na tohle místo dorazí kdokoliv další. Pozice města bude u mě v bezpečí do doby, než se vrátím odhalit ostatní tajemství.</Dest>
     </String>
     <String List="1" sID="031FFF">
       <EDID>CA_Piper_Threshold_Hatred</EDID>
@@ -4308,17 +4309,18 @@ Metternich byl překvapen, když mě toto ráno viděl s korunou na hlavě a já
 0 = doesn't want to talk&#xD;
 1 = wants to talk&#xD;
 </Source>
-      <Dest>Ovlivňuje podmínky pozdravu dle náklonosti postavy:&#xD;
-0 = nechce mluvit&#xD;
-1 = chce mluvit</Dest>
+      <Dest>Used for conditions on affinity scene greetings:&#xD;
+0 = doesn't want to talk&#xD;
+1 = wants to talk&#xD;
+</Dest>
     </String>
     <String List="1" sID="033DC5">
       <EDID>CA_WantsToTalkMurder</EDID>
       <REC>AVIF:DESC</REC>
       <Source>1 = will forcegreet and give warning scene&#xD;
 2 = forcegreeted and will start warning scene when player initiates conversation</Source>
-      <Dest>1 = zastaví hráče a varuje ho&#xD;
-2 = zastaví hráče a varuje ho s možností další konverzace</Dest>
+      <Dest>1 = will forcegreet and give warning scene&#xD;
+2 = forcegreeted and will start warning scene when player initiates conversation</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
