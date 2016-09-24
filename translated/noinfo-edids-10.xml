@@ -23,7 +23,7 @@ Bioscience Security&#xD;
 &#xD;
 *** SECURITY OVERRIDE IN PROGRESS. ACCESS RESTRICTED ***</Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení Biologie&#xD;
+Zabezpečení oddělení biologie&#xD;
 -------------------------------&#xD;
 &#xD;
 *** PROBÍHÁ RESET ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***</Dest>
@@ -746,7 +746,7 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC>TERM:FULL</REC>
       <Source>Bioscience Security Terminal</Source>
-      <Dest>Terminál zabezpečení biologie</Dest>
+      <Dest>Bezpečnostní terminál oddělení biologie</Dest>
     </String>
     <String List="0" sID="015436">
       <EDID>dn097_subterminal01</EDID>
@@ -1154,7 +1154,7 @@ Doporučuji jezero uzavřít veřejnosti a začít s oficiálním šetřením na
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Close Bioscience Security Door</Source>
-      <Dest>Zavřít bezpečnostní dveře biologie</Dest>
+      <Dest>Zavřít bezpečnostní dveře oddělení biologie</Dest>
     </String>
     <String List="0" sID="016EC4">
       <EDID>dn097_terminal</EDID>
@@ -1178,7 +1178,7 @@ Doporučuji jezero uzavřít veřejnosti a začít s oficiálním šetřením na
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Bioscience Terminal</Source>
-      <Dest>Terminál biologie</Dest>
+      <Dest>Terminál oddělení biologie</Dest>
     </String>
     <String List="0" sID="017273">
       <EDID>DN074_TerminalWaterQuality</EDID>
@@ -1819,7 +1819,7 @@ Prezident a výkonný ředitel HalluciGen, Eric Rice prohlásil: „Naše dlouho
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Close Bioscience Security Door</Source>
-      <Dest>Zavřít bezpečnostní dveře biologie</Dest>
+      <Dest>Zavřít bezpečnostní dveře oddělení biologie</Dest>
     </String>
     <String List="0" sID="01A77A">
       <EDID>DN074_TerminalWaterQuality</EDID>
@@ -2162,7 +2162,7 @@ Bioscience Security&#xD;
 -------------------------------&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení biologie&#xD;
+Zabezpečení oddělení biologie&#xD;
 -------------------------------&#xD;
 </Dest>
     </String>
@@ -2331,7 +2331,7 @@ Bioscience Security&#xD;
 -------------------------------&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení biologie&#xD;
+Zabezpečení oddělení biologie&#xD;
 -------------------------------&#xD;
 </Dest>
     </String>
@@ -3009,7 +3009,7 @@ Rada konečně schválila renovaci sklepa. Trvalo jim to. Bude pěkné se zbavit
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
     </String>
     <String List="0" sID="021D25">
       <EDID>DN116MilitaryBotTerminalDefenseProtocol</EDID>
@@ -3902,7 +3902,7 @@ Sušené mléko</Dest>
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
     </String>
     <String List="0" sID="025B17">
       <EDID>DN070_HolotapeSal</EDID>
@@ -4279,7 +4279,7 @@ Platýs&#xD;
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
     </String>
     <String List="0" sID="027B88">
       <EDID>DN081_SubTerminalExports</EDID>
@@ -4392,7 +4392,7 @@ Bioscience Security&#xD;
 &#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení Biologie&#xD;
+Zabezpečení oddělení biologie&#xD;
 -------------------------------&#xD;
 &#xD;
 *** PROBÍHÁ RESET ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***&#xD;
@@ -8759,7 +8759,7 @@ OVLÁDÁNÍ OPERAČNÍHO SÁLU NEMOCNICE MEDFORD MEMORIAL&#xD;
       <EDID>DN136_BioScienceControlTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>...Unable to Connect to Automated Turret Defense System in BioScience</Source>
-      <Dest>...připojení k systému automatických obraných věží v oddělení biologie není možné</Dest>
+      <Dest>...připojení k systému automatických obraných věží v oddělení BioVědy není možné</Dest>
     </String>
     <String List="0" sID="02DF73">
       <EDID>DN136_BioScienceControlTerminal</EDID>
@@ -8771,7 +8771,7 @@ OVLÁDÁNÍ OPERAČNÍHO SÁLU NEMOCNICE MEDFORD MEMORIAL&#xD;
       <EDID>DN136_BioScienceControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Control Room Terminal</Source>
-      <Dest>Terminál kontrolní místnosti biologie</Dest>
+      <Dest>Terminál řídící místnosti oddělení BioVědy</Dest>
     </String>
     <String List="0" sID="02DF91">
       <EDID>DN136_BioScienceControlTerminal</EDID>
@@ -10835,7 +10835,7 @@ Chyba Serveru: Není možné najít síť &#xD;
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>BIOSCIENCE TERMINAL 4B</Source>
-      <Dest>TERMINÁL BIOVĚDY 4B</Dest>
+      <Dest>TERMINÁL 4B ODDĚLENÍ BIOVĚDY</Dest>
     </String>
     <String List="0" sID="0328A7">
       <EDID>DN136_ReactorTerminal</EDID>
