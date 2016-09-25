@@ -323,7 +323,7 @@
       <EDID>crDamageRadiationCloak</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Damage</Source>
-      <Dest>Radiation Damage</Dest>
+      <Dest>Poškození radiací</Dest>
     </String>
     <String List="0" sID="01674E">
       <EDID>CureAddiction</EDID>
@@ -713,7 +713,7 @@
       <EDID>CureAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Cure all addictions.</Source>
-      <Dest>Vyléčit všechny závislosti.</Dest>
+      <Dest>Léčba všech závislostí.</Dest>
     </String>
     <String List="0" sID="01BB1E">
       <EDID>COMPrestonShared</EDID>
@@ -755,7 +755,7 @@
       <EDID>crDeathclawIntimidateMagEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Intimidation</Source>
-      <Dest>Intimidation</Dest>
+      <Dest>Zastrašování</Dest>
     </String>
     <String List="0" sID="01C180">
       <EDID>ComicBurnt02</EDID>
@@ -1920,7 +1920,7 @@
       <EDID>DamageFrenzyPoisonEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Frenzy</Source>
-      <Dest>Frenzy</Dest>
+      <Dest>Zběsilost</Dest>
     </String>
     <String List="0" sID="02B327">
       <EDID>CompPrestonLaserMusket</EDID>
@@ -1944,7 +1944,7 @@
       <EDID>DamageHealthPoison</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Does &lt;mag&gt; damage over &lt;dur&gt; seconds to target.</Source>
-      <Dest>Does &lt;mag&gt; damage over &lt;dur&gt; seconds to target.</Dest>
+      <Dest>Působí cíli &lt;mag&gt; poškození po &lt;dur&gt; vteřin.</Dest>
     </String>
     <String List="0" sID="02B38D">
       <EDID>CompPrestonLaserMusket</EDID>
@@ -1962,13 +1962,13 @@
       <EDID>DamageParalyzePoisonEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Paralyze</Source>
-      <Dest>Paralyze</Dest>
+      <Dest>Ochrnutí</Dest>
     </String>
     <String List="0" sID="02B437">
       <EDID>DamageHealthPoison</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Damage Health Over Time</Source>
-      <Dest>Damage Health Over Time</Dest>
+      <Dest>Poškození zdraví v čase</Dest>
     </String>
     <String List="0" sID="02B439">
       <EDID>CompHancockKnife</EDID>
@@ -2010,7 +2010,7 @@
       <EDID>DamageDemoralizePoisonEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Causes target to flee.</Source>
-      <Dest>Causes target to flee.</Dest>
+      <Dest>Donutí cíl k útěku.</Dest>
     </String>
     <String List="0" sID="02BAD8">
       <EDID>CuttingFluid</EDID>
@@ -2028,13 +2028,13 @@
       <EDID>DamageCalmPoisonEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Calm Effect</Source>
-      <Dest>Calm Effect</Dest>
+      <Dest>Utěšující účinek</Dest>
     </String>
     <String List="0" sID="02BB36">
       <EDID>DamageDemoralizePoisonEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Cause Target To Flee</Source>
-      <Dest>Cause Target To Flee</Dest>
+      <Dest>Donutí cíl k útěku</Dest>
     </String>
     <String List="0" sID="02BBB5">
       <EDID>CompPrestonUnitedAbility</EDID>
@@ -2082,7 +2082,7 @@
       <EDID>DamageRadiationWater</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Damage</Source>
-      <Dest>Radiation Damage</Dest>
+      <Dest>Poškození radiací</Dest>
     </String>
     <String List="0" sID="02CD2D">
       <EDID>CustomHouseTower01</EDID>
@@ -2226,7 +2226,7 @@
       <EDID>DamageDamageResistEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Target becomes more susceptible to damage.</Source>
-      <Dest>Target becomes more susceptible to damage.</Dest>
+      <Dest>Cíl se stane náchylnější ke zranění.</Dest>
     </String>
     <String List="0" sID="02E7D1">
       <EDID>CryoFreezeEffect01</EDID>
@@ -2250,7 +2250,7 @@
       <EDID>DamageFrenzyPoisonEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Frenzies target for &lt;dur&gt; seconds.</Source>
-      <Dest>Frenzies target for &lt;dur&gt; seconds.</Dest>
+      <Dest>Vyvolá zběsilost cíle na &lt;dur&gt; vteřin.</Dest>
     </String>
     <String List="0" sID="02E94E">
       <EDID>CryoGrenadeProjectile</EDID>
@@ -2268,13 +2268,13 @@
       <EDID>CryoFreezeEffect01</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Gradual Freezing</Source>
-      <Dest>Gradual Freezing</Dest>
+      <Dest>Postupné zmrazení</Dest>
     </String>
     <String List="0" sID="02ED4C">
       <EDID>CryoFreezeEffect02</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Gradual Freezing</Source>
-      <Dest>Gradual Freezing</Dest>
+      <Dest>Postupné zmrazení</Dest>
     </String>
     <String List="0" sID="02F17C">
       <EDID>CryoFreezeSpell</EDID>
@@ -2286,7 +2286,7 @@
       <EDID>DamageDamageResistEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduced Damage Resist</Source>
-      <Dest>Reduced Damage Resist</Dest>
+      <Dest>Snížení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="02F38B">
       <EDID>COMMacCreadyQuest</EDID>
@@ -2298,7 +2298,7 @@
       <EDID>CryoFreezeEffect03</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Gradual Freezing</Source>
-      <Dest>Gradual Freezing</Dest>
+      <Dest>Postupné zmrazení</Dest>
     </String>
     <String List="0" sID="02F736">
       <EDID>crEnchAshPileOnDeath</EDID>
@@ -2316,7 +2316,7 @@
       <EDID>DamageCalmPoisonEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Calms target for &lt;dur&gt; seconds.</Source>
-      <Dest>Calms target for &lt;dur&gt; seconds.</Dest>
+      <Dest>Uklidní cíl na &lt;dur&gt; vteřin.</Dest>
     </String>
     <String List="0" sID="02FCD9">
       <EDID>COMNickTalk</EDID>
@@ -2364,7 +2364,7 @@
       <EDID>DamageParalyzePoisonEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Chance to Paralyze target for &lt;dur&gt; seconds.</Source>
-      <Dest>Chance to Paralyze target for &lt;dur&gt; seconds.</Dest>
+      <Dest>Šance ochromit cíl na &lt;dur&gt; vteřin.</Dest>
     </String>
     <String List="0" sID="02FE59">
       <EDID>COMDanseTalkGreetings</EDID>
@@ -2418,7 +2418,7 @@
       <EDID>crMirelurkKingStaggerEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Stagger</Source>
-      <Dest>Stagger</Dest>
+      <Dest>Vrávorání</Dest>
     </String>
     <String List="0" sID="030D54">
       <EDID>CompPiperPerk</EDID>
@@ -2742,7 +2742,7 @@
       <EDID>CompCurieAvoidDeathEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Avoid Death</Source>
-      <Dest>Vyhnout se smrti</Dest>
+      <Dest>Vyhnutí se smrti</Dest>
     </String>
     <String List="0" sID="032241">
       <EDID>CompCodsworthPerk</EDID>
@@ -3336,13 +3336,13 @@
       <EDID>DamageHealthBuzzBites</EDID>
       <REC>MGEF:FULL</REC>
       <Source>BuzzBites: Damage Health</Source>
-      <Dest>Bzukoblížky: Poškození Zdraví</Dest>
+      <Dest>Bzukoblížky: poškození Zdraví</Dest>
     </String>
     <String List="0" sID="0357F5">
       <EDID>CryoFreezeEffectRemover</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Gradual Freezing</Source>
-      <Dest>Gradual Freezing</Dest>
+      <Dest>Postupné zmrazení</Dest>
     </String>
     <String List="0" sID="0357F9">
       <EDID>CryoFreezeEffectRemover</EDID>
@@ -3354,7 +3354,7 @@
       <EDID>CritCryoFreezeEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Gradual Freezing</Source>
-      <Dest>Gradual Freezing</Dest>
+      <Dest>Postupné zmrazení</Dest>
     </String>
     <String List="0" sID="035A9B">
       <EDID>CritCryoFreezeEffect</EDID>
@@ -3378,7 +3378,7 @@
       <EDID>DamageRadiationGammaGun</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Damage</Source>
-      <Dest>Radiation Damage</Dest>
+      <Dest>Poškození radiací</Dest>
     </String>
     <String List="0" sID="0360A0">
       <EDID>CrimeInstituteExterior</EDID>

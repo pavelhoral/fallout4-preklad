@@ -353,7 +353,7 @@
       <EDID>DisDamageActionPoints</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; ActionPoints</Source>
-      <Dest>+&lt;mag&gt; ActionPoints</Dest>
+      <Dest>+&lt;mag&gt; k akčním bodům</Dest>
     </String>
     <String List="0" sID="015500">
       <EDID>DN011OverdueBookVendSubTermSpendTokens</EDID>
@@ -2001,7 +2001,7 @@ Postup při revizích 4.3 - 21. 5. 2077&#xD;
       <EDID>DamageRadiationWeapon</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Damage</Source>
-      <Dest>Radiační poškození</Dest>
+      <Dest>Poškození radiací</Dest>
     </String>
     <String List="0" sID="0253F3">
       <EDID>DN011OverdueBookVendSubTermItem01</EDID>
@@ -2075,7 +2075,7 @@ Stav: !DOKONČEN!&#xD;
       <EDID>destWetEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Soaked</Source>
-      <Dest>Promočený</Dest>
+      <Dest>Promáčenost</Dest>
     </String>
     <String List="0" sID="0255D2">
       <EDID>DmndPublick01</EDID>
@@ -2159,7 +2159,7 @@ Stav: !DOKONČEN!&#xD;
       <EDID>DisDamageActionPoints</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Damage Action Points</Source>
-      <Dest>Snížení akčních bodů</Dest>
+      <Dest>Poškození akčních bodů</Dest>
     </String>
     <String List="0" sID="026193">
       <EDID>DmndMoeCroninsHouse01</EDID>
@@ -3594,7 +3594,7 @@ Genetický ústav Greenetech&#xD;
       <EDID>DeafnessPoisonEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Blinds target for &lt;dur&gt; Seconds</Source>
-      <Dest>Oslepí cíl na &lt;dur&gt; sekund</Dest>
+      <Dest>Oslepí cíl na &lt;dur&gt; vteřin</Dest>
     </String>
     <String List="0" sID="02ECC9">
       <EDID>DialogueGoodneighborRufus</EDID>
@@ -3612,7 +3612,7 @@ Genetický ústav Greenetech&#xD;
       <EDID>DeafnessPoisonEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Deafness Poison</Source>
-      <Dest>Jed hluchoty</Dest>
+      <Dest>Ohlušující jed</Dest>
     </String>
     <String List="0" sID="02EFF3">
       <EDID>DialogueGoodneighborRufus</EDID>
@@ -3856,7 +3856,7 @@ Přístup uzamčen uživatelem &lt;W.Bergman&gt;</Dest>
       <EDID>DismemberonDeathEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Dismember target on death</Source>
-      <Dest>Roztrhá cíl při zabití</Dest>
+      <Dest>Roztrhání cíle při zabití</Dest>
     </String>
     <String List="0" sID="02F7EB">
       <EDID>DN005Storage_ToolBox</EDID>
@@ -4432,7 +4432,7 @@ SYSTÉMOVÁ CHYBA: Zjištěn průlom v izolaci, prosím, buďte nanejvýš opatr
       <EDID>DismemberonDeathEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Dismember on death</Source>
-      <Dest>Roztrhá při zabití</Dest>
+      <Dest>Roztrhání při zabití</Dest>
     </String>
     <String List="0" sID="030597">
       <EDID>DN015_BergmanLabDoorTerminal</EDID>
@@ -5464,7 +5464,7 @@ Seznam podstoupených procedur: úprava rtů, oční víčka, srovnání nosu, o
       <EDID>DamageRadiationWeaponDuration</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Radiation Damage</Source>
-      <Dest>Radiační poškození</Dest>
+      <Dest>Poškození radiací</Dest>
     </String>
     <String List="0" sID="031483">
       <EDID>DN005_BuyNowTerminal</EDID>
@@ -7018,19 +7018,19 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>DetectLifeCloakHostileEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Detect Life Hostile Cloak Effect</Source>
-      <Dest>Detekuj život nepřátelský maskovací efekt</Dest>
+      <Dest>Detect Life Hostile Cloak Effect</Dest>
     </String>
     <String List="0" sID="03428F">
       <EDID>DetectLifeHostileChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Detect Life Hostile Cloak</Source>
-      <Dest>Detekuj život nepřátelská maska</Dest>
+      <Dest>Detect Life Hostile Cloak</Dest>
     </String>
     <String List="0" sID="0342B5">
       <EDID>DetectLifeCloakEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Detect Life Cloak Effect</Source>
-      <Dest>Detekuj život maskovací efekt</Dest>
+      <Dest>Detect Life Cloak Effect</Dest>
     </String>
     <String List="0" sID="034306">
       <EDID>DmndPiperTerminal</EDID>
@@ -7042,7 +7042,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>DetectLifeChem</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Highlight living targets</Source>
-      <Dest>Zvýrazní živé cíle</Dest>
+      <Dest>Zvýraznění živých cílů</Dest>
     </String>
     <String List="0" sID="034416">
       <EDID>DetectLifeCloakHostileSpell</EDID>
@@ -9322,7 +9322,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>DetectLifeCloakPATargetEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Detect Life PA Target Effect</Source>
-      <Dest>Detekuj život PA cílový efekt</Dest>
+      <Dest>Detect Life PA Target Effect</Dest>
     </String>
     <String List="0" sID="0359FC">
       <EDID>dn_CommonGun</EDID>
@@ -9370,7 +9370,7 @@ Mějte se na pozoru při vstupu do nových zítřků, přátelé. Ale zůstaňte
       <EDID>DetectLifeCloakChemEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Detect Life Cloak Effect</Source>
-      <Dest>Detekuj život maskovací efekt</Dest>
+      <Dest>Detect Life Cloak Effect</Dest>
     </String>
     <String List="0" sID="035DE3">
       <EDID>DetectLifeCloakChemSpell</EDID>

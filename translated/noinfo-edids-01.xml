@@ -131,7 +131,7 @@
       <EDID>AbsorbRads</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Regenrate &lt;mag&gt; points of Radiation per second.</Source>
-      <Dest>Regeneruje &lt;mag&gt; radů za vteřinu.</Dest>
+      <Dest>Obnova &lt;mag&gt; bodů radiace za vteřinu.</Dest>
     </String>
     <String List="0" sID="01337D">
       <EDID>ArcjetSystemsLocation</EDID>
@@ -257,7 +257,7 @@
       <EDID>abTurretTripodRaceEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Turret Tripod Race FX</Source>
-      <Dest>Druh věž na trojnožce FX</Dest>
+      <Dest>Turret Tripod Race FX</Dest>
     </String>
     <String List="0" sID="0146BA">
       <EDID>AmmoFusionCellEyebot</EDID>
@@ -305,7 +305,7 @@
       <EDID>abReduceIntelligence</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Intelligence</Source>
-      <Dest>+&lt;mag&gt; Inteligence</Dest>
+      <Dest>+&lt;mag&gt; k inteligenci</Dest>
     </String>
     <String List="0" sID="015056">
       <EDID>Armor_MiningHelmet</EDID>
@@ -353,13 +353,13 @@
       <EDID>abReduceCharismaAlcoholAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Síla</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="015769">
       <EDID>ArmorShadowEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Shadow Armor effect</Source>
-      <Dest>Stínová zbroj efekt</Dest>
+      <Dest>Shadow Armor effect</Dest>
     </String>
     <String List="0" sID="0157F2">
       <EDID>ArmorPoweredFrameWithModsNoHelmet</EDID>
@@ -395,7 +395,7 @@
       <EDID>ArmorFallingEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Falling Armor effect</Source>
-      <Dest>Padající zbroj efekt</Dest>
+      <Dest>Falling Armor effect</Dest>
     </String>
     <String List="0" sID="015B21">
       <EDID>Armor_Power_Raider_ArmRight</EDID>
@@ -443,7 +443,7 @@
       <EDID>abReducePerception</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Perception</Source>
-      <Dest>Snížené vnímání</Dest>
+      <Dest>Snížení vnímání</Dest>
     </String>
     <String List="0" sID="0163D4">
       <EDID>AbWaterwalking</EDID>
@@ -671,13 +671,13 @@
       <EDID>abReduceCharismaAlcoholAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alcohol Addiction: Reduce Charisma</Source>
-      <Dest>Závislost na alkoholu: snížené charisma</Dest>
+      <Dest>Závislost na alkoholu: snížení charismatu</Dest>
     </String>
     <String List="0" sID="018967">
       <EDID>abReduceStrength</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Strength</Source>
-      <Dest>Snížená síla</Dest>
+      <Dest>Snížení síly</Dest>
     </String>
     <String List="0" sID="018A9F">
       <EDID>Armor_Wastelander_Light</EDID>
@@ -827,7 +827,7 @@
       <EDID>AbReduceResistRadiation</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Radiation Resist</Source>
-      <Dest>Snížená odolnost vůči radiaci</Dest>
+      <Dest>Snížení odolnosti vůči radiaci</Dest>
     </String>
     <String List="0" sID="019A69">
       <EDID>ArtillerySmokeFlareExplosion</EDID>
@@ -905,7 +905,7 @@
       <EDID>abReduceIntelligence</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Intelligence</Source>
-      <Dest>Snížená inteligence</Dest>
+      <Dest>Snížení inteligence</Dest>
     </String>
     <String List="0" sID="01A19A">
       <EDID>Armor_Power_T51_ArmRight</EDID>
@@ -923,7 +923,7 @@
       <EDID>abRestoreHealth</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>HP</Source>
-      <Dest>HP</Dest>
+      <Dest>BZ</Dest>
     </String>
     <String List="0" sID="01A551">
       <EDID>AssaultronBodyPartData</EDID>
@@ -1055,7 +1055,7 @@
       <EDID>abReduceEndurance</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Endurance</Source>
-      <Dest>+&lt;mag&gt; Odolnost</Dest>
+      <Dest>+&lt;mag&gt; k odolnosti</Dest>
     </String>
     <String List="0" sID="01B282">
       <EDID>AmmoMirelurkQueenSpawn</EDID>
@@ -1169,7 +1169,7 @@
       <EDID>abReduceLuck</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Agility</Source>
-      <Dest>+&lt;mag&gt; Hbitost</Dest>
+      <Dest>+&lt;mag&gt; k hbitosti</Dest>
     </String>
     <String List="0" sID="01C1F0">
       <EDID>Arena_PacifyCombatant</EDID>
@@ -1247,7 +1247,7 @@
       <EDID>abReduceEndurance</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Endurance</Source>
-      <Dest>Snížená odolnost</Dest>
+      <Dest>Snížení odolnosti</Dest>
     </String>
     <String List="0" sID="01D598">
       <EDID>AtomatoysCorporateHQLocation</EDID>
@@ -1499,7 +1499,7 @@
       <EDID>AbsorbRads</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Absorb Radiation</Source>
-      <Dest>Absorbuje radiaci</Dest>
+      <Dest>Absorbce radiace</Dest>
     </String>
     <String List="0" sID="01F57F">
       <EDID>ArlenGlass</EDID>
@@ -1511,7 +1511,7 @@
       <EDID>abReduceCharisma</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Síla</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="01F97C">
       <EDID>AmmoLibertyPrime</EDID>
@@ -1601,7 +1601,7 @@
       <EDID>abReducePerception</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Perception</Source>
-      <Dest>+&lt;mag&gt; Vnímání</Dest>
+      <Dest>+&lt;mag&gt; k vnímání</Dest>
     </String>
     <String List="0" sID="02091E">
       <EDID>ActionBoy01</EDID>
@@ -1613,7 +1613,7 @@
       <EDID>AbReduceResistRadiation</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt;% Radiation Resistance</Source>
-      <Dest>+&lt;mag&gt;% Odolnost vůči radiaci</Dest>
+      <Dest>+&lt;mag&gt;% k odolnosti vůči radiaci</Dest>
     </String>
     <String List="0" sID="0209D2">
       <EDID>Armor_Power_T60_Torso</EDID>
@@ -1823,7 +1823,7 @@
       <EDID>abReduceStrength</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Síla</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="024099">
       <EDID>Armor_DCGuard_RArm</EDID>
@@ -2069,7 +2069,7 @@
       <EDID>AlienDisintegrationEnchEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Alien Disintegration</Source>
-      <Dest>Mimozemský rozpad</Dest>
+      <Dest>Mimozemské rozložení</Dest>
     </String>
     <String List="0" sID="025B66">
       <EDID>Armor_Metal_ArmLeft</EDID>
@@ -2117,7 +2117,7 @@
       <EDID>abReduceCharisma</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Charisma</Source>
-      <Dest>Snížené charisma</Dest>
+      <Dest>Snížení charismatu</Dest>
     </String>
     <String List="0" sID="026603">
       <EDID>Armor_Power_X01_Helm</EDID>
@@ -2243,7 +2243,7 @@
       <EDID>abSentryOverheatFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Sentry Bot Heat VFX</Source>
-      <Dest>Žár strážního robota VFX</Dest>
+      <Dest>Sentry Bot Heat VFX</Dest>
     </String>
     <String List="0" sID="027FC7">
       <EDID>AmmoMirelurkKing</EDID>
@@ -2273,7 +2273,7 @@
       <EDID>abRestoreHealth</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Restore Health</Source>
-      <Dest>Obnovit zdraví</Dest>
+      <Dest>Obnova zdraví</Dest>
     </String>
     <String List="0" sID="0281E5">
       <EDID>ArcjetSystems01</EDID>
@@ -2309,7 +2309,7 @@
       <EDID>ArmorQuietEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Quiet Armor effect</Source>
-      <Dest>Tichá zbroj efekt</Dest>
+      <Dest>Quiet Armor effect</Dest>
     </String>
     <String List="0" sID="028792">
       <EDID>Armor_Metal_LegRight</EDID>
@@ -2729,7 +2729,7 @@
       <EDID>abReduceHealth</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Strength</Source>
-      <Dest>+&lt;mag&gt; Síla</Dest>
+      <Dest>+&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="02CBFA">
       <EDID>Armor_Piper_Underarmor</EDID>
@@ -2741,13 +2741,13 @@
       <EDID>abReduceHealth</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Health</Source>
-      <Dest>Snížené zdraví</Dest>
+      <Dest>Snížení zdraví</Dest>
     </String>
     <String List="0" sID="02D24F">
       <EDID>abStingwingRaceEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Bloodbug VFX</Source>
-      <Dest>Krvomár VFX</Dest>
+      <Dest>Bloodbug VFX</Dest>
     </String>
     <String List="0" sID="02D683">
       <EDID>Armor_FlightHelmetBrown</EDID>
@@ -2789,7 +2789,7 @@
       <EDID>abReducePerceptionAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Perception</Source>
-      <Dest>Závislost: snížené vnímání</Dest>
+      <Dest>Závislost: snížení vnímání</Dest>
     </String>
     <String List="0" sID="02E770">
       <EDID>Armor_RaiderMod_LegLeft</EDID>
@@ -2807,7 +2807,7 @@
       <EDID>abReduceIntelligenceAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Intelligence</Source>
-      <Dest>Závislost: snížená inteligence</Dest>
+      <Dest>Závislost: snížení inteligence</Dest>
     </String>
     <String List="0" sID="02E81B">
       <EDID>Armor_RaiderMod_LegLeft</EDID>
@@ -2837,7 +2837,7 @@
       <EDID>abReduceLuckAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Luck</Source>
-      <Dest>-&lt;mag&gt; Štěstí</Dest>
+      <Dest>-&lt;mag&gt; ke štěstí</Dest>
     </String>
     <String List="0" sID="02E951">
       <EDID>AmmoSentryShoulder</EDID>
@@ -2855,7 +2855,7 @@
       <EDID>abReduceStrengthAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Strength</Source>
-      <Dest>-&lt;mag&gt; Síla</Dest>
+      <Dest>-&lt;mag&gt; k síle</Dest>
     </String>
     <String List="0" sID="02E9F5">
       <EDID>Armor_RaiderMod_LegLeft</EDID>
@@ -2879,7 +2879,7 @@
       <EDID>abReduceEnduranceAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Endurance</Source>
-      <Dest>-&lt;mag&gt; Odolnost</Dest>
+      <Dest>-&lt;mag&gt; k odolnosti</Dest>
     </String>
     <String List="0" sID="02EA94">
       <EDID>Armor_Combat_Torso</EDID>
@@ -2903,7 +2903,7 @@
       <EDID>abReduceHealthAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Health</Source>
-      <Dest>Závislost: snížené zdraví</Dest>
+      <Dest>Závislost: snížení zdraví</Dest>
     </String>
     <String List="0" sID="02EB94">
       <EDID>Armor_RaiderMod_Torso</EDID>
@@ -2939,7 +2939,7 @@
       <EDID>abReduceEnduranceAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Endurance</Source>
-      <Dest>Závislost: snížená odolnost</Dest>
+      <Dest>Závislost: snížení odolnosti</Dest>
     </String>
     <String List="0" sID="02ED3A">
       <EDID>Armor_Combat_Torso</EDID>
@@ -2951,7 +2951,7 @@
       <EDID>abReduceCharismaAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Charisma</Source>
-      <Dest>Závislost: snížené charisma</Dest>
+      <Dest>Závislost: snížení charismatu</Dest>
     </String>
     <String List="0" sID="02EFA2">
       <EDID>Armor_RaiderMod_ArmLeft</EDID>
@@ -2975,7 +2975,7 @@
       <EDID>abReduceStrengthAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Strength</Source>
-      <Dest>Závislost: snížená síla</Dest>
+      <Dest>Závislost: snížení síly</Dest>
     </String>
     <String List="0" sID="02F106">
       <EDID>Armor_RaiderMod_ArmLeft</EDID>
@@ -2987,7 +2987,7 @@
       <EDID>abReduceIntelligenceAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Intelligence</Source>
-      <Dest>-&lt;mag&gt; Inteligence</Dest>
+      <Dest>-&lt;mag&gt; k inteligenci</Dest>
     </String>
     <String List="0" sID="02F198">
       <EDID>Armor_RaiderMod_Torso</EDID>
@@ -2999,13 +2999,13 @@
       <EDID>abReduceCharismaAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Charisma</Source>
-      <Dest>-&lt;mag&gt; Charisma</Dest>
+      <Dest>-&lt;mag&gt; k charismatu</Dest>
     </String>
     <String List="0" sID="02F2A3">
       <EDID>abReduceLuckAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Luck</Source>
-      <Dest>Závislost: snížené štěstí</Dest>
+      <Dest>Závislost: snížení štěstí</Dest>
     </String>
     <String List="0" sID="02F2B5">
       <EDID>AmmoSentryShoulder</EDID>
@@ -3017,13 +3017,13 @@
       <EDID>abReduceHealthAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Health</Source>
-      <Dest>-&lt;mag&gt; Zdraví</Dest>
+      <Dest>-&lt;mag&gt; ke zdraví</Dest>
     </String>
     <String List="0" sID="02F2F1">
       <EDID>abReduceDamageResistAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Damage Damage Resist</Source>
-      <Dest>Závislost: snížená odolnost vůči zranění</Dest>
+      <Dest>Závislost: snížení odolnosti vůči zranění</Dest>
     </String>
     <String List="0" sID="02F30B">
       <EDID>Armor_Combat_ArmLeft</EDID>
@@ -3035,13 +3035,13 @@
       <EDID>abReducePerceptionAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>-&lt;mag&gt; Perception</Source>
-      <Dest>-&lt;mag&gt; Vnímání</Dest>
+      <Dest>-&lt;mag&gt; k vnímání</Dest>
     </String>
     <String List="0" sID="02F364">
       <EDID>abReduceDamageResistAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>&lt;Mag&gt;% more susceptible to damage.</Source>
-      <Dest>&lt;Mag&gt;% snížení odolnosti vůči zranění</Dest>
+      <Dest>&lt;Mag&gt;% větší náchylnost ke zranění.</Dest>
     </String>
     <String List="0" sID="02F571">
       <EDID>Armor_Army_Helmet_postwar</EDID>
@@ -3053,7 +3053,7 @@
       <EDID>abRobotShockHandLeftFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Assaultron Hand VFX</Source>
-      <Dest>Ruka útočného robota VFX</Dest>
+      <Dest>Assaultron Hand VFX</Dest>
     </String>
     <String List="0" sID="02F83C">
       <EDID>Armor_VaultTecSecurity111</EDID>
@@ -3083,7 +3083,7 @@
       <EDID>abRobotShockHandRightFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Assaultron Hand VFX</Source>
-      <Dest>Ruka útočného robota VFX</Dest>
+      <Dest>Assaultron Hand VFX</Dest>
     </String>
     <String List="0" sID="02FEA2">
       <EDID>AshPileOnDeathEffect</EDID>
@@ -3269,7 +3269,7 @@
       <EDID>AbReduceResistRadiationAddiction</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt;% Radiation Resistance</Source>
-      <Dest>+&lt;mag&gt;% Odolnost vůči radiaci</Dest>
+      <Dest>+&lt;mag&gt;% k odolnosti vůči radiaci</Dest>
     </String>
     <String List="0" sID="031599">
       <EDID>AlarmClock_Rare</EDID>
@@ -3287,7 +3287,7 @@
       <EDID>AbReduceResistRadiationAddiction</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Addiction: Reduce Radiation Resist</Source>
-      <Dest>Závislost: snížená odolnost vůči radiaci</Dest>
+      <Dest>Závislost: snížení odolnost vůči radiaci</Dest>
     </String>
     <String List="0" sID="0317BB">
       <EDID>Aquaboy02</EDID>
@@ -3635,13 +3635,13 @@
       <EDID>abSentryShoulderLeftClusterFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Sentry Bot Shoulder Left Weapon VFX</Source>
-      <Dest>Levé rameno strážního robota zbraň VFX</Dest>
+      <Dest>Sentry Bot Shoulder Left Weapon VFX</Dest>
     </String>
     <String List="0" sID="033C95">
       <EDID>abSentryShoulderRightClusterFX</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Sentry Bot Shoulder Right Weapon VFX</Source>
-      <Dest>Pravé rameno strážního robota zbraň VFX</Dest>
+      <Dest>Sentry Bot Shoulder Right Weapon VFX</Dest>
     </String>
     <String List="0" sID="033CDA">
       <EDID>Aspiration_Weapon_DC_Fatman</EDID>
@@ -3725,7 +3725,7 @@
       <EDID>abSentryBotRaceEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>SentryBot Abilities</Source>
-      <Dest>SentryBot Schopnosti</Dest>
+      <Dest>SentryBot Abilities</Dest>
     </String>
     <String List="0" sID="0345BB">
       <EDID>Aspiration_Armor_Work_MetalLeftLeg</EDID>
@@ -5249,7 +5249,7 @@
       <EDID>ArmorStealthMoveEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Stealth Move Effect</Source>
-      <Dest>Pohyb v maskování efekt</Dest>
+      <Dest>Stealth Move Effect</Dest>
     </String>
     <String List="0" sID="03554D">
       <EDID>AddictionMedX</EDID>
@@ -5261,55 +5261,55 @@
       <EDID>ArmorBrawlerEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Brawler Effect</Source>
-      <Dest>Efekt rváče</Dest>
+      <Dest>Brawler Effect</Dest>
     </String>
     <String List="0" sID="03555B">
       <EDID>ArmorExplosion2Effect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Explosion 2 Effect</Source>
-      <Dest>Exploze 2 efekt</Dest>
+      <Dest>Explosion 2 Effect</Dest>
     </String>
     <String List="0" sID="035575">
       <EDID>ArmorIgnoreArmorEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Ignore Armor Effect</Source>
-      <Dest>Ignoruje zbroj efekt</Dest>
+      <Dest>Ignore Armor Effect</Dest>
     </String>
     <String List="0" sID="035580">
       <EDID>ArmorLessStaggerEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Less Stagger Effect</Source>
-      <Dest>Slabší vrávorání efekt</Dest>
+      <Dest>Less Stagger Effect</Dest>
     </String>
     <String List="0" sID="0355A0">
       <EDID>ArmorReducedSprintEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduced Sprint Effect</Source>
-      <Dest>Redukovaný Sprint efekt</Dest>
+      <Dest>Reduced Sprint Effect</Dest>
     </String>
     <String List="0" sID="0355D8">
       <EDID>AbReduceConditionRate</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Condition Rate</Source>
-      <Dest>Snížená úroveň kondice</Dest>
+      <Dest>Snížení poměru kondice</Dest>
     </String>
     <String List="0" sID="0355E8">
       <EDID>ArmorExplosion1Effect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Explosion 1 Effect</Source>
-      <Dest>Exploze 1 efekt</Dest>
+      <Dest>Explosion 1 Effect</Dest>
     </String>
     <String List="0" sID="035653">
       <EDID>AbReduceConditionRate</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt;% Condition Rate</Source>
-      <Dest>+&lt;mag&gt;% úroveň kondice</Dest>
+      <Dest>+&lt;mag&gt;% k poměru kondice</Dest>
     </String>
     <String List="0" sID="03565B">
       <EDID>ArmorStabilizedEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Stabilized Effect</Source>
-      <Dest>Stabilizovaný efekt</Dest>
+      <Dest>Stabilized Effect</Dest>
     </String>
     <String List="0" sID="035674">
       <EDID>ArmorReducedPowerAttackEffect</EDID>
@@ -5477,13 +5477,13 @@
       <EDID>AbReduceCarryWeight</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Reduce Carry Weight</Source>
-      <Dest>Snížená nosnost</Dest>
+      <Dest>Snížení nosnosti</Dest>
     </String>
     <String List="0" sID="0357E3">
       <EDID>AbReduceCarryWeight</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+&lt;mag&gt; Carry Weight</Source>
-      <Dest>+&lt;mag&gt; nosnost</Dest>
+      <Dest>+&lt;mag&gt; k nosnosti</Dest>
     </String>
     <String List="0" sID="035940">
       <EDID>ap_gun_Muzzle</EDID>
