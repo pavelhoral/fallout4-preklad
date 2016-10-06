@@ -2087,7 +2087,7 @@ Autodestrukční sekvenci nelze odvolat.&#xD;
       <Source>...Injection 100%&#xD;
 ...Query Sent&#xD;
 ...Manual Directive Mode &lt;ACTIVE&gt;</Source>
-      <Dest>...Vkládání 100 %&#xD;
+      <Dest>...Vkládání 100%&#xD;
 ...Dotaz odeslán&#xD;
 ...Režim manuálního řízení &lt;ACTIVE&gt;</Dest>
     </String>
@@ -2111,7 +2111,7 @@ Autodestrukční sekvenci nelze odvolat.&#xD;
 [WARNING!]&#xD;
 ...Combat Inhibition: 0%&#xD;
 </Source>
-      <Dest>...Vkládání 100 %&#xD;
+      <Dest>...Vkládání 100%&#xD;
 ...Dotaz odeslán&#xD;
 [VAROVÁNÍ!]&#xD;
 ...Bojová inhibice: 0 %&#xD;
@@ -2662,7 +2662,7 @@ Systémy normální.</Dest>
       <EDID>PerkRooted</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Rooted perk, you can inflict and take more damage while standing still, and may even reflect some of that damage back to attackers.</Source>
-      <Dest>S perkem Přikovaný budeš způsobovat větší a zároveň sám utržíš menší poškození, budeš-li stát na místě. Dokonce můžeš část tohoto poškození odrazit zpět na útočníky.</Dest>
+      <Dest>S perkem Přikovaný budeš způsobovat větší a zároveň utržíš menší poškození, budeš-li stát na místě. Dokonce můžeš část tohoto poškození odrazit zpět na útočníky.</Dest>
     </String>
     <String List="0" sID="031B9F">
       <EDID>ParsonsTerminaSubmenuSecurityDoors</EDID>
@@ -2744,7 +2744,7 @@ Zjištěn neoprávněný vstup.</Dest>
       <EDID>PerkAquaboy</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Aquaboy and Aquagirl perks allow you to breathe underwater, remove radiation damage while swimming, and may even make you undetectable while submerged.</Source>
-      <Dest>Perky Vodní chlapec a Vodní dívka ti umožní dýchat pod vodou, odstraní poškození radiací při plavání, a dokonce tě mohou učinit neodhaliteným ve chvílích, kdy jsi ponořený pod hladinou.</Dest>
+      <Dest>Perky Vodní chlapec a Vodní dívka ti umožní dýchat pod vodou, odstraní poškození radiací při plavání, a dokonce ve chvílích, kdy se zcela ponoříš pod hladinu, mohou zajistit tvou neodhalitelnost.</Dest>
     </String>
     <String List="0" sID="031C49">
       <EDID>PerkAdamantiumSkeleton</EDID>
@@ -3132,7 +3132,7 @@ Zjištěn neoprávněný přístup.</Dest>
       <EDID>PerkAttackDog</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Attack Dog perk allows your canine companion to grab an enemy's limb in combat, increasing your chance to hit in V.A.T.S. and possibly causing additional damage as well.</Source>
-      <Dest>Perk Bojový pes umožní tvému psovitému společníkovi během souboje popadnout končetinu nepřítele, čímž zvýší tvou šanci na zásah v režimu V.A.T.S a potenciálně také způsobí dodatečné poškození.</Dest>
+      <Dest>Perk Bojový pes umožní tvému psímu společníkovi během souboje popadnout končetinu nepřítele, čímž zvýší tvou šanci na zásah v režimu V.A.T.S a potenciálně také způsobí dodatečné poškození.</Dest>
     </String>
     <String List="0" sID="031E5F">
       <EDID>PerkScrounger</EDID>
@@ -4341,7 +4341,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagAwesomeTales14</EDID>
       <REC>PERK:DESC</REC>
       <Source>RadAway heals +5% radiation damage.</Source>
-      <Dest>Rad-away léčí o 5% poškození radiací více.</Dest>
+      <Dest>Rad-away léčí o 5 % více poškození radiací.</Dest>
     </String>
     <String List="1" sID="018F7E">
       <EDID>PerkMagAwesomeTales03</EDID>
@@ -4461,13 +4461,13 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagAwesomeTales09</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your canine companion permanently takes 10% less damage.</Source>
-      <Dest>Tvůj psovitý společník je trvale o 10 % odolnější vůči poškození.</Dest>
+      <Dest>Tvůj psí společník je trvale o 10 % odolnější vůči poškození.</Dest>
     </String>
     <String List="1" sID="01DC61">
       <EDID>PerkMagAwesomeTalesDogmeat</EDID>
       <REC>PERK:DESC</REC>
       <Source>You canine companion takes 10% less damage.</Source>
-      <Dest>Tvůj psovitý společník je o 10 % odolnější vůči poškození.</Dest>
+      <Dest>Tvůj psí společník je o 10 % odolnější vůči poškození.</Dest>
     </String>
     <String List="1" sID="01DC63">
       <EDID>PerkMagAwesomeTales10</EDID>

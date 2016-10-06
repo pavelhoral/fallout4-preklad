@@ -2733,7 +2733,7 @@ Vítejte, předáku.</Dest>
       <EDID>sNoEatItem</EDID>
       <REC>GMST:DATA</REC>
       <Source>You shouldn't eat that.</Source>
-      <Dest>Tohle bys neměl jíst.</Dest>
+      <Dest>Není doporučeno tohle jíst.</Dest>
     </String>
     <String List="0" sID="035980">
       <EDID>sPropModNameWeapfSightedTransitionSeconds</EDID>
@@ -2781,7 +2781,7 @@ Vítejte, předáku.</Dest>
       <EDID>sOutOfUserDiskSpace</EDID>
       <REC>GMST:DATA</REC>
       <Source>The maximum number of saves has been reached. Please delete older saves in order to be able to create a new one.</Source>
-      <Dest>Dosáhl jsi maximálního počtu uložených pozic. Prosím smaž staré uložené pozice, abys mohl vytvořit pozice nové.</Dest>
+      <Dest>Je dosaženo maximálního počtu uložených pozic. Prosím, smaž staré uložené pozice, aby bylo možné vytvořit pozice nové.</Dest>
     </String>
     <String List="0" sID="03599F">
       <EDID>sPropModNameWeapfColorRemappingIndex</EDID>
@@ -2901,7 +2901,7 @@ Vítejte, předáku.</Dest>
       <EDID>sNoWaitTakingRadDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot wait while taking radiation damage.</Source>
-      <Dest>Nemůžeš čekat, pokud jsi zraňován radiací.</Dest>
+      <Dest>Nemůžeš čekat, pokud tě zraňuje radiace.</Dest>
     </String>
     <String List="0" sID="035A0C">
       <EDID>sMiscStatTrespasses</EDID>
@@ -3099,7 +3099,7 @@ Vítejte, předáku.</Dest>
       <EDID>sStealTakeBack</EDID>
       <REC>GMST:DATA</REC>
       <Source>You've been caught stealing. The owner will try to take the item back.</Source>
-      <Dest>Byl jsi přichycen při krádeži. Majitel se pokusí si vzít předměty zpátky.</Dest>
+      <Dest>Chytili tě při krádeži. Majitel se pokusí si vzít předměty zpátky.</Dest>
     </String>
     <String List="0" sID="035AAC">
       <EDID>sMiscStatWater</EDID>
@@ -3123,7 +3123,7 @@ Vítejte, předáku.</Dest>
       <EDID>sNoSleepTakingRadDamage</EDID>
       <REC>GMST:DATA</REC>
       <Source>You cannot sleep while taking radiation damage.</Source>
-      <Dest>Nemůžeš spát, pokud jsi zraňován radiací.</Dest>
+      <Dest>Nemůžeš spát, pokud tě zraňuje radiace.</Dest>
     </String>
     <String List="0" sID="035D4E">
       <EDID>SpellPA_CommonArm</EDID>
@@ -3165,13 +3165,13 @@ Vítejte, předáku.</Dest>
       <EDID>sStealAttack</EDID>
       <REC>GMST:DATA</REC>
       <Source>You've been caught stealing. The owner is now hostile.</Source>
-      <Dest>Byl jsi přichycen při krádeži. Majitel je nyní nepřátelský.</Dest>
+      <Dest>Chytili tě při krádeži. Majitel je nyní nepřátelský.</Dest>
     </String>
     <String List="1" sID="01B682">
       <EDID>Sneak01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Become whisper, become shadow. You are 20% harder to detect while sneaking.</Source>
-      <Dest>Buď vánkem, buď stínem. Při plížení jsi o 20 % obtížněji zpozorovatelný.</Dest>
+      <Dest>Buď vánkem, buď stínem. Při plížení je o 20 % obtížnější tě zpozorovat</Dest>
     </String>
     <String List="1" sID="01DA0D">
       <EDID>Sniper03</EDID>
@@ -3201,19 +3201,19 @@ Vítejte, předáku.</Dest>
       <EDID>Sneak03</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 40% harder to detect while sneaking, and no longer trigger enemy mines.</Source>
-      <Dest>Při plížení jsi o 40 % obtížněji zpozorovatelný, a navíc neaktivuješ nepřátelské miny.</Dest>
+      <Dest>Při plížení je o 40 % obtížnější tě zpozorovat, a navíc neaktivuješ nepřátelské miny.</Dest>
     </String>
     <String List="1" sID="02C99D">
       <EDID>Sneak02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 30% harder to detect while sneaking, and no longer trigger floor-based traps.</Source>
-      <Dest>Při plížení jsi o 30 % obtížněji zpozorovatelný, a navíc nespouštíš podlahové pasti.</Dest>
+      <Dest>Při plížení je o 30 % obtížnější tě zpozorovat, a navíc nespouštíš podlahové pasti.</Dest>
     </String>
     <String List="1" sID="02CA84">
       <EDID>Sneak04</EDID>
       <REC>PERK:DESC</REC>
       <Source>You are now 50% harder to detect while sneaking, and running no longer adversely affects stealth.</Source>
-      <Dest>Při plížení jsi o 50 % obtížněji zpozorovatelný a běh již nemá nepříznivý vliv na tvé krytí.</Dest>
+      <Dest>Při plížení je o 50 % obtížnější tě zpozorovat a běh již nemá nepříznivý vliv na tvé krytí.</Dest>
     </String>
     <String List="1" sID="02CC68">
       <EDID>Sneak05</EDID>
