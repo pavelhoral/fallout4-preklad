@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /**
  * Walk through ESN and extract various data.
  */

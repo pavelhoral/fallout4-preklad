@@ -1,3 +1,4 @@
+'use strict';
 /**
  * Clean-up translation files by removing any string which does not belong into its EDID range.
  */

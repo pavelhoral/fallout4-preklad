@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /**
  * Combine two or more SST XML files into one.
  */
