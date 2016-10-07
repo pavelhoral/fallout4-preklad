@@ -11,6 +11,9 @@ var fs = require('fs'),
  * Assign identifier for the build being created.
  */
 function getBuildId() {
+    if (process.env.BUILDID) {
+      return process.env.BUILDID;
+    }
     var hash = child.execSync('git rev-parse --short HEAD', { encoding: 'ascii' }).trim();
     var date = new Date().toISOString().substring(0, 10).replace(/-/g, '');
     return date + '-f4cs-' + hash;
