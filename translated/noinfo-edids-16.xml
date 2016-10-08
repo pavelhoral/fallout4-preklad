@@ -2190,7 +2190,7 @@ Bezpečnost narušena&#xD;
       <EDID>InstM03</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Open the BioScience Main Door</Source>
-      <Dest>Otevři hlavní dveře oddělení BioVědy</Dest>
+      <Dest>Otevři hlavní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="02239D">
       <EDID>InstTeleporterRoomTerminal01</EDID>
@@ -2429,7 +2429,7 @@ Poznámky: Kontrola rozpisu služeb</Dest>
       <EDID>InstM03_HydroponicsControlTerminalMain</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Command Functions</Source>
-      <Dest>Příkazové funkce oddělení BioVědy</Dest>
+      <Dest>Příkazové funkce oddělení biovědy</Dest>
     </String>
     <String List="0" sID="0246D2">
       <EDID>InstM03_HydroponicsControlTerminalSub1</EDID>
@@ -2489,7 +2489,7 @@ Poznámky: Kontrola rozpisu služeb</Dest>
       <EDID>InstM03</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Go to the BioScience Observation Room</Source>
-      <Dest>Jdi do pozorovací místnosti v oddělení BioVědy</Dest>
+      <Dest>Jdi do pozorovací místnosti v oddělení biovědy</Dest>
     </String>
     <String List="0" sID="02506F">
       <EDID>InvisibilityAbilityEffect</EDID>
@@ -3496,13 +3496,13 @@ Vyhlížejíce budoucnost, uctěme vzpomínku na ty, kteří se svojí prací po
       <EDID>InstM03_HydroponicsControlTerminalDefault</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Terminal</Source>
-      <Dest>Terminál oddělení BioVědy</Dest>
+      <Dest>Terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="02BE4E">
       <EDID>InstM03OberlyHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>BioScience Systems Access</Source>
-      <Dest>Přístup do systémů oddělení BioVědy</Dest>
+      <Dest>Přístup do systémů oddělení biovědy</Dest>
     </String>
     <String List="0" sID="02C227">
       <EDID>IndMetalDoorLoad01MinUse</EDID>
@@ -3694,7 +3694,7 @@ Vyhlížejíce budoucnost, uctěme vzpomínku na ty, kteří se svojí prací po
       <EDID>InstituteBioScience</EDID>
       <REC>CELL:FULL</REC>
       <Source>Institute BioScience</Source>
-      <Dest>Oddělení BioVědy v Institutu</Dest>
+      <Dest>Oddělení biovědy v Institutu</Dest>
     </String>
     <String List="0" sID="02DFFB">
       <EDID>InstMQ302ShaunTerminal</EDID>
@@ -3982,7 +3982,7 @@ Vyhlížejíce budoucnost, uctěme vzpomínku na ty, kteří se svojí prací po
       <EDID>InstituteBioScienceLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Institute BioScience</Source>
-      <Dest>Oddělení BioVědy v Institutu</Dest>
+      <Dest>Oddělení biovědy v Institutu</Dest>
     </String>
     <String List="0" sID="030BC3">
       <EDID>InstituteCaveLocation</EDID>
@@ -4752,7 +4752,7 @@ Lokace: Diamond City</Dest>
       <EDID>InstituteBioScienceTerminal1</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Control Room Terminal</Source>
-      <Dest>Terminál řídicí místnosti oddělení BioVědy</Dest>
+      <Dest>Terminál řídicí místnosti oddělení biovědy</Dest>
     </String>
     <String List="0" sID="031BE2">
       <EDID>InstMQ302ShaunTerminal</EDID>
@@ -4878,7 +4878,7 @@ Poznámky: Jednotka byla promazána, nová identita je „Leo.“ Dbejte zvýše
       <EDID>InstM03_HydroponicsControlTerminalDefaultSub</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Terminal</Source>
-      <Dest>Terminál oddělení BioVědy</Dest>
+      <Dest>Terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="031C1F">
       <EDID>InstituteAdvSysTerminal01</EDID>
@@ -5158,7 +5158,7 @@ SRB:&#xD;
 Facilities:&#xD;
 - Power output maxed&#xD;
 - Air/water recycling systems functioning normally</Source>
-      <Dest>Oddělení BioVědy:&#xD;
+      <Dest>Oddělení biovědy:&#xD;
 - Program hydroponie v provozu&#xD;
 - Laboratoř FEV UZAVŘENA&#xD;
 &#xD;
@@ -5220,7 +5220,7 @@ zasílám Vám požadované informace ohledně behaviorálních anomálií goril
 &#xD;
 - Do dnešního dne jsme zaznamenali 16 případů zvýšeného agresivního chování.&#xD;
 &#xD;
-- Zaměstnanci oddělení BioVědy, kteří tyto situace pozorovali (včetně mě), by označili úroveň agrese za extrémní a nebezpečnou.&#xD;
+- Zaměstnanci oddělení biovědy, kteří tyto situace pozorovali (včetně mě), by označili úroveň agrese za extrémní a nebezpečnou.&#xD;
 &#xD;
 - V součtu zničily gorily celkem šest pečovatelských syntetiků.&#xD;
 &#xD;
@@ -5228,7 +5228,7 @@ zasílám Vám požadované informace ohledně behaviorálních anomálií goril
 &#xD;
 - Zdá se nad míru jasné, že se jedná o chybu v behaviorálním modelu. Pochybuji, že je možné ji napravit. Chápu, že s tímto nebudete souhlasit, ale dle mého názoru by bylo vhodné je všechny zničit.&#xD;
 &#xD;
-- V souvislosti s tím navrhuji, aby byl kontakt s gorilami omezen pouze na syntetické jednotky. Personál oddělení BioVědy by neměl s gorilami přicházet do kontaktu. Riziko je jednoduše příliš vysoké.&#xD;
+- V souvislosti s tím navrhuji, aby byl kontakt s gorilami omezen pouze na syntetické jednotky. Personál oddělení biovědy by neměl s gorilami přicházet do kontaktu. Riziko je jednoduše příliš vysoké.&#xD;
 &#xD;
 - Karlin&#xD;
 </Dest>
@@ -5323,7 +5323,7 @@ Poslední události:&#xD;
 We of the BioScience division are in full agreement on the following hypothesis: subjected to the proper levels of ambient radiation and soil ph such as those found in the exceptionally fertile soil at Warwick Homestead, our modified seed specimens are likely to exhibit accelerated growth rate and a two-fold increase in size.</Source>
       <Dest>Iniciativa za Warwikovu usedlost byla ustanovena pro terénní testování různých geneticky modifikovaných vzorků v unikátním klimatu Commonwealthu. Cílem je získání lepšího vhledu do problematiky vlivu stopové radiace na růst a vývoj zmíněných vzorků.&#xD;
 &#xD;
-Všichni v oddělení BioVědy jsme se shodli na následující hypotéze: vystavení patřičné úrovni okolní radiace a ph půdy, které lze právě pozorovat ve velmi úrodné zemi Warwikovy usedlosti, by mělo naše modifikované vzorky urychlit v růstu a dvojnásobně zvětšit.</Dest>
+Všichni v oddělení biovědy jsme se shodli na následující hypotéze: vystavení patřičné úrovni okolní radiace a ph půdy, které lze právě pozorovat ve velmi úrodné zemi Warwikovy usedlosti, by mělo naše modifikované vzorky urychlit v růstu a dvojnásobně zvětšit.</Dest>
     </String>
     <String List="0" sID="031E41">
       <EDID>InstituteSRBTerminal4</EDID>
@@ -5566,7 +5566,7 @@ Libertálie: 2 jednotky</Dest>
       <EDID>InstituteBioScienceTerminal1Sub</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Terminal</Source>
-      <Dest>Terminál oddělení BioVědy</Dest>
+      <Dest>Terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="031EAE">
       <EDID>InstituteAdvSysTerminal01Sub1</EDID>
@@ -5928,7 +5928,7 @@ Přístup: vzdálený. Přihlášení: ŘEDITEL&#xD;
 Poznámky: --ZREDIGOVÁNO--&#xD;
 &#xD;
 Přístup: lokální. Přihlášení: Li.M&#xD;
-Poznámky: kontrola všech projektů oddělení BioVědy</Dest>
+Poznámky: kontrola všech projektů oddělení biovědy</Dest>
     </String>
     <String List="0" sID="031F70">
       <EDID>InstituteSRBTerminal4</EDID>
@@ -6741,7 +6741,7 @@ zasílám Vám požadované informace ohledně behaviorálních anomálií goril
 &#xD;
 - Do dnešního dne jsme zaznamenali 16 případů zvýšeného agresivního chování.&#xD;
 &#xD;
-- Zaměstnanci oddělení BioVědy, kteří tyto situace pozorovali (včetně mě), by označili úroveň agrese za extrémní a nebezpečnou.&#xD;
+- Zaměstnanci oddělení biovědy, kteří tyto situace pozorovali (včetně mě), by označili úroveň agrese za extrémní a nebezpečnou.&#xD;
 &#xD;
 - V součtu zničily gorily celkem šest pečovatelských syntetiků.&#xD;
 &#xD;
@@ -6749,7 +6749,7 @@ zasílám Vám požadované informace ohledně behaviorálních anomálií goril
 &#xD;
 - Zdá se nad míru jasné, že se jedná o chybu v behaviorálním modelu. Pochybuji, že je možné ji napravit. Chápu, že s tímto nebudete souhlasit, ale dle mého názoru by bylo vhodné je všechny zničit.&#xD;
 &#xD;
-- V souvislosti s tím navrhuji, aby byl kontakt s gorilami omezen pouze na syntetické jednotky. Personál oddělení BioVědy by neměl s gorilami přicházet do kontaktu. Riziko je jednoduše příliš vysoké.&#xD;
+- V souvislosti s tím navrhuji, aby byl kontakt s gorilami omezen pouze na syntetické jednotky. Personál oddělení biovědy by neměl s gorilami přicházet do kontaktu. Riziko je jednoduše příliš vysoké.&#xD;
 &#xD;
 - Karlin</Dest>
     </String>
@@ -7577,7 +7577,7 @@ Nemusím snad připomínat, o jak významnou událost jde pro mě osobně, ale r
       <EDID>InstituteBioScienceTerminal1A</EDID>
       <REC>TERM:FULL</REC>
       <Source>BioScience Terminal</Source>
-      <Dest>Terminál oddělení BioVědy</Dest>
+      <Dest>Terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="032FE8">
       <EDID>InstM02RoboticsTerminal2Sub2</EDID>
@@ -8935,7 +8935,7 @@ Plány&#xD;
       <EDID>InstM03</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Something is going on in BioScience, and Dr. Oberly needs to speak to me about it right away.</Source>
-      <Dest>Něco se děje v oddělení BioVědy a dr. Oberly si o tom chce se mnou ihned promluvit.</Dest>
+      <Dest>Něco se děje v oddělení biovědy a dr. Oberly si o tom chce se mnou ihned promluvit.</Dest>
     </String>
     <String List="1" sID="030E1A">
       <EDID>InstM02</EDID>
@@ -8983,7 +8983,7 @@ Plány&#xD;
       <EDID>InstM03</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Oberly have taken over BioScience. Dr. Oberly gave me a holotape I can use to access security functions if necessary.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly rozhodli obsadit oddělení BioVědy. Dr. Oberly mi předal holopásku, která mi v případě nutnosti povolí přístup k bezpečnostním funkcím.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly rozhodli obsadit oddělení biovědy. Dr. Oberly mi předal holopásku, která mi v případě nutnosti povolí přístup k bezpečnostním funkcím.</Dest>
     </String>
     <String List="1" sID="030EC9">
       <EDID>InstM02</EDID>
@@ -9007,7 +9007,7 @@ Plány&#xD;
       <EDID>InstM01</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Doctor Holdren of the BioScience division asked me to speak to Dr. Isaac Karlin, who needs my help with a mission on the surface.</Source>
-      <Dest>Doktor Holdren z oddělení BioVědy mě požádal o návštěvu dr. Isaaca Karlina, který potřebuje moji pomoc s úkolem na povrchu.</Dest>
+      <Dest>Doktor Holdren z oddělení biovědy mě požádal o návštěvu dr. Isaaca Karlina, který potřebuje moji pomoc s úkolem na povrchu.</Dest>
     </String>
     <String List="1" sID="030F14">
       <EDID>InstM02</EDID>
@@ -9055,19 +9055,19 @@ Plány&#xD;
       <EDID>InstM03</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Loken tried to take control of BioScience. I put an end to their plan, but I chose not to punish them.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení BioVědy. Podařilo se mi překazit jejich plán, ale nehodlám je trestat.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení biovědy. Podařilo se mi překazit jejich plán, ale nehodlám je trestat.</Dest>
     </String>
     <String List="1" sID="031016">
       <EDID>InstM03</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Loken tried to take control of BioScience. I put an end to their plan and chose to have them exiled.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení BioVědy. Podařilo se mi překazit jejich plán a za neposlušnost budou vyhnáni.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení biovědy. Podařilo se mi překazit jejich plán a za neposlušnost budou vyhnáni.</Dest>
     </String>
     <String List="1" sID="031018">
       <EDID>InstM03</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Loken tried to take control of BioScience. I put an end to their plan and chose to have them executed.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení BioVědy. Podařilo se mi překazit jejich plán a za neposlušnost budou popraveni.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení biovědy. Podařilo se mi překazit jejich plán a za neposlušnost budou popraveni.</Dest>
     </String>
     <String List="1" sID="03101B">
       <EDID>InstM02</EDID>
@@ -9109,7 +9109,7 @@ Plány&#xD;
       <EDID>InstM03</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Now that the standoff in BioScience is over, I need to report back to Dr. Oberly.</Source>
-      <Dest>Teď, když je stávka v oddělení BioVědy u konce, musím se opět hlásit u dr. Oberlyho.</Dest>
+      <Dest>Teď, když je stávka v oddělení biovědy u konce, musím se opět hlásit u dr. Oberlyho.</Dest>
     </String>
     <String List="1" sID="031162">
       <EDID>InstR03NEW</EDID>
@@ -9133,13 +9133,13 @@ Plány&#xD;
       <EDID>InstR02</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>To aid in one of his experiments, Doctor Holdren of the BioScience division asked me to obtain a tissue sample from a particularly tough Super Mutant.</Source>
-      <Dest>Doktor Holdren z oddělení BioVědy mě požádal o opatření vzorku tkáně mimořádně nepoddajného supermutanta pro jeden z jeho experimentů.</Dest>
+      <Dest>Doktor Holdren z oddělení biovědy mě požádal o opatření vzorku tkáně mimořádně nepoddajného supermutanta pro jeden z jeho experimentů.</Dest>
     </String>
     <String List="1" sID="0311A8">
       <EDID>InstM03</EDID>
       <REC id="5">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Loken tried to take control of BioScience. I put an end to their plan and chose to put them on probation.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení BioVědy. Podařilo se mi překazit jejich plán a za neposlušnost jim bude udělen podmínečný trest.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení biovědy. Podařilo se mi překazit jejich plán a za neposlušnost jim bude udělen podmínečný trest.</Dest>
     </String>
     <String List="1" sID="0311EB">
       <EDID>InstM02</EDID>
@@ -9555,7 +9555,7 @@ F6-33 - Delta 6 2 Arcus&#xD;
       <EDID>InstM03</EDID>
       <REC id="7">QUST:CNAM</REC>
       <Source>In an act of protest, Dr. Higgs and Dr. Loken tried to take control of BioScience. I put an end to their plan.</Source>
-      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení BioVědy. Jejich plán se mi podařilo překazit.</Dest>
+      <Dest>Na výraz protestu se dr. Higgs a dr. Oberly pokusili obsadit oddělení biovědy. Jejich plán se mi podařilo překazit.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
