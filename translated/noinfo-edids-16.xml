@@ -6829,9 +6829,9 @@ Sám mám pár nápadů, které probereme na další schůzi vedení. Do té dob
 </Source>
       <Dest>...Protokol pro odstavení reaktoru byl aktivován&#xD;
 ...&#xD;
-...Neoprávněný přístup&#xD;
+...neoprávněný přístup&#xD;
 ...&#xD;
-...Odstavení reaktoru se nezdařilo&#xD;
+...odstavení reaktoru se nezdařilo&#xD;
 &#xD;
 </Dest>
     </String>
@@ -7067,7 +7067,7 @@ Pozitivní je, že pro třetí generaci je fyzicky nemožné nabrat váhu a podl
 -----</Source>
       <Dest>...&#xD;
 ...navázáno spojení s reaktorem&#xD;
-...Stav reaktoru: V PROVOZU&#xD;
+...stav reaktoru: V PROVOZU&#xD;
 -----</Dest>
     </String>
     <String List="0" sID="032A42">
@@ -7080,12 +7080,12 @@ Pozitivní je, že pro třetí generaci je fyzicky nemožné nabrat váhu a podl
 ...&#xD;
 ...Reactor Startup Unsuccessful&#xD;
 </Source>
-      <Dest>...Protokol na spuštění reaktoru byl aktivován&#xD;
+      <Dest>...Protokol pro spuštění reaktoru byl aktivován&#xD;
 ...&#xD;
-...Jádro reaktoru odkryto&#xD;
-...Chybí požadované komponenty&#xD;
+...jádro reaktoru odkryto&#xD;
+...chybí požadované komponenty&#xD;
 ...&#xD;
-...Spuštění reaktoru se nezdařilo&#xD;
+...spuštění reaktoru se nezdařilo&#xD;
 </Dest>
     </String>
     <String List="0" sID="032ABB">
@@ -7199,7 +7199,7 @@ Rozhodnutí: Pokud a zda vůbec bude identita M7-62 odhalena, bude jednotka na m
 -----</Source>
       <Dest>...&#xD;
 ...navázáno spojení s reaktorem&#xD;
-...Stav reaktoru: MIMO PROVOZ&#xD;
+...stav reaktoru: MIMO PROVOZ&#xD;
 -----</Dest>
     </String>
     <String List="0" sID="032C3E">
@@ -7231,10 +7231,10 @@ Rozhodnutí: Pokud a zda vůbec bude identita M7-62 odhalena, bude jednotka na m
 Warning - Excercise extreme caution when entering Reactor Chamber.</Source>
       <Dest>...Protokol pro spuštění reaktoru byl aktivován&#xD;
 ...&#xD;
-...Probíhá spouštění&#xD;
-...Zvyšování úrovně radiace&#xD;
+...porobíhá spouštění&#xD;
+...úroveň radiace stoupá&#xD;
 ...&#xD;
-...Spuštění reaktoru bylo úspěšné&#xD;
+...spuštění reaktoru bylo úspěšné&#xD;
 -----------------------&#xD;
 Upozornění - Při vstupu do komory reaktoru dbejte zvýšené opatrnosti.</Dest>
     </String>
@@ -7505,7 +7505,7 @@ Předmět zprávy: „SZI fáze 2“&#xD;
       <EDID>Inst305_ReactorTerminalSub01</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="032E53">
       <EDID>Inst305_ReactorTerminalSub01</EDID>
@@ -7571,7 +7571,7 @@ Nemusím snad připomínat, o jak významnou událost jde pro mě osobně, ale r
       <EDID>Inst305_ReactorTerminalSub01</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Initiating Startup Protocol...</Source>
-      <Dest>Zahajuji spouštěcí protokol...</Dest>
+      <Dest>Zahájení spouštěcího protokolu...</Dest>
     </String>
     <String List="0" sID="032FD2">
       <EDID>InstituteBioScienceTerminal1A</EDID>
@@ -7645,7 +7645,7 @@ POZNÁMKY:&#xD;
       <EDID>Inst305_ReactorTerminalSub01</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="033063">
       <EDID>InstM02RoboticsTerminal1Sub1</EDID>
@@ -7679,7 +7679,7 @@ Od této chvíle tedy dávám přednost tomu, aby oficiální záznamy a psané 
       <EDID>Inst305_ReactorTerminalSub01</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Initiating Startup Protocol...</Source>
-      <Dest>Zahajuji spouštěcí protokol...</Dest>
+      <Dest>Zahájení spouštěcího protokolu...</Dest>
     </String>
     <String List="0" sID="0330C6">
       <EDID>InstituteBioScienceTerminal1A</EDID>
