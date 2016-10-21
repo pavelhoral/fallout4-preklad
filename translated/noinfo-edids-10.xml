@@ -57,7 +57,7 @@ Zabezpečení oddělení biologie&#xD;
       <Source>Under "Combat Proto Systems Initiative" code: 5763D9, this sequence must only be initiated under specific emergency conditions. Current user must reimburse &lt;REDACTED&gt; for the total cost of destroyed property, including any collateral damage sustained.&#xD;
 &#xD;
 Are you sure you want to continue?</Source>
-      <Dest>Pod „Iniciativou pro bojové proto-systémy“ kód: 5763D9, tato sekvence musí být spuštěna pouze při specifických nouzových okolnostech. Současný uživatel musí odškodnit &lt;REVIDOVÁNO&gt; za všechny náklady za zničený majetek, včetně jakéhokoliv vedlejšího utrpěného poškození.&#xD;
+      <Dest>[XXX]Dle „Iniciativy pro bojové proto-systémy“ kód: 5763D9, smí být tato sekvence spuštěna pouze pro přesně definované nouzové situace. Současný uživatel musí odškodnit &lt;REVIDOVÁNO&gt;  náklady za zničený majetek, včetně jakéhokoliv vedlejšího utrpěného poškození.&#xD;
 &#xD;
 Jste si jist, že chcete pokračovat?</Dest>
     </String>
@@ -71,12 +71,12 @@ Connection Established...&#xD;
 Verifying Connection...&#xD;
 Inititating Activation Sequence...&#xD;
 </Source>
-      <Dest>Varování - Testovací subjekty mohou být nepředvídatelné, prosíme, zajistěte řádná bezpečnostní opatření.&#xD;
+      <Dest>Varování - testovaný subjekt může být nepředvídatelný, prosíme, zajistěte řádná bezpečnostní opatření.&#xD;
 ...&#xD;
-Navazuji spojení s testovacím subjektem 946...&#xD;
+Navazování spojení s testovaným subjektem 946...&#xD;
 Spojení navázáno...&#xD;
-Ověřuji spojení...&#xD;
-Spouštím aktivační sekvenci...</Dest>
+Ověřování spojení...&#xD;
+Zahajování aktivační sekvence...</Dest>
     </String>
     <String List="0" sID="0129B6">
       <EDID>DN125_CheckpointBravoSubTerminal</EDID>
@@ -87,12 +87,12 @@ Subject: Jones, Philip and Sarah (wife)&#xD;
 Status: Cleared without Incident&#xD;
 &#xD;
 Notes: Subject ex-military, US Marine. Cooperation noted. Search yielded nothing of note, personal luggage and one musical instrument; trombone. Contents of vehicle matched the subjects story.</Source>
-      <Dest>Datum: 05. zář. 2077&#xD;
-Osoba: Jonesovi, Philip a Sarah (manželka)&#xD;
+      <Dest>Datum: 5. září 2077&#xD;
+Osoby: Jonesovi, Philip a Sarah (manželka)&#xD;
 &#xD;
-Stav: Zpracováno bez incidentů&#xD;
+Stav: prověřeno bez incidentu&#xD;
 &#xD;
-Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spolupráce zaznamenána. Prohlídka nepřinesla nic zajímavého, osobní zavazadla a jeden hudební nástroj; trombón. Obsah vozidla se shodoval s příběhem osoby.</Dest>
+Poznámky: Osoba je bývalý voják, námořní pěchota Spojených států. Spolupráce zaznamenána. Prohlídka nepřinesla nic neobvyklého, osobní zavazadla a jeden hudební nástroj; trombón. Obsah vozidla se shodoval s příběhem osoby.</Dest>
     </String>
     <String List="0" sID="0129D3">
       <EDID>DN102_1FScienceTerminal_Reports</EDID>
@@ -104,7 +104,7 @@ Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spoluprá
       <EDID>DN131_SwanLog02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Experiment Log J-32, Day 6</Source>
-      <Dest>Záznam experimentování J-32, den 6</Dest>
+      <Dest>Záznam experimentu J-32, den 6</Dest>
     </String>
     <String List="0" sID="012A7C">
       <EDID>DN136_BioTerminalSub02</EDID>
@@ -114,10 +114,10 @@ Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spoluprá
 ...Synth behavioral protocols restored&#xD;
 ...Defense turrets resuming standby mode&#xD;
 </Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře otevřeny&#xD;
 ...protokoly chování syntetiků obnoveny&#xD;
-...obranné věže pokračují v pohotovostním režimu</Dest>
+...pohotovostní režim obranných věží obnoven</Dest>
     </String>
     <String List="0" sID="012A81">
       <EDID>DN074_QuannapowittFlyer</EDID>
@@ -171,7 +171,7 @@ Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spoluprá
       <EDID>DN123_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN123 - Skylanes Change Location]</Source>
-      <Dest>[DN123 - Skylanes změnit pozici]</Dest>
+      <Dest>[DN123 - Skylanes Change Location]</Dest>
     </String>
     <String List="0" sID="012E32">
       <EDID>DN079_BasementTerminalLogs</EDID>
@@ -189,7 +189,7 @@ Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spoluprá
       <EDID>DN131_SwanLog01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Experiment Log J-32, Day 1</Source>
-      <Dest>Záznam experimentování J-32, den 1</Dest>
+      <Dest>Záznam experimentu J-32, den 1</Dest>
     </String>
     <String List="0" sID="012F1B">
       <EDID>DN136_BioTerminalSub03</EDID>
@@ -197,7 +197,7 @@ Poznámky: Ex-armádní osoba, námořní pěchota Spojených států. Spoluprá
       <Source>...Communication Link Established&#xD;
 ...Security Door Closed&#xD;
 </Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře zavřeny&#xD;
 </Dest>
     </String>
@@ -259,7 +259,7 @@ Prosím kontaktuje správce systému.</Dest>
       <EDID>DN130</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN130 - Cambridge Police Station]</Source>
-      <Dest>[DN130 - Cambridgeská policejní stanice]</Dest>
+      <Dest>[DN130 - Cambridge Police Station]</Dest>
     </String>
     <String List="0" sID="01332B">
       <EDID>DN083_TerminalTurret</EDID>
@@ -398,7 +398,7 @@ Prozatím se pokusím držet trubky v jednom kuse a turisty mimo moji kancelář
       <EDID>DN125_CheckpointBravoSubTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Property of the United States Army</Source>
-      <Dest>Vlastnictví armády Spojených států</Dest>
+      <Dest>Majetek Armády Spojených států</Dest>
     </String>
     <String List="0" sID="013E2F">
       <EDID>DN070_TerminalJanitorLogs</EDID>
@@ -416,7 +416,7 @@ Prozatím se pokusím držet trubky v jednom kuse a turisty mimo moji kancelář
       <EDID>DN070_HolotapeCarl</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Carl's Log</Source>
-      <Dest>Carlův záznam</Dest>
+      <Dest>Carlův deník</Dest>
     </String>
     <String List="0" sID="013F83">
       <EDID>DN131_SwanLog05</EDID>
@@ -484,7 +484,7 @@ Vaše čtvrtletní inspekce je 10976 týden(ů) opožděna, $ADMINISTRATOR.</Des
       <EDID>DN136_ORTerminal01</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Establishing Link to Prototype...</Source>
-      <Dest>Navazuji spojení s prototypem...</Dest>
+      <Dest>Připojování k prototypu...</Dest>
     </String>
     <String List="0" sID="01435C">
       <EDID>DN092AmbushDeathclaw</EDID>
@@ -525,10 +525,10 @@ Subject: Buczynsky, Donald&#xD;
 Status: Cleared without Incident&#xD;
 &#xD;
 Notes: Subject reported as church pastor. Attire matched story. Inspector found no need for further interrogation, subjet was cleared.</Source>
-      <Dest>Datum: 24. zář. 2077&#xD;
+      <Dest>Datum: 24. září 2077&#xD;
 Osoba: Buczynsky Donald&#xD;
 &#xD;
-Stav: Zpracováno bez incidentů&#xD;
+Stav: prověřeno bez incidentu&#xD;
 &#xD;
 Poznámky: Osoba se ohlásila jako církevní pastor. Oděv se shodoval s příběhem. Inspektor nenašel důvod pro další výslech, osoba byla propuštěna.</Dest>
     </String>
@@ -667,16 +667,6 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
       <Source>12/17/2077</Source>
       <Dest>17.12.2077</Dest>
     </String>
-    <String List="0" sID="014DF7">
-      <EDID>DN107_ArmyTerminalSubMemos1</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source>&#xD;
-&#xD;
-</Source>
-      <Dest>&#xD;
-&#xD;
-</Dest>
-    </String>
     <String List="0" sID="014E2F">
       <EDID>DN123SkylanesPilot01</EDID>
       <REC>NPC_:FULL</REC>
@@ -708,7 +698,7 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
 ...Unable to Establish Communication Link&#xD;
 </Source>
       <Dest>...&#xD;
-...není možné navázat komunikační kanál&#xD;
+...navázání spojení se nezdařilo&#xD;
 </Dest>
     </String>
     <String List="0" sID="0151D7">
@@ -721,19 +711,19 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
       <EDID>DN131_Commons</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN131 - Boston Common Retreat System]</Source>
-      <Dest>[DN131 - Ústupový systém bostonského parku]</Dest>
+      <Dest>[DN131 - Boston Common Retreat System]</Dest>
     </String>
     <String List="0" sID="01526D">
       <EDID>DN079</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Clear out the molerats from Longneck Lukowski's.</Source>
-      <Dest>Vyčisti krtkopotkany z Dlouhána Lukowského.</Dest>
+      <Dest>Vyčisti Lukowského konzervárnu od krtkopotkanů.</Dest>
     </String>
     <String List="0" sID="0152CD">
       <EDID>DN131_SwanLog04</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Experiment Log J-32, Day 21</Source>
-      <Dest>Záznam experimentování J-32, den 21</Dest>
+      <Dest>Záznam experimentu J-32, den 21</Dest>
     </String>
     <String List="0" sID="015334">
       <EDID>DN070_TerminalMayor</EDID>
@@ -745,7 +735,7 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC>TERM:FULL</REC>
       <Source>Bioscience Security Terminal</Source>
-      <Dest>Bezpečnostní terminál oddělení biologie</Dest>
+      <Dest>Bezpečnostní terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="015436">
       <EDID>dn097_subterminal01</EDID>
@@ -765,7 +755,7 @@ DM: Byl jsi VRCHNÍM STRŮJCEM zatraceného Mezmetronu a nedokážeš ani správ
       <EDID>DN125_CheckpointBravoTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Log Entries</Source>
-      <Dest>Položky v záznamu</Dest>
+      <Dest>Záznamy</Dest>
     </String>
     <String List="0" sID="015581">
       <EDID>DN110_RunawayHolotape</EDID>
@@ -893,9 +883,9 @@ Careful with his other protocols, these cans knuckle creeps if they go ape.&#xD;
 &#xD;
 -Jack</Source>
       <Dest>Allene,&#xD;
-Konečně jsme osvobodili otroka z náměstí pro naše svobodné zemědělské družstvo: Pana Šikulku z nadavilleského předměstí. Ta plechovka se nám vytrhla a snažila se dostat zpátky ke svým otrokářským vlastníkům, skoro nám na stopu přivedla policajty, tak ji Johny vykroutil ven a omámil její motivační protokoly na „Prostě buď“. Teď mu říkáme Profesor Fajn, prolítá si světem jak je, nedlužící nikomu nic.&#xD;
+konečně jsme vysekali otroka od konformáků na naše svobodné zemědělské družstvo - Pan Šikulka z mimózovýho předměstí. Ta plechovka se nám vytrhla a snažila se dostat zpátky ke svejm otrokářskejm vlastníkům. Málem na nás přivolal fíky, tak to Johny pořešil a pošteloval jeho motivační protokoly na „prostě buď“. Teď mu říkáme Profesor Fajn, jen tak lítá světem a nic neřeší.&#xD;
 &#xD;
-Opatrně s jeho ostatními protokoly, tyhle plechovky jsou děsivý, když zcvoknou.&#xD;
+Opatrně s jeho ostatníma protokolama, tyhle plechovky jsou děsivý, když zcvoknou.&#xD;
 &#xD;
 -Jack</Dest>
     </String>
@@ -1014,8 +1004,8 @@ Varování: Tento bojový strážní robot je prototyp. Je vysoce doporučeno, a
       <REC id="2">TERM:UNAM</REC>
       <Source>...&lt;Error 453.76&gt; Communication Link Failed&#xD;
 ...Unable to Process Request, Please Contact Administrator</Source>
-      <Dest>...&lt;Chyba 453.76&gt; komunikační kanál selhal&#xD;
-...není možné zpracovat požadavek, prosíme, kontaktujte správce</Dest>
+      <Dest>...&lt;Chyba 453.76&gt; selhání spojení&#xD;
+...požadavek nelze zpracovat, prosíme, kontaktujte správce</Dest>
     </String>
     <String List="0" sID="0161A8">
       <EDID>DN100SleepwalkingNote</EDID>
@@ -1038,10 +1028,10 @@ Subject: Wu, Michael and Jennifer (wife), son George&#xD;
 Status: Detained&#xD;
 &#xD;
 Notes: Subjects displayed suspicious behavior, resulting in a full inspection, including dismantling the vehicle. Despite a lack of contraband and a full apology from the inspection lead, the subjects began acting aggressively, including yelling at soldiers in a foreign language (most likely Chinese). Subjects were detained and Military Police was contacted in accordance with the field manual. </Source>
-      <Dest>Datum: 11. říj. 2077&#xD;
-Osoba: Wuovi, Michael a Jennifer (manželka), syn George&#xD;
+      <Dest>Datum: 11. října 2077&#xD;
+Osoby: Wuovi, Michael a Jennifer (manželka), syn George&#xD;
 &#xD;
-Stav: Zadrženi&#xD;
+Stav: zadrženi&#xD;
 &#xD;
 Poznámky: Osoby projevovaly podezřelé chování, to vedlo ke kompletní prohlídce, včetně demontáže vozidla. Navzdory nenalezení kontrabandu a plné omluvě vedoucího prohlídky, se osoby začaly chovat agresivně, včetně křiku na vojáky v cizím jazyce (nejspíš čínsky). Osoby byly zadrženy a v souladu s polním manuálem byla zkontaktována vojenská policie.</Dest>
     </String>
@@ -1067,7 +1057,7 @@ Poznámky: Osoby projevovaly podezřelé chování, to vedlo ke kompletní prohl
       <EDID>DN131_SwanLog03</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Experiment Log J-32, Day 14</Source>
-      <Dest>Záznam experimentování J-32, den 14</Dest>
+      <Dest>Záznam experimentu J-32, den 14</Dest>
     </String>
     <String List="0" sID="0165CB">
       <EDID>DN070_TerminalTreasuresAccess</EDID>
@@ -1129,7 +1119,7 @@ Doporučuji jezero uzavřít veřejnosti a začít s oficiálním šetřením na
       <EDID>DN079_CanneryKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Longneck Lukowski's Key</Source>
-      <Dest>Klíč od Dlouhána Lukowského</Dest>
+      <Dest>Klíč od Lukowského konzervárny</Dest>
     </String>
     <String List="0" sID="016D59">
       <EDID>dn097_subterminal01</EDID>
@@ -1315,7 +1305,7 @@ Byl zjištěn únik chemikálií. Okamžitě vykliďte budovu.</Dest>
       <EDID>DN130CambridgePDKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Cambridge Police Station Key</Source>
-      <Dest>Klíč od cambridgeské policejní stanice</Dest>
+      <Dest>Klíč z cambridgeské policejní stanice</Dest>
     </String>
     <String List="0" sID="017FE2">
       <EDID>DN116MilitaryBotTerminal</EDID>
@@ -1403,7 +1393,7 @@ První rok sám ve starém srubu. Tohle ticho je přesně to, co potřebuju. Tak
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Opening...</Source>
-      <Dest>Otevírám...</Dest>
+      <Dest>Otevírání...</Dest>
     </String>
     <String List="0" sID="0187B7">
       <EDID>DN102_ObservationTerminal</EDID>
@@ -1503,7 +1493,7 @@ Zjištěn únik chemikálií. Ujistěte se, že všechen vedoucí personál byl 
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Opening...</Source>
-      <Dest>Otevírám...</Dest>
+      <Dest>Otevírání...</Dest>
     </String>
     <String List="0" sID="0191EB">
       <EDID>DN070_TerminalJanitorLogs</EDID>
@@ -1548,7 +1538,7 @@ Nechápu to. Zabrali s tou blbostí polovinu sklepa, ale pořád je ani nehne, a
       <EDID>DN103TerminalSecurity</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="019531">
       <EDID>DN102_1FScienceTerminal_Reports</EDID>
@@ -1614,7 +1604,7 @@ Zvažte přeřazení do oddělení výzkumu smrticích zbraní. Napájecí zdroj
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Opening...</Source>
-      <Dest>Otevírám...</Dest>
+      <Dest>Otevírání...</Dest>
     </String>
     <String List="0" sID="019A93">
       <EDID>DN092_RaiderBossName</EDID>
@@ -1945,7 +1935,7 @@ Slyším to už teď. „Možná kdybys byl lepší spisovatel, zvládl bys pře
       <EDID>DN129_RobotTerminalPersonalitySubmenu</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Guard Protocols</Source>
-      <Dest>Obranné protokoly</Dest>
+      <Dest>Protokoly obranny</Dest>
     </String>
     <String List="0" sID="01ACFB">
       <EDID>DN121BossRoom_LvlForgedMelee</EDID>
@@ -2018,12 +2008,6 @@ Je mi líto, ale nebudu mít možnost se dostat nahoru s tvojí Nukou. Vypnuli h
       <REC id="0">TERM:ITXT</REC>
       <Source>Activate Turret</Source>
       <Dest>Aktivovat věž</Dest>
-    </String>
-    <String List="0" sID="01B29D">
-      <EDID>DN079_BasementTerminal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="0" sID="01B2C7">
       <EDID>DN102_ObservationTerminal</EDID>
@@ -2100,12 +2084,6 @@ Byl zjištěn únik chemikálií. Okamžitě vykliďte budovu.</Dest>
       <REC>NPC_:FULL</REC>
       <Source>Gen 2 Synth</Source>
       <Dest>Syntetik 2. generace</Dest>
-    </String>
-    <String List="0" sID="01B592">
-      <EDID>DN107_SecurityRoomTerminal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source>  </Source>
-      <Dest>  </Dest>
     </String>
     <String List="0" sID="01B63F">
       <EDID>DN116MilitaryBotTerminal</EDID>
@@ -2193,17 +2171,7 @@ Zabezpečení oddělení biologie&#xD;
       <EDID>DN103_TerminalSublevel</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
-    </String>
-    <String List="0" sID="01BE7E">
-      <EDID>DN107_PDTerminalSubMemos1</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source>&#xD;
-&#xD;
-</Source>
-      <Dest>&#xD;
-&#xD;
-</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="01BE98">
       <EDID>DN136_BioTerminalSub02</EDID>
@@ -2275,7 +2243,7 @@ Zabezpečení oddělení biologie&#xD;
       <EDID>DN070_HolotapeCarlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Carl Everett's Log</Source>
-      <Dest>Záznam Carla Everetta</Dest>
+      <Dest>Deník Carla Everetta</Dest>
     </String>
     <String List="0" sID="01C349">
       <EDID>DN070_HolotapeCarlTerminal</EDID>
@@ -2302,7 +2270,7 @@ Stará pověst. To je všechno co mám. Ale jestli to dobře otočím, možná p
       <EDID>DN127SignalNote</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Signal Checklist</Source>
-      <Dest>Kontrolní seznam signálu</Dest>
+      <Dest>Seznam úkolů pro signál</Dest>
     </String>
     <String List="0" sID="01C763">
       <EDID>DN070_JamaicaPlainTownHallKey</EDID>
@@ -2356,7 +2324,7 @@ Zabezpečení oddělení biologie&#xD;
       <EDID>DN136_ORTerminal01</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Activating Prototype Sequence...</Source>
-      <Dest>Aktivuji sekvenci prototypu...</Dest>
+      <Dest>Aktivovat sekvenci prototypu...</Dest>
     </String>
     <String List="0" sID="01CDC8">
       <EDID>DN116MilitaryBotTerminal</EDID>
@@ -2516,7 +2484,7 @@ Zabezpečení oddělení biologie&#xD;
       <EDID>DN133_ArmoryDoorTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="01E135">
       <EDID>DN083_Barney</EDID>
@@ -2627,10 +2595,10 @@ Subject: Dearing, Keith and Kennedy, Collin&#xD;
 Status: Cleared with Minor Incident&#xD;
 &#xD;
 Notes: Trunk of vehicle contained miscellaneous camera equipment and general tools. Subjects briefly detained and questions. Produced all proper permits for filming within city limits. Incident filed with HQ, subjects allowed passage. </Source>
-      <Dest>Datum: 02. říj. 2077&#xD;
-Osoba: Dearing Keith a Kennedy Collin&#xD;
+      <Dest>Datum: 2. říjen 2077&#xD;
+Osoby: Dearing Keith a Kennedy Collin&#xD;
 &#xD;
-Stav: Schváleno s výhradou&#xD;
+Stav: prověřeno s výhradou&#xD;
 &#xD;
 Poznámky: Kufr vozidla obsahoval různé natáčecí vybavení a obecné nářadí. Osoby krátce drženy a vyslýchány. Předložena všechna potřebná povolení pro natáčení na území města. Událost vyplněna pro ústředí, osobám byl povolen průjezd.</Dest>
     </String>
@@ -2695,7 +2663,7 @@ Vyhrabal jsem všechny informace, co jsem mohl. Něco tam dole je, něco velkýh
       <EDID>DN121_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN121 - Saugus Ironworks Change Location]</Source>
-      <Dest>[DN121 - Železárny Saugus změnit pozici]</Dest>
+      <Dest>[DN121 - Saugus Ironworks Change Location]</Dest>
     </String>
     <String List="0" sID="01F407">
       <EDID>DN102_1FScienceTerminal</EDID>
@@ -2834,16 +2802,16 @@ Subject: Search and Seizure Procedure&#xD;
 Effective 01 Aug 2077, all vehicles traveling through designated checkpoint must submit to a full stop and inspection.  Inspections may include the stripping and deconstruction of suspicious vehicles. Citizens are to wait inside the designated areas during inspection, avoiding communication at all times. At no time will they be allowed to tamper with the vehicle until an inspection has ended. Magazines and other approved periodicals may be made available during the waiting period. A civilian may leave once the inspection is passed.  Should an inspection result in an inoperable vehicle, the vehicle and/or all parts will be shipped to the civilians within 10-15 business days.  Soldiers are instructed to refer the civilians to a list of taxi services available in your area.&#xD;
 &#xD;
 Upon the detection of any contraband (as listed in the field manual), please contact Military Police immediately and detain vehicle's passengers until arrival. Means of detainment are subject to the discretion of the highest ranking officer on-site.</Source>
-      <Dest>VOJENSKÉ ODDĚLENÍ&#xD;
+      <Dest>ARMÁDNÍ ODDĚLENÍ&#xD;
 Rota Echo, 104. pěší regiment&#xD;
 &#xD;
-MEMORANDUM PRO EVIDENCI&#xD;
+MEMORANDUM K EVIDENCI&#xD;
 &#xD;
 Předmět: Proces prohlídky a zabavení&#xD;
 &#xD;
-Počínaje 01. srpnem 2077, všechna vozidla cestující přes vymezená kontrolní stanoviště musí být zastavena a podrobena prohlídce. Inspekce může zahrnovat demontáž a rozebrání podezřelých vozidel. Občané budou v době prohlídky čekat ve vymezených oblastech, bez možnosti komunikace. Dokud nebude prohlídka u konce, nebude jim za žádných okolností dovoleno manipulovat s vozidlem. Během čekací doby budou k dostání časopisy a ostatní schválená periodika. Civilisté mohou odejít v okamžiku dokončení prohlídky. Pokud by inspekce měla za výsledek nepojízdné vozidlo, budou vozidlo anebo všechny jeho součásti doručeny civilistovi během 10-15 dnů. Vojáci mají instrukce; poukázat civilisty na seznam taxislužeb dostupných ve vaší oblasti.&#xD;
+Počínaje 1. srpnem 2077, všechna vozidla cestující přes vymezená kontrolní stanoviště musí být zastavena a podrobena prohlídce.  Inspekce může zahrnovat demontáž a rozebrání podezřelých vozidel. Občané budou v době prohlídky čekat ve vymezených oblastech, bez možnosti jakékoliv komunikace. Dokud nebude prohlídka u konce, nebude jim za žádných okolností dovoleno manipulovat s vozidlem. Během čekací doby mohou být poskytnuty časopisy a jiná schválená periodika. Civilisté mohou odejít až v okamžiku dokončení prohlídky. Pokud by inspekce měla za výsledek nepojízdné vozidlo, budou vozidlo anebo všechny jeho součásti doručeny civilistovi během 10-15 pracovních dnů.  Vojáci mají instrukce, aby nasměrovali civilisty na taxislužby dostupné ve vaší oblasti.&#xD;
 &#xD;
-Při nálezu jakéhokoli kontrabandu (jak uvedeno v polním manuálu), prosíme okamžitě uvědomit vojenskou policii a zadržet pasažéry vozidla až do jejího příjezdu. Prostředky pro zadržení budou věcí úsudku místního nejvýše postaveného důstojníka.</Dest>
+Při nálezu jakéhokoli kontrabandu (jak uvedeno v polním manuálu), prosíme okamžitě uvědomit vojenskou policii a zadržet pasažéry vozidla až do jejího příjezdu. Prostředky pro zadržení budou věcí úsudku nejvýše postaveného přítomného důstojníka.</Dest>
     </String>
     <String List="0" sID="020BAD">
       <EDID>DN083_TerminalTurret</EDID>
@@ -2927,18 +2895,12 @@ Turnaj v rybolovu vyústil v 27 případů vážného onemocnění po styku s vo
 &#xD;
 Jezero Quannapowitt uzavřeno veřejnosti až do odvolání.</Dest>
     </String>
-    <String List="0" sID="021240">
-      <EDID>DN107_PDTerminalSubDistro</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="0" sID="02126D">
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>...Communication Link Established&#xD;
 ...Security Door Opened</Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře otevřeny</Dest>
     </String>
     <String List="0" sID="0212FA">
@@ -2974,7 +2936,7 @@ Zpracování ryb Mahkra&#xD;
       <EDID>DN070_TerminalSecurity01</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Terminál ostrahy</Dest>
     </String>
     <String List="0" sID="02180F">
       <EDID>DN129_RobotTerminalMain</EDID>
@@ -2986,7 +2948,7 @@ Zpracování ryb Mahkra&#xD;
       <EDID>DN125_CheckpointBravoSubTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Subject: Jones Family</Source>
-      <Dest>Předmět: Jonesova rodina</Dest>
+      <Dest>Subjekt: Jonesova rodina</Dest>
     </String>
     <String List="0" sID="021AE8">
       <EDID>DN070_TerminalJanitorLogs</EDID>
@@ -3033,7 +2995,7 @@ Rada konečně schválila renovaci sklepa. Trvalo jim to. Bude pěkné se zbavit
       <EDID>DN070_HolotapeCarlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Carl's Log</Source>
-      <Dest>Carlův záznam</Dest>
+      <Dest>Carlův deník</Dest>
     </String>
     <String List="0" sID="021EBC">
       <EDID>DN102_DeconAccessTerminal</EDID>
@@ -3051,13 +3013,13 @@ Rada konečně schválila renovaci sklepa. Trvalo jim to. Bude pěkné se zbavit
       <EDID>DN131_Commons_Note01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Torn Note</Source>
-      <Dest>Potrhaná poznámka</Dest>
+      <Dest>Roztržená zpráva</Dest>
     </String>
     <String List="0" sID="021FF5">
       <EDID>DN079MiscObj</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Investigate  &lt;Alias=MyLocation&gt;</Source>
-      <Dest>Prozkoumej  &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Prozkoumej lokaci &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="02206D">
       <EDID>DN102_DevelopmentLabTerminal</EDID>
@@ -3270,7 +3232,7 @@ Dekontaminační komora: NEAKTIVNÍ</Dest>
       <Source>...Communication Link Established&#xD;
 ...Security Door Closed&#xD;
 </Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře zavřeny&#xD;
 </Dest>
     </String>
@@ -3358,12 +3320,6 @@ CELKEM: 574,84 mil. $</Dest>
       <Source>Sept. 12 - Sept. 25</Source>
       <Dest>12. září - 25. září</Dest>
     </String>
-    <String List="0" sID="023B61">
-      <EDID>DN107_ArmyTerminal01</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="0" sID="023D52">
       <EDID>DN070_TerminalTreasuresAccess</EDID>
       <REC id="0">TERM:BTXT</REC>
@@ -3375,7 +3331,7 @@ CELKEM: 574,84 mil. $</Dest>
       <REC id="0">TERM:UNAM</REC>
       <Source>...Communication Link Established&#xD;
 ...Security Door Opened</Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře otevřeny</Dest>
     </String>
     <String List="0" sID="02411B">
@@ -3681,12 +3637,6 @@ Za nepravděpodobného případu závažného úniku chemikálií:&#xD;
 &#xD;
 Díky vnitrobudovnímu systému recyklace vzduchu HalluciGen, může trvat chemickým činidlům dny nebo měsíce, než se přirozeně rozptýlí. Nepokoušejte se znovu vejít do budovy dokud nebudete vyzváni.</Dest>
     </String>
-    <String List="0" sID="025042">
-      <EDID>DN107_PDTerminal01</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="0" sID="02509D">
       <EDID>DN104_Terminal</EDID>
       <REC>TERM:BTXT</REC>
@@ -3734,7 +3684,7 @@ Večer nebude žádná slavnost. Starostka je nejspíš už mrtvá. Půjdu zavř
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Closing...</Source>
-      <Dest>Zavírám...</Dest>
+      <Dest>Zavírání...</Dest>
     </String>
     <String List="0" sID="025197">
       <EDID>DN083_TerminalTurret</EDID>
@@ -3790,7 +3740,7 @@ Poklady: Normální provoz z rezervní energie.</Dest>
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Closing...</Source>
-      <Dest>Zavírám...</Dest>
+      <Dest>Zavírání...</Dest>
     </String>
     <String List="0" sID="02551B">
       <EDID>DN102_ObservationTerminal</EDID>
@@ -4077,7 +4027,7 @@ VAROVÁNÍ: Zjištěny kritické chyby systému. Vyměňte postižené přístro
       <EDID>DN131</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN131 - Swan's Pond]</Source>
-      <Dest>[DN131 - Labuťákův rybníček]</Dest>
+      <Dest>[DN131 - Swan's Pond]</Dest>
     </String>
     <String List="0" sID="026CBE">
       <EDID>DN079_BasementTerminalLogs</EDID>
@@ -4118,10 +4068,10 @@ Prosím, ověřte se u technika salemské dobrovolnické domobrany (aktuálně: 
 ...Security Doors Opened&#xD;
 ...Synth behavioral protocols restored&#xD;
 ...Defense turrets resuming standby mode</Source>
-      <Dest>...komunikační kanál navázán&#xD;
+      <Dest>...spojení navázáno&#xD;
 ...bezpečnostní dveře otevřeny&#xD;
 ...protokoly chování syntetiků obnoveny&#xD;
-...obranné věže pokračují v pohotovostním režimu</Dest>
+...pohotovostní režim obraných věží obnoven</Dest>
     </String>
     <String List="0" sID="026F28">
       <EDID>DN079_BasementTerminalLogs</EDID>
@@ -4139,7 +4089,7 @@ Prosím, ověřte se u technika salemské dobrovolnické domobrany (aktuálně: 
       <EDID>DN123</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DN123 - Skylanes Flight 1981]</Source>
-      <Dest>[DN123 - Skylanes let 1981]</Dest>
+      <Dest>[DN123 - Skylanes Flight 1981]</Dest>
     </String>
     <String List="0" sID="0270C8">
       <EDID>DN123</EDID>
@@ -4179,7 +4129,7 @@ Prosím vyberte hlášení:</Dest>
       <EDID>DN125_CheckpointBravoTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Property of the United States Army</Source>
-      <Dest>Vlastnictví armády Spojených států</Dest>
+      <Dest>Majetek Armády Spojených států</Dest>
     </String>
     <String List="0" sID="0272EC">
       <EDID>DN081_Floor2aTerminal</EDID>
@@ -4415,7 +4365,7 @@ Zabezpečení oddělení biologie&#xD;
       <EDID>DN129_RobotTerminalPersonalitySubmenu</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>"Just Be" Protocols</Source>
-      <Dest>„Prostě buď“ protokoly</Dest>
+      <Dest>Protokoly „prostě buď“</Dest>
     </String>
     <String List="0" sID="028127">
       <EDID>DN107_PDTerminalSubDistro</EDID>
@@ -4546,12 +4496,6 @@ Magnetozámek uvolněn. Otevírám dveře...</Dest>
       <Source>Mainframe Access Terminal</Source>
       <Dest>Terminál přístupu k mainframe</Dest>
     </String>
-    <String List="0" sID="0287A3">
-      <EDID>DN107_PDTerminalSubIncident</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="0" sID="0287C9">
       <EDID>DN135_GwinnettBarTerminal2</EDID>
       <REC>TERM:BTXT</REC>
@@ -4559,8 +4503,8 @@ Magnetozámek uvolněn. Otevírám dveře...</Dest>
 Valid ID must be presented at start of tour.&#xD;
 &#xD;
 === Main Menu ===</Source>
-      <Dest>Prohlídky mohou být prováděny pouze hostitelským personálem.&#xD;
-Na začátku prohlídky musí být předloženo platné ID.&#xD;
+      <Dest>Prohlídky mohou být prováděny pouze určenými průvodci.&#xD;
+Na začátku prohlídky musí být předložena platná identifikační karta.&#xD;
 &#xD;
 === Hlavní nabídka ===</Dest>
     </String>
@@ -4583,11 +4527,11 @@ Main Brewery Tour Price: $119&#xD;
 4:00 pm&#xD;
 6:00 pm&#xD;
 8:00 pm</Source>
-      <Dest>Prohlídka hlavního pivovaru zahrnuje prohlídku rukodělného křídla, a následnou prohlídku hlavního varného zařízení, nalézajícího se naproti přítoku. Prohlídky jsou k dispozici každou sobotu a neděli a některé svátky. V ceně je zahrnutý sezónní ochutnávač, památeční pintová sklenice.&#xD;
+      <Dest>Prohlídka hlavního pivovaru zahrnuje prohlídku řemeslného pivovaru a následnou prohlídku hlavního pivovarného zařízení, nalézajícího se naproti přes zátoku. Prohlídky jsou k pořádány každou sobotu a neděli a vybrané svátky. V ceně je zahrnutý ochutnávka sezónních piv a památeční pintová sklenice.&#xD;
 &#xD;
 Cena prohlídky hlavního pivovaru: 119 $&#xD;
 &#xD;
-~Hodiny~&#xD;
+~Časy prohlídek~&#xD;
 12:00&#xD;
 14:00&#xD;
 16:00&#xD;
@@ -4604,7 +4548,7 @@ Cena prohlídky hlavního pivovaru: 119 $&#xD;
       <EDID>DN135_GwinnettBarTerminal2</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Craft &amp; Seasonal Wing</Source>
-      <Dest>Rukodělné &amp; sezónní křídlo</Dest>
+      <Dest>Řemeslný a sezónní pivovar</Dest>
     </String>
     <String List="0" sID="0288A5">
       <EDID>DN135_GwinnettBrewerySubTermDeliveries</EDID>
@@ -4630,7 +4574,7 @@ Cena prohlídky hlavního pivovaru: 119 $&#xD;
 Samuels, J ---------------- $78.00&#xD;
 McMurdoc, M ------------- $24.00&#xD;
 </Source>
-      <Dest>== Současný seznam otevřených barových účtů ==&#xD;
+      <Dest>== Seznam otevřených barových účtů ==&#xD;
 &#xD;
 Samuels, J.  ------------- 78,00 $&#xD;
 McMurdoc, M. ------------- 24,00 $&#xD;
@@ -4640,7 +4584,7 @@ McMurdoc, M. ------------- 24,00 $&#xD;
       <EDID>DN135_GwinnettBreweryTerminal1</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Clock in/out</Source>
-      <Dest>Příchod/odchod</Dest>
+      <Dest>Příchod / odchod</Dest>
     </String>
     <String List="0" sID="0288BF">
       <EDID>DN135_GwinnettBreweryTerminal4</EDID>
@@ -4652,7 +4596,7 @@ McMurdoc, M. ------------- 24,00 $&#xD;
       <EDID>DN135_GwinnettBarTerminal2</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Craft Wing Tours</Source>
-      <Dest>Prohlídky rukodělného křídla</Dest>
+      <Dest>Prohlídky řemeslného pivovaru</Dest>
     </String>
     <String List="0" sID="028919">
       <EDID>DN135_GwinnettBrewerySubTermDeliveries</EDID>
@@ -4694,11 +4638,11 @@ Zjištěny úniky ve varných kádích. Systém nyní není provozuschopný.&#xD
 Craft Wing Tour Price - $59&#xD;
 &#xD;
 Hours Noon - 8:00 PM</Source>
-      <Dest>Prohlídky rukodělného křídla mohou být prováděny školenými uvaděči nebo hosteskami, a to, jak je garantováno, každou půlhodinu. Prohlídka rukodělného křídla zahrnuje sezónní ochutnávač, podávaný po závěru prohlídky.&#xD;
+      <Dest>Prohlídky řemeslného pivovaru jsou prováděny školenými průvodci a průvodkyněmi každou půlhodinu. Prohlídka řemeslného pivovaru zahrnuje sezónní ochutnávky, podávané na závěr prohlídky.&#xD;
 &#xD;
-Cena prohlídky rukodělného křídla - 59 $&#xD;
+Cena prohlídky řemeslného pivovaru - 59 $&#xD;
 &#xD;
-Hodiny poledne - 20:00</Dest>
+Prohlídky se konejí mezi 12:00 a 20:00.</Dest>
     </String>
     <String List="0" sID="028970">
       <EDID>DN135_GwinnettBarTerminal</EDID>
@@ -4708,7 +4652,7 @@ Hodiny poledne - 20:00</Dest>
 Employees please take notice that we will have contracters in the first week of November to repair in the kitchen wall. Hosts guiding tours through the Craft &amp; Seasonal Wing must require all patrons to wear head protection until repairs are complete.</Source>
       <Dest>RE: Díra v kuchyňské zdi&#xD;
 &#xD;
-Zaměstnanci, prosíme, berte na vědomí, že první listopadový týden zde budeme mít řemeslníky kvůli opravám kuchyňské zdi. Hostitelé, provádějící přes rukodělné &amp; sezónní křídlo, musí po všech hostech vyžadovat nošení ochrany hlavy, dokud nebudou opravy kompletní.</Dest>
+Zaměstnanci, prosím, berte na vědomí, že první listopadový týden zde budou řemeslníci kvůli opravám kuchyňské zdi. Dokud nebudou opravy dokončeny, musí průvodci po návštěvnících řemeslného a sezónního pivovaru vyžadovat nošení ochranných pomůcek hlavy.</Dest>
     </String>
     <String List="0" sID="028988">
       <EDID>DN135_GwinnettBarTerminal2</EDID>
@@ -4744,7 +4688,7 @@ Zaměstnanci, prosíme, berte na vědomí, že první listopadový týden zde bu
       <EDID>DN135_GwinnettBreweryTerminal1</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Main Brewery Wing</Source>
-      <Dest>Hlavní pivovarské křídlo</Dest>
+      <Dest>Hlavní pivovar</Dest>
     </String>
     <String List="0" sID="028A72">
       <EDID>DN135_GwinnettBreweryTerminal3</EDID>
@@ -4754,7 +4698,7 @@ Zaměstnanci, prosíme, berte na vědomí, že první listopadový týden zde bu
 Please seek technical assistance.&#xD;
 &#xD;
 === Main Menu ===</Source>
-      <Dest>CHYBA SYSTÉMU: Není možné navázat komunikaci s varným vybavením.&#xD;
+      <Dest>CHYBA SYSTÉMU: Navázání spojení s varným vybavením se nezdařilo.&#xD;
 &#xD;
 Prosíme, vyhledejte technickou pomoc.&#xD;
 &#xD;
@@ -4770,7 +4714,7 @@ Prosíme, vyhledejte technickou pomoc.&#xD;
       <EDID>DN135_GwinnettBreweryTerminal4</EDID>
       <REC>TERM:FULL</REC>
       <Source>Brewing Systems</Source>
-      <Dest>Varný systém</Dest>
+      <Dest>Varné systémy</Dest>
     </String>
     <String List="0" sID="028ACF">
       <EDID>DN135DoorOverride</EDID>
@@ -4782,7 +4726,7 @@ Prosíme, vyhledejte technickou pomoc.&#xD;
       <EDID>DN135_GwinnettBreweryTerminal2</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Main Brewery Wing</Source>
-      <Dest>Hlavní pivovarské křídlo</Dest>
+      <Dest>Hlavní pivovar</Dest>
     </String>
     <String List="0" sID="028B0E">
       <EDID>DN135_GwinnettBreweryTerminal1</EDID>
@@ -4814,9 +4758,9 @@ Frekvence dodávek: týdně&#xD;
 Standardní dodávka: &#xD;
 Gwinnett Světlé - 120 sudů&#xD;
 Peabodyjský Pilsner - 100 sudů&#xD;
-Světlé pivo Mrtvý červenokabátník -  90 sudů&#xD;
+Mrtvý červenokabátník -  90 sudů&#xD;
 &#xD;
-Poznámky: Pro zajištění dostatečné zásoby, pokračují dodávky i mimo sezónu. Dodávky jsou prováděny hlavním vchodem v 17 hodin přesně. Zaměstnanci hřiště jsou zodpovědni za přesun sudů.</Dest>
+Poznámky: Pro zajištění dostatečné zásoby pokračují dodávky i mimo sezónu a při zápasech mimo město. Dodávky jsou vykládány u hlavního vchodu přesně v 17:00. Následný přesun sudů provádějí již zaměstnanci stadionu.</Dest>
     </String>
     <String List="0" sID="028B2B">
       <EDID>DN135_GwinnettBreweryTerminal2</EDID>
@@ -4832,11 +4776,11 @@ Poznámky: Pro zajištění dostatečné zásoby, pokračují dodávky i mimo se
 Craft Wing Tour Price - $59&#xD;
 &#xD;
 Hours Noon - 8:00 PM</Source>
-      <Dest>Prohlídky rukodělného křídla mohou být prováděny školenými uvaděči nebo hosteskami, a to, jak je garantováno, každou půlhodinu. Prohlídka rukodělného křídla zahrnuje sezónní ochutnávač, podávaný po závěru prohlídky.&#xD;
+      <Dest>Prohlídky řemeslného pivovaru jsou prováděny školenými průvodci a průvodkyněmi každou půlhodinu. Prohlídka řemeslného pivovaru zahrnuje sezónní ochutnávky, podávané na závěr prohlídky.&#xD;
 &#xD;
-Cena prohlídky rukodělného křídla - 59 $&#xD;
+Cena prohlídky řemeslného pivovaru - 59 $&#xD;
 &#xD;
-Hodiny poledne - 20:00</Dest>
+Prohlídky se konejí mezi 12:00 a 20:00.</Dest>
     </String>
     <String List="0" sID="028B8E">
       <EDID>DN135_GwinnettBreweryTerminal2</EDID>
@@ -4851,9 +4795,9 @@ Hodiny poledne - 20:00</Dest>
 &#xD;
 I've tried everything here. The main OS seems to be operating correctly, and I've checked the full length of the wired connections and they are fine too, but it can't seem to connect to the brewing vats... I swear I haven't had this much trouble since I tried to hook up a printer at home.&#xD;
 </Source>
-      <Dest>Než sem dostanu technika, tak prostě musíme používat hlavní ovládací konzoli ve stropních kopulích. &#xD;
+      <Dest>Než sem dostanu technika, tak prostě musíme používat hlavní ovládací konzoli v technických místnostech na střeše. &#xD;
 &#xD;
-Zkusil jsem snad všechno. Základní operační systém vypadá, že funguje. Komunikační kabely jsem zkontroloval po celé jejich délce, a jsou také v pořádku, ale nějak se prostě nedaří spojit s varnými káděmi... tolik problémů jsem snad neměl od doby, kdy jsem se pokoušel doma zapojit tiskárnu.</Dest>
+Zkusil jsem tu snad všechno. Základní operační systém vypadá, že funguje. Komunikační kabely jsem zkontroloval po celé jejich délce a jsou také v pořádku, ale nějak se prostě nedaří spojit s varnými káděmi... tolik problémů jsem snad neměl od doby, kdy jsem se pokoušel doma zapojit tiskárnu.</Dest>
     </String>
     <String List="0" sID="028BB6">
       <EDID>DN135_GwinnettBrewerySubTermDeliveries</EDID>
@@ -4868,34 +4812,34 @@ Dead Redcoat Ale - 6 Half Barrel Kegs&#xD;
 Bunker Hill Brew - 6 Half Barrel Kegs&#xD;
 &#xD;
 Notes: Delivery Permit required to park on State Street.</Source>
-      <Dest>Klient: Hotel Rexford&#xD;
-Frekvence dodávek: Měsíčně&#xD;
+      <Dest>Klient: hotel Rexford&#xD;
+Frekvence dodávek: měsíčně&#xD;
 &#xD;
 Standardní dodávka: &#xD;
 Gwinnett Světlé - 8 sudů&#xD;
 Peabodyjský Pilsner - 6 sudů&#xD;
-Světlé pivo Mrtvý červenokabátník - 6 sudů&#xD;
+Mrtvý červenokabátník - 6 sudů&#xD;
 Bunker Hill Brew - 6 sudů&#xD;
 &#xD;
-Poznámky: Zásobovací povolení je vyžadováno pro parkování na State street.</Dest>
+Poznámky: Pro parkování na State Street je potřeba zásobovací povolení.</Dest>
     </String>
     <String List="0" sID="028BBE">
       <EDID>DN135_GwinnettBarTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Current Bar Tabs</Source>
-      <Dest>Současné barové účty</Dest>
+      <Dest>Aktuální barové účty</Dest>
     </String>
     <String List="0" sID="028BCC">
       <EDID>DN135_GwinnettBreweryTerminal3</EDID>
       <REC>TERM:FULL</REC>
       <Source>Brewing Systems</Source>
-      <Dest>Varný systém</Dest>
+      <Dest>Varné systémy</Dest>
     </String>
     <String List="0" sID="028BD6">
       <EDID>DN135_GwinnettBreweryTerminal1</EDID>
       <REC>TERM:FULL</REC>
       <Source>Brewery Terminal</Source>
-      <Dest>Pivovarský terminál</Dest>
+      <Dest>Terminál pivovaru</Dest>
     </String>
     <String List="0" sID="028BE0">
       <EDID>DN135_GwinnettBreweryTerminal2</EDID>
@@ -4903,7 +4847,7 @@ Poznámky: Zásobovací povolení je vyžadováno pro parkování na State stree
       <Source>Please inform any patrons who are without a ticket that they may obtain one by speaking with the hosting staff from the restaurant. Patrons arriving for a tour more than 10 minutes before the scheduled start time should be asked to wait outside.&#xD;
 &#xD;
 === Main Menu ===</Source>
-      <Dest>Prosíme, uvědomte hosty bez lístku, že lístek mohou obdržet po rozhovoru s personálem z restaurace. Hosté přicházející na prohlídku o více než 10 minut dříve, by měli být vyzváni k čekání venku. &#xD;
+      <Dest>Prosíme, uvědomte návštěvníky bez lístku, že lístek si mohou zařídit u personálu v restauraci. Navštěvníci přicházející na prohlídku s větším než 10 minutovým předstihem, by měli být vyzváni k čekání venku.&#xD;
 &#xD;
 === Hlavní nabídka ===</Dest>
     </String>
@@ -4911,7 +4855,7 @@ Poznámky: Zásobovací povolení je vyžadováno pro parkování na State stree
       <EDID>DN135_GwinnettBarTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Bar Terminal</Source>
-      <Dest>Terminál baru</Dest>
+      <Dest>Barový terminál</Dest>
     </String>
     <String List="0" sID="028C08">
       <EDID>DN135_GwinnettBreweryTerminal3</EDID>
@@ -4923,7 +4867,7 @@ Poznámky: Zásobovací povolení je vyžadováno pro parkování na State stree
       <EDID>DN135_GwinnettBreweryTerminal2</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Craft Wing Tours</Source>
-      <Dest>Prohlídky rukodělného křídla</Dest>
+      <Dest>Prohlídky řemeslného pivovaru</Dest>
     </String>
     <String List="0" sID="028C0E">
       <EDID>DN135_GwinnettBarTerminal</EDID>
@@ -4945,11 +4889,11 @@ Poznámky: Zásobovací povolení je vyžadováno pro parkování na State stree
 Craft Wing Tour Price - $59&#xD;
 &#xD;
 Hours Noon - 8:00 PM</Source>
-      <Dest>Prohlídky rukodělného křídla mohou být prováděny školenými uvaděči nebo hosteskami, a to, jak je garantováno, každou půlhodinu. Prohlídka rukodělného křídla zahrnuje sezónní ochutnávač, podávaný po závěru prohlídky.&#xD;
+      <Dest>Prohlídky řemeslného pivovaru jsou prováděny školenými průvodci a průvodkyněmi každou půlhodinu. Prohlídka řemeslného pivovaru zahrnuje sezónní ochutnávky, podávané na závěr prohlídky.&#xD;
 &#xD;
-Cena prohlídky rukodělného křídla - 59 $&#xD;
+Cena prohlídky řemeslného pivovaru - 59 $&#xD;
 &#xD;
-Hodiny poledne - 20:00</Dest>
+Prohlídky se konejí mezi 12:00 a 20:00.</Dest>
     </String>
     <String List="0" sID="028C33">
       <EDID>DN135_GwinnettBreweryTerminal3</EDID>
@@ -4969,21 +4913,21 @@ Southie Stout - 5 Half Barrel Kegs&#xD;
 Bunker Hill Brew - 5 Half Barrel Kegs&#xD;
 &#xD;
 Notes: Deliveries are to be made through alley entrance near the waterfront. Speak with proprieter for key.</Source>
-      <Dest>Klient: Pivnice Trojlístek&#xD;
-Frekvence dodávek: Každé dva týdny&#xD;
+      <Dest>Klient: pivnice Trojlístek&#xD;
+Frekvence dodávek: každé dva týdny&#xD;
 &#xD;
 Standardní dodávka: &#xD;
 Gwinnett Světlé - 10 sudů&#xD;
 Southie Stout  - 5 sudů&#xD;
 Bunker Hill Brew - 5 sudů&#xD;
 &#xD;
-Poznámky: Dodávky se doručují přes vchod z uličky, poblíž nábřeží. Promluvte si se správcem pozemku kvůli klíči.</Dest>
+Poznámky: Dodávky se doručují přes vchod z uličky poblíž nábřeží. Na klíč se ptejte u správce pozemku.</Dest>
     </String>
     <String List="0" sID="028C41">
       <EDID>DN135_GwinnettBreweryTerminal4</EDID>
       <REC>TERM:UNAM</REC>
       <Source>It's been a few weeks since the bombs fell. My eyesight has come back a bit, but my hearing is still gone. Everything has gone to shit. We holed up in the restaurant for a while, but when looters broke in yesterday and Melissa locked herself in the utility closet. I managed to pop the grating off the pipe in the craft wing and get out to the main brewery, but now I'm trapped up here on the roof. I don't know how much longer I can hold out.</Source>
-      <Dest>Už je to pár týdnů od chvíle, kdy spadly bomby. Trošku se mi vrátil zrak, ale sluch je stále v háji. Všechno se podělalo. Nějakou dobu jsme se schovávali v restrauraci, ale včera se rabovači dostali dovnitř a Melissa se zamkla v údržbářské komoře. Podařilo se mi vylomit mříž z roury ve výrobním křídle a utéct do hlavní budovy pivovaru, ale teď jsem uvězněn tady na střeše. Nevím, jak dlouho tu vydržím.</Dest>
+      <Dest>Už je to pár týdnů od chvíle, kdy spadly bomby. Trošku se mi vrátil zrak, ale sluch je stále v háji. Všechno se podělalo. Nějakou dobu jsme se schovávali v restrauraci, ale včera se rabovači dostali dovnitř a Melissa se zamkla v údržbářské komoře. Podařilo se mi vylomit mříž z roury v řemeslném pivovaru a utéct do budovy hlavního pivovaru, ale teď jsem uvězněn tady na střeše. Nevím, jak dlouho tu vydržím.</Dest>
     </String>
     <String List="0" sID="028C49">
       <EDID>DN135_GwinnettBarTerminal</EDID>
@@ -4999,15 +4943,15 @@ Souvenir Glass          $35&#xD;
 T-Shirt                 $65&#xD;
 &#xD;
 See manager regarding wholesale prices.</Source>
-      <Dest>==  Ceník piva a zboží  ==&#xD;
-               Běžný           Sezónní&#xD;
+      <Dest>==  Ceník piva a suvenýrů  ==&#xD;
+               Běžné           Sezónní&#xD;
 Pinta           39 $           55 $&#xD;
 Balení po 6    199 $          249 $&#xD;
 Malý sud       435 $          499 $&#xD;
 Sud            635 $          799 $&#xD;
 &#xD;
-Sklenice, suvenýr              35 $&#xD;
-Triko                           5 $&#xD;
+Památeční sklenice              35 $&#xD;
+Triko                           65 $&#xD;
 &#xD;
 Na velkoobchodní ceny se ptejte vedoucího.</Dest>
     </String>
@@ -5027,7 +4971,7 @@ Note: With the exception of special tours with the Master Brewer, all tours are 
 === Main Menu ===</Source>
       <Dest>Pouze pro zaměstnance&#xD;
 &#xD;
-Vzkaz: S výjimkou zvláštních prohlídek se sládkem, budou všechny prohlídky provedeny hostitelským personálem z restaurace, nikoli varnými zaměstnanci.&#xD;
+Poznámka: S výjimkou zvláštních prohlídek se sládkem, mají být všechny prohlídky vedeny průvodcovským personálem z restaurace, nikoliv zaměstnanci pivovaru.&#xD;
 &#xD;
 === Hlavní nabídka ===</Dest>
     </String>
@@ -5742,7 +5686,7 @@ Všechna sláva Atomu!</Dest>
       <EDID>Dn136_ElevatorMaster</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Default Dummy</Source>
-      <Dest>Výchozí panák</Dest>
+      <Dest>Default Dummy</Dest>
     </String>
     <String List="0" sID="029FA1">
       <EDID>DN072_LighthouseTerminal</EDID>
@@ -6248,7 +6192,7 @@ Musím říct, že jsme si to tady dole dobře zařídili. Rozhodně je to lepš
       <EDID>DN131_Commons_Note02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Torn Letter</Source>
-      <Dest>Potrhaný dopis</Dest>
+      <Dest>Roztržený dopis</Dest>
     </String>
     <String List="0" sID="02B53E">
       <EDID>DN080_BossChestKey</EDID>
@@ -6398,7 +6342,7 @@ Prosím zadejte váš příkaz:</Dest>
       <EDID>DN131_Commons_FugitivesHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Fugitives' Holotape</Source>
-      <Dest>Uprchlíkova holopáska</Dest>
+      <Dest>Nahrávka uprchlíků</Dest>
     </String>
     <String List="0" sID="02BB38">
       <EDID>DN096_NationalGuardArmoryAccessTerminal</EDID>
@@ -6682,12 +6626,6 @@ Mullins, Chad       15.09.2051          3,6</Dest>
       <REC id="0">TERM:ITXT</REC>
       <Source>My Journal</Source>
       <Dest>Můj Denník</Dest>
-    </String>
-    <String List="0" sID="02C094">
-      <EDID>DN088_JaqcsSubTerminalJournal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
     </String>
     <String List="0" sID="02C096">
       <EDID>DN088_StudentRecordsSubTerminal03</EDID>
@@ -7196,7 +7134,7 @@ POZNÁMKA: Připomenout Curtisovi, že má zjistit datum narození Leslie, a to,
       <EDID>DN088_MayorsTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Logs...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamům...</Dest>
     </String>
     <String List="0" sID="02C11C">
       <EDID>DN088_StudentRecordsSubTerminal03</EDID>
@@ -8588,7 +8526,7 @@ Těžko uvěřit, že jsem strávil všechny ty roky tady dole ve sklepě. No, a
       <EDID>DN070_Flag_American_TrifoldBox</EDID>
       <REC>MISC:FULL</REC>
       <Source>Anchorage Veteran's Flag</Source>
-      <Dest>Vlajka veteránů z Anchorage</Dest>
+      <Dest>Vlajka veterána z Anchorage</Dest>
     </String>
     <String List="0" sID="02DB3A">
       <EDID>DN089OperatingTheaterTerminal</EDID>
@@ -8728,7 +8666,7 @@ OVLÁDÁNÍ OPERAČNÍHO SÁLU NEMOCNICE MEDFORD MEMORIAL&#xD;
       <EDID>DN070_TerminalSecurity02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="02DDA7">
       <EDID>DN089OperatingTheaterTerminal</EDID>
@@ -8752,13 +8690,13 @@ OVLÁDÁNÍ OPERAČNÍHO SÁLU NEMOCNICE MEDFORD MEMORIAL&#xD;
       <EDID>DN136_BioScienceControlTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>...Unable to Connect to Specimen Security Door</Source>
-      <Dest>...připojení k bezpečnostním dveřím vzorků není možné</Dest>
+      <Dest>...připojení k bezpečnostním dveřím jedinců se nezdařilo</Dest>
     </String>
     <String List="0" sID="02DF19">
       <EDID>DN136_BioScienceControlTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>...Unable to Connect to Automated Turret Defense System in BioScience</Source>
-      <Dest>...připojení k systému automatických obraných věží v oddělení biovědy není možné</Dest>
+      <Dest>...připojení k systému automatických obraných věží v oddělení biovědy se nezdařilo</Dest>
     </String>
     <String List="0" sID="02DF73">
       <EDID>DN136_BioScienceControlTerminal</EDID>
@@ -8821,7 +8759,7 @@ VAROVÁNÍ: SELHÁNÍ SYSTÉMU&#xD;
 ...Unable to Access Logs&#xD;
 </Source>
       <Dest>...selhání systému&#xD;
-...přístup k záznamům není možný</Dest>
+...přístup k záznamům se nezdařil</Dest>
     </String>
     <String List="0" sID="02E5CD">
       <EDID>DN101_PickmanCallingCardNote</EDID>
@@ -8833,7 +8771,7 @@ VAROVÁNÍ: SELHÁNÍ SYSTÉMU&#xD;
       <EDID>DN136_BioScienceControlTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Initiate Specimen Release</Source>
-      <Dest>Zahájit vypuštění vzorků</Dest>
+      <Dest>Zahájit vypuštění jedinců</Dest>
     </String>
     <String List="0" sID="02E6F1">
       <EDID>DN120_SafeKeyPlants</EDID>
@@ -9041,7 +8979,7 @@ Randall,   201: pod připevněnou hlavou jelena.</Dest>
       <EDID>DN131_crSwanPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Swan Rad Heal</Source>
-      <Dest>Labuťákovo radiační léčení</Dest>
+      <Dest>Labuťákovo léčení radiace</Dest>
     </String>
     <String List="0" sID="02FA73">
       <EDID>DN121PowerArmorFurnitureSlag</EDID>
@@ -9276,7 +9214,7 @@ Už se necítím na to, že bych dál psal.</Dest>
       <EDID>DN129_RobotTerminalPersonalitySubmenu</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Return for Maintenance Protocols</Source>
-      <Dest>Protokoly návratu k údržbě</Dest>
+      <Dest>Protokoly návratu do servisu</Dest>
     </String>
     <String List="0" sID="030B80">
       <EDID>DN076_WireTerminal</EDID>
@@ -9324,8 +9262,8 @@ Jenže spravedlnost mým lidem do úst jídlo nedá.</Dest>
 ...Returning to Maintenance Facility: Hester's Consumer Robotics...&#xD;
 </Source>
       <Dest>...čekání na odezvu jednotky Pan Šikulka... &#xD;
-...vysílání protokolů údržby...&#xD;
-...návrat do údržbářského zařízení: Hesterova spotřebitelská robotika...</Dest>
+...odesílání protokolů návratu do servisu...&#xD;
+...návrat do servisního zařízení: Hesterova spotřebitelská robotika...</Dest>
     </String>
     <String List="0" sID="030C4D">
       <EDID>DN129_RobotTerminalControlSubmenu</EDID>
@@ -9334,7 +9272,7 @@ Jenže spravedlnost mým lidem do úst jídlo nedá.</Dest>
 ...Broadcasting activation signal... &#xD;
 </Source>
       <Dest>...čekání na odezvu jednotky Pan Šikulka... &#xD;
-...vysílání aktivačního signálu...</Dest>
+...odesílání aktivačního signálu...</Dest>
     </String>
     <String List="0" sID="030CAB">
       <EDID>DN129_RobotTerminalControlSubmenu</EDID>
@@ -9358,13 +9296,13 @@ Jenže spravedlnost mým lidem do úst jídlo nedá.</Dest>
       <EDID>DN129_RobotTerminalControlSubmenu</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Loading Protocol Matrices...</Source>
-      <Dest>Načítání matricí protokolu...</Dest>
+      <Dest>Načítání protokolových matic...</Dest>
     </String>
     <String List="0" sID="030CD6">
       <EDID>DN129_RobotTerminalControlSubmenu</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Choose Protocols</Source>
-      <Dest>Vyberte protokol</Dest>
+      <Dest>Vyberte protokoly</Dest>
     </String>
     <String List="0" sID="030CD8">
       <EDID>DN129_RobotTerminalControlSubmenu</EDID>
@@ -9426,7 +9364,7 @@ Ne. Dneska to končí. Dnes se já a mí kluci ukážeme.</Dest>
       <Source>...Pinging Mr. Handy Unit... &#xD;
 ...Broadcasting "Just Be" protocols... </Source>
       <Dest>...čekání na odezvu jednotky Pan Šikulka... &#xD;
-...vysílání „Prostě buď“ protokolů...</Dest>
+...odesílání protokolů „prostě buď“...</Dest>
     </String>
     <String List="0" sID="030D2B">
       <EDID>DN076_WireTerminal</EDID>
@@ -9440,7 +9378,7 @@ Ne. Dneska to končí. Dnes se já a mí kluci ukážeme.</Dest>
       <Source>...Pinging Mr. Handy Unit... &#xD;
 ...Broadcasting shut-down signal... </Source>
       <Dest>...čekání na odezvu jednotky Pan Šikulka... &#xD;
-...vysílání vypínacího signálu...</Dest>
+...odesílání vypínacího signálu...</Dest>
     </String>
     <String List="0" sID="030D96">
       <EDID>DN129_RobotTerminalPersonalitySubmenu</EDID>
@@ -9450,9 +9388,9 @@ Ne. Dneska to končí. Dnes se já a mí kluci ukážeme.</Dest>
 ...Identifying resident to guard...&#xD;
 ...Broadcasting resident location...</Source>
       <Dest>...čekání na odezvu jednotky Pan Šikulka... &#xD;
-...vysílání obranných protokolů...&#xD;
+...odesílání protokolů obrany...&#xD;
 ...identifikace občana k ochraně...&#xD;
-...vysílání občanovy pozice...</Dest>
+...odesílání občanovy pozice...</Dest>
     </String>
     <String List="0" sID="030DB1">
       <EDID>DN121_BossTerminal</EDID>
@@ -9919,12 +9857,6 @@ Tato místnost se stane záložním léčícím místem, společně se skladem. 
       <Source>Park Protectron Control Terminal</Source>
       <Dest>Terminál ovládání protektrona parku</Dest>
     </String>
-    <String List="0" sID="0317B9">
-      <EDID>DN088_VaultTerminal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
-    </String>
     <String List="0" sID="0317CE">
       <EDID>DN088_MayorsSubTerminalCouncil</EDID>
       <REC id="1">TERM:ITXT</REC>
@@ -10188,26 +10120,26 @@ Park pionýrů robotiky&#xD;
 ...&#xD;
 ...Radiation Purge System Deactivation Protocol 398 Successful</Source>
       <Dest>...spojení navázáno&#xD;
-...spouštění protokolu deaktivace výplachu radiace 398&#xD;
+...spouštění protokolu pro odstranění radiace 398&#xD;
 ...&#xD;
-...ventilační systémy OFFLINE&#xD;
-...dekontaminační systémy OFFLINE&#xD;
+...ventilační systémy jsou NEAKTIVNÍ&#xD;
+...dekontaminační systémy jsou NEAKTIVNÍ&#xD;
 ...&#xD;
 ...úroveň radiace se zvyšuje&#xD;
 ...&#xD;
-...protokol deaktivace systému výplachu radiace 398 úspěšný</Dest>
+...protokol pro deaktivaci systému na odstranění radiace 398 byl úspěšný</Dest>
     </String>
     <String List="0" sID="031B43">
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Initiate Reactor Shutdown Sequence</Source>
-      <Dest>Spustit sekvenci vypnutí reaktoru</Dest>
+      <Dest>Zahájit sekvenci pro odstavení reaktoru</Dest>
     </String>
     <String List="0" sID="031B52">
       <EDID>DN136_ReactorTerminalPassword</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Reactor Terminal Password</Source>
-      <Dest>Heslo od terminálu reaktoru</Dest>
+      <Dest>Heslo k terminálu reaktoru</Dest>
     </String>
     <String List="0" sID="031B5E">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10218,7 +10150,7 @@ Park pionýrů robotiky&#xD;
 -----</Source>
       <Dest>...&#xD;
 ...spojení s reaktorem navázáno&#xD;
-...stav reaktoru: OFFLINE&#xD;
+...stav reaktoru: MIMO PROVOZ&#xD;
 -----</Dest>
     </String>
     <String List="0" sID="031B6B">
@@ -10231,7 +10163,7 @@ Park pionýrů robotiky&#xD;
       <EDID>DN136_ReactorTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>establishing connection...</Source>
-      <Dest>navazuji spojení...</Dest>
+      <Dest>navazování spojení...</Dest>
     </String>
     <String List="0" sID="031B6F">
       <EDID>DN070_TerminalTreasuresRoom</EDID>
@@ -10250,10 +10182,10 @@ Decontamination Systems ONLINE&#xD;
 ----Warning: Exercise caution when entering Reactor Chamber regardless of radiation levels.</Source>
       <Dest>Úroveň radiace - NÍZKÁ&#xD;
 &#xD;
-Ventilační systémy ONLINE&#xD;
-Dekontaminační systémy ONLINE&#xD;
+Ventilační systémy jsou AKTIVNÍ&#xD;
+Dekontaminační systémy jsou AKTIVNÍ&#xD;
 &#xD;
-----Varování: Bez ohledu na úroveň radiace dbejte opatrnosti při vstupu do komory reaktoru.</Dest>
+----Varování: Při vstupu do komory reaktoru dbejte zvýšené opatrnosti bez ohledu na úroveň radiace.</Dest>
     </String>
     <String List="0" sID="031BC7">
       <EDID>DN136_ReactorOverlookTerminal</EDID>
@@ -10271,7 +10203,7 @@ Dekontaminační systémy ONLINE&#xD;
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Initiating Shutdown Protocol...</Source>
-      <Dest>Zavádím vypínací protokol...</Dest>
+      <Dest>Zahajuji odstavovací protokol...</Dest>
     </String>
     <String List="0" sID="031C30">
       <EDID>DN136_ReactorTerminal</EDID>
@@ -10287,9 +10219,9 @@ High levels of radiation are likely present in reactor chamber.&#xD;
 Check current status of radiation levels before entering.&#xD;
 Use of proper radiation protection, regardless of radiation levels, is highly encouraged.</Source>
       <Dest>---- VAROVÁNÍ ----&#xD;
-V komoře reaktoru je pravděpodobně vysoká úroveň radiace.&#xD;
+V komoře reaktoru je s velkou pravděpodobností vysoká úroveň radiace.&#xD;
 Před vstupem zkontrolujte současný stav úrovně radiace.&#xD;
-Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protiradiační ochranu.</Dest>
+Použití řádné protiradiační ochrany je důrazně doporučeno, bez ohledu na úroveň radiace.</Dest>
     </String>
     <String List="0" sID="031C84">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10302,14 +10234,14 @@ Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protir
 ...Reactor Startup Successful&#xD;
 -----------------------&#xD;
 Warning - Excercise extreme caution when entering Reactor Chamber.</Source>
-      <Dest>...protokol spuštění reaktoru aktivován&#xD;
+      <Dest>...Protokol pro spuštění reaktoru byl aktivován&#xD;
 ...&#xD;
-...spouštění&#xD;
-...úroveň radiace se zvyšuje&#xD;
+...porobíhá spouštění&#xD;
+...úroveň radiace stoupá&#xD;
 ...&#xD;
-...spuštění reaktoru úspěšné&#xD;
+...spuštění reaktoru bylo úspěšné&#xD;
 -----------------------&#xD;
-Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
+Upozornění - Při vstupu do komory reaktoru dbejte zvýšené opatrnosti.</Dest>
     </String>
     <String List="0" sID="031C92">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10319,7 +10251,7 @@ Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
 ----Warning: Exercise caution when entering Reactor regardless of radiation levels.</Source>
       <Dest>Úroveň radiace uvnitř reaktoru - VYSOKÁ&#xD;
 &#xD;
-----Varování: Bez ohledu na úroveň radiace dbejte opatrnosti při vstupu do komory reaktoru.</Dest>
+----Upozornění: Při vstupu do reaktoru dbejte zvýšené opatrnosti bez ohledu na stupeň radiace.</Dest>
     </String>
     <String List="0" sID="031CC1">
       <EDID>DN070_TerminalTreasuresRoom</EDID>
@@ -10331,7 +10263,7 @@ Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
       <EDID>DN136_ReactorOverlookTerminalSub01</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>establishing connection...</Source>
-      <Dest>navazuji spojení...</Dest>
+      <Dest>navazování spojení...</Dest>
     </String>
     <String List="0" sID="031D4B">
       <EDID>DN136_RR_InstituteSynthGen3Female02</EDID>
@@ -10343,7 +10275,7 @@ Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
       <EDID>DN136_ReactorOverlookTerminalSub01</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>establishing connection...</Source>
-      <Dest>navazuji spojení...</Dest>
+      <Dest>navazování spojení...</Dest>
     </String>
     <String List="0" sID="031DBA">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10368,34 +10300,34 @@ Decontamination Systems OFFLINE&#xD;
 ----Warning: Exercise caution when entering Reactor Chamber regardless of radiation levels.</Source>
       <Dest>Úroveň radiace - VYSOKÁ&#xD;
 &#xD;
-Ventilační systémy OFFLINE&#xD;
-Dekontaminační systémy OFFLINE&#xD;
+Ventilační systémy jsou NEAKTIVNÍ&#xD;
+Dekontaminační systémy jsou NEAKTIVNÍ&#xD;
 &#xD;
-----Varování: Bez ohledu na úroveň radiace dbejte opatrnosti při vstupu do komory reaktoru.</Dest>
+----Varování: Při vstupu do komory reaktoru dbejte zvýšené opatrnosti bez ohledu na úroveň radiace.</Dest>
     </String>
     <String List="0" sID="031DF6">
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="031E1F">
       <EDID>DN136_ReactorOverlookTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="031E27">
       <EDID>DN136_ReactorOverlookTerminalSub01</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Activate Radiation Purge System</Source>
-      <Dest>Aktivovat systém výplachu radiace</Dest>
+      <Dest>Aktivovat systém pro odstranění radiace</Dest>
     </String>
     <String List="0" sID="031E2E">
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="031E37">
       <EDID>DN136_ReactorOverlookTerminal</EDID>
@@ -10405,21 +10337,21 @@ High levels of radiation are likely present in reactor chamber.&#xD;
 Check current status of radiation levels before entering.&#xD;
 Use of proper radiation protection, regardless of radiation levels, is highly encouraged.</Source>
       <Dest>---- VAROVÁNÍ ----&#xD;
-V komoře reaktoru je pravděpodobně vysoká úroveň radiace.&#xD;
+V komoře reaktoru je s velkou pravděpodobností vysoká úroveň radiace.&#xD;
 Před vstupem zkontrolujte současný stav úrovně radiace.&#xD;
-Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protiradiační ochranu.</Dest>
+Použití řádné protiradiační ochrany je důrazně doporučeno, bez ohledu na úroveň radiace.</Dest>
     </String>
     <String List="0" sID="031E5D">
       <EDID>DN136_ReactorOverlookTerminalSub01</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Deactivate Radiation Purge System</Source>
-      <Dest>Deaktivovat systém výplachu radiace</Dest>
+      <Dest>Deaktivovat systém pro odstranění radiace</Dest>
     </String>
     <String List="0" sID="031E7A">
       <EDID>DN136_ReactorTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Importing Data...</Source>
-      <Dest>Importuji data...</Dest>
+      <Dest>Importování dat...</Dest>
     </String>
     <String List="0" sID="031EB9">
       <EDID>DN136_RR_InstituteSynthGen3Female01</EDID>
@@ -10440,14 +10372,14 @@ Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protir
 ...&#xD;
 ...Radiation Purge Activation Protocol 476 Successful</Source>
       <Dest>...spojení navázáno&#xD;
-...spouštění protokolu aktivace výplachu radiace 476&#xD;
+...spouštění protokolu pro odstranění radiace 476&#xD;
 ...&#xD;
-...ventilační systémy ONLINE&#xD;
-...dekontaminační systémy ONLINE&#xD;
+...ventilační systémy jsou AKTIVNÍ&#xD;
+...dekontaminační systémy jsou AKTIVNÍ&#xD;
 ...&#xD;
 ...úroveň radiace se snižuje&#xD;
 ...&#xD;
-...protokol aktivace systému výplachu radiace 476 úspěšný</Dest>
+...protokol pro odstranění radiace 476 byl úspěšný</Dest>
     </String>
     <String List="0" sID="031EE6">
       <EDID>DN136_ReactorOverlookTerminalSub01</EDID>
@@ -10463,7 +10395,7 @@ Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protir
 ----Warning: Exercise caution when entering Reactor regardless of radiation levels.</Source>
       <Dest>Úroveň radiace uvnitř reaktoru - NÍZKÁ&#xD;
 &#xD;
-----Varování: Bez ohledu na úroveň radiace dbejte opatrnosti při vstupu do komory reaktoru.</Dest>
+----Upozornění: Při vstupu do reaktoru dbejte zvýšené opatrnosti bez ohledu na stupeň radiace.</Dest>
     </String>
     <String List="0" sID="031F40">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10479,23 +10411,23 @@ Je vysoce doporučeno používat, nezávisle na úrovni radiace, řádnou protir
 ...Reactor Shutdown Successful&#xD;
 -----------------------&#xD;
 Warning - Excercise extreme caution when entering Reactor Chamber</Source>
-      <Dest>...protokol vypnutí reaktoru aktivován&#xD;
+      <Dest>...Protokol pro odstavení reaktoru byl aktivován&#xD;
 ...&#xD;
-...vypínání&#xD;
-...ventilační systémy Online&#xD;
-...dekontaminační systémy Online&#xD;
+...probíhá vypínání&#xD;
+...ventilační systémy jsou aktivní&#xD;
+...dekontaminační systémy jsou aktivní&#xD;
 ...&#xD;
-...úroveň radiace přijatelná&#xD;
+...úroveň radiace je přijatelná&#xD;
 ...&#xD;
-...vypnutí reaktoru úspěšné&#xD;
+...odstavení reaktoru bylo úspěšné&#xD;
 -----------------------&#xD;
-Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
+Varování: Při vstupu do komory reaktoru dbejte zvýšené opatrnosti.</Dest>
     </String>
     <String List="0" sID="031F55">
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Initiate Reactor Startup Sequence</Source>
-      <Dest>Spustit sekvenci zapnutí reaktoru</Dest>
+      <Dest>Zahájit sekvenci pro spuštění reaktoru</Dest>
     </String>
     <String List="0" sID="031F63">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10512,20 +10444,20 @@ Varování: Dbejte zvýšené opatrnosti při vstupu do komory reaktoru.</Dest>
 -----</Source>
       <Dest>...&#xD;
 ...spojení s reaktorem navázáno&#xD;
-...stav reaktoru: ONLINE&#xD;
+...stav reaktoru: V PROVOZU&#xD;
 -----</Dest>
     </String>
     <String List="0" sID="031F73">
       <EDID>DN130_HamRadioOFF</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Ham Radio</Source>
-      <Dest>Vysílačka</Dest>
+      <Dest>Radiostanice</Dest>
     </String>
     <String List="0" sID="031FA0">
       <EDID>DN136_ReactorTerminalSub01</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Initiating Startup Protocol...</Source>
-      <Dest>Zavádím spouštěcí protokol...</Dest>
+      <Dest>Zahájení spouštěcího protokolu...</Dest>
     </String>
     <String List="0" sID="031FAB">
       <EDID>DN136_ReactorTerminalSub01</EDID>
@@ -10652,7 +10584,7 @@ The Gunners attack almost daily now, but we've got food and supplies enough that
 </Source>
       <Dest>&#xD;
 ==================================================&#xD;
-=     &lt;uživatel „generál McGann“ přihlášen&gt;      =&#xD;
+=     &lt;uživatel „Generál McGann“ přihlášen&gt;      =&#xD;
 ==================================================&#xD;
 &#xD;
 &#xD;
@@ -10702,7 +10634,7 @@ Teď budeme muset přibrat a živit bandu vyžírků s laserovými mušketami, z
       <EDID>DN088_LabTerminalDELETE</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Logs...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamům...</Dest>
     </String>
     <String List="0" sID="03273D">
       <EDID>DN109_TerminalClintSubLogs</EDID>
@@ -10728,7 +10660,7 @@ Máš vůbec tušení o tom, co jsi udělala?! Vy pitomý spratci si myslíte, �
       <EDID>DN133_ArmoryDoorTerminalInner</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="03277F">
       <EDID>DN109_TerminalLongs</EDID>
@@ -10816,7 +10748,7 @@ Chyba Serveru: Není možné najít síť &#xD;
       <EDID>DN088_LabTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="032876">
       <EDID>DN109_TerminalHollis</EDID>
@@ -10834,13 +10766,13 @@ Chyba Serveru: Není možné najít síť &#xD;
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>BIOSCIENCE TERMINAL 4B</Source>
-      <Dest>TERMINÁL 4B ODDĚLENÍ BIOVĚDY</Dest>
+      <Dest>TERMINÁL 4B ODDĚLENÍ BIOLOGIE</Dest>
     </String>
     <String List="0" sID="0328A7">
       <EDID>DN136_ReactorTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>establishing connection...</Source>
-      <Dest>navazuji spojení...</Dest>
+      <Dest>navazování spojení...</Dest>
     </String>
     <String List="0" sID="0328A8">
       <EDID>DN109_TerminalClintSubLogs</EDID>
@@ -10876,7 +10808,7 @@ Mezitím Preston pomáhal Sloanovi a mně vyztužovat zdi. Škoda, že ta energo
       <EDID>DN088_LabTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="0328DB">
       <EDID>DN109_TerminalSturges</EDID>
@@ -11007,7 +10939,7 @@ Možná když dokážeme dostat ty energozbroje do provozuschopného stavu, pře
       <EDID>DN109_TerminalClintSubLogs</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Col. Hollis</Source>
-      <Dest>Pluk. Hollis</Dest>
+      <Dest>Plk. Hollis</Dest>
     </String>
     <String List="0" sID="032A5D">
       <EDID>DN088_LabTerminal</EDID>
@@ -11127,7 +11059,7 @@ Geralde, kolikrát ti mám vykládat, že ta tvá dcera bude tvůj konec? Řekla
       <EDID>DN088_GeraldsTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Logs...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamům...</Dest>
     </String>
     <String List="0" sID="032B5F">
       <EDID>DN109_TerminalLongs</EDID>
@@ -11172,13 +11104,7 @@ VAULT 81 Bezpečnostní přístup&#xD;
       <EDID>DN133_ArmoryDoorTerminalSubLogs</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
-    </String>
-    <String List="0" sID="032BC9">
-      <EDID>DN088_GeraldSubTerminalJournal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source> </Source>
-      <Dest> </Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="032BD1">
       <EDID>DN088_JaqcsSubTerminalMail</EDID>
@@ -11208,7 +11134,7 @@ VAULT 81 Bezpečnostní přístup&#xD;
       <EDID>DN088_LabTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="032C3D">
       <EDID>DN109_TerminalTessa</EDID>
@@ -11225,12 +11151,12 @@ My supplies have all run out, and I've given up hope that rescue is coming. The 
 &#xD;
 General McGann&#xD;
 Commonwealth Minutemen</Source>
-      <Dest>Toto pravděpodobně bude můj poslední záznam.&#xD;
-Došly mi všechny zásoby, vzdal jsem se naděje o tom, že by mě někdo přišel zachránit. Jedinou věcí, co zbyla, je stará bedna vína, kterou jsem našel. Vím, že to ještě zhorší mojí dehydrataci, ale v téhle situaci bych se raději setkal se svým osudem u přípitku.&#xD;
+      <Dest>Toto bude pravděpodobně můj poslední záznam.&#xD;
+Došly mi všechny zásoby, vzdal jsem naděje, že by mě někdo přišel zachránit. Jedinou věcí, co zbyla, je stará bedna vína, kterou jsem našel. Vím, že to ještě zhorší mojí dehydrataci, ale v téhle situaci bych se raději setkal se svým osudem u přípitku.&#xD;
 &#xD;
 &#xD;
-Generál McGann&#xD;
-Minutemani Commonwealthu</Dest>
+generál McGann&#xD;
+commonwealthský minuteman</Dest>
     </String>
     <String List="0" sID="032C54">
       <EDID>DN109_TerminalClintSubLogs</EDID>
@@ -11294,7 +11220,7 @@ Nechal jsem pluk. Hollise zajmout živého, abych mohl dokázat, že jsem s Minu
       <EDID>DN133_ArmoryDoorTerminalSubLogs</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Terminal</Source>
-      <Dest>Terminál ochranky</Dest>
+      <Dest>Bezpečnostní terminál</Dest>
     </String>
     <String List="0" sID="032D62">
       <EDID>DN109_TerminalLongs</EDID>
@@ -11363,7 +11289,7 @@ Nechal jsem pluk. Hollise zajmout živého, abych mohl dokázat, že jsem s Minu
       <REC id="0">TERM:UNAM</REC>
       <Source>Last night at about 0200 I was woken by a crash that shook the whole Castle. Lt. Foster reported that some huge creature had breached the western wall. I sent him to radio for reinforcements, while I used the tunnels to lock down the armory. Shortly after that a second crash caved in the only other exit from the tunnel. The only thing I can think of large enough to do that kind of damage is a Behemoth, and if Super Mutants have taken the courtyard, I can't risk the artillery falling into their hands. All I can do for now is set up defenses and wait for someone to dig me out.&#xD;
 </Source>
-      <Dest>Včera v noci, zhruba ve 02:00, jsem byl probuzen ránou, která zatřásla celým hradem. Poručík Foster ohlásil, že nějaké obrovské stvoření prorazilo západní zeď. Poslal jsem ho k vysílačce přivolat posily, mezitím jsem využil tunely a uzamkl zbrojnici. Krátce poté, druhá rána zavalila jediný východ z tunelu. Napadá mě jen jediná dost velká věc, která by dokázala nadělat tolik škod, behemot. A jestli nádvoří zabrali supermutanti, nemohu riskovat, že jim padne do rukou dělostřelectvo. Vše, co těď můžu dělat, je sestavit obranu a čekat, dokud mě někdo nevyhrabe.&#xD;
+      <Dest>Včera v noci, zhruba ve 02:00, jsem byl probuzen ránou, která zatřásla celým hradem. Poručík Foster ohlásil, že nějaké obrovské stvoření prorazilo západní zeď. Poslal jsem ho k vysílačce přivolat posily a já mezitím využil tunely, abych uzamkl zbrojnici. Krátce poté druhá rána zavalila můj jediný výlez z tunelu. Napadá mě jen jediná dost velká věc, která by dokázala nadělat tolik škod - behemot. A jestli nádvoří zabrali supermutanti, nemohu riskovat, že jim padne do rukou dělostřelectvo. Vše, co těď můžu dělat, je postavit obranu a čekat, dokud mě někdo nevyhrabe.&#xD;
 </Dest>
     </String>
     <String List="0" sID="032E80">
@@ -11376,7 +11302,7 @@ Nechal jsem pluk. Hollise zajmout živého, abych mohl dokázat, že jsem s Minu
       <EDID>DN088_LabTerminal</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="032E8C">
       <EDID>DN088_DeansSubTerminalMail</EDID>
@@ -11467,12 +11393,6 @@ Nechal jsem pluk. Hollise zajmout živého, abych mohl dokázat, že jsem s Minu
       <REC id="2">TERM:RNAM</REC>
       <Source>Loading Log...</Source>
       <Dest>Načítání záznamu...</Dest>
-    </String>
-    <String List="0" sID="032EF3">
-      <EDID>DN107_SecurityDoorTerminal</EDID>
-      <REC>TERM:WNAM</REC>
-      <Source>  </Source>
-      <Dest>  </Dest>
     </String>
     <String List="0" sID="032EF6">
       <EDID>DN088_GeraldsTerminal</EDID>
@@ -11638,7 +11558,7 @@ Nemůžu uvěřit, že prof. Campbell použil moje datum narození jako heslo, a
       <EDID>DN133_ArmoryDoorTerminalSubLogs</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Attacked in the night</Source>
-      <Dest>Noční útok</Dest>
+      <Dest>Noční přepadení</Dest>
     </String>
     <String List="0" sID="032FB2">
       <EDID>DN088_GeraldSubTerminalJournal</EDID>
@@ -11686,7 +11606,7 @@ Nemůžu uvěřit, že prof. Campbell použil moje datum narození jako heslo, a
       <EDID>DN133_ArmoryDoorTerminalSubLogs</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="03303F">
       <EDID>DN088_LabTerminalDELETE</EDID>
@@ -11710,7 +11630,7 @@ Nemůžu uvěřit, že prof. Campbell použil moje datum narození jako heslo, a
       <EDID>DN133_ArmoryDoorTerminalSubLogs</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="03306B">
       <EDID>DN109_TerminalClintSubLogs</EDID>
@@ -11723,7 +11643,7 @@ Nemůžu uvěřit, že prof. Campbell použil moje datum narození jako heslo, a
       <REC id="1">TERM:UNAM</REC>
       <Source>It's now clear that we must have lost the battle. I've heard something pounding on the armory door, but the walls will fall in before that door gives way. In case they attempt to clear the rubble from my quarters, I've set up all the defenses that were left down here. I don't like to think about Super Mutants using our artillery against helpless settlements. I'm running low on water, but I still hope that the survivors will regroup and mount a counter-attack in time.&#xD;
 </Source>
-      <Dest>Už je jasné, že jsme bitvu museli prohrát. Slyšel jsem něco bouchat do dveří zbrojnice, ale dřív se provalí stěna, než povolí dveře. Sestavil jsem veškerou obranu, co tady dole zbyla pro případ, že by se někdo pokusil odklidit suť z mé ubikace. Nechci myslet na supermutanty s naší artilérií proti bezmocným osadám. Dochází mi voda, ale stále doufám, že přeživší se přeskupí a včas rozběhnou protiútok.</Dest>
+      <Dest>Už je jasné, že jsme bitvu museli prohrát. Slyšel jsem něco bouchat do dveří zbrojnice, ale dřív se provalí stěna, než povolí dveře. Sestavil jsem veškerou obranu, co tady dole zbyla pro případ, že by se někdo pokusil odklidit suť z mé ubikace. Nechci ani pomyslet na supermutanty, jak používají naší artilérii proti bezmocným osadám. Dochází mi voda, ale stále doufám, že se přeživší přeskupí a včas rozběhnou protiútok.</Dest>
     </String>
     <String List="0" sID="033098">
       <EDID>DN088_LabTerminalDELETE</EDID>
@@ -11741,7 +11661,7 @@ Nemůžu uvěřit, že prof. Campbell použil moje datum narození jako heslo, a
       <EDID>DN133_ArmoryDoorTerminalInner</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Logs...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamům...</Dest>
     </String>
     <String List="0" sID="0330A5">
       <EDID>DN088_DeansSubTerminalMail</EDID>
@@ -11790,7 +11710,7 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
       <EDID>DN088_LabTerminal</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Accessing Log...</Source>
-      <Dest>Přistupuji k záznamům...</Dest>
+      <Dest>Přistupování k záznamu...</Dest>
     </String>
     <String List="0" sID="0330BF">
       <EDID>DN109_TerminalClintSubLogs</EDID>
@@ -11874,13 +11794,13 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
       <EDID>DN136_ScientistFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>faction for DN136 Scientists</Source>
-      <Dest>frakce pro DN136 vědci</Dest>
+      <Dest>faction for DN136 Scientists</Dest>
     </String>
     <String List="0" sID="0347BF">
       <EDID>DN136_ScientistFaction02</EDID>
       <REC>FACT:FULL</REC>
       <Source>faction for DN136 Scientists</Source>
-      <Dest>frakce pro DN136 vědci</Dest>
+      <Dest>faction for DN136 Scientists</Dest>
     </String>
     <String List="0" sID="0347C4">
       <EDID>DN083_Password</EDID>
@@ -11904,7 +11824,7 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
       <EDID>DN129_DrFeelgood</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>Default_MrHandy</Source>
-      <Dest>Standardní_panŠikulka</Dest>
+      <Dest>Default_MrHandy</Dest>
     </String>
     <String List="0" sID="03571D">
       <EDID>DN124_FederalistDesk01_Prewar</EDID>
@@ -11958,7 +11878,7 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
       <EDID>DN136_ScientistFaction03</EDID>
       <REC>FACT:FULL</REC>
       <Source>faction for DN136 Scientists</Source>
-      <Dest>frakce pro DN136 vědci</Dest>
+      <Dest>faction for DN136 Scientists</Dest>
     </String>
     <String List="0" sID="035B85">
       <EDID>DN133_MapMarkerIvans</EDID>
@@ -11970,7 +11890,7 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
       <EDID>DN136_ScientistFaction04</EDID>
       <REC>FACT:FULL</REC>
       <Source>faction for DN136 Synths and Attacking Faction</Source>
-      <Dest>frakce pro DN136 syntetiky a útočící frakci</Dest>
+      <Dest>faction for DN136 Synths and Attacking Faction</Dest>
     </String>
     <String List="0" sID="036512">
       <EDID>DN083_EncTurretTripodMounted</EDID>
@@ -11989,12 +11909,12 @@ Děkane Pattersone, víte co přesně armáda buduje pod administrační budovou
 &#xD;
 3. You'll know the signal is playing when - well, you'll just know.  Once the feedback goes away it will sound like there's nothing coming out of the speakers.  There is, but only the mirelurks can hear it.</Source>
       <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
-1. Ujisti se, že všechny kabely ke generátoru jsou řádně připojeny. Poslední, co potřebujeme, je, aby zkrat zase odpálil generátor - Randy!&#xD;
+1. Ujisti se, že všechny kabely ke generátoru jsou řádně připojeny. Poslední, co potřebujeme, je, aby nějaký zkrat zase odpálil generátor... Randy!&#xD;
 &#xD;
 2. Generátor MUSÍ být zapnutý před zapnutím signální věže.&#xD;
-(Doporučil bych držet se venku z vody, když budeš zapínat generátor; jen řikám.)&#xD;
+(Doporučil bych nestát ve vodě, až budeš nahazovat generátor... jen tak mimochodem.)&#xD;
 &#xD;
-3. Budeš vědět, že signál hraje, když... no, prostě to budeš vědět. Až se uklidní zpětná vazba, bude to znít jako by z reproduktorů nic nevycházelo. Vychází, ale slyší to jen plíživci.</Dest>
+3. To, že je signál hraje poznáš tak, že... no, prostě to poznáš. Až se uklidní zpětná vazba, bude to znít jako by z reproduktorů nic nevycházelo. Ono bude, ale uslyší to jen plíživci.</Dest>
     </String>
     <String List="1" sID="016963">
       <EDID>DN131_SwanLog02</EDID>
@@ -12711,7 +12631,7 @@ You want to know how I'd do it? Head around the north side and rush the bandstan
 Whatever you do, DON'T GO IN THE POND.&lt;/font&gt;</Source>
       <Dest>&lt;font size='16'&gt;Pořád si myslím, že jste se zbláznili.&#xD;
 &#xD;
-Chceš vědět, jak bych to udělal já? Vem to okolo severní strany a utíkej za altánek. Buď rychlej, a možná se ti podaří sestavit trochu obrany dřív, než si tě všimne. Když se tam dokážeš zakopat, pak možná budeš mít dost ochrany na to, abys vydržel déle než on.&#xD;
+Chceš vědět, jak bych to udělal já? Vem to severní stranou a utíkej za altánek. S troškou rychlosti se ti může podařit postavit nějakou obranu, než si tě všimne. Když se tam pak dokážeš zakopat, tak budeš možná mít dostatek krytí na to, abys vydržel dýl než on.&#xD;
 &#xD;
 Ať už uděláš cokoli, NELEZ DO TOHO RYBNÍČKU.&lt;/font&gt;</Dest>
     </String>
@@ -12845,7 +12765,7 @@ Se žádostí navštivte naši hlavní kancelář v historické části Zadní z
       <EDID>DN079</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>After entering the basement of Longneck Lukowski's, the elevator was deactivated remotely. I need to find a way back out so I can confront Theodore Collins.</Source>
-      <Dest>Poté, co jsem vešel do sklepa Dlouhána Lukowského, byl výtah dálkově deaktivován. Musím najít cestu ven, ať si můžu promluvit s Theodorem Collinsem.</Dest>
+      <Dest>Poté, co jsem vešel do sklepa Lukowského konzervárny, byl výtah dálkově deaktivován. Musím najít cestu ven, ať si můžu promluvit s Theodorem Collinsem.</Dest>
     </String>
     <String List="1" sID="031682">
       <EDID>DN121</EDID>
