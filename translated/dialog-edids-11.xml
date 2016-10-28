@@ -4,6 +4,7 @@
     <Addon>Fallout4</Addon>
     <Source>en</Source>
     <Dest>cs</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0" sID="0126C8">
@@ -250,7 +251,7 @@
       <EDID>[0004A178]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Let's talk</Source>
-      <Dest>Promluvme si.</Dest>
+      <Dest>Promluvme si</Dest>
     </String>
     <String List="0" sID="016A5F">
       <EDID>[00074E79]</EDID>
@@ -442,7 +443,7 @@
       <EDID>[00072FD4]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Sniper fire</Source>
-      <Dest>Ostřelovací puška</Dest>
+      <Dest>Odstřelovací puška</Dest>
     </String>
     <String List="0" sID="01A52C">
       <EDID>[00072FFA]</EDID>
@@ -1558,7 +1559,7 @@
       <EDID>[00072FD4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We're assaulting the base. Once we strike, use your rifle to pick off anyone you can see. A lot of lives are depending on us.</Source>
-      <Dest>Útočíme na tu základnu. Jakmile udeříme, použij svoji pušku a zatřel každého, koho uvidíš. Závisí na nás spousta životů.</Dest>
+      <Dest>Útočíme na tu základnu. Jakmile udeříme, použij svoji pušku a zastřel každého, koho uvidíš. Závisí na nás spousta životů.</Dest>
     </String>
     <String List="2" sID="012E06">
       <EDID>[000C30CB]</EDID>
@@ -1762,7 +1763,7 @@
       <EDID>[00072FDE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Oh, thank the Wall. Listen, I'll take some pot shots with my rifle. It might even the odds once things go south.</Source>
-      <Dest>Uf, díky Zdi. Poslechni, pár jich můžu svojí puškou sejmout. Mohlo by to zlešit vaše šance, až se to tam zvrhne.</Dest>
+      <Dest>Uf, díky Zdi. Poslechni, pár jich můžu svojí puškou sejmout. Mohlo by to zlepšit vaše šance, až se to tam zvrhne.</Dest>
     </String>
     <String List="2" sID="013FE0">
       <EDID>[00075FE7]</EDID>
@@ -1792,7 +1793,7 @@
       <EDID>[00072F1F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You're throwing a lot of attitude for the new gal. I guess we'll see soon enough if you're just blowing smoke or not.</Source>
-      <Dest>Na to, že jsi tu nová, jsi docela oprsklá. Hádám, že brzy uvidíme, jestli se jenom vytahuješ nebo ne.</Dest>
+      <Dest>Na to, že jsi tu nová, jsi docela oprsklá. Hádám, že brzy uvidíme, jestli se jenom vytahuješ, nebo ne.</Dest>
     </String>
     <String List="2" sID="014239">
       <EDID>[00182F0A]</EDID>
@@ -1954,7 +1955,7 @@
       <EDID>[0007504D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>No. I didn't bring anything worth taking with me.</Source>
-      <Dest>Ne. Nevzal jsem si s sebou nic, co by za to stálo.</Dest>
+      <Dest>Ne. Nevzala jsem si s sebou nic, co by za to stálo.</Dest>
     </String>
     <String List="2" sID="014CCD">
       <EDID>[0007127D]</EDID>
@@ -2050,7 +2051,7 @@
       <EDID>[00074E89]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Do you want to get out of here or not?</Source>
-      <Dest>Chceš odsud vypadnout nebo ne?</Dest>
+      <Dest>Chceš odsud vypadnout, nebo ne?</Dest>
     </String>
     <String List="2" sID="015627">
       <EDID>[000729AB]</EDID>
@@ -2104,7 +2105,7 @@
       <EDID>[00072F1E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You're throwing a lot of attitude for the new guy. I guess we'll see soon enough if you're just blowing smoke or not.</Source>
-      <Dest>Na to, že jsi tu nováček, jsi docela oprsklej. Hádám, že brzy uvidíme, jestli se jenom vytahuješ nebo ne.</Dest>
+      <Dest>Na to, že jsi tu nováček, jsi docela oprsklej. Hádám, že brzy uvidíme, jestli se jenom vytahuješ, nebo ne.</Dest>
     </String>
     <String List="2" sID="015AFA">
       <EDID>[00172090]</EDID>
@@ -2164,7 +2165,7 @@
       <EDID>[0017208E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You still here? I'm pretty certain I gave you a mission to complete.</Source>
-      <Dest>Ty jsi ještě tady? Jsem si poměrně jistý, že jsem ti dal úkol ke splnění.</Dest>
+      <Dest>Ty jsi ještě tady? Jsem si poměrně jistá, že jsem ti dala úkol ke splnění.</Dest>
     </String>
     <String List="2" sID="015E03">
       <EDID>[00172095]</EDID>
@@ -2188,7 +2189,7 @@
       <EDID>[000495B3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I don't much care if you're pissed off or not. Just don't move.</Source>
-      <Dest>Je mi celkem jedno, jestli se naštveš nebo ne. Prostě se nehýbej.</Dest>
+      <Dest>Je mi celkem jedno, jestli se naštveš, nebo ne. Prostě se nehýbej.</Dest>
     </String>
     <String List="2" sID="016069">
       <EDID>[00075E71]</EDID>
@@ -2260,7 +2261,7 @@
       <EDID>[0007126D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Leave or be cleansed!</Source>
-      <Dest>Odejdi nebo bude tvá duše očištěna!</Dest>
+      <Dest>Odejdi, nebo bude tvá duše očištěna!</Dest>
     </String>
     <String List="2" sID="016552">
       <EDID>[0007300D]</EDID>
@@ -2338,7 +2339,7 @@
       <EDID>[0007510B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>More than you might think.</Source>
-      <Dest>Víc než si možná myslíš.</Dest>
+      <Dest>Víc, než si možná myslíš.</Dest>
     </String>
     <String List="2" sID="016E8F">
       <EDID>[0007127C]</EDID>
@@ -2410,7 +2411,7 @@
       <EDID>[00072977]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>That? Not much of a disguise.</Source>
-      <Dest>To není moc převlek</Dest>
+      <Dest>To není moc převlek.</Dest>
     </String>
     <String List="2" sID="01746F">
       <EDID>[000729A3]</EDID>
@@ -2428,7 +2429,7 @@
       <EDID>[00072AD7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Listen smartass, I don't take advise from anyone except Top.</Source>
-      <Dest>Poslouchej chytráku. Mně radí akorát tak ti, co jsou nade mnou.</Dest>
+      <Dest>Poslouchej, chytráku. Mně radí akorát tak ti, co jsou nade mnou.</Dest>
     </String>
     <String List="2" sID="0175AC">
       <EDID>[00075E7E]</EDID>
@@ -2524,7 +2525,7 @@
       <EDID>[00072C46]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>No mom, I haven't got around to it yet.</Source>
-      <Dest>Ne mami, ještě jsem s k tomu nedostala.</Dest>
+      <Dest>Ne, mami, ještě jsem se k tomu nedostala.</Dest>
     </String>
     <String List="2" sID="017CFA">
       <EDID>[00075126]</EDID>
@@ -2602,7 +2603,7 @@
       <EDID>[00073008]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>So do you want me to do it or not, numbskull?</Source>
-      <Dest>Takže chceš abych to udělal nebo ne, ty tupoune?</Dest>
+      <Dest>Takže chceš abych to udělal, nebo ne, ty tupoune?</Dest>
     </String>
     <String List="2" sID="017FFF">
       <EDID>[000729A7]</EDID>
@@ -2788,7 +2789,7 @@
       <EDID>[00072B1B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You know that Prime isn't going anywhere until you get that part from Mass Fusion, right?</Source>
-      <Dest>Víš, že Pěst se nepohne, dokud nepřineseš ten díl z Fúzních závodů, žejo?</Dest>
+      <Dest>Víš, že Pěst se nepohne, dokud nepřineseš ten díl z Fúzních závodů, že jo?</Dest>
     </String>
     <String List="2" sID="018D05">
       <EDID>[000C8602]</EDID>
@@ -2824,7 +2825,7 @@
       <EDID>[00072C47]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Damn Mole Rats have been at the Tatoes again.</Source>
-      <Dest>Ty zatracený krtkokrysy byly zase na brajčatech.</Dest>
+      <Dest>Ti zatracení krtkopotkani byli zase na brajčatech.</Dest>
     </String>
     <String List="2" sID="018F76">
       <EDID>[00074E81]</EDID>
@@ -2968,7 +2969,7 @@
       <EDID>[0010B67D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Remember, no returns, exchanges, or death threats...</Source>
-      <Dest>Pamatuj, žádné vracení, výměny anebo výhružky smrtí...</Dest>
+      <Dest>Pamatuj, žádné vracení, výměny, anebo výhružky smrtí...</Dest>
     </String>
     <String List="2" sID="019B14">
       <EDID>[000729EF]</EDID>
@@ -2980,7 +2981,7 @@
       <EDID>[00072FDF]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Assuming I live through that, the survivors will probably swarm me. But maybe, just maybe, I'll live through it.</Source>
-      <Dest>Jestli tohle přežiju, tak se na mě ti, co přežijou vrhnou. Ale nějakou hodně malou náhodou bych i to mohl přežít.</Dest>
+      <Dest>Jestli tohle přežiju, tak se na mě ti, co přežijou, vrhnou. Ale nějakou hodně malou náhodou bych i to mohl přežít.</Dest>
     </String>
     <String List="2" sID="019C08">
       <EDID>[00072C4D]</EDID>
@@ -3034,7 +3035,7 @@
       <EDID>[00072AAF]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>He told me the Brotherhood of Steel was all that he cared about, and there was no room for anything else in his life.</Source>
-      <Dest>Řekl mi, že mu záleží jenom na Bratrstvu a že v jeho životě není místo na nic jiného.</Dest>
+      <Dest>Řekl mi, že mu záleží jenom na Bratrstvu, a že v jeho životě není místo na nic jiného.</Dest>
     </String>
     <String List="2" sID="019EE8">
       <EDID>[000495CE]</EDID>
@@ -3076,7 +3077,7 @@
       <EDID>[00072DF7]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>But they're not around anymore. A lot of petty infighting. People lost faith, and well, you can't have a volunteer army without volunteers.</Source>
-      <Dest>Ale už neexistují. Spousta malicherných vnitřních rozporů. Lidé ztratili víru a... nemůžeš mít dobrovolnickou armáadu bez dobrovolníků.</Dest>
+      <Dest>Ale už neexistují. Spousta malicherných vnitřních rozporů. Lidé ztratili víru a... nemůžeš mít dobrovolnickou armádu bez dobrovolníků.</Dest>
     </String>
     <String List="2" sID="01A0F7">
       <EDID>[0010B679]</EDID>
@@ -3238,7 +3239,7 @@
       <EDID>[00072C22]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Tell me about the Minutemen.</Source>
-      <Dest>Řekni mi o Minutemanech</Dest>
+      <Dest>Řekni mi o Minutemanech.</Dest>
     </String>
     <String List="2" sID="01ACB2">
       <EDID>[000732FD]</EDID>
@@ -3388,7 +3389,7 @@
       <EDID>[000729FD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All right. The Wall is my witness, I thought I was dead. It's about goddamn time you headquarters bastards got here.</Source>
-      <Dest>Dobře. Zeď je mi svědkem, že už jsem si myslel, že tu zařvu. Už bylo sakra načase, abyste sem vy parchanti z velitelství dorazili.</Dest>
+      <Dest>Dobře. Zeď je mi svědkem, že už jsem si myslel, že tu zařvu. Už bylo sakra načase, abyste sem, vy parchanti z velitelství, dorazili.</Dest>
     </String>
     <String List="2" sID="01B5A9">
       <EDID>[0017209C]</EDID>
@@ -3424,7 +3425,7 @@
       <EDID>[0010B67A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All the supplies money or violence can buy...</Source>
-      <Dest>Všechno co se dá pořídit za peníze nebo násilím...</Dest>
+      <Dest>Všechno, co se dá pořídit za peníze nebo násilím...</Dest>
     </String>
     <String List="2" sID="01B8A8">
       <EDID>[0004A189]</EDID>
@@ -3670,7 +3671,7 @@
       <EDID>[0017209D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ferals squash pretty good when you stomp on their heads in Power Armor. Oh man, I love that sound.</Source>
-      <Dest>Divoký se dají pekně rozmáčknout, když jim dupneš na hlavu v energozbroji. Páni, miluju ten zvuk.</Dest>
+      <Dest>Divoký se dají pěkně rozmáčknout, když jim dupneš na hlavu v energozbroji. Páni, miluju ten zvuk.</Dest>
     </String>
     <String List="2" sID="01D665">
       <EDID>[000711CD]</EDID>
@@ -3976,7 +3977,7 @@
       <EDID>[00072AAE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hired help or not, I got the job done.</Source>
-      <Dest>Nájemná výpomoc nebo ne, ta práce je hotová.</Dest>
+      <Dest>Nájemná výpomoc, nebo ne, ta práce je hotová.</Dest>
     </String>
     <String List="2" sID="01FDB6">
       <EDID>[00072ADC]</EDID>
@@ -4072,7 +4073,7 @@
       <EDID>[00072C81]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Supposedly, they help runaway Synths escape the Institute. But they're secretive. Ultra-paranoid.</Source>
-      <Dest>Říká se, že pomáhají zmizet syntetikům, kteří uprchnou z Insitutu. Ale jsou tajnůstkářští. Ultra paranoidní.</Dest>
+      <Dest>Říká se, že pomáhají zmizet syntetikům, kteří uprchnou z Institutu. Ale jsou tajnůstkářští. Ultra paranoidní.</Dest>
     </String>
     <String List="2" sID="020635">
       <EDID>[0007300E]</EDID>
@@ -4108,7 +4109,7 @@
       <EDID>[0007328A]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>We're here to retrieve a device that will boost the signal from the radio tower at the Cambridge Police Station.</Source>
-      <Dest>Přišli jsme sem, abychom získali zařízení, které nám umožní zesílit signál s rádiové věže na cambridgeské policejní stanici.</Dest>
+      <Dest>Přišli jsme sem, abychom získali zařízení, které nám umožní zesílit signál z rádiové věže na cambridgeské policejní stanici.</Dest>
     </String>
     <String List="2" sID="020D3C">
       <EDID>[00071293]</EDID>
@@ -4252,7 +4253,7 @@
       <EDID>[0010C8FE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Tell me more about this Marowski character.</Source>
-      <Dest>Pověz mi ještě něco o tom Marowském.</Dest>
+      <Dest>Pověz mi ještě něco o tom Marowskim.</Dest>
     </String>
     <String List="2" sID="02224A">
       <EDID>[000F1FEC]</EDID>
@@ -4360,7 +4361,7 @@
       <EDID>[00071295]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>...deny the heretic, the deceiver, the defiler... only in Atom can you be saved...</Source>
-      <Dest>...střež se kacíře, podvodníka, poskvrnitele... pouze v Atomu je spása tvá...</Dest>
+      <Dest>...střez se kacíře, podvodníka, poskvrnitele... pouze v Atomu je spása tvá...</Dest>
     </String>
     <String List="2" sID="022948">
       <EDID>[0009DF6C]</EDID>
@@ -4378,7 +4379,7 @@
       <EDID>[0007299F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'll tell you the game plan then you decide.</Source>
-      <Dest>Řeknu ti svůj plán, a ty se pak rozhodneš.</Dest>
+      <Dest>Řeknu ti svůj plán a ty se pak rozhodneš.</Dest>
     </String>
     <String List="2" sID="0229FE">
       <EDID>[00075E83]</EDID>
@@ -4462,7 +4463,7 @@
       <EDID>[0017209E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Haylen might only be a scribe, but she can kick some serious ass. I wouldn't mess with her if I were you.</Source>
-      <Dest>Haylenová je možná jenom písař, ale umí vážně nakopat zadek. Být tebou tak ji moc neotravuju.</Dest>
+      <Dest>Haylenová je možná jenom písařka, ale umí vážně nakopat zadek. Být tebou, tak ji moc neotravuju.</Dest>
     </String>
     <String List="2" sID="02352A">
       <EDID>[00075055]</EDID>
@@ -4486,7 +4487,7 @@
       <EDID>[00171545]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Sigh. What I wouldn't give for a single working vertibird.</Source>
-      <Dest>Achjo. Co já bych dal za aspoň jediný funkční vertibird.</Dest>
+      <Dest>Ach jo. Co já bych dal za aspoň jediný funkční vertibird.</Dest>
     </String>
     <String List="2" sID="0236DD">
       <EDID>[00075051]</EDID>
@@ -4546,7 +4547,7 @@
       <EDID>[00072DA8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Aw, daddy. Don't think about things like that.</Source>
-      <Dest>Ale tati. Nepřemýšlej o takových věcech.</Dest>
+      <Dest>Ale, tati. Nepřemýšlej o takových věcech.</Dest>
     </String>
     <String List="2" sID="023B5F">
       <EDID>[0004C9B0]</EDID>
@@ -4672,7 +4673,7 @@
       <EDID>[00072FC9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I feel for the synths and what they go through. But I have done more than my fair share. My patience is about worn thin with you Railroad types. What do you want?</Source>
-      <Dest>Já soucítím se syntetiky kvůli tomu, čím procházejí. Ale už jsem toho udělal vícnež dost. Moje trpělivost s váma z Železnice visí na tenkém vlásku. Co chceš?</Dest>
+      <Dest>Já soucítím se syntetiky kvůli tomu, čím procházejí. Ale už jsem toho udělal víc než dost. Moje trpělivost s váma ze Železnice visí na tenkém vlásku. Co chceš?</Dest>
     </String>
     <String List="2" sID="02459E">
       <EDID>[00073048]</EDID>
@@ -4864,7 +4865,7 @@
       <EDID>[00072B07]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Now that the Institute is gone, the Commonwealth's going to be much safer for everyone.</Source>
-      <Dest>Když je Institut zničený, tak bude Commonwealth bude mnohem bezpečnější pro všechny.</Dest>
+      <Dest>Když je Institut zničený, tak Commonwealth bude mnohem bezpečnější pro všechny.</Dest>
     </String>
     <String List="2" sID="024E09">
       <EDID>[00072F29]</EDID>
@@ -4936,7 +4937,7 @@
       <EDID>[000732EB]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I can assure you that it will be dangerous, and that you'll be paid fairly.</Source>
-      <Dest>Můžu tě ujisit, že to bude nebezpečné a že za to dostaneš spravedlivou odměnu.</Dest>
+      <Dest>Můžu tě ujistit, že to bude nebezpečné a že za to dostaneš spravedlivou odměnu.</Dest>
     </String>
     <String List="2" sID="02530F">
       <EDID>[0006FD60]</EDID>
@@ -4966,7 +4967,7 @@
       <EDID>[0010B68F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Looking's not as good as having, honey.</Source>
-      <Dest>Něco si prohlížet není tak dobré jako tu věc mít, zlato.</Dest>
+      <Dest>Něco si prohlížet není tak dobré, jako tu věc mít, zlato.</Dest>
     </String>
     <String List="2" sID="025658">
       <EDID>[0017BED5]</EDID>
@@ -4984,7 +4985,7 @@
       <EDID>[00074E86]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Do you want to get out of here or not?</Source>
-      <Dest>Chceš odsud vypadnout nebo ne?</Dest>
+      <Dest>Chceš odsud vypadnout, nebo ne?</Dest>
     </String>
     <String List="2" sID="0257BA">
       <EDID>[000732FE]</EDID>
@@ -5218,7 +5219,7 @@
       <EDID>[00172098]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Friendly warning. Step out of line, and I won't hesitate to drop you. Are we clear about that?</Source>
-      <Dest>Přátelské varování. Jestli se nebudeš chovat dobře, tak tě bez váhání skončím. Je ti to jasné?</Dest>
+      <Dest>Přátelské varování. Jestli se nebudeš chovat dobře, tak tě bez váhání vyhodím. Je ti to jasné?</Dest>
     </String>
     <String List="2" sID="0268E1">
       <EDID>[00072B17]</EDID>
@@ -5326,7 +5327,7 @@
       <EDID>[00073003]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Your sacrifice will never be forgotten, Ricky.</Source>
-      <Dest>Na tvou oběť nikdo nezapomene, Ricky</Dest>
+      <Dest>Na tvou oběť nikdo nezapomene, Ricky.</Dest>
     </String>
     <String List="2" sID="02704C">
       <EDID>[00072AB4]</EDID>
@@ -5356,7 +5357,7 @@
       <EDID>[00072DF7]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>They're a volunteer army, dedicated to protecting the Commonwealth from things like the Institute. Things that make people afraid.</Source>
-      <Dest>Je to dobrovolnická armáda, která se věnuje ochraně Commonwealthu před věcmi jako je Institut. Před věcmi, kterých se lidé bojí.</Dest>
+      <Dest>Je to dobrovolnická armáda, která se věnuje ochraně Commonwealthu před věcmi, jako je Institut. Před věcmi, kterých se lidé bojí.</Dest>
     </String>
     <String List="2" sID="027255">
       <EDID>[00072ADB]</EDID>
@@ -5380,7 +5381,7 @@
       <EDID>[00072AAF]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I thought there was a little more between us, so I asked him if he cared about me that way.</Source>
-      <Dest>Přišlo mi, že je mezi námi něco víc, a tak jsem se ho zeptala, jestli mu na mě záleží.</Dest>
+      <Dest>Přišlo mi, že je mezi námi něco víc, a tak jsem se ho zeptala, jestli mu na mně záleží.</Dest>
     </String>
     <String List="2" sID="0272D6">
       <EDID>[00072AAF]</EDID>
@@ -5434,7 +5435,7 @@
       <EDID>[00072AE2]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>So, I know what it feels like when every single person you bump into sticks a gun in your face.</Source>
-      <Dest>Takže vím jaké to je, když každý, koho potkáš, ti strčí zbraň do obličeje.</Dest>
+      <Dest>Takže vím, jaké to je, když každý, koho potkáš, ti strčí zbraň do obličeje.</Dest>
     </String>
     <String List="2" sID="02730E">
       <EDID>[0017209B]</EDID>
@@ -5638,7 +5639,7 @@
       <EDID>[0009DF6C]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>They used to be a volunteer army, dedicated to protecting "friends, family, and neighbors." Sounds soft, but they were a real thing at one point.</Source>
-      <Dest>Byla to dobrovolnická armáda, která se věnovala ochraně „přátel, rodiny a sousedů.“ Zní to slabošsky, ale jeden čas byli skutečnou silou.</Dest>
+      <Dest>Byla to dobrovolnická armáda, která se věnovala ochraně „přátel, rodiny a sousedů“. Zní to slabošsky, ale jeden čas byli skutečnou silou.</Dest>
     </String>
     <String List="2" sID="02790C">
       <EDID>[00072A00]</EDID>
@@ -5692,7 +5693,7 @@
       <EDID>[00072DA7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Yes darling, I do, but after what happened with Mary, well... let's just give things time to settle down, okay?</Source>
-      <Dest>Ano drahoušku, já vím. Ale po tom, co se stalo s Mary, no... prostě dej věcem čas, aby se usadily, ano?</Dest>
+      <Dest>Ano, drahoušku, já vím. Ale po tom, co se stalo s Mary, no... prostě dej věcem čas, aby se usadily, ano?</Dest>
     </String>
     <String List="2" sID="027D91">
       <EDID>[00072ACE]</EDID>
@@ -5734,7 +5735,7 @@
       <EDID>[0007514A]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I know you're from the Institute, so where's Kellogg? Huh? Trying to sneak up on me while you distract me? It's not going to work!</Source>
-      <Dest>Já vím, že jsi z Institutu, takže kde je Kellogg? Hm? Snaží se se ke mně připlížit, zatímco ty mě rozptyluješ? To nebude fungovat!</Dest>
+      <Dest>Já vím, že jsi z Institutu, takže kde je Kellogg? Hm? Snaží se ke mně připlížit, zatímco ty mě rozptyluješ? To nebude fungovat!</Dest>
     </String>
     <String List="2" sID="0281C9">
       <EDID>[000732F0]</EDID>
@@ -5794,7 +5795,7 @@
       <EDID>[0017153E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Haylen and Rhys have plenty to do. See if you can lend them a hand.</Source>
-      <Dest>Haylenová a Rhys mají spoustu práce. Bež se podívat, jestli jim nemůžeš s něčím pomoct.</Dest>
+      <Dest>Haylenová a Rhys mají spoustu práce. Běž se podívat, jestli jim nemůžeš s něčím pomoct.</Dest>
     </String>
     <String List="2" sID="0285D0">
       <EDID>[0007296D]</EDID>
@@ -5896,7 +5897,7 @@
       <EDID>[00044F24]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You got your orders. Move like you got a purpose.</Source>
-      <Dest>Máš svoje rozkazy. Snaž se vypadat, jako že máš cíl.</Dest>
+      <Dest>Máš svoje rozkazy. Snaž se vypadat, jakože máš cíl.</Dest>
     </String>
     <String List="2" sID="02A66D">
       <EDID>[00044F32]</EDID>
@@ -6232,7 +6233,7 @@
       <EDID>[0007266A]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Good job. That bastard won't be hurting anyone else.</Source>
-      <Dest>Dobrá práce. Tan parchant už nikomu dalšímu neublíží.</Dest>
+      <Dest>Dobrá práce. Ten parchant už nikomu dalšímu neublíží.</Dest>
     </String>
     <String List="2" sID="02B974">
       <EDID>[000727C7]</EDID>
@@ -6352,7 +6353,7 @@
       <EDID>[00072AF0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Then you need to choose a side. You're either with the Brotherhood, or you're against it.</Source>
-      <Dest>Pak si musíš vybrat stranu. Buď jsi s Bratrstvem nebo jsi proti nám.</Dest>
+      <Dest>Pak si musíš vybrat stranu. Buď jsi s Bratrstvem, nebo jsi proti nám.</Dest>
     </String>
     <String List="2" sID="02C546">
       <EDID>[00072AF2]</EDID>
