@@ -58,7 +58,7 @@
 &#xD;
 Targeting overridden, $Administrator.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...rozesílání administrativního přemostění... hotovo.&#xD;
 &#xD;
 Zaměřování přemostěno, $Administrátor.</Dest>
@@ -988,7 +988,7 @@ Aktuální pořadník:&#xD;
       <EDID>DN035_RaceRoute0Msg</EDID>
       <REC>MESG:FULL</REC>
       <Source>Initializing...</Source>
-      <Dest>Zahájení...</Dest>
+      <Dest>Inicializace...</Dest>
     </String>
     <String List="0" sID="016329">
       <EDID>DN036Terminal</EDID>
@@ -1223,7 +1223,7 @@ INICIOVÁNO ZASTAVENÍ PROVOZU. STŘEDISKOVÝ TERMINÁL V REŽIMU ÚSPORY ENERGI
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...vrácení normální závodní trasy... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -1261,7 +1261,7 @@ Trasa restartována úspěšně.</Dest>
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...navigovaní závodníků skrz hlavní tábor... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -1831,7 +1831,7 @@ Nouzová sebedestrukce pošle příkaz všem připojeným robotům. Může dojí
 &#xD;
 Targeting reset to Standard.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...restartování modulu identity... hotovo.&#xD;
 &#xD;
 Zaměřování restartováno na - standardní.</Dest>
@@ -1893,8 +1893,8 @@ Issuing Emergency Shutdown commands... done.&#xD;
 Waiting for all robots to shut down... done.&#xD;
 &#xD;
 The Emergency Shutdown completed successfully.</Source>
-      <Dest>Navazování síťových připojení... hotovo.&#xD;
-Přístup k parametrům nízkoúrovňových příkazů... hotovo.&#xD;
+      <Dest>Navazování síťových spojení... hotovo.&#xD;
+Přistupování k parametrům nízkoúrovňových příkazů... hotovo.&#xD;
 Vydávání příkazu nouzového vypnutí... hotovo.&#xD;
 Čekání na vypnutí všech robotů... hotovo.&#xD;
 &#xD;
@@ -2121,9 +2121,9 @@ Notifying employees... done.&#xD;
 The current Manager's Sale has been canceled.</Source>
       <Dest>Připojování produktové databáze... hotovo.&#xD;
 Aktualizace výprodejových filtrů... hotovo.&#xD;
-Hlášení zaměstnancům... hotovo.&#xD;
+Notifikace zaměstnanců... hotovo.&#xD;
 &#xD;
-Současný manažerský výprodej byla ukončena.</Dest>
+Současný manažerský výprodej byl ukončen.</Dest>
     </String>
     <String List="0" sID="01B318">
       <EDID>DN024_LonnieTerminal01</EDID>
@@ -3143,8 +3143,8 @@ Accessing low-level command parameters... done.&#xD;
 Issuing Emergency Self Destruct command... done.&#xD;
 &#xD;
 The Emergency Self Destruct is active. Please evacuate the area immediately.</Source>
-      <Dest>Navazování síťových připojení... hotovo.&#xD;
-Přístup k parametrům nízkoúrovňových příkazů... hotovo.&#xD;
+      <Dest>Navazování síťových spojení... hotovo.&#xD;
+Přistupování k parametrům nízkoúrovňových příkazů... hotovo.&#xD;
 Vydávání příkazu nouzové sebedestrukce... hotovo.&#xD;
 Nouzová sebedestrukce je aktivní. Evakuujte, prosím, neprodleně oblast.</Dest>
     </String>
@@ -3271,7 +3271,7 @@ Kritické přetížení v komunikační síti. Všechny funkce ovládání robot
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...rozesílání programu uživatelské trasy... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -4264,7 +4264,7 @@ Pořád v plicích cítím trochu vody, ale jejich naprogramování mě to nenec
 &#xD;
 Targeting updated.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...rozesílání uživatelského programu... hotovo.&#xD;
 &#xD;
 Zaměřování aktualizováno.</Dest>
@@ -4317,7 +4317,7 @@ Notifying employees... done.&#xD;
 A '25% Off' Manager's Sale is now in effect.</Source>
       <Dest>Připojování produktové databáze... hotovo.&#xD;
 Aktualizace výprodejových filtrů... hotovo.&#xD;
-Hlášení zaměstnancům... hotovo.&#xD;
+Notifikace zaměstnanců... hotovo.&#xD;
 &#xD;
 V platnosti je manažerský výprodej se slevou 25 %.</Dest>
     </String>
@@ -4429,7 +4429,7 @@ Designating $USER as Facility Supervisor... done.&#xD;
 Issuing new orders to all robots... done.&#xD;
 &#xD;
 The Grand Reopening completed successfully.</Source>
-      <Dest>Inicializace aktualizace firmwaru... hotovo.&#xD;
+      <Dest>Zahájení aktualizace firmwaru... hotovo.&#xD;
 Obnovení bojových inhibitorů... hotovo.&#xD;
 Nastavení $UŽIVATEL jako Inspektora zařízení... hotovo.&#xD;
 Vydání nových rozkazů všem robotům... hotovo.&#xD;
@@ -5263,7 +5263,7 @@ Verifying license... failed.&#xD;
 &#xD;
 Your software license expired 2512 month(s) ago. Please contact your technology or procurement supervisor for assistance.&#xD;
 </Source>
-      <Dest>Spouštění analyzačního programu... hotovo.&#xD;
+      <Dest>Přistupování k analytickému programu... hotovo.&#xD;
 Ověřování licence... selhalo.&#xD;
 &#xD;
 Vaše programová licence je propadlá 2512 měsíc(ů). Pro pomoc se prosím obraťte na svého technika nebo vedoucího nákupu.</Dest>
@@ -6996,7 +6996,7 @@ Skupinové hlášení 9/2077:&#xD;
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...navigovaní závodníků skrz hlavní tábor... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -7022,7 +7022,7 @@ Trasa restartována úspěšně.</Dest>
 &#xD;
 Targeting reset to Standard.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...restartování modulu identity... hotovo.&#xD;
 &#xD;
 Zaměřování restartováno na - standardní.</Dest>
@@ -7043,7 +7043,7 @@ Zaměřování restartováno na - standardní.</Dest>
       <EDID>DN066_TerminalLabDoorsSubMenu</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Maglocks...</Source>
-      <Dest>Zpřístupňuji magnetozámky...</Dest>
+      <Dest>Přistupování k magnetozámkům...</Dest>
     </String>
     <String List="0" sID="02D235">
       <EDID>DN066_TerminalLabDoorsSubMenu</EDID>
@@ -7080,7 +7080,7 @@ STAV: Uzamčeno</Dest>
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...rozesílání programu uživatelské trasy... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -7156,7 +7156,7 @@ STAV: Zaneprázdněno</Dest>
 &#xD;
 Targeting overridden, $Administrator.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...rozesílání administrativního přemostění... hotovo.&#xD;
 &#xD;
 Zaměřování přemostěno, $Administrátor.</Dest>
@@ -7190,7 +7190,7 @@ Stav: Odemknuto</Dest>
 &#xD;
 Route reset successfully.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování navigačního podsystému...&#xD;
+...zpřístupňování navigačního subsystému...&#xD;
 ...vrácení normální závodní trasy... hotovo.&#xD;
 &#xD;
 Trasa restartována úspěšně.</Dest>
@@ -7216,7 +7216,7 @@ Trasa restartována úspěšně.</Dest>
 &#xD;
 Targeting updated.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...rozesílání uživatelského programu... hotovo.&#xD;
 &#xD;
 Zaměřování aktualizováno.</Dest>
@@ -7308,7 +7308,7 @@ Zaměřování aktualizováno.</Dest>
 &#xD;
 All combat inhibitors have been disabled. Robots will now engage their designated targets. Please take appropriate precautions.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...zakazování bojových inhibitorů... hotovo.&#xD;
 &#xD;
 Všechny bojové inhibitory byly zakázány. Roboti budou nyní útočit na zvolené cíle. Prosím, přijměte příslušná opatření.</Dest>
@@ -7363,7 +7363,7 @@ Síť soukromé školy Suffolk County&#xD;
 ...done.&#xD;
 &#xD;
 All reserve robots have been added to the race control.</Source>
-      <Dest>Připojování k závodníkům...&#xD;
+      <Dest>Přistupování k závodníkům...&#xD;
 ...aktivuji „Plechovka“...&#xD;
 ...aktivuji „Fúzní pošuk“...&#xD;
 ...aktivuji „Lady Lovelace“...&#xD;
@@ -7504,7 +7504,7 @@ Kritické přetížení v komunikační síti. Všechny funkce ovládání robot
 &#xD;
 Please verify the integrity of the targeting system, then try again.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...čas vypršel.&#xD;
 ...čas vypršel.&#xD;
 ...čas vypršel.&#xD;
@@ -7639,7 +7639,7 @@ Zastavení dokončeno. Všichni roboti byli vypnuti.</Dest>
 &#xD;
 All combat inhibitors have been reset.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...zpřístupňování zaměřovacího podsystému...&#xD;
+...zpřístupňování zaměřovacího subsystému...&#xD;
 ...restartování obvodů bojových inhibitorů... hotovo.&#xD;
 &#xD;
 Všechny bojové inhibitory byly restartovány.</Dest>
@@ -8517,7 +8517,7 @@ Spustitelné operace:&#xD;
       <EDID>DN015_OtherTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Local Network...</Source>
-      <Dest>Připojování k místní síti...</Dest>
+      <Dest>Přistupování k místní síti...</Dest>
     </String>
     <String List="0" sID="03008E">
       <EDID>DN015_OtherSubTerminalMail</EDID>
@@ -9925,7 +9925,7 @@ NEJSI ZEKE? TAK NAMIŘ KUKADLA JINAM!!!&#xD;
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Maglocks...</Source>
-      <Dest>Zpřístupňuji magnetozámky...</Dest>
+      <Dest>Přistupování k magnetozámkům...</Dest>
     </String>
     <String List="0" sID="034253">
       <EDID>DN066_AirlockTerminal01</EDID>
@@ -9951,7 +9951,7 @@ Maintenance has been notified.</Source>
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Initializing Maglocks...</Source>
-      <Dest>Inicializace magnetozámků...</Dest>
+      <Dest>Aktivace magnetozámků...</Dest>
     </String>
     <String List="0" sID="0344A7">
       <EDID>DN066_AirlockTerminal01</EDID>
