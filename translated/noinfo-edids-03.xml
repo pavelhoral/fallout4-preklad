@@ -2432,8 +2432,8 @@ Později jsem slyšela, že se neohlásil na svou službu na můstku. Nikdo nev�
       <REC id="1">TERM:BTXT</REC>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Locked</Source>
-      <Dest>MaxZámky - bezpečnostní rozhraní bezpečnostních dveří&#xD;
-STATUS: Zamčeno</Dest>
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
+STATUS: uzamčeno</Dest>
     </String>
     <String List="0" sID="02355C">
       <EDID>BoSM01</EDID>
@@ -2598,8 +2598,8 @@ STATUS: Zamčeno</Dest>
       <REC id="0">TERM:BTXT</REC>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Busy</Source>
-      <Dest>MaxZámky - rozhraní bezpečnostních dveří&#xD;
-STATUS: Zaneprázdněn</Dest>
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
+STATUS: v činnosti</Dest>
     </String>
     <String List="0" sID="024F64">
       <EDID>BoSM02</EDID>
@@ -2698,7 +2698,7 @@ STATUS: Zaneprázdněn</Dest>
 STATUS: ERR 004&#xD;
 &#xD;
 WARNING: An electrical fault in the door control subsystem has been detected. Please contact a technician for assistance.</Source>
-      <Dest>MaxZámky - rozhraní bezpečnostních dveří&#xD;
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
 STATUS: ERR 004&#xD;
 &#xD;
 VAROVÁNÍ: Detekována elektronická chyba v subsystému ovládání dveří. Prosím, kontaktujte technika.</Dest>
@@ -4773,7 +4773,7 @@ Zatímco pokračuje naše důležitá mise v Commonwealthu, cítím, že dobrý 
 Knight-Sergeant Merric&#xD;
 &#xD;
 Patient returned from patrol with critical injuries from exposure to nuclear warhead detonation. Injuries: left arm and leg missing, severe internal trauma, left hemisphere of head severely burned and acute radiation poisoning. Attempted emergency surgery, but patient died after three hours. Patient's remains were incinerated as per regulations.</Source>
-      <Dest>Zdravotní soubor MR-192KS&#xD;
+      <Dest>Zdravotní záznam MR-192KS&#xD;
 Rytíř-seržant Merric&#xD;
 &#xD;
 Pacient se vrátil z patroly s kritickým zraněním v důsledku vystavení se detonaci jaderné hlavice. Zranění: levá ruka a noha ztracena, závažné vnitřní trauma, levá hemisféra hlavy byla vážně popálena a akutní otrava z radiace. Pokusil jsem se o okamžitý chirurgický zákrok, ale pacient zemřel po třech hodinách. Pacientovy ostatky byly spáleny podle předpisů.</Dest>

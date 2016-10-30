@@ -1644,7 +1644,7 @@ Uzel | Stav | Status | Vzdálenost&#xD;
       <REC id="2">TERM:BTXT</REC>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Unlocked</Source>
-      <Dest>Ovládací rozhraní bezpečnostních dveří MaxLock&#xD;
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
 STAV: odemčeno</Dest>
     </String>
     <String List="0" sID="01C140">
@@ -1972,8 +1972,8 @@ Prosíme, informujte všechny osoby v blízkosti nabíjecí stanice, aby poodsto
       <REC id="0">TERM:BTXT</REC>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Busy</Source>
-      <Dest>Ovládací rozhraní bezpečnostních dveří MaxLock&#xD;
-STAV: zaneprázdněno</Dest>
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
+STAV: v činnosti</Dest>
     </String>
     <String List="0" sID="01D455">
       <EDID>MS17CameraEntryMessage</EDID>
@@ -3050,8 +3050,8 @@ Veřejný terminál v Covenantu - Vítejte!&#xD;
       <REC id="1">TERM:BTXT</REC>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Locked</Source>
-      <Dest>Ovládací rozhraní bezpečnostních dveří MaxLock&#xD;
-STAV: zamčeno</Dest>
+      <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
+STAV: uzamčeno</Dest>
     </String>
     <String List="0" sID="025107">
       <EDID>NoodleCup</EDID>
