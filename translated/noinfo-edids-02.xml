@@ -281,7 +281,7 @@ This is your annual reminder that all terminal and mainframe passwords are to be
       <Dest>Od: Sam Brent, vedoucí ochranky&#xD;
 Komu: Všem zaměstnancům&#xD;
 &#xD;
-Toto je Vaše každoroční upomínka, že všechna hesla k terminálům na mainframu by měla být měsíčně měněna. Pokud si heslo nezměníte, může to vést k automatické změně, pozastavení přístupu k síti anebo disciplinárnímu řízení. Prosím, dělejte svou část pro udržení ArcJet Systems bezpečným.</Dest>
+Toto je Vaše každoroční upomínka, že všechna hesla na terminálech a centrálním počítači by měla být měsíčně měněna. Pokud si heslo nezměníte, může to vést k automatické změně, pozastavení přístupu k síti anebo disciplinárnímu řízení. Prosím, dělejte svou část pro udržení ArcJet Systems bezpečným.</Dest>
     </String>
     <String List="0" sID="013562">
       <EDID>BonesHandLeft</EDID>
@@ -2253,7 +2253,7 @@ Je možné přesměrovat energii mimo postiženou oblast. Chcete aktivovat autom
       <EDID>BoS_DN084_Terminal_MassFusionMAIN3FServer_NF</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Mainframe Control</Source>
-      <Dest>Ovládání mainframu</Dest>
+      <Dest>Ovládání centrálního počítače</Dest>
     </String>
     <String List="0" sID="0262FE">
       <EDID>BobbyPinBox</EDID>
@@ -2313,7 +2313,7 @@ Je možné přesměrovat energii mimo postiženou oblast. Chcete aktivovat autom
       <EDID>BoS_DN084_Terminal_MassFusionMAIN3FServer_NF</EDID>
       <REC>TERM:FULL</REC>
       <Source>Mainframe Control Terminal</Source>
-      <Dest>Terminál ovládání mainframu</Dest>
+      <Dest>Terminál ovládání centrálního počítače</Dest>
     </String>
     <String List="0" sID="026EC3">
       <EDID>AudioTemplateDeathclaw</EDID>
@@ -3562,7 +3562,7 @@ As of this morning, Dr. Noel Chandrich was escorted from the building, and his c
       <Dest>Komu: K. Oslow&#xD;
 Od: T. Reisenbaur, koordinátor lidských zdrojů&#xD;
 &#xD;
-Dnešního rána byl dr. Noel Chandrich vyveden z budovy a jeho kontrakt s Fúzními závody byl ukončen. Paměť jeho terminálu byla vymazána a všechen jeho výzkum byl převeden na mainframe. Dr. Chandrich byl upozorněn, že jakýkoliv pokus vyhledat zaměstnání u konkurenční společnosti s atomovou energií povede k soudnímu procesu. Jak bylo v jeho kontraktu, jeho penze a výhody jsou nyní zmražené. Pokud ještě něco potřebujete od oddělení lidských zdrojů, prosím dejte mi vědět.</Dest>
+Dnešního rána byl dr. Noel Chandrich vyveden z budovy a jeho kontrakt s Fúzními závody byl ukončen. Paměť jeho terminálu byla vymazána a všechen jeho výzkum byl převeden do centrálního počítače. Dr. Chandrich byl upozorněn, že jakýkoliv pokus vyhledat zaměstnání u konkurenční společnosti s atomovou energií povede k soudnímu procesu. Jak bylo v jeho kontraktu, jeho penze a výhody jsou nyní zmražené. Pokud ještě něco potřebujete od oddělení lidských zdrojů, prosím dejte mi vědět.</Dest>
     </String>
     <String List="0" sID="02ACA8">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN3FRecords_NF</EDID>
@@ -4008,7 +4008,7 @@ Work on your assigned projects and stop trying to improvise.</Source>
       <Dest>Od: J. Berlinová&#xD;
 Komu: A. Torresová, D. Montgomery, J. Rockford&#xD;
 &#xD;
-Toto je upomínka, že zdroje společnosti nejsou určeny pro použití v osobních projektech. To zahrnuje kancelářské terminály, čas mainframu, technickou dokumentaci, referenční příručky, papír, tužky-- cokoliv.&#xD;
+Toto je upomínka, že zdroje společnosti nejsou určeny pro použití v osobních projektech. To zahrnuje kancelářské terminály, čas centrálního počítače, technickou dokumentaci, referenční příručky, papír, tužky-- cokoliv.&#xD;
 &#xD;
 Pracujte na svých přiřazených projektech a přestaňte se snažit improvizovat.</Dest>
     </String>
@@ -4256,7 +4256,7 @@ I don't know what to do, Debbie. I had Jenny from Mainframe Control up on three 
       <Dest>Komu: D. Greggová, zařízení reaktoru&#xD;
 Od: J. Niles&#xD;
 &#xD;
-Nevím, co dělat, Debbie. Měl jsem tu nahoře Jenny z ovládání mainframu na třetím a brečela mi na rameni ohledně toho chlápka Victora z archivu. Pořád ji žádá, aby adoptovala jeho blbé štěně a nenechá ji s tím na pokoji. Co myslíš, že bych jí měl říct? Možná bych měl promluvit s Victorem a adoptovat tu zatracenou věc sám? Dej mi vědět!</Dest>
+Nevím, co dělat, Debbie. Měl jsem tu nahoře Jenny z oddělení centrálního počítače na třetím a brečela mi na rameni ohledně toho chlápka Victora z archivu. Pořád ji žádá, aby adoptovala jeho blbé štěně a nenechá ji s tím na pokoji. Co myslíš, že bych jí měl říct? Možná bych měl promluvit s Victorem a adoptovat tu zatracenou věc sám? Dej mi vědět!</Dest>
     </String>
     <String List="0" sID="02B303">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN27F_NF</EDID>
@@ -6201,7 +6201,7 @@ Fúzní jádro: vypnuto</Dest>
 Brent came down and had me pull all of the video surveillance records from the mainframe from last month. I asked if he wanted me to just make him backups, but he just grunted like he always does and demanded the originals. I have no idea what he's doing with them, and I don't want to know. As long as I keep getting a paycheck, I could care less.</Source>
       <Dest>Nařízená oprava: 098A122&#xD;
 &#xD;
-Brent přišel dolů a nechal mě vytáhnout všechna videa sledovacích záznamů z mainframu za poslední měsíc. Zeptal jsem se, jestli chce jen udělat zálohy, ale zabručel, jak to vždycky dělá, a požadoval originály. Nemám tušení, co s nimi provádí, a ani to vědět nechci. Dokud budu dostávat svůj výplatní šek, nezajímá mě to.</Dest>
+Brent přišel dolů a nechal mě vytáhnout všechna videa sledovacích záznamů z centrálního počítače za poslední měsíc. Zeptal jsem se, jestli chce jen udělat zálohy, ale zabručel, jak to vždycky dělá, a požadoval originály. Nemám tušení, co s nimi provádí, a ani to vědět nechci. Dokud budu dostávat svůj výplatní šek, nezajímá mě to.</Dest>
     </String>
     <String List="0" sID="032DE1">
       <EDID>BoS_DN017_CEOTerminal</EDID>
@@ -6491,7 +6491,7 @@ Od zítřka začneme rozdávat identifikační odznaky všem zaměstnancům. Tyt
 Got McClellan constantly bugging me that the mainframe keeps running out of space. I've ordered some more storage from our supplier, but we're rapidly running out of room down here for any more consoles. I might have to talk Reinhardt into letting us spill over into the office sections. Shouldn't be too much of a problem.</Source>
       <Dest>Objednávka opravy: 098A115&#xD;
 &#xD;
-McClellan mě pořád otravuje, že na mainframu pořád dochází místo. Objednal jsem nějaké další paměti od našeho dovatele, ale rychle nám tam dole dochází místo na další konzole. Možná budu muset promluvit s Reinhardtem, aby nám dovolil rozšířit se i na kancelářskou sekci. Neměl by to být takový problém.</Dest>
+McClellan mě pořád otravuje, že na centrálním počítači pořád dochází místo. Objednal jsem nějaké další paměti od našeho dovatele, ale rychle nám tam dole dochází místo na další konzole. Možná budu muset promluvit s Reinhardtem, aby nám dovolil rozšířit se i na kancelářskou sekci. Neměl by to být takový problém.</Dest>
     </String>
     <String List="0" sID="032F2A">
       <EDID>BoS_AirportTerminal_LibertyPrimeWarehouseSub01</EDID>
