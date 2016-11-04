@@ -953,7 +953,7 @@
       <EDID>TemplateWallTerminal01</EDID>
       <REC>TERM:UNAM</REC>
       <Source>Please insert holotape...</Source>
-      <Dest>Prosím vložte holopásku...</Dest>
+      <Dest>Prosím, vložte holopásku...</Dest>
     </String>
     <String List="0" sID="016E5B">
       <EDID>SubDoor01Right</EDID>
@@ -3247,7 +3247,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <EDID>sWorkshopRepairItemPrompt</EDID>
       <REC>GMST:DATA</REC>
       <Source>Repair %s for:</Source>
-      <Dest>[%s] opravit  s použitím:</Dest>
+      <Dest>[%s] opravit s použitím:</Dest>
     </String>
     <String List="0" sID="035A48">
       <EDID>sTopicSubtypeTextCombatOrderFlank</EDID>
@@ -3313,7 +3313,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <EDID>sTopicSubtypeTextFavorTrade</EDID>
       <REC>GMST:DATA</REC>
       <Source>Trade</Source>
-      <Dest>Obchodovat</Dest>
+      <Dest>Vybavení</Dest>
     </String>
     <String List="0" sID="035A7E">
       <EDID>sTopicSubtypeTextMiscellaneousSceneChoice</EDID>
@@ -3697,7 +3697,7 @@ Ale když táta viděl, jak ji hrajeme, vyndal ji a Jasona okamžitě poslal dom
       <EDID>sWorkshopOutsideBuildableAreaMessage</EDID>
       <REC>GMST:DATA</REC>
       <Source>Outside buildable area. Workshop Auto exit in %.0fs.</Source>
-      <Dest>Mimo stavitelnou oblast. Automatické ukončení dílenského režimu za %.0fs.</Dest>
+      <Dest>Mimo stavitelnou oblast. Automatické ukončení dílenského režimu za %.0f s.</Dest>
     </String>
     <String List="0" sID="036510">
       <EDID>sWorkshopLeaveWorkshopModeMessage</EDID>

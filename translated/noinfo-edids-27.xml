@@ -2375,7 +2375,7 @@ Odhaleno poškození dat. Soubory mohou být zkrácené, nebo mohou chybět. Pro
       <EDID>PipBoy02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Press and hold the Pip-Boy button to turn on its light and illuminate dark areas.</Source>
-      <Dest>Pro zapnutí jeho světla a osvětlení temných oblastí stiskni a podrž tlačítko Pip-Boye.</Dest>
+      <Dest>Pro zapnutí světla Pip-Boye a osvětlení temných oblastí stiskni a podrž jeho tlačítko.</Dest>
     </String>
     <String List="0" sID="0319DE">
       <EDID>ParsonsTerminalJackOffice</EDID>
@@ -2807,7 +2807,7 @@ Systémy normální.</Dest>
       <EDID>PerkPickpocket</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Pickpocket perk, picking pockets is easier, but you may even be able to place live explosives in a person's inventory (killing them instantly), or steal their weapons and equipped items.</Source>
-      <Dest>S perkem Kapsář je vybírání cizích kapes snažší. Můžeš dokonce vkládat odjištěné výbušniny do invetáře osob (což je okamžitě zabije) nebo jim krást zbraně a předměty, kterými jsou momentálně vybaveny.</Dest>
+      <Dest>S perkem Kapsář je vybírání cizích kapes snazší. Můžeš dokonce vkládat odjištěné výbušniny do invetáře osob (což je okamžitě zabije) nebo jim krást zbraně a předměty, kterými jsou momentálně vybaveny.</Dest>
     </String>
     <String List="0" sID="031CB1">
       <EDID>PerkCapsCollector</EDID>
@@ -2873,7 +2873,7 @@ Systémy normální.</Dest>
       <EDID>PerkNerdRage</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Nerd Rage perk triggers a unique ability when your Health gets too low - time slows, you deal more damage while suffering less, and killing an enemy may actually heal you. </Source>
-      <Dest>Klesne-li tvé zdraví příliš nízko, aktivuje perk Zuřivost unikátní schopnost - čas se zpomalí, způsobuješ větší poškození, zatímco sám jsi zraňován méně a zabíjení nepřátel tě ve skutečnosti může i léčit.</Dest>
+      <Dest>Klesne-li tvé zdraví příliš nízko, aktivuje perk Zuřivost unikátní schopnost - čas se zpomalí, způsobuješ větší poškození, naopak menší poškození obdržíš a zabíjení nepřátel tě ve skutečnosti může i léčit.</Dest>
     </String>
     <String List="0" sID="031D23">
       <EDID>PerkMagPicket05</EDID>
@@ -3059,7 +3059,7 @@ Zjištěn neoprávněný přístup.</Dest>
       <EDID>PerkIdiotSavant</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Idiot Savant perk, you'll randomly receive XP from completing any action. The lower your Intelligence, the higher the chance.</Source>
-      <Dest>S perkem Učený idiot náhodně získáváš body zkušenosti při dokončení jakékoli činnosti (za níž se i bez perku udílí body zkušenosti). Čím nižší je tvá inteligence, tím vyšší je šance.</Dest>
+      <Dest>S perkem Učený idiot náhodně získáváš body zkušeností při dokončení jakékoli činnosti (za níž se i bez perku udílí body zkušeností). Čím nižší je tvá inteligence, tím vyšší je šance.</Dest>
     </String>
     <String List="0" sID="031E0D">
       <EDID>PerkInspiration</EDID>
@@ -3113,20 +3113,20 @@ Zjištěn neoprávněný přístup.</Dest>
       <EDID>PerkBlitz</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Blitz perk increases the maximum distance of melee attacks in V.A.T.S., and can even cause more damage based on distance.</Source>
-      <Dest>Perk Blitz zvýší maximální dosah útoků zblízka v režimu V.A.T.S. a může dokonce způsobit větší poškození v závislosti na vzdálenosti cíle.</Dest>
+      <Dest>Perk Blitz zvýší maximální dosah útoků zblízka v režimu V.A.T.S., a navíc může způsobit větší poškození v závislosti na vzdálenosti cíle.</Dest>
     </String>
     <String List="0" sID="031E31">
       <EDID>PerkSteadyAim</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Steady Aim perk improves your hip-fire accuracy with any gun.</Source>
-      <Dest>Perk Pevná ruku zvyšuje tvou přesnost s jakoukoli zbraní při střelbě bez míření.</Dest>
+      <Dest>Perk Pevná ruka zvyšuje tvou přesnost s jakoukoli zbraní při střelbě bez míření.</Dest>
     </String>
     <String List="0" sID="031E32">
       <EDID>PerkStrongBack</EDID>
       <REC>LSCR:DESC</REC>
       <Source>With the Strong Back perk, you can carry additional weight, and may even gain the abilities to run and fast travel while encumbered. (In Survival, instead of allowing fast travel, you will no longer take damage from exceeding your carry weight.)&#xD;
 </Source>
-      <Dest>S perkem Stěhovák uneseš větší náklad a můžeš dokonce získat schopnost běhat a rychle cestovat, i když jsi přetížen. (Při Přežití místo možnosti rychle cestovat na tebe nebude při překročení nosnosti působit poškození.)</Dest>
+      <Dest>S perkem Stěhovák uneseš větší náklad, a navíc můžeš získat schopnost běhat a rychle cestovat i při přetížení. (Při Přežití místo možnosti rychle cestovat na tebe nebude při překročení nosnosti působit poškození.)</Dest>
     </String>
     <String List="0" sID="031E45">
       <EDID>PerkAttackDog</EDID>
@@ -3144,7 +3144,7 @@ Zjištěn neoprávněný přístup.</Dest>
       <EDID>PerkNightPerson</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Night Person perk increases both your Perception and Intelligence during nighttime hours, and may even grant night vision while sneaking.</Source>
-      <Dest>Perk Noční pták zvyšuje během nočních hodin jak tvé vnímání, tak inteligenci. Při plížení ti dokonce může poskytnou noční vidění.</Dest>
+      <Dest>Perk Noční pták zvyšuje během nočních hodin jak tvé vnímání, tak inteligenci. Při plížení ti dokonce může poskytnout noční vidění.</Dest>
     </String>
     <String List="0" sID="031EAC">
       <EDID>PerkPainTrain</EDID>
