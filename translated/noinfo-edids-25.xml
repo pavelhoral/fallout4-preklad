@@ -573,7 +573,7 @@ Prosíme, ujistěte se, že je nabíjecí stanice volná.&#xD;
       <EDID>nativeSafeTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Safe Control</Source>
-      <Dest>&gt; Ovládání sejfu</Dest>
+      <Dest> &gt; Ovládání sejfu</Dest>
     </String>
     <String List="0" sID="015CBA">
       <EDID>MS19</EDID>
@@ -699,7 +699,7 @@ Prosíme, ujistěte se, že je nabíjecí stanice volná.&#xD;
       <EDID>nativeSpotlightTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Spotlight Control</Source>
-      <Dest>&gt; Ovládání reflektorů</Dest>
+      <Dest> &gt; Ovládání reflektorů</Dest>
     </String>
     <String List="0" sID="016E76">
       <EDID>NpcBenchShortFederalistSit01</EDID>
@@ -1123,7 +1123,7 @@ Doufáme, že si užijete svůj pobyt zde stejně, jako si my užíváme to, že
       <EDID>nativeDoorGarageTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Remote Garage Door Control</Source>
-      <Dest>&gt; Dálkové ovládání garážových vrat</Dest>
+      <Dest> &gt; Dálkové ovládání garážových vrat</Dest>
     </String>
     <String List="0" sID="019801">
       <EDID>MS19_VaultIntercom</EDID>
@@ -1166,7 +1166,7 @@ Doufáme, že si užijete svůj pobyt zde stejně, jako si my užíváme to, že
       <REC id="1">TERM:BTXT</REC>
       <Source>                ! ! ERROR ! !&#xD;
 Protectron unit absent or damaged!</Source>
-      <Dest>! ! CHYBA ! !&#xD;
+      <Dest>                ! ! CHYBA ! !&#xD;
 Jednotka protektrona chybí nebo je poškozená!</Dest>
     </String>
     <String List="0" sID="019DB0">
@@ -1699,7 +1699,7 @@ STAV: odemčeno</Dest>
       <EDID>nativeDoorTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Remote Door Control</Source>
-      <Dest>&gt; Dálkové ovládání dveří</Dest>
+      <Dest> &gt; Dálkové ovládání dveří</Dest>
     </String>
     <String List="0" sID="01C74B">
       <EDID>OilLampHandleUp</EDID>
@@ -2346,7 +2346,7 @@ Prosíme, zvolte možnost:</Dest>
       <EDID>nativeTripwireTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Optical Tripwire Control</Source>
-      <Dest>&gt; Ovládání optických nástražných drátů</Dest>
+      <Dest> &gt; Ovládání optických nástražných drátů</Dest>
     </String>
     <String List="0" sID="0200E2">
       <EDID>nativeTurretTerminalSubMenu</EDID>
@@ -2444,7 +2444,7 @@ Prosíme, zvolte možnost:</Dest>
       <EDID>nativeTurretTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Turret Control</Source>
-      <Dest>&gt; Ovládání věží</Dest>
+      <Dest> &gt; Ovládání věží</Dest>
     </String>
     <String List="0" sID="021079">
       <EDID>NPCMemoryLounger01</EDID>
@@ -2666,7 +2666,7 @@ Jakékoli neoprávněné zacházení anuluje záruku a zbaví výrobce odpovědn
       <EDID>nativeSwitchDoorTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Security Door Control</Source>
-      <Dest>&gt; Ovládání bezpečnostních dveří</Dest>
+      <Dest> &gt; Ovládání bezpečnostních dveří</Dest>
     </String>
     <String List="0" sID="022E30">
       <EDID>NatickBanksMapMarkerRef</EDID>
@@ -2802,7 +2802,7 @@ Assaultron unit absent or damaged!&#xD;
 &#xD;
 ::error 3487xKSJ109j&#xD;
 </Source>
-      <Dest>! ! CHYBA ! !&#xD;
+      <Dest>                ! ! CHYBA ! !&#xD;
 Jednotka anihilatrona chybí nebo je poškozená!&#xD;
 &#xD;
 ::chyba 3487xKSJ109j</Dest>
@@ -2949,7 +2949,7 @@ Jednotka anihilatrona chybí nebo je poškozená!&#xD;
       <EDID>nativeAssaultronTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Assaultron Control</Source>
-      <Dest>&gt; Ovládání anihilatrona</Dest>
+      <Dest> &gt; Ovládání anihilatrona</Dest>
     </String>
     <String List="0" sID="02466E">
       <EDID>MS17Blythe</EDID>
@@ -3540,7 +3540,7 @@ Prosíme, zvolte možnost:</Dest>
       <EDID>nativeProtectronTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Protectron Control</Source>
-      <Dest>&gt; Ovládání protektrona</Dest>
+      <Dest> &gt; Ovládání protektrona</Dest>
     </String>
     <String List="0" sID="02817B">
       <EDID>MS17</EDID>
@@ -4050,7 +4050,7 @@ STAV: odemčeno</Dest>
       <EDID>nativeDoorLockUnlockTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Remote Door Control</Source>
-      <Dest>&gt; Dálkové ovládání dveří</Dest>
+      <Dest> &gt; Dálkové ovládání dveří</Dest>
     </String>
     <String List="0" sID="02B8FF">
       <EDID>nativeDoorLockUnlockTerminalSubMenu</EDID>
@@ -4931,7 +4931,7 @@ Prosíme, zvolte možnost:&#xD;
       <EDID>nativeWorkshopSwitchTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Switch Control</Source>
-      <Dest>&gt; Ovládání přepínačů</Dest>
+      <Dest> &gt; Ovládání přepínačů</Dest>
     </String>
     <String List="0" sID="03270A">
       <EDID>nativeWorkshopSpeakerTerminalSubMenuSetOctave</EDID>
@@ -5310,7 +5310,7 @@ Prosíme, zvolte možnost:&#xD;
       <EDID>nativeWorkshopTimerSwitchTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Interval Switch Control</Source>
-      <Dest>&gt; Ovládání intervalových spínačů</Dest>
+      <Dest> &gt; Ovládání intervalových spínačů</Dest>
     </String>
     <String List="0" sID="032BDB">
       <EDID>nativeWorkshopSpeakerTerminal</EDID>
@@ -5371,7 +5371,7 @@ Nastavit profil cíle senzoru:</Dest>
       <EDID>nativeWorkshopLightboxTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Lightbox Control</Source>
-      <Dest>&gt; Ovládání světelných panelů</Dest>
+      <Dest> &gt; Ovládání světelných panelů</Dest>
     </String>
     <String List="0" sID="032C81">
       <EDID>nativeSpotlightTerminalSubMenu</EDID>
@@ -5440,7 +5440,7 @@ Nastavit barvu světla na ORANŽOVOU:&#xD;
       <EDID>nativeWorkshopTripwireTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Optical Sensor Control</Source>
-      <Dest>&gt; Ovládání optických senzorů</Dest>
+      <Dest> &gt; Ovládání optických senzorů</Dest>
     </String>
     <String List="0" sID="032DDC">
       <EDID>nativeWorkshopLightboxTerminalSubMenuSetColorBrightness</EDID>
@@ -5462,7 +5462,7 @@ Nastavit barvu světla na ZELENOU:&#xD;
       <EDID>nativeWorkshopSpeakerTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Speaker Control</Source>
-      <Dest>&gt; Ovládání reproduktorů</Dest>
+      <Dest> &gt; Ovládání reproduktorů</Dest>
     </String>
     <String List="0" sID="032E0F">
       <EDID>nativeWorkshopSpeakerTerminalSubMenuSetOctave</EDID>
@@ -6177,7 +6177,7 @@ Prosíme, vyberte, jakou barvu nastavit připojeným světelným panelům:</Dest
       <EDID>nativeWorkshopPowerCounterTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Power Counter Control</Source>
-      <Dest>&gt; Ovládání elektrických čítačů</Dest>
+      <Dest> &gt; Ovládání elektrických čítačů</Dest>
     </String>
     <String List="0" sID="033C2F">
       <EDID>nativeWorkshopSpeakerTerminalSubMenuNEW</EDID>
@@ -6563,7 +6563,7 @@ Prosíme, zvolte možnost:</Dest>
       <EDID>nativeWorkshopDelaySwitchTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Delay Switch Control</Source>
-      <Dest>&gt; Ovládání opožděných spínačů</Dest>
+      <Dest> &gt; Ovládání opožděných spínačů</Dest>
     </String>
     <String List="0" sID="034438">
       <EDID>nativeWorkshopDelaySwitchTerminalSubMenuSetTime</EDID>
@@ -6625,7 +6625,7 @@ Prosíme, zvolte možnost:</Dest>
       <EDID>nativeWorkshopSpotlightTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Spotlight Control</Source>
-      <Dest>&gt; Ovládání reflektorů</Dest>
+      <Dest> &gt; Ovládání reflektorů</Dest>
     </String>
     <String List="0" sID="0345B0">
       <EDID>nativeWorkshopSpotlightTerminalSubMenuTarget</EDID>
