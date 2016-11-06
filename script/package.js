@@ -28,7 +28,7 @@ function processFile(base, file, build) {
     if (basename === 'Translate_en.txt') {
         let content = fs.readFileSync(filepath, 'utf16le'),
             regexp = new RegExp('(\\$Press any button to start\\t).*');
-        content = content.replace(regexp, '$1Verze češtiny: ' + build.id);
+        content = content.replace(regexp, '$Čeština: ' + build.id);
         build.zip.addBuffer(Buffer.from(content, 'utf16le'), file);
     } else {
         build.zip.addFile(filepath, file);
@@ -44,7 +44,7 @@ function processDir(base, directory, build) {
         var stat = fs.statSync(path.join(base, directory, name));
         if (stat.isDirectory()) {
             processDir(base, path.join(directory, name), build);
-        } else {
+        } else if (name !== '.gitignore') {
             processFile(base, path.join(directory, name), build);
         }
     });
