@@ -1,8 +1,5 @@
 # Čeština pro Fallout 4
 
-Od fanoušků, pro fanoušky. Překlad není nikým sponzorován.
-Chcete-li autory podpořit, informace naleznete na profilu překladu.
-
  * Profil překladu: https://prekladyher.eu/preklady/fallout-4.79/
  * Facebook: https://www.facebook.com/falloutczsk/
  * Hlášení chyb: https://github.com/prekladyher/fallout4-cestina/issues
