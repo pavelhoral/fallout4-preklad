@@ -1837,7 +1837,7 @@ STAV: Odstraněno jednotkou na likvidaci biologických hrozeb.</Dest>
       <EDID>MQ302Min</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Activate Institute Relay</Source>
-      <Dest>Aktivuj vysílač Institutu</Dest>
+      <Dest>Aktivuj přenašeč Institutu</Dest>
     </String>
     <String List="0" sID="018C84">
       <EDID>MS02SensorConsole</EDID>
@@ -2271,7 +2271,7 @@ STAV: Odhlášena strážníkem Doylem, policejní oddělení Jižní Boston, 22
       <EDID>MQ302MinHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Institute Relay Targeting Sequence</Source>
-      <Dest>Zaměřovací sekvence vysílače Institutu</Dest>
+      <Dest>Zaměřovací sekvence přenašeče Institutu</Dest>
     </String>
     <String List="0" sID="01A751">
       <EDID>MS13SharedPlayerQuestion</EDID>
@@ -3114,7 +3114,7 @@ STAV: Věnováno potravinové bance „Pomocné ruce“.</Dest>
       <EDID>MQ302MinHolotapeTeleporterTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Initiate Remote Relay Sequence</Source>
-      <Dest>Spustit dálkovou přenosovou sekvenci</Dest>
+      <Dest>Spustit vzdálenou přenosovou sekvenci</Dest>
     </String>
     <String List="0" sID="01D68B">
       <EDID>MS01</EDID>
@@ -3330,7 +3330,7 @@ Zaměřování na souřadnicích...&#xD;
 Skenování...&#xD;
 Skenování...&#xD;
 Zámek signálu zajištěn.&#xD;
-Startování přenosové sekvence...&#xD;
+Spouštění přenosové sekvence...&#xD;
 </Dest>
     </String>
     <String List="0" sID="01DFD3">
@@ -3659,7 +3659,7 @@ STAV: Zapůjčena strážníku Grahamovi, policejní oddělení Boston-východ.<
       <EDID>MQ302MinHolotapeTeleporterTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./relay_protocol.exe</Source>
-      <Dest>*./protokol_vysilace.exe</Dest>
+      <Dest>*./protokol_prenosu.exe</Dest>
     </String>
     <String List="0" sID="01FB55">
       <EDID>MQ203MemoryHVirgilsFile</EDID>
@@ -3850,7 +3850,7 @@ STAV: Odesláno seržantovi Sulzbachovi, policejní oddělení Malden.</Dest>
       <EDID>MQ302</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Activate Institute Relay</Source>
-      <Dest>Aktivuj vysílač Institutu</Dest>
+      <Dest>Aktivuj přenašeč Institutu</Dest>
     </String>
     <String List="0" sID="0206DC">
       <EDID>MS09MiscJackReward</EDID>
@@ -6661,7 +6661,7 @@ STAV: Zabaveny důstojníkem A. Jeanetteovou.</Dest>
       <EDID>MQ302BoS</EDID>
       <REC id="9">QUST:NNAM</REC>
       <Source>Step Into the Relay</Source>
-      <Dest>Vstup do vysílače</Dest>
+      <Dest>Vstup do přenašeče</Dest>
     </String>
     <String List="0" sID="0307D3">
       <EDID>MS04_SilverShroudScriptTerminal</EDID>
@@ -6840,7 +6840,7 @@ STAV: Postoupeny důstojníkovi A. Jeanetteové.</Dest>
       <EDID>MQ302Min</EDID>
       <REC id="13">QUST:NNAM</REC>
       <Source>Step Into the Relay</Source>
-      <Dest>Vstup do vysílače</Dest>
+      <Dest>Vstup do přenašeče</Dest>
     </String>
     <String List="0" sID="030904">
       <EDID>MS04_SilverShroudScriptTerminal</EDID>
@@ -6981,7 +6981,7 @@ STAV: Považována za zdraví nebezpečnou. Vyhozena do odpadků.</Dest>
       <EDID>MQ302RR</EDID>
       <REC id="12">QUST:NNAM</REC>
       <Source>Step Into the Relay</Source>
-      <Dest>Vstup do vysílače</Dest>
+      <Dest>Vstup do přenašeče</Dest>
     </String>
     <String List="0" sID="030946">
       <EDID>MS07c_SouthiePDTerminal_C</EDID>
@@ -7273,7 +7273,7 @@ STAV: Předáno Asociaci pro lepší podnikání.</Dest>
       <EDID>MQ302RR</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Kill everyone in the Relay Control Room</Source>
-      <Dest>Zabij všechny v kontrolní místnosti vysílače.</Dest>
+      <Dest>Zabij všechny v kontrolní místnosti přenašeče.</Dest>
     </String>
     <String List="0" sID="031A2B">
       <EDID>MS02ReactorItemPlacementMessage</EDID>
@@ -7918,7 +7918,7 @@ Kopírování kompletní.</Dest>
       <EDID>MQ206BoSBuildMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Teleporter in Progress</Source>
-      <Dest>Teleporter v chodu</Dest>
+      <Dest>Teleport v chodu</Dest>
     </String>
     <String List="0" sID="034892">
       <EDID>MS05BGreetPoppa</EDID>
@@ -7992,7 +7992,7 @@ CHYBA 0x92253: Nenalezena kompatibilní síť.</Dest>
       <EDID>MQ302MinHolotapeTeleporterTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Initiate Remote Relay Sequence</Source>
-      <Dest>Spustit dálkovou přenosovou sekvenci</Dest>
+      <Dest>Spustit vzdálenou přenosovou sekvenci</Dest>
     </String>
     <String List="0" sID="035FCA">
       <EDID>Ms07_LabScale</EDID>
@@ -10194,7 +10194,7 @@ I když je tato čepel z ďáblova železa, pouze ten, kdo jí vládne, ji můž
       <EDID>MQ302Min</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Sturges analyzed the data from the Institute network and found a way in: an old tunnel providing cooling water to their reactor. He gave me a holotape that will reprogram the Institute Relay to bring in the Minutemen.</Source>
-      <Dest>Sturges analyzoval data ze sítě Institutu a našel cestu dovnitř: starý tunel, který přivádí vodu na chlazení k jejich reaktoru. Dal mi holopásku, která dokáže přeprogramovat vysílač Institutu aby přenesl Minutemany dovnitř.</Dest>
+      <Dest>Sturges analyzoval data ze sítě Institutu a našel cestu dovnitř: starý tunel, který přivádí vodu na chlazení k jejich reaktoru. Dal mi holopásku, která dokáže přeprogramovat přenašeč Institutu aby přenesl Minutemany dovnitř.</Dest>
     </String>
     <String List="1" sID="0345AB">
       <EDID>MQ302Min</EDID>
@@ -10212,7 +10212,7 @@ I když je tato čepel z ďáblova železa, pouze ten, kdo jí vládne, ji můž
       <EDID>MQ302Min</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>I've reached the Institute Relay and reprogrammed it to bring in the Minutemen assault force.</Source>
-      <Dest>Vysílač Institutu je přeprogramován, aby dovnitř přenesl útočnou jednotku Minutemanů. </Dest>
+      <Dest>Přenašeč Institutu je přeprogramován, aby dovnitř přenesl útočnou jednotku Minutemanů. </Dest>
     </String>
     <String List="1" sID="034824">
       <EDID>MQ206BoSBuildMessage</EDID>
