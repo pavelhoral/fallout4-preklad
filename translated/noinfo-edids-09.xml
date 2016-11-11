@@ -328,9 +328,9 @@ Projektový manager, Stanice 1</Dest>
 &#xD;
 A five-second countdown has been initiated. Please evacuate the area.</Source>
       <Dest>Připojování k závodníkům...&#xD;
-...aktivace nouzové sebedestrukce...&#xD;
+...aktivace nouzové autodestrukce...&#xD;
 ...rušení bezpečnostních protokolů...&#xD;
-...potvrzování sebedestrukce... hotovo.&#xD;
+...potvrzování autodestrukce... hotovo.&#xD;
 &#xD;
 Zahájen pětisekundový odpočet. Prosím, evakuujte oblast.</Dest>
     </String>
@@ -879,7 +879,7 @@ Activate Self Destruct?&#xD;
 &#xD;
 </Source>
       <Dest>!!! VAROVÁNÍ !!!&#xD;
-Příkaz bezpečnostní sebedestrukce povede ke zničující destrukci všech připojených robotů. Tato akce slouží pouze jako poslední možnost zastavení. Pokud je jednou aktivována, nelze ji zrušit.&#xD;
+Příkaz nouzové autodestrukce povede ke zničující destrukci všech připojených robotů. Tato akce slouží pouze jako poslední možnost zastavení. Pokud je jednou aktivována, nelze ji zrušit.&#xD;
 &#xD;
 Aktivovat sebedestrukci?</Dest>
     </String>
@@ -1956,7 +1956,7 @@ Těžko uvěřit, že už je to deset let. Pořád si pamatuju, jak na mě Annik
       <Source>!!! WARNING !!!&#xD;
 The Emergency Self-Destruct has been initiated. Please evacuate the area.</Source>
       <Dest>!!! VAROVÁNÍ !!!&#xD;
-Bezpečnostní sebedestrukce byla aktivována. Prosím, evakuujte oblast.</Dest>
+Nouzová autodestrukce byla aktivována. Prosím, evakuujte oblast.</Dest>
     </String>
     <String List="0" sID="01ABB7">
       <EDID>DN024_BossTerminal01</EDID>
