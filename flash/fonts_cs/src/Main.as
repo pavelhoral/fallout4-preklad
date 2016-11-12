@@ -6,10 +6,14 @@ package {
 
         public function Main() {
             Font.registerFont($BRODY);
-            Font.registerFont($Terminal_Font);
+            Font.registerFont($Controller_Buttons);
+			Font.registerFont($Controller_Buttons_inverted);
             Font.registerFont($HandwrittenFont);
-            Font.registerFont($DebugTextFont);
+			Font.registerFont($MAIN_Font);
+			Font.registerFont($MAIN_Font_Bold);
+			Font.registerFont($Terminal_Font);
             Font.registerFont($ConsoleFont);
+			Font.registerFont($DebugTextFont);
         }
 
     }
