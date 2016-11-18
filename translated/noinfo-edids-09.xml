@@ -210,8 +210,8 @@ Awaiting Override Proceedure...&#xD;
 &#xD;
 </Source>
       <Dest>;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;&#xD;
-;   Subsystém - Víceúčelové užitkové   ;&#xD;
-;          vozidlo Corvega             ;&#xD;
+;              Subsystém -             ;&#xD;
+; Víceúčelové užitkové vozidlo Corvegy ;&#xD;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;&#xD;
 &#xD;
 Proces ručního ovládání...&#xD;
@@ -711,7 +711,7 @@ Vedení</Dest>
       <EDID>DN061_SubTerminalCrane</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>0x0847b4d3    {lower crane}:</Source>
-      <Dest>0x0847b4d3    {sklonit jeřáb}:</Dest>
+      <Dest>0x0847b4d3    {sklopit jeřáb}:</Dest>
     </String>
     <String List="0" sID="0151B7">
       <EDID>DN034_AmbushTalkingActivator</EDID>
@@ -4860,7 +4860,7 @@ Továrna General Atomics  &#xD;
       <EDID>DN028_UpstairsTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Something's up with the boss. Since we took Back Street Apparel, he keeps muttering to himself and now he's moved into the basement. I think he's drinking the pool water.</Source>
-      <Dest>S šéfem něco je. Od tý doby, co jsme obsadili Oděvy v Postranní uličce, si pro sebe pořád něco mumlá a teď šel do suterénu. Myslím si, že pije vodu z bazénu.</Dest>
+      <Dest>S šéfem něco je. Od tý doby, co jsme obsadili Oděvy v postranní uličce, si pro sebe pořád něco mumlá a teď šel do suterénu. Myslím si, že pije vodu z bazénu.</Dest>
     </String>
     <String List="0" sID="029357">
       <EDID>DN062PrincipalTerminalLogs</EDID>
@@ -6150,7 +6150,7 @@ Rusty jede!</Dest>
       <EDID>DN061_SubTerminalCrane</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Raising Crane...</Source>
-      <Dest>Zvedám jeřáb...</Dest>
+      <Dest>Zvedání jeřábu...</Dest>
     </String>
     <String List="0" sID="02AC11">
       <EDID>DN061_GunnerBossTerminalSub</EDID>
@@ -6198,13 +6198,13 @@ Rusty jede!</Dest>
       <EDID>DN061_SubTerminalCrane</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Lowering Crane...</Source>
-      <Dest>Skláním jeřáb...</Dest>
+      <Dest>Sklápění jeřábu...</Dest>
     </String>
     <String List="0" sID="02AD46">
       <EDID>DN061_GunnerBossTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Loading Logs...</Source>
-      <Dest>Načítání záznamuy...</Dest>
+      <Dest>Načítání záznamů...</Dest>
     </String>
     <String List="0" sID="02AD6D">
       <EDID>DN069_JalbertTerminal</EDID>
@@ -6555,7 +6555,7 @@ Bezpečnostní terminál konzervárny Čtyřlístek&#xD;
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC>TERM:WNAM</REC>
       <Source>MED-TEK LABS AIRLOCK</Source>
-      <Dest>VZDUCHOVÝ ZÁMEK LABORATOŘÍ MED-TEK</Dest>
+      <Dest>PŘECHODOVÁ KOMORA LABORATOŘÍ MED-TEK</Dest>
     </String>
     <String List="0" sID="02C81A">
       <EDID>DN015_PuzzleTerminal</EDID>
@@ -6827,7 +6827,7 @@ Záznam o zasvěcení nováčků.&#xD;
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC>TERM:FULL</REC>
       <Source>Airlock Terminal</Source>
-      <Dest>Terminál vzduchového zámku</Dest>
+      <Dest>Terminál přechodové komory</Dest>
     </String>
     <String List="0" sID="02CD72">
       <EDID>DN034_TortureTerminal02</EDID>
@@ -7610,7 +7610,7 @@ Zastavení dokončeno. Všichni roboti byli vypnuti.</Dest>
       <EDID>DN070_Baseball</EDID>
       <REC>MISC:FULL</REC>
       <Source>Youth League Baseball</Source>
-      <Dest>Baseballová liga mladých</Dest>
+      <Dest>Baseballový míček ligy mladých</Dest>
     </String>
     <String List="0" sID="02DD58">
       <EDID>DN035_MasterControlTerminal</EDID>
@@ -8769,7 +8769,7 @@ Nemůžeme podniknout nic dalšího. Ne, dokud nezjistíme, kdo je zásobuje inf
 Once the screaming stopped, we offered a deal. They took it. Now all that's left is Back Street Apparel. Then downtown is ours.</Source>
       <Dest>Za úsvitu jsme dorazili do pivnice Trojlístek. Sekáč se vplížil dovnitř a poškodil zámky na všech východech. Pak Krouťák pustil svoje psy a ti čoklové se postarali o zbytek.&#xD;
 &#xD;
-Jak na chvilku ustal řev, nabídli jsme jim dohodu. Přijali ji. Teď už zbývají jen Oděvy v Postranní uličce. Pak bude centrum naše.</Dest>
+Jak na chvilku ustal řev, nabídli jsme jim dohodu. Přijali ji. Teď už zbývají jen Oděvy v postranní uličce. Pak bude centrum naše.</Dest>
     </String>
     <String List="0" sID="030B0A">
       <EDID>DN040_LilysLetter01</EDID>
@@ -9254,7 +9254,7 @@ Ti hajzlové se mě snaží vystrašit. Já nejsem ten, kdo by se měl bát. Je 
 Can't have that kind of shit. Makes me look like I'm not in control.&#xD;
 &#xD;
 Torque ain't getting off as easy as his dog did.</Source>
-      <Dest>Krouťákův proklatý čokl mi málem utrhl ruku. Čistili jsme to v Oděvech v Postranní uličce a ten podvraťák se mi zakousl do ruky. Musel jsem do něj narvat kulku, aby ji pustil. &#xD;
+      <Dest>Krouťákův proklatý čokl mi málem utrhl ruku. Čistili jsme to v Oděvech v postranní uličce a ten podvraťák se mi zakousl do ruky. Musel jsem do něj narvat kulku, aby ji pustil. &#xD;
 &#xD;
 Nemůžu trpět tohle svinstvo. Vypadá to, jako když se neovládám.&#xD;
 &#xD;
@@ -9919,7 +9919,7 @@ NEJSI ZEKE? TAK NAMIŘ KUKADLA JINAM!!!&#xD;
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Open Airlock Doors</Source>
-      <Dest>Otevřít vzduchový zámek dveří</Dest>
+      <Dest>Otevřít dveře přechodové komory</Dest>
     </String>
     <String List="0" sID="03403E">
       <EDID>DN066_AirlockTerminal01</EDID>
@@ -9957,13 +9957,13 @@ Maintenance has been notified.</Source>
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Close Airlock Doors</Source>
-      <Dest>Zavřít vzduchový zámek dveří</Dest>
+      <Dest>Zavřít dveře přechodové komory</Dest>
     </String>
     <String List="0" sID="03474D">
       <EDID>DN066_AirlockTerminal01</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Open Airlock Doors</Source>
-      <Dest>Otevřít vzduchový zámek dveří</Dest>
+      <Dest>Otevřít dveře přechodové komory</Dest>
     </String>
     <String List="0" sID="034914">
       <EDID>DN066_AirlockTerminal01</EDID>
