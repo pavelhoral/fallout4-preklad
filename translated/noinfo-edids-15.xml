@@ -8557,7 +8557,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="57">RACE:TTGP</REC>
       <Source>Face Tattoos</Source>
-      <Dest>Obličejové tetování</Dest>
+      <Dest>Tetování</Dest>
     </String>
     <String List="0" sID="036613">
       <EDID>HumanRace</EDID>
@@ -8689,7 +8689,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="158">RACE:TTGP</REC>
       <Source>Face Paint</Source>
-      <Dest>Obličejové barvy</Dest>
+      <Dest>Barvy obličeje</Dest>
     </String>
     <String List="0" sID="036629">
       <EDID>HumanRace</EDID>
@@ -9055,7 +9055,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>HumanRace</EDID>
       <REC id="6">RACE:TTGP</REC>
       <Source>Face Paint</Source>
-      <Dest>Barvy</Dest>
+      <Dest>Barvy obličeje</Dest>
     </String>
     <String List="0" sID="036666">
       <EDID>HumanRace</EDID>
@@ -9852,7 +9852,7 @@ For more information about mods, see the "Mods" entry.</Source>
 &#xD;
 Míření ti poskytuje lepší kontrolu nad zbraní. Zvyšuje přesnost, snižuje rychlost pohybu a v závislosti na mířidle může poskytnout menší přiblížení cíle.&#xD;
 &#xD;
-Zbraně s optikou poskytují větší přiblížení, ale budou se kývat. Pro snížení kývání při míření přes optiku přidrž [Steady] k zadržení dechu. Zadržení dechu vyrovná tvojí optiku, ale průběžně spotřebovává Akční Body.&#xD;
+Zbraně s optikou poskytují větší přiblížení, ale budou se kývat. Pro snížení kývání při míření přes optiku přidrž [Steady] k zadržení dechu. Zadržení dechu vyrovná tvojí optiku, ale průběžně spotřebovává akční Body.&#xD;
 &#xD;
 Různé druhy zbraňových modifikací mohou ovlivnit tvé míření:&#xD;
 &#xD;
@@ -9881,7 +9881,7 @@ You can slow the accumulation of rads by increasing your Radiation Resistance. Y
 Radiation damage is permanent unless treated.  Use RadAway or visit a doctor to restore health lost to rads.</Source>
       <Dest>Dvě století po nukleární válce je radiace stále velmi reálným nebezpečím v Commonwealthu.&#xD;
 &#xD;
-Vystavení se radiaci způsobuje radiační poškození („Rady“), které snižují maximální hodnotu tvého zdraví. Čím více radů obdržíš, tím více Bodů zdraví (BZ) ztratíš.&#xD;
+Vystavení se radiaci způsobuje radiační poškození („Rady“), které snižují maximální hodnotu tvého zdraví. Čím více radů obdržíš, tím více bodů zdraví (BZ) ztratíš.&#xD;
 &#xD;
 Množství nahromaděných radů je zobrazeno červeně vedle symbolu pro radiaci na tvém ukazateli zdraví. Tvůj Pip-Boy má také zabudovaný indikátor na pravé straně obrazovky.&#xD;
 &#xD;
@@ -10293,7 +10293,7 @@ You can improve your chances to successfully persuade others by increasing your 
 &#xD;
 Příležitost k přesvědčování se objeví během konverzace jako žlutá, oranžová nebo červená dialogová možnost. Barva dialogové možnosti indikuje její obtížnost: žlutá - lehká, oranžová - středně náročná, červená - těžká.&#xD;
 &#xD;
-Svojí šanci na úspěšné přesvědčování druhých můžeš zlepšit zvýšením atributu Charisma nebo výběrem některých perků.&#xD;
+Svojí šanci na úspěšné přesvědčování druhých můžeš zlepšit zvýšením vlastnosti Charisma nebo výběrem některých perků.&#xD;
 </Dest>
     </String>
     <String List="1" sID="03205D">
@@ -10560,7 +10560,7 @@ Sprinting consumes Action Points (AP). Run out of AP, and you'll be unable to sp
 You can slow the rate at which sprinting drains your AP by increasing your Endurance attribute.</Source>
       <Dest>Stiskni [Sprint] pro sprintování.&#xD;
 &#xD;
-Sprintování spotřebovává Akční body (AB). Pokud ti dojdou Akční body, nebudeš mít možnost sprintovat.&#xD;
+Sprintování spotřebovává akční body (AB). Pokud ti dojdou akční body, nebudeš mít možnost sprintovat.&#xD;
 &#xD;
 Můžeš snížit rychlost, kterou sprintování spotřebovává tvoje AB, zvýšením vlastnosti Odolnost.</Dest>
     </String>
@@ -10574,7 +10574,7 @@ Sleeping restores all lost Hit Points and restores crippled limbs. &#xD;
 Sleeping in a bed you own will temporarily grant you the "Well Rested" perk, increasing the rate at which you gain Experience Points.</Source>
       <Dest>Spát můžeš v kterékoliv veřejné posteli, lůžku, matraci nebo spacáku.&#xD;
 &#xD;
-Spánek obnoví všechny ztracené Body zdraví a obnoví ochromené části těla.&#xD;
+Spánek obnoví všechny ztracené body zdraví a obnoví ochromené části těla.&#xD;
 &#xD;
 Spánek v posteli, kterou vlastníš, dočasně poskytne perk „Svěží“, který zvyšuje počet získávaných zkušeností.</Dest>
     </String>
@@ -10882,7 +10882,7 @@ The fastest way to reduce the amount of weight you're carrying is by dropping it
 To drop an item, press [PipBoy] to enter the Pip-Boy and open the Inventory (INV) tab with [Click]. Highlight the item(s) you wish to drop with the cursor and press [XButton].&#xD;
 &#xD;
 Items you drop will remain for a time, but leave them too long and there's a good chance they'll be gone when you finally come back.</Source>
-      <Dest>Množství zátěže, kterou uneseš je určeno atributem Síla. Čím vyšší je tvá síla, tím více toho uneseš. Tuto hodnotu můžeš dále zvýšit výběrem určitých perků nebo nošením energozbroje.&#xD;
+      <Dest>Množství zátěže, kterou uneseš je určeno vlastností Síla. Čím vyšší je tvá síla, tím více toho uneseš. Tuto hodnotu můžeš dále zvýšit výběrem určitých perků nebo nošením energozbroje.&#xD;
 &#xD;
 Pokud ovšem toho množství překročíš, nebudeš moci běžet, sprintovat, ani rychle cestovat.&#xD;
 &#xD;
@@ -10943,7 +10943,7 @@ Efektivitu útoku můžeš zvýšit přidáním modifikace bajonet.&#xD;
 Boj zblízka&#xD;
 Držíš-li chladnou zbraň, stiskni [SecondaryAttack] pro pokus blokovat příchozí útok chladnou zbraní. Úspěšný blok snižuje příchozí poškození a má šanci krátce vyvést nepřítele z rovnováhy.&#xD;
 &#xD;
-Stiskni [Melee] pro provedení silného útoku. Silný útok spotřebovává Akční Body, ale úspěšný silný útok způsobuje vyšší poškození a vyvede nepřítele z rovnováhy. Silné útoky těžkou zbraní mohou dokonce prolomit blok nepřátel.&#xD;
+Stiskni [Melee] pro provedení silného útoku. Silný útok spotřebovává akční Body, ale úspěšný silný útok způsobuje vyšší poškození a vyvede nepřítele z rovnováhy. Silné útoky těžkou zbraní mohou dokonce prolomit blok nepřátel.&#xD;
 &#xD;
 Odkládání zbraně&#xD;
 Cestování s vytaženou zbraní může nepříznivě ovlivnit rychlost pohybu. Čím těžší zbraň držíš, tím pomaleji se pohybuješ. Přidrž [ReadyWeapon] pro uložení zbraně do pouzdra a obnovení rychlosti.&#xD;
@@ -11359,7 +11359,7 @@ Vnímání&#xD;
 Vysoké vnímání zvyšuje tvou šanci na zásah ve V.A.T.S. a od jaké vzdálenosti se začnou nepřátelé zobrazovat na kompasu.&#xD;
 &#xD;
 Odolnost&#xD;
-Odolnost udává kolik Bodů zdraví získáš za úroveň, stejně jako rychlost se kterou spotřebováváš Akční body při sprintování. &#xD;
+Odolnost udává kolik bodů zdraví získáš za úroveň, stejně jako rychlost se kterou spotřebováváš akční body při sprintování. &#xD;
 &#xD;
 Charisma&#xD;
 Vysoké charisma vylepšuje tvou šanci na přesvědčení druhých a snižuje ceny u obchodníků.&#xD;
@@ -11368,12 +11368,12 @@ Inteligence&#xD;
 Zvýšení tvojí inteligence zvyšuje rychlost se kterou získáváš zkušenosti. &#xD;
 &#xD;
 Obratnost&#xD;
-Obratnost ovlivňuje tvoji schopnost plížení, kapsářství a Akční body ve V.A.T.S.&#xD;
+Obratnost ovlivňuje tvoji schopnost plížení, kapsářství a akční body ve V.A.T.S.&#xD;
 &#xD;
 Štěstí&#xD;
 Štěstí udává rychlost obnovy schopnosti kritického útoku ve V.A.T.S. a tvé šance na nalezení lepších předmětů.&#xD;
 &#xD;
-Vylepšování SPECIAL atributů&#xD;
+Vylepšování SPECIAL vlastností&#xD;
 Můžeš permanentně zvýšit kteroukoliv ze SPECIAL vlastností výběrem perku „Tréning“ z přehledu perků.&#xD;
 &#xD;
 SPECIAL vlastnosti mohou také být dočasně zvýšeny nošením některého vybavení nebo konzumací jídla a chemikálií.&#xD;
@@ -11807,7 +11807,7 @@ Critical Hits&#xD;
 Every successful hit made in V.A.T.S. fills your Critical meter. Once full, you can press [ApplyCritical] to unleash a high-powered attack.&#xD;
 &#xD;
 How quickly your Critical meter fills is determined by your Luck attribute.</Source>
-      <Dest>Změřovací asistent Vault-Tecu - neboli V.A.T.S. - ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
+      <Dest>Zaměřovací asistent Vault-Tecu - neboli V.A.T.S. - ti dovolí několikrát v řadě za sebou zaútočit na blízké nepřátele.&#xD;
 &#xD;
 Pro vstup do V.A.T.S. stiskni [VATS]. Jakmile se ocitneš v režimu V.A.T.S., běh času bude zpomalen, ale stále můžeš obdržet poškození z příchozích útoků.&#xD;
 &#xD;
@@ -11822,7 +11822,7 @@ Tvá šance na úspěšný zásah konkrétního cíle nebo části těla bude zo
 &#xD;
 Pro označení cíle pro útok jej zvýrazni kurzorem a stiskni [Click]. Můžeš označit pouze ty cíle, které se nacházejí v dosahu střelby tvé zbraně, takže pokud používáš chladnou zbraň, budeš se muset přiblížit k nepříteli před spuštěním V.A.T.S.&#xD;
 &#xD;
-Počet nepřátel, které můžeš označit je limitován tvými Akčními body. Zvýšením vlastnosti Obratnost lze navýšit počet nepřátel, které poté můžeš najednou označit. Pro zrušení označení cíle použij [Cancel:13] nebo [Mouse2].&#xD;
+Počet nepřátel, které můžeš označit je limitován tvými akčními body. Zvýšením vlastnosti Obratnost lze navýšit počet nepřátel, které poté můžeš najednou označit. Pro zrušení označení cíle použij [Cancel:13] nebo [Mouse2].&#xD;
 &#xD;
 Pro přepínání mezi zaměřenými nepřáteli používej [NextTarget] a [PrevTarget]. Můžeš také přidržet [ZoomIn:13] a pohybovat myší a rozhlédnout se kolem po dostupných cílích.&#xD;
 &#xD;
@@ -11831,7 +11831,7 @@ Když máš připravené provedení svých útoků, stiskni [Accept:13].&#xD;
 Kritické zásahy&#xD;
 Každý úspěšný zásah provedený ve V.A.T.S. naplňuje tvou schopnost kritického útoku. Jakmile je plná, můžeš stisknout [ApplyCritical] a spustit vysoce silný útok.&#xD;
 &#xD;
-Rychlost naplňování tvé schopnosti kritického útoku je určená atributem Štěstí.</Dest>
+Rychlost naplňování tvé schopnosti kritického útoku je určená vlastností Štěstí.</Dest>
     </String>
     <String List="1" sID="0323D4">
       <EDID>HelpPickpocketingXbox</EDID>
@@ -12265,7 +12265,7 @@ Pro provedení silného útoku s chladnou zbraní, stiskni [Melee]. Provádění
 &#xD;
 Většina chladných zbraní je také značné tišší než střelné zbraně, což z nich činí ideální volbu pro použití při plížení.&#xD;
 &#xD;
-Efektivitu s chladnými zbraněmi můžeš zvýšit navýšením atributu Síla nebo nošením energozbroje.</Dest>
+Efektivitu s chladnými zbraněmi můžeš zvýšit navýšením vlastnosti Síla nebo nošením energozbroje.</Dest>
     </String>
     <String List="1" sID="03242F">
       <EDID>HelpHolotapeGamesXbox</EDID>
@@ -12786,7 +12786,7 @@ Tvá šance na úspěšný zásah konkrétního cíle nebo části těla bude zo
 &#xD;
 Pro označení cíle pro útok stiskni [Pick]. Pro přepínání mezi částmi těla použij [LeftStick]. Můžeš označit pouze ty cíle, které se nacházejí v dosahu střelby tvé zbraně, takže pokud používáš chladnou zbraň, budeš se muset přiblížit k nepříteli před spuštěním V.A.T.S.&#xD;
 &#xD;
-Počet nepřátel, které můžeš označit je limitován tvými Akčními body. Zvýšením vlastnosti Obratnost lze navýšit počet nepřátel, které poté můžeš najednou označit. Pro zrušení označení cíle použij [Cancel].&#xD;
+Počet nepřátel, které můžeš označit je limitován tvými akčními body. Zvýšením vlastnosti Obratnost lze navýšit počet nepřátel, které poté můžeš najednou označit. Pro zrušení označení cíle použij [Cancel].&#xD;
 &#xD;
 Pro přepnutí na další blízké nepřátele použij [RightStick].&#xD;
 &#xD;
@@ -12797,7 +12797,7 @@ Můžeš se také ve V.A.T.S. rozhlédnout kolem stisknutím [ZoomIn:13] společ
 Kritické zásahy&#xD;
 Každý úspěšný zásah provedený ve V.A.T.S. naplňuje tvou schopnost kritického útoku. Jakmile je plná, můžeš stisknout [ApplyCritical] a spustit vysoce silný útok.&#xD;
 &#xD;
-Rychlost naplňování tvé schopnosti kritického útoku je určená atributem Štěstí.</Dest>
+Rychlost naplňování tvé schopnosti kritického útoku je určená vlastností Štěstí.</Dest>
     </String>
     <String List="1" sID="032508">
       <EDID>HelpContainerPC</EDID>
@@ -13289,7 +13289,7 @@ Quest targets for your active quests will appear on your compass as green square
 &#xD;
 Spolu s ukazatelem tvého směru cesty, zobrazuje kompas neobjevená zajímavá místa v okolí jako obrys ikony. Čím blíže jsi k určitému místu, tím větší je jeho ikona. Jakmile je místo objeveno, obrys jeho ikony se vyplní.&#xD;
 &#xD;
-Nepřátelé v okolí se na kompasu také zobrazí. Vzdálenost od které se na kompasu začnou nepřátelé objevovat je určena atributem Vnímání. S vyšším vnímáním jsi schopen zaznamenat vzdálenější nepřátele.&#xD;
+Nepřátelé v okolí se na kompasu také zobrazí. Vzdálenost od které se na kompasu začnou nepřátelé objevovat je určena vlastností Vnímání. S vyšším vnímáním jsi schopen zaznamenat vzdálenější nepřátele.&#xD;
 &#xD;
 Detekovaní nepřátelé se na kompasu objeví jako červené čtverce. Pokud je nepřítel nad nebo pod tebou, objeví se na jeho čtverci šipka, značící jeho pozici.&#xD;
 &#xD;
@@ -13465,7 +13465,7 @@ The fastest way to reduce the amount of weight you're carrying is by dropping it
 To drop an item, press [PipBoy] to enter the Pip-Boy and open the Inventory (INV) tab with [LTrigger]/[RTrigger]. Highlight the item(s) you wish to drop using [LeftStick] and press [XButton].&#xD;
 &#xD;
 Items you drop will remain for a time, but leave them too long and there's a good chance they'll be gone when you finally come back.</Source>
-      <Dest>Množství zátěže, kterou uneseš je určeno atributem Síla. Čím vyšší je tvá síla, tím více toho uneseš. Tuto hodnotu můžeš dále zvýšit výběrem určitých perků nebo nošením energozbroje.&#xD;
+      <Dest>Množství zátěže, kterou uneseš je určeno vlastností Síla. Čím vyšší je tvá síla, tím více toho uneseš. Tuto hodnotu můžeš dále zvýšit výběrem určitých perků nebo nošením energozbroje.&#xD;
 &#xD;
 Pokud ovšem toho množství překročíš, nebudeš moci běžet, sprintovat, ani rychle cestovat.&#xD;
 &#xD;

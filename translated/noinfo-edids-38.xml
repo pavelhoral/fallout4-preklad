@@ -2295,13 +2295,13 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>WorkshopTutorialMessage04_1_Start</EDID>
       <REC>MESG:DESC</REC>
       <Source>A worker that is already assigned to produce Food can work on multiple Food-producing objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCFood&gt; Food total).</Source>
-      <Dest>Pracovník, který je přiřazen na produkci JÍDLA, může pracovat na více objektech produkujících JÍDLO (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCFood&gt; jednotek JÍDLA).</Dest>
+      <Dest>Pracovník, který je přiřazen na produkci jídla, může pracovat na více objektech produkujících jídlo (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCFood&gt; jednotek jídla).</Dest>
     </String>
     <String List="1" sID="0298D6">
       <EDID>WorkshopTutorialMessage05_1_Start</EDID>
       <REC>MESG:DESC</REC>
       <Source>A worker that is already assigned to produce Defense can work on multiple Defense-producing objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; Defense total).</Source>
-      <Dest>Pracovník, který je přiřazen na produkci OBRANY, může pracovat na více objektech produkujících OBRANU (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek OBRANY).</Dest>
+      <Dest>Pracovník, který je přiřazen na produkci obrany, může pracovat na více objektech produkujících obranu (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek obrany).</Dest>
     </String>
     <String List="1" sID="0298D7">
       <EDID>WorkshopTutorialMessage06_1</EDID>
@@ -2331,7 +2331,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>WorkshopTutorialMessage05_1_Start2</EDID>
       <REC>MESG:DESC</REC>
       <Source>When you build new Defense objects, existing guards will automatically assign themselves to work on them if they are not at their maximum capacity.</Source>
-      <Dest>Jakmile postavíš nové objekty pro OBRANU, současní strážci se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
+      <Dest>Jakmile postavíš nové objekty pro obranu, současní strážci se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
     </String>
     <String List="1" sID="02A54B">
       <EDID>WorkshopTutorialMessage02_1_Start2</EDID>
@@ -2349,13 +2349,13 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>WorkshopTutorialMessage04_1_Start3</EDID>
       <REC>MESG:DESC</REC>
       <Source>In the same way, workers assigned to Defense-producing objects will also assign themselves to new Defense objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; Defense total).</Source>
-      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím OBRANU se sami přiřadí k novým objektům pro OBRANU (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek OBRANY).</Dest>
+      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím obranu se sami přiřadí k novým objektům pro obranu (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek obrany).</Dest>
     </String>
     <String List="1" sID="02A7EC">
       <EDID>WorkshopTutorialMessage05_1_Start3</EDID>
       <REC>MESG:DESC</REC>
       <Source>In the same way, workers assigned to Food-producing objects will also assign themselves to new Food objects (up to a maximum of &lt;Global=WorkshopMaxProductionPerNPCFood&gt; Food total).</Source>
-      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím JÍDLO se sami přiřadí k novým objektům pro JÍDLO (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCSafety&gt; jednotek JÍDLA).</Dest>
+      <Dest>Stejně tak pracovníci přiřazení k objektům produkujícím jídlo se sami přiřadí k novým objektům pro jídlo (až do maximálně &lt;Global=WorkshopMaxProductionPerNPCFood&gt; jednotek jídla).</Dest>
     </String>
     <String List="1" sID="02A7ED">
       <EDID>WorkshopTutorialMessage06_1_Start2</EDID>
@@ -2367,7 +2367,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>WorkshopTutorialMessage04_1_Start2</EDID>
       <REC>MESG:DESC</REC>
       <Source>When you build new Food-producing objects, existing farmers will automatically begin working on them (if not already at maximum capacity).</Source>
-      <Dest>Jakmile postavíš nové objekty produkující JÍDLO, současní farmáři se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
+      <Dest>Jakmile postavíš nové objekty produkující jídlo, současní farmáři se k nim automaticky přiřadí, pokud sami nepřesáhli svoji maximální kapacitu.</Dest>
     </String>
     <String List="1" sID="02BCF6">
       <EDID>WorkshopUnownedHostileMessage</EDID>
@@ -2443,7 +2443,7 @@ Objekty v dílně jsou stavěny z komponent. Při stavbě objektu jsou automatic
       <EDID>WorkshopTutorialMessage07_1_Start</EDID>
       <REC>MESG:DESC</REC>
       <Source>When your Defense value is too low, the chance for attacks on your settlement increases. You should try to keep your Defense value at least as high as the sum of your Food and Water production.</Source>
-      <Dest>Pokud je úroveň tvé OBRANY příliš nízká, zvyšuje se šance, že někdo na tvou osadu zaútočí. Úroveň tvé OBRANY by měla být alespoň na stejné hodnotě, jako je součet produkce JÍDLA a VODY.</Dest>
+      <Dest>Pokud je úroveň tvé obrany příliš nízká, zvyšuje se šance, že někdo na tvou osadu zaútočí. Úroveň tvé obrany by měla být alespoň na stejné hodnotě, jako je součet produkce jídla a vody.</Dest>
     </String>
     <String List="1" sID="032B79">
       <EDID>WorkshopTutorialMessage10_1_Start</EDID>
@@ -2455,7 +2455,7 @@ Objekty v dílně jsou stavěny z komponent. Při stavbě objektu jsou automatic
       <EDID>WorkshopTutorialMessage08_1_Start2</EDID>
       <REC>MESG:DESC</REC>
       <Source>Once these basics are met, you can also increase overall happiness by raising the settlement's Defense rating. This will also reduce the chance that your settlement will be attacked.</Source>
-      <Dest>Jakmile naplníš základní potřeby, můžeš vylepšit celkovou spokojenost navýšením úrovně OBRANY osady. To zároveň sníží šanci, že někdo na osadu zaútočí.</Dest>
+      <Dest>Jakmile naplníš základní potřeby, můžeš vylepšit celkovou spokojenost navýšením úrovně obrany osady. To zároveň sníží šanci, že někdo na osadu zaútočí.</Dest>
     </String>
     <String List="1" sID="034C43">
       <EDID>WorkshopSynthInfiltrator01Message</EDID>
