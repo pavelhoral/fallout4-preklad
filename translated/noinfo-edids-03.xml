@@ -395,7 +395,7 @@ Musím se trošičku umírnit - myslím, že lidi začínaj být podezřívaví.
       <EDID>BoSM01_BunkerTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Security Door Control</Source>
-      <Dest> &gt; kontrola bezpečnostních dveří</Dest>
+      <Dest> &gt; Ovládání bezpečnostních dveří</Dest>
     </String>
     <String List="0" sID="0157B8">
       <EDID>BoS301</EDID>
@@ -2005,7 +2005,7 @@ Ghúlové se maca vůbec nedotkli, ale kousky krtkopotkanů je trošku zaujaly. 
       <EDID>BoSM04</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>(Optional) Kill Virgil</Source>
-      <Dest>(volitelné) Zabij Virgila</Dest>
+      <Dest>(Nepovinné) Zabij Virgila</Dest>
     </String>
     <String List="0" sID="01FEFD">
       <EDID>BoS101</EDID>
@@ -4411,7 +4411,7 @@ Tomorrow, my friends, the unthinkable will finally come to pass. And life in Bos
 Autor: Buster Connolly&#xD;
 Kmenový autor Bostonské Polnice&#xD;
 &#xD;
-Každý obyvatel Bostonu si je bolestně vědom toho, že už to je 159 let co město zažilo pocit vítězství ve světové sérii. Je jedno jestli kvůli vystrikeování, chybě v poli, anebo kvůli míčku, který se prokutálel vnitřnímu polaři pod nohama, prohra zůstávala naším neustálým a nevítaným společníkem.&#xD;
+Každý obyvatel Bostonu si je bolestně vědom toho, že už to je 159 let co město zažilo pocit vítězství ve světové sérii. Je jedno jestli kvůli vystrikeování, chybě v poli anebo kvůli míčku, který se prokutálel vnitřnímu polaři pod nohama, prohra zůstávala naším neustálým a nevítaným společníkem.&#xD;
 &#xD;
 Ale ne na dlouho!&#xD;
 &#xD;
@@ -6898,7 +6898,7 @@ Vsadím se, že si myslíš, že budu zrcadlit tvůj tah, ale víš co? Pohnu m�
       <EDID>BotModelParts02</EDID>
       <REC>MISC:FULL</REC>
       <Source>Robot Parts Model</Source>
-      <Dest>Model součástek robota</Dest>
+      <Dest>Model robota</Dest>
     </String>
     <String List="0" sID="03468A">
       <EDID>BotModelGutsy</EDID>
@@ -6952,13 +6952,13 @@ Vsadím se, že si myslíš, že budu zrcadlit tvůj tah, ale víš co? Pohnu m�
       <EDID>BotModelParts03</EDID>
       <REC>MISC:FULL</REC>
       <Source>Robot Parts Model</Source>
-      <Dest>Model součástek robota</Dest>
+      <Dest>Model robota</Dest>
     </String>
     <String List="0" sID="0349A9">
       <EDID>BotModelParts01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Robot Parts Model</Source>
-      <Dest>Model součástek robota</Dest>
+      <Dest>Model robota</Dest>
     </String>
     <String List="0" sID="034C38">
       <EDID>Bot_AssaultronFrontDecalsPAM</EDID>
