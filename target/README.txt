@@ -20,7 +20,7 @@ Překlad mají na svědomí zejména:
 
  * Palko (vedoucí překladu)
  * Dumec (překladatel / korektor)
- * Widlacek (překladatel)
+ * Widl (překladatel)
  * Jane (překladatelka)
  * Tereza (překladatelka)
  * Stoupa (vedoucí korektury)
