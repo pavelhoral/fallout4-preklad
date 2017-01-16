@@ -6,12 +6,14 @@ var fs = require('fs'),
     path = require('path'),
     xml2js = require('xml2js'),
     program = require('commander'),
+    latinize = require('latinize'),
     parseStrings = require('./parse/parse-strings');
 
 program.
     usage('[options] <file>').
     option('-t, --target <directory>', 'Target output directory (defaults to target/Strings).').
     option('-s, --shadow <directory>', 'Shadow translation source directory.').
+    option('-u, --unaccent', 'Remove all accents from translation strings.').
     option('-d, --debug', 'Prepend string identifiers to translations.').
     parse(process.argv);
 
@@ -52,6 +54,17 @@ function applyDebug(strings) {
     });
 }
 
+var UNACCENT_TYPES = [
+    'TERM:BTXT', 'TERM:ITXT', 'TERM:NAM0', 'TERM:RNAM', 'TERM:UNAM', 'TERM:WNAM',
+    'BOOK:DESC', 'PERK:FULL'
+];
+function renderString(string) {
+    var result = string.Dest[0].normalize('NFC'),
+        type = typeof string.REC[0] === 'string' ? string.REC[0] : string.REC[0]._,
+        unaccent = program.unaccent && UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType));
+    return unaccent ? latinize(result) : result;
+}
+
 var xmlObject = loadXml(program.args[0]),
     inputParams = xmlObject.SSTXMLRessources.Params[0],
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
@@ -62,7 +75,7 @@ var xmlObject = loadXml(program.args[0]),
     var strings = inputStrings.
             filter((string) => string.$.List == index).
             reduce((result, string) => {
-                result[parseInt(string.$.sID, 16)] = string.Dest[0];
+                result[parseInt(string.$.sID, 16)] =  renderString(string);
                 return result;
             }, {});
     if (program.shadow) {
