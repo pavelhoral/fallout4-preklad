@@ -55,13 +55,21 @@ function applyDebug(strings) {
 }
 
 var UNACCENT_TYPES = [
-    'TERM:BTXT', 'TERM:ITXT', 'TERM:NAM0', 'TERM:RNAM', 'TERM:UNAM', 'TERM:WNAM',
-    'BOOK:DESC', 'PERK:FULL'
-];
+        'TERM:BTXT', 'TERM:ITXT', 'TERM:NAM0',
+        'TERM:RNAM', 'TERM:UNAM', 'TERM:WNAM',
+        'BOOK:DESC',
+        'PERK:FULL'
+    ],
+    UNACCENT_EDIDS = [
+        'sPlayTape' // TODO tohle by se dalo prelozit bez hacku (spustit pasku)
+    ];
 function renderString(string) {
     var result = string.Dest[0].normalize('NFC'),
         type = typeof string.REC[0] === 'string' ? string.REC[0] : string.REC[0]._,
-        unaccent = program.unaccent && UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType));
+        unaccent = program.unaccent && (
+                UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType)) ||
+                UNACCENT_EDIDS.indexOf(string.EDID[0]) > -1
+            );
     return unaccent ? latinize(result) : result;
 }
 
