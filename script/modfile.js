@@ -8,6 +8,7 @@ var parseSource = require('./parse/parse-source'),
     renderFormId = require('./utils/render-formId'),
     program = require('commander'),
     util = require('util'),
+    path = require('path'),
     fs = require('fs');
 
 program.
@@ -119,6 +120,20 @@ program.
                     match.editorId);
         });
         writeOutput(resultData.join('\n'));
+    });
+
+/**
+ * Create 'baked' modfile.
+ */
+program.
+    command('bake').
+    description('Produce modfile with baked-in translations.').
+    action(() => {
+        var modfileBake = require('./modfile/bake'),
+            strings = readStrings(),
+            baker = readModfile(new modfileBake.RecordBaker(strings));
+        baker.stack[0].data.unshift(baker.bakeHeader('DEFAULT', path.basename(program.modfile)));
+        fs.writeFileSync(program.modfile + '.BAKED', Buffer.concat(baker.stack[0].data));
     });
 
 /**

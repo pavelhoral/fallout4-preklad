@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 var parseModfile = require('../parse/parse-modfile');
 
 var MODFILE_TYPES = new parseModfile.ModfileType([
