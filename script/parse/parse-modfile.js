@@ -1,4 +1,5 @@
-"use strict";
+'use strict';
+var zlib = require('zlib');
 
 /**
  * Modfile entry type constant pool.
@@ -166,7 +167,7 @@ class ModfileParser {
         handler.handleRecord(type, size, flags, formId, (handler) => {
             var buffer = this.source.read(size);
             if (flags & 0x00040000) {
-                // TODO GZIP handling
+                buffer = zlib.inflateSync(buffer.slice(4));
             }
             this.parseFields(buffer, handler);
             skip = 0;

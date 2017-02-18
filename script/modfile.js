@@ -132,8 +132,12 @@ program.
         var modfileBake = require('./modfile/bake'),
             strings = readStrings(),
             baker = readModfile(new modfileBake.RecordBaker(strings));
+        if (!baker.stack[0].dataIds.length) {
+            throw new Error("No data to bake.");
+        }
         baker.stack[0].data.unshift(baker.bakeHeader('DEFAULT', path.basename(program.modfile)));
         fs.writeFileSync(program.output || (program.modfile + '.BAKED'), Buffer.concat(baker.stack[0].data));
+
     });
 
 /**

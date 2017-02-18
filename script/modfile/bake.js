@@ -1,22 +1,25 @@
 "use strict";
+var zlib = require('zlib');
 
 var parseModfile = require('../parse/parse-modfile'),
     renderFormId = require('../utils/render-formId'),
     bakeDefs = require('./bake-defs');
 
-var MODFILE_TYPES = new parseModfile.ModfileType([ 'GRUP', 'GMST', 'EDID', 'DATA', 'INFO' ]),
+var MODFILE_TYPES = new parseModfile.ModfileType([
+        'GRUP', 'GMST', 'EDID', 'DATA', 'INFO', 'BOOK', 'REFR'
+    ]),
     BAKED_TYPES = new parseModfile.ModfileType(Object.keys(bakeDefs)),
     WATCHED_TYPES = Object.keys(bakeDefs).reduce((watched, type) => {
         watched[BAKED_TYPES[type]] = new parseModfile.ModfileType(bakeDefs[type]);
         return watched;
     }, {}),
-    CONTEXT_TYPES = new parseModfile.ModfileType([ 'QUST', 'DIAL' ]);
+    CONTEXT_TYPES = new parseModfile.ModfileType([ 'QUST', 'DIAL', 'WRLD', 'CELL' ]);
 
 var ROOT_CONTEXT = 0,
     GROUP_CONTEXT = 1,
     RECORD_CONTEXT = 2;
 
-var STATIC_VERSION = 0x0000;
+var STATIC_VERSION = 0xFFFF;
 
 /**
  * ModfileHandler implementation for baking translations.
@@ -29,8 +32,9 @@ class RecordBaker {
         this.context = {
             _: ROOT_CONTEXT,
             count: 0, // number of baked records
-            next: 0, // highest baked formId
-            data: []
+            overrideIds: [], // record overrides
+            dataIds: [], // baked formIds
+            data: [] // baked data
         };
         this.stack = [this.context];
     }
@@ -46,8 +50,8 @@ class RecordBaker {
             type: type,
             label: label,
             count: 0,
-            next: 0,
             head: null, // context record
+            dataIds: [],
             data: [],
             bake: false
         };
@@ -63,11 +67,9 @@ class RecordBaker {
         // Check for bake requests
         if (this.context.bake) {
             this.context.parent.bake = true; // Mark parent for baking
+            this.context.parent.dataIds = this.context.parent.dataIds.concat(this.context.dataIds);
             this.context.parent.data.push(this.bakeGroup(this.context));
             this.context.parent.count += this.context.count + this.context.data.length + 1;
-            if (this.context.parent.next < this.context.next) {
-                this.context.parent.next = this.context.next;
-            }
         }
     }
 
@@ -102,14 +104,15 @@ class RecordBaker {
         // Check for bake requests
         if (this.context.bake) {
             this.context.parent.bake = true; // Mark parent for baking
+            this.context.parent.dataIds.push(this.context.formId);
             this.context.parent.data.push(this.bakeRecord(this.context));
-            if (this.context.parent.next < formId) {
-                this.context.parent.next = formId;
+            if (this.context.type === MODFILE_TYPES.REFR) {
+                this.stack[0].overrideIds.push(this.context.formId);
             }
         } else if (CONTEXT_TYPES[type]) {
             this.context.parent.head = {
-                data: [this.bakeRecord(this.context)],
-                next: formId
+                dataIds: [formId],
+                data: [this.bakeRecord(this.context)]
             };
         }
     }
@@ -137,6 +140,10 @@ class RecordBaker {
         if (string === undefined) {
             throw new Error('Invalid string reference in ' + renderFormId(this.context.formId) + '.');
         }
+        // Remove unsafe characters
+        if (this.context.type === MODFILE_TYPES.BOOK) {
+            string = string.replace(/[„“]/gm, '"').replace(/[–]/gm, '-');
+        }
         this.context.data.push(this.bakeField(type, string));
         this.context.bake = true; // Request baking of the whole stack
     }
@@ -151,19 +158,25 @@ class RecordBaker {
     }
 
     bakeRecord(record) {
-        var length = record.data.reduce((length, buffer) => length + buffer.length, 0),
-            baked = Buffer.alloc(24 + length);
+        var data = Buffer.concat(record.data),
+            length = data.length,
+            baked = null;
+        // Write data first
+        if (record.flags & 0x00040000) {
+            data = zlib.deflateSync(data, { level: 7 });
+            baked = Buffer.alloc(28 + data.length);
+            baked.writeUInt32LE(length, 24);
+            data.copy(baked, 28);
+        } else {
+            baked = Buffer.alloc(24 + data.length);
+            data.copy(baked, 24);
+        }
         // Write record header
         baked.writeUInt32LE(record.type);
-        baked.writeUInt32LE(length, 4);
+        baked.writeUInt32LE(baked.length - 24, 4);
         baked.writeUInt32LE(record.flags, 8);
         baked.writeUInt32LE(record.formId, 12);
-        baked.writeUInt16LE(0x83, 20)
-        // Bake field data
-        record.data.reduce((offset, buffer) => {
-            buffer.copy(baked, offset);
-            return offset + buffer.length;
-        }, 24);
+        baked.writeUInt16LE(0x83, 20);
         return baked;
     }
 
@@ -184,12 +197,13 @@ class RecordBaker {
     }
 
     bakeHeader(author, master) {
-        var length = 24 +
+        var root = this.stack[0],
+            length = 24 +
                 /* HEDR */ 20 +
                 /* CNAM */ 7 + Buffer.byteLength(author) +
                 /* MAST */ 7 + Buffer.byteLength(master) +
                 /* DATA */ 12 +
-                /* ONAM */ 0 + // XXX
+                /* ONAM */ 6 + root.overrideIds.length * 4 + // XXX
                 /* INTV */ 10,
             baked = Buffer.alloc(length),
             offset;
@@ -202,8 +216,8 @@ class RecordBaker {
         baked.writeUInt32LE(MODFILE_TYPES.encode('HEDR'), offset);
         baked.writeUInt16LE(12, offset + 4)
         baked.writeUInt32LE(0x3F733333, offset + 6);
-        baked.writeInt32LE(this.stack[0].count, offset + 10);
-        baked.writeUInt32LE(this.stack[0].next + 1, offset + 14);
+        baked.writeInt32LE(root.count, offset + 10);
+        baked.writeUInt32LE(Math.max.apply(null, root.dataIds) + 1, offset + 14);
         offset += 18;
         // Write CNAM
         baked.writeUInt32LE(MODFILE_TYPES.encode('CNAM'), offset);
@@ -219,6 +233,14 @@ class RecordBaker {
         baked.writeUInt32LE(MODFILE_TYPES.encode('DATA'), offset);
         baked.writeUInt16LE(8, offset + 4)
         offset += 14;
+        // Write ONAM
+        baked.writeUInt32LE(MODFILE_TYPES.encode('ONAM'), offset);
+        baked.writeUInt16LE(root.overrideIds.length * 4, offset + 4);
+        root.overrideIds.sort().forEach(formId => {
+            baked.writeUInt32LE(formId, offset + 6);
+            offset += 4;
+        });
+        offset += 6;
         // Write INTV
         baked.writeUInt32LE(MODFILE_TYPES.encode('INTV'), offset);
         baked.writeUInt16LE(4, offset + 4);
