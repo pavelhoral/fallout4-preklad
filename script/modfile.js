@@ -133,7 +133,7 @@ program.
             strings = readStrings(),
             baker = readModfile(new modfileBake.RecordBaker(strings));
         baker.stack[0].data.unshift(baker.bakeHeader('DEFAULT', path.basename(program.modfile)));
-        fs.writeFileSync(program.modfile + '.BAKED', Buffer.concat(baker.stack[0].data));
+        fs.writeFileSync(program.output || (program.modfile + '.BAKED'), Buffer.concat(baker.stack[0].data));
     });
 
 /**

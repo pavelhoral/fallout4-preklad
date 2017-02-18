@@ -16,6 +16,8 @@ var ROOT_CONTEXT = 0,
     GROUP_CONTEXT = 1,
     RECORD_CONTEXT = 2;
 
+var STATIC_VERSION = 0x0000;
+
 /**
  * ModfileHandler implementation for baking translations.
  */
@@ -84,7 +86,7 @@ class RecordBaker {
             size: size,
             flags: flags,
             formId: formId,
-            watch: WATCHED_TYPES[type],
+            watch: WATCHED_TYPES[type] || {},
             data: [],
             bake: false
         };
@@ -172,8 +174,8 @@ class RecordBaker {
         baked.writeUInt32LE(baked.length, 4);
         baked.writeUInt32LE(group.label, 8);
         baked.writeUInt32LE(group.type, 12);
-        baked.writeUInt16LE(0xFFFF, 16); // XXX
-        baked.writeUInt16LE(0xFFFF, 20); // XXX
+        baked.writeUInt16LE(STATIC_VERSION, 16);
+        baked.writeUInt16LE(STATIC_VERSION, 20);
         group.data.reduce((offset, buffer) => {
             buffer.copy(baked, offset);
             return offset + buffer.length;
