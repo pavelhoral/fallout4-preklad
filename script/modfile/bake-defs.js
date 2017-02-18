@@ -6,6 +6,7 @@ module.exports = {
     'ACTI': ['ATTX', 'FULL'],
     'ALCH': ['DESC', 'DNAM', 'FULL'],
     'AMMO': ['FULL', 'ONAM', 'DESC', 'FULL'],
+    'ARMO': [ 'DESC', 'FULL' ],
     'AVIF': ['ANAM', 'DESC', 'FULL'],
     'BPTD': ['BPTN'],
     'BOOK': ['DESC', 'FULL'],
