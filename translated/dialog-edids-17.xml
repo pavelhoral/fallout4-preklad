@@ -593,7 +593,7 @@
       <EDID>[000A0007]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Please reconsider</Source>
-      <Dest>Prosím znovu to zvaž</Dest>
+      <Dest>Prosím, znovu to zvaž</Dest>
     </String>
     <String List="0" sID="01A4E3">
       <EDID>MinRecruitPlayerRaidersAlreadyDonePos</EDID>
@@ -935,7 +935,7 @@
       <EDID>[000A0041]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Working for the enemy</Source>
-      <Dest>Pracješ pro nepřítele</Dest>
+      <Dest>Pracuješ pro nepřítele</Dest>
     </String>
     <String List="0" sID="01FF3E">
       <EDID>[0009989E]</EDID>
@@ -1091,7 +1091,7 @@
       <EDID>[000A004C]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Brotherhood never lied</Source>
-      <Dest>Bratrstvo nikdyy nelhalo</Dest>
+      <Dest>Bratrstvo nikdy nelhalo</Dest>
     </String>
     <String List="0" sID="023592">
       <EDID>[000A001C]</EDID>
@@ -1385,7 +1385,7 @@
       <EDID>[0012A211]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Already cleared</Source>
-      <Dest>Už vyčištěno</Dest>
+      <Dest>Už je vyčištěné</Dest>
     </String>
     <String List="0" sID="027964">
       <EDID>[000A0046]</EDID>
@@ -1691,7 +1691,7 @@
       <EDID>[001A6D7C]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Already cleared</Source>
-      <Dest>Už vyčištěno</Dest>
+      <Dest>Už je vyčištěné</Dest>
     </String>
     <String List="0" sID="02966C">
       <EDID>MinRecruit01HowManyRaiders</EDID>
@@ -1799,7 +1799,7 @@
       <EDID>MinRadiantOwned04AskForHelp</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>We didn't want to take any chances after we noticed them sniffing around. We thought they might come back to take out the artillery.</Source>
-      <Dest>Nechtěli jsme nic riskovat, po tom, co jsme si všimli, že čmuchají kolem. Mysleli jsme, že by se mohli vrátit, aby sejmuli dělostřelectvo.</Dest>
+      <Dest>Nechtěli jsme nic riskovat potom, co jsme si všimli, že čmuchají kolem. Mysleli jsme, že by se mohli vrátit, aby sejmuli dělostřelectvo.</Dest>
     </String>
     <String List="2" sID="0129CE">
       <EDID>MinRecruit04WipeThemOut</EDID>
@@ -1859,7 +1859,7 @@
       <EDID>[000A0EDD]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>That's the hippocampus! And this thing attached to it. A neural interface?</Source>
-      <Dest>To je hipokampus! A ta věc, ke které je přichycený. To je neurální implantát?</Dest>
+      <Dest>To je hipokampus! A ta věc, ke které je přichycený… to je neurální implantát?</Dest>
     </String>
     <String List="2" sID="01308D">
       <EDID>[000A0037]</EDID>
@@ -2585,7 +2585,7 @@
       <EDID>InstM01Shared6</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Of course I don't. The whole point of their plan was to keep me from finding out.</Source>
-      <Dest>Samozřejmě že ne. Účelem celého jejich plánu bylo, abych to nezjistil.</Dest>
+      <Dest>Samozřejmě, že ne. Účelem celého jejich plánu bylo, abych to nezjistil.</Dest>
     </String>
     <String List="2" sID="0165C0">
       <EDID>[000A0023]</EDID>
@@ -2687,7 +2687,7 @@
       <EDID>[000994A5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We, should, I don't know. Bake a cake. That's what you do, right?</Source>
-      <Dest>Měli bysme, nevím. Upéct koláč. To děláte, ne?</Dest>
+      <Dest>Měli bychom, nevím... upéct koláč. To děláte, ne?</Dest>
     </String>
     <String List="2" sID="016A47">
       <EDID>[0009C853]</EDID>
@@ -2705,7 +2705,7 @@
       <EDID>[00099E74]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>This is the Sunshine diner. Gran says that they take all her hard work and turn it into swill.</Source>
-      <Dest>Tady je jídelna Sunshine. Babi říká, že tady mění všechnu její dřinu v pomyje. [není ve slovníčku, možná Paprsek]</Dest>
+      <Dest>Tady je jídelna Sluníčko. Babi říká, že tady mění všechnu její dřinu v pomyje.</Dest>
     </String>
     <String List="2" sID="016BE7">
       <EDID>[000994A3]</EDID>
@@ -2879,7 +2879,7 @@
       <EDID>[001642CB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Maybe I'll look for work at one of the other farms.</Source>
-      <Dest>Možná se poohlédnu po práci na něteré z ostatních farem.</Dest>
+      <Dest>Možná se poohlédnu po práci na některé z ostatních farem.</Dest>
     </String>
     <String List="2" sID="017B54">
       <EDID>InstM01Shared5</EDID>
@@ -2915,7 +2915,7 @@
       <EDID>[0009FFD1]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>And I don't like being asked to pull up stakes and invalidate the last decade of my life.</Source>
-      <Dest>A mě nebaví, když po mě někdo chce, abych opustila svůj současný domov a zpochybnila smysl poslední dekády svého života.</Dest>
+      <Dest>A mě nebaví, když po mně někdo chce, abych opustila svůj současný domov a zpochybnila smysl poslední dekády svého života.</Dest>
     </String>
     <String List="2" sID="017EAE">
       <EDID>[000A0013]</EDID>
@@ -2927,7 +2927,7 @@
       <EDID>[0009DF90]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>Well-fortified, centrally-located, and most important - it has a powerful radio transmitter we can use to broadcast to the whole Commonwealth.</Source>
-      <Dest>Je dobře opevněný, blízko centra a, co je nejdůležitější, má silný rádiový vysílač, který můžeme použí pro vysílání do celého Commonwealthu.</Dest>
+      <Dest>Je dobře opevněný, blízko centra, a co je nejdůležitější, má silný rádiový vysílač, který můžeme použít pro vysílání do celého Commonwealthu.</Dest>
     </String>
     <String List="2" sID="017EE5">
       <EDID>[0009FFCB]</EDID>
@@ -2993,7 +2993,7 @@
       <EDID>[0009FFCD]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>They seemed to have everything under control when I left.</Source>
-      <Dest> Vypadalo to, že mají všechno pod kontrolou, když jsem odcházela.</Dest>
+      <Dest>Vypadalo to, že mají všechno pod kontrolou, když jsem odcházela.</Dest>
     </String>
     <String List="2" sID="018315">
       <EDID>[0009A655]</EDID>
@@ -3071,13 +3071,13 @@
       <EDID>MinSharedDontHaveMuchToOffer</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Not many would have. We don't have much to offer by way of thanks, but feel free to use our workshop. Least we can do.</Source>
-      <Dest>Není moc takových, co by to udělali. Nemáme moc co nabídnou na znamení díků, ale klidně můžeš používat naši dílnu. Je to to nejmenší, co můžeme udělat.</Dest>
+      <Dest>Není moc takových, co by to udělali. Nemáme moc co nabídnout na znamení díků, ale klidně můžeš používat naši dílnu. Je to to nejmenší, co můžeme udělat.</Dest>
     </String>
     <String List="2" sID="0188E0">
       <EDID>[0009FFF6]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Even though Lyons let me go, there were a few others in the ranks that thought I knew too much.</Source>
-      <Dest>I když mě Lyons nechal odejít, bylo pár mezi nimi pár takových, kteří si mysleli, že toho moc vím.</Dest>
+      <Dest>I když mě Lyons nechal odejít, bylo mezi nimi pár takových, kteří si mysleli, že toho moc vím.</Dest>
     </String>
     <String List="2" sID="0189AA">
       <EDID>[000A1440]</EDID>
@@ -3089,7 +3089,7 @@
       <EDID>[0009E58C]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Look, I... I just want people to be safe, y'know? I don't want anyone else dying, or getting' kidnapped or whatever.</Source>
-      <Dest>Podívej, já... já jenom chci, aby lidi byli v bezpečí, víš? Nechci, aby další umírali, nebo aby je unášeli, nebo tak něco.</Dest>
+      <Dest>Podívej, já... já jenom chci, aby lidi byli v bezpečí, víš? Nechci, aby další umírali nebo aby je unášeli nebo tak něco.</Dest>
     </String>
     <String List="2" sID="018A28">
       <EDID>[000A0013]</EDID>
@@ -3197,7 +3197,7 @@
       <EDID>MinRecruit02CantHelpResponseGunner</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I guess there's no hope then. Well... maybe the Gunners will give me more time to get the ransom together...</Source>
-      <Dest>To je asi potom beznadějné. No... možná mi ranaři dají víc času na sehnání výkupného...</Dest>
+      <Dest>To je asi potom beznadějné. No... možná mi Ranaři dají víc času na sehnání výkupného...</Dest>
     </String>
     <String List="2" sID="018F12">
       <EDID>[000994C3]</EDID>
@@ -3299,7 +3299,7 @@
       <EDID>MinRadioRecruitIntro01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Attention, Minutemen! We've just gotten word that a settlement is in trouble. Anyone within range, please respond.</Source>
-      <Dest>Věnujte mi pozornost, Minutemani! Právě jsme dostali zprávu, že další se osada dostala do potíží. Kdokoliv z vás v dosahu, prosím odpovězte na ni.</Dest>
+      <Dest>Věnujte mi pozornost, Minutemani! Právě jsme dostali zprávu, že se další osada dostala do potíží. Kdokoliv z vás v dosahu, prosím odpovězte na ni.</Dest>
     </String>
     <String List="2" sID="0198B8">
       <EDID>[000997A1]</EDID>
@@ -3335,7 +3335,7 @@
       <EDID>[0009FFFD]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Since when do you know what I consider "bad news."</Source>
-      <Dest>Odkdy víš, co já považuji za „špatné zprávy“?</Dest>
+      <Dest>Od kdy víš, co já považuji za „špatné zprávy“?</Dest>
     </String>
     <String List="2" sID="0199C5">
       <EDID>[000A1209]</EDID>
@@ -3353,7 +3353,7 @@
       <EDID>[000A003C]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>You mean thanks to you and Proctor Ingram.</Source>
-      <Dest> Myslíš snad díky tobě a proktorovi Ingramové.</Dest>
+      <Dest>Myslíš snad díky tobě a proktorovi Ingramové.</Dest>
     </String>
     <String List="2" sID="019B9C">
       <EDID>[0009C858]</EDID>
@@ -3365,7 +3365,7 @@
       <EDID>[0009E592]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>You'd better be right. If you're not, that man's life is on your head.</Source>
-      <Dest>Doufám, že máš pravdu. Jestli ne, tak bude srmt toho muže tvoje vina.</Dest>
+      <Dest>Doufám, že máš pravdu. Jestli ne, tak bude smrt toho muže tvoje vina.</Dest>
     </String>
     <String List="2" sID="019C4B">
       <EDID>[00099E74]</EDID>
@@ -3401,7 +3401,7 @@
       <EDID>[0009A16A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Warwick Homestead is on Nut island. Just look for the old waste treatment plant.</Source>
-      <Dest>Warwickova usedlost je na Ořešákovém ostrově. Stačí když budeš koukat po staré čistírně odpadních vod. [Nut Island - skutečná lokace v Bostonu, pojmenovaný Holanďany podle ořechových stromů]</Dest>
+      <Dest>Warwickova usedlost je na Ořešákovém ostrově. Stačí když budeš koukat po staré čističce odpadních vod.</Dest>
     </String>
     <String List="2" sID="019DF7">
       <EDID>[0009C8D4]</EDID>
@@ -3431,7 +3431,7 @@
       <EDID>[0009FFE8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>That's my offer. Take it or leave it.</Source>
-      <Dest>Tak zní moje nabídka. Buď ji vezmeš nebo ne.</Dest>
+      <Dest>Tak zní moje nabídka. Buď ji vezmeš, nebo ne.</Dest>
     </String>
     <String List="2" sID="019F97">
       <EDID>[0009C84F]</EDID>
@@ -3443,7 +3443,7 @@
       <EDID>MinRecruit00ThanksFriend</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Thanks, friend. If you folks are for real this time, it'll be a welcome change for the better.</Source>
-      <Dest>Děkuji ti. Jestli to vy lidičky myslíte tentokrát vážně, tak to bude vítaná změna k lepšímu.</Dest>
+      <Dest>Děkuji ti. Jestli to, vy lidičky, myslíte tentokrát vážně, tak to bude vítaná změna k lepšímu.</Dest>
     </String>
     <String List="2" sID="01A07A">
       <EDID>[000A11F8]</EDID>
@@ -3527,7 +3527,7 @@
       <EDID>[000A0000]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>If they didn't tell you what I was working on, they didn't want you to know.</Source>
-      <Dest>Pokud ti neřekli, na čem pracuju, tak to nemáš vědět.</Dest>
+      <Dest>Pokud ti neřekli na čem pracuju, tak to nemáš vědět.</Dest>
     </String>
     <String List="2" sID="01A75B">
       <EDID>[000A0049]</EDID>
@@ -3689,7 +3689,7 @@
       <EDID>[0009C854]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>A melon plant that will, if my calculations are correct, be able to grow even in heavily irradiated soil.</Source>
-      <Dest>Melounové rostliny, která bude, pokud jsou moje výpočty správné, schopná růst i v těžce zamořené půdě.</Dest>
+      <Dest>Melounová rostlina, která bude, pokud jsou moje výpočty správné, schopná růst i v těžce zamořené půdě.</Dest>
     </String>
     <String List="2" sID="01B56E">
       <EDID>[000998A2]</EDID>
@@ -3827,7 +3827,7 @@
       <EDID>Min01PrestonFlareGun01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>By the way, you should have one of these flare guns. You can use it to signal for help from any nearby Minutemen.</Source>
-      <Dest>Mimochodem, vezmi si jednu z těch signálních pistolí. Můžeš ji použít k vyslání signálu o pomoc od minutemanů v okolí.</Dest>
+      <Dest>Mimochodem, vezmi si jednu z těch signálních pistolí. Můžeš ji použít k vyslání signálu o pomoc od Minutemanů v okolí.</Dest>
     </String>
     <String List="2" sID="01BD5A">
       <EDID>[00101062]</EDID>
@@ -4247,7 +4247,7 @@
       <EDID>[00099827]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Regardless, the Brotherhood is an issue for the future, and we must focus on the present.</Source>
-      <Dest>Ať tak či tak, Bratrstvo je záležitost budoucnosti, a my se musíme soustředit na přítomnost.</Dest>
+      <Dest>Ať tak či tak, Bratrstvo je záležitost budoucnosti a my se musíme soustředit na přítomnost.</Dest>
     </String>
     <String List="2" sID="01EBA5">
       <EDID>Min01PrestonFlareGun03</EDID>
@@ -4271,7 +4271,7 @@
       <EDID>[0009E598]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>A misunderstanding? Can't wait to hear this... Explain to me how this is a misunderstanding.</Source>
-      <Dest>Nedorozumění? Nemůžu se dočkat, až to uslyším... Vysvětli mi, jakto, že je to nedorozumění.</Dest>
+      <Dest>Nedorozumění? Nemůžu se dočkat, až to uslyším... Vysvětli mi, jak to, že je to nedorozumění.</Dest>
     </String>
     <String List="2" sID="01ED2B">
       <EDID>[0009FFE9]</EDID>
@@ -4343,7 +4343,7 @@
       <EDID>[001560CA]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>If you're not with us, then you best get the hell out of here before we take you down as one of them.</Source>
-      <Dest>Jestli nejsi na naší straně, tak odsud koukej vysmahnout dřív, než tě sejmeme jako taky.</Dest>
+      <Dest>Jestli nejsi na naší straně, tak odsud koukej vysmahnout dřív, než tě sejmeme taky.</Dest>
     </String>
     <String List="2" sID="01F2E1">
       <EDID>[00099801]</EDID>
@@ -4361,7 +4361,7 @@
       <EDID>[000997A1]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Take this packet of seeds to the Roger Warwick synth.</Source>
-      <Dest>Vezmi tento balíček semínek syntetickému Rogeru Warwickovi.</Dest>
+      <Dest>Vezmi tento balíček semínek syntetiku Rogeru Warwickovi.</Dest>
     </String>
     <String List="2" sID="01F5B1">
       <EDID>[0011A0CC]</EDID>
@@ -4397,7 +4397,7 @@
       <EDID>[0009FFF6]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>That's why I came to the Institute. It was only place that I thought I'd be out of the Brotherhood's reach and still be able to do my research.</Source>
-      <Dest>Proto jsem přišla do Institutu. Bylo o jediné místo, kde jsem si myslela, že bdu mimo dosah Bratrstva a zároveň budu moct pokračovat ve svém výzkumu.</Dest>
+      <Dest>Proto jsem přišla do Institutu. Bylo to jediné místo, kde jsem si myslela, že budu mimo dosah Bratrstva a zároveň budu moct pokračovat ve svém výzkumu.</Dest>
     </String>
     <String List="2" sID="01F940">
       <EDID>InstM01Shared1</EDID>
@@ -4415,7 +4415,7 @@
       <EDID>[0009947B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Saving synths ain't easy. So when we score a win, sometimes the propaganda gets laid on thick.</Source>
-      <Dest>Zachraňování snytetiků není lehký. Takže když se nám zadaří, tak se to s propagandou sem tam přežene.</Dest>
+      <Dest>Zachraňování syntetiků není lehký. Takže když se nám zadaří, tak se to s propagandou sem tam přežene.</Dest>
     </String>
     <String List="2" sID="01F9F5">
       <EDID>MinSharedNeutralJoinMinutemen</EDID>
@@ -4529,7 +4529,7 @@
       <EDID>Min02PlayerCastleStory</EDID>
       <REC>INFO:NAM1</REC>
       <Source>So what happened to this "Castle" if it was so well-fortified?</Source>
-      <Dest>Takže co se stalo tomu "Hradu", když byl tak dobře opevněný?</Dest>
+      <Dest>Takže, co se stalo tomu „Hradu“, když byl tak dobře opevněný?</Dest>
     </String>
     <String List="2" sID="020554">
       <EDID>[00099809]</EDID>
@@ -4769,7 +4769,7 @@
       <EDID>[000A0038]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Agreed. I wish our predecessors would have had your foresight.</Source>
-      <Dest>Souhlasím. Přál bych si, aby byli naši předchůdci tak prozíraví jako jsi ty.</Dest>
+      <Dest>Souhlasím. Přál bych si, aby byli naši předchůdci tak prozíraví, jako jsi ty.</Dest>
     </String>
     <String List="2" sID="021CA2">
       <EDID>MinSharedPlayerWillingToSupportMinutemen</EDID>
@@ -4817,7 +4817,7 @@
       <EDID>[000A003E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I want to know what to do if she refuses.</Source>
-      <Dest>Chci vědět, co mám udělat, když odmítne</Dest>
+      <Dest>Chci vědět, co mám udělat, když odmítne.</Dest>
     </String>
     <String List="2" sID="022080">
       <EDID>MinRecruit02CantHelpResponseRaider</EDID>
@@ -5075,7 +5075,7 @@
       <EDID>[00099875]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Good. We didn't know who else to turn to.</Source>
-      <Dest>To je dobře. Neveděli jsme, na koho se obrátit.</Dest>
+      <Dest>To je dobře. Nevěděli jsme, na koho se obrátit.</Dest>
     </String>
     <String List="2" sID="0237FF">
       <EDID>[0009FFF9]</EDID>
@@ -5225,7 +5225,7 @@
       <EDID>[0009B453]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please punish the the child accordingly.</Source>
-      <Dest>Prosím potrestejte dítě odpovídajícím způsobem.</Dest>
+      <Dest>Prosím, potrestejte dítě odpovídajícím způsobem.</Dest>
     </String>
     <String List="2" sID="0240AE">
       <EDID>[000BF944]</EDID>
@@ -5249,13 +5249,13 @@
       <EDID>[0009A654]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Well not today. Not while we're here.</Source>
-      <Dest>No, dneska ne. Ne když jsme tady my.</Dest>
+      <Dest>No, dneska ne. Ne, když jsme tady my.</Dest>
     </String>
     <String List="2" sID="02425E">
       <EDID>[00099814]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I only just got back. Now what?</Source>
-      <Dest>Jsem zpátky s sotva chvilku. Co zase?</Dest>
+      <Dest>Jsem zpátky sotva chvilku. Co zase?</Dest>
     </String>
     <String List="2" sID="0242B1">
       <EDID>[0009A169]</EDID>
@@ -5309,7 +5309,7 @@
       <EDID>[0009FFF9]</EDID>
       <REC id="4">INFO:NAM1</REC>
       <Source>Tell whoever sent you that they've just regained the services of Doctor Madison Li.</Source>
-      <Dest> Řekni tomu, kdo tě poslal, že právě znovu získal služby doktorky Madison Li.</Dest>
+      <Dest>Řekni tomu, kdo tě poslal, že právě znovu získal služby doktorky Madison Li.</Dest>
     </String>
     <String List="2" sID="024508">
       <EDID>[000A11F8]</EDID>
@@ -5321,7 +5321,7 @@
       <EDID>[0009E5BF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We are in desperate times, madame. Proclomation 22 allows all crew members to conscript citizens for the war effort.</Source>
-      <Dest>Nacházíme se v zoufalých časech, paní. Proklamace 22 umožnňuje všem členům posádky zapojit občany do válečného úsilí.</Dest>
+      <Dest>Nacházíme se v zoufalých časech, paní. Proklamace 22 umožňuje všem členům posádky zapojit občany do válečného úsilí.</Dest>
     </String>
     <String List="2" sID="0245CD">
       <EDID>MinRecruit02ExplainProblemMale</EDID>
@@ -5441,7 +5441,7 @@
       <EDID>[000994E3]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I don't got the answers you want, OK? I don't know where the Institute is, how to get there. I know barely anything about them.</Source>
-      <Dest>Já nemám ty odpovědi, které chceš, jasný? Nevím, kde Institut je, a ani jak se tam dostat. Nevím o nich skoro nic.</Dest>
+      <Dest>Já nemám ty odpovědi, které chceš, jasný? Nevím, kde Institut je a ani, jak se tam dostat. Nevím o nich skoro nic.</Dest>
     </String>
     <String List="2" sID="024CB5">
       <EDID>[0009DF9E]</EDID>
@@ -5507,7 +5507,7 @@
       <EDID>MinRadiantOwned04SettlerExplain</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>One of those Brotherhood whirlybirds buzzed us... seemed to be scouting out the place.</Source>
-      <Dest>Jeden z těch vrtibrdů nám přebzučel nad hlavou... vypadal, že dělá průzkum. [chyba je schválně, v originále je taky]</Dest>
+      <Dest>Jeden z těch vrtibrdů nám přebzučel nad hlavou... vypadal, že dělá průzkum.</Dest>
     </String>
     <String List="2" sID="025056">
       <EDID>[000A0000]</EDID>
@@ -5543,7 +5543,7 @@
       <EDID>[0009981A]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>If they cannot see reason, well... I'm afraid that may put you in a difficult position. But please, hurry. Before the situation deteriorates.</Source>
-      <Dest>Pokud to nepochopí, tak... obávám, se, že by tě to postavilo do obtížné pozice. Ale pospěš si, prosím. Než se situace zhorší.</Dest>
+      <Dest>Pokud to nepochopí, tak... obávám, se, že by tě to postavilo do obtížné pozice. Ale pospěš si prosím. Než se situace zhorší.</Dest>
     </String>
     <String List="2" sID="0250AC">
       <EDID>[0009981F]</EDID>
@@ -5645,7 +5645,7 @@
       <EDID>[0009E595]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Are you going to order the attack or not?</Source>
-      <Dest>Vydáš rozkaz k útoku nebo ne?</Dest>
+      <Dest>Vydáš rozkaz k útoku, nebo ne?</Dest>
     </String>
     <String List="2" sID="025908">
       <EDID>[0009DF89]</EDID>
@@ -5759,7 +5759,7 @@
       <EDID>[0009DF90]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>And I have a solution. I think it's time to retake the Castle. It used to be the Minuteman HQ, way before my time.</Source>
-      <Dest>A já mám řešení. Myslím, že je čas, abychom znovu dobyli Hrad. Bývalo tam velení Minutemanů, dávno před tím, než jsem se přidal.</Dest>
+      <Dest>A já mám řešení. Myslím, že je čas, abychom znovu dobyli Hrad. Bývalo tam velení Minutemanů, dávno předtím, než jsem se přidal.</Dest>
     </String>
     <String List="2" sID="026194">
       <EDID>MinRecruitPlayerSeeWhatICanDo</EDID>
@@ -5867,13 +5867,13 @@
       <EDID>MinRadiantSharedSettlerConfirmY01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You can use whatever we've got. I don't know if any of it will be useful, but you're welcome to it.</Source>
-      <Dest>Můžeš použít cokoliv, co máme. Nevím, jestli bude něco z toho užitečného, ale je to tvoje.</Dest>
+      <Dest>Můžeš použít cokoliv, co máme. Nevím, jestli bude něco z toho užitečné, ale je to tvoje.</Dest>
     </String>
     <String List="2" sID="0268B8">
       <EDID>[00099882]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>They didn't send me, but I am a Minuteman. Is there some way I can help?</Source>
-      <Dest>Neposlali mě, ale jsem minuteman. Můžu nějak pomoct?</Dest>
+      <Dest>Neposlali mě, ale jsem Minuteman. Můžu nějak pomoct?</Dest>
     </String>
     <String List="2" sID="026914">
       <EDID>[00099825]</EDID>
@@ -5903,7 +5903,7 @@
       <EDID>[0009A660]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>But then we realized we probably ought to storm the place,to make sure they can't disappear on us.</Source>
-      <Dest>Ale pak jsme si uvědomili, že bychom měli to tam měli vzít útokem, aby nám nemohli utéct.</Dest>
+      <Dest>Ale pak jsme si uvědomili, že bychom to tam měli měli vzít útokem, aby nám nemohli utéct.</Dest>
     </String>
     <String List="2" sID="026937">
       <EDID>[0009A657]</EDID>
@@ -5969,7 +5969,7 @@
       <EDID>[0009E59B]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>We have to act now, or else we risk not only letting them get away, but taking one of ours with them. I wouldn't wish that fate on anyone.</Source>
-      <Dest>Musíme ihned jednat, jinak riskujeme nejen, že nám utečou, ale že s sebou vezmou i jednoho z nás. To je osud, který nikomu nepřeju.</Dest>
+      <Dest>Musíme ihned jednat, jinak riskujeme nejen to, že nám utečou, ale že s sebou vezmou i jednoho z nás. To je osud, který nikomu nepřeju.</Dest>
     </String>
     <String List="2" sID="026BD4">
       <EDID>[000671F6]</EDID>
@@ -6251,7 +6251,7 @@
       <EDID>[001642D1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I just want to be left alone.</Source>
-      <Dest>Chci aby mě všichni nechali být.</Dest>
+      <Dest>Chci, aby mě všichni nechali být.</Dest>
     </String>
     <String List="2" sID="027D60">
       <EDID>[0009C847]</EDID>
@@ -6359,7 +6359,7 @@
       <EDID>[0009FFF7]</EDID>
       <REC id="4">INFO:NAM1</REC>
       <Source>If you bring me solid information on what killed him, I'll take it as a favor from the Brotherhood, and consider your offer.</Source>
-      <Dest>Pokud mi dáš solidní informace o tom, co ho zabilo, budu to považovat za laskavost od Bratrstva, a tu nabídku zvážím.</Dest>
+      <Dest>Pokud mi dáš solidní informace o tom, co ho zabilo, budu to považovat za laskavost od Bratrstva a tu nabídku zvážím.</Dest>
     </String>
     <String List="2" sID="027EED">
       <EDID>[0009FFE5]</EDID>
@@ -6437,7 +6437,7 @@
       <EDID>MinRecruit01SharedPlayerOutro1</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I took care of the raiders that were harassing that settlement you sent me to. The people there have decided to join our cause.</Source>
-      <Dest>Povedlo se mi zlikvidovat ty nájezdníky, ketří obtěžovali tu osadu, do které jsi mě poslal. Tamní lidé se rozhodli, že se přidají k naší věci.</Dest>
+      <Dest>Povedlo se mi zlikvidovat ty nájezdníky, kteří obtěžovali tu osadu, do které jsi mě poslal. Tamní lidé se rozhodli, že se přidají k naší věci.</Dest>
     </String>
     <String List="2" sID="028473">
       <EDID>[0009E589]</EDID>
@@ -6467,7 +6467,7 @@
       <EDID>[000A0022]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Is there a point to all this?</Source>
-      <Dest>Má to výprávění nějakou pointu?</Dest>
+      <Dest>Má to vyprávění nějakou pointu?</Dest>
     </String>
     <String List="2" sID="028694">
       <EDID>[000997FE]</EDID>
@@ -6503,7 +6503,7 @@
       <EDID>[0018F9E7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Thank God you were here.</Source>
-      <Dest>Bohudíky že tu jsi.</Dest>
+      <Dest>Bohudíky, že tu jsi.</Dest>
     </String>
     <String List="2" sID="0287EC">
       <EDID>[0009946D]</EDID>
@@ -6593,7 +6593,7 @@
       <EDID>[0018F9E6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please hurry up and find Cedric. The whole family could be in danger. </Source>
-      <Dest>Prosím pospěš si a najdi Cedrica. Celá rodina by mohla být v nebezpečí.</Dest>
+      <Dest>Prosím, pospěš si a najdi Cedrica. Celá rodina by mohla být v nebezpečí.</Dest>
     </String>
     <String List="2" sID="02898B">
       <EDID>[00099495]</EDID>
@@ -6743,7 +6743,7 @@
       <EDID>[0009946E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Why don't you believe his story?</Source>
-      <Dest>Proč mu to neveříš?</Dest>
+      <Dest>Proč mu to nevěříš?</Dest>
     </String>
     <String List="2" sID="028BEB">
       <EDID>[000994CB]</EDID>
@@ -7079,7 +7079,7 @@
       <EDID>[000780C9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I think we'd better take care of business first, General!</Source>
-      <Dest>Myslím, že bychom nejdřív měli vyřídit to, kvůli jsme sem přišli, generále!</Dest>
+      <Dest>Myslím, že bychom nejdřív měli vyřídit to, kvůli čemu jsme sem přišli, generále!</Dest>
     </String>
     <String List="2" sID="02B7F5">
       <EDID>[0007815C]</EDID>
@@ -7271,7 +7271,7 @@
       <EDID>[0009BEDF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Gray's Anatomy states that a removed spleen can result in a modest increase in white blood cells as well as a horrific, painful death.</Source>
-      <Dest>Učebnice anatomie uvádí, že odstranění sleziny může vést k mírnému vzrůstu v počtu bílých krvinek a zároveň hrůzné, bolestivé smrti.</Dest>
+      <Dest>Učebnice anatomie uvádí, že odstranění sleziny může vést k mírnému vzrůstu počtu bílých krvinek a zároveň hrůzné, bolestivé smrti.</Dest>
     </String>
     <String List="2" sID="02C47F">
       <EDID>[0009BEDD]</EDID>
@@ -7397,7 +7397,7 @@
       <EDID>[0009FFCF]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Stop trying to avoid the legwork by lying. Either you get me the evidence or we have nothing else to talk about.</Source>
-      <Dest>Nesnaž se té práci vyhnout lhaním. Buď mi najdeš ten důkaz nebo se spolu nemáme o čem bavit.</Dest>
+      <Dest>Nesnaž se té práci vyhnout lhaním. Buď mi najdeš ten důkaz, nebo se spolu nemáme o čem bavit.</Dest>
     </String>
     <String List="2" sID="02CCDC">
       <EDID>[000A006A]</EDID>
@@ -7415,7 +7415,7 @@
       <EDID>[000A006C]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I'd say sure, but who knows. Without those rules, maybe something worse happens.</Source>
-      <Dest>Řekla bych, že ano, ale kdo ví. Možná že bez všech těch pravidel by se stalo něco horšího.</Dest>
+      <Dest>Řekla bych, že ano, ale kdo ví. Možná, že bez všech těch pravidel by se stalo něco horšího.</Dest>
     </String>
     <String List="2" sID="02CDB1">
       <EDID>[0009FFCF]</EDID>
@@ -7451,7 +7451,7 @@
       <EDID>[000A0078]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All those rules are probably what pushed her.</Source>
-      <Dest> Všechna ta pravidla ji k tomu nejspíš přiměla.</Dest>
+      <Dest>Všechna ta pravidla ji k tomu nejspíš přiměla.</Dest>
     </String>
     <String List="2" sID="02CEE7">
       <EDID>[0009E0C7]</EDID>
