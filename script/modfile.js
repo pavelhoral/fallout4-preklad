@@ -12,12 +12,17 @@ var parseSource = require('./parse/parse-source'),
     fs = require('fs');
 
 program.
-    option('-m, --modfile <path>', 'Specify modfile to use.').
+    option('-m, --modfile <file>', 'Specify modfile to use.').
+    option('-s, --strings <directory>', 'Strings source directory.').
     option('-l, --language <lang>', 'Language specifier.').
-    option('-o, --output <path>', 'Write output to the specified file.');
+    option('-o, --output <file>', 'Write output to the specified file.');
 
 function readStrings() {
-    return new parseStrings.StringsReader().readByModfile(program.modfile, program.language || 'en');
+    var modfilePath = program.modfile;
+    if (program.strings) {
+        modfilePath = path.resolve(path.dirname(program.strings), path.basename(program.modfile));
+    }
+    return new parseStrings.StringsReader().readByModfile(modfilePath, program.language || 'en');
 }
 
 function readModfile(handler) {

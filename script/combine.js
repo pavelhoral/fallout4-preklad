@@ -9,23 +9,23 @@ var fs = require('fs'),
 
 program.
     usage('[options] <file ...>').
-    option('-a, --all', 'Combine all translated files.').
-    option('-i, --ignore <pattern>', 'Ignore pattern when using --all option.').
+    option('-p, --plugin <plugin>', 'Combine all translated files from a specific plugin.').
+    option('-i, --ignore <pattern>', 'Ignore pattern when using --plugin option.').
     option('-o, --output <file>', 'Write combined result into a file.').
     parse(process.argv);
 
-if (program.all && program.args.length || !program.all && program.args.length < 2) {
+if (program.plugin && program.args.length || !program.plugin && program.args.length < 2) {
     program.help();
 }
 
 var files = program.args;
-if (program.all) {
-    files = fs.readdirSync(path.resolve(__dirname, '../translated')).
+if (program.plugin) {
+    files = fs.readdirSync(path.resolve(__dirname, '../', program.plugin, 'translated')).
             filter((filename) => {
                 return !program.ignore || !filename.startsWith(program.ignore);
             }).
             map(filename => {
-                return path.resolve(__dirname, '../translated', filename);
+                return path.resolve(__dirname, '../', program.plugin, 'translated', filename);
             });
 }
 

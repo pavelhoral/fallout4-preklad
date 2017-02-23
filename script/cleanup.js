@@ -11,7 +11,8 @@ var fs = require('fs'),
 program.
     usage('[options] <file ...>').
     option('-w, --write', 'Replace original file with the cleaned version.').
-    option('-b, --batch [batch]', 'Name of the batch to use for cleanup.').
+    option('-p, --plugin <plugin>', 'Name of the plugin being translated.').
+    option('-b, --batch <batch>', 'Name of the batch to use for cleanup.').
     option('-m, --missing', 'Print out identifiers of missing strings.').
     option('-r, --removed', 'Print out identifiers of removed strings.').
     parse(process.argv);
@@ -97,7 +98,7 @@ function cleanupBatch(batch) {
 
 program.args.forEach((filename) => {
     try {
-        var batch = resolveBatch(filename, program.batch),
+        var batch = resolveBatch(filename, program.plugin, program.batch),
             stats = cleanupBatch(batch);
         console.log('[CLEANUP]', batch.name, JSON.stringify(stats));
     } catch (error) {

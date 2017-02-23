@@ -1,3 +1,4 @@
+'use strict';
 var fs = require('fs'),
     path = require('path');
 
@@ -18,36 +19,54 @@ function validateFilePath(filePath) {
 }
 
 /**
- * Resolve filename to a batch based file path.
+ * Resolve filename to a batch based file path using first match from the following:
+ * - use `filename` as is
+ * - use `pluginName/fileType/filename`
+ * - use `pluginName/fileType/filename.ext`
  */
-function resolveBatchPath(filename, type) {
+function resolveBatchPath(filename, pluginName, fileType) {
     var batchPath = filename;
     if (!validateFilePath(batchPath)) {
-        batchPath = path.resolve(__dirname, '../..', type, batchPath);
+        batchPath = path.resolve(__dirname, '../..', pluginName, fileType, batchPath);
     }
     if (!validateFilePath(batchPath)) {
-        batchPath = batchPath + BATCH_FILE_TYPES[type];
+        batchPath = batchPath + BATCH_FILE_TYPES[fileType];
     }
     if (!validateFilePath(batchPath)) {
-        throw new Error('Invalid filename \'' + batchPath + '\'.');
+        throw new Error(`Invalid filename '${batchPath}.`);
     }
     return batchPath;
 }
 
 /**
- * Resolve filename to a translation batch based.
+ * Resolve plugin name based using first match from the following:
+ * - plugin from compound batch name (e.g. `Fallout4/noinfo-edids-00`)
+ * - plugin from the directory path of xmlPath
  */
-function resolveBatch(filename, name) {
-    var xmlPath = resolveBatchPath(filename, 'translated'),
-        batchName = name || path.basename(xmlPath).replace(/\.xml$/i, ''),
-        txtPath = resolveBatchPath(batchName, 'workload');
-    if (!validateFilePath(txtPath)) {
-        throw new Error('Unable to load batch definition for \'' + (name || filename) + '\'.');
+function resolvePluginName(xmlPath, batchName) {
+    var pluginName = path.basename(batchName);
+    if (!pluginName) {
+        pluginName = path.basename(path.dirname(path.dirname(xmlPath)));
     }
-    return {
-        name: batchName,
-        xmlPath: xmlPath,
-        txtPath: txtPath
+    if (!pluginName) {
+        throw new Error(`Unable to resolve plugin name.`);
+    }
+    return pluginName;
+}
+
+/**
+ * Resolve batch meta data based on the given translation filename.
+ */
+function resolveBatch(filename, batchName, pluginName) {
+    var batch = {
+        pluginName: pluginName || resolvePluginName(filename, batchName)
     };
+    batch.xmlPath = resolveBatchPath(filename, batch.pluginName, 'translated');
+    batch.batchName = path.basename(batchName) || path.basename(batch.xmlPath).replace(/\.xml$/i, '');
+    batch.txtPath = resolveBatchPath(batchName, batch.pluginName, 'workload');
+    if (!validateFilePath(txtPath)) {
+        throw new Error(`Unable to locate batch definition for '${filename}.`);
+    }
+    return batch;
 }
 module.exports = resolveBatch;

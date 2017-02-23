@@ -9,7 +9,7 @@ var parseStrings = require('./parse/parse-strings'),
 
 program.
     usage('[options] <pattern>').
-    option('-s, --strings <path>', 'Path to the STRINGS file.').
+    option('-s, --strings <file>', 'Path to a STRINGS file.').
     option('-f, --flags <flags>', 'Additional regexp flags.').
     parse(process.argv);
 
