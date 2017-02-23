@@ -100,7 +100,7 @@ program.args.forEach((filename) => {
     try {
         var batch = resolveBatch(filename, program.batch, program.plugin),
             stats = cleanupBatch(batch);
-        console.log('[CLEANUP]', `${batch.pluginName}/${batch.batchName}`, JSON.stringify(stats));
+        console.log('[CLEANUP]', batch.pluginName, batch.batchName, JSON.stringify(stats));
     } catch (error) {
         console.error('[ERROR]', error.message);
     }
