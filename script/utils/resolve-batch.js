@@ -44,9 +44,9 @@ function resolveBatchPath(filename, pluginName, fileType) {
  * - plugin from the directory path of xmlPath
  */
 function resolvePluginName(xmlPath, batchName) {
-    var pluginName = path.basename(batchName);
+    var pluginName = path.basename(batchName || '');
     if (!pluginName) {
-        pluginName = path.basename(path.dirname(path.dirname(xmlPath)));
+        pluginName = path.basename(path.dirname(xmlPath));
     }
     if (!pluginName) {
         throw new Error(`Unable to resolve plugin name.`);
