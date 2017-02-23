@@ -98,9 +98,9 @@ function cleanupBatch(batch) {
 
 program.args.forEach((filename) => {
     try {
-        var batch = resolveBatch(filename, program.plugin, program.batch),
+        var batch = resolveBatch(filename, program.batch, program.plugin),
             stats = cleanupBatch(batch);
-        console.log('[CLEANUP]', batch.name, JSON.stringify(stats));
+        console.log('[CLEANUP]', `${batch.pluginName}/${batch.batchName}`, JSON.stringify(stats));
     } catch (error) {
         console.error('[ERROR]', error.message);
     }

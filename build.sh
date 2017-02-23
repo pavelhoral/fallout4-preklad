@@ -17,12 +17,12 @@ mkdir -p $WORKDIR
 # Combine translation files into one XML
 function run_combine {
     COMBINE_OPTS="-o $WORKDIR/$PLUGIN.xml"
-    node script/combine $COMBINE_OPTS $PLUGIN/translated/$FILTER*
+    node script/combine $COMBINE_OPTS translated/$PLUGIN/$FILTER*
 }
 
 # Compile translation into STRINGS
 function run_compile {
-    COMPILE_OPTS="-s shadow"
+    COMPILE_OPTS="-s shadow/Strings"
     if [[ -v UNACCENT ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -u"
     fi
@@ -31,6 +31,7 @@ function run_compile {
 
 # Build base distribution files
 function run_build {
+    echo "Building $PLUGIN..."
     run_combine
     run_compile
 }
@@ -44,8 +45,8 @@ function run_package {
 if [[ -v PLUGIN ]]; then
     run_build
 else
-    for PLUGIN in translated/*; do
-        PLUGIN=$(basename $PLUGIN) run_build
+    for PLUGIN_DIR in translated/*; do
+        PLUGIN=$(basename $PLUGIN_DIR) run_build
     done
 fi
 

@@ -1,8 +1,22 @@
+# Eclipse files
 .project
 .settings
+
+# Node files
 node_modules
+
+# Flash files
 flash/*/obj
 flash/*/bin
+
+# XLST files
 xalan
+
+# Shadow (original data files)
 shadow
+
+# Working directory
 .tmp
+
+# Ignored target
+target/*.esp

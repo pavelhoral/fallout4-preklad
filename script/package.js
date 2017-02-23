@@ -44,7 +44,7 @@ function processDir(base, directory, build) {
         var stat = fs.statSync(path.join(base, directory, name));
         if (stat.isDirectory()) {
             processDir(base, path.join(directory, name), build);
-        } else if (name !== '.gitignore') {
+        } else if (name !== '.gitignore' && !name.endsWith('.esp')) {
             processFile(base, path.join(directory, name), build);
         }
     });

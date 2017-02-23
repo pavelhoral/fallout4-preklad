@@ -27,7 +27,7 @@ function validateFilePath(filePath) {
 function resolveBatchPath(filename, pluginName, fileType) {
     var batchPath = filename;
     if (!validateFilePath(batchPath)) {
-        batchPath = path.resolve(__dirname, '../..', pluginName, fileType, batchPath);
+        batchPath = path.resolve(__dirname, '../..', fileType, pluginName, batchPath);
     }
     if (!validateFilePath(batchPath)) {
         batchPath = batchPath + BATCH_FILE_TYPES[fileType];
@@ -62,9 +62,9 @@ function resolveBatch(filename, batchName, pluginName) {
         pluginName: pluginName || resolvePluginName(filename, batchName)
     };
     batch.xmlPath = resolveBatchPath(filename, batch.pluginName, 'translated');
-    batch.batchName = path.basename(batchName) || path.basename(batch.xmlPath).replace(/\.xml$/i, '');
-    batch.txtPath = resolveBatchPath(batchName, batch.pluginName, 'workload');
-    if (!validateFilePath(txtPath)) {
+    batch.batchName = path.basename(batchName || '') || path.basename(batch.xmlPath).replace(/\.xml$/i, '');
+    batch.txtPath = resolveBatchPath(batch.batchName, batch.pluginName, 'workload');
+    if (!validateFilePath(batch.txtPath)) {
         throw new Error(`Unable to locate batch definition for '${filename}.`);
     }
     return batch;
