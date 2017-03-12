@@ -20,12 +20,12 @@ if (program.plugin && program.args.length || !program.plugin && program.args.len
 
 var files = program.args;
 if (program.plugin) {
-    files = fs.readdirSync(path.resolve(__dirname, '../', program.plugin, 'translated')).
+    files = fs.readdirSync(path.resolve(__dirname, '../translated', program.plugin)).
             filter((filename) => {
                 return !program.ignore || !filename.startsWith(program.ignore);
             }).
             map(filename => {
-                return path.resolve(__dirname, '../', program.plugin, 'translated', filename);
+                return path.resolve(__dirname, '../translated', program.plugin, filename);
             });
 }
 
