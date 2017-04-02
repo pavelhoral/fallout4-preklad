@@ -37,7 +37,7 @@ class FileSource extends DataSource {
         super();
         this.fileDesc = fs.openSync(path, 'r');
         this.filePosition = 0;
-        this.sourceBuffer = new Buffer(bufferSize || 0x3fff);
+        this.sourceBuffer = Buffer.alloc(bufferSize || 0x3fff);
         this.bufferLength = 0;
         this.bufferOffset = 0;
     }
@@ -78,7 +78,7 @@ class FileSource extends DataSource {
 
     read(length) {
         if (length > this.sourceBuffer.length) {
-            return this.readFile(new Buffer(length));
+            return this.readFile(Buffer.alloc(length));
         } else {
             return this.readBuffer(length);
         }

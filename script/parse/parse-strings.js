@@ -112,12 +112,12 @@ class StringsSerializer {
             stringMap = stringIds.reduce((result, stringId) => {
                 var string = this.strings[stringId];
                 if (!result[string]) {
-                    result[string] = new Buffer(this.strings[stringId], this.encoding);
+                    result[string] = Buffer.from(this.strings[stringId], this.encoding);
                     dataSize += this.padded * 8 + result[string].length + 1;
                 }
                 return result;
             }, {}),
-            buffer = new Buffer(8 + directorySize + dataSize);
+            buffer = Buffer.alloc(8 + directorySize + dataSize);
         // Write header
         buffer.writeUInt32LE(stringIds.length, 0);
         buffer.writeUInt32LE(dataSize, 4);
