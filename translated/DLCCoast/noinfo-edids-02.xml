@@ -1103,7 +1103,7 @@
       <EDID>DLC03_TruckTrailerFlatbed01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Flatbed</Source>
-      <Dest>Plochý</Dest>
+      <Dest>Návěs</Dest>
     </String>
     <String List="0" sID="002CBF">
       <EDID>DLC03_Vault_WaterFountain01</EDID>
@@ -1355,7 +1355,7 @@
       <EDID>DLC03AcadiaQuestPointers</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>(Optional) Help Chase</Source>
-      <Dest>(Nepovinné) Pomoz Chasemu</Dest>
+      <Dest>(Nepovinné) Pomoz Chase</Dest>
     </String>
     <String List="0" sID="0038A7">
       <EDID>DLC03_V118_BonesSkull</EDID>
@@ -1801,13 +1801,13 @@ Vault 118 je určen pro testování sociální interakce mezi dělnickou třído
       <EDID>DLC03_V118_Quest2</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Defeat Ezra Parker in Vault 118</Source>
-      <Dest>Poraz Ezra Parkera v trezoru 118</Dest>
+      <Dest>Poraz Ezru Parkera ve Vaultu 118</Dest>
     </String>
     <String List="0" sID="004257">
       <EDID>DLC03_V118_Quest2</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Find the Riggs in Vault 118</Source>
-      <Dest>Najdi Riggse v trezoru 118</Dest>
+      <Dest>Najdi Riggse ve Vaultu 118</Dest>
     </String>
     <String List="0" sID="004259">
       <EDID>DLC03_V118_Quest2</EDID>
@@ -1837,7 +1837,7 @@ Vault 118 je určen pro testování sociální interakce mezi dělnickou třído
       <EDID>DLC03_V118_Quest2</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Defeat Ezra Parker in Vault 118</Source>
-      <Dest>Poraz Ezra Parkera v trezoru 118</Dest>
+      <Dest>Poraz Ezru Parkera ve Vaultu 118</Dest>
     </String>
     <String List="0" sID="0042E5">
       <EDID>DLC03_V118_Quest2</EDID>
@@ -1855,7 +1855,7 @@ Vault 118 je určen pro testování sociální interakce mezi dělnickou třído
       <EDID>DLC03AcadiaM03Drive2Activator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Storage Drive</Source>
-      <Dest>Diskové úložiště</Dest>
+      <Dest>Paměťový modul</Dest>
     </String>
     <String List="0" sID="004324">
       <EDID>DLC03_v118_EzrasHolotapeTerminal</EDID>
@@ -1923,13 +1923,13 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="13">QUST:NNAM</REC>
       <Source>Defeat Ezra in Vault 118</Source>
-      <Dest>Poraz Ezra v trezoru 118</Dest>
+      <Dest>Poraz Ezru ve Vaultu 118</Dest>
     </String>
     <String List="0" sID="0043B3">
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="10">QUST:NNAM</REC>
       <Source>Defeat the Killer in Vault 118</Source>
-      <Dest>Poraz vraha v trezoru 118</Dest>
+      <Dest>Poraz vraha ve Vaultu 118</Dest>
     </String>
     <String List="0" sID="0043C0">
       <EDID>DLC03AudioTemplateFogCrawler</EDID>
@@ -1989,7 +1989,7 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03AcadiaM03</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Retrieve the Storage Drives</Source>
-      <Dest>Načti paměťové úložiště</Dest>
+      <Dest>Získej paměťové moduly</Dest>
     </String>
     <String List="0" sID="004421">
       <EDID>DLC03AudioTemplateRobotRobobrain</EDID>
@@ -4956,7 +4956,7 @@ hisTableLEADSwithin&lt;font&gt;</Dest>
       <EDID>DLC03AcadiaM03</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Faraday has asked me to recover some missing storage drives that could be used to help DiMA. They're on a boat to the southwest of Acadia.</Source>
-      <Dest>!Faraday mě požádal, abych obnovit některé chybějící jednotek pro ukládání dat, které by mohly být použity na pomoc DiMA. Jsou na lodi na jihozápad Acadie.</Dest>
+      <Dest>Faraday mě požádal, ať získám některé chybějící paměťové moduly, které by mohly být použity na pomoc DiMA. Jsou na lodi jihozápadně od Acadie.</Dest>
     </String>
     <String List="1" sID="004997">
       <EDID>DLC03AcadiaM04</EDID>
@@ -5076,7 +5076,7 @@ Nikdy měl nechat Faraday mluvit mě do toho. Kdybych jen mohl odolat tu sladkou
       <EDID>DLC03AcadiaM03</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Faraday asked me to find and bring back several storage drives that could be useful to his work. I did as he asked, though he seemed disappointed that there weren't more of them.</Source>
-      <Dest>!Faraday mě požádal, abych najít a přivést zpět několik úložných jednotek, které by mohly být užitečné pro jeho práci. Udělala jsem, co se zeptal, i když se zdálo, že zklamán, že nebylo více z nich.</Dest>
+      <Dest>Faraday mě požádal, ať najdu a doručím zpět několik paměťových modulů, které by mohly být užitečné pro jeho práci. Podařilo se mi udělat, oč mě požádal, i když se zdálo, že je zklamán, že jich nebylo více.</Dest>
     </String>
     <String List="1" sID="0049F1">
       <EDID>DLC03AcadiaM04</EDID>
@@ -5094,7 +5094,7 @@ Nikdy měl nechat Faraday mluvit mě do toho. Kdybych jen mohl odolat tu sladkou
       <EDID>DLC03AcadiaM03</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I've found the storage drives Faraday asked me to retrieve, and need to deliver them to him in Acadia.</Source>
-      <Dest>!Zjistil jsem jednotek pro ukládání dat Faraday mě požádal, abych získat, a je třeba je dodat k němu Acadia.</Dest>
+      <Dest>Podařilo se mi získat paměťové moduly, o které mě Faraday požádal. Teď mu je musím doručit na Acadii.</Dest>
     </String>
     <String List="1" sID="004A3E">
       <EDID>DLC03_VimPaintjobScematicMessage</EDID>
