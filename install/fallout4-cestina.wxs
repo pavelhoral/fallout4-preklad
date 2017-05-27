@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?define ProductName="Fallout 4 - Čeština" ?>
+<?define ProductVersion="0.0.1" ?>
+<?define ProductUrl="https://prekladyher.eu/preklady/fallout-4.79/" ?>
+<?define Manufacturer="prekladyher.eu" ?>
+<?define SourceBase="../target" ?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Product Id="F8619886-2EE1-4E53-B229-4C9E0BECDBBB"
+	        UpgradeCode="34157A8C-584D-4A70-B4D4-3D11D419F54E"
+    		Name="$(var.ProductName)" Manufacturer="$(var.ProductName)"
+	        Language="1033" Codepage="1250" Version="$(var.ProductVersion)">
+
+        <!-- Basic package configuration -->
+	    <Package Id="*" InstallerVersion="400"
+	    		Manufacturer="$(var.ProductName)" Description="$(var.ProductName)"
+		        Languages="1033" Compressed="yes" SummaryCodepage="1250" />
+		<MediaTemplate EmbedCab="yes" />
+
+		<!-- Lookup game directory -->
+		<Property Id="INSTALLDIR">
+			<RegistrySearch Id="Fallout4Registry" Root="HKLM" Type="directory"
+					Key="SOFTWARE\WOW6432Node\Bethesda Softworks\Fallout4" Name="installed path" />
+		</Property>
+
+		<!-- Lookup game configuration -->
+		<Property Id="FALLOUTPERSONAL">
+			<DirectorySearch Id="FalloutPersonal" Path="[PersonalFolder]\My Games\Fallout4" AssignToProperty="yes" />
+		</Property>
+		<Property Id="FALLOUTCONFIG">
+			<DirectorySearch Id="FalloutPersonal" Path="[FALLOUTPERSONAL]">
+				<FileSearch Id="Fallout4Custom.ini" Name="Fallout4Custom.ini" />
+			</DirectorySearch>
+		</Property>
+		<Condition Message="Nebylo možné najít soubor Fallout4Custom.ini.">
+		    <![CDATA[Installed OR FALLOUTCONFIG]]>
+		</Condition>
+
+		<!-- Define target structure -->
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="INSTALLDIR" Name="Fallout4">
+				<Directory Id="DataDir" Name="Data">
+					<Directory Id="InterfaceDir" Name="Interface" />
+					<Directory Id="StringsDir" Name="Strings" />
+				</Directory>
+			</Directory>
+		</Directory>
+
+		<!-- Default components and feature -->
+		<DirectoryRef Id="TARGETDIR">
+			<Component Id="Fallout4Custom.ini" Guid="9AE43969-D7CB-495C-ABB1-007E289E2579" KeyPath="yes" Permanent="yes">
+				<IniFile Id="Fallout4Custom.ini" Directory="FALLOUTPERSONAL" Name="Fallout4Custom.ini"
+						Action="addLine" Section="Archive" Key="bInvalidateOlderFiles" Value="1" />
+			</Component>
+		</DirectoryRef>
+		<DirectoryRef Id="InterfaceDir" FileSource="$(var.SourceBase)/interface">
+			<Component Id="FalloutDict.txt" Guid="12EFF6F4-D4B3-46DE-B19D-8ECC9C14E2FD">
+				<File Id="FalloutDict.txt" KeyPath="yes" />
+			</Component>
+			<Component Id="fonts_console.swf" Guid="FE877870-B4EE-4BCC-8629-4BF416304551">
+				<File Id="fonts_console.swf" KeyPath="yes" />
+			</Component>
+			<Component Id="fonts_en.swf" Guid="7207CCFC-D1FE-455B-885F-C2B2D5C621A0">
+				<File Id="fonts_en.swf" KeyPath="yes" />
+			</Component>
+			<Component Id="Translate_en.txt" Guid="DCAEE1F0-201B-438B-84B1-8473A3F79B04">
+				<File Id="Translate_en.txt" KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+		<DirectoryRef Id="StringsDir" FileSource="$(var.SourceBase)/strings">
+			<Component Id="Fallout4_en.STRINGS" Guid="4B12370A-B699-4B52-8F83-C697C36920A5">
+				<File Id="Fallout4_en.STRINGS" KeyPath="yes" />
+			</Component>
+			<Component Id="Fallout4_en.ILSTRINGS" Guid="77898D90-8E42-4706-9957-8213DC573A0B">
+				<File Id="Fallout4_en.ILSTRINGS" KeyPath="yes" />
+			</Component>
+			<Component Id="Fallout4_en.DLSTRINGS" Guid="226CD62C-D2CA-4DF2-9798-4FE1DD22AEB1">
+				<File Id="Fallout4_en.DLSTRINGS" KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+		<Feature Id="DefaultFeature" Level="1">
+			<ComponentRef Id="FalloutDict.txt" />
+			<ComponentRef Id="fonts_console.swf" />
+			<ComponentRef Id="fonts_en.swf" />
+			<ComponentRef Id="Translate_en.txt" />
+			<ComponentRef Id="Fallout4Custom.ini" />
+			<ComponentRef Id="Fallout4_en.STRINGS" />
+			<ComponentRef Id="Fallout4_en.ILSTRINGS" />
+			<ComponentRef Id="Fallout4_en.DLSTRINGS" />
+		</Feature>
+
+		<!-- Define installer icon -->
+		<!-- TODO CREDIT www.nexusmods.com/fallout4/mods/10080/ -->
+      	<Icon Id="Icon" SourceFile="fallout.ico" />
+
+      	<!-- Configure properties for add/remove programs -->
+      	<Property Id="ARPPRODUCTICON" Value="Icon" />
+      	<Property Id="ARPHELPLINK" Value="$(var.ProductUrl)" />
+
+      	<!-- Configure installer UI -->
+		<Property Id="WIXUI_INSTALLDIR" Value="INSTALLDIR" />
+		<UIRef Id="WixUI_InstallDir" />
+
+	</Product>
+</Wix>
