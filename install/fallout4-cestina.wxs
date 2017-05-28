@@ -21,6 +21,9 @@
 			<RegistrySearch Id="Fallout4Registry" Root="HKLM" Type="directory"
 					Key="SOFTWARE\WOW6432Node\Bethesda Softworks\Fallout4" Name="installed path" />
 		</Property>
+		<Condition Message="Nebylo možné najít složku Fallout 4.">
+		    <![CDATA[Installed OR INSTALLDIR]]>
+		</Condition>
 
 		<!-- Lookup game configuration -->
 		<Property Id="FALLOUTPERSONAL">
@@ -99,8 +102,7 @@
       	<!-- Configure installer UI -->
       	<WixVariable Id="WixUIBannerBmp" Value="banner.bmp" />
       	<WixVariable Id="WixUIDialogBmp" Value="dialog.bmp" />
-		<Property Id="WIXUI_INSTALLDIR" Value="INSTALLDIR" />
-		<UIRef Id="WixUI_InstallDir" />
-
+      	<WixVariable Id="WixUILicenseRtf" Value="license.rtf" />
+    	<UIRef Id="WixUI_Minimal" />
 	</Product>
 </Wix>

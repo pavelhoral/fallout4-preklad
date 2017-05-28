@@ -6,6 +6,7 @@ Toto je základní projekt pro český fanouškovský překlad hry Fallout 4.
 
  * `assets/` - zdrojové datové sobory překladu
  * `flash/` - zdrojové flash projekty v FlashDevelop
+ * `install/` - zdrojové soubory WiX Toolset instalátoru
  * `script/` - NodeJS skripty pro práci s projektem
  * `target/` - soubory finální modifikace
  * `translated/` - XML s přeloženými dávkami
@@ -42,3 +43,10 @@ Postup pro instalaci překladu do hry:
 
  * obsah složky `target` nahrát do `{fallout.home}/Data`
  * `FalloutCustom.ini` ze složky `target` nahrát do `~/My Documents/My Games/Fallout4/`
+
+## Instalátor
+
+Pro vytvoření instalátoru je potřeba mít nainstalovaný WiX Toolset. MSI artefakt je pak možné sestavit pomocí:
+
+    candle.exe fallout4-cestina.wxs
+    light.exe fallout4-cestina.wixobj -ext WixUIExtension -cultures:cs-cz

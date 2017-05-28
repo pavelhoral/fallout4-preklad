@@ -25,6 +25,7 @@ Překlad mají na svědomí zejména:
  * Tereza (překladatelka)
  * Stoupa (vedoucí korektury)
  * Mike (překladatel)
+ * Sonny (překladatel)
 
 Na překladu se významně podíleli:
 
@@ -35,8 +36,8 @@ Na překladu se významně podíleli:
  * Runciter (překladatel)
  * Kenosák (překladatel)
 
-Na překladu dále spolupracovali: Kovka (překladatel), Jiřina (testerka)
-a RekordyTT (tester).
+Na překladu dále spolupracovali: Kovka (překladatel), Jiřina (testerka),
+Radek (tester), Markéta (testerka) a RekordyTT (tester).
 
 
 ## Použité zdroje
