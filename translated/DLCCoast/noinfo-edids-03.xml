@@ -630,11 +630,11 @@
         &lt;AUTHORIZED USER CREDENTIALS REQUIRED&gt; &#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-                 &lt;přístup odepřen&gt;&#xD;
+                 &lt;PŘÍSTUP ODEPŘEN&gt;&#xD;
 &#xD;
-         &lt;vzdálený systém uzamčení ACTIVE&gt;&#xD;
+         &lt;AKTIVOVÁNO VZDÁLENÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
-&lt;oprávněný uživatel přihlašovací údaje požadované&gt;&#xD;
+ &lt;VYŽADOVÁNO PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE&gt;&#xD;
 __________________________________________________</Dest>
     </String>
     <String List="0" sID="0007D5">
@@ -757,7 +757,7 @@ NK90_)##[]3434[]bfGH.....................[][][][&#xD;
       <EDID>DLC03MQ05</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Confront DiMA about Avery's murder</Source>
-      <Dest>Konfrontuj DiMA o vraždě Averyové</Dest>
+      <Dest>Konfrontuj DiMA s vraždou Averyové</Dest>
     </String>
     <String List="0" sID="000978">
       <EDID>DLC03MQ06_WindFarmTerminalConsoleTallOn</EDID>
@@ -830,13 +830,13 @@ K97 - 03: MISSILE ACTIVE. LAUNCH KEY INPUT REQUIRED.&#xD;
 K97 - 04: &lt;ERROR!&gt; CONTAINMENT BREACH DETECTED! EVACUATE TO SAFE DISTANCE!&#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-K97 - 01: &lt;CHYBA!&gt;Spalovacího systému závadu. KONTAKTUJTE OKAMŽITĚ TECHNIKA.&#xD;
+K97 - 01: &lt;CHYBA!&gt; SELHÁNÍ ODPALOVACÍHO SYSTÉMU. KONTAKTUJTE OKAMŽITĚ TECHNIKA.&#xD;
 &#xD;
-K97 - 02: &lt;CHYBA!&gt;ZJIŠTĚNO PORUŠENÍ KONTEJNMENTU! Evakuovat bezpečný odstup!&#xD;
+K97 - 02: &lt;CHYBA!&gt; ZJIŠTĚNO PORUŠENÍ KONTEJNMENTU! UDRŽUJTE BEZPEČNÝ ODSTUP!&#xD;
 &#xD;
-K97 - 03: RAKETY AKTIVNÍ. Spouštěcí klávesa příkon.&#xD;
+K97 - 03: RAKETY AKTIVNÍ. VYŽADOVÁN ODPALOVACÍ KLÍČ.&#xD;
 &#xD;
-K97 - 04: &lt;CHYBA!&gt;ZJIŠTĚNO PORUŠENÍ KONTEJNMENTU! Evakuovat bezpečný odstup!&#xD;
+K97 - 04: &lt;CHYBA!&gt; ZJIŠTĚNO PORUŠENÍ KONTEJNMENTU! UDRŽUJTE BEZPEČNÝ ODSTUP!&#xD;
 __________________________________________________</Dest>
     </String>
     <String List="0" sID="000A15">
@@ -1173,7 +1173,7 @@ __________________________________________________</Dest>
       <EDID>DLC03MQ06_WindFarmTerminalConsoleTallOn</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>....initiating...</Source>
-      <Dest>... Zahajování...</Dest>
+      <Dest>... zahajování...</Dest>
     </String>
     <String List="0" sID="000F6E">
       <EDID>DLC03FarHarborS01</EDID>
@@ -1443,7 +1443,7 @@ __________________________________________________</Dest>
       <EDID>DLC03MQ04</EDID>
       <REC id="12">QUST:NNAM</REC>
       <Source>Retrieve Memory 0Z-7A4K (&lt;Global=DLC03MQ04Memory04Percent&gt;%)</Source>
-      <Dest>Načti vzpomínky 0z-7A4K (&lt;Global=DLC03MQ04Memory04Percent&gt; %)</Dest>
+      <Dest>Načti vzpomínky 0Z-7A4K (&lt;Global=DLC03MQ04Memory04Percent&gt; %)</Dest>
     </String>
     <String List="0" sID="001521">
       <EDID>DLC03EchoLakeLumberMapMarker</EDID>
@@ -6423,11 +6423,11 @@ __________________________________________________</Dest>
 &#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-        &lt;LOCAL PERIMETER ASSAULT ZJIŠTĚNA&gt;&#xD;
+        &lt;ZJIŠTĚNO NARUŠENÍ MÍSTNÍHO PERIMETRU&gt;&#xD;
 &#xD;
-        &lt;TOTAL SYSTÉM uzamčením INICIOVÁNY&gt;&#xD;
+        &lt;INICIOVÁNO ÚPLNÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
- &lt;uzamčením v platnosti, dokud konflikt vyřešen&gt;&#xD;
+ &lt;UZAMČENÍ JE V PLATNOSTI DO VYŘEŠENÍ KONFLIKTU&gt;&#xD;
 &#xD;
 __________________________________________________</Dest>
     </String>
@@ -6675,7 +6675,7 @@ Myslím, že bychom měli poslat Chase, ale DiMA si myslí, že je to příliš 
       <EDID>DLC03MQ04VREnterTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ICE-Breaker Program Loaded...</Source>
-      <Dest>Program Ledoborec načten…</Dest>
+      <Dest>Program Ledoborec načten...</Dest>
     </String>
     <String List="0" sID="002165">
       <EDID>DLC03LastPlankLocation</EDID>
@@ -7539,7 +7539,7 @@ Myslím, že bychom měli poslat Chase, ale DiMA si myslí, že je to příliš 
       <EDID>DLC03SettlementNucleus04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Many Children of Atom missionaries have been exiled or killed by the people of Far Harbor over the years. The bloodshed has only succeeded in making the Children more militant.</Source>
-      <Dest>!Mnoho  misionářů Dětí Atoma byli vyhoštěni nebo zabiti lidmi z Dálného Přístavu v průběhu let. Krveprolití mělo za následek jen to, že se Děti Atomu stali více militantní.</Dest>
+      <Dest>Mnoho misionářů Dětí Atoma bylo v průběhu let vyhoštěno nebo zabito lidmi z Dálného Přístavu. Krveprolití mělo za následek jen to, že se Děti Atoma stali více militantní.</Dest>
     </String>
     <String List="0" sID="00261F">
       <EDID>DLC03SettlementAcadia02</EDID>
@@ -7630,19 +7630,19 @@ $118,764.32/day (incl. taxes + fees)&#xD;
 {EST. BILL}&#xD;
 &lt;ERROR: INT_BILL_MAX EXCEEDED!&gt;&#xD;
 _________________________________________________</Source>
-      <Dest>___________________ {Váš stav} __________________&#xD;
+      <Dest>___________________ {VÁŠ STAV} __________________&#xD;
 &#xD;
 {JMÉNO HOSTA}&#xD;
-&lt;ztráta připojení&gt;&#xD;
+&lt;SPOJENÍ ZTRACENO&gt;&#xD;
 &#xD;
-{délka pobytu}&#xD;
-&lt;ERROR:! INT_STAY_MAX PŘEKROČEN&gt;&#xD;
+{DÉLKA POBYTU}&#xD;
+&lt;CHYBA:! INT_POBYT_MAX PŘEKROČEN&gt;&#xD;
 &#xD;
-{denní sazba}&#xD;
-$ 118,764.32 / den (včetně daní a poplatků)&#xD;
+{DENNÍ SAZBA}&#xD;
+118,764.32 $ / den (včetně daní a poplatků)&#xD;
 &#xD;
-{EST. BILL}&#xD;
-&lt;ERROR: INT_BILL_MAX PŘEKROČEN!&gt;&#xD;
+{ÚČET CELKEM}&#xD;
+&lt;CHYBA: INT_UCET_MAX PŘEKROČEN!&gt;&#xD;
 _________________________________________________</Dest>
     </String>
     <String List="0" sID="0027EE">
@@ -7657,14 +7657,14 @@ Thank you for your visit, &lt;CONNECTION LOST&gt;.&#xD;
 &#xD;
 - Keep track of your stay! Don't forget your in-room security holotape when you go!&#xD;
 _______________________________________________</Source>
-      <Dest>_____________ {HOTEL SECURE TERMINAL} ___________&#xD;
+      <Dest>_______ {BEZPEČNOSTNÍ TERMINÁL HOTELU} ________&#xD;
 &#xD;
-Děkuji za Vaši návštěvu,&lt;Připojení bylo ztraceno&gt;.&#xD;
+Děkujeme za Vaši návštěvu, &lt;SPOJENÍ ZTRACENO&gt;.&#xD;
 &#xD;
 {ZPRÁVY}&#xD;
-- Používáte pomocné napájení! Dodatečný poplatek byl účtován pro váš pokoj.&#xD;
+- Používáte pomocné napájení! Pro váš pokoj bude účtován dodatečný poplatek.&#xD;
 &#xD;
-- Sledujte pobytu! Nezapomeňte si vzít autentizační holopásku, když odcházíte!&#xD;
+- Udržujte si přehled o pobytu! Nezapomeňte si při odchodu vzít autentizační holopásku!&#xD;
 _______________________________________________</Dest>
     </String>
     <String List="0" sID="002817">
@@ -7953,7 +7953,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ04VRLoadScreen</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Because DiMA is a prototype synth, his memories have more in common with advanced computer data than organic-based thoughts.</Source>
-      <Dest>!Vzhledem k tomu, že je DiMA  prototyp syntetika, jeho vzpomínky mají více společného s pokročilými počítačovými daty než s organickou bází myšlenek.</Dest>
+      <Dest>!Vzhledem k tomu, že je DiMA prototyp syntetika, jeho vzpomínky mají více společného s pokročilými počítačovými daty než s organickou bází myšlenek.</Dest>
     </String>
     <String List="0" sID="002C16">
       <EDID>DLC03HangingBuckContainer</EDID>
@@ -8305,11 +8305,11 @@ ________________________________________________</Dest>
 &#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-        &lt;LOCAL PERIMETER ASSAULT ZJIŠTĚNA&gt;&#xD;
+        &lt;ZJIŠTĚNO NARUŠENÍ MÍSTNÍHO PERIMETRU&gt;&#xD;
 &#xD;
-        &lt;TOTAL SYSTÉM uzamčením INICIOVÁNY&gt;&#xD;
+        &lt;INICIOVÁNO ÚPLNÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
- &lt;uzamčením v platnosti, dokud konflikt vyřešen&gt;&#xD;
+ &lt;UZAMČENÍ JE V PLATNOSTI DO VYŘEŠENÍ KONFLIKTU&gt;&#xD;
 &#xD;
 __________________________________________________</Dest>
     </String>
@@ -8324,11 +8324,11 @@ __________________________________________________</Dest>
         &lt;AUTHORIZED USER CREDENTIALS REQUIRED&gt; &#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-                 &lt;přístup odepřen&gt;&#xD;
+                 &lt;PŘÍSTUP ODEPŘEN&gt;&#xD;
 &#xD;
-         &lt;vzdálený systém uzamčení ACTIVE&gt;&#xD;
+         &lt;AKTIVOVÁNO VZDÁLENÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
-&lt;oprávněný uživatel přihlašovací údaje požadované&gt;&#xD;
+ &lt;VYŽADOVÁNO PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE&gt;&#xD;
 __________________________________________________</Dest>
     </String>
     <String List="0" sID="003145">
@@ -8423,11 +8423,11 @@ __________________________________________________</Dest>
 &#xD;
 __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
-        &lt;LOCAL PERIMETER ASSAULT ZJIŠTĚNA&gt;&#xD;
+        &lt;ZJIŠTĚNO NARUŠENÍ MÍSTNÍHO PERIMETRU&gt;&#xD;
 &#xD;
-        &lt;TOTAL SYSTÉM uzamčením INICIOVÁNY&gt;&#xD;
+        &lt;INICIOVÁNO ÚPLNÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
- &lt;uzamčením v platnosti, dokud konflikt vyřešen&gt;&#xD;
+ &lt;UZAMČENÍ JE V PLATNOSTI DO VYŘEŠENÍ KONFLIKTU&gt;&#xD;
 &#xD;
 __________________________________________________</Dest>
     </String>
@@ -8441,12 +8441,12 @@ __________________________________________________</Dest>
 &#xD;
         &lt;AUTHORIZED USER CREDENTIALS REQUIRED&gt; &#xD;
 __________________________________________________</Source>
-      <Dest>__________________________________________________&#xD;
-                 &lt;přístup odepřen&gt;&#xD;
+      <Dest>__________________________________________________
+                 &lt;PŘÍSTUP ODEPŘEN&gt;&#xD;
 &#xD;
-         &lt;vzdálený systém uzamčení ACTIVE&gt;&#xD;
+         &lt;AKTIVOVÁNO VZDÁLENÉ UZAMČENÍ SYSTÉMU&gt;&#xD;
 &#xD;
-&lt;oprávněný uživatel přihlašovací údaje požadované&gt;&#xD;
+ &lt;VYŽADOVÁNO PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE&gt;&#xD;
 __________________________________________________</Dest>
     </String>
     <String List="0" sID="0031EB">
@@ -8675,7 +8675,7 @@ __________________________________________________</Dest>
       <EDID>DLC03FarHarborFF01_Misc</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Talk to Cassie Dalton</Source>
-      <Dest>Promluvte si s Cassie Daltonovou</Dest>
+      <Dest>Promluv si s Cassie Daltonovou</Dest>
     </String>
     <String List="0" sID="003AAE">
       <EDID>DLC03FarHarborFF03a_Misc</EDID>
@@ -8740,10 +8740,10 @@ __________________________________________________</Source>
       <Dest>&#xD;
 __________________________________________________&#xD;
 &#xD;
-                     &lt;K97 - 03&gt;&#xD;
-              &lt;ZAHÁJENÍ na spadnutí!&gt;&#xD;
+                   &lt;K97 - 03&gt;&#xD;
+              &lt;ZAHÁJENO ODPÁLENÍ!&gt;&#xD;
 &#xD;
-            &lt;CREW POSTUP NP-08 ACTIVE!&gt;&#xD;
+        &lt;OBSLUŽNÁ PROCEDURA NP-08 AKTIVNÍ!&gt;&#xD;
 &#xD;
 __________________________________________________</Dest>
     </String>
@@ -9093,7 +9093,7 @@ __________________________________________________</Dest>
       <EDID>DLC03POI04_KeyNote</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Craneberry Island Supplies Note</Source>
-      <Dest>Poznámka k dodávce pro Craneberry Island</Dest>
+      <Dest>Poznámka k zásobám ostrova Cranberry</Dest>
     </String>
     <String List="0" sID="004578">
       <EDID>DLC03POI04_DockShedKey</EDID>
@@ -9263,7 +9263,7 @@ Veškerý personál REPORT do určených EVAC ZÓNY!&#xD;
       <EDID>DLC03MQ06a_HCSynthQuest</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Speak to the High Confessor</Source>
-      <Dest>Promluv si vyšším zpovědníkem</Dest>
+      <Dest>Promluv si s vyšším zpovědníkem</Dest>
     </String>
     <String List="0" sID="004762">
       <EDID>DLC03FarHarborM03</EDID>
@@ -10569,13 +10569,13 @@ Ellie&#xD;
       <EDID>DLC03MQ01</EDID>
       <REC id="7">QUST:CNAM</REC>
       <Source>Kenji Nakano has given me his boat so that I can make the trip to Far Harbor to look for his daughter, Kasumi.</Source>
-      <Dest>Kenji Nakano mi dal svou loď, takže si mohu si udělat výlet do Dálného Přístavu a hledat tam jeho dceru Kasumi.</Dest>
+      <Dest>Kenji Nakano mi dal svou loď, takže si mohu udělat výlet do Dálného Přístavu a hledat tam jeho dceru Kasumi.</Dest>
     </String>
     <String List="1" sID="001322">
       <EDID>DLC03MQ01</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>I've learned that Kasumi Nakano thinks she's a synth and ran away to a place called Far Harbor. Kenji Nakano will want to know about this.</Source>
-      <Dest>Zjistil jsem že Kasumi Nakano si myslí, že je syntetik a utekla na místo zvané Dálný Přístav. Kenji Nakano o tom bude vědět víc.</Dest>
+      <Dest>Jak se mi podařilo zjistit, Kasumi Nakano si myslí, že je syntetik, a utekla na místo zvané Dálný Přístav. Kenji Nakano o tom bude vědět víc.</Dest>
     </String>
     <String List="1" sID="001326">
       <EDID>DLC03MQ01</EDID>
@@ -10797,7 +10797,7 @@ Můžete také všimnout Mai obejít k filtrům. Zkušený technik mohl zvrátit
       <EDID>DLC03MQ03</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Kasumi thinks that DiMA is secretly planning something that threatens the entire island. She wants me to get to the bottom of what's going on.</Source>
-      <Dest>Kasumi si myslí, že DiMA je tajně plánuje něco, co ohrožuje celý ostrov. Chce, ať se tomu dostanu na kobylku a zjistím, co se děje.</Dest>
+      <Dest>Kasumi si myslí, že DiMA tajně plánuje něco, co ohrožuje celý ostrov. Chce, ať se tomu dostanu na kobylku a zjistím, co se děje.</Dest>
     </String>
     <String List="1" sID="002301">
       <EDID>DLC03CoA_WareBrew</EDID>
@@ -11061,7 +11061,7 @@ Edgar&lt;font&gt;</Dest>
       <EDID>DLC03MQ02</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Captain Avery, the leader of Far Harbor, has agreed to give me information if I help defend the town.</Source>
-      <Dest>Kapitánka Averyová, vůdce Dálného Přístavu, souhlasila, že mi dá informace, pokud jí pomůžu bránit město.</Dest>
+      <Dest>Kapitán Averyová, vůdce Dálného Přístavu, souhlasila, že mi dá informace, pokud jí pomůžu bránit město.</Dest>
     </String>
     <String List="1" sID="00287D">
       <EDID>DLC03MQ02</EDID>
@@ -11112,7 +11112,7 @@ Ale teď přichází svítání a její otázky stále přetrvávají. Vyvoláva
       <EDID>DLC03MQ05</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>One of DiMA's memories indicates he did something extreme to keep Far Harbor under his control. There's apparently a make-shift medical facility under the ruined Vim! Pop Factory. I should go there and get answers.</Source>
-      <Dest>Jedna z DiMA vzpomínek naznačuje, že provedl něco extrémního, aby získal Dálný Přístav pod jeho kontrolu. Tam je zřejmě tajné zdravotnické zařízení pod zničenou Vim! Pop továrnou. Musím tam jít a získat odpovědi.</Dest>
+      <Dest>Jedna z DiMA vzpomínek naznačuje, že provedl něco extrémního, aby získal Dálný Přístav pod svou kontrolu. Zřejmě je někde pod zničenou Vim! Pop továrnou tajné zdravotnické zařízení. Musím tam jít a získat odpovědi.</Dest>
     </String>
     <String List="1" sID="002C59">
       <EDID>DLC03MQ03StorageRoomNote</EDID>
@@ -11244,7 +11244,7 @@ Jo. Další zatraceně slunečný den v Acadia.</Dest>
       <EDID>DLC03MQ05</EDID>
       <REC id="8">QUST:CNAM</REC>
       <Source>Allen Lee and most of the Harbormen are intent on getting vengeance upon Acadia for the murder of Captain Avery. I should talk with him once I'm there.</Source>
-      <Dest>Allen Lee a většina z obyvatel Přístavu jsou odhodláni pomstít se Acadii za vraždu kapitána Averyové. Musím si s ním promluvit, hned jak tam dorazím.</Dest>
+      <Dest>Allen Lee a většina z obyvatel Přístavu jsou odhodláni pomstít se Acadii za vraždu kapitána Averyové. Musím si s ním promluvit hned, jak tam dorazím.</Dest>
     </String>
     <String List="1" sID="002F6A">
       <EDID>DLC03CoA_FFNucleus01_WareBrewRecipe</EDID>
@@ -11280,13 +11280,13 @@ Jo. Další zatraceně slunečný den v Acadia.</Dest>
       <EDID>DLC03MQ05</EDID>
       <REC id="10">QUST:CNAM</REC>
       <Source>Acadia is no more. Allen Lee and the Harbormen have wiped it out. I should talk with Allen Lee to put this behind me.</Source>
-      <Dest>Acadia není. Allen Lee a obyvatelé Přístavu ji zničili. Musím si promluvit s Allenem Lee, hned jak to bude možné.</Dest>
+      <Dest>Acadia není. Allen Lee a obyvatelé Přístavu ji zničili. Musím si promluvit s Allenem Lee hned, jak to bude možné.</Dest>
     </String>
     <String List="1" sID="002FF2">
       <EDID>DLC03MQ05</EDID>
       <REC id="5">QUST:CNAM</REC>
       <Source>Teddy Wright confirmed that, indeed, the skull belonged to the real Captain Avery. If I give this evidence to Allen Lee he may do something drastic. Teddy urged me to consult with Captain Avery instead. Or I could confront DiMA, instead.</Source>
-      <Dest>Teddy Wright potvrdil, že lebka opravdu patřila skutečné kapitánu Averyové. Pokud dám tyto důkazy Allenovi Lee, on může udělat něco drastického. Teddy na mě naléhal, ať to raději zkonzultuji s kapitánem Averyovou. Nebo se můžu zastavit za DiMA.</Dest>
+      <Dest>Teddy Wright potvrdil, že lebka opravdu patří skutečné kapitánu Averyové. Pokud dám tyto důkazy Allenovi Lee, mohl by udělat něco drastického. Teddy na mě naléhal, ať to raději zkonzultuji s kapitánem Averyovou. Nebo se můžu zastavit za DiMA.</Dest>
     </String>
     <String List="1" sID="003039">
       <EDID>DLC03MQ03</EDID>
@@ -11418,7 +11418,7 @@ Jo. Další zatraceně slunečný den v Acadia.</Dest>
       <EDID>DLC03MQ06</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Seems DiMA uncovered the location of the launch key for the submarine in the Nucleus. I'll have to get into the safe room in the Harbor Grand Hotel. Luckily, I've got the code - 485130.</Source>
-      <Dest>Zdá se, že DiMA odkryla umístění odpalovacího klíče pro ponorky v Nucleusu. Musím se dostat do pokojového sejfu v hotelu Velkolepý Přístav. Naštěstí mám kód - 485130.</Dest>
+      <Dest>Zdá se, že DiMA objevil umístění odpalovacího klíče pro ponorku v Nucleusu. Musím se dostat do pokojového sejfu v hotelu Velkolepý Přístav. Naštěstí mám kód - 485130.</Dest>
     </String>
     <String List="1" sID="00331D">
       <EDID>DLC03MQ06</EDID>
@@ -11536,7 +11536,7 @@ nechám doků a všechny mé jiného majetku ke komunitě. Nedopusť, aby naše 
       <EDID>DLC03MQPostQuest</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>Kenji Nakano's case is closed. He mentioned a collection his father had that's buried somewhere near the house, but I told him to keep it.</Source>
-      <Dest>Případ Kenji Nakana je uzavřen. Zmínil sbírku jeho otce, který je pohřben někde poblíž domu, ale nezbylo mi, než s díky odmítnout.</Dest>
+      <Dest>Případ Kenji Nakana je uzavřen. Zmínil sbírku jeho otce, který je pohřben někde poblíž domu, ale nezbylo mi než s díky odmítnout.</Dest>
     </String>
     <String List="1" sID="0042D4">
       <EDID>DLC03MQPostQuest</EDID>
@@ -11594,13 +11594,13 @@ Aubert&#xD;
       <EDID>DLC03FarHarborS01</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>I finished talking with Uncle Ken and should head back to the Last Plank in Far Harbor to talk to his nephew, Mitch.</Source>
-      <Dest>Promluvili jsme si se Strýčkem Kenem a měl by zamířit zpátky do Posledního Prkna v Dálném Přístavu, aby si promluvil se svým synovcem Mitchem.</Dest>
+      <Dest>Promluvili jsme si se strýčkem Kenem a měl by zamířit zpátky do Posledního prkna v Dálném Přístavu, aby si promluvil se svým synovcem Mitchem.</Dest>
     </String>
     <String List="1" sID="0043C6">
       <EDID>DLC03FarHarborS01</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>The Visitor's Center is secure. I should talk with Uncle Ken.</Source>
-      <Dest>Návštěvnické centrum je v bezpečí. Musím si promluvit se Strýčkem Kenem.</Dest>
+      <Dest>Návštěvnické centrum je v bezpečí. Musím si promluvit se strýčkem Kenem.</Dest>
     </String>
     <String List="1" sID="0043CD">
       <EDID>DLC03FarHarborFF03c</EDID>
@@ -11630,7 +11630,7 @@ Aubert&#xD;
       <EDID>DLC03FarHarborM01</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>After I killed another wave of mirelurks, a mighty Mirelurk Queen has appeared. If I kill this magnificent specimen the Captain's Dance will be complete.</Source>
-      <Dest>Po zabití další vlny plíživců, se objevila mocná královna plíživců. Pokud zabiju tenhle nádherný exemplář Kapitánův Taneček bude kompletní.</Dest>
+      <Dest>Po zabití další vlny plíživců se objevila mocná královna plíživců. Pokud zabiju tenhle nádherný exemplář, Kapitánův Taneček bude kompletní.</Dest>
     </String>
     <String List="1" sID="0043F6">
       <EDID>DLC03FarHarborFF03a</EDID>
@@ -11702,7 +11702,7 @@ Aubert&#xD;
       <EDID>DLC03FarHarborS01</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I found Uncle Ken just in time to help defend him and his farm from a trapper attack.</Source>
-      <Dest>Podařilo se mi najít Strýčka Kena právě včas, abych mu pomohl bránit jeho farmu před útokem Zálesáků.</Dest>
+      <Dest>Podařilo se mi najít strýčka Kena právě včas, abychom společně bránili jeho farmu před útokem Zálesáků.</Dest>
     </String>
     <String List="1" sID="00447D">
       <EDID>DLC03FarHarborS03</EDID>
@@ -11748,7 +11748,7 @@ Mitchova patentovaný“ Fire Belly „&#xD;
       <EDID>DLC03FarHarborS02</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Small Bertha wants to find a new home for some of the derelicts in Far Harbor. She needs me to clear out any threats at Echo Lake Lumber Mill.</Source>
-      <Dest>Malá Bertha chce najít nový domov pro některé bezdomovce v Dálném Přístavu. Ona ode mě potřebuje vyklidit veškeré hrozby na pile Jezerní ozvěna.</Dest>
+      <Dest>Malá Bertha chce najít nový domov pro některé bezdomovce v Dálném Přístavu. Potřebuje ode mě zlikvidovat veškeré hrozby na pile Jezerní ozvěna.</Dest>
     </String>
     <String List="1" sID="0044A1">
       <EDID>DLC03FarHarborM01</EDID>
@@ -11784,7 +11784,7 @@ Mitchova patentovaný“ Fire Belly „&#xD;
       <EDID>DLC03FarHarborS02</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>I found a trapper named Malcolm who paid me to lure Far Harbor settlers to the Lumber Mill where he will apparently eat them. The next stop is to talk to Small Bertha.</Source>
-      <Dest>!Našel jsem Zálesáka jménem Malcolm, který zaplatil, abych se nalákat Dálný Přístav osadníky na pile, kde bude zřejmě jíst. Příští zastávka je mluvit s Malou Berthou.</Dest>
+      <Dest>Podařilo se mi objevit Zálesáka jménem Malcolm, který mi zaplatil, ať nalákám lidi z Dálného Přístavu jako osadníky na Pilu, kde je zřejmě sní. Příští zastávkou je tedy rozhovor s Malou Berthou.</Dest>
     </String>
     <String List="1" sID="0044B6">
       <EDID>DLC03FarHarborS03</EDID>
@@ -11802,7 +11802,7 @@ Mitchova patentovaný“ Fire Belly „&#xD;
       <EDID>DLC03MQ05</EDID>
       <REC id="11">QUST:CNAM</REC>
       <Source>Allen Lee led an attack on Acadia. None of the synths survived.</Source>
-      <Dest>Allen Lee vedl útok na Acadii. Žádný z syntetiků přežil.</Dest>
+      <Dest>Allen Lee vedl útok na Acadii. Žádný ze syntetiků nepřežil.</Dest>
     </String>
     <String List="1" sID="0044ED">
       <EDID>DLC03MQ02</EDID>
@@ -12042,7 +12042,7 @@ táta a Steven křičeli na sebe, když se vrátil z ranních pracích. Nevím p
       <EDID>DLC03POI04_Pump01HitFail</EDID>
       <REC>MESG:DESC</REC>
       <Source>You kicked the machine and nothing happened...</Source>
-      <Dest>Nakopl jsi automat a nic se nestalo...</Dest>
+      <Dest>Po nakopnutí automatu se nic nestalo...</Dest>
     </String>
     <String List="1" sID="0047EA">
       <EDID>DLC03POI04_Pump01HitSuccess</EDID>
@@ -12114,7 +12114,7 @@ táta a Steven křičeli na sebe, když se vrátil z ranních pracích. Nevím p
       <EDID>DLC03FarHarborFF02</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Captain Avery in Far Harbor is concerned because the Fog Condensers that protect the road to a nearby water purifier aren't working. She asked me to find Howard Dunbar, who she sent out to make the repairs.</Source>
-      <Dest>Kapitán Averyová v Dálném Přístavu je znepokojena, protože mlhové kondenzátory, které chrání silnici k nedalekému vodnímu filtru nefungují. Požádala mě, ať najdu Howard Dunbara, kterého poslala na jejich opravu.</Dest>
+      <Dest>Kapitán Averyová v Dálném Přístavu je znepokojena, protože mlhové kondenzátory, které chrání silnici k nedalekému vodnímu filtru, nefungují. Požádala mě, ať najdu Howarda Dunbara, kterého poslala na jejich opravu.</Dest>
     </String>
     <String List="1" sID="004828">
       <EDID>DLC03FarHarborMitchWarningNote</EDID>
@@ -12286,7 +12286,7 @@ S pozdravem, Debby</Dest>
       <EDID>DLC03POI04_Pump02HitFail</EDID>
       <REC>MESG:DESC</REC>
       <Source>You bang on the pipe and nothing happens...</Source>
-      <Dest>udeřil jsi do potrubí a nic se neděje...</Dest>
+      <Dest>Po úderu do potrubí se nic neděje...</Dest>
     </String>
     <String List="1" sID="004861">
       <EDID>DLC03POI04_Pump02HitSuccess</EDID>
@@ -12340,7 +12340,7 @@ Pevně ​​Mitch</Dest>
       <EDID>DLC03POI04_Pump03Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>You see the circuit has stopped functioning.</Source>
-      <Dest>Vidíš že obvod přestal fungovat.</Dest>
+      <Dest>Vidíš, že obvod přestal fungovat.</Dest>
     </String>
     <String List="1" sID="004875">
       <EDID>DLC03POI04_Pump03HitSuccess</EDID>

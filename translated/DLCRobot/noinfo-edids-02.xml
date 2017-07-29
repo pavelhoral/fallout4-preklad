@@ -633,7 +633,7 @@ Přístup k ovládání výtahu byl obnoven.</Dest>
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Isabel Cruz's Log</Source>
-      <Dest>Záznam Isabely Cruzové</Dest>
+      <Dest>Záznam Isabel Cruzové</Dest>
     </String>
     <String List="0" sID="0003D2">
       <EDID>DLC01ExplosiveMarkerMinePlasma</EDID>
@@ -1887,15 +1887,15 @@ This alert may be terminated: [1] By remote authorization from the MROC, or [2] 
 &#xD;
 As a failsafe, if the Control Center has been compromised, a limited manual override can be initiated from the elevator access terminal in Security Room 3. Voiceprint identification of three registered Class-II supervisor-level employees is required to activate the override.</Source>
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 087&#xD;
-bezpečnostní poplach Epsilon-VI&#xD;
+Bezpečnostní poplach Epsilon-VI&#xD;
 &#xD;
-V případě chyby v KÓDU podmíněného protokolu ('KPP', [021]), vedoucímu k hromadné vzpouře robotického personálu (viz definice, příloha III), vedoucí jakékoliv Třídy-II je oprávněn vyhlásit bezpečnostní poplach Epsilon-VI.&#xD;
+V případě chyby v KÓDU Podmíněného Protokolu ('KPP', [021]), vedoucímu k hromadné vzpouře robotického personálu (viz definice, příloha III), vedoucí jakékoliv Třídy-II je oprávněn vyhlásit bezpečnostní poplach Epsilon-VI.&#xD;
 &#xD;
-Je-li tento poplach vyhlášen, budou všechny bezpečnostní a obranné systémy aktivovány, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Personálu zařízení se doporučuje, aby se ozbrojili a schovali se. Externí průzkum bude proveden Armádním výborem pro dohled nad roboty ('AVDR') do deseti (10) pracovních dní pro stanovení vhodného postupu.&#xD;
+Je-li tento poplach vyhlášen, budou všechny bezpečnostní a obranné systémy aktivovány, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Personálu zařízení se doporučuje, aby se ozbrojili a schovali se. Externí průzkum bude proveden Armádním výborem pro dohled nad roboty ('AVDR') do deseti (10) pracovních dní od stanovení vhodného postupu.&#xD;
 &#xD;
-Tento poplach může být ukončen: [1] Pomocí dálkového oprávnění od AVDR, nebo [2] správcem zařízení z hlavního ovládacího terminálu v řídicím centru.&#xD;
+Tento poplach může být ukončen: [1] Pomocí dálkového oprávnění od AVDR nebo [2] správcem zařízení z hlavního ovládacího terminálu v řídicím centru.&#xD;
 &#xD;
-Jako ochrana selhání zabezpeční, pokud dojde k narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Je vyžadována hlasová identifikace tří registrovaných vedoucích zaměstnanců Třídy-II  k aktivaci přepsání.</Dest>
+Jako ochrana selhání zabezpečení v případě narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Je vyžadována hlasová identifikace tří registrovaných vedoucích zaměstnanců Třídy-II k aktivaci přepsání.</Dest>
     </String>
     <String List="0" sID="000BB7">
       <EDID>DLC01EnchBot_FortifyMeleeDmg50</EDID>
@@ -2479,13 +2479,13 @@ All personnel must pass through decontamination when entering or exiting the Fac
 All personnel must display a Rank 22 (at minimum) Security Badge with updated photo ID. Failure will result in immediate security lockup until the person may be questioned and confirmed.&#xD;
 &#xD;
 Guests must present a signed letter of approval from General Rawlings and employee point of contact. All guests must display a guest badge with limited access. Guests must be accompanied at all times. Guests found unattended will be held for questioning, and the point of contact will be responsible for their actions.</Source>
-      <Dest>POLITIKA AUTORIZACE&#xD;
+      <Dest>ZÁSADY K AUTORIZACI&#xD;
 &#xD;
 Všichni zaměstnanci musí projít dekontaminací při vstupu nebo výstupu ze zařízení.&#xD;
 &#xD;
 Všichni zaměstnanci musí viditelně nosit bezpečnostní odznak stupně 22 (minimálně) s aktualizovanou fotografií. Selhání bude mít za následek okamžité bezpečnostní uzamčení, dokud nebude osoba prověřena a potvrzena.&#xD;
 &#xD;
-Hosté musí předložit podepsaný dopis o schválení od firmy General Rawlings a jméno cílového zaměstnance, kterého kontaktují. Všichni hosté se musí prokazovat odznakem pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní místo bude zodpovědné za jejich činy.</Dest>
+Hosté musí předložit podepsaný dopis o schválení od firmy General Rawlings a jméno cílového zaměstnance, kterého kontaktují. Všichni hosté se musí prokazovat odznakem pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
     </String>
     <String List="0" sID="000E48">
       <EDID>DLC01PowerArmorRaceAdditiveSubGraphData</EDID>
@@ -4992,7 +4992,7 @@ The following are being put on watch:&#xD;
 - General Atomics: Maura Hauer</Source>
       <Dest>Testované subjekty dorazily. Sledoval jsem pozorně personál na jakékoliv známky kompromisů. Psychologické hodnocení šlo stranou, mnozí se stávají rizikovým faktorem při jednání s jejich vlastním druhem jako subjektem. &#xD;
 &#xD;
-Vojenský personál se ani nehnul, ale vypuklo několik slovních potyček. Zdá se, že tu bude spousta pozvolného prosazování, pokud jde o kritiku charakterů vedoucích oddělení. Karimová a Adler nejsou ani na místě, ale způsob jakým jejich lidé jednají, dává najevo, jakoby tam opravdu byli.&#xD;
+Vojenský personál se ani nehnul, ale vypuklo několik slovních potyček. Zdá se, že tu bude spousta pozvolného prosazování, pokud jde o kritiku charakterů vedoucích oddělení. Karimová a Adler nejsou ani na místě, ale způsob, jakým jejich lidé jednají, dává najevo, jakoby tam opravdu byli.&#xD;
 &#xD;
 Níže jsou uvedeni dohlížitelé:&#xD;
 - General Atomics: Carson Samuels&#xD;
@@ -5389,7 +5389,7 @@ Stav: Kompletní</Dest>
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>First test runs on the robot allies inside a controlled environment. Went fairly well when it came to detecting and scanning other robots in the area and determining if they were hostile or not. Following tests will be a bit trickier. I'm not even sure how to manage a live test right now. The whole idea kinda freaks me out. I've never intentionally killed anyone, and these bots are sort of built to do that...</Source>
-      <Dest>První test proveden na robotím spojenci uvnitř kontrolovaného prostředí. Šlo to docela dobře, dokud se nedostalo na detekci a skenování dalších robotů v této oblasti a určení zda budou nepřátelští, nebo ne. Následující testy budou trochu složitější. Nejsem si ani jistá, jak zvládnout živé testování. Celá myšlenka mě trochu děsí. Nikdy jsem záměrně nikoho nezabila, ale tihle boti je druh, který je k tomu postaven...</Dest>
+      <Dest>První test proveden na robotím spojenci uvnitř kontrolovaného prostředí. Šlo to docela dobře, dokud se nedostalo na detekci a skenování dalších robotů v této oblasti a určení, zda budou nepřátelští, nebo ne. Následující testy budou trochu složitější. Nejsem si ani jistá, jak zvládnout živé testování. Celá myšlenka mě trochu děsí. Nikdy jsem záměrně nikoho nezabila, ale tihle boti jsou druh, který je k tomu postaven...</Dest>
     </String>
     <String List="0" sID="0012F4">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -5417,7 +5417,7 @@ Stav: Kompletní</Dest>
 He's been more compliant lately. Maybe the realization of what it would take to safely leave this project has sunk in. &#xD;
 &#xD;
 And I've just been informed that an extremely irate Gregory Adler is on the phone. I'm guessing Rawlings didn't bother to tell him or Karim about his new addition to the team.</Source>
-      <Dest>Rawlings dnes přišel za dr. Karou Asanteovou. Hlavní vědec Cirolettiová je velmi potěšena, že s ním můžeme spolupracovat, ale náš kyber-robotický technik se zdá trochu courá. Myslím, že pan Samuels může vědět, že jeho místo je ohroženo.&#xD;
+      <Dest>Rawlings dnes přivezl doktorku Karu Asanteovou. Hlavní vědec Cirolettiová je velmi nadšená, že s ní můžeme spolupracovat, ale náš technik v oblasti kybernetiky se zdá být trochu odtažitý a myslím, že pan Samuels možná ví, že jeho místo je v ohrožení.&#xD;
 &#xD;
 Začal být v poslední době více flexibilní. Možná, že se zcela ponořil do realizace věcí, potřebných k zabezpečení tohoto projektu.&#xD;
 &#xD;
@@ -5731,11 +5731,11 @@ Kontrašpionážní procedura Třída-V&#xD;
 &#xD;
 Má-li správce zařízení podezření z porušení bezpečnosti u zahraničního zpracodajského operativce (včetně, ale nikoli výhradně u čínských agentů a sympatizantů), musí správce aktivovat kontrašpionážní proceduru Třídy-V.&#xD;
 &#xD;
-V případě poplachu Třídy-V, vstoupí zařízení do minimálního bezpečnostního uzamčení. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde budou vyčkávat na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí, nebo nebude nahlášen později, se považuje za podezřelého a může být zastřelen.&#xD;
+V případě poplachu Třídy-V, vstoupí zařízení do minimálního bezpečnostního uzamčení. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde budou vyčkávat na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí nebo nebude nahlášen později, se považuje za podezřelého a může být zastřelen.&#xD;
 &#xD;
-Bezpečnostní týmy eskortují podezřelé členy jednotlivých pracovišt do výzkumných laboratoří na 3. patře k výslechové proceduře. Hlavní vědec zajistí mezmetronem vybaveného robomozka k podpoře v průběhu výslechu. Vzhledem k experimentální povaze této technologie, budou očekávány nějaké oběti díky spontánní lebeční erupci (v řádu 10-15%).&#xD;
+Bezpečnostní týmy eskortují podezřelé členy jednotlivých pracovišt do výzkumných laboratoří na 3. patře k výslechové proceduře. Hlavní vědec vybaví mezmetronem robomozka k podpoře v průběhu výslechu. Vzhledem k experimentální povaze této technologie, budou očekávány nějaké oběti díky spontánní lebeční erupci (v řádu 10-15 %).&#xD;
 &#xD;
-Jestliže bude nalezeni nějací agenti, správce je oprávněn k jejich podrobení všemi dostupnými prostředky a může je poskytnout výzkumného personálu k experimentování. Po dokončení výslechů, může administrátor tento poplach ukončit dle svého uvážení.</Dest>
+Jestliže budou nalezeni nějací agenti, správce je oprávněn k jejich podrobení všemi dostupnými prostředky a může je poskytnout výzkumného personálu k experimentování. Po dokončení výslechů, může administrátor tento poplach ukončit dle svého uvážení.</Dest>
     </String>
     <String List="0" sID="0013E7">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -5966,7 +5966,7 @@ Analýza: SCHVÁLENO&#xD;
 Vložení: SCHVÁLENO&#xD;
 Montáž: KOMPLETNÍ&#xD;
 &#xD;
-Zaměření: Aktualizace hardware a modifikace, zlepšujících energetickou účinnost.&#xD;
+Zaměření: Aktualizace hardwaru a modifikace, zlepšující energetickou účinnost.&#xD;
 </Dest>
     </String>
     <String List="0" sID="00183F">
@@ -6392,10 +6392,10 @@ Prosím, zadejte příkaz:</Dest>
 --hangar door override :)-&#xD;
 what do you want to do?:</Source>
       <Dest>===============================================&#xD;
-****SÍLA STROJE****&#xD;
+****MOŽNOSTI ZAŘÍZENÍ****&#xD;
 ===============================================&#xD;
 &#xD;
---přepsání hangár dveří :)-&#xD;
+--ovládání dveří hangáru :)-&#xD;
 co chcete udělat?:</Dest>
     </String>
     <String List="0" sID="001915">
@@ -6554,11 +6554,11 @@ I want AT LEAST TWO living breathing humans patrolling the perimiter at all time
 -IVEY </Source>
       <Dest>REZAVÍ ĎÁBLOVÉ,&#xD;
 &#xD;
-Se všemi roboty Mechanika na volné noze, nemůžeme si dovolit šetřit na hlídkách. Neboť všichni víme, že ten parchant plánuje nájezd na všechny naše roboty... zítra.&#xD;
+Se všemi těmi Mechanikovo roboty na volný noze si nemůžeme dovolit šetřit na hlídkách. Protože všichni víme, že ten parchant zítra plánuje nájezd na všechny naše roboty.&#xD;
 &#xD;
-No Lockjawe, to neznamená, že můžete nastavit tři roboty na hlídání oblasti a zdřímnout si.&#xD;
+No, Lockjawe, to neznamená, že můžeš nastavit tři roboty na hlídání oblasti a zdřímnout si.&#xD;
 &#xD;
-Chci NEJMÉNĚ DVA žijící a dýchající lidi na hlídání okolí za každých okolností a dejte mi okamžitě vědět, pokud uvidíte jakéhokoliv podivného bota přicházet do kopce.&#xD;
+Chci NEJMÉNĚ DVA žijící a dýchající lidi na hlídání okolí za každejch okolností a dejte mi okamžitě vědět, pokud uvidíte jakýhokoliv podivnýho bota přicházet do kopce.&#xD;
 &#xD;
 -IVEY</Dest>
     </String>
@@ -6651,12 +6651,12 @@ WELL, as we were trying to get the bots out of there, a horde of Mechanist bots 
 In short, we lost three men and two of our bots were pulverized. BUT, we did manage to nab one of the Mechanist's robobrains alive. I am hoping it will lead me to the bastard that keeps messing with our shit.</Source>
       <Dest>Byla to rutinní šrotovací mise.&#xD;
 &#xD;
-Chtěli jsme jít dovnitř, vzít čtyři protektrony a dostat se ven. Žádný velký problém.&#xD;
-Jo, průzkumník v lokaci nás varoval před páračem v této oblasti. Jakýmkoliv. S našimi roboty je párač jako krtkopotkan. Ne velkej. Dokonce se nám podařilo proklouznout dovnitř a dostat se k robotům bez probuzení monstra.&#xD;
+Chtěli jsme jít dovnitř, vzít čtyři protektrony a dostat se ven. Žádnej velkej problém.&#xD;
+Jo, průzkumník v lokaci nás varoval před páračem v téhle oblasti. Jakýmkoliv. S našimi roboty je ale párač jako krtkopotkan. Ne velkej. Dokonce se nám podařilo proklouznout dovnitř a dostat se k robotům bez probuzení monstra.&#xD;
 &#xD;
-DOBŘE, jak jsme se snažili odsud dostat roboty, objevila nás horda Mechanikovo robotů  a snažili se dostat k naší kořisti! Vzhledem k tomu, že vesmír má špatný smysl pro humor, to probudilo párače. Tak jsme se taky museli vypořádat i s ním.&#xD;
+DOBŘE, jak jsme se snažili odsud dostat roboty, objevila nás horda Mechanikovo robotů a snažili se dostat k naší kořisti! Vzhledem k tomu, že vesmír má špatnej smysl pro humor, tak to probudilo párače. Takže jsme se taky museli vypořádat i s ním.&#xD;
 &#xD;
-Stručně řečeno, ztratili jsme tři muže a dva z našich botů rozprašovačů. ALE, podařilo se nám chytit jednoho z Mechanikovo robomozků živého. Doufáme, že nás dovede k bastardovi, který se nám neustále sere do cesty.</Dest>
+Stručně řečeno, ztratili jsme tři muže a dva z našich botů rozprašovačů. ALE, podařilo se nám chytit jednoho z Mechanikovo robomozků živýho. Doufáme, že nás dovede k bastardovi, kterej se nám neustále sere do cesty.</Dest>
     </String>
     <String List="0" sID="00198B">
       <EDID>DLC01REObjectSC01ResourceScannerMain</EDID>
@@ -6776,7 +6776,7 @@ Critical failure in EyeBot remote communications link. Unable to connect to the 
       <Dest>BIOS dok va í stan c  oč a&#xD;
 &#xD;
 ***CHYBA***&#xD;
-Kritické selhání očka ve vzdáleném komunikačním spojení. Nelze se připojit k očku. Všechny vyvolávací a administrativní funkce jsou v vypnuty.</Dest>
+Kritické selhání očka ve vzdáleném komunikačním spojení. Nelze se připojit k očku. Všechny vyvolávací a administrativní funkce jsou vypnuty.</Dest>
     </String>
     <String List="0" sID="0019B0">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -7158,7 +7158,7 @@ The rumors floating around the block are getting worse. One of our informants sa
 Vstup: 0L68-CBGT057&#xD;
 Status: Zakódováno&#xD;
 &#xD;
-Zvěsti šířící se kolem bloku se zhoršují. Jeden z našich informátorů řekl, že vězni mluví o vzpouře. Pokud jsou pravdivé věci, které říkají - že vězni jsou pitváni a používají se jejich části do robotů - nelze říct, že se až tak provinili. Esteban řekl, že bychom měli jít přímo do stavu Gamma-IX, ale nechci aby se stisklo poplachové tlačítko, dokud to nebude naprosto nutné. Rozhodl jsem se zajít na velení a setkat se s generálem Rawlingsem. Zločinci, nebo ne, tyto experimenty jsou špatné a musí být zastaveny dříve, než bude příliš pozdě.</Dest>
+Zvěsti šířící se kolem bloku se zhoršují. Jeden z našich informátorů řekl, že vězni mluví o vzpouře. Pokud jsou pravdivé věci, které říkají - že vězni jsou pitváni a používají se jejich části do robotů - nelze říct, že se až tak provinili. Esteban řekl, že bychom měli jít přímo do stavu Gamma-IX, ale nechci, aby se stisklo poplachové tlačítko, dokud to nebude naprosto nutné. Rozhodl jsem se zajít na velení a setkat se s generálem Rawlingsem. Zločinci nebo ne, tyto experimenty jsou špatné a musí být zastaveny dříve, než bude příliš pozdě.</Dest>
     </String>
     <String List="0" sID="001A8C">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -7198,9 +7198,9 @@ Extrakce: Úspěšná, bez poškození&#xD;
 Původní věk a rod: 34, Muž&#xD;
 &#xD;
 Protokol:&#xD;
-Cirolettiová: „Ahoj? Rozumíš mi?“&#xD;
+Cirolettiová: „Zdravím? Rozumíte mi?“&#xD;
 A22: „Co? Kdo... kdo je to? Kde jsi? Nevidím! Ach můj bože, co jste mi to, lidi, udělali?!“&#xD;
-Cirolettiová: „Zklidni se. Zklidni se.“&#xD;
+Cirolettiová: „Zklidněte se. Zklidněte se.“&#xD;
 A22: „Necítím své tělo... nic necítím! Co se děje?! Prosím... To je hrozné!“&#xD;
 Cirolettiová: „A22, pokud se nechcete uklidnit, budu vás muset vypnout.“&#xD;
 A22: „Vypnout mě? Chcete říct, že mě zabijete? Pro lásku boží, řekněte mi, co jste to sakra udělali!“&#xD;
@@ -7218,7 +7218,7 @@ Turns out, the bio-gel was tainted with sulfuric acid runoff from the dome polis
 &#xD;
 Po implantaci kupole, začal mozek tohoto subjektu vykazovat fyzické změny. Duralové části objektu se obalily nějakým druhem strakaté hnědé barvy a začaly se rozpadat po pouhých dvanácti hodinách v roztoku.&#xD;
 &#xD;
-Ukázalo se, že bio-gel byl znečištěný roztokem kyseliny sírové a lešticí látky z kopule a navzájem zreagovali. Bohužel tento subjekt je totálně ztracen. Budeme to muset prostě odepsat jako nehodu a okamžitě vyměnit lešticí prostředky.</Dest>
+Ukázalo se, že bio-gel byl znečištěný roztokem kyseliny sírové a lešticí látky z kopule a navzájem zreagovaly. Bohužel tento subjekt je totálně ztracen. Budeme to muset prostě odepsat jako nehodu a okamžitě vyměnit lešticí prostředky.</Dest>
     </String>
     <String List="0" sID="001A97">
       <EDID>DLC01Lair_RW_CerebralReconditioningTerminal</EDID>
@@ -7244,7 +7244,7 @@ I'm starting to hear rumors around the block that I don't like. Esteban told me 
 Vstup: 0L68-CBGT052&#xD;
 Status: Zakódováno&#xD;
 &#xD;
-Začínám slyšet kolem bloku zvěsti, které nemám rád. Esteban mi řekl, že zaslechl dva vědce, jak se baví, že věznům vystřihují mozky z jejich hlav nebo něco takového. Vím, že drze spustili pokusy na těch vězňích a že byli dost intenzivní, ale nevěděl jsem, že je doslova otevírají řezáním. Nejsem si jistý, jak se cítím - po tom všem, co jsem se připojil k armádě, protože jsem chtěl sloužit své zemi a chránit své americké spoluobčany. Myslím, že si to zatím nechám pro sebe.</Dest>
+Začínám slyšet kolem bloku zvěsti, které se mi nelíbí. Esteban mi řekl, že zaslechl dva vědce, jak se baví, že věznům vystřihují mozky z jejich hlav nebo něco takového. Vím, že drze spustili pokusy na těch vězních a že byli dost intenzivní, ale nevěděl jsem, že je doslova otevírají řezáním. Nejsem si jistý, jak se cítím - po tom všem, co jsem se připojil k armádě, protože jsem chtěl sloužit své zemi a chránit své americké spoluobčany. Myslím, že si to zatím nechám pro sebe.</Dest>
     </String>
     <String List="0" sID="001AA3">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -7413,17 +7413,17 @@ A57: "Error. No command was provided and awaiting unit designation."&#xD;
 Ciroletti: "Damn it. I think this one's short term is shot to hell. Dump it in the furnace and let's try another."</Source>
       <Dest>Subjekt: A57&#xD;
 Extrakce: Možné poškození čelního laloku&#xD;
-Původní jméno a rod: 22, Žena&#xD;
+Původní věk a rod: 22, Žena&#xD;
 &#xD;
 Protokol:&#xD;
 Cirolettiová: „Jste označena jako jednotka A57. Rozumíte?“&#xD;
 A57: „Ano, A57 připravena přijímat příkazy.“&#xD;
 Cirolettiová: „Výborně, A57. Iniciovat příkaz diagnostiky Zeta.“&#xD;
-A57: „Rozumim.“&#xD;
-**2 minut přechod bez jakéhokoliv zásahu**&#xD;
+A57: „Rozumím.“&#xD;
+**2minutová pauza bez jakékoli odezvy**&#xD;
 Cirolettiová: „Trvá to příliš dlouho. Prosím, odpovězte.“&#xD;
-A57: „Chyba. Žádný příkaz nebyl poskytnut a čekám na označení jednotky.“&#xD;
-Cirolettiová: „Sakra. Myslím, že to je krátkodobá pamět... tak to je v háji. Hoďte to do pece a zkusíme dalšího.“</Dest>
+A57: „Chyba. Nebyl poskytnut žádný příkaz. Čekám na označení jednotky.“&#xD;
+Cirolettiová: „Sakra. Myslím, že to je krátkodobá pamět... tak to je v háji. Hoďte to do pece a zkusíme další.“</Dest>
     </String>
     <String List="0" sID="001AC7">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -9265,7 +9265,7 @@ Building Robots and mods requires components, which are harvested from Junk Item
 If you have the required components, select a mod and [Click] to craft it. The required items will be harvested automatically from your inventory (or from storage in this workbench).&#xD;
 &#xD;
 If you're lacking components, select a mod and press [YButton:20] to tag it for search. Items containing components for that mod will now appear in the world with a magnifying glass next to their name.</Source>
-      <Dest>Robotická stanice umožňuje vytvořit robotické společníky a modifikace pro jejich vylepšení.&#xD;
+      <Dest>Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení.&#xD;
 &#xD;
 Nejprve je nutné vytvořit robotickou stanici (stiskni [XButton] pro vytvoření) nebo stačí vylepšit stávajícího robotického společníka. Můžeš mít pouze jednoho robotického společníka.&#xD;
 &#xD;

@@ -149,7 +149,7 @@
       <EDID>DLC03AverySkullMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Avery's Skull</Source>
-      <Dest>Averyova lebka</Dest>
+      <Dest>Lebka Averyové</Dest>
     </String>
     <String List="0" sID="0006BF">
       <EDID>DLC03_VimDoorOverrideRoof</EDID>
@@ -353,7 +353,7 @@
       <EDID>DLC03AtomM01</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Follow the Figure</Source>
-      <Dest>Sleduj Cifru</Dest>
+      <Dest>Sleduj postavu</Dest>
     </String>
     <String List="0" sID="000D56">
       <EDID>DLC03AtomM01</EDID>
@@ -1307,7 +1307,7 @@
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Investigate Keith McKinney</Source>
-      <Dest>Prozkoumej Keith McKinneyho</Dest>
+      <Dest>Pátrej po Keithu McKinneym</Dest>
     </String>
     <String List="0" sID="003814">
       <EDID>DLC03AcadiaQuestPointers</EDID>
@@ -1319,7 +1319,7 @@
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Investigate Santiago Avida</Source>
-      <Dest>Prozkoumej Santiaga Avida</Dest>
+      <Dest>Pátrej po Santiagu Avidovi</Dest>
     </String>
     <String List="0" sID="00383B">
       <EDID>DLC03_V118_Plaque</EDID>
@@ -2031,7 +2031,7 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03_SludgeCocktailText</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>Strength increases with your current radiation level for 12 minutes.</Source>
-      <Dest>Síla roste se současnou úrovní radiace po dobu 12 minut.</Dest>
+      <Dest>Síla roste zároveň s tvojí současnou úrovní radiace po dobu 12 minut.</Dest>
     </String>
     <String List="0" sID="0044B5">
       <EDID>DLC03_SludgeCocktailText</EDID>
@@ -2049,7 +2049,7 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03AcadiaM01_BloodTrailActivator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Blood Trail</Source>
-      <Dest>Stopa krve.</Dest>
+      <Dest>Stopa krve</Dest>
     </String>
     <String List="0" sID="0044D7">
       <EDID>DLC03AcadiaM01_BloodTrailActivator</EDID>
@@ -2079,7 +2079,7 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Investigate the Riggs</Source>
-      <Dest>Prozkoumej Riggse</Dest>
+      <Dest>Pátrej po Riggsovi</Dest>
     </String>
     <String List="0" sID="00465E">
       <EDID>DLC03_V118_Quest</EDID>
@@ -2199,7 +2199,7 @@ Nelze komunikovat s Vault 118 Security Systems.</Dest>
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Investigate Julianna Riggs</Source>
-      <Dest>Prozkoumej Juliannu Riggsovou</Dest>
+      <Dest>Pátrej po Julianně Riggsové</Dest>
     </String>
     <String List="0" sID="004792">
       <EDID>DLC03AcadiaSynthRefugeeTemplate</EDID>
@@ -3001,7 +3001,7 @@ Budeme se snažit postarat Jule, samozřejmě ... jsme ji dlužíme, že hodně.
       <EDID>DLC03AcadiaM04Lockbox</EDID>
       <REC>CONT:FULL</REC>
       <Source>Jule's Lockbox</Source>
-      <Dest>Juleinina pokladnička</Dest>
+      <Dest>Julenina schránka</Dest>
     </String>
     <String List="0" sID="004908">
       <EDID>DLC03CanineName101</EDID>
@@ -3506,7 +3506,7 @@ Note: Construction of the second wing of the premiere area of the hotel is still
       <Dest>==================================================&#xD;
 =                 Hlavní recepce                 =&#xD;
 ==================================================&#xD;
-vzkaz: Stavba druhého křídla premiérové ​​areálu hotelu je stále v plném proudu. Omluv se patrony o hluku a stavební stroje. V případě potřeby je zajištěna jídlo z restaurace Skyview může být schváleno nadřízeným.&#xD;
+Poznámka: Výstavba druhého křídla premiérového areálu hotelu stále probíhá. Omluvte se našim patronům ohledně hluku a stavebních strojů. V případě potřeby je zajištěno jídlo v restauraci Skyview (nutné schválení nadřízeným).&#xD;
 &#xD;
 </Dest>
     </String>
@@ -4441,7 +4441,7 @@ fromAtomCLAIMentry&#xD;
       <EDID>DLC03AcadiaM01</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Chase asked me to find a synth that went missing on the way to Acadia. My search led me to the scene of a violent struggle, with a trail of blood that I followed to a ruined house occupied by Trappers.</Source>
-      <Dest>Chase mě požádala, ať najdu syntetika, který zmizel na cestě do Acadie. Moje hledání mne přivedlo k místu násilného boje se stopami krve, které jsem sledoval do ruin domu obsazeného Zálesáky.</Dest>
+      <Dest>Chase mě požádala, ať najdu syntetika, který zmizel na cestě do Acadie. Moje hledání mne přivedlo k místu násilného boje se stopami krve, které se mi podařilo vysledovat až do ruin domu obsazeného Zálesáky.</Dest>
     </String>
     <String List="1" sID="00208D">
       <EDID>DLC03AcadiaM01</EDID>
@@ -4531,7 +4531,7 @@ fromAtomCLAIMentry&#xD;
       <EDID>DLC03AtomM02</EDID>
       <REC id="8">QUST:CNAM</REC>
       <Source>On Grand Zealot Richter's orders, I located Sister Gwyneth, a former Child of Atom turned heretic. I killed her, and Atom's justice has been done.</Source>
-      <Dest>Na příkaz Velkého fanatika Richtera se mi podařilo nalézt sestru Gwyneth, bývalé Dítě Atoma konvertované ke kacířství. Nezbylo mi nic jiného, než ji zabít a Atoma spravedlnost tak byla vykonána.</Dest>
+      <Dest>Na příkaz Velkého fanatika Richtera se mi podařilo nalézt sestru Gwyneth, bývalé Dítě Atoma konvertované ke kacířství. Nezbylo mi nic jiného než ji zabít a spravedlnost Atoma tak byla vykonána.</Dest>
     </String>
     <String List="1" sID="002224">
       <EDID>DLC03AtomM02</EDID>
@@ -4543,7 +4543,7 @@ fromAtomCLAIMentry&#xD;
       <EDID>DLC03AtomM02</EDID>
       <REC id="11">QUST:CNAM</REC>
       <Source>On Grand Zealot Richter's orders, I located Sister Gwyneth, a former Child of Atom turned heretic. I killed her, and Atom's justice has been done.</Source>
-      <Dest>Na příkaz Velkého fanatika Richtera se mi podařilo nalézt sestru Gwyneth, bývalé Dítě Atoma konvertované ke kacířství. Nezbylo mi nic jiného, než ji zabít a Atoma spravedlnost tak byla vykonána.</Dest>
+      <Dest>Na příkaz Velkého fanatika Richtera se mi podařilo nalézt sestru Gwyneth, bývalé Dítě Atoma konvertované ke kacířství. Nezbylo mi nic jiného než ji zabít a spravedlnost Atoma tak byla vykonána.</Dest>
     </String>
     <String List="1" sID="002226">
       <EDID>DLC03AtomM02</EDID>
@@ -4878,7 +4878,7 @@ hisTableLEADSwithin&lt;font&gt;</Dest>
       <EDID>DLC03_V118_Quest</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>I have uncovered the murderer in Vault 118 and must bring them to justice.</Source>
-      <Dest>Podařilo sem mi odhalit vraha v Vaultu 118 a musím ho postavit před soud.</Dest>
+      <Dest>Podařilo sem mi odhalit vraha ve Vaultu 118 a musím ho postavit před soud.</Dest>
     </String>
     <String List="1" sID="004825">
       <EDID>DLC03AcadiaM01</EDID>
@@ -4926,7 +4926,7 @@ hisTableLEADSwithin&lt;font&gt;</Dest>
       <EDID>DLC03Acadia_BoS</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>After informing the Brotherhood of Steel about the existence of Acadia, a Vertibird was dispatched to the island to deal with the situation. The time has come to attack; I need to let the soldiers know.</Source>
-      <Dest>Po informování Bratrstva oceli o existenci Acadie, byl na ostrov poslán Vertibird, aby se vypořádali se situací. Nastal čas k útoku; Musím dát vědět vojákům.</Dest>
+      <Dest>Po informování Bratrstva oceli o existenci Acadie, byl na ostrov poslán vertibird, aby se vypořádali se situací. Nastal čas k útoku - musím dát vědět vojákům.</Dest>
     </String>
     <String List="1" sID="004967">
       <EDID>DLC03Acadia_BoS</EDID>
@@ -4962,7 +4962,7 @@ hisTableLEADSwithin&lt;font&gt;</Dest>
       <EDID>DLC03AcadiaM04</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>After being asked to look into something that may have happened to Jule, I've learned that she used to be a synth named Victoria. After an accident, she had her mind wiped without her knowledge. Now I need to decide what to do with this information.</Source>
-      <Dest>Poté, co mě požádali, ať se podívám co se mohlo stát s Jule, se mi podařilo zjistit, že byla syntetik jménem Victoria. Po nehodě utrpěla ztrátu paměti. Teď musím rozhodnout, co s těmito informacemi udělat.</Dest>
+      <Dest>Poté, co mě požádali, ať se podívám, co se mohlo stát s Jule, se mi podařilo zjistit, že ve skutečnosti byla syntetik jménem Victoria. Po nehodě utrpěla ztrátu paměti. Teď musím rozhodnout, co s těmito informacemi udělat.</Dest>
     </String>
     <String List="1" sID="004998">
       <EDID>DLC03_ThrowingWeaponBearTrapDisarm</EDID>

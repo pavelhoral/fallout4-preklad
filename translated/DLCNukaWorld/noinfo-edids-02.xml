@@ -1187,7 +1187,7 @@
       <EDID>DLC04_modcol_HandmadeGun_Scopes_Scopes</EDID>
       <REC>OMOD:FULL</REC>
       <Source>***INCLUDE a Standard Sight***</Source>
-      <Dest>*** OBSAHUJE standardní mířídlo***</Dest>
+      <Dest>***OBSAHUJE standardní mířidlo***</Dest>
     </String>
     <String List="0" sID="002B69">
       <EDID>DLC04_NukaCola_NewkaCola</EDID>
@@ -1205,7 +1205,7 @@
       <EDID>DLC04_modcol_HandmadeGun_Scopes_Sights</EDID>
       <REC>OMOD:FULL</REC>
       <Source>***INCLUDE a Standard Sight***</Source>
-      <Dest>*** OBSAHUJE standardní mířídlo***</Dest>
+      <Dest>***OBSAHUJE standardní mířidlo***</Dest>
     </String>
     <String List="0" sID="002BA0">
       <EDID>DLC04_SwarmBodyPartData</EDID>
@@ -1336,9 +1336,9 @@ Potential breach of security systems. &#xD;
 Valid override code required.&#xD;
 **************************************************</Source>
       <Dest>**************************************************&#xD;
-Terminal na uzamčení.&#xD;
+Terminál je uzamčen.&#xD;
 Potenciální porušení bezpečnostních systémů.&#xD;
-Platný přepsání kódu potřeby.&#xD;
+Je vyžadováno zadání platného kódu.&#xD;
 **************************************************</Dest>
     </String>
     <String List="0" sID="0032F9">
@@ -1359,7 +1359,7 @@ Platný přepsání kódu potřeby.&#xD;
       <Source>Awaiting passcode....&#xD;
 Valid passcode entered. Welcome, Dr. Hein.</Source>
       <Dest>Čekání na heslo...&#xD;
-Platný přístupový kód zadán. Vítejte, dr. Heine.</Dest>
+Zadán platný přístupový kód. Vítejte, dr. Heine.</Dest>
     </String>
     <String List="0" sID="00332B">
       <EDID>DLC04_Safari_CloningFacilityAccessTerminal</EDID>
@@ -1421,15 +1421,15 @@ We have your top scientist Dr. Hein held hostage right where you plan to build y
 Make the right choice Mr. Bradberton.&#xD;
 -AFAD-&#xD;
 </Source>
-      <Dest>!POZOR Pan Bradberton&#xD;
-(nebo jeden z jeho poskoků.)&#xD;
-Snažili jsme se dělat to pěkné cestu a jste nehráli spolu. Můžete dokonce šel tak daleko, že nás zákaz ze svých parků.&#xD;
+      <Dest>POZOR pane Bradbertone&#xD;
+(nebo jeden z jeho poskoků)&#xD;
+Snažili jsme se to udělat hezkou cestou, ale vy jste s námi nehrál. Vy jste dokonce šel tak daleko, že jste nás vykázal z vašich parků.&#xD;
 &#xD;
-No, pane, tohle je svobodná země navzdory tomu, co jste firemní kočky tukové myslí. AFAD se ti ukáže, že nemáte kontrolu jste si myslel své peníze koupí.&#xD;
+No, pane, tohle je svobodná země navzdory tomu, co si vy firemní tlusté kočky myslíte. AFAD vám ukáže, že nemáte kontrolu, jak jste si mysleli, že si za své peníze koupíte.&#xD;
 &#xD;
-Máme vaše nejlepší vědec Dr. Hein rukojmím přesně tam, kde máte v plánu postavit svou drahocennou Rozzlobenou Anakondu. Přijďte sám, a můžeme diskutovat o podmínkách jeho propuštění. Přivést policii a ztratíte hvězda zaměstnance.&#xD;
+Máme vašeho nejlepšího vědce dr. Heina jako rukojmí přesně tam, kde máte v plánu postavit svou drahocennou Rozzlobenou anakondu. Přijďte sám a můžeme diskutovat o podmínkách jeho propuštění. Přiveďte policii a ztratíte hvězdného zaměstnance.&#xD;
 &#xD;
-učinit správná volba Mr. Bradberton.&#xD;
+Učiňte správnou volbu pane Bradbertone.&#xD;
 -AFAD-&#xD;
 </Dest>
     </String>
@@ -2897,7 +2897,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Safari_CitosNote</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Cito's Note</Source>
-      <Dest>Citoův vzkaz</Dest>
+      <Dest>Citův vzkaz</Dest>
     </String>
     <String List="0" sID="004448">
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
@@ -3328,10 +3328,10 @@ Zatímco shánět jídlo a zásoby dnes jsem narazil pozůstatky udivující bio
 From: John-Caleb Bradberton&#xD;
 &#xD;
 Any and all deliveries that are received and marked "Project Cobalt" should be forwarded to the Secure Beverageer Laboratory at the Nuka-World Bottling Plant. These items are not for employee use. Any employee that opens these deliveries without authorization will have their employment terminated immediately.</Source>
-      <Dest>!SA-Memo 091577&#xD;
+      <Dest>SA-Memo 091577&#xD;
 Od: John-Caleb Bradberton&#xD;
 &#xD;
-Veškeré dodávky, které jsou přijímány a označené „Projekt Cobalt“ by měly být předány Secure Beverageer laboratoře v Nuka-World stáčírně. Tyto položky nejsou určeny pro použití zaměstnanců. Každý zaměstnanec, který otevírá tyto dodávky bez povolení bude mít jejich zaměstnání okamžitě ukončena.</Dest>
+Veškeré dodávky, které jsou přijímány a jsou označené „Projekt Cobalt“, by měly být předány chráněné laboratoři Alkoholiků v Nuka-World stáčírně. Tyto položky nejsou určeny pro použití zaměstnanců. S každým zaměstnancem, který otevře tyto dodávky bez povolení, bude okamžitě ukončen pracovní poměr.</Dest>
     </String>
     <String List="0" sID="0047B6">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
@@ -4391,7 +4391,7 @@ Fizzy runs a drugstore with his assistant Mrs. Loveit where he serves delicious 
       <EDID>DLC04_RQ_KillRivalBoss</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to kill &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt; mě požádal, abych zabil osobu jménem &lt;Alias=target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala, ať zabiji osobu jménem &lt;Alias=target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
     <String List="1" sID="000EC5">
       <EDID>DLC04_RQ_CountActiveQuests</EDID>
@@ -4573,7 +4573,7 @@ DLC04_RQ_Target_XXX&#xD;
       <EDID>DLC04_RQ_KillTroubleMaker</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to kill &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt;mě požádal, abych zabil osobu jménem &lt;Alias=target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala, ať zabiji osobu jménem &lt;Alias=target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
     <String List="1" sID="0026F8">
       <EDID>DLC04_ShockCollarPerk</EDID>
@@ -4585,7 +4585,7 @@ DLC04_RQ_Target_XXX&#xD;
       <EDID>DLC04_RQ_CollarTroubleMaker</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to collar &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt;mě požádal o nasazení obojku osobě jménem &lt;Alias=Target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala o nasazení obojku osobě jménem &lt;Alias=Target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
     <String List="1" sID="0028ED">
       <EDID>DLC04_StingwingRace</EDID>
@@ -4997,7 +4997,7 @@ Něco se děje.</Dest>
       <EDID>DLC04_RQ_CollarRivalBoss</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to collar &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt;mě požádal o nasazení obojku osobě jménem &lt;Alias=Target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala o nasazení obojku osobě jménem &lt;Alias=Target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
     <String List="1" sID="0042AE">
       <EDID>DLC04_RQ_QuestGiver</EDID>
@@ -5091,13 +5091,13 @@ Imelda</Dest>
       <EDID>DLC04_RQ_StealCache</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to rendezvous with members of &lt;Alias.PronounPos=QuestGiver&gt; gang and help them steal a cache of supplies by killing the defenders and securing the area.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt;mě požádal o setkání s členy &lt;Alias.PronounPos=QuestGiver&gt; gangu a pomoci jim ukrást cache dodávek tím, že zabije obránce a zajištění prostor.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala o setkání se členy gangu &lt;Alias.PronounPos=QuestGiver&gt; a o pomoc při krádeži tajných zásob tím, že pobiji obránce a zajistím oblast.</Dest>
     </String>
     <String List="1" sID="004A7A">
       <EDID>DLC04_RQ_DefendCache</EDID>
       <REC>QUST:CNAM</REC>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to rendezvous with members of &lt;Alias.PronounPos=QuestGiver&gt; gang and help them defend a cache of supplies by killing the attackers and securing the area.</Source>
-      <Dest>&lt;Alias=QuestGiver&gt;mě požádal o setkání s členy &lt;Alias.PronounPos=QuestGiver&gt; gangu a pomoci jim bránit cache dodávek tím, že zabije útočníky a zajištění prostor.</Dest>
+      <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala o setkání se členy gangu &lt;Alias.PronounPos=QuestGiver&gt; a o pomoc při obraně tajných zásob tím, že pobiji útočníky a zajistím oblast.</Dest>
     </String>
     <String List="1" sID="004AD3">
       <EDID>DLC04_mod_melee_DLC04_CommieWhacker_BladesLarge</EDID>

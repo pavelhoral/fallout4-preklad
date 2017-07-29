@@ -1133,7 +1133,7 @@
       <EDID>DLC04_Logo_ShirtAndPants_UnderArmor_03</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Nuka-World Shirt &amp; Jeans</Source>
-      <Dest>Nuka-World  tričko &amp; džíny</Dest>
+      <Dest>Nuka-World tričko &amp; džíny</Dest>
     </String>
     <String List="0" sID="001E41">
       <EDID>DLC04_Logo_ShirtAndPants_UnderArmor_04</EDID>
@@ -2468,19 +2468,20 @@ Water Purity Setting: &lt; Administrative Override &gt;&#xD;
 </Source>
       <Dest>==================================================&#xD;
 =                Dětské království               =&#xD;
-=           Řídicí systém rozprašovačů           =&#xD;
+=      Řídicí systém mlhových rozprašovačů       =&#xD;
 ==================================================&#xD;
          Současný stav: SYSTÉM ZAPNUTÝ&#xD;
 &#xD;
-              !Systémové varování!&#xD;
+              !!!Systémové varování!!!&#xD;
 Bezpečnostní varování: &lt; nebezpečná úroveň radiace &gt;&#xD;
-Nastavení čistoty vody: &lt; administrátorské přepsání &gt;</Dest>
+Nastavení čistoty vody: &lt; administrátorské přepsání &gt;&#xD;
+</Dest>
     </String>
     <String List="0" sID="003F8C">
       <EDID>DLC04_KK_Terminal_SubSprayer</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Turn Off Mist Sprayers</Source>
-      <Dest>!Vypnout Mist postřikovače</Dest>
+      <Dest>Vypnout mlhové rozprašovače</Dest>
     </String>
     <String List="0" sID="003F8F">
       <EDID>DLC04_KK_Terminal_Tunnels</EDID>
@@ -2515,7 +2516,7 @@ Nastavení čistoty vody: &lt; administrátorské přepsání &gt;</Dest>
 &#xD;
       :::Systémová zpráva:::&#xD;
 &#xD;
-     Mist postřikovače nastavení: &lt; OFF &gt;</Dest>
+     Nastavení mlhových rozprašovačů: &lt; VYP &gt;</Dest>
     </String>
     <String List="0" sID="003F9D">
       <EDID>DLC04_KiddieKingdomMain</EDID>
@@ -2558,7 +2559,7 @@ Tak to je ono. Mluvil jsem o tom s Oswaldem a že se chystá zůstat v Dětské 
       <EDID>DLC04_KK_Terminal_SubSprayer</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Turn On Mist Sprayers</Source>
-      <Dest>!Zapnout Mist postřikovače</Dest>
+      <Dest>Zapnout mlhové rozprašovače</Dest>
     </String>
     <String List="0" sID="003FBB">
       <EDID>DLC04_KK_Terminal_Roof</EDID>
@@ -2618,7 +2619,7 @@ Tak to je ono. Mluvil jsem o tom s Oswaldem a že se chystá zůstat v Dětské 
       <EDID>DLC04_KK_Terminal_Roof</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing User Logs...</Source>
-      <Dest>Přistupování k uživatelským záznamům…</Dest>
+      <Dest>Přistupování k uživatelským záznamům...</Dest>
     </String>
     <String List="0" sID="003FC6">
       <EDID>DLC04_KK_Terminal_SubSprayer</EDID>
@@ -2634,13 +2635,14 @@ Water Purity Setting: &lt; Administrative Override &gt;&#xD;
 </Source>
       <Dest>==================================================&#xD;
 =                Dětské království               =&#xD;
-=           Řídicí systém rozprašovačů           =&#xD;
+=      Řídicí systém mlhových rozprašovačů       =&#xD;
 ==================================================&#xD;
          Současný stav: SYSTÉM VYPNUTÝ&#xD;
 &#xD;
-              !Systémové varování!&#xD;
+              !!!Systémové varování!!!&#xD;
 Bezpečnostní varování: &lt; nebezpečná úroveň radiace &gt;&#xD;
-Nastavení čistoty vody: &lt; administrátorské přepsání &gt;</Dest>
+Nastavení čistoty vody: &lt; administrátorské přepsání &gt;&#xD;
+</Dest>
     </String>
     <String List="0" sID="003FC7">
       <EDID>DLC04_KK_Terminal_SubSprayer</EDID>
@@ -2672,11 +2674,11 @@ Current system settings require administrative activate to enable Mist Sprayer S
 Please contact Zone Management or Facilities.</Source>
       <Dest>....................................................................................................................&#xD;
 &#xD;
-          :::SYSTEM ERROR:::&#xD;
+          :::CHYBA SYSTÉMU:::&#xD;
 &#xD;
-nastavení stávajícího systému požadovat administrativní aktivovat k tomu, aby Mist postřikovač subsystému.&#xD;
+Nastavení stávajícího systému vyžaduje administrativní zásah ke spuštění subsystému mlhových rozprašovačů.&#xD;
 &#xD;
-Obrať se prosím na hospodářské oblasti nebo zařízení.</Dest>
+Prosím, obraťte se na vedení nebo správce zóny.</Dest>
     </String>
     <String List="0" sID="004055">
       <EDID>DLC04_KK_Terminal_FunHouse</EDID>
@@ -3080,7 +3082,7 @@ Nebýt častých bouří záření, bylo by téměř být ideálním místem. Po
       <EDID>DLC04_KK_Terminal_Tower</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing User Logs...</Source>
-      <Dest>Přistupování k uživatelským záznamům…</Dest>
+      <Dest>Přistupování k uživatelským záznamům...</Dest>
     </String>
     <String List="0" sID="00454F">
       <EDID>DLC04_GunnerFreewayTerminalSubLogs</EDID>
@@ -3236,7 +3238,7 @@ Převzetí kontroly této základny jako důstojník. Seržant Lanierová se roz
       <EDID>DLC04_KK_Terminal_Tower</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>User Logs...</Source>
-      <Dest>Uživatelské záznamy…</Dest>
+      <Dest>Uživatelské záznamy...</Dest>
     </String>
     <String List="0" sID="004605">
       <EDID>DLC04_GunnerFreewayTerminalSubIntel</EDID>
@@ -3248,7 +3250,7 @@ Převzetí kontroly této základny jako důstojník. Seržant Lanierová se roz
       <EDID>DLC04_GunnerFreewayTerminalSubIntel</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Bottling Plant</Source>
-      <Dest>Lahvárna</Dest>
+      <Dest>Stáčírna</Dest>
     </String>
     <String List="0" sID="00460A">
       <EDID>DLC04_miscmod_mod_Revolver_Grip_Standard</EDID>
@@ -3705,18 +3707,18 @@ Squire Orange                    Bradley Benson&#xD;
 The Wild Knight                   Herman Benson&#xD;
 Lady Victory                         Myra Stone&#xD;
 </Source>
-      <Dest>  = Oficiální Casting k soudu krále Cola 2077 =&#xD;
+      <Dest>  = Oficiální obsazení dvora krále Coly 2077 =&#xD;
 &#xD;
-Král Cola                           Leo Mendoza&#xD;
-královna Quantum               Janelle Cookeová&#xD;
-Nuka-Knight                         Evan Barnes&#xD;
-Nuka-Dark Knight                    Dean Becker&#xD;
-Quartz Jester                    Kenneth Wenzel&#xD;
-Princess Cherry               Rachel Watkinsová&#xD;
-Princess Grape                      Fran Fowler&#xD;
-Squire Orange                    Bradley Benson&#xD;
-The Wild Knight                   Herman Benson&#xD;
-Lady Victory                      Myra Stoneová&#xD;
+   král Cola                      Leo Mendoza&#xD;
+   královna Quantum          Janelle Cookeová&#xD;
+   Nuka-rytíř                     Evan Barnes&#xD;
+   Nuka-temný rytíř               Dean Becker&#xD;
+   šašek Quartz                Kenneth Wenzel&#xD;
+   princezna Třešnička      Rachel Watkinsová&#xD;
+   princezna Víněnka              Fran Fowler&#xD;
+   šlechtic Pomeranč           Bradley Benson&#xD;
+   rytíř Wild                   Herman Benson&#xD;
+   lady Victory                 Myra Stoneová&#xD;
 </Dest>
     </String>
     <String List="0" sID="004820">
@@ -4020,7 +4022,7 @@ Check System Ihned</Dest>
       <EDID>DLC04_KK_Terminal_Tunnels</EDID>
       <REC>TERM:WNAM</REC>
       <Source>            -= Pump Control System =-</Source>
-      <Dest>            -=Pump Control System=-</Dest>
+      <Dest>            -=Ovládání čerpadla=-</Dest>
     </String>
     <String List="0" sID="004943">
       <EDID>DLC04_KK_Terminal_SubFunHouse</EDID>
@@ -4128,7 +4130,7 @@ System set to Normal Speed Mode.</Source>
 &#xD;
       :::Systémová zpráva:::&#xD;
 &#xD;
-systém nastaven do režimu normální rychlosti.</Dest>
+Systém nastaven do režimu normální rychlosti.</Dest>
     </String>
     <String List="0" sID="004970">
       <EDID>DLC04_GiftShopTerminal</EDID>
@@ -4311,9 +4313,9 @@ Vyberte rychlost běžeckého pásu ​​&#xD;
 Communication could not be established.</Source>
       <Dest>....................................................................................................................&#xD;
 &#xD;
-          :::SYSTEM ERROR:::&#xD;
+          :::CHYBA SYSTÉMU:::&#xD;
 &#xD;
-Komunikace nebylo možné stanovit.</Dest>
+Nebylo možné navázat komunikaci.</Dest>
     </String>
     <String List="0" sID="0049A5">
       <EDID>DLC04_KK_SubTerminalFranLog</EDID>
@@ -4399,9 +4401,9 @@ Točivá podlaha nastavena do polohy VYPNUTO.</Dest>
 Communication could not be established.</Source>
       <Dest>....................................................................................................................&#xD;
 &#xD;
-          :::SYSTEM ERROR:::&#xD;
+          :::CHYBA SYSTÉMU:::&#xD;
 &#xD;
-Komunikace nebylo možné stanovit.</Dest>
+Nebylo možné navázat komunikaci.</Dest>
     </String>
     <String List="0" sID="0049C6">
       <EDID>DLC04_KK_Terminal_SubFunHouse</EDID>
@@ -4452,7 +4454,7 @@ System Set to Reduced Nausea Mode.</Source>
 &#xD;
       ::: Systémová zpráva :::&#xD;
 &#xD;
-systém nastaven do režimu se sníženou nevolnost.</Dest>
+Systém nastaven do režimu se sníženou nevolností.</Dest>
     </String>
     <String List="0" sID="0049CF">
       <EDID>DLC04_KK_Terminal_SubFunHouseSpinRoom</EDID>
@@ -4582,7 +4584,7 @@ System set to Reduced Nausua Mode.</Source>
 &#xD;
       :::Systémová zpráva:::&#xD;
 &#xD;
-systém nastaven režimu se sníženou Nausua.</Dest>
+Systém nastaven do režimu se sníženou nevolností.</Dest>
     </String>
     <String List="0" sID="004A16">
       <EDID>DLC04_GZ_Rocket01Static01WORKSHOP</EDID>
@@ -4600,7 +4602,7 @@ systém nastaven režimu se sníženou Nausua.</Dest>
       <EDID>DLC04_MeatGorilla</EDID>
       <REC>ALCH:FULL</REC>
       <Source>Ghoulrilla Meat</Source>
-      <Dest>Maso z gorily</Dest>
+      <Dest>Maso z ghúlrily</Dest>
     </String>
     <String List="0" sID="004A3C">
       <EDID>DLC04_KKLOADSCREENART</EDID>

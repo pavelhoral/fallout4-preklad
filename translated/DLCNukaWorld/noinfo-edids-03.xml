@@ -2577,7 +2577,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_SouthExitDoorNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Nuka-Station Walkway</Source>
-      <Dest>Nuka-Station průchod</Dest>
+      <Dest>Průchod Nuka-stanicí</Dest>
     </String>
     <String List="0" sID="0021EE">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
@@ -2987,7 +2987,7 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <EDID>DLC04DialogueSettlement</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Investigate the Traders in Dry Rock Gulch</Source>
-      <Dest>Prozkoumej obchodníky ve Vyprahlé Rokli</Dest>
+      <Dest>Pátrej po obchodnících ve Vyprahlé Rokli</Dest>
     </String>
     <String List="0" sID="002E13">
       <EDID>DLC04AnimatronicLaserGunMkIII</EDID>
@@ -3011,7 +3011,7 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <EDID>DLC04BottlingPlant02</EDID>
       <REC>CELL:FULL</REC>
       <Source>Secure Beverageer Lab</Source>
-      <Dest>Zabezpečení laboratoří nápojů</Dest>
+      <Dest>Chráněná laboratoř Alkoholiků</Dest>
     </String>
     <String List="0" sID="002EB4">
       <EDID>DLC04FF02_Activator_WoR</EDID>
@@ -4718,10 +4718,10 @@ Current Status: !!Emergency Power!!&#xD;
 </Source>
       <Dest>==================================================&#xD;
 =                Nuka-Cola stáčírna              =&#xD;
-=          Zabezpečení laboratoří nápojů         =&#xD;
+=          Chráněná laboratoř Alkoholiků         =&#xD;
 ==================================================&#xD;
 &#xD;
-Současný stav: Nouzové napájení&#xD;
+Současný stav: !!Nouzové napájení!!&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -5078,9 +5078,9 @@ Please alert management and repair staff.</Source>
 &#xD;
      ::: CHYBA SYSTÉMU :::&#xD;
 &#xD;
-Subsystem přístup není možné navázat spojení z důvodu neznámé chyby [NEZNÁMÁ CHYBA].&#xD;
+Přístup k subsystému není možné navázat z důvodu [NEZNÁMÁ CHYBA].&#xD;
 &#xD;
-Prosím, upozornĚTE správu a opravy personál.</Dest>
+Prosím, upozorněte správu a personál údržby.</Dest>
     </String>
     <String List="0" sID="004530">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
@@ -5235,8 +5235,8 @@ Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
 &#xD;
 </Source>
       <Dest>==================================================&#xD;
-=                Nuka-Cola Stáčírna              =&#xD;
-=              Systems Control Center            =&#xD;
+=                Nuka-Cola stáčírna              =&#xD;
+=             Systémy řídicího centra            =&#xD;
 ==================================================&#xD;
 &#xD;
 &#xD;
@@ -5284,8 +5284,8 @@ Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
 &#xD;
 </Source>
       <Dest>==================================================&#xD;
-=                Nuka-Cola Stáčírna              =&#xD;
-=              Secure Beverageer Lab             =&#xD;
+=                Nuka-Cola stáčírna              =&#xD;
+=          Chráněná laboratoř Alkoholiků         =&#xD;
 ==================================================&#xD;
 &#xD;
 &#xD;
@@ -5411,7 +5411,7 @@ Varování:&#xD;
       <Source>Welcome to the Gauntlet! We hope you enjoy your stay. Please choose from any of the helpful options below:&#xD;
 &#xD;
 </Source>
-      <Dest>Vítejte v Rukavici! Doufáme, že si zde svůj pobyt užijete. Vyberte si z některých užitečných níže uvedených možností:&#xD;
+      <Dest>Vítejte v Rukavici! Doufáme, že si zde svůj pobyt užijete. Vyberte si z některých níže uvedených užitečných možností:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -6941,7 +6941,7 @@ Předchozí majitel patentu: Joannie Cheng&#xD;
 Nový název: Nuka-Grape (v oběhu)&#xD;
 chuťový profil: Červená&#xD;
 &#xD;
-Poznámky: Původní receptura prodávána v zámoří. Chuťový profil prakticky beze změny (drobné úpravy přísad kvůli snížení nákladů). Přeznačkování a přebaly plně dokončeny dle Nuka-Cola maketingové divize.</Dest>
+Poznámky: Původní receptura prodávána v zámoří. Chuťový profil prakticky beze změny (drobné úpravy přísad kvůli snížení nákladů). Přeznačkování a přebaly plně dokončeny dle Nuka-Cola marketingové divize.</Dest>
     </String>
     <String List="0" sID="0048EA">
       <EDID>DLC04GZNukaGalaxy_Terminal02</EDID>
@@ -7550,7 +7550,7 @@ Po získání konečné pořádku na našich údajů z General Braxton jsme zah�
       <EDID>DLC04BottlingPlantTerminalBeverageer</EDID>
       <REC>TERM:FULL</REC>
       <Source>Beverageer's Terminal</Source>
-      <Dest>Beverageerův terminál</Dest>
+      <Dest>Terminál Alkoholiků</Dest>
     </String>
     <String List="0" sID="004964">
       <EDID>DLC04BottlingPlantSubTerminalRexResearch</EDID>
@@ -8038,7 +8038,7 @@ Myslel jsem, že Kevin byl se mnou na projektu Cobalt. Byli jsme v bezpečí tad
       <EDID>DLC04GZMainQuest</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Just outside the Galactic Zone, I found the remains of a battle between a group of traders and some robots. What happened here?</Source>
-      <Dest>Mimo galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
+      <Dest>Mimo Galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
     </String>
     <String List="1" sID="00150A">
       <EDID>DLC04GZMainQuest</EDID>
@@ -8086,19 +8086,19 @@ Myslel jsem, že Kevin byl se mnou na projektu Cobalt. Byli jsme v bezpečí tad
       <EDID>DLC04GZMainQuest</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Just outside the Galactic Zone, I found the remains of a battle between a group of traders and some robots. One of the traders was carrying a holotape that might explain what happened here.</Source>
-      <Dest>Mimo galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Jeden z obchodníků u sebe měl holopásku, která by snad mohla vysvětlit, co se tu stalo.</Dest>
+      <Dest>Mimo Galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Jeden z obchodníků u sebe měl holopásku, která by snad mohla vysvětlit, co se tu stalo.</Dest>
     </String>
     <String List="1" sID="00154C">
       <EDID>DLC04GZMainQuest</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Just outside the Galactic Zone, I found the remains of a battle between a group of traders and some robots. What happened here?</Source>
-      <Dest>Mimo galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
+      <Dest>Mimo Galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
     </String>
     <String List="1" sID="001561">
       <EDID>DLC04GZMainQuest</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>Just outside the Galactic Zone, I found the remains of some traders that had tried to flee from the robots in the zone. A holotape on one of the bodies mentioned a mainframe called Star Control that may be related to the attack.</Source>
-      <Dest>Mimo galaktickou zónu se mi podařilo nalézt pozůstatky nějakých obchodníků, kteří se pokusili uprchnout před roboty v zóně. Na holopásce na jednom z těl byla zmínka o serveru s názvem S.T.A.R. Ovládání, který by mohl mít něco společného s útoky.</Dest>
+      <Dest>Mimo Galaktickou zónu se mi podařilo nalézt pozůstatky nějakých obchodníků, kteří se pokusili uprchnout před roboty v zóně. Na holopásce u jednoho z těl byla zmínka o serveru s názvem S.T.A.R. Ovládání, který by mohl mít něco společného s útoky.</Dest>
     </String>
     <String List="1" sID="001576">
       <EDID>DLC04GZMainQuest</EDID>
@@ -8110,7 +8110,7 @@ Myslel jsem, že Kevin byl se mnou na projektu Cobalt. Byli jsme v bezpečí tad
       <EDID>DLC04GZMainQuest</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Just outside the Galactic Zone, I found the remains of a battle between a group of traders and some robots. What happened here?</Source>
-      <Dest>Mimo galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
+      <Dest>Mimo Galaktickou zónu se mi podařilo nalézt pozůstatky bitvy mezi skupinou obchodníků a nějakými roboty. Co se tu stalo?</Dest>
     </String>
     <String List="1" sID="00196E">
       <EDID>DLC04FrenzyGrenadeRecipe</EDID>
@@ -8557,7 +8557,7 @@ jsem spustil vojenský přepínač oznámení, takže je to jen otázkou času t
       <EDID>DLC04BottleRackFullMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>This bottle rack is currently full.</Source>
-      <Dest>Tento stojan na láhve je momentálně plný.</Dest>
+      <Dest>Tento stojan na láhve je již plný.</Dest>
     </String>
     <String List="1" sID="004A6E">
       <EDID>DLC04EndgamePackDeadPerkMessage</EDID>
