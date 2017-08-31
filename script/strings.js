@@ -21,7 +21,8 @@ var strings = new parseStrings.StringsReader().readFile(program.strings),
     pattern = new RegExp(program.args[0], program.flags);
 
 Object.keys(strings).forEach(stringId => {
-    if (pattern.test(strings[stringId])) {
-        console.log('[MATCH]', renderStringId(stringId), strings[stringId]);
+	var renderedId = renderStringId(stringId);
+    if (pattern.test(strings[stringId]) || pattern.test(renderedId)) {
+        console.log('[MATCH]', renderedId, strings[stringId]);
     }
 });
