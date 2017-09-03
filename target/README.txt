@@ -55,6 +55,7 @@ Překlad by pravděpodobně nevznikl bez následujících online zdrojů:
  * Slovník Lingea [http://slovniky.lingea.cz/],
  * Slovnik.cz [http://slovnik.cz/],
  * Internetová jazyková příručka [http://prirucka.ujc.cas.cz/],
+ * Paralelní korpus InterCorp via KonText [https://kontext.korpus.cz/],
  * Nukapedia [http://fallout.wikia.com/wiki/Fallout_Wiki].
 
 Speciální poděkování patří mcguffinovi, autorovi překladače Fallout4Translator
