@@ -2614,7 +2614,7 @@ Unauthorized access detected.&#xD;
 </Source>
       <Dest>**** BEZPEČNOSTNÍ POPLACH ****&#xD;
 &#xD;
-Zjištěn neoprávněný vstup.</Dest>
+Zjištěn neoprávněný přístup.</Dest>
     </String>
     <String List="0" sID="031B37">
       <EDID>PerkVANS</EDID>
@@ -2738,7 +2738,7 @@ Unauthorized access detected.&#xD;
 </Source>
       <Dest>**** BEZPEČNOSTNÍ POPLACH ****&#xD;
 &#xD;
-Zjištěn neoprávněný vstup.</Dest>
+Zjištěn neoprávněný přístup.</Dest>
     </String>
     <String List="0" sID="031C46">
       <EDID>PerkAquaboy</EDID>
@@ -4201,8 +4201,8 @@ POZNÁMKY:&#xD;
     </String>
     <String List="0" sID="035A3A">
       <EDID>Pipboy</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Pipboy</Source>
+      <REC id="0">ARMO:FULL</REC>
+      <Source>Pip-Boy</Source>
       <Dest>Pip-Boy</Dest>
     </String>
     <String List="0" sID="035E86">
@@ -4258,6 +4258,12 @@ POZNÁMKY:&#xD;
       <REC>MGEF:FULL</REC>
       <Source>Pain Train Damage Health</Source>
       <Dest>Vláček bolesti - poškození zdraví</Dest>
+    </String>
+    <String List="0" sID="0367B8">
+      <EDID>Pipboy</EDID>
+      <REC id="1">ARMO:FULL</REC>
+      <Source>Default</Source>
+      <Dest>Výchozí</Dest>
     </String>
     <String List="1" sID="012A48">
       <EDID>Pickpocket01</EDID>

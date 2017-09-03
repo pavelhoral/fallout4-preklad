@@ -2215,6 +2215,18 @@ Odpovídáš-li „Ano a ano!“, pak je obtížnost Přežití přesně pro teb
       <Source>Exiting back to the Main Menu will create an Exitsave. Next time you play and load the Exitsave, it will delete itself until the next time you exit back to the Main Menu.</Source>
       <Dest>Odchod do hlavní nabídky vytváří odchodovou uloženou pozici. Při jejím načtení se tato pozice automaticky maže a znovu vytváří až při dalším odchodu do hlavní nabídky.</Dest>
     </String>
+    <String List="0" sID="0367B6">
+      <EDID>cc_ap_Pipboy_Texture</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Material</Source>
+      <Dest>Materiál</Dest>
+    </String>
+    <String List="0" sID="0367B7">
+      <EDID>cc_mod_PipBoy-Null</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Standard</Source>
+      <Dest>Standardní</Dest>
+    </String>
     <String List="1" sID="000003">
       <EDID>HC_DiseaseInfected_EffectMsg_Damage</EDID>
       <REC>MESG:DESC</REC>
@@ -3317,6 +3329,12 @@ Pro pomoc s problémy a více informací navštiv fórum na https://community.be
       <REC>COBJ:DESC</REC>
       <Source>Produces income based on the total population. Makes settlements happier.</Source>
       <Dest>Generuje příjem na základě celkové populace. Činí osady spokojenějšími.</Dest>
+    </String>
+    <String List="1" sID="0367B5" Partial="1">
+      <EDID>cc_mod_PipBoy-Null</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard</Source>
+      <Dest>Standard</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
