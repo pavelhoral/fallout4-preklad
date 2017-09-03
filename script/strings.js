@@ -23,17 +23,17 @@ var strings = new parseStrings.StringsReader().readFile(program.strings),
     output = program.output ? fs.openSync(program.output, 'wx') : null;
 
 Object.keys(strings).forEach(stringId => {
-	var renderedId = renderStringId(stringId);
+    var renderedId = renderStringId(stringId);
     if (!pattern.test(renderedId) && !pattern.test(strings[stringId])) {
-    	return; // Not a match
+        return; // Not a match
     }
     if (output) {
-    	fs.writeSync(output, renderedId + ' ' + JSON.stringify(strings[stringId]) + '\n');
+        fs.writeSync(output, renderedId + ' ' + JSON.stringify(strings[stringId]) + '\n');
     } else {
-    	console.log('[MATCH]', renderedId, strings[stringId]);
+        console.log('[MATCH]', renderedId, strings[stringId]);
     }
 });
 
 if (output) {
-	fs.closeSync(output);
+    fs.closeSync(output);
 }

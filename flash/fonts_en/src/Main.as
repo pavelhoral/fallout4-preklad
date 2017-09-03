@@ -5,9 +5,9 @@ package {
     public class Main extends Sprite {
 
         public function Main() {
-			Font.registerFont($CClub_Font);
-			Font.registerFont($CClub_Font_Bold);
-			Font.registerFont($BRODY);
+            Font.registerFont($CClub_Font);
+            Font.registerFont($CClub_Font_Bold);
+            Font.registerFont($BRODY);
             Font.registerFont($BRODY);
             Font.registerFont($Controller_Buttons);
             Font.registerFont($Controller_Buttons_inverted);
