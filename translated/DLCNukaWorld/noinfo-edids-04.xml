@@ -4166,7 +4166,7 @@ dnešní lekci Protektrons je třeba se vrátili do svých lusky každý večer.
       <EDID>DLC04NukacadeTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Redeem Tickets</Source>
-      <Dest>Uplatnit vstupenky</Dest>
+      <Dest>Vložit vstupenky</Dest>
     </String>
     <String List="0" sID="00445E">
       <EDID>DLC04NukaCola04</EDID>
@@ -4219,11 +4219,11 @@ You currently have redeemed &lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade Tic
 &#xD;
 Would you like to redeem all of your Nuka-Cade Tickets?&#xD;
 </Source>
-      <Dest>!Vstupenky Nuka-Cade lze vyhrát od her zde nacházejících se v Nuka-Cade, jakož i jiných oblastí parku.&#xD;
+      <Dest>Nuka-Cade vstupenky lze vyhrát z her nacházejících se zde v Nuka-Cade, jakož i v jiných oblastech parku.&#xD;
 &#xD;
-V současné době vykoupil&lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade vstupenky.&#xD;
+V současné době máte vloženo &lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade vstupenek.&#xD;
 &#xD;
-Chtěli byste, aby vykoupil všechny své Nuka-Cade vstupenky?&#xD;
+Chcete vložit všechny své Nuka-Cade vstupenky?&#xD;
 </Dest>
     </String>
     <String List="0" sID="004468">
@@ -4312,7 +4312,7 @@ Je potřeba přejít k testu číslo tři, řekl bych.</Dest>
       <EDID>DLC04NukacadeTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Spend Tickets</Source>
-      <Dest>Vložit vstupenky</Dest>
+      <Dest>Uplatnit vstupenky</Dest>
     </String>
     <String List="0" sID="004476">
       <EDID>DLC04NukaWorld_KiddieKingdom02</EDID>
@@ -4441,11 +4441,11 @@ Current Tickets: &lt;Token.ValueInt=CurrentRedeemed&gt;&#xD;
 Total Tickets Redeemed: &lt;Token.ValueInt=TotalRedeemed&gt;&#xD;
 &#xD;
 </Source>
-      <Dest>!Vítáme Vás na Nuka-Cade, &lt;Alias=player&gt;&#xD;
+      <Dest>Vítáme hráče: &lt;Alias=player&gt; zde v Nuka-Cade.&#xD;
 &#xD;
-vyměnit vstupenky za zábavné a vzrušující ceny!&#xD;
+Vyměňte si své vstupenky za zábavné a vzrušující ceny!&#xD;
 &#xD;
-Aktuální vstupenky: &lt;Token.ValueInt=CurrentRedeemed&gt;&#xD;
+Aktuálních vstupenek: &lt;Token.ValueInt=CurrentRedeemed&gt;&#xD;
 Celkem vyplaceno vstupenek: &lt;Token.ValueInt=TotalRedeemed&gt;&#xD;
 &#xD;
 </Dest>
@@ -5779,19 +5779,19 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA07Price&gt; Tickets - &lt;Alias=ItemA07&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA07Price&gt; Vstupenky - &lt;Alias=ItemA07&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA07Price&gt; vstupenek: &lt;Alias=ItemA07&gt;</Dest>
     </String>
     <String List="0" sID="004940">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD07Price&gt; Tickets - &lt;Alias=ItemD07&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD07Price&gt; Vstupenky - &lt;Alias=ItemD07&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD07Price&gt; vstupenek: &lt;Alias=ItemD07&gt;</Dest>
     </String>
     <String List="0" sID="004942">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD05Price&gt; Tickets - &lt;Alias=ItemD05&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD05Price&gt; Vstupenky - &lt;Alias=ItemD05&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD05Price&gt; vstupenek: &lt;Alias=ItemD05&gt;</Dest>
     </String>
     <String List="0" sID="004946">
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
@@ -5827,7 +5827,7 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA01Price&gt; Tickets - &lt;Alias=ItemA01&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA01Price&gt; Vstupenky - &lt;Alias=ItemA01&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA01Price&gt; vstupenek: &lt;Alias=ItemA01&gt;</Dest>
     </String>
     <String List="0" sID="00494B">
       <EDID>DLC04POITriggerKindle</EDID>
@@ -5839,13 +5839,13 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE02Price&gt; Tickets - &lt;Alias=ItemE02&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE02Price&gt; Vstupenky - &lt;Alias=ItemE02&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE02Price&gt; vstupenek: &lt;Alias=ItemE02&gt;</Dest>
     </String>
     <String List="0" sID="004955">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB01Price&gt; Tickets - &lt;Alias=ItemB01&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB01Price&gt; Vstupenky - &lt;Alias=ItemB01&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB01Price&gt; vstupenek: &lt;Alias=ItemB01&gt;</Dest>
     </String>
     <String List="0" sID="004956">
       <EDID>DLC04NukacadeSubTerminalTicketSpendConfirm</EDID>
@@ -5860,7 +5860,7 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
                Is this correct?</Source>
       <Dest>               Aktuální vstupenky: &lt;Token.ValueInt=CurrentRedeemed&gt;&#xD;
 ==================================================&#xD;
-                vybrali jste ...&#xD;
+                vybrali jste...&#xD;
 &#xD;
 &lt;Alias=ItemCurrent&gt;&#xD;
 Vstupenky: &lt;Token.ValueInt=CurrentItemPrice&gt;&#xD;
@@ -5871,13 +5871,13 @@ Vstupenky: &lt;Token.ValueInt=CurrentItemPrice&gt;&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC03Price&gt; Tickets - &lt;Alias=ItemC03&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC03Price&gt; Vstupenky - &lt;Alias=ItemC03&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC03Price&gt; vstupenek: &lt;Alias=ItemC03&gt;</Dest>
     </String>
     <String List="0" sID="004959">
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE07Price&gt; Tickets - &lt;Alias=ItemE07&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE07Price&gt; Vstupenky - &lt;Alias=ItemE07&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE07Price&gt; vstupenek: &lt;Alias=ItemE07&gt;</Dest>
     </String>
     <String List="0" sID="00495B">
       <EDID>DLC04NukacadeSubTerminalTicketSpendConfirm</EDID>
@@ -5893,25 +5893,25 @@ Vstupenky: &lt;Token.ValueInt=CurrentItemPrice&gt;&#xD;
 </Source>
       <Dest>               Aktuální vstupenky: &lt;Token.ValueInt=CurrentRedeemed&gt;&#xD;
 ==================================================&#xD;
-                vybrali jste ...&#xD;
+                vybrali jste...&#xD;
 &#xD;
 &lt;Alias=ItemCurrent&gt;&#xD;
 Vstupenky: &lt;Token.ValueInt=CurrentItemPrice&gt;&#xD;
 &#xD;
-     Nemáte momentálně dostatečný počet vstupenek.&#xD;
+     Momentálně nemáte dostatečný počet vstupenek.&#xD;
 </Dest>
     </String>
     <String List="0" sID="004963">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB06Price&gt; Tickets - &lt;Alias=ItemB06&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB06Price&gt; Vstupenky - &lt;Alias=ItemB06&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB06Price&gt; vstupenek: &lt;Alias=ItemB06&gt;</Dest>
     </String>
     <String List="0" sID="004966">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB05Price&gt; Tickets - &lt;Alias=ItemB05&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB05Price&gt; Vstupenky - &lt;Alias=ItemB05&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB05Price&gt; vstupenek: &lt;Alias=ItemB05&gt;</Dest>
     </String>
     <String List="0" sID="00496C">
       <EDID>DLC04NukacadeSubTerminalTicketSpendConfirm</EDID>
@@ -5923,13 +5923,13 @@ Vstupenky: &lt;Token.ValueInt=CurrentItemPrice&gt;&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE03Price&gt; Tickets - &lt;Alias=ItemE03&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE03Price&gt; Vstupenky - &lt;Alias=ItemE03&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE03Price&gt; vstupenek: &lt;Alias=ItemE03&gt;</Dest>
     </String>
     <String List="0" sID="004974">
       <EDID>DLC04NukacadeSubTerminalTicketSpendMain</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Prize Level 4</Source>
-      <Dest>!Cenu Level 4</Dest>
+      <Dest>Úroveň ceny 4</Dest>
     </String>
     <String List="0" sID="004975">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
@@ -5953,37 +5953,37 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpendMain</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Prize Level 3</Source>
-      <Dest>!Cenu Level 3</Dest>
+      <Dest>Úroveň ceny 3</Dest>
     </String>
     <String List="0" sID="00497E">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB08Price&gt; Tickets - &lt;Alias=ItemB08&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB08Price&gt; Vstupenky - &lt;Alias=ItemB08&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB08Price&gt; vstupenek: &lt;Alias=ItemB08&gt;</Dest>
     </String>
     <String List="0" sID="00497F">
       <EDID>DLC04NukacadeSubTerminalTicketSpendConfirm</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Dispensing Prize...</Source>
-      <Dest>Výdejní cena...</Dest>
+      <Dest>Vydávání ceny...</Dest>
     </String>
     <String List="0" sID="004980">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB04Price&gt; Tickets - &lt;Alias=ItemB04&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB04Price&gt; Vstupenky - &lt;Alias=ItemB04&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB04Price&gt; vstupenek: &lt;Alias=ItemB04&gt;</Dest>
     </String>
     <String List="0" sID="004988">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD08Price&gt; Tickets - &lt;Alias=ItemD08&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD08Price&gt; Vstupenky - &lt;Alias=ItemD08&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD08Price&gt; vstupenek: &lt;Alias=ItemD08&gt;</Dest>
     </String>
     <String List="0" sID="004989">
       <EDID>DLC04NukacadeSubTerminalTicketSpendMain</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Prize Level 1</Source>
-      <Dest>!Cenu Level 1</Dest>
+      <Dest>Úroveň ceny 1</Dest>
     </String>
     <String List="0" sID="00498B">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
@@ -6001,13 +6001,13 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA04Price&gt; Tickets - &lt;Alias=ItemA04&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA04Price&gt; Vstupenky - &lt;Alias=ItemA04&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA04Price&gt; vstupenek: &lt;Alias=ItemA04&gt;</Dest>
     </String>
     <String List="0" sID="00498E">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD03Price&gt; Tickets - &lt;Alias=ItemD03&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD03Price&gt; Vstupenky - &lt;Alias=ItemD03&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD03Price&gt; vstupenek: &lt;Alias=ItemD03&gt;</Dest>
     </String>
     <String List="0" sID="004995">
       <EDID>DLC04POITriggerKindle</EDID>
@@ -6019,7 +6019,7 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA03Price&gt; Tickets - &lt;Alias=ItemA03&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA03Price&gt; Vstupenky - &lt;Alias=ItemA03&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA03Price&gt; vstupenek: &lt;Alias=ItemA03&gt;</Dest>
     </String>
     <String List="0" sID="00499C">
       <EDID>DLC04NukacadeSubTerminalTicketSpendConfirm</EDID>
@@ -6048,17 +6048,17 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
 =             Osobní nejvyšší skóre              =&#xD;
 ==================================================&#xD;
 &#xD;
-   Atomic Rollers:    &lt;Token.ValueInt=HighScoreAtomicRollers&gt;&#xD;
-   Bandit Roundup:    &lt;Token.ValueInt=HighScoreBanditRoundup&gt;&#xD;
-   Hoop Shot:         &lt;Token.ValueInt=HighScoreHoopShot&gt;&#xD;
-   Nuka-Zapper závod: &lt;Token.ValueInt=HighScoreNukaZapperRace&gt;&#xD;
-   Whac-a-Commie:     &lt;Token.ValueInt=HighScoreWhacaCommie&gt;</Dest>
+   Atomic Rollers:        &lt;Token.ValueInt=HighScoreAtomicRollers&gt;&#xD;
+   Hon na bandity:        &lt;Token.ValueInt=HighScoreBanditRoundup&gt;&#xD;
+   Hoop Shot:             &lt;Token.ValueInt=HighScoreHoopShot&gt;&#xD;
+   Nuka-Zapper závod:     &lt;Token.ValueInt=HighScoreNukaZapperRace&gt;&#xD;
+   Bouchni-si-komouše:    &lt;Token.ValueInt=HighScoreWhacaCommie&gt;</Dest>
     </String>
     <String List="0" sID="0049A1">
       <EDID>DLC04NukacadeTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>View High Scores</Source>
-      <Dest>!Strojově Nejvyšší skóre</Dest>
+      <Dest>Zobrazit nejvyšší skóre</Dest>
     </String>
     <String List="0" sID="0049A2">
       <EDID>DLC04NukacadeTerminal</EDID>
@@ -6070,9 +6070,9 @@ Here you can exchange your tickets for fun and exciting prizes!&#xD;
 To begin, please enter your name to create an account.&#xD;
 &#xD;
 </Source>
-      <Dest>!Vítejte v Nuka-Cade!&#xD;
+      <Dest>Vítejte v Nuka-Cade!&#xD;
 &#xD;
-Zde si můžete vyměňovat své vstupenky na zábavné a vzrušující cen!&#xD;
+Zde si můžete vyměňovat své vstupenky za zábavné a vzrušující ceny!&#xD;
 &#xD;
 Chcete-li začít, zadejte své jméno k vytvoření účtu.&#xD;
 &#xD;
@@ -6082,7 +6082,7 @@ Chcete-li začít, zadejte své jméno k vytvoření účtu.&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE04Price&gt; Tickets - &lt;Alias=ItemE04&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE04Price&gt; Vstupenky - &lt;Alias=ItemE04&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE04Price&gt; vstupenek: &lt;Alias=ItemE04&gt;</Dest>
     </String>
     <String List="0" sID="0049A8">
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
@@ -6118,25 +6118,25 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpendMain</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Prize Level 2</Source>
-      <Dest>!Cenu Level 2</Dest>
+      <Dest>Úroveň ceny 2</Dest>
     </String>
     <String List="0" sID="0049B4">
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA06Price&gt; Tickets - &lt;Alias=ItemA06&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA06Price&gt; Vstupenky - &lt;Alias=ItemA06&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA06Price&gt; vstupenek: &lt;Alias=ItemA06&gt;</Dest>
     </String>
     <String List="0" sID="0049B5">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC05Price&gt; Tickets - &lt;Alias=ItemC05&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC05Price&gt; Vstupenky - &lt;Alias=ItemC05&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC05Price&gt; vstupenek: &lt;Alias=ItemC05&gt;</Dest>
     </String>
     <String List="0" sID="0049B6">
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE05Price&gt; Tickets - &lt;Alias=ItemE05&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE05Price&gt; Vstupenky - &lt;Alias=ItemE05&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE05Price&gt; vstupenek: &lt;Alias=ItemE05&gt;</Dest>
     </String>
     <String List="0" sID="0049B9">
       <EDID>DLC04NukacadeSubTerminalHighScores</EDID>
@@ -6153,18 +6153,18 @@ You currently have redeemed &lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade Tic
 &#xD;
 Would you like to redeem all of your Nuka-Cade Tickets?&#xD;
 </Source>
-      <Dest>!Vstupenky Nuka-Cade lze vyhrát od her zde nacházejících se v Nuka-Cade, jakož i jiných oblastí parku.&#xD;
+      <Dest>Nuka-Cade vstupenky lze vyhrát z her nacházejících se zde v Nuka-Cade, jakož i v jiných oblastech parku.&#xD;
 &#xD;
-V současné době vykoupil&lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade vstupenky.&#xD;
+V současné době máte vloženo &lt;Token.ValueInt=CurrentRedeemed&gt; Nuka-Cade vstupenek.&#xD;
 &#xD;
-Chtěli byste, aby vykoupil všechny své Nuka-Cade vstupenky?&#xD;
+Chcete vložit všechny své Nuka-Cade vstupenky?&#xD;
 </Dest>
     </String>
     <String List="0" sID="0049BF">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB03Price&gt; Tickets - &lt;Alias=ItemB03&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB03Price&gt; Vstupenky - &lt;Alias=ItemB03&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB03Price&gt; vstupenek: &lt;Alias=ItemB03&gt;</Dest>
     </String>
     <String List="0" sID="0049C7">
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
@@ -6200,13 +6200,13 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE08Price&gt; Tickets - &lt;Alias=ItemE08&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE08Price&gt; Vstupenky - &lt;Alias=ItemE08&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE08Price&gt; vstupenek: &lt;Alias=ItemE08&gt;</Dest>
     </String>
     <String List="0" sID="0049D3">
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA08Price&gt; Tickets - &lt;Alias=ItemA08&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA08Price&gt; Vstupenky - &lt;Alias=ItemA08&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA08Price&gt; vstupenek: &lt;Alias=ItemA08&gt;</Dest>
     </String>
     <String List="0" sID="0049D4">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
@@ -6236,31 +6236,31 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA02Price&gt; Tickets - &lt;Alias=ItemA02&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA02Price&gt; Vstupenky - &lt;Alias=ItemA02&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA02Price&gt; vstupenek: &lt;Alias=ItemA02&gt;</Dest>
     </String>
     <String List="0" sID="0049DE">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD02Price&gt; Tickets - &lt;Alias=ItemD02&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD02Price&gt; Vstupenky - &lt;Alias=ItemD02&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD02Price&gt; vstupenek: &lt;Alias=ItemD02&gt;</Dest>
     </String>
     <String List="0" sID="0049DF">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC08Price&gt; Tickets - &lt;Alias=ItemC08&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC08Price&gt; Vstupenky - &lt;Alias=ItemC08&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC08Price&gt; vstupenek: &lt;Alias=ItemC08&gt;</Dest>
     </String>
     <String List="0" sID="0049E0">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD04Price&gt; Tickets - &lt;Alias=ItemD04&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD04Price&gt; Vstupenky - &lt;Alias=ItemD04&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD04Price&gt; vstupenek: &lt;Alias=ItemD04&gt;</Dest>
     </String>
     <String List="0" sID="0049E3">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD01Price&gt; Tickets - &lt;Alias=ItemD01&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD01Price&gt; Vstupenky - &lt;Alias=ItemD01&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD01Price&gt; vstupenek: &lt;Alias=ItemD01&gt;</Dest>
     </String>
     <String List="0" sID="0049E4">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
@@ -6278,73 +6278,73 @@ Zkuste to prosím později a užívejte si Nuka-Worldu!&#xD;
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC06Price&gt; Tickets - &lt;Alias=ItemC06&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC06Price&gt; Vstupenky - &lt;Alias=ItemC06&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC06Price&gt; vstupenek: &lt;Alias=ItemC06&gt;</Dest>
     </String>
     <String List="0" sID="0049E8">
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE06Price&gt; Tickets - &lt;Alias=ItemE06&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE06Price&gt; Vstupenky - &lt;Alias=ItemE06&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE06Price&gt; vstupenek: &lt;Alias=ItemE06&gt;</Dest>
     </String>
     <String List="0" sID="0049E9">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC07Price&gt; Tickets - &lt;Alias=ItemC07&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC07Price&gt; Vstupenky - &lt;Alias=ItemC07&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC07Price&gt; vstupenek: &lt;Alias=ItemC07&gt;</Dest>
     </String>
     <String List="0" sID="0049ED">
       <EDID>DLC04NukacadeSubTerminalTicketSpend05</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemE01Price&gt; Tickets - &lt;Alias=ItemE01&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemE01Price&gt; Vstupenky - &lt;Alias=ItemE01&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemE01Price&gt; vstupenek: &lt;Alias=ItemE01&gt;</Dest>
     </String>
     <String List="0" sID="0049F0">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC02Price&gt; Tickets - &lt;Alias=ItemC02&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC02Price&gt; Vstupenky - &lt;Alias=ItemC02&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC02Price&gt; vstupenek: &lt;Alias=ItemC02&gt;</Dest>
     </String>
     <String List="0" sID="0049F3">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB07Price&gt; Tickets - &lt;Alias=ItemB07&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB07Price&gt; Vstupenky - &lt;Alias=ItemB07&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB07Price&gt; vstupenek: &lt;Alias=ItemB07&gt;</Dest>
     </String>
     <String List="0" sID="0049F5">
       <EDID>DLC04NukacadeSubTerminalTicketSpend02</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemB02Price&gt; Tickets - &lt;Alias=ItemB02&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemB02Price&gt; Vstupenky - &lt;Alias=ItemB02&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemB02Price&gt; vstupenek: &lt;Alias=ItemB02&gt;</Dest>
     </String>
     <String List="0" sID="0049F8">
       <EDID>DLC04NukacadeSubTerminalTicketSpend04</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemD06Price&gt; Tickets - &lt;Alias=ItemD06&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemD06Price&gt; Vstupenky - &lt;Alias=ItemD06&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemD06Price&gt; vstupenek: &lt;Alias=ItemD06&gt;</Dest>
     </String>
     <String List="0" sID="0049F9">
       <EDID>DLC04NukacadeSubTerminalTicketSpendMain</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Prize Level 5</Source>
-      <Dest>!Cenu Level 5</Dest>
+      <Dest>Úroveň ceny 5</Dest>
     </String>
     <String List="0" sID="0049FD">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC01Price&gt; Tickets - &lt;Alias=ItemC01&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC01Price&gt; Vstupenky - &lt;Alias=ItemC01&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC01Price&gt; vstupenek: &lt;Alias=ItemC01&gt;</Dest>
     </String>
     <String List="0" sID="0049FF">
       <EDID>DLC04NukacadeSubTerminalTicketSpend03</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemC04Price&gt; Tickets - &lt;Alias=ItemC04&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemC04Price&gt; Vstupenky - &lt;Alias=ItemC04&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemC04Price&gt; vstupenek: &lt;Alias=ItemC04&gt;</Dest>
     </String>
     <String List="0" sID="004A00">
       <EDID>DLC04NukacadeSubTerminalTicketSpend01</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>&lt;Token.ValueInt=ItemA05Price&gt; Tickets - &lt;Alias=ItemA05&gt;</Source>
-      <Dest>&lt;Token.ValueInt=ItemA05Price&gt; Vstupenky - &lt;Alias=ItemA05&gt;</Dest>
+      <Dest>&lt;Token.ValueInt=ItemA05Price&gt; vstupenek: &lt;Alias=ItemA05&gt;</Dest>
     </String>
     <String List="0" sID="004A04">
       <EDID>DLC04NukaCadeContainer</EDID>
