@@ -23,13 +23,13 @@
       <EDID>DLC04TransitCenterLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Nuka-World Transit Center</Source>
-      <Dest>Nuka-World tranzitní středisko</Dest>
+      <Dest>Tranzitní středisko Nuka-Worldu</Dest>
     </String>
     <String List="0" sID="0000E9">
       <EDID>DLC04TransitCenter01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Nuka-World Transit Center</Source>
-      <Dest>Nuka-World tranzitní středisko</Dest>
+      <Dest>Tranzitní středisko Nuka-Worldu</Dest>
     </String>
     <String List="0" sID="0000F3">
       <EDID>DLC04WorkshopRaiderDialogueFaction</EDID>
@@ -59,7 +59,7 @@
       <EDID>DLC04TransitCenterMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Nuka-World Transit Center</Source>
-      <Dest>Nuka-World tranzitní středisko</Dest>
+      <Dest>Tranzitní středisko Nuka-Worldu</Dest>
     </String>
     <String List="0" sID="00034F">
       <EDID>DLC04WorkshopWorkbenchNukaWorld</EDID>
@@ -5471,7 +5471,7 @@
       <EDID>DLC04SettlementFF01</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Defeat the Challenger</Source>
-      <Dest>Poraz Challengera</Dest>
+      <Dest>Poraz vyzyvatele</Dest>
     </String>
     <String List="0" sID="002D3B">
       <EDID>DLC04SettlementFF01</EDID>
@@ -7169,7 +7169,7 @@
       <EDID>DLC04SafariAdventureQuest</EDID>
       <REC id="17">QUST:NNAM</REC>
       <Source>Assign a Gang to Safari Adventure</Source>
-      <Dest>Přiřaď gang na Safari dobrodružství</Dest>
+      <Dest>Přiřaď gang do Safari dobrodružství</Dest>
     </String>
     <String List="0" sID="00405A">
       <EDID>miscmod_DLC04Bot_Legs_Sentry_Armor_Space_Right</EDID>
@@ -7721,7 +7721,7 @@
       <EDID>DLC04WW_SignBoardingShoeing01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Boarding - Shoeing Sign</Source>
-      <Dest>Boarding - Shoeing Sign</Dest>
+      <Dest>Nástupiště</Dest>
     </String>
     <String List="0" sID="004290">
       <EDID>DLC04RoundLamp01Red</EDID>
@@ -7739,7 +7739,7 @@
       <EDID>DLC04WW_SignGeneralStore01</EDID>
       <REC>STAT:FULL</REC>
       <Source>General Store Sign</Source>
-      <Dest>General Store Sign</Dest>
+      <Dest>Obchod</Dest>
     </String>
     <String List="0" sID="0042AF">
       <EDID>DLC04WW_HitchPost01</EDID>
@@ -7757,7 +7757,7 @@
       <EDID>DLC04WW_SignBarberDentist01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Barber &amp; Dentist Sign</Source>
-      <Dest>Barber &amp; Dentist Sign</Dest>
+      <Dest>Holič &amp; zubař</Dest>
     </String>
     <String List="0" sID="0042E1">
       <EDID>DLC04ZooCage02</EDID>
@@ -7769,7 +7769,7 @@
       <EDID>DLC04WW_SignGeneralPractice01</EDID>
       <REC>STAT:FULL</REC>
       <Source>General + Practice Sign</Source>
-      <Dest>General + Practice Sign</Dest>
+      <Dest>Všeobecná značka</Dest>
     </String>
     <String List="0" sID="0042FE">
       <EDID>DLC04RoundLamp01Blue</EDID>
@@ -7781,7 +7781,7 @@
       <EDID>DLC04WW_SignBlacksmith01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Blacksmith Sign</Source>
-      <Dest>Blacksmith Sign</Dest>
+      <Dest>Kovárna</Dest>
     </String>
     <String List="0" sID="00431C">
       <EDID>DLC04ZooCage01_Damaged</EDID>
@@ -7805,7 +7805,7 @@
       <EDID>DLC04WW_SignGunsmith01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Gunsmith Sign</Source>
-      <Dest>Gunsmith Sign</Dest>
+      <Dest>Puškař</Dest>
     </String>
     <String List="0" sID="004367">
       <EDID>DLC04ZooCage03_Damaged</EDID>
@@ -7817,7 +7817,7 @@
       <EDID>DLC04WW_SignUndertaker01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Undertaker Sign</Source>
-      <Dest>Undertaker Sign</Dest>
+      <Dest>Zřízenec</Dest>
     </String>
     <String List="0" sID="004399">
       <EDID>DLC04ZooCage03</EDID>
@@ -7829,7 +7829,7 @@
       <EDID>DLC04WW_SignSheriff01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Sheriff Sign</Source>
-      <Dest>Sheriff Sign</Dest>
+      <Dest>Šerif</Dest>
     </String>
     <String List="0" sID="0043A8">
       <EDID>DLC04ZooCage01</EDID>
@@ -8224,13 +8224,13 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_CutOut_DocPhosphate</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cowboy Cutout</Source>
-      <Dest>Upoutávač - kovboj</Dest>
+      <Dest>Poutač - dr. Fosfát</Dest>
     </String>
     <String List="0" sID="0047A7">
       <EDID>DLC04Workshop_WW_SignBlacksmith01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Blacksmith Sign</Source>
-      <Dest>Blacksmith Sign</Dest>
+      <Dest>Kovárna</Dest>
     </String>
     <String List="0" sID="0047AC">
       <EDID>DLC04Workshop_Lightbox_StarportArt01</EDID>
@@ -8248,7 +8248,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_KingColaCutoutSTATIC_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>King Cola Cutout</Source>
-      <Dest>Upoutávač - Král Cola</Dest>
+      <Dest>Poutač - král Cola</Dest>
     </String>
     <String List="0" sID="0047B1">
       <EDID>DLC04Workshop_Planet02B</EDID>
@@ -8266,7 +8266,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_SignInformation</EDID>
       <REC>STAT:FULL</REC>
       <Source>Information Sign</Source>
-      <Dest>Information Sign</Dest>
+      <Dest>Informace</Dest>
     </String>
     <String List="0" sID="0047C1">
       <EDID>DLC04Workshop_Lightbox_Dark</EDID>
@@ -8308,13 +8308,13 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_MustbethistallSTATIC_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="0047DE">
       <EDID>DLC04Workshop_Cutout_Cappy</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Cutout</Source>
-      <Dest>Výřez zátky</Dest>
+      <Dest>Poutač - zátka</Dest>
     </String>
     <String List="0" sID="0047E0">
       <EDID>DLC04Workshop_Planet01E</EDID>
@@ -8326,7 +8326,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_Mustbethistall_ShortSTATIC_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="0047E6">
       <EDID>DLC04Workshop_Poster_Cherry</EDID>
@@ -8338,7 +8338,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignSheriff01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Sheriff Sign</Source>
-      <Dest>Sheriff Sign</Dest>
+      <Dest>Šerif</Dest>
     </String>
     <String List="0" sID="0047EC">
       <EDID>DLC04Workshop_WW_Trough</EDID>
@@ -8362,7 +8362,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_Mustbethistall_ShortSTATIC_Green</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="0047F6">
       <EDID>DLC04Workshop_Poster_Victory</EDID>
@@ -8380,13 +8380,13 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignBoardingShoeing01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Boarding - Shoeing Sign</Source>
-      <Dest>Boarding - Shoeing Sign</Dest>
+      <Dest>Nástupiště</Dest>
     </String>
     <String List="0" sID="004805">
       <EDID>DLC04Workshop_Sign_MustbethistallSTATIC_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="004809">
       <EDID>DLC04Workshop_Lightbox_Cherry</EDID>
@@ -8416,25 +8416,25 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Cutout_NukaCola</EDID>
       <REC>STAT:FULL</REC>
       <Source>Nuka-Cola Cutout</Source>
-      <Dest>Upoutávač - Nuka-Cola</Dest>
+      <Dest>Poutač - Nuka-Cola</Dest>
     </String>
     <String List="0" sID="004823">
       <EDID>DLC04Workshop_SignClutterPost</EDID>
       <REC>STAT:FULL</REC>
       <Source>Sign Post</Source>
-      <Dest>Sign Post</Dest>
+      <Dest>Ukazatel směru</Dest>
     </String>
     <String List="0" sID="004828">
       <EDID>DLC04Workshop_Sign_KingColaCutoutSTATIC_Green</EDID>
       <REC>STAT:FULL</REC>
       <Source>King Cola Cutout</Source>
-      <Dest>Upoutávač - Král Cola</Dest>
+      <Dest>Poutač - král Cola</Dest>
     </String>
     <String List="0" sID="00482E">
       <EDID>DLC04Workshop_Sign_Mustbethistall_ShortSTATIC_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="004833">
       <EDID>DLC04Workshop_KK_IceCream02AddOn</EDID>
@@ -8470,7 +8470,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_CutOut_MissTrixie</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cowboy Cutout</Source>
-      <Dest>Upoutávač - kovboj</Dest>
+      <Dest>Poutač - slečna Trixie</Dest>
     </String>
     <String List="0" sID="004845">
       <EDID>DLC04Workshop_Lightbox_Quartz</EDID>
@@ -8494,7 +8494,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_MustbethistallSTATIC_Green</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="004861">
       <EDID>DLC04Workshop_AsteriodSmall</EDID>
@@ -8548,13 +8548,13 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignGunsmith01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Gunsmith Sign</Source>
-      <Dest>Gunsmith Sign</Dest>
+      <Dest>Puškař</Dest>
     </String>
     <String List="0" sID="00487E">
       <EDID>DLC04Workshop_Cutout_Bottle</EDID>
       <REC>STAT:FULL</REC>
       <Source>Bottle Cutout</Source>
-      <Dest>Upoutávač - láhev</Dest>
+      <Dest>Poutač - láhev</Dest>
     </String>
     <String List="0" sID="004880">
       <EDID>DLC04Workshop_Lightbox_Wild</EDID>
@@ -8584,19 +8584,19 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_CutOut_SherriffBruce</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cowboy Cutout</Source>
-      <Dest>Upoutávač - kovboj</Dest>
+      <Dest>Poutač - šerif Bruce</Dest>
     </String>
     <String List="0" sID="00488C">
       <EDID>DLC04Workshop_Cutout_Alien</EDID>
       <REC>STAT:FULL</REC>
       <Source>Alien Cutout</Source>
-      <Dest>Upoutávač - vetřelec</Dest>
+      <Dest>Poutač - vetřelec</Dest>
     </String>
     <String List="0" sID="00488D">
       <EDID>DLC04Workshop_CutOut_MadMulligan</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cowboy Cutout</Source>
-      <Dest>Upoutávač - kovboj</Dest>
+      <Dest>Poutač - Šílenej Mulligan</Dest>
     </String>
     <String List="0" sID="00488E">
       <EDID>DLC04Workshop_Lightbox_Victory</EDID>
@@ -8608,7 +8608,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignGeneralPractice01</EDID>
       <REC>STAT:FULL</REC>
       <Source>General + Practice Sign</Source>
-      <Dest>General + Practice Sign</Dest>
+      <Dest>Všeobecná značka</Dest>
     </String>
     <String List="0" sID="004893">
       <EDID>DLC04Workshop_Lightbox_Grape</EDID>
@@ -8626,7 +8626,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_BumperCar_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Bumper Car</Source>
-      <Dest>Nárazník auta</Dest>
+      <Dest>Narážecí auto</Dest>
     </String>
     <String List="0" sID="004899">
       <EDID>DLC04Workshop_Lightbox_Quantum</EDID>
@@ -8644,7 +8644,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignBarberDentist01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Barber &amp; Dentist Sign</Source>
-      <Dest>Barber &amp; Dentist Sign</Dest>
+      <Dest>Holič &amp; zubař</Dest>
     </String>
     <String List="0" sID="00489D">
       <EDID>DLC04Workshop_Poster_Grape</EDID>
@@ -8662,7 +8662,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_Sign_KingColaCutoutSTATIC_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>King Cola Cutout</Source>
-      <Dest>Upoutávač - Král Cola</Dest>
+      <Dest>Poutač - král Cola</Dest>
     </String>
     <String List="0" sID="0048A1">
       <EDID>DLC04Workshop_NukaBottle_Silver</EDID>
@@ -8680,13 +8680,13 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_GZ_Rocket02Static</EDID>
       <REC>STAT:FULL</REC>
       <Source>Nuka-Cola Rocket</Source>
-      <Dest>Nuka-Cola Rocket</Dest>
+      <Dest>Nuka-Cola raketa</Dest>
     </String>
     <String List="0" sID="0048A8">
       <EDID>DLC04Workshop_WW_SignUndertaker01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Undertaker Sign</Source>
-      <Dest>Undertaker Sign</Dest>
+      <Dest>Zřízenec</Dest>
     </String>
     <String List="0" sID="0048A9">
       <EDID>DLC04Workshop_Lightbox_NukaCola</EDID>
@@ -8698,7 +8698,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_BumperCar_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>Bumper Car</Source>
-      <Dest>Nárazník auta</Dest>
+      <Dest>Narážecí auto</Dest>
     </String>
     <String List="0" sID="0048B1">
       <EDID>DLC04Workshop_SupportPoleWall</EDID>
@@ -8728,7 +8728,7 @@ Současný stav: !!Nouzové napájení!!</Dest>
       <EDID>DLC04Workshop_WW_SignGeneralStore01</EDID>
       <REC>STAT:FULL</REC>
       <Source>General Store Sign</Source>
-      <Dest>General Store Sign</Dest>
+      <Dest>Obchod</Dest>
     </String>
     <String List="0" sID="0048C2">
       <EDID>DLC04Workshop_AsteriodMedium</EDID>
