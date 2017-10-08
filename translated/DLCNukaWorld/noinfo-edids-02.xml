@@ -257,7 +257,7 @@
       <EDID>DLC04_Pike01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="000B94">
       <EDID>DLC04_RadAntBodyPartData</EDID>
@@ -323,7 +323,7 @@
       <EDID>DLC04_workshopRecipe_Pike</EDID>
       <REC>FLST:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="000BEA">
       <EDID>DLC04_RadRatBodyPartData</EDID>
@@ -467,7 +467,7 @@
       <EDID>DLC04_RaiderWorkshopStoreClothing01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Outfit Dealer</Source>
-      <Dest>Dealerův oblek</Dest>
+      <Dest>Prodejce výstroje</Dest>
     </String>
     <String List="0" sID="0012CD">
       <EDID>DLC04_mod_melee_DisciplesBlade_Hatchet_Serrated</EDID>
@@ -1163,7 +1163,7 @@
       <EDID>DLC04_RaiderWorkshopStoreMisc01</EDID>
       <REC>FURN:FULL</REC>
       <Source>Gear Dealer</Source>
-      <Dest>Prodejce součástek</Dest>
+      <Dest>Prodejce příslušenství</Dest>
     </String>
     <String List="0" sID="002A90">
       <EDID>DLC04_MS01_ClothesNukaWorldJumpsuit</EDID>
@@ -1421,7 +1421,7 @@ We have your top scientist Dr. Hein held hostage right where you plan to build y
 Make the right choice Mr. Bradberton.&#xD;
 -AFAD-&#xD;
 </Source>
-      <Dest>POZOR pane Bradbertone&#xD;
+      <Dest>POZOR, pane Bradbertone&#xD;
 (nebo jeden z jeho poskoků)&#xD;
 Snažili jsme se to udělat hezkou cestou, ale vy jste s námi nehrál. Vy jste dokonce šel tak daleko, že jste nás vykázal z vašich parků.&#xD;
 &#xD;
@@ -1429,7 +1429,7 @@ No, pane, tohle je svobodná země navzdory tomu, co si vy firemní tlusté koč
 &#xD;
 Máme vašeho nejlepšího vědce dr. Heina jako rukojmí přesně tam, kde máte v plánu postavit svou drahocennou Rozzlobenou anakondu. Přijďte sám a můžeme diskutovat o podmínkách jeho propuštění. Přiveďte policii a ztratíte hvězdného zaměstnance.&#xD;
 &#xD;
-Učiňte správnou volbu pane Bradbertone.&#xD;
+Učiňte správnou volbu, pane Bradbertone.&#xD;
 -AFAD-&#xD;
 </Dest>
     </String>
@@ -1853,7 +1853,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Pack_Story7_Part2_Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Rumor about Missing Slaves</Source>
-      <Dest>Pověst o chybějících otrocích</Dest>
+      <Dest>Zvěsti o chybějících otrocích</Dest>
     </String>
     <String List="0" sID="00400F">
       <EDID>DLC04_SmartFragGrenadeProjectile</EDID>
@@ -1889,7 +1889,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Pack_Story6_Part1_Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Good Looking Guy's Note</Source>
-      <Dest>Dobře vypadající Guyův vzkaz</Dest>
+      <Dest>Vzkaz dobře vypadajícího chlápka</Dest>
     </String>
     <String List="0" sID="004069">
       <EDID>DLC04_Pack_Story1_Holotape</EDID>
@@ -1901,7 +1901,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Pack_Story6_Part2_Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Pissed Off Guy's Note</Source>
-      <Dest>Naštvaný Guyův vzkaz</Dest>
+      <Dest>Vzkaz naštvanýho chlápka</Dest>
     </String>
     <String List="0" sID="004078">
       <EDID>DLC04_Pack_Story2_Holotape</EDID>
@@ -1967,7 +1967,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie01Red</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Whac-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="0041AE">
       <EDID>DLC04_PoiCatKatana</EDID>
@@ -2027,7 +2027,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_NukaGalaxy_Interior_Airlock</EDID>
       <REC>STAT:FULL</REC>
       <Source>Airlock Sign</Source>
-      <Dest>Airlock Sign</Dest>
+      <Dest>!Přechodová komora</Dest>
     </String>
     <String List="0" sID="00424E">
       <EDID>DLC04_ShovelMuseumTerminal</EDID>
@@ -2039,13 +2039,13 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_KingColaCutoutSTATIC</EDID>
       <REC>STAT:FULL</REC>
       <Source>King Cola Cutout</Source>
-      <Dest>Upoutávač - Král Cola</Dest>
+      <Dest>Poutač - král Cola</Dest>
     </String>
     <String List="0" sID="004250">
       <EDID>DLC04_Nukacade_WhackaCommie01RedStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="004251">
       <EDID>DLC04_StreetLampBanner01b</EDID>
@@ -2057,7 +2057,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_NukaBottleLarge01_Silver</EDID>
       <REC>STAT:FULL</REC>
       <Source>Silver Nuka-Cola Bottle</Source>
-      <Dest>Láhev stříbrné Nuka-Coly</Dest>
+      <Dest>Stříbrná Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="004255">
       <EDID>DLC04_Sign_ArcadeGames01</EDID>
@@ -2069,13 +2069,13 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_SignClutterA09_GiftShop</EDID>
       <REC>STAT:FULL</REC>
       <Source>Gift Shop Sign</Source>
-      <Dest>Gift Shop Sign</Dest>
+      <Dest>Suvenýry</Dest>
     </String>
     <String List="0" sID="00425B">
       <EDID>DLC04_Pike03_A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="00425C">
       <EDID>DLC04_StreetLamp02On</EDID>
@@ -2093,7 +2093,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie02YellowStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="004262">
       <EDID>DLC04_Sign_AttractionClosed01</EDID>
@@ -2105,7 +2105,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Mustbethistall_ShortSTATIC</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="004265">
       <EDID>DLC04_RaiderVendorGeneral01</EDID>
@@ -2117,19 +2117,19 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_SignClutterA07_Games</EDID>
       <REC>STAT:FULL</REC>
       <Source>Games Sign</Source>
-      <Dest>Games Sign</Dest>
+      <Dest>Zábava</Dest>
     </String>
     <String List="0" sID="00426D">
       <EDID>DLC04_Sign_Waitingtime</EDID>
       <REC>STAT:FULL</REC>
       <Source>Wait Time Sign</Source>
-      <Dest>Wait Time Sign</Dest>
+      <Dest>Čekejte</Dest>
     </String>
     <String List="0" sID="00426E">
       <EDID>DLC04_Pike03_B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="00426F">
       <EDID>DLC04_SignStarPortArt01</EDID>
@@ -2141,7 +2141,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_NukaBottleSmall01_Orange</EDID>
       <REC>STAT:FULL</REC>
       <Source>Orange Nuka-Cola Bottle</Source>
-      <Dest>Láhev Pomerančové Nuka-Coly</Dest>
+      <Dest>Oranžová Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="004272">
       <EDID>DLC04_Sign_Enter</EDID>
@@ -2171,31 +2171,31 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Spit</EDID>
       <REC>STAT:FULL</REC>
       <Source>Spitting Sign</Source>
-      <Dest>Spitting Sign</Dest>
+      <Dest>Zákaz plivání</Dest>
     </String>
     <String List="0" sID="00427A">
       <EDID>DLC04_Pike03</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="004281">
       <EDID>DLC04_Nukacade_WhackaCommie02RedStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="004283">
       <EDID>DLC04_Pike02_A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="004288">
       <EDID>DLC04_Sign_NukaGalaxy_Interior_LaunchBay</EDID>
       <REC>STAT:FULL</REC>
       <Source>Launch Bay Sign</Source>
-      <Dest>Launch Bay Sign</Dest>
+      <Dest>!Launch Bay</Dest>
     </String>
     <String List="0" sID="00428B">
       <EDID>DLC04_StreetLampTilingRemap01</EDID>
@@ -2207,7 +2207,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_NukaGalaxy_Interior_MissionControl</EDID>
       <REC>STAT:FULL</REC>
       <Source>Mission Control Sign</Source>
-      <Dest>Mission Control Sign</Dest>
+      <Dest>!Ovládání úkolu</Dest>
     </String>
     <String List="0" sID="00428F">
       <EDID>DLC04_ShovelMuseumTerminal</EDID>
@@ -2237,7 +2237,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_NukaGirl02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Nuka Girl Cutout</Source>
-      <Dest>Upoutávač - Nuka-dívka</Dest>
+      <Dest>Poutač - Nuka-dívka</Dest>
     </String>
     <String List="0" sID="004297">
       <EDID>DLC04_Nukacade_Cart01</EDID>
@@ -2249,13 +2249,13 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie01YellowStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="00429A">
       <EDID>DLC04_Sign_Warning_Cagereaching02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="00429B">
       <EDID>DLC04_StreetLampTilingRemapBanner01a</EDID>
@@ -2279,7 +2279,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Post</EDID>
       <REC>STAT:FULL</REC>
       <Source>Sign Post</Source>
-      <Dest>Sign Post</Dest>
+      <Dest>Ukazatel směru</Dest>
     </String>
     <String List="0" sID="0042A0">
       <EDID>DLC04_PondBoat02</EDID>
@@ -2309,7 +2309,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie01BlueStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="0042B5">
       <EDID>DLC04_StreetLampPost01</EDID>
@@ -2339,19 +2339,19 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_NukaGalaxy_Interior_NowBoarding</EDID>
       <REC>STAT:FULL</REC>
       <Source>Now Boarding Sign</Source>
-      <Dest>Now Boarding Sign</Dest>
+      <Dest>Nastupovat</Dest>
     </String>
     <String List="0" sID="0042C0">
       <EDID>DLC04_Pike01_A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="0042C2">
       <EDID>DLC04_NukaBottleSmall01_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>Blue Nuka-Cola Bottle</Source>
-      <Dest>Modrá Nuka-Cola Láhev</Dest>
+      <Dest>Modrá Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="0042C3">
       <EDID>DLC04_Sign_ArcadePrizes01</EDID>
@@ -2387,7 +2387,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_NukaBottleLarge01_Blue</EDID>
       <REC>STAT:FULL</REC>
       <Source>Blue Nuka-Cola Bottle</Source>
-      <Dest>Modrá Nuka-Cola Láhev</Dest>
+      <Dest>Modrá Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="0042D5">
       <EDID>DLC04_SignClutterA01</EDID>
@@ -2405,7 +2405,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_MustbethistallSTATIC</EDID>
       <REC>STAT:FULL</REC>
       <Source>Height Sign</Source>
-      <Dest>Height Sign</Dest>
+      <Dest>Výškoměr</Dest>
     </String>
     <String List="0" sID="0042D9">
       <EDID>DLC04_ZooStatue_Gorilla</EDID>
@@ -2423,7 +2423,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Warning_ClothesRequired</EDID>
       <REC>STAT:FULL</REC>
       <Source>Clothes Required Sign</Source>
-      <Dest>Clothes Required Sign</Dest>
+      <Dest>Vyžadováno oblečení</Dest>
     </String>
     <String List="0" sID="0042E7">
       <EDID>DLC04_Sign_Arrow01</EDID>
@@ -2435,7 +2435,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie01GreenStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="0042EF">
       <EDID>DLC04_PlanetInt02</EDID>
@@ -2465,19 +2465,19 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Pike01_B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="004304">
       <EDID>DLC04_Sign_Warning_Keephandandfeet</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="004306">
       <EDID>DLC04_SignInformation</EDID>
       <REC>STAT:FULL</REC>
       <Source>Information Sign</Source>
-      <Dest>Information Sign</Dest>
+      <Dest>Informace</Dest>
     </String>
     <String List="0" sID="00430A">
       <EDID>DLC04_PlanetColorSurface</EDID>
@@ -2489,7 +2489,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Warning_Gazelle</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="004319">
       <EDID>DLC04_StreetLamp01On</EDID>
@@ -2501,7 +2501,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_Sign_Warning_Cagereaching01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="00431F">
       <EDID>DLC04_PlanetColorSurfaceGas</EDID>
@@ -2513,13 +2513,13 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_NukaBottleLargeHollow01_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Broken Red Nuka-Cola Bottle</Source>
-      <Dest>Rozbitá červená Láhev Nuka-Coly</Dest>
+      <Dest>Rozbitá červená Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="004322">
       <EDID>DLC04_Sign_Warning_Buffalo</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="004324">
       <EDID>DLC04_NukaBottle_SmallCement</EDID>
@@ -2537,7 +2537,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_NukaBottleLarge01_Orange</EDID>
       <REC>STAT:FULL</REC>
       <Source>Orange Nuka-Cola Bottle</Source>
-      <Dest>Láhev Pomerančové Nuka-Coly</Dest>
+      <Dest>Oranžová Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="00432E">
       <EDID>DLC04_PoiCatLuna</EDID>
@@ -2555,7 +2555,7 @@ Učiňte správnou volbu pane Bradbertone.&#xD;
       <EDID>DLC04_SignClutterA02_Information</EDID>
       <REC>STAT:FULL</REC>
       <Source>Information Sign</Source>
-      <Dest>Information Sign</Dest>
+      <Dest>Informace</Dest>
     </String>
     <String List="0" sID="004335">
       <EDID>DLC04_ShovelMuseumTerminal</EDID>
@@ -2573,7 +2573,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_SignClutterA04_Refreshments</EDID>
       <REC>STAT:FULL</REC>
       <Source>Refreshments Sign</Source>
-      <Dest>Refreshments Sign</Dest>
+      <Dest>Občerstvení</Dest>
     </String>
     <String List="0" sID="00433F">
       <EDID>DLC04_Sign_Arrow02</EDID>
@@ -2609,13 +2609,13 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Pike02_B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="00434D">
       <EDID>DLC04_SignClutterA10_Theater</EDID>
       <REC>STAT:FULL</REC>
       <Source>Theater Sign</Source>
-      <Dest>Theater Sign</Dest>
+      <Dest>Divadlo</Dest>
     </String>
     <String List="0" sID="004352">
       <EDID>DLC04_Sign_Enter02</EDID>
@@ -2627,7 +2627,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Nukacade_CommieStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Commie</Source>
-      <Dest>Commie</Dest>
+      <Dest>Komouš</Dest>
     </String>
     <String List="0" sID="004360">
       <EDID>DLC04_ShovelMuseumTerminal</EDID>
@@ -2645,13 +2645,13 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Sign_Tickets02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Tickets Sign</Source>
-      <Dest>Tickets Sign</Dest>
+      <Dest>Vstupenky</Dest>
     </String>
     <String List="0" sID="00436A">
       <EDID>DLC04_NukaBottleLarge01_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Red Nuka-Cola Bottle</Source>
-      <Dest>Láhev červené Nuka-Coly</Dest>
+      <Dest>Červená Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="00436B">
       <EDID>DLC04_StreetLampTilingRemapBanner01b</EDID>
@@ -2669,13 +2669,13 @@ Díky za všechno!&#xD;
       <EDID>DLC04_SignClutterA05_FirstAid</EDID>
       <REC>STAT:FULL</REC>
       <Source>First Aid Sign</Source>
-      <Dest>First Aid Sign</Dest>
+      <Dest>První pomoc</Dest>
     </String>
     <String List="0" sID="004371">
       <EDID>DLC04_SignClutterA06_Rides</EDID>
       <REC>STAT:FULL</REC>
       <Source>Rides Sign</Source>
-      <Dest>Rides Sign</Dest>
+      <Dest>Atrakce</Dest>
     </String>
     <String List="0" sID="004374">
       <EDID>DLC04_PlanetColorSurfacePatchy</EDID>
@@ -2705,7 +2705,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_SignClutterA08_Restrooms</EDID>
       <REC>STAT:FULL</REC>
       <Source>Restrooms Sign</Source>
-      <Dest>Restrooms Sign</Dest>
+      <Dest>Toalety</Dest>
     </String>
     <String List="0" sID="00437D">
       <EDID>DLC04_RaiderVendorBar01</EDID>
@@ -2729,19 +2729,19 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Nukacade_WhackaCommie02BlueStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="004387">
       <EDID>DLC04_Sign_NukaGalaxy_Interior_Exit</EDID>
       <REC>STAT:FULL</REC>
       <Source>Exit Sign</Source>
-      <Dest>Exit Sign</Dest>
+      <Dest>Východ</Dest>
     </String>
     <String List="0" sID="00438A">
       <EDID>DLC04_SignClutterA03_Exit</EDID>
       <REC>STAT:FULL</REC>
       <Source>Exit Sign</Source>
-      <Dest>Exit Sign</Dest>
+      <Dest>Východ</Dest>
     </String>
     <String List="0" sID="00438D">
       <EDID>DLC04_StreetLampBanner02a</EDID>
@@ -2759,7 +2759,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_NukaBottleSmall01_Red</EDID>
       <REC>STAT:FULL</REC>
       <Source>Red Nuka-Cola Bottle</Source>
-      <Dest>Láhev červené Nuka-Coly</Dest>
+      <Dest>Červená Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="004392">
       <EDID>DLC04_StreetLampTilingRemapBanner02a</EDID>
@@ -2777,7 +2777,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Nukacade_BasketBall01Static</EDID>
       <REC>STAT:FULL</REC>
       <Source>Hoop Shot</Source>
-      <Dest>Basketbalová kóje</Dest>
+      <Dest>Hoop Shot</Dest>
     </String>
     <String List="0" sID="004396">
       <EDID>DLC04_ShovelMuseumTerminal</EDID>
@@ -2795,7 +2795,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_NukaBottleSmall01_Silver</EDID>
       <REC>STAT:FULL</REC>
       <Source>Silver Nuka-Cola Bottle</Source>
-      <Dest>Láhev stříbrné Nuka-Coly</Dest>
+      <Dest>Stříbrná Nuka-Cola láhev</Dest>
     </String>
     <String List="0" sID="0043A2">
       <EDID>DLC04_NukaBus01Empty_Static</EDID>
@@ -2807,13 +2807,13 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Sign_Post02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Sign Post</Source>
-      <Dest>Sign Post</Dest>
+      <Dest>Ukazatel směru</Dest>
     </String>
     <String List="0" sID="0043A5">
       <EDID>DLC04_Pike02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Raider Pike</Source>
-      <Dest>Nájezdnické kopí</Dest>
+      <Dest>Nájezdnické hroty</Dest>
     </String>
     <String List="0" sID="0043A9">
       <EDID>DLC04_NukaBus_Broken01_Static</EDID>
@@ -2837,19 +2837,19 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Sign_NukaGalaxy_Interior_Welcome</EDID>
       <REC>STAT:FULL</REC>
       <Source>Welcome Sign</Source>
-      <Dest>Welcome Sign</Dest>
+      <Dest>Vítejte</Dest>
     </String>
     <String List="0" sID="0043B0">
       <EDID>DLC04_Sign_Warning_Alligator</EDID>
       <REC>STAT:FULL</REC>
       <Source>Warning Sign</Source>
-      <Dest>Warning Sign</Dest>
+      <Dest>Varování</Dest>
     </String>
     <String List="0" sID="0043B1">
       <EDID>DLC04_Nukacade_WhackaCommie02GreenStatic</EDID>
       <REC>STAT:FULL</REC>
       <Source>Whack-a-Commie</Source>
-      <Dest>Whack-a-Commie</Dest>
+      <Dest>Bouchni-si-komouše</Dest>
     </String>
     <String List="0" sID="0043BC">
       <EDID>DLC04_SteakBloodworm</EDID>
@@ -2879,7 +2879,7 @@ Díky za všechno!&#xD;
       <EDID>DLC04_Nukacade_NukaZapperRace</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Nuka-Zapper Race</Source>
-      <Dest>Nuka-Zapp závod</Dest>
+      <Dest>Nuka-Zapper závod</Dest>
     </String>
     <String List="0" sID="004418">
       <EDID>DLC04_Safari_WelcomeCenterTerminal</EDID>
@@ -3223,7 +3223,7 @@ Už je to dva týdny, co mě Ross ptal Cobalt. Řekl jsem toho idiota, abyste ji
       <EDID>DLC04_workshopRecipe_KK_IceCream</EDID>
       <REC>FLST:FULL</REC>
       <Source>Cutout</Source>
-      <Dest>Vystřihnout</Dest>
+      <Dest>Poutač</Dest>
     </String>
     <String List="0" sID="004797">
       <EDID>DLC04_Safari_CloningFacilityAccessTerminal</EDID>
@@ -3239,7 +3239,7 @@ Toto zařízení je v plném bezpečnostním uzamčení. Laboratoř je přístup
       <EDID>DLC04_workshopRecipe_KK_Suckers</EDID>
       <REC>FLST:FULL</REC>
       <Source>Cutout</Source>
-      <Dest>Vystřihnout</Dest>
+      <Dest>Poutač</Dest>
     </String>
     <String List="0" sID="00479B">
       <EDID>DLC04_PackMasonsTerminal</EDID>
@@ -3331,7 +3331,7 @@ Any and all deliveries that are received and marked "Project Cobalt" should be f
       <Dest>SA-Memo 091577&#xD;
 Od: John-Caleb Bradberton&#xD;
 &#xD;
-Veškeré dodávky, které jsou přijímány a jsou označené „Projekt Cobalt“, by měly být předány chráněné laboratoři Alkoholiků v Nuka-World stáčírně. Tyto položky nejsou určeny pro použití zaměstnanců. S každým zaměstnancem, který otevře tyto dodávky bez povolení, bude okamžitě ukončen pracovní poměr.</Dest>
+Veškeré dodávky, které jsou přijímány a jsou označené „Projekt Kobalt“, by měly být předány chráněné laboratoři Alkoholiků ve stáčírně Nuka-Worldu. Tyto položky nejsou určeny pro použití zaměstnanců. S každým zaměstnancem, který otevře tyto dodávky bez povolení, bude okamžitě ukončen pracovní poměr.</Dest>
     </String>
     <String List="0" sID="0047B6">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
@@ -3663,7 +3663,7 @@ Fremke zavolal nemocného dnes, takže jsem musel změnit ven světla v Reptile 
       <EDID>DLC04_workshopRecipe_WW_Cutout</EDID>
       <REC>FLST:FULL</REC>
       <Source>Cutout</Source>
-      <Dest>Vystřihnout</Dest>
+      <Dest>Poutač</Dest>
     </String>
     <String List="0" sID="004835">
       <EDID>DLC04_Safari_MaintenanceTerminal</EDID>
@@ -3687,7 +3687,7 @@ Fremke zavolal nemocného dnes, takže jsem musel změnit ven světla v Reptile 
       <EDID>DLC04_workshopRecipe_NW_Cutout</EDID>
       <REC>FLST:FULL</REC>
       <Source>Cutout</Source>
-      <Dest>Vystřihnout</Dest>
+      <Dest>Poutač</Dest>
     </String>
     <String List="0" sID="00483E">
       <EDID>DLC04_Safari_CloningTerminalMain</EDID>
@@ -3809,7 +3809,7 @@ Je to už dnes několik desetiletí a moje proměna pokračuje. Moje tělo se m�
       <EDID>DLC04_workshopRecipe_GZ_Cutout</EDID>
       <REC>FLST:FULL</REC>
       <Source>Cutout</Source>
-      <Dest>Vystřihnout</Dest>
+      <Dest>Poutač</Dest>
     </String>
     <String List="0" sID="004862">
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
@@ -4271,7 +4271,7 @@ Fizzy runs a drugstore with his assistant Mrs. Loveit where he serves delicious 
       <EDID>DLC04_workshopRecipe_BumperCars</EDID>
       <REC>FLST:FULL</REC>
       <Source>Bumper Car</Source>
-      <Dest>Nárazník auta</Dest>
+      <Dest>Narážecí auto</Dest>
     </String>
     <String List="0" sID="004A15">
       <EDID>DLC04_workshopRecipe_KK_NukaRacer</EDID>
@@ -4289,7 +4289,7 @@ Fizzy runs a drugstore with his assistant Mrs. Loveit where he serves delicious 
       <EDID>DLC04_mod_melee_Board_Material_PaintedPack</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Painted</Source>
-      <Dest>Natřená</Dest>
+      <Dest>Lakované</Dest>
     </String>
     <String List="0" sID="004A42">
       <EDID>DLC04_mod_melee_Board_Material_Standard</EDID>
@@ -4863,13 +4863,13 @@ I'm open for crossing enemy lines, if you know what I mean. &#xD;
 Meet me in the hub after sun down. I know a place we can go.&#xD;
 &#xD;
 --That Good Looking Guy with the Blue Hair</Source>
-      <Dest>!Ahoj. Vím, že jsi Provozák a já Šelma. Ale to je neznamená, že nemůžeme být přátelský nebo cokoliv jiného. Viděl jsem, jak jste při pohledu na mě.&#xD;
+      <Dest>Ahoj. Vím, že jsi Provozák a já Šelma. Ale to je neznamená, že nemůžeme být přátelé nebo cokoliv jiného. Viděl jsem, jak ses na mě díval.&#xD;
 &#xD;
-Jsem otevřený k překročení nepřátelských linií, jestli víte, co tím myslím.&#xD;
+Jsem otevřený k překročení nepřátelských linií, jestli víš, co tím myslím.&#xD;
 &#xD;
-sejdeme se v náboji po slunci dolů. Znám to místo, můžeme jít.&#xD;
+Sejdeme se v centru po západu slunce. Znám místo, kam můžeme zajít.&#xD;
 &#xD;
---That Good Looking Guy s modrými vlasy</Dest>
+--Ten dobře vypadající chlápek s modrými vlasy</Dest>
     </String>
     <String List="1" sID="004018">
       <EDID>DLC04_Pack_Story4_Part2_Note</EDID>
@@ -4917,13 +4917,13 @@ You Ops are all the same. Screw you!&#xD;
 If I ever see you again, I'll slap a collar on you. We'll see how you like that.&#xD;
 &#xD;
 --Pissed Off Guy with the Blue Hair</Source>
-      <Dest>!Velmi vtipné. Opravdu jsem myslel, že jsme měli tam něco děje.&#xD;
+      <Dest>Moc vtipný. Opravdu jsem si myslel, že tam něco podnikneme.&#xD;
 &#xD;
-Vy Ops jsou všechny stejné. Jdi do hajzlu!&#xD;
+Vy Provozáci jste všichni stejní.  Jdi do hajzlu!&#xD;
 &#xD;
-Pokud jsem někdy neuvidím, budu facku obojek na vás. Uvidíme, jak vám, že líbí.&#xD;
+Jestli tě znova někdy zahlídnu, nasadím ti obojek. Uvidíme, jak se ti to bude líbit.&#xD;
 &#xD;
---Pissed Off Guy s modrými vlasy</Dest>
+--Naštvanej chlápek s modrýma vlasama</Dest>
     </String>
     <String List="1" sID="00404E">
       <EDID>DLC04_Pack_Story3_Part1_Note</EDID>
