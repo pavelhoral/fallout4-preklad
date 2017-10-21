@@ -86,6 +86,14 @@
 				<File Id="Fallout4_en.DLSTRINGS" KeyPath="yes" />
 			</Component>
 		</DirectoryRef>
+		<DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
+			<Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
+				<File Id="Fallout4_Cestina.html" KeyPath="yes" />
+			</Component>
+			<Component Id="Fallout4_Cestina.png" Guid="0EBBD798-6B00-49CF-BCFB-7C4A4D8DC68F">
+				<File Id="Fallout4_Cestina.png" KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
 		<Feature Id="DefaultFeature" Level="1">
 			<ComponentRef Id="FalloutDict.txt" />
 			<ComponentRef Id="fonts_console.swf" />
@@ -95,7 +103,16 @@
 			<ComponentRef Id="Fallout4_en.STRINGS" />
 			<ComponentRef Id="Fallout4_en.ILSTRINGS" />
 			<ComponentRef Id="Fallout4_en.DLSTRINGS" />
+			<ComponentRef Id="Fallout4_Cestina.html" />
+			<ComponentRef Id="Fallout4_Cestina.png" />
 		</Feature>
+
+		<!-- Open README after install -->
+    	<Property Id="WixShellExecTarget" Value="[#Fallout4_Cestina.html]" />
+    	<CustomAction Id="OpenReadme" BinaryKey="WixCA" DllEntry="WixShellExec" Impersonate="yes" Return="ignore" />
+    	<UI>
+			<Publish Dialog="ExitDialog" Control="Finish" Event="DoAction" Value="OpenReadme">NOT Installed</Publish>
+		</UI>
 
 		<!-- Custom install sequence -->
 		<InstallExecuteSequence>

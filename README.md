@@ -48,5 +48,6 @@ Postup pro instalaci překladu do hry:
 
 Pro vytvoření instalátoru je potřeba mít nainstalovaný WiX Toolset. MSI artefakt je pak možné sestavit pomocí:
 
-    candle.exe fallout4-cestina.wxs
-    light.exe fallout4-cestina.wixobj -ext WixUIExtension -cultures:cs-cz
+    candle.exe -dProductVersion=0.0.1 fallout4-cestina.wxs
+    light.exe fallout4-cestina.wixobj -ext WixUIExtension -ext WixUtilExtension -cultures:cs-cz
+

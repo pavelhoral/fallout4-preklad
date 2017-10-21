@@ -1,7 +1,7 @@
 <Include>
-	<UIRef Id="WixUI_Common" />
-	<UI>
-		<TextStyle Id="WixUI_Font_Normal" FaceName="Tahoma" Size="8" />
+    <UIRef Id="WixUI_Common" />
+    <UI>
+        <TextStyle Id="WixUI_Font_Normal" FaceName="Tahoma" Size="8" />
         <TextStyle Id="WixUI_Font_Bigger" FaceName="Tahoma" Size="12" />
         <TextStyle Id="WixUI_Font_Title" FaceName="Tahoma" Size="9" Bold="yes" />
         <TextStyle Id="WixUI_Font_Version" FaceName="Tahoma" Size="9" Bold="yes" />
@@ -20,13 +20,13 @@
         <DialogRef Id="ResumeDlg" />
         <DialogRef Id="UserExit" />
 
-		<Dialog Id="CustomWelcomeDlg" Width="370" Height="270" Title="!(loc.WelcomeDlg_Title)">
+        <Dialog Id="CustomWelcomeDlg" Width="370" Height="270" Title="!(loc.WelcomeDlg_Title)">
             <Control Id="Next" Type="PushButton" X="236" Y="243" Width="56" Height="17" Default="yes" Text="!(loc.WixUINext)" Hidden="yes">
                 <Publish Property="WixUI_InstallMode" Value="Update">Installed AND PATCH</Publish>
                 <Condition Action="show">Installed</Condition>
             </Control>
             <Control Id="WelcomeBack" Type="PushButton" X="156" Y="243" Width="56" Height="17" Disabled="yes" Text="!(loc.WixUIBack)">
-            	<Condition Action="hide">Installed</Condition>
+                <Condition Action="hide">Installed</Condition>
             </Control>
             <Control Id="Install" Type="PushButton" ElevationShield="yes" X="212" Y="243" Width="80" Height="17" Default="yes" Text="!(loc.WelcomeEulaDlgInstall)" Hidden="yes">
                 <Publish Event="SpawnWaitDialog" Value="WaitForCostingDlg">!(wix.WixUICostingPopupOptOut) OR CostingComplete = 1</Publish>
@@ -47,7 +47,7 @@
                 <Condition Action="show">NOT ALLUSERS AND NOT Installed</Condition>
             </Control>
             <Control Id="InstallBack" Type="PushButton" X="180" Y="243" Width="56" Height="17" Disabled="yes" Text="!(loc.WixUIBack)">
-            	<Condition Action="hide">NOT Installed</Condition>
+                <Condition Action="hide">NOT Installed</Condition>
             </Control>
             <Control Id="Cancel" Type="PushButton" X="304" Y="243" Width="56" Height="17" Cancel="yes" Text="!(loc.WixUICancel)">
                 <Publish Event="SpawnDialog" Value="CancelDlg">1</Publish>
@@ -64,7 +64,7 @@
             </Control>
             <Control Id="Title" Type="Text" X="135" Y="20" Width="220" Height="60" Transparent="yes" NoPrefix="yes" Text="!(loc.WelcomeDlgTitle)" />
             <Control Id="Version" Type="Text" X="135" Y="214" Width="220" Height="20" Transparent="yes" NoPrefix="yes" Text="{\WixUI_Font_Version}Verze: $(var.ProductVersion)" />
-		</Dialog>
+        </Dialog>
 
         <Publish Dialog="ExitDialog" Control="Finish" Event="EndDialog" Value="Return" Order="999">1</Publish>
 
@@ -76,11 +76,11 @@
         <Publish Dialog="MaintenanceTypeDlg" Control="RemoveButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
         <Publish Dialog="MaintenanceTypeDlg" Control="Back" Event="NewDialog" Value="MaintenanceWelcomeDlg">1</Publish>
 
-		<Publish Dialog="CustomWelcomeDlg" Control="Next" Event="NewDialog" Value="VerifyReadyDlg">Installed AND PATCH</Publish>
-		<Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="CustomWelcomeDlg" Order="2">Installed AND PATCH</Publish>
+        <Publish Dialog="CustomWelcomeDlg" Control="Next" Event="NewDialog" Value="VerifyReadyDlg">Installed AND PATCH</Publish>
+        <Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="CustomWelcomeDlg" Order="2">Installed AND PATCH</Publish>
 
         <InstallUISequence>
             <Show Dialog="CustomWelcomeDlg" Before="ProgressDlg">NOT Installed OR PATCH</Show>
-		</InstallUISequence>
-	</UI>
+        </InstallUISequence>
+    </UI>
 </Include>
