@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?define ProductName="Fallout 4 - Čeština" ?>
-<?define ProductVersion="0.0.1" ?>
+<?ifndef ProductVersion ?><?define ProductVersion="0.0.1" ?><?endif ?>
 <?define ProductUrl="https://prekladyher.eu/preklady/fallout-4.79/" ?>
 <?define Manufacturer="prekladyher.eu" ?>
 <?define SourceBase="../target" ?>
+<?define UpgradeCode="34157A8C-584D-4A70-B4D4-3D11D419F54E" ?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-    <Product Id="F8619886-2EE1-4E53-B229-4C9E0BECDBBB"
-	        UpgradeCode="34157A8C-584D-4A70-B4D4-3D11D419F54E"
+    <Product Id="*" UpgradeCode="$(var.UpgradeCode)"
     		Name="$(var.ProductName)" Manufacturer="$(var.ProductName)"
 	        Language="1033" Codepage="1250" Version="$(var.ProductVersion)">
 
         <!-- Basic package configuration -->
 	    <Package Id="*" InstallerVersion="400"
-	    		Manufacturer="$(var.ProductName)" Description="$(var.ProductName)"
+	    		Manufacturer="$(var.Manufacturer)" Description="$(var.ProductName)"
 		        Languages="1033" Compressed="yes" SummaryCodepage="1250" />
 		<MediaTemplate EmbedCab="yes" />
+
+		<!-- Product upgrade configuration -->
+		<Upgrade Id="$(var.UpgradeCode)">
+		    <UpgradeVersion OnlyDetect="no" Property="PREVIOUSFOUND"
+			        Maximum="$(var.ProductVersion)" IncludeMaximum="no" />
+		</Upgrade>
 
 		<!-- Lookup game directory -->
 		<Property Id="INSTALLDIR">
@@ -91,17 +97,23 @@
 			<ComponentRef Id="Fallout4_en.DLSTRINGS" />
 		</Feature>
 
+		<!-- Custom install sequence -->
+		<InstallExecuteSequence>
+		    <RemoveExistingProducts Before="InstallInitialize" />
+		</InstallExecuteSequence>
+
 		<!-- Define installer icon -->
-      	<Icon Id="Icon" SourceFile="fallout.ico" />
+      	<Icon Id="Icon" SourceFile="installer-icon.ico" />
 
       	<!-- Configure properties for add/remove programs -->
       	<Property Id="ARPPRODUCTICON" Value="Icon" />
       	<Property Id="ARPHELPLINK" Value="$(var.ProductUrl)" />
 
-      	<!-- Configure installer UI -->
-      	<WixVariable Id="WixUIBannerBmp" Value="banner.bmp" />
-      	<WixVariable Id="WixUIDialogBmp" Value="dialog.bmp" />
-      	<WixVariable Id="WixUILicenseRtf" Value="license.rtf" />
-    	<UIRef Id="WixUI_Minimal" />
+      	<!-- Define UI properties -->
+      	<WixVariable Id="WixUIBannerBmp" Value="installer-banner.bmp" />
+      	<WixVariable Id="WixUIDialogBmp" Value="installer-header.bmp" />
+
+		<!-- Include UI configuration -->
+		<?include installer-simpleui.wxi ?>
 	</Product>
 </Wix>
