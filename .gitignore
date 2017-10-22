@@ -6,17 +6,11 @@
 node_modules
 
 # Flash files
-flash/*/obj
-flash/*/bin
+source/flash/*/obj
+source/flash/*/bin
 
 # XLST files
 xalan
 
 # Shadow (original data files)
 shadow
-
-# Working directory
-.tmp
-
-# Ignored target
-target/*.esp

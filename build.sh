@@ -10,14 +10,16 @@
 # - PACKAGE = Whether to run final package creation.
 #
 
+set -e
+
 # Make sure we have a working directory
-WORKDIR=".tmp";
+WORKDIR="build/.tmp";
 mkdir -p $WORKDIR
 
 # Combine translation files into one XML
 function run_combine {
     COMBINE_OPTS="-o $WORKDIR/$PLUGIN.xml"
-    node script/combine $COMBINE_OPTS translated/$PLUGIN/$FILTER*
+    script/combine.js $COMBINE_OPTS source/l10n/$PLUGIN/$FILTER*
 }
 
 # Compile translation into STRINGS
@@ -26,7 +28,7 @@ function run_compile {
     if [[ -v UNACCENT ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -u"
     fi
-    node script/compile $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
+    script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
 }
 
 # Build base distribution files
@@ -34,12 +36,7 @@ function run_build {
     echo "Building $PLUGIN..."
     run_combine
     run_compile
-}
-
-# Build final distribution package
-function run_package {
-    export BUILDID="$(date +%Y%m%d)-f4cs-$(git rev-parse --short HEAD)-${FILTER:-full}"
-    node script/package
+    script/package.js -b
 }
 
 if [[ -v PLUGIN ]]; then
@@ -51,5 +48,5 @@ else
 fi
 
 if [[ -v PACKAGE ]]; then
-    run_package
+	script/package.js -zm
 fi

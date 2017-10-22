@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 /**
  * Combine two or more SST XML files into one.
@@ -20,12 +21,12 @@ if (program.plugin && program.args.length || !program.plugin && program.args.len
 
 var files = program.args;
 if (program.plugin) {
-    files = fs.readdirSync(path.resolve(__dirname, '../translated', program.plugin)).
+    files = fs.readdirSync(path.resolve(__dirname, '../source/l10n', program.plugin)).
             filter((filename) => {
                 return !program.ignore || !filename.startsWith(program.ignore);
             }).
             map(filename => {
-                return path.resolve(__dirname, '../translated', program.plugin, filename);
+                return path.resolve(__dirname, '../source/l10n', program.plugin, filename);
             });
 }
 

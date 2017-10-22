@@ -1,62 +1,116 @@
+#!/usr/bin/env node
 'use strict';
 /**
- * Create distribution package of the translation.
+ * Create distribution package.
  */
-var fs = require('fs'),
+var fs = require('fs-extra'),
     path = require('path'),
-    child = require('child_process'),
+    program = require('commander'),
+    exec = require('child_process').execFileSync,
     yazl = require("yazl");
 
-/**
- * Assign identifier for the build being created.
- */
-function getBuildId() {
-    if (process.env.BUILDID) {
-      return process.env.BUILDID;
-    }
-    var hash = child.execSync('git rev-parse --short HEAD', { encoding: 'ascii' }).trim();
-    var date = new Date().toISOString().substring(0, 10).replace(/-/g, '');
-    return date + '-f4cs-' + hash;
+program.
+	usage('[options]').
+	option('-b, --build', 'Process data files.').
+	option('-z, --zip', 'Create ZIP distribution package.').
+	option('-m, --msi', 'Create MSI distribution package.').
+	parse(process.argv);
+
+if (!program.build && !program.zip && !program.msi) {
+	program.help();
 }
 
 /**
- * Process file before adding it to the final package.
+ * Directory tree processor.
  */
-function processFile(base, file, build) {
-    var basename = path.basename(file),
-        filepath = path.join(base, file);
-    if (basename === 'Translate_en.txt') {
-        let content = fs.readFileSync(filepath, 'utf16le'),
-            regexp = new RegExp('(\\$Press any button to start\\t).*');
-        content = content.replace(regexp, '$1Čeština: ' + build.id);
-        build.zip.addBuffer(Buffer.from(content, 'utf16le'), file);
-    } else {
-        build.zip.addFile(filepath, file);
-    }
+class DirectoryProcessor {
+
+	constructor(processFile) {
+		this.processFile = processFile;
+	}
+
+	process(base) {
+		this.processDirectory(base, '');
+	}
+
+	processDirectory(base, directory) {
+		var names = fs.readdirSync(path.join(base, directory));
+	    names.forEach((name) => {
+	        var stat = fs.statSync(path.join(base, directory, name));
+	        if (stat.isDirectory()) {
+	            this.processDirectory(base, path.join(directory, name));
+	        } else if (name !== '.gitignore') {
+	            this.processFile(base, path.join(directory, name));
+	        }
+	    });
+	}
+
 }
 
 /**
- * Process target directory or subdirectory.
+ * Process translation data files.
  */
-function processDir(base, directory, build) {
-    var names = fs.readdirSync(path.join(base, directory));
-    names.forEach((name) => {
-        var stat = fs.statSync(path.join(base, directory, name));
-        if (stat.isDirectory()) {
-            processDir(base, path.join(directory, name), build);
-        } else if (name !== '.gitignore' && !name.endsWith('.esp')) {
-            processFile(base, path.join(directory, name), build);
-        }
-    });
+function buildData(version) {
+	new DirectoryProcessor((base, file) => {
+	    var basename = path.basename(file),
+        	filepath = path.join(base, file),
+			buffer = null;
+		if (basename === 'Translate_en.txt') {
+			let content = fs.readFileSync(filepath, 'utf16le'),
+            	regexp = new RegExp('(\\$Press any button to start\\t).*');
+			content = content.replace(regexp, '$1Čeština: ' + version);
+			buffer = Buffer.from(content, 'utf16le');
+		} else if (basename === 'Fallout4_Cestina.html') {
+			let content = fs.readFileSync(filepath, 'utf-8');
+			content = content.replace(/{{version}}/, version);
+			buffer = Buffer.from(content);
+		}
+		if (buffer) {
+			fs.writeFileSync(path.join('target', file), buffer);
+		} else {
+			fs.copySync(path.join(base, file), path.join('target', file));
+		}
+	}).process('source/data');
+	console.log('Build data for \'%s\'.', version);
 }
 
-var build = {
-    id: getBuildId(),
-    zip: new yazl.ZipFile()
-};
+/**
+* Process ZIP package file entry.
+*/
+function buildZip(version) {
+	var zip = new yazl.ZipFile(),
+		name = 'fallout4-cestina-' + version + '.zip';
+	zip.outputStream.pipe(fs.createWriteStream('build/' + name)).on('close', () => {
+		console.log('Created ZIP \'%s\'.', name);
+	});
+	new DirectoryProcessor((base, file) => {
+		zip.addFile(path.join(base, file), file);
+	}).process('target');
+	zip.end();
+}
 
-build.zip.outputStream.pipe(fs.createWriteStream(build.id + '.zip')).on('close', () => {
-    console.log('Created build \'%s\'.', build.id);
-});
-processDir('target', '', build);
-build.zip.end();
+var version = require('../package.json').version;
+if (program.build) {
+	console.log('Building data...');
+	buildData(version);
+}
+
+if (program.zip) {
+	console.log('Creating ZIP package...');
+	buildZip(version);
+}
+
+if (program.msi) {
+	console.log('Creating MSI package...');
+	exec('candle.exe', [
+		'-dProductVersion=' + version,
+		'fallout4-cestina.wxs'
+	], { cwd: 'source/install', stdio: [0, 1, 2] });
+	exec('light.exe', [
+		'fallout4-cestina.wixobj',
+		'-out', '../../build/fallout4-cestina-' + version + '.msi',
+		'-ext', 'WixUIExtension',
+		'-ext', 'WixUtilExtension',
+		'-cultures:cs-cz'
+	], { cwd: 'source/install', stdio: [0, 1, 2] });
+}

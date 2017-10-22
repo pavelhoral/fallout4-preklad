@@ -4,13 +4,16 @@ Toto je základní projekt pro český fanouškovský překlad hry Fallout 4.
 
 ## Rozdělení složek
 
- * `assets/` - zdrojové datové sobory překladu
- * `flash/` - zdrojové flash projekty v FlashDevelop
- * `install/` - zdrojové soubory WiX Toolset instalátoru
- * `script/` - NodeJS skripty pro práci s projektem
- * `target/` - soubory finální modifikace
- * `translated/` - XML s přeloženými dávkami
- * `workload/` - definice překladových dávek
+* `build/` - sestavené distribuční balíčky
+* `script/` - NodeJS skripty pro práci s projektem
+* `shadow/` - původní *ESM* a *Strings* soubory hry
+* `source/asset/` - pomocné soubory překladu
+* `source/data/` - datové soubory překladu
+* `source/flash/` - zdrojové flash projekty v FlashDevelop
+* `source/install/` - zdrojové soubory WiX Toolset instalátoru
+* `source/l10n/` - XML s přeloženými dávkami
+* `source/work/` - definice překladových dávek
+* `target/` - soubory finální modifikace
 
 ## Skripty v projektu
 
@@ -25,6 +28,7 @@ Existující skripty (pro informace o parametrech stačí spustit s `--help`):
  * `combine.js` - spojí dva a více překladových souborů do jednoho
  * `compile.js` - vytvoří finální soubory překladu pro vložení do hry
  * `modfile.js` - pokročilá manipulace s ESM soubory
+ * `package.js` - sestavení finálního překladu
  * `strings.js` - vyhledávání v překladových STRINGS souborech
 
 ## Vývoj Flashe

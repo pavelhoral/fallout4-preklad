@@ -1,8 +1,9 @@
+#!/usr/bin/env node
 'use strict';
 /**
  * Compile translations into final STRINGS files.
  */
-var fs = require('fs'),
+var fs = require('fs-extra'),
     path = require('path'),
     xml2js = require('xml2js'),
     program = require('commander'),
@@ -78,6 +79,9 @@ var xmlObject = loadXml(program.args[0]),
     inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
     targetDirectory = program.target || path.join(__dirname, '..', 'target/Strings'),
     targetPrefix = path.join(targetDirectory, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.');
+
+// Make sure target director exists
+fs.ensureDirSync(targetDirectory);
 
 ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach((type, index) => {
     var strings = inputStrings.

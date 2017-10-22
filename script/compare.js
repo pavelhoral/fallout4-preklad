@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 /**
  * Compare two SST XML files and find conflicting translations.

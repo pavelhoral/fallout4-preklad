@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 /**
  * Walk through ESN and extract various data.

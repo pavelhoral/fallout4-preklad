@@ -3,8 +3,8 @@ var fs = require('fs'),
     path = require('path');
 
 var BATCH_FILE_TYPES = {
-    'translated': '.xml',
-    'workload': '.txt'
+    'l10n': '.xml',
+    'work': '.txt'
 }
 
 /**
@@ -27,7 +27,7 @@ function validateFilePath(filePath) {
 function resolveBatchPath(filename, pluginName, fileType) {
     var batchPath = filename;
     if (!validateFilePath(batchPath)) {
-        batchPath = path.resolve(__dirname, '../..', fileType, pluginName, batchPath);
+        batchPath = path.resolve(__dirname, '../../source', fileType, pluginName, batchPath);
     }
     if (!validateFilePath(batchPath)) {
         batchPath = batchPath + BATCH_FILE_TYPES[fileType];
@@ -61,9 +61,9 @@ function resolveBatch(filename, batchName, pluginName) {
     var batch = {
         pluginName: pluginName || resolvePluginName(filename, batchName)
     };
-    batch.xmlPath = resolveBatchPath(filename, batch.pluginName, 'translated');
+    batch.xmlPath = resolveBatchPath(filename, batch.pluginName, 'l10n');
     batch.batchName = path.basename(batchName || '') || path.basename(batch.xmlPath).replace(/\.xml$/i, '');
-    batch.txtPath = resolveBatchPath(batch.batchName, batch.pluginName, 'workload');
+    batch.txtPath = resolveBatchPath(batch.batchName, batch.pluginName, 'work');
     if (!validateFilePath(batch.txtPath)) {
         throw new Error(`Unable to locate batch definition for '${filename}.`);
     }
