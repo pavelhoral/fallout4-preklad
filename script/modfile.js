@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 'use strict';
-/**
- * Walk through ESN and extract various data.
- */
 var parseSource = require('./parse/parse-source'),
     parseModfile = require('./parse/parse-modfile'),
     parseStrings = require('./parse/parse-strings'),

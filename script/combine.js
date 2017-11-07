@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 'use strict';
-/**
- * Combine two or more SST XML files into one.
- */
 var fs = require('fs'),
     path = require('path'),
     xml2js = require('xml2js'),
@@ -10,6 +7,7 @@ var fs = require('fs'),
 
 program.
     usage('[options] <file ...>').
+    description('Combine two or more SST XML files into one.').
     option('-p, --plugin <plugin>', 'Combine all translated files from a specific plugin.').
     option('-i, --ignore <pattern>', 'Ignore pattern when using --plugin option.').
     option('-o, --output <file>', 'Write combined result into a file.').

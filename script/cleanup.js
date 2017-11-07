@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 'use strict';
-/**
- * Clean-up translation files by removing any string which does not belong into its EDID range.
- */
 var fs = require('fs'),
     path = require('path'),
     xml2js = require('xml2js'),
@@ -11,6 +8,7 @@ var fs = require('fs'),
 
 program.
     usage('[options] <file ...>').
+    description('Clean up SST XML files by removing everything not belonging into their batch.').
     option('-w, --write', 'Replace original file with the cleaned version.').
     option('-p, --plugin <plugin>', 'Name of the plugin being translated.').
     option('-b, --batch <batch>', 'Name of the batch to use for cleanup.').

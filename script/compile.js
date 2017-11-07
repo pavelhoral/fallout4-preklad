@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 'use strict';
-/**
- * Compile translations into final STRINGS files.
- */
 var fs = require('fs-extra'),
     path = require('path'),
     xml2js = require('xml2js'),
@@ -12,6 +9,7 @@ var fs = require('fs-extra'),
 
 program.
     usage('[options] <file>').
+    description('Compile translations into final STRINGS files.').
     option('-t, --target <directory>', 'Target output directory (defaults to target/Strings).').
     option('-s, --shadow <directory>', 'Shadow translation source directory.').
     option('-u, --unaccent', 'Remove all accents from translation strings.').

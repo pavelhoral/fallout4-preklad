@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 'use strict';
-/**
- * Search for text in STRINGS.
- */
 var parseStrings = require('./parse/parse-strings'),
     renderStringId = require('./utils/render-formId'),
     program = require('commander'),
@@ -10,6 +7,7 @@ var parseStrings = require('./parse/parse-strings'),
 
 program.
     usage('[options] <pattern>').
+    description('Search for text in STRINGS.').
     option('-s, --strings <file>', 'Path to a STRINGS file.').
     option('-f, --flags <flags>', 'Additional regexp flags.').
     option('-o --output <file>', 'Export STRINGS to a file.').
@@ -22,6 +20,14 @@ if (!program.args.length || !program.strings) {
 var strings = new parseStrings.StringsReader().readFile(program.strings),
     pattern = new RegExp(program.args[0], program.flags),
     output = program.output ? fs.openSync(program.output, 'wx') : null;
+
+function writeOutput(data) {
+    if (program.output) {
+        fs.writeFileSync(program.output, data);
+    } else {
+        console.log(data);
+    }
+}
 
 Object.keys(strings).forEach(stringId => {
     var renderedId = renderStringId(stringId);
