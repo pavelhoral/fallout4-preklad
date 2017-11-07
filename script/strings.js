@@ -6,41 +6,35 @@ var parseStrings = require('./parse/parse-strings'),
     fs = require('fs');
 
 program.
-    usage('[options] <pattern>').
+    option('-o --output <file>', 'Export STRINGS to a file.');
+
+var output = program.output ? fs.createWriteStream(program.output, 'wx') : process.stdout;
+
+function readStrings(filePath) {
+    return new parseStrings.StringsReader().readFile(filePath);
+}
+
+program.
+    command('find <pattern>').
     description('Search for text in STRINGS.').
     option('-s, --strings <file>', 'Path to a STRINGS file.').
     option('-f, --flags <flags>', 'Additional regexp flags.').
-    option('-o --output <file>', 'Export STRINGS to a file.').
-    parse(process.argv);
+    action((pattern, options) => {
+        var strings = readStrings(options.strings),
+            regexp = new RegExp(pattern, options.flags)
+        Object.keys(strings).forEach(stringId => {
+            var renderedId = renderStringId(stringId);
+            if (!regexp.test(renderedId) && !regexp.test(strings[stringId])) {
+                return; // Not a match
+            }
+            output.write(`[MATCH] ${renderedId} ${JSON.stringify(strings[stringId])}\n`);
+        });
+    });
 
-if (!program.args.length || !program.strings) {
+program.parse(process.argv);
+if (program.output) {
+    output.end();
+}
+if (!program.args.length) {
     program.help();
-}
-
-var strings = new parseStrings.StringsReader().readFile(program.strings),
-    pattern = new RegExp(program.args[0], program.flags),
-    output = program.output ? fs.openSync(program.output, 'wx') : null;
-
-function writeOutput(data) {
-    if (program.output) {
-        fs.writeFileSync(program.output, data);
-    } else {
-        console.log(data);
-    }
-}
-
-Object.keys(strings).forEach(stringId => {
-    var renderedId = renderStringId(stringId);
-    if (!pattern.test(renderedId) && !pattern.test(strings[stringId])) {
-        return; // Not a match
-    }
-    if (output) {
-        fs.writeSync(output, renderedId + ' ' + JSON.stringify(strings[stringId]) + '\n');
-    } else {
-        console.log('[MATCH]', renderedId, strings[stringId]);
-    }
-});
-
-if (output) {
-    fs.closeSync(output);
 }
