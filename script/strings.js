@@ -31,6 +31,27 @@ program.
         });
     });
 
+program.
+    command('diff <first> <second>').
+    description('Compare two STRINGS files and find differences.').
+    action((first, second) => {
+        var strings = [readStrings(first), readStrings(second)],
+            currentId = null;
+        Object.keys(strings[0]).concat(Object.keys(strings[1])).sort().forEach(stringId => {
+            if (stringId === currentId) {
+                return;
+            }
+            currentId = stringId;
+            if (strings[0][currentId] === strings[1][currentId]) {
+                return;
+            } else if (strings[0][currentId]) {
+                output.write(`- ${renderStringId(currentId)} ${JSON.stringify(strings[0][currentId])}\n`);
+            } else if (strings[1][currentId]) {
+                output.write(`+ ${renderStringId(currentId)} ${JSON.stringify(strings[1][currentId])}\n`);
+            }
+        });
+    });
+
 program.parse(process.argv);
 if (program.output) {
     output.end();
