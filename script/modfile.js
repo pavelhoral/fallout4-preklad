@@ -68,12 +68,14 @@ program.
 program.
     command('dials').
     description('Extract DIAL identifiers with their respective INFOs.').
-    action(() => {
+    option('-q, --quest', 'Include quest reference.').
+    action((options) => {
         var modfileDial = require('./modfile/dial'),
             dialExtractor = readModfile(new modfileDial.DialExtractor()),
             dials = dialExtractor.dials;
         Object.keys(dials).filter(id => dials[id].length).sort().forEach((id) => {
-            output.write(`[DIAL] ${id} [INFO] ${dials[id].join(' ')}\n`);
+            output.write((options.quest ? `[QUST] ${dials[id].questId} ` : '') +
+                    `[DIAL] ${id} [INFO] ${dials[id].join(' ')}\n`);
         });
     });
 
@@ -99,9 +101,9 @@ program.
     command('find <pattern>').
     description('Find items with the defined HEX pattern in their body.').
     option('-t, --type <type>', 'Specify entry type to find.').
-    action(() => {
+    action((options) => {
         var modfileFind = require('./modfile/find'),
-            matchExtractor = readModfile(new modfileFind.MatchExtractor(program.args[1].type, program.args[0])),
+            matchExtractor = readModfile(new modfileFind.MatchExtractor(options.type, program.args[0])),
             resultData = [];
         matchExtractor.result.forEach((match) => {
             output.write(`${renderFormId(match.formId)} [${parseModfile.MODFILE_TYPES.decode(match.type)}] ${match.editorId}\n`);

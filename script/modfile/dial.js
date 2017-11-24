@@ -25,7 +25,7 @@ class DialExtractor {
         } else if (this.context && this.context.branch) {
             this.context.branch = false;
             parse(this);
-            this.context = {};
+            this.context.dialId = null;
         } else if (this.context && !this.context.branch) {
             throw new Error("Unexpected GRUP record.");
         }
@@ -37,22 +37,27 @@ class DialExtractor {
         }
         // Reset context
         this.context.editorId = null;
-        this.context.branch = false
+        this.context.branch = false;
         // Parse fields for EDID
         parse(this);
         // Expect GRUP branch for DIAL and QUST
         if (type === MODFILE_TYPES.DIAL || type === MODFILE_TYPES.QUST) {
             this.context.branch = true;
         }
+        // Handle QUST
+        if (type === MODFILE_TYPES.QUST) {
+            this.context.questId = this.context.editorId || renderFormId(formId);
+        }
         // Handle DIAL
         if (type === MODFILE_TYPES.DIAL) {
-            this.context.dialogId = renderFormId(formId);
-            this.dials[this.context.dialogId] = [];
+            this.context.dialId = renderFormId(formId);
+            this.dials[this.context.dialId] = [];
+            this.dials[this.context.dialId].questId = this.context.questId;
         }
         // Handle INFO
         if (type === MODFILE_TYPES.INFO) {
             // flags & 0x40 -> pouze oznacuji oddil
-            this.dials[this.context.dialogId].push(this.context.editorId || renderFormId(formId));
+            this.dials[this.context.dialId].push(this.context.editorId || renderFormId(formId));
         }
         this.context.editorId = null;
     }
