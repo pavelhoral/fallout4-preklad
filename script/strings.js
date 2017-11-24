@@ -3,12 +3,10 @@
 var parseStrings = require('./parse/parse-strings'),
     renderStringId = require('./utils/render-formId'),
     program = require('commander'),
-    fs = require('fs');
+    output = require('./utils/program-output')(program);
 
 program.
     option('-o --output <file>', 'Export STRINGS to a file.');
-
-var output = program.output ? fs.createWriteStream(program.output, 'wx') : process.stdout;
 
 function readStrings(filePath) {
     return new parseStrings.StringsReader().readFile(filePath);
@@ -53,9 +51,7 @@ program.
     });
 
 program.parse(process.argv);
-if (program.output) {
-    output.end();
-}
+output.close();
 if (!program.args.length) {
     program.help();
 }

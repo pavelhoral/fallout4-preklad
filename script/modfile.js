@@ -5,9 +5,9 @@ var parseSource = require('./parse/parse-source'),
     parseStrings = require('./parse/parse-strings'),
     renderFormId = require('./utils/render-formId'),
     program = require('commander'),
+    output = require('./utils/program-output')(program),
     util = require('util'),
-    path = require('path'),
-    fs = require('fs');
+    path = require('path');
 
 program.
     option('-m, --modfile <file>', 'Specify modfile to use.').
@@ -29,14 +29,6 @@ function readModfile(handler) {
     modfileParser.parse(handler);
     modfileSource.close();
     return handler;
-}
-
-function writeOutput(data) {
-    if (program.output) {
-        fs.writeFileSync(program.output, data);
-    } else {
-        console.log(data);
-    }
 }
 
 function renderInnrs(innrs) {
@@ -65,19 +57,10 @@ program.
             innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings())),
             resultData = [];
         Object.keys(innrExtractor.innrs).forEach(key =>  {
-            resultData.push('[INNR] ' + key);
-            resultData.push(renderInnrs(innrExtractor.innrs[key]));
+            output.write(`[INNR] ${key}\n`);
+            output.write(renderInnrs(innrExtractor.innrs[key]) + '\n');
         });
-        writeOutput(resultData.join('\n'));
     });
-
-function renderDials(dials) {
-    var resultData = [];
-    Object.keys(dials).filter(id => dials[id].length).sort().forEach((id) => {
-        resultData.push('[DIAL] ' + id + ' [INFO] ' + dials[id].join(' '));
-    });
-    return resultData.join('\n');
-}
 
 /**
  * DIAL extraction command.
@@ -87,8 +70,11 @@ program.
     description('Extract DIAL identifiers with their respective INFOs.').
     action(() => {
         var modfileDial = require('./modfile/dial'),
-            dialExtractor = readModfile(new modfileDial.DialExtractor());
-        writeOutput(renderDials(dialExtractor.dials));
+            dialExtractor = readModfile(new modfileDial.DialExtractor()),
+            dials = dialExtractor.dials;
+        Object.keys(dials).filter(id => dials[id].length).sort().forEach((id) => {
+            output.write(`[DIAL] ${id} [INFO] ${dials[id].join(' ')}\n`);
+        });
     });
 
 /**
@@ -102,9 +88,8 @@ program.
             omodExtractor = readModfile(new modfileOmod.OmodExtractor(program.args[0])),
             resultData = [];
         omodExtractor.result.forEach((match) => {
-            resultData.push('[' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' + match.editorId);
+            output.write(`[${parseModfile.MODFILE_TYPES.decode(match.type)}] ${match.editorId}\n`);
         });
-        writeOutput(resultData.join('\n'));
     });
 
 /**
@@ -119,10 +104,8 @@ program.
             matchExtractor = readModfile(new modfileFind.MatchExtractor(program.args[1].type, program.args[0])),
             resultData = [];
         matchExtractor.result.forEach((match) => {
-            resultData.push(renderFormId(match.formId) + ' [' + parseModfile.MODFILE_TYPES.decode(match.type) + '] ' +
-                    match.editorId);
+            output.write(`${renderFormId(match.formId)} [${parseModfile.MODFILE_TYPES.decode(match.type)}] ${match.editorId}\n`);
         });
-        writeOutput(resultData.join('\n'));
     });
 
 /**
@@ -152,6 +135,7 @@ program.
     });
 
 program.parse(process.argv);
+output.close();
 if (!program.args.length) {
     program.help();
 }
