@@ -27,7 +27,7 @@ class DialExtractor {
             parse(this);
             this.context.dialId = null;
         } else if (this.context && !this.context.branch) {
-            throw new Error("Unexpected GRUP record.");
+            console.error('Unexpected GRUP record.');
         }
     }
 

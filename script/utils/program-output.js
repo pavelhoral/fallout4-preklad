@@ -34,7 +34,7 @@ ProgramOutput.prototype.write = function(text) {
  * Close the underlying stream.
  */
 ProgramOutput.prototype.close = function() {
-    if (this.program.output) {
+    if (this.program.output && this.program.stream) {
         this.stream.end();
     }
 };
