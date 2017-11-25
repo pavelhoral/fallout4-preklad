@@ -35,7 +35,7 @@ ProgramOutput.prototype.write = function(text) {
  */
 ProgramOutput.prototype.close = function() {
     if (this.program.output) {
-        this.stream.close();
+        this.stream.end();
     }
 };
 
