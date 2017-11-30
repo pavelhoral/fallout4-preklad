@@ -2433,7 +2433,7 @@ Později jsem slyšela, že se neohlásil na svou službu na můstku. Nikdo nev�
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Locked</Source>
       <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
-STATUS: uzamčeno</Dest>
+STAV: uzamčeno</Dest>
     </String>
     <String List="0" sID="02355C">
       <EDID>BoSM01</EDID>
@@ -2599,7 +2599,7 @@ STATUS: uzamčeno</Dest>
       <Source>MaxLock Security Door Control Interface&#xD;
 STATUS: Busy</Source>
       <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
-STATUS: v činnosti</Dest>
+STAV: v činnosti</Dest>
     </String>
     <String List="0" sID="024F64">
       <EDID>BoSM02</EDID>
@@ -2699,7 +2699,7 @@ STATUS: ERR 004&#xD;
 &#xD;
 WARNING: An electrical fault in the door control subsystem has been detected. Please contact a technician for assistance.</Source>
       <Dest>Rozhraní bezpečnostních dveří MaxLock&#xD;
-STATUS: ERR 004&#xD;
+STAV: CHYBA 004&#xD;
 &#xD;
 VAROVÁNÍ: Detekována elektronická chyba v subsystému ovládání dveří. Prosím, kontaktujte technika.</Dest>
     </String>
