@@ -62,7 +62,8 @@ function cleanupBatch(batch) {
             retained: 0,
             removed: 0,
             records: 0,
-            chars: 0
+            chars: 0,
+            original: 0
         };
     stringArray = stringArray.filter((string) => {
         var edid = string.EDID[0],
@@ -72,6 +73,7 @@ function cleanupBatch(batch) {
             recordStats.retained[edid] = true;
             cleanupStats.retained++;
             cleanupStats.chars += string.Dest[0].length;
+            cleanupStats.original += string.Source[0].length;
         } else {
             recordStats.removed[edid] = true;
             cleanupStats.removed++;

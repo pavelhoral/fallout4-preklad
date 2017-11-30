@@ -62,8 +62,8 @@ function resolveBatch(filename, batchName, pluginName) {
         pluginName: pluginName || resolvePluginName(filename, batchName)
     };
     batch.xmlPath = resolveBatchPath(filename, batch.pluginName, 'l10n');
-    batch.batchName = path.basename(batchName || '') || path.basename(batch.xmlPath).replace(/\.xml$/i, '');
-    batch.txtPath = resolveBatchPath(batch.batchName, batch.pluginName, 'work');
+    batch.batchName = path.basename(batchName || batch.xmlPath).replace(/\.(xml|txt)$/i, '');
+    batch.txtPath = resolveBatchPath(batchName || batch.batchName, batch.pluginName, 'work');
     if (!validateFilePath(batch.txtPath)) {
         throw new Error(`Unable to locate batch definition for '${filename}.`);
     }
