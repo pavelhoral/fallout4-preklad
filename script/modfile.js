@@ -10,17 +10,17 @@ var parseSource = require('./parse/parse-source'),
     path = require('path');
 
 program.
-    option('-m, --modfile <file>', 'Specify modfile to use.').
-    option('-s, --strings <directory>', 'Strings source directory.').
-    option('-l, --language <lang>', 'Language specifier.').
-    option('-o, --output <file>', 'Write output to the specified file.');
+    option('-m, --modfile <file>', 'specify modfile to use').
+    option('-s, --strings <directory>', 'strings source directory').
+    option('-l, --language <lang>', 'translation language code [en]', 'en').
+    option('-o, --output <file>', 'write output to the specified file');
 
 function readStrings() {
     var modfilePath = program.modfile;
     if (program.strings) {
         modfilePath = path.resolve(path.dirname(program.strings), path.basename(program.modfile));
     }
-    return new parseStrings.StringsReader().readByModfile(modfilePath, program.language || 'en');
+    return new parseStrings.StringsReader().readByModfile(modfilePath, program.language);
 }
 
 function readModfile(handler) {
@@ -68,7 +68,7 @@ program.
 program.
     command('dials').
     description('Extract DIAL identifiers with their respective INFOs.').
-    option('-q, --quest', 'Include quest reference.').
+    option('-q, --quest', 'include quest reference').
     action((options) => {
         var modfileDial = require('./modfile/dial'),
             dialExtractor = readModfile(new modfileDial.DialExtractor()),
@@ -100,7 +100,7 @@ program.
 program.
     command('find <pattern>').
     description('Find items with the defined HEX pattern in their body.').
-    option('-t, --type <type>', 'Specify entry type to find.').
+    option('-t, --type <type>', 'specify entry type to find').
     action((options) => {
         var modfileFind = require('./modfile/find'),
             matchExtractor = readModfile(new modfileFind.MatchExtractor(options.type, program.args[0])),

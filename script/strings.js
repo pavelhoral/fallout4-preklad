@@ -6,7 +6,7 @@ var parseStrings = require('./parse/parse-strings'),
     output = require('./utils/program-output')(program);
 
 program.
-    option('-o --output <file>', 'Export STRINGS to a file.');
+    option('-o --output <file>', 'write output to the specified file');
 
 function readStrings(filePath) {
     return new parseStrings.StringsReader().readFile(filePath);
@@ -15,8 +15,8 @@ function readStrings(filePath) {
 program.
     command('find <pattern>').
     description('Search for text in STRINGS.').
-    option('-s, --strings <file>', 'Path to a STRINGS file.').
-    option('-f, --flags <flags>', 'Additional regexp flags.').
+    option('-s, --strings <file>', 'path to a STRINGS file').
+    option('-f, --flags <flags>', 'additional regexp flags').
     action((pattern, options) => {
         var strings = readStrings(options.strings),
             regexp = new RegExp(pattern, options.flags)

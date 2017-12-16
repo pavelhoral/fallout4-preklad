@@ -9,9 +9,9 @@ var fs = require('fs-extra'),
 program.
     usage('[options]').
     description('Create distribution package.').
-    option('-b, --build', 'Process data files.').
-    option('-z, --zip', 'Create ZIP distribution package.').
-    option('-m, --msi', 'Create MSI distribution package.').
+    option('-b, --build', 'process data files').
+    option('-z, --zip', 'create ZIP distribution package').
+    option('-m, --msi', 'create MSI distribution package').
     parse(process.argv);
 
 if (!program.build && !program.zip && !program.msi) {

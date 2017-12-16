@@ -10,10 +10,10 @@ var fs = require('fs-extra'),
 program.
     usage('[options] <file>').
     description('Compile translations into final STRINGS files.').
-    option('-t, --target <directory>', 'Target output directory (defaults to target/Strings).').
-    option('-s, --shadow <directory>', 'Shadow translation source directory.').
-    option('-u, --unaccent', 'Remove all accents from translation strings.').
-    option('-d, --debug', 'Prepend string identifiers to translations.').
+    option('-t, --target <directory>', 'target output directory [target/Strings]').
+    option('-s, --shadow <directory>', 'shadow translation source directory').
+    option('-u, --unaccent', 'remove all accents from translation strings').
+    option('-d, --debug', 'prepend string identifiers to translations').
     parse(process.argv);
 
 if (program.args.length < 1) {
