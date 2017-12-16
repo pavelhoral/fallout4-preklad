@@ -21,13 +21,13 @@ ProgramOutput.prototype.init = function() {
 }
 
 /**
- * Lazily initialize output stream and write the given text.
+ * Lazily initialize output stream and write the given data.
  */
-ProgramOutput.prototype.write = function(text) {
+ProgramOutput.prototype.write = function(data) {
     if (!this.stream) {
         this.init();
     }
-    this.stream.write(text);
+    this.stream.write(data);
 };
 
 /**

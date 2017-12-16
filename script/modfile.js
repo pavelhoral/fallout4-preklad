@@ -118,14 +118,13 @@ program.
     description('Produce modfile with baked-in translations.').
     action(() => {
         var modfileBake = require('./modfile/bake'),
-            strings = readStrings(),
-            baker = readModfile(new modfileBake.RecordBaker(strings));
-        if (!baker.stack[0].dataIds.length) {
-            throw new Error("No data to bake.");
+            pluginName = path.parse(program.modfile).name,
+            recordBaker = new modfileBake.RecordBaker(pluginName, readStrings());
+        if (!program.output) {
+            console.error('Output file must be specified.');
+        } else {
+            output.write(readModfile(recordBaker).bakePlugin('DEFAULT'));
         }
-        baker.stack[0].data.unshift(baker.bakeHeader('DEFAULT', path.basename(program.modfile)));
-        fs.writeFileSync(program.output || (program.modfile + '.BAKED'), Buffer.concat(baker.stack[0].data));
-
     });
 
 /**
