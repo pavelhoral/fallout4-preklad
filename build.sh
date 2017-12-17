@@ -19,7 +19,7 @@ mkdir -p $WORKDIR
 # Combine translation files into one XML
 function run_combine {
     COMBINE_OPTS="-o $WORKDIR/$PLUGIN.xml"
-    script/combine.js $COMBINE_OPTS source/l10n/$PLUGIN/$FILTER*
+    script/sstxml.js combine $COMBINE_OPTS source/l10n/$PLUGIN/$FILTER*
 }
 
 # Compile translation into STRINGS
@@ -48,5 +48,5 @@ else
 fi
 
 if [[ -v PACKAGE ]]; then
-	script/package.js -zm
+    script/package.js -zm
 fi

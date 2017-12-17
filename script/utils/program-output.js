@@ -4,9 +4,10 @@ var fs = require('fs');
 /**
  * Program output facade for file / stdio output.
  */
-var ProgramOutput = function(program) {
+var ProgramOutput = function(program, lenient) {
     this.program = program;
     this.stream = null;
+    this.lenient = lenient;
 };
 
 /**
@@ -14,7 +15,7 @@ var ProgramOutput = function(program) {
  */
 ProgramOutput.prototype.init = function() {
     if (this.program.output) {
-        this.stream = fs.createWriteStream(this.program.output, { flags: 'wx' });
+        this.stream = fs.createWriteStream(this.program.output, { flags: this.lenient ? 'w' : 'wx' });
     } else {
         this.stream = process.stdout;
     }
@@ -42,6 +43,6 @@ ProgramOutput.prototype.close = function() {
 /**
  * Export factory method.
  */
-module.exports = function programOutput(program) {
-    return new ProgramOutput(program);
+module.exports = function programOutput(program, lenient) {
+    return new ProgramOutput(program, lenient);
 };
