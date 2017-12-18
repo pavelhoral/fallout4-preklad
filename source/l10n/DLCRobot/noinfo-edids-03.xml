@@ -3934,13 +3934,13 @@ Všichni roboti úspěšně restartováni.</Dest>
       <Source>            ! ! ERROR ! !&#xD;
 Critical overload in communications array. All robot control functions are offline.</Source>
       <Dest>            ! ! CHYBA ! !&#xD;
-Kritické přetížení v komunikační síti. Všechny funkce ovládání robotů mimo provoz.</Dest>
+Kritické přetížení v komunikační síti. Všechny funkce ovládání robotů jsou nedostupné.</Dest>
     </String>
     <String List="0" sID="02DA60">
       <EDID>DN035_RobotControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>R¤¤o¤¤¤¤b¤O¤t¤ CON¤¤¤trolz</Source>
-      <Dest>O¤¤vl¤ád¤á¤n¤í¤ ROB¤¤¤otů</Dest>
+      <Dest>T¤¤m¤¤¤¤ o¤l¤d¤ní ROB¤¤¤</Dest>
     </String>
     <String List="0" sID="02DAF3">
       <EDID>DN035_RobotControlTerminal</EDID>
@@ -3952,7 +3952,7 @@ Kritické přetížení v komunikační síti. Všechny funkce ovládání robot
       <EDID>DN035_RobotControlTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>W¤lcom¤ ¤o R¤¤Co Industries (¤¤) T¤¤ml¤nk</Source>
-      <Dest>V¤tej¤e v T¤¤ml¤nku R¤¤Co Industries (¤¤)</Dest>
+      <Dest>V¤tejt¤ v T¤¤ml¤nku R¤¤Co Industries (¤¤)</Dest>
     </String>
     <String List="0" sID="02DB43">
       <EDID>DN035_RobotControlTerminal</EDID>

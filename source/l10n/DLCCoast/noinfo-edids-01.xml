@@ -1619,7 +1619,7 @@
       <EDID>DLC03_GulperBodyPartData</EDID>
       <REC id="2">BPTD:BPTN</REC>
       <Source>LeftFoot</Source>
-      <Dest>Levé chodidlo</Dest>
+      <Dest>LeftFoot</Dest>
     </String>
     <String List="0" sID="002B0E">
       <EDID>DLC03_GulperBodyPartData</EDID>
@@ -3269,13 +3269,13 @@
       <EDID>DLC03_FortifyXPBonusEffect</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>+10% XP gain for 2 hours.</Source>
-      <Dest>10% navýšení XP po dobu 2 hodin.</Dest>
+      <Dest>10% navýšení ZK po dobu 2 hodin.</Dest>
     </String>
     <String List="0" sID="004872">
       <EDID>DLC03_FortifyXPBonusEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>+10% XP Bonus</Source>
-      <Dest>10% bonus XP</Dest>
+      <Dest>10% bonus ZK</Dest>
     </String>
     <String List="0" sID="00487C">
       <EDID>DLC03_mod_melee_polehook_Multihook</EDID>
@@ -4121,25 +4121,25 @@
       <EDID>DLC03_mod_RadiumRifle_Grip_StockShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Better aim with scopes. Improved recoil and bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Lepší míření s optikou. Menší zpětný ráz a zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Lepší míření s optikou. Menší zpětný ráz a zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="001F6A">
       <EDID>DLC03_mod_RadiumRifle_Grip_StockFull</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Better recoil and aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Menší zpětný ráz a lepší míření s optikou. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Menší zpětný ráz a lepší míření s optikou. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="001F6F">
       <EDID>DLC03_mod_RadiumRifle_Barrel_PortedLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior recoil, range and sighted accuracy. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel, přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel, přesnost při míření a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="001FA6">
       <EDID>DLC03_mod_RadiumRifle_Scope_SightsIronGlow</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved focus and better sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="001FAF">
       <EDID>DLC03_mod_RadiumRifle_Mag_Large</EDID>
@@ -4157,7 +4157,7 @@
       <EDID>DLC03_mod_RadiumRifle_Scope_SightReflex</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better focus and sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="001FDF">
       <EDID>DLC03_mod_RadiumRifle_Receiver_Standard</EDID>
@@ -4169,19 +4169,19 @@
       <EDID>DLC03_mod_RadiumRifle_Barrel_Long</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior range and sighted accuracy. Better recoil. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel a přesnost s mířením. Menší zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel a přesnost při míření. Menší zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="001FEC">
       <EDID>DLC03_mod_RadiumRifle_Grip_StockRecoil</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy and recoil. Better aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením a malý zpětný ráz. Lepší míření s optikou. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření a malý zpětný ráz. Lepší míření s optikou. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="001FEE">
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved magnification. Superior sighted accuracy.</Source>
-      <Dest>Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="00200C">
       <EDID>DLC03_mod_RadiumRifle_Mag_Small</EDID>
@@ -4223,7 +4223,7 @@
       <EDID>DLC03_mod_HarpoonGun_Scope_ScopeShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved magnification. Superior sighted accuracy.</Source>
-      <Dest>Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="002A1E">
       <EDID>DLC03_mod_HarpoonGun_Mag_Barbed</EDID>
@@ -4247,7 +4247,7 @@
       <EDID>DLC03_mod_HarpoonGun_Scope_SightReflex</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better focus and sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="002D6F">
       <EDID>DLC03_MutatedWolfRace</EDID>
@@ -4356,7 +4356,7 @@
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior magnification and sighted accuracy.</Source>
-      <Dest>Mimořádné přiblížení a přesnost s mířením.</Dest>
+      <Dest>Mimořádné přiblížení a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003044">
       <EDID>DLC03_mod_RadiumRifle_Mag_LargeQuick</EDID>
@@ -4368,13 +4368,13 @@
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeMedium_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Better magnification. Superior sighted accuracy.</Source>
-      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003082">
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeShort_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Improved magnification. Superior sighted accuracy.</Source>
-      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="0030C6">
       <EDID>DLC03_mod_RadiumRifle_Muzzle_Suppressor</EDID>
@@ -4404,13 +4404,13 @@
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeLong_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Superior magnification and sighted accuracy.</Source>
-      <Dest>Noční vidění. Mimořádné přiblížení a přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Mimořádné přiblížení a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="00314C">
       <EDID>DLC03_mod_RadiumRifle_Grip_StockMarksmans</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Mimořádné míření s optikou a malý zpětný ráz. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Mimořádné míření s optikou a malý zpětný ráz. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="0031C5">
       <EDID>DLC03_RadChickenRace</EDID>
@@ -4422,7 +4422,7 @@
       <EDID>DLC03_mod_RadiumRifle_Scope_ScopeMedium</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better magnification. Superior sighted accuracy.</Source>
-      <Dest>Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="0032D5">
       <EDID>DLC03_Scrapper03</EDID>
@@ -4482,7 +4482,7 @@
       <EDID>DLC03_mod_LeverGun_Grip_StockShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Better aim with scopes. Improved recoil and bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Lepší míření s optikou. Menší zpětný ráz a zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Lepší míření s optikou. Menší zpětný ráz a zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="003580">
       <EDID>DLC03_mod_Custom_weapon_Luck2</EDID>
@@ -4494,7 +4494,7 @@
       <EDID>DLC03_mod_LeverGun_Barrel_PortedLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior recoil, range and sighted accuracy. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel, přesnost s mířením a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel, přesnost při míření a malý zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="003F4B">
       <EDID>DLC03_mod_LeverGun_Muzzle_Compensator</EDID>
@@ -4506,13 +4506,13 @@
       <EDID>DLC03_mod_LeverGun_Scope_SightsGlow</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved focus and better sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F52">
       <EDID>DLC03_mod_LeverGun_Scope_ScopeLong</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior magnification and sighted accuracy.</Source>
-      <Dest>Mimořádné přiblížení a přesnost s mířením.</Dest>
+      <Dest>Mimořádné přiblížení a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F54">
       <EDID>DLC03_mod_LeverGun_Receiver_Lighter</EDID>
@@ -4524,37 +4524,37 @@
       <EDID>DLC03_mod_LeverGun_Scope_ScopeLong_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Superior magnification and sighted accuracy.</Source>
-      <Dest>Noční vidění. Mimořádné přiblížení a přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Mimořádné přiblížení a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F5E">
       <EDID>DLC03_mod_LeverGun_Scope_ScopeMedium</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better magnification. Superior sighted accuracy.</Source>
-      <Dest>Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F62">
       <EDID>DLC03_mod_LeverGun_Scope_ScopeMedium_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Better magnification. Superior sighted accuracy.</Source>
-      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F76">
       <EDID>DLC03_mod_LeverGun_Scope_ScopeShort_NV</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Night vision. Improved magnification. Superior sighted accuracy.</Source>
-      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Noční vidění. Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="003F7C">
       <EDID>DLC03_mod_LeverGun_Grip_StockMarksmans</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Superior recoil and aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Mimořádné míření s optikou a malý zpětný ráz. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Mimořádné míření s optikou a malý zpětný ráz. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="003F80">
       <EDID>DLC03_mod_LeverGun_Grip_Stock</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy. Better recoil and aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením. Menší zpětný ráz a lepší míření s optikou. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření. Menší zpětný ráz a lepší míření s optikou. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="003F81">
       <EDID>DLC03_mod_LeverGun_Receiver_BetterCriticals</EDID>
@@ -4572,7 +4572,7 @@
       <EDID>DLC03_mod_LeverGun_Barrel_Long</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Superior range and sighted accuracy. Better recoil. Poor hip-fire accuracy.</Source>
-      <Dest>Mimořádný dostřel a přesnost s mířením. Menší zpětný ráz. Špatná přesnost bez míření.</Dest>
+      <Dest>Mimořádný dostřel a přesnost při míření. Menší zpětný ráz. Špatná přesnost bez míření.</Dest>
     </String>
     <String List="1" sID="003F90">
       <EDID>DLC03_mod_LeverGun_Barrel_PortedShort</EDID>
@@ -4614,13 +4614,13 @@
       <EDID>DLC03_mod_LeverGun_Scope_SightReflex_Dot</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better focus and sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="0040A3">
       <EDID>DLC03_mod_LeverGun_Scope_ScopeShort</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved magnification. Superior sighted accuracy.</Source>
-      <Dest>Větší přiblížení. Mimořádná přesnost s mířením.</Dest>
+      <Dest>Větší přiblížení. Mimořádná přesnost při míření.</Dest>
     </String>
     <String List="1" sID="0040BD">
       <EDID>DLC03_mod_LeverGun_Receiver_MoreDamage1</EDID>
@@ -4632,13 +4632,13 @@
       <EDID>DLC03_mod_LeverGun_Scope_SightReflex_Circle</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Better focus and sighted accuracy.</Source>
-      <Dest>Lepší zaostření a přesnost s mířením.</Dest>
+      <Dest>Lepší zaostření a přesnost při míření.</Dest>
     </String>
     <String List="1" sID="004126">
       <EDID>DLC03_mod_LeverGun_Grip_StockRecoil</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional sighted accuracy and recoil. Better aim with scopes. Improved bash.</Source>
-      <Dest>Výjimečná přesnost s mířením a malý zpětný ráz. Lepší míření s optikou. Zlepšený úder zbraní.</Dest>
+      <Dest>Výjimečná přesnost při míření a malý zpětný ráz. Lepší míření s optikou. Zlepšený úder zbraní.</Dest>
     </String>
     <String List="1" sID="004461">
       <EDID>DLC03_mod_HarpoonGun_Scope_SightsIron</EDID>
@@ -4668,7 +4668,7 @@ Bruce &amp; Laurie&#xD;
       <EDID>DLC03_FortifyXPBonusPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>+10% XP earned for 2 hours.</Source>
-      <Dest>10% navýšení XP po dobu 2 hodin.</Dest>
+      <Dest>10% navýšení ZK po dobu 2 hodin.</Dest>
     </String>
     <String List="1" sID="004867">
       <EDID>DLC03_mod_melee_polehook_Multihook</EDID>
