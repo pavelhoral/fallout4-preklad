@@ -379,6 +379,12 @@
       <Source>Sounds reasonable</Source>
       <Dest>To zní rozumně</Dest>
     </String>
+    <String List="0" sID="019C8C" Partial="1">
+      <EDID>[0003CD9E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Why do you need me?</Source>
+      <Dest>Why do you need me?</Dest>
+    </String>
     <String List="0" sID="01A3FA">
       <EDID>[00037189]</EDID>
       <REC>INFO:RNAM</REC>
@@ -516,6 +522,12 @@
       <REC>INFO:RNAM</REC>
       <Source>No big deal</Source>
       <Dest>Nic extra</Dest>
+    </String>
+    <String List="0" sID="01D1C8" Partial="1">
+      <EDID>[000360F3]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Earl Sterling?</Source>
+      <Dest>Earl Sterling?</Dest>
     </String>
     <String List="0" sID="01D219">
       <EDID>[0003A491]</EDID>
@@ -871,6 +883,12 @@
       <Source>Sounds Like Anarchy</Source>
       <Dest>To zní jako anarchie</Dest>
     </String>
+    <String List="0" sID="025FF7" Partial="1">
+      <EDID>[00033561]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Insurance?</Source>
+      <Dest>Insurance?</Dest>
+    </String>
     <String List="0" sID="025FFC">
       <EDID>[0003704E]</EDID>
       <REC>INFO:RNAM</REC>
@@ -985,6 +1003,18 @@
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
+    <String List="0" sID="02F4FE" Partial="1">
+      <EDID>[001ABFAD]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Barter</Source>
+      <Dest>Barter</Dest>
+    </String>
+    <String List="0" sID="02F52C" Partial="1">
+      <EDID>[001ABF90]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
     <String List="0" sID="02F5C7">
       <EDID>REChokepoint01_Here</EDID>
       <REC>INFO:RNAM</REC>
@@ -997,17 +1027,53 @@
       <Source>Will you comply?</Source>
       <Dest>Budeš ho dodržovat?</Dest>
     </String>
+    <String List="0" sID="02F63D" Partial="1">
+      <EDID>[001ABF8C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
     <String List="0" sID="02F68B">
       <EDID>[0003AC19]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Pointless</Source>
       <Dest>Nesmysl</Dest>
     </String>
+    <String List="0" sID="02F779" Partial="1">
+      <EDID>[001ABF8D]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
+    <String List="0" sID="02F7DD" Partial="1">
+      <EDID>[001ABF86]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not now</Source>
+      <Dest>Not now</Dest>
+    </String>
+    <String List="0" sID="02F8FB" Partial="1">
+      <EDID>[001ABF92]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
     <String List="0" sID="02F990">
       <EDID>[001AC4D7]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Already did</Source>
       <Dest>Už se stalo</Dest>
+    </String>
+    <String List="0" sID="02F9C0" Partial="1">
+      <EDID>[001ABF87]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not now</Source>
+      <Dest>Not now</Dest>
+    </String>
+    <String List="0" sID="02FB02" Partial="1">
+      <EDID>[001ABFAC]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Barter</Source>
+      <Dest>Barter</Dest>
     </String>
     <String List="0" sID="02FB75">
       <EDID>[0003AC20]</EDID>
@@ -1021,11 +1087,35 @@
       <Source>Refuse</Source>
       <Dest>Odmítnout</Dest>
     </String>
+    <String List="0" sID="02FC1C" Partial="1">
+      <EDID>[0003AC1A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Agree</Source>
+      <Dest>Agree</Dest>
+    </String>
+    <String List="0" sID="02FD99" Partial="1">
+      <EDID>[001ABF91]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
     <String List="0" sID="02FDD6">
       <EDID>[000250BA]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Will you comply?</Source>
       <Dest>Budeš ho dodržovat?</Dest>
+    </String>
+    <String List="0" sID="02FEB9" Partial="1">
+      <EDID>[0003D60F]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not now</Source>
+      <Dest>Not now</Dest>
+    </String>
+    <String List="0" sID="02FEF1" Partial="1">
+      <EDID>[001ABF8E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
     </String>
     <String List="0" sID="02FF73">
       <EDID>[0003D609]</EDID>
@@ -1033,11 +1123,23 @@
       <Source>Who are you?</Source>
       <Dest>Kdo jsi?</Dest>
     </String>
+    <String List="0" sID="0300EC" Partial="1">
+      <EDID>[0003D60E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Barter</Source>
+      <Dest>Barter</Dest>
+    </String>
     <String List="0" sID="030148">
       <EDID>[0003AC37]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Refuse</Source>
       <Dest>Odmítnout</Dest>
+    </String>
+    <String List="0" sID="030338" Partial="1">
+      <EDID>[001ABFAE]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Barter</Source>
+      <Dest>Barter</Dest>
     </String>
     <String List="0" sID="030341">
       <EDID>[0003D601]</EDID>
@@ -1051,6 +1153,24 @@
       <Source>Could we talk?</Source>
       <Dest>Můžeme si promluvit?</Dest>
     </String>
+    <String List="0" sID="0303EF" Partial="1">
+      <EDID>[001ABF8F]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
+    <String List="0" sID="030499" Partial="1">
+      <EDID>[001ABF8A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
+    <String List="0" sID="0304A5" Partial="1">
+      <EDID>[0003AC13]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Agree</Source>
+      <Dest>Agree</Dest>
+    </String>
     <String List="0" sID="03057C">
       <EDID>[0003AC2F]</EDID>
       <REC>INFO:RNAM</REC>
@@ -1063,11 +1183,29 @@
       <Source>Sure</Source>
       <Dest>Jistě</Dest>
     </String>
+    <String List="0" sID="030676" Partial="1">
+      <EDID>[001ABF93]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
     <String List="0" sID="0306AF">
       <EDID>[0003AC12]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Will you comply?</Source>
       <Dest>Budeš ho dodržovat?</Dest>
+    </String>
+    <String List="0" sID="030714" Partial="1">
+      <EDID>[001ABF8B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Not interested</Dest>
+    </String>
+    <String List="0" sID="030742" Partial="1">
+      <EDID>[001ABFAF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Barter</Source>
+      <Dest>Barter</Dest>
     </String>
     <String List="0" sID="03078A">
       <EDID>[000250BC]</EDID>

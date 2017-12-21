@@ -1,6 +1,612 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<SSTXMLRessources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
   <Content>
+    <String List="0" sID="012A51">
+      <EDID>[00178A7C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>More Recipes?</Source>
+      <Dest>Víc receptů?</Dest>
+    </String>
+    <String List="0" sID="012AA7">
+      <EDID>[0017696D]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Let's Go</Source>
+      <Dest>Pojďme</Dest>
+    </String>
+    <String List="0" sID="012BC8">
+      <EDID>[00178EA6]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Why Would I?</Source>
+      <Dest>A mám snad?</Dest>
+    </String>
+    <String List="0" sID="012E04">
+      <EDID>[00178A8A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm ready</Source>
+      <Dest>Můžeme</Dest>
+    </String>
+    <String List="0" sID="013135">
+      <EDID>[00176974]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I Don't Know</Source>
+      <Dest>Já nevím</Dest>
+    </String>
+    <String List="0" sID="0133A6">
+      <EDID>[00178EA3]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Says Who?</Source>
+      <Dest>Kdo ti to řekl?</Dest>
+    </String>
+    <String List="0" sID="013782">
+      <EDID>[0017B404]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>This was wrong</Source>
+      <Dest>Bylo to špatné</Dest>
+    </String>
+    <String List="0" sID="0148DF">
+      <EDID>[00178E9C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't Love You</Source>
+      <Dest>Já tě nemiluji</Dest>
+    </String>
+    <String List="0" sID="0149B2">
+      <EDID>[0017A612]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I knew it would work</Source>
+      <Dest>Fungovalo to</Dest>
+    </String>
+    <String List="0" sID="014BED">
+      <EDID>[00176963]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Come With Me</Source>
+      <Dest>Pojď se mnou</Dest>
+    </String>
+    <String List="0" sID="014E18">
+      <EDID>[0017B402]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm sorry</Source>
+      <Dest>Omlouvám se</Dest>
+    </String>
+    <String List="0" sID="01538E">
+      <EDID>[00176976]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>On Second Thought</Source>
+      <Dest>Na druhou stranu</Dest>
+    </String>
+    <String List="0" sID="016080">
+      <EDID>[00176962]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Why Should I?</Source>
+      <Dest>A proč?</Dest>
+    </String>
+    <String List="0" sID="016294">
+      <EDID>[00178A83]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'll take a beer</Source>
+      <Dest>Vezmu si pivo</Dest>
+    </String>
+    <String List="0" sID="0178A3">
+      <EDID>[0017695F]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I Mean It</Source>
+      <Dest>Myslím to tak</Dest>
+    </String>
+    <String List="0" sID="017A3F">
+      <EDID>[00178EA0]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Still Love You</Source>
+      <Dest>Pořád tě miluji</Dest>
+    </String>
+    <String List="0" sID="01800C">
+      <EDID>[0017695E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not My Son</Source>
+      <Dest>Nejsi můj syn</Dest>
+    </String>
+    <String List="0" sID="019295">
+      <EDID>[0017B409]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>He was my friend</Source>
+      <Dest>Byl to můj přítel</Dest>
+    </String>
+    <String List="0" sID="019C89">
+      <EDID>[0017696B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Dad?</Source>
+      <Dest>Tati?</Dest>
+    </String>
+    <String List="0" sID="01A251">
+      <EDID>[00178A7A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not yet</Source>
+      <Dest>Ještě ne</Dest>
+    </String>
+    <String List="0" sID="01AAC8">
+      <EDID>[0017B400]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Danse's Corpse</Source>
+      <Dest>Dansova mrtvola</Dest>
+    </String>
+    <String List="0" sID="01AEC7">
+      <EDID>[00178E9A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not Your Father</Source>
+      <Dest>Nejsem tvůj otec</Dest>
+    </String>
+    <String List="0" sID="01B68A">
+      <EDID>[00179175]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Let Him Die</Source>
+      <Dest>Nechat ho zemřít</Dest>
+    </String>
+    <String List="0" sID="01CCB1">
+      <EDID>[00178E96]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Sarcastic</Source>
+      <Dest>Sarkasticky</Dest>
+    </String>
+    <String List="0" sID="01D150">
+      <EDID>[00176967]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't Believe Me?</Source>
+      <Dest>Ty mi nevěříš?</Dest>
+    </String>
+    <String List="0" sID="01D6BE">
+      <EDID>[00178A87]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>No thanks</Source>
+      <Dest>Ne, děkuji</Dest>
+    </String>
+    <String List="0" sID="01E37B">
+      <EDID>[0017919B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Give Stimpak</Source>
+      <Dest>Dát stimpak</Dest>
+    </String>
+    <String List="0" sID="01E382">
+      <EDID>[0017919A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Curie Can Help</Source>
+      <Dest>Curie může pomoct</Dest>
+    </String>
+    <String List="0" sID="01E384">
+      <EDID>[00179178]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hold On</Source>
+      <Dest>Vydrž</Dest>
+    </String>
+    <String List="0" sID="01E385">
+      <EDID>[0017917A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>What Happened?</Source>
+      <Dest>Co se stalo?</Dest>
+    </String>
+    <String List="0" sID="01E40B">
+      <EDID>[00178A80]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Changed my mind</Source>
+      <Dest>Měním názor</Dest>
+    </String>
+    <String List="0" sID="01F4EF">
+      <EDID>[0017919C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Give Stimpak</Source>
+      <Dest>Dát stimpak</Dest>
+    </String>
+    <String List="0" sID="01FEBD">
+      <EDID>[0017A605]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>We got lucky</Source>
+      <Dest>Měli jsme štěstí</Dest>
+    </String>
+    <String List="0" sID="020085">
+      <EDID>[0017696F]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>You're A Robot</Source>
+      <Dest>Jsi robot</Dest>
+    </String>
+    <String List="0" sID="02178C">
+      <EDID>[0017A60E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Brotherhood not defeated</Source>
+      <Dest>Bratrstvo není poraženo</Dest>
+    </String>
+    <String List="0" sID="022A72">
+      <EDID>[00176969]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not Happening</Source>
+      <Dest>To se nestane</Dest>
+    </String>
+    <String List="0" sID="025054">
+      <EDID>[0017A609]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Minutemen are strong</Source>
+      <Dest>Minutemani jsou silní</Dest>
+    </String>
+    <String List="0" sID="025966">
+      <EDID>[00178E98]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Unfair Question</Source>
+      <Dest>Neférová otázka</Dest>
+    </String>
+    <String List="0" sID="026726">
+      <EDID>[00178E9E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm Your Father</Source>
+      <Dest>Jsem tvůj otec</Dest>
+    </String>
+    <String List="0" sID="02712D">
+      <EDID>[0017695B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Come With Me</Source>
+      <Dest>Pojď se mnou</Dest>
+    </String>
+    <String List="0" sID="0283AC">
+      <EDID>[00178A89]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Home?</Source>
+      <Dest>Domov?</Dest>
+    </String>
+    <String List="0" sID="02910A">
+      <EDID>[00198E1C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Working on it</Source>
+      <Dest>Pracuji na tom</Dest>
+    </String>
+    <String List="0" sID="029167">
+      <EDID>[00198E20]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Tell me a joke</Source>
+      <Dest>Řekni mi vtip</Dest>
+    </String>
+    <String List="0" sID="029187">
+      <EDID>[00198E21]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Tell me a joke</Source>
+      <Dest>Řekni mi vtip</Dest>
+    </String>
+    <String List="0" sID="02C3AF">
+      <EDID>[0009721E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I've sold you</Source>
+      <Dest>Už mi nepatříš</Dest>
+    </String>
+    <String List="0" sID="02C505">
+      <EDID>[0009725B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Change home parameter?</Source>
+      <Dest>Změnit nastavení domova?</Dest>
+    </String>
+    <String List="0" sID="02DE56">
+      <EDID>[0017668E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Sarcastic</Source>
+      <Dest>Sarkasticky</Dest>
+    </String>
+    <String List="0" sID="02DF7D">
+      <EDID>[00176660]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I Was The Backup</Source>
+      <Dest>Řekli, že jsem záloha</Dest>
+    </String>
+    <String List="0" sID="02E0A7">
+      <EDID>[001574F7]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm Your Mother</Source>
+      <Dest>Jsem tvá matka</Dest>
+    </String>
+    <String List="0" sID="02E13A">
+      <EDID>[001766C1]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>And Me?</Source>
+      <Dest>A mě?</Dest>
+    </String>
+    <String List="0" sID="02E13E">
+      <EDID>[001766B5]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Used To Be Different</Source>
+      <Dest>Bývalo to jiné</Dest>
+    </String>
+    <String List="0" sID="02E199">
+      <EDID>[001574F8]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Mom?</Source>
+      <Dest>Mami?</Dest>
+    </String>
+    <String List="0" sID="02E2D2">
+      <EDID>[001574F6]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Says Who?</Source>
+      <Dest>Kdo ti to řekl?</Dest>
+    </String>
+    <String List="0" sID="02E3B6">
+      <EDID>[0017664A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not So Bad</Source>
+      <Dest>Není to tak špatné</Dest>
+    </String>
+    <String List="0" sID="02E609">
+      <EDID>[00176674]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Why Come Out Here?</Source>
+      <Dest>Proč chodit na povrch?</Dest>
+    </String>
+    <String List="0" sID="02E615">
+      <EDID>[00176677]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>They Left Me Frozen</Source>
+      <Dest>Nechali mě zmrznout</Dest>
+    </String>
+    <String List="0" sID="02E640">
+      <EDID>[001574FF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not Your Mother</Source>
+      <Dest>Nejsem tvá matka</Dest>
+    </String>
+    <String List="0" sID="02E6BB">
+      <EDID>[00176694]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>They Kept Me Alive</Source>
+      <Dest>Nechali mě naživu</Dest>
+    </String>
+    <String List="0" sID="02E700">
+      <EDID>[00177EB2]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Won't help</Source>
+      <Dest>To nepomůže</Dest>
+    </String>
+    <String List="0" sID="02E74C">
+      <EDID>[0017C65A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Sick friend</Source>
+      <Dest>Nemocný přítel</Dest>
+    </String>
+    <String List="0" sID="02E797">
+      <EDID>[00177EF3]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Why supply him?</Source>
+      <Dest>Proč ho v tom podporovat?</Dest>
+    </String>
+    <String List="0" sID="02E7B9">
+      <EDID>[0017C658]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Looking for Jet</Source>
+      <Dest>Sháním jet</Dest>
+    </String>
+    <String List="0" sID="02E81A">
+      <EDID>[0017C654]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm fine</Source>
+      <Dest>Já jsem v pořádku</Dest>
+    </String>
+    <String List="0" sID="02E821">
+      <EDID>[0017C383]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't be angry</Source>
+      <Dest>Nezlob se</Dest>
+    </String>
+    <String List="0" sID="02E82D">
+      <EDID>[0017BDD5]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't worry</Source>
+      <Dest>Neboj se</Dest>
+    </String>
+    <String List="0" sID="02E84C">
+      <EDID>[0017C1A9]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Want to quit?</Source>
+      <Dest>Chceš skončit?</Dest>
+    </String>
+    <String List="0" sID="02E896">
+      <EDID>[0017BDC0]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Treated me?</Source>
+      <Dest>Jak ses choval?</Dest>
+    </String>
+    <String List="0" sID="02E8A2">
+      <EDID>[0017BCA8]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Synth Threat?</Source>
+      <Dest>Hrozba syntetiků?</Dest>
+    </String>
+    <String List="0" sID="02E8C6">
+      <EDID>[0017C38E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Forgive me</Source>
+      <Dest>Odpusť mi</Dest>
+    </String>
+    <String List="0" sID="02E93D">
+      <EDID>[0017C312]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Waste of space</Source>
+      <Dest>Jsi k ničemu</Dest>
+    </String>
+    <String List="0" sID="02E98D">
+      <EDID>[0017C663]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Never mind</Source>
+      <Dest>Vlastně ne</Dest>
+    </String>
+    <String List="0" sID="02E99E">
+      <EDID>[0017BC76]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Isn't necessary</Source>
+      <Dest>To není nutné</Dest>
+    </String>
+    <String List="0" sID="02E9C6">
+      <EDID>[0017BD48]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Never heard of it</Source>
+      <Dest>O tom slyším prvně</Dest>
+    </String>
+    <String List="0" sID="02EA74">
+      <EDID>[0017C311]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Have some Jet</Source>
+      <Dest>Dej si jet</Dest>
+    </String>
+    <String List="0" sID="02EAD8">
+      <EDID>[0017BC7B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Ingredient Help</Source>
+      <Dest>Pomoc s přísadami</Dest>
+    </String>
+    <String List="0" sID="02EB82">
+      <EDID>[0017C388]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>You're still angry?</Source>
+      <Dest>Pořád se zlobíš?</Dest>
+    </String>
+    <String List="0" sID="02EBA0">
+      <EDID>[0017C395]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Work together?</Source>
+      <Dest>Spolupracovat?</Dest>
+    </String>
+    <String List="0" sID="02EC37">
+      <EDID>[0017C2CE]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Your choice</Source>
+      <Dest>Tvá volba</Dest>
+    </String>
+    <String List="0" sID="02EC46">
+      <EDID>[0017BCA9]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm tempted</Source>
+      <Dest>Láká mě to</Dest>
+    </String>
+    <String List="0" sID="02ECA2">
+      <EDID>[0017BC7A]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>You don't have enough?</Source>
+      <Dest>Nemáte toho dost?</Dest>
+    </String>
+    <String List="0" sID="02ECCE">
+      <EDID>[0017BCD6]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't have time</Source>
+      <Dest>Nemám čas</Dest>
+    </String>
+    <String List="0" sID="02ED19">
+      <EDID>[00177EE9]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Good</Source>
+      <Dest>Dobře</Dest>
+    </String>
+    <String List="0" sID="02ED64">
+      <EDID>[0017C386]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't know what to say</Source>
+      <Dest>Nevím, co říct</Dest>
+    </String>
+    <String List="0" sID="02ED9B">
+      <EDID>[0017BCDB]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>No</Source>
+      <Dest>Ne</Dest>
+    </String>
+    <String List="0" sID="02EDA9">
+      <EDID>[0017BD93]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>My responsibilities?</Source>
+      <Dest>Mé povinnosti?</Dest>
+    </String>
+    <String List="0" sID="02EDAF">
+      <EDID>[0017C38B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>What's the difference</Source>
+      <Dest>Co to změní</Dest>
+    </String>
+    <String List="0" sID="02EFA0">
+      <EDID>[0017C65F]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Treat addiction?</Source>
+      <Dest>Léčba závislosti?</Dest>
+    </String>
+    <String List="0" sID="02F054">
+      <EDID>[00177EB7]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Your fault</Source>
+      <Dest>Můžeš za to ty</Dest>
+    </String>
+    <String List="0" sID="02F076">
+      <EDID>[0017C392]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Don't talk to me like that</Source>
+      <Dest>Takhle se mnou nemluv</Dest>
+    </String>
+    <String List="0" sID="02F0D6">
+      <EDID>[0017C656]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Looking for Jet</Source>
+      <Dest>Sháním jet</Dest>
+    </String>
+    <String List="0" sID="02F13C">
+      <EDID>[0017BC75]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Help Brotherhood?</Source>
+      <Dest>Pomoc Bratrstvu?</Dest>
+    </String>
+    <String List="0" sID="02F14F">
+      <EDID>[0017C65C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>For Bobby</Source>
+      <Dest>Pro Bobbyho</Dest>
+    </String>
+    <String List="0" sID="02F152">
+      <EDID>[0017BD82]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Make Reactor Coolant?</Source>
+      <Dest>Vyrobit chladicí kapalinu do reaktoru?</Dest>
+    </String>
+    <String List="0" sID="02F2A5">
+      <EDID>[0017C19C]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Get help</Source>
+      <Dest>Sehnat pomoc</Dest>
+    </String>
+    <String List="0" sID="02F316">
+      <EDID>[0017C1B7]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Decent?</Source>
+      <Dest>Slušná?</Dest>
+    </String>
+    <String List="0" sID="02F359">
+      <EDID>[0017BD76]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Yes</Source>
+      <Dest>Ano</Dest>
+    </String>
+    <String List="0" sID="02F35D">
+      <EDID>[0017C661]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Addictol?</Source>
+      <Dest>Addictol?</Dest>
+    </String>
+    <String List="0" sID="02F368">
+      <EDID>[0017BCFE]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Apology accepted</Source>
+      <Dest>Omluva přijata</Dest>
+    </String>
+    <String List="0" sID="02F36C">
+      <EDID>[0017C389]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Stop the insubordination</Source>
+      <Dest>Ukázni se</Dest>
+    </String>
+    <String List="0" sID="02F39F">
+      <EDID>[0017BCF6]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not right now</Source>
+      <Dest>To je všechno</Dest>
+    </String>
     <String List="2" sID="0126DD">
       <EDID>[0017972F]</EDID>
       <REC>INFO:NAM1</REC>
@@ -43,18 +649,6 @@
       <Source>Things are getting rough out there, folks. Might want to think twice before leaving the safety of Diamond City.</Source>
       <Dest>Je to tam docela vypjaté, přátelé. Možná si budete chtít rozmyslet opouštět bezpečí Diamond City.</Dest>
     </String>
-    <String List="0" sID="012A51">
-      <EDID>[00178A7C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>More Recipes?</Source>
-      <Dest>Víc receptů?</Dest>
-    </String>
-    <String List="0" sID="012AA7">
-      <EDID>[0017696D]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Let's Go</Source>
-      <Dest>Pojďme</Dest>
-    </String>
     <String List="2" sID="012AE2">
       <EDID>[0017C9B8]</EDID>
       <REC>INFO:NAM1</REC>
@@ -66,12 +660,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Here's another... uhh, some more news... I mean, assuming it's true. I can't really be sure...</Source>
       <Dest>Tady jsou další... uhh, nové zprávy... tedy, jestli jsou pravdivé. Vážně si nejsem jistý.</Dest>
-    </String>
-    <String List="0" sID="012BC8">
-      <EDID>[00178EA6]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Why Would I?</Source>
-      <Dest>A mám snad?</Dest>
     </String>
     <String List="2" sID="012BE9">
       <EDID>[00179760]</EDID>
@@ -102,12 +690,6 @@
       <REC id="0">INFO:NAM1</REC>
       <Source>A communist, a spy, and a Chinese man walk into a bar.</Source>
       <Dest>Do baru vejde komunista, špeh a Číňan.</Dest>
-    </String>
-    <String List="0" sID="012E04">
-      <EDID>[00178A8A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm ready</Source>
-      <Dest>Můžeme</Dest>
     </String>
     <String List="2" sID="012E16">
       <EDID>[0017A607]</EDID>
@@ -175,12 +757,6 @@
       <Source>I guess there was some sort of fight... Like, with lots of guns or whatever, at the ArcJet building.</Source>
       <Dest>V budově ArcJetu asi proběhl nějaký střet... myslím tím hodně zbraní a tak.</Dest>
     </String>
-    <String List="0" sID="013135">
-      <EDID>[00176974]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I Don't Know</Source>
-      <Dest>Já nevím</Dest>
-    </String>
     <String List="2" sID="01316C">
       <EDID>[001793F0]</EDID>
       <REC>INFO:NAM1</REC>
@@ -210,12 +786,6 @@
       <REC>INFO:NAM1</REC>
       <Source>So I don't know what to, uhh... what to expect now. Does this mean it's, like... war? Between the Brotherhood and the, uhh, the Institute?</Source>
       <Dest>Já už nevím, co, uhh... co čekat dál. Je možné, že tohle znamená... válku? Mezi Bratrstvem a Institutem?</Dest>
-    </String>
-    <String List="0" sID="0133A6">
-      <EDID>[00178EA3]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Says Who?</Source>
-      <Dest>Kdo ti to řekl?</Dest>
     </String>
     <String List="2" sID="0133C1">
       <EDID>[00177E20]</EDID>
@@ -288,12 +858,6 @@
       <REC id="0">INFO:NAM1</REC>
       <Source>All their technology and military hardware couldn't defeat the people of the Commonwealth standing together.</Source>
       <Dest>Ani s veškerou jejich technologií a vojenským arzenálem nestačili na lidi z Commonwealthu, kteří se jim společně postavili.</Dest>
-    </String>
-    <String List="0" sID="013782">
-      <EDID>[0017B404]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>This was wrong</Source>
-      <Dest>Bylo to špatné</Dest>
     </String>
     <String List="2" sID="0137B4">
       <EDID>[00177E2A]</EDID>
@@ -547,23 +1111,11 @@
       <Source>So if that's true, then... uhh, I think we all owe her. Like, a lot.</Source>
       <Dest>Takže, jestli je to pravda tak... myslím, že jí všichni dlužíme. Jako fakt dost.</Dest>
     </String>
-    <String List="0" sID="0148DF">
-      <EDID>[00178E9C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't Love You</Source>
-      <Dest>Já tě nemiluji</Dest>
-    </String>
     <String List="2" sID="0149B1">
       <EDID>[00179761]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time for yet another slice of news from the Commonwealth, folks.</Source>
       <Dest>Je čas na další porci zpráv z Commonwealthu, přátelé.</Dest>
-    </String>
-    <String List="0" sID="0149B2">
-      <EDID>[0017A612]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I knew it would work</Source>
-      <Dest>Fungovalo to</Dest>
     </String>
     <String List="2" sID="0149C8">
       <EDID>[00179F72]</EDID>
@@ -588,12 +1140,6 @@
       <REC>INFO:NAM1</REC>
       <Source>It never hurts to have one more safe, reliable place in the Commonwealth.</Source>
       <Dest>Nikdy neškodí mít další bezpečné a spolehlivé místo v Commonwealthu.</Dest>
-    </String>
-    <String List="0" sID="014BED">
-      <EDID>[00176963]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Come With Me</Source>
-      <Dest>Pojď se mnou</Dest>
     </String>
     <String List="2" sID="014C6A">
       <EDID>[00178A89]</EDID>
@@ -624,12 +1170,6 @@
       <REC>INFO:NAM1</REC>
       <Source>I'm out of Stimpaks. I'll go find one.</Source>
       <Dest>Došli mi stimpaky. Půjdu jeden najít.</Dest>
-    </String>
-    <String List="0" sID="014E18">
-      <EDID>[0017B402]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm sorry</Source>
-      <Dest>Omlouvám se</Dest>
     </String>
     <String List="2" sID="014E67">
       <EDID>[00179F6F]</EDID>
@@ -690,12 +1230,6 @@
       <REC>INFO:NAM1</REC>
       <Source>See you around, pal.</Source>
       <Dest>Tak zas příště, kámo.</Dest>
-    </String>
-    <String List="0" sID="01538E">
-      <EDID>[00176976]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>On Second Thought</Source>
-      <Dest>Na druhou stranu</Dest>
     </String>
     <String List="2" sID="0153BC">
       <EDID>[00176963]</EDID>
@@ -859,12 +1393,6 @@
       <Source>Pest control.</Source>
       <Dest>Vyhubíme ty škůdce.</Dest>
     </String>
-    <String List="0" sID="016080">
-      <EDID>[00176962]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Why Should I?</Source>
-      <Dest>A proč?</Dest>
-    </String>
     <String List="2" sID="01612F">
       <EDID>[00175132]</EDID>
       <REC>INFO:NAM1</REC>
@@ -900,12 +1428,6 @@
       <REC>INFO:NAM1</REC>
       <Source>The Minutemen can do anything when we stand together.</Source>
       <Dest>Minutemani dokáží cokoli, když držíme společně.</Dest>
-    </String>
-    <String List="0" sID="016294">
-      <EDID>[00178A83]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'll take a beer</Source>
-      <Dest>Vezmu si pivo</Dest>
     </String>
     <String List="2" sID="0162BC">
       <EDID>[0017B45F]</EDID>
@@ -1213,23 +1735,11 @@
       <Source>Not, uhh... Well, it's not really my idea of... good company, but... whatever works for you, I guess.</Source>
       <Dest>Ne, uhh..., že by to byla moje představa... ideální společnosti, ale... asi vám to vyhovuje.</Dest>
     </String>
-    <String List="0" sID="0178A3">
-      <EDID>[0017695F]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I Mean It</Source>
-      <Dest>Myslím to tak</Dest>
-    </String>
     <String List="2" sID="01799C">
       <EDID>[00177E16]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Should you happen to spot the man - and believe me, you'd recognize him - don't hesitate to get word to Nick Valentine.</Source>
       <Dest>Kdybyste ho náhodou viděli - a to mi věřte, že byste ho poznali - neváhejte a řekněte to Nicku Valentineovi.</Dest>
-    </String>
-    <String List="0" sID="017A3F">
-      <EDID>[00178EA0]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Still Love You</Source>
-      <Dest>Pořád tě miluji</Dest>
     </String>
     <String List="2" sID="017A95">
       <EDID>[0017974C]</EDID>
@@ -1314,12 +1824,6 @@
       <REC>INFO:NAM1</REC>
       <Source>I'm sorry.</Source>
       <Dest>Omlouvám se.</Dest>
-    </String>
-    <String List="0" sID="01800C">
-      <EDID>[0017695E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not My Son</Source>
-      <Dest>Nejsi můj syn</Dest>
     </String>
     <String List="2" sID="0180BA">
       <EDID>[00177E23]</EDID>
@@ -1525,12 +2029,6 @@
       <Source>We're the Minutemen, goldurnit, and that means we've always got to be ready for the next fight.</Source>
       <Dest>Jsme Minutemani, zatroleně, a to znamená, že vždy budeme připraveni k boji.</Dest>
     </String>
-    <String List="0" sID="019295">
-      <EDID>[0017B409]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>He was my friend</Source>
-      <Dest>Byl to můj přítel</Dest>
-    </String>
     <String List="2" sID="019334">
       <EDID>[0017C93A]</EDID>
       <REC>INFO:NAM1</REC>
@@ -1633,12 +2131,6 @@
       <Source>I have heard where you might find one.</Source>
       <Dest>Slyšel jsem, kde by se dal jeden najít.</Dest>
     </String>
-    <String List="0" sID="019C89">
-      <EDID>[0017696B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Dad?</Source>
-      <Dest>Tati?</Dest>
-    </String>
     <String List="2" sID="019CB8">
       <EDID>[00179B30]</EDID>
       <REC id="1">INFO:NAM1</REC>
@@ -1680,12 +2172,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Also it sounds like maybe the, uhh... the Minutemen were involved in this. I thought... well, I thought they were kind of done for...</Source>
       <Dest>A také to vypadá, že do toho mohli být zapletení Minutemani. Což je překvapením, protože jsem si... no, myslel, že už to mají tak nějak spočítané.</Dest>
-    </String>
-    <String List="0" sID="01A251">
-      <EDID>[00178A7A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not yet</Source>
-      <Dest>Ještě ne</Dest>
     </String>
     <String List="2" sID="01A285">
       <EDID>[00178EF4]</EDID>
@@ -1813,12 +2299,6 @@
       <Source>I guess if you are out there, good luck not getting caught.</Source>
       <Dest>Pokud jste tam venku, tak vám doporučuji, abyste se nenechali chytit.</Dest>
     </String>
-    <String List="0" sID="01AAC8">
-      <EDID>[0017B400]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Danse's Corpse</Source>
-      <Dest>Dansova mrtvola</Dest>
-    </String>
     <String List="2" sID="01AB2F">
       <EDID>[00179F6A]</EDID>
       <REC>INFO:NAM1</REC>
@@ -1872,12 +2352,6 @@
       <REC>INFO:NAM1</REC>
       <Source>The settlement of, uhh, Sanctuary has I guess been founded to the, uhh, the northwest.</Source>
       <Dest>Osada, uhh, která se nazývá Sanctuary byla pravděpodobně zřízena na severozápadě.</Dest>
-    </String>
-    <String List="0" sID="01AEC7">
-      <EDID>[00178E9A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not Your Father</Source>
-      <Dest>Nejsem tvůj otec</Dest>
     </String>
     <String List="2" sID="01AEEC">
       <EDID>[0017B457]</EDID>
@@ -1986,12 +2460,6 @@
       <REC>INFO:NAM1</REC>
       <Source>We've been hit, but she's holding together.</Source>
       <Dest>Byli jsme zasaženi, ale držíme pohromadě.</Dest>
-    </String>
-    <String List="0" sID="01B68A">
-      <EDID>[00179175]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Let Him Die</Source>
-      <Dest>Nechat ho zemřít</Dest>
     </String>
     <String List="2" sID="01B6A1">
       <EDID>[0017B404]</EDID>
@@ -2263,12 +2731,6 @@
       <Source>Well, I guess, uhh... Someone went in there and, uhh, kind of tore the place up. And there are, uhh... rumors, just rumors... that it was the, uhh, Institute.</Source>
       <Dest>No, vypadá to, uhh... že tam někdo šel a rozebral to místo na kousíčky. A šíří se, uhh... zvěsti, že, jsou to teda jen zvěsti..., že ten někdo byl Institut.</Dest>
     </String>
-    <String List="0" sID="01CCB1">
-      <EDID>[00178E96]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Sarcastic</Source>
-      <Dest>Sarkasticky</Dest>
-    </String>
     <String List="2" sID="01CCBA">
       <EDID>[0017C9B0]</EDID>
       <REC>INFO:NAM1</REC>
@@ -2317,12 +2779,6 @@
       <Source>In, like, the upper ranks. Is there, uhh, is there a word for that? I don't know... but maybe like, people not getting along or something...</Source>
       <Dest>Někdo s vyšší hodností. Existuje pro to, uhh, nějaké slovo? Nevím... ale možná něco v tom smyslu, že se lidi moc nesnesou...</Dest>
     </String>
-    <String List="0" sID="01D150">
-      <EDID>[00176967]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't Believe Me?</Source>
-      <Dest>Ty mi nevěříš?</Dest>
-    </String>
     <String List="2" sID="01D208">
       <EDID>[0017D09D]</EDID>
       <REC>INFO:NAM1</REC>
@@ -2370,12 +2826,6 @@
       <REC>INFO:NAM1</REC>
       <Source>It's true. Today really showed that.</Source>
       <Dest>To je pravda. Dnešek je ukázkovým případem.</Dest>
-    </String>
-    <String List="0" sID="01D6BE">
-      <EDID>[00178A87]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>No thanks</Source>
-      <Dest>Ne, děkuji</Dest>
     </String>
     <String List="2" sID="01D74A">
       <EDID>[00178EDB]</EDID>
@@ -2665,41 +3115,17 @@
       <Source>I can't... I can't feel my legs...</Source>
       <Dest>Necítím... necítím nohy...</Dest>
     </String>
-    <String List="0" sID="01E37B">
-      <EDID>[0017919B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Give Stimpak</Source>
-      <Dest>Dát stimpak</Dest>
-    </String>
     <String List="2" sID="01E37F">
       <EDID>[0017919B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Quick. Take this Stimpak.</Source>
       <Dest>Rychle. Vezmi si stimpak.</Dest>
     </String>
-    <String List="0" sID="01E382">
-      <EDID>[0017919A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Curie Can Help</Source>
-      <Dest>Curie může pomoct</Dest>
-    </String>
     <String List="2" sID="01E383">
       <EDID>[0017919A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hold on. My friend here can help.</Source>
       <Dest>Vydrž. Moje parťačka ti pomůže.</Dest>
-    </String>
-    <String List="0" sID="01E384">
-      <EDID>[00179178]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Hold On</Source>
-      <Dest>Vydrž</Dest>
-    </String>
-    <String List="0" sID="01E385">
-      <EDID>[0017917A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>What Happened?</Source>
-      <Dest>Co se stalo?</Dest>
     </String>
     <String List="2" sID="01E386">
       <EDID>[0017917A]</EDID>
@@ -2929,12 +3355,6 @@
       <Source>I'm ready.</Source>
       <Dest>Můžeme.</Dest>
     </String>
-    <String List="0" sID="01E40B">
-      <EDID>[00178A80]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Changed my mind</Source>
-      <Dest>Měním názor</Dest>
-    </String>
     <String List="2" sID="01E40C">
       <EDID>[00178A80]</EDID>
       <REC>INFO:NAM1</REC>
@@ -3109,12 +3529,6 @@
       <Source> </Source>
       <Dest> </Dest>
     </String>
-    <String List="0" sID="01F4EF">
-      <EDID>[0017919C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Give Stimpak</Source>
-      <Dest>Dát stimpak</Dest>
-    </String>
     <String List="2" sID="01F4F3">
       <EDID>[001768E8]</EDID>
       <REC>INFO:NAM1</REC>
@@ -3217,12 +3631,6 @@
       <Source>There are rumors circulating that the Institute was somehow involved. Now, I know they come up every time something bad or unexplained happens...</Source>
       <Dest>Šíří se zvěsti, že do toho byl nějak zapojen Institut. Objeví se totiž vždy, když se stane něco špatného nebo nečekaného...</Dest>
     </String>
-    <String List="0" sID="01FEBD">
-      <EDID>[0017A605]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>We got lucky</Source>
-      <Dest>Měli jsme štěstí</Dest>
-    </String>
     <String List="2" sID="01FF3A">
       <EDID>[0017978F]</EDID>
       <REC>INFO:NAM1</REC>
@@ -3234,12 +3642,6 @@
       <REC>INFO:NAM1</REC>
       <Source>We were sweeping an old metro station when a bunch of ferals swarmed my squad. Minigun turned them into hamburger.</Source>
       <Dest>Přespávali jsme v opuštěné stanici metra, když v tom se na moji skupinu vyrojili divocí. Rotačák z nich nadělal sekanou.</Dest>
-    </String>
-    <String List="0" sID="020085">
-      <EDID>[0017696F]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>You're A Robot</Source>
-      <Dest>Jsi robot</Dest>
     </String>
     <String List="2" sID="020192">
       <EDID>[00178E97]</EDID>
@@ -3619,12 +4021,6 @@
       <Source>Y'know that big ship... the, uhh, the old sailing ship? The, uhh, the one that's on top of a building downtown?</Source>
       <Dest>Slyšeli jste o té velké lodi... té staré lodi? Té, která se nachází na jedné z budov v centru?</Dest>
     </String>
-    <String List="0" sID="02178C">
-      <EDID>[0017A60E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Brotherhood not defeated</Source>
-      <Dest>Bratrstvo není poraženo</Dest>
-    </String>
     <String List="2" sID="02183A">
       <EDID>[00178EE0]</EDID>
       <REC>INFO:NAM1</REC>
@@ -3840,12 +4236,6 @@
       <REC>INFO:NAM1</REC>
       <Source>But the, uhh... The Railroad pretty clearly means business. I'll... I'll let you know if I hear anything else.</Source>
       <Dest>Ale, uhh... Železnice to myslí dost vážně. Já... dám vám vědět, jestli se dozvím víc.</Dest>
-    </String>
-    <String List="0" sID="022A72">
-      <EDID>[00176969]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not Happening</Source>
-      <Dest>To se nestane</Dest>
     </String>
     <String List="2" sID="022B1E">
       <EDID>[0017C9EC]</EDID>
@@ -4411,12 +4801,6 @@
       <Source>There is a band called one thousand and twenty three megabytes.</Source>
       <Dest>Existuje kapela jménem „Tisíc dvacet tři kilobytů“...</Dest>
     </String>
-    <String List="0" sID="025054">
-      <EDID>[0017A609]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Minutemen are strong</Source>
-      <Dest>Minutemani jsou silní</Dest>
-    </String>
     <String List="2" sID="02514C">
       <EDID>[00179735]</EDID>
       <REC>INFO:NAM1</REC>
@@ -4560,12 +4944,6 @@
       <REC>INFO:NAM1</REC>
       <Source>I guess they used artillery... or something... and shot down the, uhh, the airship that's been parked at Boston Airport.</Source>
       <Dest>Vypadá to, že použili dělostřelectvo... nebo něco takového... a sestřelili, uhh, vzducholoď, která se nacházela nad bostonským letištěm.</Dest>
-    </String>
-    <String List="0" sID="025966">
-      <EDID>[00178E98]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Unfair Question</Source>
-      <Dest>Neférová otázka</Dest>
     </String>
     <String List="2" sID="0259FF">
       <EDID>[0018AF9D]</EDID>
@@ -4735,12 +5113,6 @@
       <Source>So it sounds like the, uhh, the Railroad may really be out there, and uhh... they might be up to some things.</Source>
       <Dest>Podle všeho, uhh, tam Železnice vážně je a uhh... něco chystají.</Dest>
     </String>
-    <String List="0" sID="026726">
-      <EDID>[00178E9E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm Your Father</Source>
-      <Dest>Jsem tvůj otec</Dest>
-    </String>
     <String List="2" sID="0267CD">
       <EDID>[00179726]</EDID>
       <REC>INFO:NAM1</REC>
@@ -4854,12 +5226,6 @@
       <REC>INFO:NAM1</REC>
       <Source>So... that was a lucky break. Maybe... maybe this means they won't try it again. On anyone else, I mean. Like, anyone in Diamond City.</Source>
       <Dest>Takže... to dopadlo dobře. Možná... možná to znamená, že už Institut něco takového nezkusí. Na nikoho jiného, chci říct, na nikoho z Diamond City.</Dest>
-    </String>
-    <String List="0" sID="02712D">
-      <EDID>[0017695B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Come With Me</Source>
-      <Dest>Pojď se mnou</Dest>
     </String>
     <String List="2" sID="0271F9">
       <EDID>[00179730]</EDID>
@@ -5023,12 +5389,6 @@
       <Source>Thanks to the actions of our favorite Vault Dweller, Rex will hopefully lead a long, happy life free of the clutches of Super Mutants.</Source>
       <Dest>Díky zásahu našeho oblíbeného obyvatele vaultu, bude Rex doufejme žít dlouhý a spokojený život mimo dosah supermutantů.</Dest>
     </String>
-    <String List="0" sID="0283AC">
-      <EDID>[00178A89]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Home?</Source>
-      <Dest>Domov?</Dest>
-    </String>
     <String List="2" sID="028413">
       <EDID>[00177E13]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5118,24 +5478,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Shaun's acting up. Could you help?</Source>
       <Dest>Shaun vyvádí. Pomohla bys mi?</Dest>
-    </String>
-    <String List="0" sID="02910A">
-      <EDID>[00198E1C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Working on it</Source>
-      <Dest>Pracuji na tom</Dest>
-    </String>
-    <String List="0" sID="029167">
-      <EDID>[00198E20]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Tell me a joke</Source>
-      <Dest>Řekni mi vtip</Dest>
-    </String>
-    <String List="0" sID="029187">
-      <EDID>[00198E21]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Tell me a joke</Source>
-      <Dest>Řekni mi vtip</Dest>
     </String>
     <String List="2" sID="029259">
       <EDID>[00198E1D]</EDID>
@@ -5389,12 +5731,6 @@
       <Source>Current home parameter is set to Hotel Rexford.</Source>
       <Dest>Parametr domova je nastaven na hotel Rexford.</Dest>
     </String>
-    <String List="0" sID="02C3AF">
-      <EDID>[0009721E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I've sold you</Source>
-      <Dest>Už mi nepatříš</Dest>
-    </String>
     <String List="2" sID="02C3D3">
       <EDID>MQ203BabyCrying01</EDID>
       <REC>INFO:NAM1</REC>
@@ -5418,12 +5754,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Can I still change the home parameter?</Source>
       <Dest>Můžu ještě změnit nastavení domova?</Dest>
-    </String>
-    <String List="0" sID="02C505">
-      <EDID>[0009725B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Change home parameter?</Source>
-      <Dest>Změnit nastavení domova?</Dest>
     </String>
     <String List="2" sID="02C6BF">
       <EDID>[000AA184]</EDID>
@@ -5503,12 +5833,6 @@
       <Source>I hope that convinces them not to try hitting us again any time soon.</Source>
       <Dest>Doufám, že to je na nějakou dobu přesvědčí, že si na nás nemají dovolovat.</Dest>
     </String>
-    <String List="0" sID="02DE56">
-      <EDID>[0017668E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Sarcastic</Source>
-      <Dest>Sarkasticky</Dest>
-    </String>
     <String List="2" sID="02DEE6">
       <EDID>[00157500]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5533,12 +5857,6 @@
       <Source>To put things in perspective, I suppose.</Source>
       <Dest>Asi abych to viděl na vlastní oči.</Dest>
     </String>
-    <String List="0" sID="02DF7D">
-      <EDID>[00176660]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I Was The Backup</Source>
-      <Dest>Řekli, že jsem záloha</Dest>
-    </String>
     <String List="2" sID="02E01F">
       <EDID>[001574F8]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5551,12 +5869,6 @@
       <Source>Who told you that I was your mother?</Source>
       <Dest>Kdo ti řekl, že jsem tvá matka?</Dest>
     </String>
-    <String List="0" sID="02E0A7">
-      <EDID>[001574F7]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm Your Mother</Source>
-      <Dest>Jsem tvá matka</Dest>
-    </String>
     <String List="2" sID="02E0F9">
       <EDID>[0015E013]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5568,24 +5880,6 @@
       <REC>INFO:NAM1</REC>
       <Source>I know that to you, I was kidnapped from that Vault. In truth, the Institute rescued me.</Source>
       <Dest>Vím, že pro tebe jsem byl z vaultu unesen. Ale vlastně mě Institut zachránil.</Dest>
-    </String>
-    <String List="0" sID="02E13A">
-      <EDID>[001766C1]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>And Me?</Source>
-      <Dest>A mě?</Dest>
-    </String>
-    <String List="0" sID="02E13E">
-      <EDID>[001766B5]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Used To Be Different</Source>
-      <Dest>Bývalo to jiné</Dest>
-    </String>
-    <String List="0" sID="02E199">
-      <EDID>[001574F8]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Mom?</Source>
-      <Dest>Mami?</Dest>
     </String>
     <String List="2" sID="02E1B0">
       <EDID>[0017666F]</EDID>
@@ -5629,23 +5923,11 @@
       <Source>You've doomed humanity... you know that?</Source>
       <Dest>Lidstvo díky tobě zanikne... víš to?</Dest>
     </String>
-    <String List="0" sID="02E2D2">
-      <EDID>[001574F6]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Says Who?</Source>
-      <Dest>Kdo ti to řekl?</Dest>
-    </String>
     <String List="2" sID="02E2E8">
       <EDID>[001574F7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Right, of course. I'm your mother.</Source>
       <Dest>Samozřejmě že máš pravdu. Jsem tvá matka.</Dest>
-    </String>
-    <String List="0" sID="02E3B6">
-      <EDID>[0017664A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not So Bad</Source>
-      <Dest>Není to tak špatné</Dest>
     </String>
     <String List="2" sID="02E3C9">
       <EDID>[0017668B]</EDID>
@@ -5689,30 +5971,6 @@
       <Source>Just... get out.</Source>
       <Dest>Jdi... jdi pryč.</Dest>
     </String>
-    <String List="0" sID="02E609">
-      <EDID>[00176674]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Why Come Out Here?</Source>
-      <Dest>Proč chodit na povrch?</Dest>
-    </String>
-    <String List="0" sID="02E615">
-      <EDID>[00176677]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>They Left Me Frozen</Source>
-      <Dest>Nechali mě zmrznout</Dest>
-    </String>
-    <String List="0" sID="02E640">
-      <EDID>[001574FF]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not Your Mother</Source>
-      <Dest>Nejsem tvá matka</Dest>
-    </String>
-    <String List="0" sID="02E6BB">
-      <EDID>[00176694]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>They Kept Me Alive</Source>
-      <Dest>Nechali mě naživu</Dest>
-    </String>
     <String List="2" sID="02E6F5">
       <EDID>[0017C654]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5725,12 +5983,6 @@
       <Source>Check our supply depot at the airport or see what Proctor Teagan has for sale. I'm betting you can find most of it locally.</Source>
       <Dest>Zajdi se podívat do letištního zásobovacího centra nebo navštiv proktora Teagana a zjisti, co má na prodej. Vsadím se, že tu většinu z toho seženeš.</Dest>
     </String>
-    <String List="0" sID="02E700">
-      <EDID>[00177EB2]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Won't help</Source>
-      <Dest>To nepomůže</Dest>
-    </String>
     <String List="2" sID="02E70F">
       <EDID>[0017BD47]</EDID>
       <REC id="3">INFO:NAM1</REC>
@@ -5742,12 +5994,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Hey, Buddy.</Source>
       <Dest>Parťáku.</Dest>
-    </String>
-    <String List="0" sID="02E74C">
-      <EDID>[0017C65A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Sick friend</Source>
-      <Dest>Nemocný přítel</Dest>
     </String>
     <String List="2" sID="02E754">
       <EDID>[0017C385]</EDID>
@@ -5809,12 +6055,6 @@
       <Source>But not anymore. I'm cutting off his useless ass.</Source>
       <Dest>Ale s tím je konec. Už tomu hlupákovi nic dávat nebudu.</Dest>
     </String>
-    <String List="0" sID="02E797">
-      <EDID>[00177EF3]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Why supply him?</Source>
-      <Dest>Proč ho v tom podporovat?</Dest>
-    </String>
     <String List="2" sID="02E7A2">
       <EDID>[0017C391]</EDID>
       <REC>INFO:NAM1</REC>
@@ -5826,12 +6066,6 @@
       <REC>INFO:NAM1</REC>
       <Source>Bring your friend by the medical center, then, and I will administer the treatment.</Source>
       <Dest>Pak přiveď svého přítele do lékařského centra a já budu moct zahájit léčbu.</Dest>
-    </String>
-    <String List="0" sID="02E7B9">
-      <EDID>[0017C658]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Looking for Jet</Source>
-      <Dest>Sháním jet</Dest>
     </String>
     <String List="2" sID="02E7C1">
       <EDID>[0017BDD5]</EDID>
@@ -5863,35 +6097,11 @@
       <Source>Thanks again for helping us out, Paladin. The entire maintenance crew appreciates what you're doing.</Source>
       <Dest>Ještě jednou ti děkujeme, paladine. Všichni, kdo mají na starosti údržbu si váží toho, co děláš.</Dest>
     </String>
-    <String List="0" sID="02E81A">
-      <EDID>[0017C654]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm fine</Source>
-      <Dest>Já jsem v pořádku</Dest>
-    </String>
-    <String List="0" sID="02E821">
-      <EDID>[0017C383]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't be angry</Source>
-      <Dest>Nezlob se</Dest>
-    </String>
     <String List="2" sID="02E826">
       <EDID>[0017BCA8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Are synths still a threat?</Source>
       <Dest>Syntetici jsou pořád hrozbou?</Dest>
-    </String>
-    <String List="0" sID="02E82D">
-      <EDID>[0017BDD5]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't worry</Source>
-      <Dest>Neboj se</Dest>
-    </String>
-    <String List="0" sID="02E84C">
-      <EDID>[0017C1A9]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Want to quit?</Source>
-      <Dest>Chceš skončit?</Dest>
     </String>
     <String List="2" sID="02E868">
       <EDID>[0017C1A9]</EDID>
@@ -5917,23 +6127,11 @@
       <Source>Therefore, I felt I owed you an apology and I'm ready to accept my reprimand.</Source>
       <Dest>A proto cítím, že ti dlužím omluvu a jsem připraven přijmout napomenutí.</Dest>
     </String>
-    <String List="0" sID="02E896">
-      <EDID>[0017BDC0]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Treated me?</Source>
-      <Dest>Jak ses choval?</Dest>
-    </String>
     <String List="2" sID="02E89A">
       <EDID>[00187730]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hey there, Clair.</Source>
       <Dest>Zdravím, Clair.</Dest>
-    </String>
-    <String List="0" sID="02E8A2">
-      <EDID>[0017BCA8]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Synth Threat?</Source>
-      <Dest>Hrozba syntetiků?</Dest>
     </String>
     <String List="2" sID="02E8AD">
       <EDID>[0017BCAA]</EDID>
@@ -5964,12 +6162,6 @@
       <REC>INFO:NAM1</REC>
       <Source>If it's any consolation, I'd just like to say that I'm honored to be serving with you and I hope you'll continue to bring glory to the Brotherhood.</Source>
       <Dest>Jestli to nějak pomůže, tak bych rád řekl, že sloužit s tebou byla čest a doufám, že budeš dál přinášet slávu Bratrstvu.</Dest>
-    </String>
-    <String List="0" sID="02E8C6">
-      <EDID>[0017C38E]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Forgive me</Source>
-      <Dest>Odpusť mi</Dest>
     </String>
     <String List="2" sID="02E8D7">
       <EDID>[00177E68]</EDID>
@@ -6037,12 +6229,6 @@
       <Source>I'm not sure I have time to look for that.</Source>
       <Dest>Nevím, jestli budu mít čas to hledat.</Dest>
     </String>
-    <String List="0" sID="02E93D">
-      <EDID>[0017C312]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Waste of space</Source>
-      <Dest>Jsi k ničemu</Dest>
-    </String>
     <String List="2" sID="02E976">
       <EDID>[0017BD47]</EDID>
       <REC id="1">INFO:NAM1</REC>
@@ -6061,18 +6247,6 @@
       <Source>You're just a waste of space. I couldn't care less what you do.</Source>
       <Dest>Jsi úplně k ničemu. Už mi nemůže být víc jedno, co budeš dělat.</Dest>
     </String>
-    <String List="0" sID="02E98D">
-      <EDID>[0017C663]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Never mind</Source>
-      <Dest>Vlastně ne</Dest>
-    </String>
-    <String List="0" sID="02E99E">
-      <EDID>[0017BC76]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Isn't necessary</Source>
-      <Dest>To není nutné</Dest>
-    </String>
     <String List="2" sID="02E9A3">
       <EDID>[0017C384]</EDID>
       <REC id="2">INFO:NAM1</REC>
@@ -6090,12 +6264,6 @@
       <REC>INFO:NAM1</REC>
       <Source>I need help finding some of the ingredients.</Source>
       <Dest>Potřebuji poradit, kde najít nějaké přísady.</Dest>
-    </String>
-    <String List="0" sID="02E9C6">
-      <EDID>[0017BD48]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Never heard of it</Source>
-      <Dest>O tom slyším prvně</Dest>
     </String>
     <String List="2" sID="02E9C9">
       <EDID>[0017C38D]</EDID>
@@ -6132,12 +6300,6 @@
       <REC id="2">INFO:NAM1</REC>
       <Source>If the coolant's good, then I'll even pay you for it as per our retrieval compensation policy.</Source>
       <Dest>Jestli bude chladicí kapalina dobrá, pak ti i zaplatím jako kompenzaci za veškeré problémy.</Dest>
-    </String>
-    <String List="0" sID="02EA74">
-      <EDID>[0017C311]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Have some Jet</Source>
-      <Dest>Dej si jet</Dest>
     </String>
     <String List="2" sID="02EA7A">
       <EDID>[0017C2E3]</EDID>
@@ -6211,12 +6373,6 @@
       <Source>Besides, I like getting high. It's the only way to pass the time in 81.</Source>
       <Dest>A krom toho se mi líbí, když se sjedu. Je to jedinej rozumnej způsob, jak si krátit čas v 81.</Dest>
     </String>
-    <String List="0" sID="02EAD8">
-      <EDID>[0017BC7B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Ingredient Help</Source>
-      <Dest>Pomoc s přísadami</Dest>
-    </String>
     <String List="2" sID="02EADA">
       <EDID>[0017BE34]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6283,23 +6439,11 @@
       <Source>Hey, I didn't expect to keep this floating pile of steel aloft this long and the coolant isn't exactly easy to find.</Source>
       <Dest>Hele, sama jsem nečekala, že tenhle kus oceli udržím ve vzduchu tak dlouho a chladicí kapalinu taky člověk nenajde na každém kroku.</Dest>
     </String>
-    <String List="0" sID="02EB82">
-      <EDID>[0017C388]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>You're still angry?</Source>
-      <Dest>Pořád se zlobíš?</Dest>
-    </String>
     <String List="2" sID="02EB95">
       <EDID>[00177533]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>You may want to stop by our medical center. Dr. Forsythe or Rachel could help you with that.</Source>
       <Dest>Možná by nebylo od věci navštívit naše lékařské centrum. Doktor Forsythe nebo Rachel by ti s tím mohli pomoct.</Dest>
-    </String>
-    <String List="0" sID="02EBA0">
-      <EDID>[0017C395]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Work together?</Source>
-      <Dest>Spolupracovat?</Dest>
     </String>
     <String List="2" sID="02EBA5">
       <EDID>[0017C65B]</EDID>
@@ -6355,23 +6499,11 @@
       <Source>Well, judging from your actions and from the way you've embraced the ideals of the Brotherhood, I was clearly wrong.</Source>
       <Dest>No, soudě podle tvého chování a způsobu chopení se ideálů Bratrstva, se zdá, že jsem se mýlil.</Dest>
     </String>
-    <String List="0" sID="02EC37">
-      <EDID>[0017C2CE]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Your choice</Source>
-      <Dest>Tvá volba</Dest>
-    </String>
     <String List="2" sID="02EC3C">
       <EDID>[0017BE36]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Was there anything else?</Source>
       <Dest>Ještě něco?</Dest>
-    </String>
-    <String List="0" sID="02EC46">
-      <EDID>[0017BCA9]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>I'm tempted</Source>
-      <Dest>Láká mě to</Dest>
     </String>
     <String List="2" sID="02EC63">
       <EDID>[0017C2E9]</EDID>
@@ -6409,12 +6541,6 @@
       <Source>Thank you, sir.</Source>
       <Dest>Děkuji vám, pane.</Dest>
     </String>
-    <String List="0" sID="02ECA2">
-      <EDID>[0017BC7A]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>You don't have enough?</Source>
-      <Dest>Nemáte toho dost?</Dest>
-    </String>
     <String List="2" sID="02ECC2">
       <EDID>[0017C1B7]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6439,12 +6565,6 @@
       <Source>Low levels of radiation. Not bad, considering.</Source>
       <Dest>Nízká úroveň radiace. Nic závažného, vzhledem k okolnostem.</Dest>
     </String>
-    <String List="0" sID="02ECCE">
-      <EDID>[0017BCD6]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't have time</Source>
-      <Dest>Nemám čas</Dest>
-    </String>
     <String List="2" sID="02ECCF">
       <EDID>[0017BCFE]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6468,12 +6588,6 @@
       <REC>INFO:NAM1</REC>
       <Source>You stop this insubordination right now, and I won't have you brought up on charges.</Source>
       <Dest>Jestli se okamžitě ukázníš, nebudu to muset jakkoli dál řešit.</Dest>
-    </String>
-    <String List="0" sID="02ED19">
-      <EDID>[00177EE9]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Good</Source>
-      <Dest>Dobře</Dest>
     </String>
     <String List="2" sID="02ED24">
       <EDID>[0017BDD7]</EDID>
@@ -6505,12 +6619,6 @@
       <Source>I have duties to attend to, and so do you.</Source>
       <Dest>Mám práci a myslím, že ty taky.</Dest>
     </String>
-    <String List="0" sID="02ED64">
-      <EDID>[0017C386]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't know what to say</Source>
-      <Dest>Nevím, co říct</Dest>
-    </String>
     <String List="2" sID="02ED6E">
       <EDID>[00178EBF]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6523,29 +6631,11 @@
       <Source>Well, keep your eyes open... we really need that coolant.</Source>
       <Dest>Tak v tom případě hledej dál... tu chladicí kapalinu vážně potřebujeme.</Dest>
     </String>
-    <String List="0" sID="02ED9B">
-      <EDID>[0017BCDB]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>No</Source>
-      <Dest>Ne</Dest>
-    </String>
-    <String List="0" sID="02EDA9">
-      <EDID>[0017BD93]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>My responsibilities?</Source>
-      <Dest>Mé povinnosti?</Dest>
-    </String>
     <String List="2" sID="02EDAE">
       <EDID>[00178F1F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Flush 'em out!</Source>
       <Dest>Srovnejte je se zemí!</Dest>
-    </String>
-    <String List="0" sID="02EDAF">
-      <EDID>[0017C38B]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>What's the difference</Source>
-      <Dest>Co to změní</Dest>
     </String>
     <String List="2" sID="02EDB3">
       <EDID>[0017C2F5]</EDID>
@@ -6667,12 +6757,6 @@
       <Source>If I had all of the ingredients, I'd just make the Reactor Coolant myself.</Source>
       <Dest>Kdybych měla všechny přísady, smíchala bych si chladivo sama.</Dest>
     </String>
-    <String List="0" sID="02EFA0">
-      <EDID>[0017C65F]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Treat addiction?</Source>
-      <Dest>Léčba závislosti?</Dest>
-    </String>
     <String List="2" sID="02EFBC">
       <EDID>[0017C2C9]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6721,12 +6805,6 @@
       <Source>He's my brother, and he's overworked. I give him a little Jet, and he perks up. He seems happy, I feel better. Done.</Source>
       <Dest>Je to můj bratr a je přepracovaný. Když mu dám trochu jetu, tak ožije. Zdá se být šťastný a já se cítím lépe. Konec.</Dest>
     </String>
-    <String List="0" sID="02F054">
-      <EDID>[00177EB7]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Your fault</Source>
-      <Dest>Můžeš za to ty</Dest>
-    </String>
     <String List="2" sID="02F065">
       <EDID>[0017C65A]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6738,12 +6816,6 @@
       <REC>INFO:NAM1</REC>
       <Source>No, sorry.</Source>
       <Dest>Ne, bohužel.</Dest>
-    </String>
-    <String List="0" sID="02F076">
-      <EDID>[0017C392]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Don't talk to me like that</Source>
-      <Dest>Takhle se mnou nemluv</Dest>
     </String>
     <String List="2" sID="02F078">
       <EDID>[00177F08]</EDID>
@@ -6763,12 +6835,6 @@
       <Source>Hey there, Fred.</Source>
       <Dest>Zdravím, Frede.</Dest>
     </String>
-    <String List="0" sID="02F0D6">
-      <EDID>[0017C656]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Looking for Jet</Source>
-      <Dest>Sháním jet</Dest>
-    </String>
     <String List="2" sID="02F0F4">
       <EDID>[001776D9]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6786,24 +6852,6 @@
       <REC id="0">INFO:NAM1</REC>
       <Source>Hmm. Radiation levels are pretty high.</Source>
       <Dest>Hmm. Úrovně radiace jsou zde docela vysoké.</Dest>
-    </String>
-    <String List="0" sID="02F13C">
-      <EDID>[0017BC75]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Help Brotherhood?</Source>
-      <Dest>Pomoc Bratrstvu?</Dest>
-    </String>
-    <String List="0" sID="02F14F">
-      <EDID>[0017C65C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>For Bobby</Source>
-      <Dest>Pro Bobbyho</Dest>
-    </String>
-    <String List="0" sID="02F152">
-      <EDID>[0017BD82]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Make Reactor Coolant?</Source>
-      <Dest>Vyrobit chladicí kapalinu do reaktoru?</Dest>
     </String>
     <String List="2" sID="02F15D">
       <EDID>[0017BC77]</EDID>
@@ -6931,12 +6979,6 @@
       <Source>You have an addiction, but it's your choice to quit.</Source>
       <Dest>Jsi závislý, ale je na tobě, jestli skončiš.</Dest>
     </String>
-    <String List="0" sID="02F2A5">
-      <EDID>[0017C19C]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Get help</Source>
-      <Dest>Sehnat pomoc</Dest>
-    </String>
     <String List="2" sID="02F2A8">
       <EDID>[0017BDBF]</EDID>
       <REC>INFO:NAM1</REC>
@@ -6991,12 +7033,6 @@
       <Source>Find the materials, whip some of it up at any of the chemistry stations on the ship and bring them to me. Pretty simple.</Source>
       <Dest>Najdi materiály, smíchej je u některé chemické stanice na lodi a přines mi je. Nic složitého.</Dest>
     </String>
-    <String List="0" sID="02F316">
-      <EDID>[0017C1B7]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Decent?</Source>
-      <Dest>Slušná?</Dest>
-    </String>
     <String List="2" sID="02F326">
       <EDID>[0017C395]</EDID>
       <REC>INFO:NAM1</REC>
@@ -7009,35 +7045,11 @@
       <Source>Are you out of your mind?</Source>
       <Dest>Přeskočilo ti?</Dest>
     </String>
-    <String List="0" sID="02F359">
-      <EDID>[0017BD76]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Yes</Source>
-      <Dest>Ano</Dest>
-    </String>
-    <String List="0" sID="02F35D">
-      <EDID>[0017C661]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Addictol?</Source>
-      <Dest>Addictol?</Dest>
-    </String>
     <String List="2" sID="02F365">
       <EDID>[0017C19C]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You need to get help, Bobby. Go see Rachel. She has medicine that will help you.</Source>
       <Dest>Potřebuješ pomoc, Bobby. Zajdi za Rachel. Má léky, co ti pomůžou.</Dest>
-    </String>
-    <String List="0" sID="02F368">
-      <EDID>[0017BCFE]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Apology accepted</Source>
-      <Dest>Omluva přijata</Dest>
-    </String>
-    <String List="0" sID="02F36C">
-      <EDID>[0017C389]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Stop the insubordination</Source>
-      <Dest>Ukázni se</Dest>
     </String>
     <String List="2" sID="02F36E">
       <EDID>[00177EF1]</EDID>
@@ -7062,12 +7074,6 @@
       <REC id="0">INFO:NAM1</REC>
       <Source>The slippery bastard got away before.</Source>
       <Dest>Ten bastard vyklouz už dřív.</Dest>
-    </String>
-    <String List="0" sID="02F39F">
-      <EDID>[0017BCF6]</EDID>
-      <REC>INFO:RNAM</REC>
-      <Source>Not right now</Source>
-      <Dest>To je všechno</Dest>
     </String>
     <String List="2" sID="02F3A8">
       <EDID>[0017C30B]</EDID>
@@ -7191,3 +7197,4 @@
     </String>
   </Content>
 </SSTXMLRessources>
+
