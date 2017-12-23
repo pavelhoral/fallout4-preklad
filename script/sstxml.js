@@ -108,14 +108,15 @@ program.
     option('-s, --source <file>', 'source sstxml file').
     action((files, options) => {
         var sourceStrings = {};
-        readXml(options.source).Content.String.forEach(string => sourceStrings[string.$.sID] = string.Dest);
+        readXml(options.source).Content.String.forEach(string => sourceStrings[string.$.sID] = string);
         files.forEach(file => {
             var xmlObject = readXml(file),
                 updateCount = 0;
             xmlObject.Content.String.forEach(string => {
                 var overlayString = sourceStrings[string.$.sID];
-                if (overlayString && string.Dest !== overlayString) {
-                    string.Dest = overlayString;
+                if (overlayString && string.Dest !== overlayString.Dest) {
+                    string.$ = overlayString.$;
+                    string.Dest = overlayString.Dest;
                     updateCount++;
                 }
             });
