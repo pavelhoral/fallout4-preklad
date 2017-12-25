@@ -69,7 +69,7 @@ function buildData(version) {
             fs.copySync(path.join(base, file), path.join('target', file));
         }
     }).process('source/data');
-    console.log('Build data for \'%s\'.', version);
+    console.log('Built data for \'%s\'.', version);
 }
 
 /**
