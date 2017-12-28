@@ -415,7 +415,7 @@ STAV: Ve skladu důkazních materiálů. Očekáváno vyzvednutí srž. Grovesem
       <EDID>MQ206</EDID>
       <REC id="21">QUST:NNAM</REC>
       <Source>Talk to &lt;Alias=FactionNPCEnd&gt;</Source>
-      <Dest>Promluv si s &lt;Alias=FactionNPCEnd&gt;</Dest>
+      <Dest>&lt;Alias=FactionNPCEnd&gt; čeká, až si spolu promluvíte</Dest>
     </String>
     <String List="0" sID="013E38">
       <EDID>MS09LorenzoSerum</EDID>
@@ -523,7 +523,7 @@ Opravdu zbožňuji práci, kterou jste s Vincem na Rubáši odvedli. Bez tebe by
       <EDID>MQ302RR</EDID>
       <REC id="8">QUST:NNAM</REC>
       <Source>Plant Fusion Pulse Charge Inside Reactor</Source>
-      <Dest>Nastraž uvnitř reaktoru termonukleární nálož</Dest>
+      <Dest>Umísti uvnitř reaktoru termonukleární nálož</Dest>
     </String>
     <String List="0" sID="014615">
       <EDID>MQ302MinHolotapeTeleporterTerminal</EDID>
@@ -732,7 +732,7 @@ STAV: V důkazní skříňce E09-D, Quincy.</Dest>
       <EDID>MQ302Min</EDID>
       <REC id="9">QUST:NNAM</REC>
       <Source>Plant Fusion Pulse Charge Inside Reactor</Source>
-      <Dest>Nastraž uvnitř reaktoru termonukleární nálož</Dest>
+      <Dest>Umísti uvnitř reaktoru termonukleární nálož</Dest>
     </String>
     <String List="0" sID="014C81">
       <EDID>MS04ComicStoreTerminal</EDID>
@@ -774,7 +774,7 @@ STAV: V důkazní skříňce E09-D, Quincy.</Dest>
       <EDID>MQ206</EDID>
       <REC id="17">QUST:NNAM</REC>
       <Source>(Optional) Search telecom sites for a Sensor Module</Source>
-      <Dest>(Nepovinné) Prohledej telekomunikační místa a najdi senzorický modul</Dest>
+      <Dest>(Nepovinné) Prohledej telekomunikační objekty a najdi senzorický modul</Dest>
     </String>
     <String List="0" sID="014FCC">
       <EDID>MS16</EDID>
@@ -870,7 +870,7 @@ STAV: V důkazní skříňce E09-D, Quincy.</Dest>
       <EDID>MQ206</EDID>
       <REC id="20">QUST:NNAM</REC>
       <Source>Power up the Signal Interceptor</Source>
-      <Dest>Zapoj zachycovač signálu</Dest>
+      <Dest>Zajisti napájení pro zachycovač signálu</Dest>
     </String>
     <String List="0" sID="015504">
       <EDID>MQ206</EDID>
@@ -1078,7 +1078,7 @@ STAV: Ke kontrole detektivovi N. Rileymu.</Dest>
       <EDID>MS04</EDID>
       <REC id="8">QUST:NNAM</REC>
       <Source>Listen to Silver Shroud station in Goodneighbor</Source>
-      <Dest>Poslechni si stanici Stříbrného Rubáše v Dobrém Sousedství</Dest>
+      <Dest>Poslechni si v Dobrém Sousedství stanici Stříbrného Rubáše</Dest>
     </String>
     <String List="0" sID="01608D">
       <EDID>MS04</EDID>
@@ -1729,7 +1729,7 @@ STAV: Odstraněno jednotkou na likvidaci biologických hrozeb.</Dest>
       <EDID>MQ206</EDID>
       <REC id="14">QUST:NNAM</REC>
       <Source>Build the Beam Emitter</Source>
-      <Dest>Sestroj generátor paprsku</Dest>
+      <Dest>Postav generátor paprsku</Dest>
     </String>
     <String List="0" sID="01824A">
       <EDID>MQ206HolotapeTerminalEntry</EDID>
@@ -1831,7 +1831,7 @@ STAV: Odstraněno jednotkou na likvidaci biologických hrozeb.</Dest>
       <EDID>MQ206</EDID>
       <REC id="13">QUST:NNAM</REC>
       <Source>Talk to &lt;Alias=FactionScientist&gt;</Source>
-      <Dest>Promluv si s &lt;Alias=FactionScientist&gt;</Dest>
+      <Dest>&lt;Alias=FactionScientist&gt; ti řekne další postup</Dest>
     </String>
     <String List="0" sID="018C47">
       <EDID>MQ302Min</EDID>
@@ -1879,7 +1879,7 @@ STAV: Odstraněno jednotkou na likvidaci biologických hrozeb.</Dest>
       <EDID>MS04</EDID>
       <REC id="16">QUST:NNAM</REC>
       <Source>Listen to Silver Shroud station in Goodneighbor</Source>
-      <Dest>Poslechni si stanici Stříbrného Rubáše v Dobrém Sousedství</Dest>
+      <Dest>Poslechni si v Dobrém Sousedství stanici Stříbrného Rubáše</Dest>
     </String>
     <String List="0" sID="018E86">
       <EDID>MS02_ClothesSubmarineCrewHat</EDID>
@@ -2415,7 +2415,7 @@ STAV: Odhlášena strážníkem Doylem, policejní oddělení Jižní Boston, 22
       <EDID>MS05B</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Return the egg to its nest</Source>
-      <Dest>Vrať vejce do jeho hnízda</Dest>
+      <Dest>Vrať vejce do svého hnízda</Dest>
     </String>
     <String List="0" sID="01AED9">
       <EDID>MS09LorenzoCellDoorButton</EDID>
@@ -2505,7 +2505,7 @@ STAV: V důkazní kartotéce A10, okrsek 8.</Dest>
       <EDID>MQ302</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Talk to &lt;Alias=FactionLeader&gt;</Source>
-      <Dest>Promluv si s &lt;Alias=FactionLeader&gt;</Dest>
+      <Dest>&lt;Alias=FactionLeader&gt; si s tebou chce promluvit</Dest>
     </String>
     <String List="0" sID="01B434">
       <EDID>MS04</EDID>
@@ -2607,7 +2607,7 @@ STAV: V důkazní kartotéce A10, okrsek 8.</Dest>
       <EDID>MS04</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Listen to Silver Shroud station in Goodneighbor</Source>
-      <Dest>Poslechni si stanici Stříbrného Rubáše v Dobrém Sousedství</Dest>
+      <Dest>Poslechni si v Dobrém Sousedství stanici Stříbrného Rubáše</Dest>
     </String>
     <String List="0" sID="01BA8C">
       <EDID>MS09LorenzoAbility</EDID>
@@ -2693,7 +2693,7 @@ Výňatek z debugového záznamu:&#xD;
       <EDID>MS07a</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Search Earl Sterling's House for Clues</Source>
-      <Dest>Prohledej dům Earla Sterlinga a najdi důkazy</Dest>
+      <Dest>Pátrej v domě Earla Sterlinga po stopách</Dest>
     </String>
     <String List="0" sID="01BEB7">
       <EDID>MS11CaptainsQuartersKey</EDID>
@@ -2759,7 +2759,7 @@ Výňatek z debugového záznamu:&#xD;
       <EDID>MQ302</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Plant Fusion Pulse Charge</Source>
-      <Dest>Termonukleární nálož</Dest>
+      <Dest>Umísti termonukleární nálož</Dest>
     </String>
     <String List="0" sID="01C409">
       <EDID>MS02SaugusPowerCore</EDID>
@@ -2825,7 +2825,7 @@ Výňatek z debugového záznamu:&#xD;
       <EDID>MS05B</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Return the egg to its nest</Source>
-      <Dest>Vrať vejce do jeho hnízda</Dest>
+      <Dest>Vrať vejce do svého hnízda</Dest>
     </String>
     <String List="0" sID="01CA23">
       <EDID>MQ203KelloggsBrain</EDID>
@@ -3005,7 +3005,7 @@ Výňatek z debugového záznamu:&#xD;
       <EDID>MS14</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Meet Travis in the Dugout Inn after 6 PM</Source>
-      <Dest>Setkej se s Travisem po 6. odpolední v hostinci Na Střídačce.</Dest>
+      <Dest>Setkej se s Travisem po 6. odpolední v hostinci Na Střídačce</Dest>
     </String>
     <String List="0" sID="01D414">
       <EDID>MS09CultLeaderName</EDID>
@@ -3259,7 +3259,7 @@ POZNÁMKA: Pokusy o kontaktování sl. Connellové ohledně krádeže neúspěš
       <EDID>MS04</EDID>
       <REC id="11">QUST:NNAM</REC>
       <Source>Deal with AJ</Source>
-      <Dest>Vyřiď AJe</Dest>
+      <Dest>Vypořádej se s AJem</Dest>
     </String>
     <String List="0" sID="01DECE">
       <EDID>MQ206HolotapeTerminalEntry</EDID>
@@ -3994,7 +3994,7 @@ STAV: Odesláno seržantovi Sulzbachovi, policejní oddělení Malden.</Dest>
       <EDID>MQ302BoS</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Plant Fusion Pulse Charge Inside Reactor</Source>
-      <Dest>Nastraž uvnitř reaktoru termonukleární nálož</Dest>
+      <Dest>Umísti uvnitř reaktoru termonukleární nálož</Dest>
     </String>
     <String List="0" sID="0216B6">
       <EDID>MQ203BabyTrigger</EDID>
@@ -4096,7 +4096,7 @@ Kopírování kompletní.</Dest>
       <EDID>MQ205</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Travel to C.I.T.</Source>
-      <Dest>Cestuj do C.I.T.</Dest>
+      <Dest>Vydej se do C.I.T.</Dest>
     </String>
     <String List="0" sID="022255">
       <EDID>MS16</EDID>
@@ -4208,7 +4208,7 @@ STAV: Vydáno prokurátoru H. Murrayovi.</Dest>
       <EDID>MS09</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Meet Jack outside Parsons State Insane Asylum</Source>
-      <Dest>Setkej se s Jackem před Parsonskou státní psychiatrickou léčebnou.</Dest>
+      <Dest>Setkej se s Jackem před Parsonskou státní psychiatrickou léčebnou</Dest>
     </String>
     <String List="0" sID="0230F7">
       <EDID>MS13</EDID>
@@ -4356,7 +4356,7 @@ STAV: Chladnička ve skladu důkazních materiálů, kartotéka R-T5. Nápoje zn
       <EDID>MQ302</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Talk to &lt;Alias=FactionScientist&gt;</Source>
-      <Dest>Promluv si s &lt;Alias=FactionScientist&gt;</Dest>
+      <Dest>&lt;Alias=FactionScientist&gt; ti řekne další postup</Dest>
     </String>
     <String List="0" sID="02381C">
       <EDID>MS09Mission01</EDID>
@@ -4590,7 +4590,7 @@ STAV: Vrácena prvnímu důstojníkovi Bradleyovi, pobřežní stráž Commonwea
       <EDID>MQ206</EDID>
       <REC id="10">QUST:NNAM</REC>
       <Source>Talk to &lt;Alias=FactionScientist&gt;</Source>
-      <Dest>Promluv si s &lt;Alias=FactionScientist&gt;</Dest>
+      <Dest>&lt;Alias=FactionScientist&gt; ti řekne další postup</Dest>
     </String>
     <String List="0" sID="024358">
       <EDID>MQ205</EDID>
@@ -5093,7 +5093,7 @@ STAV: V důkazní kartotéce B03, Malden.</Dest>
       <EDID>MS11</EDID>
       <REC id="27">QUST:NNAM</REC>
       <Source>Fire up auxiliary power</Source>
-      <Dest>Zapněte pomocné napájení</Dest>
+      <Dest>Zapni pomocné napájení</Dest>
     </String>
     <String List="0" sID="025CA5">
       <EDID>MS13NelsonDies</EDID>
@@ -5223,7 +5223,7 @@ STAV: Odeslána strážníkovi Doylovi, policie Boston-jih, 16.10.2077.</Dest>
       <EDID>MS07c</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Travel to Eddie's Hideout</Source>
-      <Dest>Vydej se do Eddieho skrýše</Dest>
+      <Dest>Vydej se k Eddieho skrýši</Dest>
     </String>
     <String List="0" sID="026434">
       <EDID>MQ202</EDID>
@@ -9056,7 +9056,7 @@ Přines mi ty součástky a já udělám zázraky.&#xD;
       <EDID>MS07b</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Nick's former partner, Marty Bullfinch, believes there's a treasure map hidden in the Gilded Grasshopper on top of Faneuil Hall. I should pay the hall a visit.</Source>
-      <Dest>Nickův bývalý partner Marty Hejl věří, že v pozlaceném lučním koníkovi na vrcholu Faneuil Hall je ukryta mapa pokladu. Mohlo by se vyplatit podívat se na to blíž.</Dest>
+      <Dest>Nickův bývalý partner, Marty Hejl, věří, že v pozlaceném lučním koníkovi na vrcholu Faneuil Hall je ukryta mapa pokladu. Mohlo by se vyplatit podívat se na to blíž.</Dest>
     </String>
     <String List="1" sID="030941">
       <EDID>MS02</EDID>

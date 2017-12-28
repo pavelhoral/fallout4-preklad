@@ -29,7 +29,7 @@
       <EDID>MinRecruit01</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to settlers at &lt;Alias=ActualLocation&gt;</Source>
-      <Dest>Ohlas svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
+      <Dest>Oznam svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
     </String>
     <String List="0" sID="012BE0">
       <EDID>MedTekResearchLocation</EDID>
@@ -161,7 +161,7 @@
       <EDID>MinRecruit03</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to Blake Abernathy</Source>
-      <Dest>Ohlas svůj úspěch Blakeovi Abernathymu</Dest>
+      <Dest>Oznam svůj úspěch Blakeovi Abernathymu</Dest>
     </String>
     <String List="0" sID="014185">
       <EDID>MinRecruit01Radio</EDID>
@@ -755,7 +755,7 @@
       <EDID>MinRecruit05</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to settlers at &lt;Alias=ActualLocation&gt;</Source>
-      <Dest>Ohlas svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
+      <Dest>Oznam svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
     </String>
     <String List="0" sID="019E0F">
       <EDID>Min03RonnieIntroPlayerWhoAreYouTopic</EDID>
@@ -881,7 +881,7 @@
       <EDID>MinRecruit00</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to settlers at &lt;Alias=ActualLocation&gt;</Source>
-      <Dest>Ohlas svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
+      <Dest>Oznam svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
     </String>
     <String List="0" sID="01AEE7">
       <EDID>MinRadiantOwned03Intro</EDID>
@@ -995,7 +995,7 @@
       <EDID>MinDefendCastle</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Travel to the Castle</Source>
-      <Dest>Jdi do Hradu</Dest>
+      <Dest>Vydej se k Hradu</Dest>
     </String>
     <String List="0" sID="01B9E5">
       <EDID>MinRadiantOwned04Radio</EDID>
@@ -1367,7 +1367,7 @@
       <EDID>MinRecruit07</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to settlers at &lt;Alias=ActualLocation&gt;</Source>
-      <Dest>Ohlas svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
+      <Dest>Oznam svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
     </String>
     <String List="0" sID="01DF64">
       <EDID>MinRecruit07</EDID>
@@ -1415,13 +1415,13 @@
       <EDID>MinRadiantOwned07ChangeLocOnly</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>(Optional) Locate 2 Gears in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>(Nepovinné) Najděte dvě ozubená kola v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>(Nepovinné) Najdi dvě ozubená kola v lokaci &lt;Alias=Dungeon&gt;</Dest>
     </String>
     <String List="0" sID="01E97C">
       <EDID>MinRadiantOwned07ChangeLocOnly</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Build/Repair a generator (&lt;Global=MinRadiantOwned07Percent&gt;%)</Source>
-      <Dest>Sestroj/oprav generátor (&lt;Global=MinRadiantOwned07Percent&gt; %)</Dest>
+      <Dest>Postav/oprav generátor (&lt;Global=MinRadiantOwned07Percent&gt; %)</Dest>
     </String>
     <String List="0" sID="01E97E">
       <EDID>MinRadiantOwned07ChangeLocOnly</EDID>
@@ -1451,7 +1451,7 @@
       <EDID>MinRadiantOwned06ChangeLocOnly</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Build &lt;Alias=TroubleName&gt; in &lt;Alias=ActualLocation&gt; (&lt;Global=MinRadiantOwned06Percent&gt;%)</Source>
-      <Dest>Postav &lt;Alias=TroubleName&gt; v osadě &lt;Alias=ActualLocation&gt; (&lt;Global=MinRadiantOwned06Percent&gt; %)</Dest>
+      <Dest>V osadě &lt;Alias=ActualLocation&gt; chybí &lt;Alias=TroubleName&gt; (&lt;Global=MinRadiantOwned06Percent&gt; %)</Dest>
     </String>
     <String List="0" sID="01E9AD">
       <EDID>MinRadiantOwned06ChangeLocOnly</EDID>
@@ -1535,7 +1535,7 @@
       <EDID>MinRecruit04</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Report your success to settlers at &lt;Alias=ActualLocation&gt;</Source>
-      <Dest>Ohlas svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
+      <Dest>Oznam svůj úspěch lidem z osady &lt;Alias=ActualLocation&gt;</Dest>
     </String>
     <String List="0" sID="01EBCD">
       <EDID>MinRecruit04</EDID>
@@ -1583,7 +1583,7 @@
       <EDID>Min03</EDID>
       <REC id="12">QUST:NNAM</REC>
       <Source>Throw a smoke flare into the target area</Source>
-      <Dest>Hoď do cílové oblasti světlici</Dest>
+      <Dest>Hoď do cílové oblasti dýmovnici</Dest>
     </String>
     <String List="0" sID="01F5E0">
       <EDID>MinRadiantOwned05RadiantIntro</EDID>
@@ -1595,7 +1595,7 @@
       <EDID>Min03</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Collect the Smoke Flares</Source>
-      <Dest>Seber světlice</Dest>
+      <Dest>Seber signální dýmovnice</Dest>
     </String>
     <String List="0" sID="01F721">
       <EDID>miscmod_mod_armor_Leather_Leg_Material_3</EDID>
@@ -1811,7 +1811,7 @@
       <EDID>Min301</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Recruit more settlements for the Minutemen</Source>
-      <Dest>Naverbuj pro Minutemany více osadníků</Dest>
+      <Dest>Zajisti Minutemanům podporu od více osad</Dest>
     </String>
     <String List="0" sID="020D36">
       <EDID>Min301</EDID>
@@ -2291,7 +2291,7 @@
       <EDID>Min02</EDID>
       <REC id="9">QUST:NNAM</REC>
       <Source>Power up the radio transmitter</Source>
-      <Dest>Zapoj rádiový vysílač</Dest>
+      <Dest>Zapni rádiový vysílač</Dest>
     </String>
     <String List="0" sID="026092">
       <EDID>Min02SharedTopic</EDID>
@@ -2675,7 +2675,7 @@
       <EDID>Min00</EDID>
       <REC id="10">QUST:NNAM</REC>
       <Source>Grab the Minigun</Source>
-      <Dest>Popadni rotační kulomet</Dest>
+      <Dest>Vezmi rotační kulomet</Dest>
     </String>
     <String List="0" sID="02A366">
       <EDID>Min00</EDID>
@@ -2843,7 +2843,7 @@
       <EDID>MinRadiantOwned10ChangeLocOnly</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Decide what to do about suspected synth</Source>
-      <Dest>Rozhodni, jak naložit s podezíraným syntetikem.</Dest>
+      <Dest>Rozhodni, jak naložit s domělým syntetikem</Dest>
     </String>
     <String List="0" sID="02D270">
       <EDID>MinRadiantOwned10ChangeLocOnly</EDID>
@@ -3329,7 +3329,7 @@
       <EDID>MinDestBoS</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Defeat Brotherhood attack on the Castle</Source>
-      <Dest>Poraz útok Bratrstva na Hrad</Dest>
+      <Dest>Odraž útok Bratrstva na Hrad</Dest>
     </String>
     <String List="0" sID="030E44">
       <EDID>MirelurkQueenGooPile01</EDID>
@@ -3485,7 +3485,7 @@
       <EDID>Min03</EDID>
       <REC id="11">QUST:NNAM</REC>
       <Source>Power up radio transmitter</Source>
-      <Dest>Zapoj rádiový vysílač</Dest>
+      <Dest>Zapni rádiový vysílač</Dest>
     </String>
     <String List="0" sID="034384">
       <EDID>miscmod_mod_armor_Metal_Helmet_Material_3</EDID>
@@ -4739,7 +4739,7 @@
       <EDID>MinRadiantOwned10ChangeLocOnly</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>The suspected synth infiltrator at &lt;Alias=ActualLocation&gt; was killed.</Source>
-      <Dest>Podezíraný syntetik - infiltrátor v osadě &lt;Alias=ActualLocation&gt; byl zabit.</Dest>
+      <Dest>Domělý syntetik-infiltrátor v osadě &lt;Alias=ActualLocation&gt; byl zabit.</Dest>
     </String>
     <String List="1" sID="030B40">
       <EDID>MinRecruit03</EDID>
@@ -4769,7 +4769,7 @@
       <EDID>MinRadiantOwned10ChangeLocOnly</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I decided to let the suspected synth infiltrator at &lt;Alias=ActualLocation&gt; go free.</Source>
-      <Dest>Na základě mého rozhodnutí byl podezíraný syntetik - infiltrátor v osadě &lt;Alias=ActualLocation&gt; propuštěn.</Dest>
+      <Dest>Na základě mého rozhodnutí byl domělý syntetik-infiltrátor v osadě &lt;Alias=ActualLocation&gt; propuštěn.</Dest>
     </String>
     <String List="1" sID="030B57">
       <EDID>MinRadiantOwned05</EDID>

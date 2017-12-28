@@ -512,7 +512,7 @@ XXXXX -- CHYBA, SIGNÁL PŘESMĚROVÁN</Dest>
       <EDID>InstR02</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Collect a Flesh Sample</Source>
-      <Dest>Získej tělní vzorek</Dest>
+      <Dest>Získej vzorek těla</Dest>
     </String>
     <String List="0" sID="016740">
       <EDID>InstituteFaction</EDID>
@@ -698,7 +698,7 @@ Zvláštní poznámka: SYNTETIK SE POHŘEŠUJE, PŘEDPOKLÁDÁN ÚTĚK. Navráce
       <EDID>Inst301</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Reclaim the Rogue Synth</Source>
-      <Dest>Najdi zběhlého syntetika</Dest>
+      <Dest>Získej zpět zběhlého syntetika</Dest>
     </String>
     <String List="0" sID="017B99">
       <EDID>LaserMusket</EDID>
@@ -1408,7 +1408,7 @@ Operace: Vyžádání dalších zásob čisticího prostředku 7</Dest>
       <EDID>Inst301</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Visit Your Quarters</Source>
-      <Dest>Navštiv svoji ubikaci</Dest>
+      <Dest>Podívej se do svého pokoje</Dest>
     </String>
     <String List="0" sID="01C4E7">
       <EDID>InstM02RoboticsTerminal3</EDID>
@@ -1756,7 +1756,7 @@ Poznámky: Instalace nového operačního systému</Dest>
       <EDID>InstMassFusion</EDID>
       <REC id="12">QUST:NNAM</REC>
       <Source>Exit Mass Fusion</Source>
-      <Dest>Opusť Fúzní závody</Dest>
+      <Dest>Opusť Fúzních závodů</Dest>
     </String>
     <String List="0" sID="01EB4C">
       <EDID>InstMassFusion</EDID>
@@ -1792,7 +1792,7 @@ Poznámky: Instalace nového operačního systému</Dest>
       <EDID>InstMassFusion</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Relay to Mass Fusion</Source>
-      <Dest>Přemísti se do Fúzních závodů</Dest>
+      <Dest>Teleportuj se do Fúzních závodů</Dest>
     </String>
     <String List="0" sID="01EB55">
       <EDID>InstMassFusion</EDID>
@@ -1894,7 +1894,7 @@ Poznámky: CHYBA: ZÁZNAM VYMAZÁN</Dest>
       <EDID>Inst307</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>Defend the Synth hacking Liberty Prime (&lt;Global=Inst307VirusPercent&gt;% Complete)</Source>
-      <Dest>Ochraňuj syntetika při hackování Pěsti svobody (&lt;Global=Inst307VirusPercent&gt; % hotovo)</Dest>
+      <Dest>Braň syntetika hackujícího Pěst svobody (&lt;Global=Inst307VirusPercent&gt; % hotovo)</Dest>
     </String>
     <String List="0" sID="01F695">
       <EDID>Inst305Microphone</EDID>
@@ -1978,13 +1978,13 @@ Poznámky: CHYBA: ZÁZNAM VYMAZÁN</Dest>
       <EDID>InstR03NEW</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Take the Blueprints to Evan Watson</Source>
-      <Dest>Odevzdej plány Evanu Watsonovi</Dest>
+      <Dest>Odnes plány Evanu Watsonovi</Dest>
     </String>
     <String List="0" sID="020954">
       <EDID>InstR03_OLD</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Take the Design Schematic to Evan Watson</Source>
-      <Dest>Odevzdej projektové schéma Evanu Watsonovi</Dest>
+      <Dest>Odnes projektové schéma Evanu Watsonovi</Dest>
     </String>
     <String List="0" sID="02095A">
       <EDID>InstR03_OLD</EDID>
@@ -2060,7 +2060,7 @@ Poznámky: Předložit druhý návrh na harmonogram pro testování funkcionalit
       <EDID>Inst307</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Use the Relay to reach the Airport</Source>
-      <Dest>Pro cestu na letiště použij přenašeč</Dest>
+      <Dest>Použij přenašeč pro cestu na letiště</Dest>
     </String>
     <String List="0" sID="02104C">
       <EDID>IsaacKarlin</EDID>
@@ -2251,7 +2251,7 @@ Bezpečnost narušena&#xD;
       <EDID>InstMassFusion</EDID>
       <REC id="11">QUST:NNAM</REC>
       <Source>Eliminate Reactor Level Security</Source>
-      <Dest>Zlikviduj ostrahu reaktoru</Dest>
+      <Dest>Zneškodni ostrahu reaktoru</Dest>
     </String>
     <String List="0" sID="022DEF">
       <EDID>InstMQ302ShaunTerminal</EDID>
@@ -2675,7 +2675,7 @@ Poznámky: Prototypové testování aktualizace neuronové sítě</Dest>
       <EDID>Inst305</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Activate the Reactor</Source>
-      <Dest>Aktivuj reaktor</Dest>
+      <Dest>Spusť reaktor</Dest>
     </String>
     <String List="0" sID="026284">
       <EDID>InstM02</EDID>
@@ -7517,7 +7517,7 @@ Předmět zprávy: „SZI fáze 2“&#xD;
       <EDID>Inst307</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Reach Liberty Prime</Source>
-      <Dest>Dojdi k Pěsti svobody</Dest>
+      <Dest>Dostaň se k Pěsti svobody</Dest>
     </String>
     <String List="0" sID="032E59">
       <EDID>Inst306</EDID>
