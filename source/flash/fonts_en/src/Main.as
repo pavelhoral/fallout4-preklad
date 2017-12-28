@@ -9,6 +9,7 @@ package {
             Font.registerFont($CClub_Font_Bold);
             Font.registerFont($BRODY);
             Font.registerFont($BRODY);
+			Font.registerFont($ControllerVive);
             Font.registerFont($Controller_Buttons);
             Font.registerFont($Controller_Buttons_inverted);
             Font.registerFont($HandwrittenFont);
