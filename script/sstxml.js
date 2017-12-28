@@ -4,7 +4,6 @@ var fs = require('fs'),
     path = require('path'),
     xml2js = require('xml2js'),
     program = require('commander'),
-    resolveBatch = require('./utils/resolve-batch'),
     output = require('./utils/program-output')(program, true);
 
 program.
