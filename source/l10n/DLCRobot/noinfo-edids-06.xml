@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DLCRobot</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="00004F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Torso</Source>
+      <Dest>Pan Šikulka (trup)</Dest>
+    </String>
+    <String List="0" sID="00005D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Standard_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Factory Armor</Source>
+      <Dest>Anihilatron - tovární zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="00006C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Standard_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Factory Armor</Source>
+      <Dest>Strážní robot - tovární zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="000098" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_MrHandy_Thruster_Armor_Wasteland10</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Thruster Warmonger Spiked Plate</Source>
+      <Dest>Pan Šikulka raketa (válečnické ostnaté plátování)</Dest>
+    </String>
+    <String List="0" sID="00009D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland10_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Warmonger Toxic Plate</Source>
+      <Dest>Pan Šikulka - válečnické toxické plátování (vršek)</Dest>
+    </String>
+    <String List="0" sID="0000CD" Partial="1">
+      <EDID>WorkbenchRobot</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Robot Workbench</Source>
+      <Dest>Robotická stanice</Dest>
+    </String>
+    <String List="0" sID="0000CF" Partial="1">
+      <EDID>TestCorrie</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="0000D2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Standard_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Factory Armor</Source>
+      <Dest>Robomozek - tovární zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="0000DD" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Standard_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Factory Armor</Source>
+      <Dest>Protektron - tovární zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="0000FB" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="000136" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Factory Armor</Source>
+      <Dest>Strážní robot - tovární zbroj (levá noha)</Dest>
+    </String>
+    <String List="0" sID="000139" Partial="1">
+      <EDID>TestTony</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>BoS Holding Cell</Source>
+      <Dest>BoS Zadržovací cela</Dest>
+    </String>
+    <String List="0" sID="000143" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Warmonger Hardened Plate</Source>
+      <Dest>Protektron - válečnické tvrzené plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0001AE" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Standard_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Factory Armor</Source>
+      <Dest>Protektron - tovární zbroj (levá noha)</Dest>
+    </String>
+    <String List="0" sID="0001B9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0001F9" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Right Eye</Source>
+      <Dest>Pravé oko</Dest>
+    </String>
+    <String List="0" sID="000218" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Combat Inhibitor</Source>
+      <Dest>Bojový inhibitor</Dest>
+    </String>
+    <String List="0" sID="000260" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="12">BPTD:BPTN</REC>
+      <Source>Thruster</Source>
+      <Dest>Raketa</Dest>
+    </String>
+    <String List="0" sID="000278" Partial="1">
+      <EDID>xxx</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Unstable Assaultron</Source>
+      <Dest>Nestabilní anihilatron</Dest>
+    </String>
+    <String List="0" sID="00027B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="0002C7" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Handy Right Arm</Source>
+      <Dest>Šikulka (pravá ruka)</Dest>
+    </String>
+    <String List="0" sID="0002EC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Humanoid</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Torso</Source>
+      <Dest>Pan Šikulka (trup)</Dest>
+    </String>
+    <String List="0" sID="000300" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Standard_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Back Factory Armor</Source>
+      <Dest>Robomozek - tovární zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="000301" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Handy Mid Arm</Source>
+      <Dest>Šikulka (střední ruka)</Dest>
+    </String>
+    <String List="0" sID="00035B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Bottom</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Torso Bottom Armor</Source>
+      <Dest>Pan Šikulka - zbroj (spodek)</Dest>
+    </String>
+    <String List="0" sID="000401" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="00046F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Frame</Source>
+      <Dest>Protektron - rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="000497" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="9">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Kořen</Dest>
+    </String>
+    <String List="0" sID="00049A" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="8">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="00049B" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="00049C" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="5">BPTD:BPTN</REC>
+      <Source>Left Leg</Source>
+      <Dest>Levá noha</Dest>
+    </String>
+    <String List="0" sID="0004AA" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>Right Leg</Source>
+      <Dest>Pravá noha</Dest>
+    </String>
+    <String List="0" sID="0004AB" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="13">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="0004AE" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="11">BPTD:BPTN</REC>
+      <Source>Root</Source>
+      <Dest>Kořen</Dest>
+    </String>
+    <String List="0" sID="0004B0" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="10">BPTD:BPTN</REC>
+      <Source>Handy Left Arm</Source>
+      <Dest>Šikulka (levá ruka)</Dest>
+    </String>
+    <String List="0" sID="0004B1" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="7">BPTD:BPTN</REC>
+      <Source>Combat Inhibitor</Source>
+      <Dest>Bojový inhibitor</Dest>
+    </String>
+    <String List="0" sID="0004B3" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="6">BPTD:BPTN</REC>
+      <Source>Left Eye</Source>
+      <Dest>Levé oko</Dest>
+    </String>
+    <String List="0" sID="0004B6" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Mid Eye</Source>
+      <Dest>Prostřední oko</Dest>
+    </String>
+    <String List="0" sID="0004D6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland01_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0004F4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Standard_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Factory Armor</Source>
+      <Dest>Robomozek - tovární zbroj (opasek)</Dest>
+    </String>
+    <String List="0" sID="0004F5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Standard_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Factory Armor</Source>
+      <Dest>Strážní robot - tovární zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="000561" Partial="1">
+      <EDID>testau</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Marker Cell</Source>
+      <Dest>Marker Cell</Dest>
+    </String>
+    <String List="0" sID="0005B3" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Standard_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Factory Armor</Source>
+      <Dest>Anihilatron - tovární zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="0005CB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Warmonger Staggering Plate</Source>
+      <Dest>Strážní robot - válečnické vrávorající plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0005DB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Warmonger Spiked Plate</Source>
+      <Dest>Pan Šikulka - válečnické ostnaté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000628" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland10_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Warmonger Spiked Plate</Source>
+      <Dest>Strážní robot - válečnické ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="000661" Partial="1">
+      <EDID>MrHandy_Pincher_Left</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pincher</Source>
+      <Dest>Štípač</Dest>
+    </String>
+    <String List="0" sID="000681" Partial="1">
+      <EDID>MrHandy_Pincher_Middle</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pincher</Source>
+      <Dest>Štípač</Dest>
+    </String>
+    <String List="0" sID="0006B0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Primal Plate</Source>
+      <Dest>Robomozek - původní zbroj (opasek)</Dest>
+    </String>
+    <String List="0" sID="0006D0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Robobrain_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Torso</Source>
+      <Dest>Robomozek (trup)</Dest>
+    </String>
+    <String List="0" sID="00074F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Factory Armor</Source>
+      <Dest>Pan Šikulka - tovární zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="00076C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Warmonger Toxic Plate</Source>
+      <Dest>Pan Šikulka - válečnické toxické plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00077D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Factory Armor</Source>
+      <Dest>Pan Šikulka - tovární zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="000834" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Warmonger Serrated Plate</Source>
+      <Dest>Protektron - válečnické ozubené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="00084F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland10</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye Warmonger Serrated Plate</Source>
+      <Dest>Pan Šikulka - válečnické ozubené plátování (střední oko)</Dest>
+    </String>
+    <String List="0" sID="000861" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Left Foot</Source>
+      <Dest>Levé chodidlo</Dest>
+    </String>
+    <String List="0" sID="0008FA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Warmonger Plate</Source>
+      <Dest>Protektron - válečnické plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="000920" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Warmonger Plate</Source>
+      <Dest>Robomozek - válečnické plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000941" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Factory Armor</Source>
+      <Dest>Pan Šikulka - tovární zbroj (vršek)</Dest>
+    </String>
+    <String List="0" sID="000947" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Standard_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Factory Armor</Source>
+      <Dest>Protektron - tovární zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="00096B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads</Source>
+      <Dest>Robomozek (pojezd)</Dest>
+    </String>
+    <String List="0" sID="00098D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Limb_Eye</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye</Source>
+      <Dest>Pan Šikulka (střední oko)</Dest>
+    </String>
+    <String List="0" sID="0009A4" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="3">BPTD:BPTN</REC>
+      <Source>Head</Source>
+      <Dest>Hlava</Dest>
+    </String>
+    <String List="0" sID="0009F2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_ShoulderLauncherCluster_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Right Shoulder Laucher</Source>
+      <Dest>Strážní robot (pravý odpalovač)</Dest>
+    </String>
+    <String List="0" sID="000A33" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000A42" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="4">BPTD:BPTN</REC>
+      <Source>Torso</Source>
+      <Dest>Trup</Dest>
+    </String>
+    <String List="0" sID="000A6E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Factory Armor</Source>
+      <Dest>Strážní robot - tovární zbroj (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="000AAF" Partial="1">
+      <EDID>TestCory01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="000B11" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Wasteland10_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Warmonger Serrated Plate</Source>
+      <Dest>Robomozek - válečnické ozubené plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="000B5E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Standard_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Factory Armor</Source>
+      <Dest>Protektron - tovární zbroj (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="000B75" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Quest_MQ05MSAT</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>M-SAT</Source>
+      <Dest>M-SAT</Dest>
+    </String>
+    <String List="0" sID="000B93" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Warmonger Spiked Plate</Source>
+      <Dest>Strážní robot - válečnické ostnaté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000BCC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Torso</Source>
+      <Dest>Protektron (trup)</Dest>
+    </String>
+    <String List="0" sID="000BCF" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Legs</Source>
+      <Dest>Protektron (nohy)</Dest>
+    </String>
+    <String List="0" sID="000C5E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Legs</Source>
+      <Dest>Strážní robot (nohy)</Dest>
+    </String>
+    <String List="0" sID="000C64" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Warmonger Toxic Plate</Source>
+      <Dest>Anihilatron - válečnické toxické plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="000C75" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Warmonger Plate</Source>
+      <Dest>Protektron - válečnické plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="000C79" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Primal Plate</Source>
+      <Dest>Anihilatron - původní plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="000C96" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_ShoulderLauncherCluster_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Left Shoulder Laucher</Source>
+      <Dest>Strážní robot (levý odpalovač)</Dest>
+    </String>
+    <String List="0" sID="000CA4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Primal Plate</Source>
+      <Dest>Anihilatron - původní plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000CF4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso</Source>
+      <Dest>Strážní robot (trup)</Dest>
+    </String>
+    <String List="0" sID="000CFF" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Warmonger Serrated Plate</Source>
+      <Dest>Anihilatron - válečnické ozubené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="000D2A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Warmonger Staggering Plate</Source>
+      <Dest>Strážní robot - válečnické vrávorající plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="000D2D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland10_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Warmonger Spiked Plate</Source>
+      <Dest>Robomozek - válečnické ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="000DCA" Partial="1">
+      <EDID>RoboBrainBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Right Foot</Source>
+      <Dest>Pravé chodidlo</Dest>
+    </String>
+    <String List="0" sID="000DD9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Factory Armor</Source>
+      <Dest>Strážní robot - tovární zbroj (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="000DFB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Limb</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Torso</Source>
+      <Dest>Anihilatron (trup)</Dest>
+    </String>
+    <String List="0" sID="000E10" Partial="1">
+      <EDID>MrHandy_Pincher_Right</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Pincher</Source>
+      <Dest>Štípač</Dest>
+    </String>
+    <String List="0" sID="000E27" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction01_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Actuated Frame</Source>
+      <Dest>Robomozek - rám pohonu (záda)</Dest>
+    </String>
+    <String List="0" sID="000E29" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="000E33" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="000F10" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (levá noha)</Dest>
+    </String>
+    <String List="0" sID="000F4A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Satchel_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Primal Storage Plate</Source>
+      <Dest>Robomozek - původní úložné plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="000FAA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Standard_Satchel10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Factory Storage Armor</Source>
+      <Dest>Anihilatron - tovární úložná zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="000FE6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Hydraulic Frame</Source>
+      <Dest>Robomozek - hydraulický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="000FFC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Standard_Satchel10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Factory Storage Armor</Source>
+      <Dest>Protektron - tovární úložná zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="000FFE" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Satchel_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Dread Satchel Plate</Source>
+      <Dest>Protektron - děsivé brašnové plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001014" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Standard_Satchel10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Factory Storage Armor</Source>
+      <Dest>Anihilatron - tovární úložná zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="00101B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Satchel_Wasteland10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Warmonger Storage Plate</Source>
+      <Dest>Protektron - válečnické úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001039" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Standard_Satchel01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Waist Satchel Factory Armor</Source>
+      <Dest>Protektron - tovární úložná zbroj (opasek)</Dest>
+    </String>
+    <String List="0" sID="00103D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Construction01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Actuated Frame</Source>
+      <Dest>Robomozek - rám pohonu (opasek)</Dest>
+    </String>
+    <String List="0" sID="0010C9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Satchel_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Mid Primal Storage Plate</Source>
+      <Dest>Protektron - původní úložné plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="0010DB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="0010F9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="001117" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction10_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Hydraulic Frame</Source>
+      <Dest>Strážní robot - hydraulický rám (opasek)</Dest>
+    </String>
+    <String List="0" sID="001122" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Standard_Satchel10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Factory Storage Armor</Source>
+      <Dest>Robomozek - tovární úložná zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="001182" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Satchel_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Warmonger Serrated Storage Plate</Source>
+      <Dest>Anihilatron - válečnické ozubené úložné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="00118E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Actuated Frame</Source>
+      <Dest>Robomozek - rám pohonu (hruď)</Dest>
+    </String>
+    <String List="0" sID="0011B1" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Satchel_Wasteland10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Warmonger Storage Plate</Source>
+      <Dest>Anihilatron - válečnické úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0011CB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Satchel_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Warmonger Storage Plate</Source>
+      <Dest>Robomozek - válečnické úložné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0011DD" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction10_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Hydraulic Frame</Source>
+      <Dest>Robomozek - hydraulický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="0011E9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Satchel_Wasteland10_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Warmonger Storage Plate</Source>
+      <Dest>Robomozek - válečnické úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001203" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Construction10_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>RoboBrain Treads Mid Hydraulic Frame</Source>
+      <Dest>Robomozek - hydraulický rám (opasek)</Dest>
+    </String>
+    <String List="0" sID="001217" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Standard_Satchel10_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Back Factory Storage Armor</Source>
+      <Dest>Robomozek - tovární úložná zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="00123E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Satchel_Wasteland10_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Warmonger Storage Plate</Source>
+      <Dest>Robomozek - válečnické úložné plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="001397" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland08_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Barbaric Staggering Plate</Source>
+      <Dest>Strážní robot - barbarské vrávorající plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001398" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Satchel_Wasteland01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00139A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland03_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Cruel Spiked Plate</Source>
+      <Dest>Strážní robot - kruté ostnaté plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00139B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Voltaic Frame</Source>
+      <Dest>Anihilatron - galvanický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="00139E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland06_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Savage Plate</Source>
+      <Dest>Anihilatron - zběsilé plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013A5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland07_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Brutal Plate</Source>
+      <Dest>Strážní robot - brutální plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013AC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland05_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Sinister Plate</Source>
+      <Dest>Anihilatron - zlověstné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013AD" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Satchel_Wasteland01_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear  Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013AF" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (záda)</Dest>
+    </String>
+    <String List="0" sID="0013B2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Satchel_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="0013B3" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland03_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Cruel Spiked Plate</Source>
+      <Dest>Strážní robot - kruté ostnaté plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013B7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland06_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Savage Serrated Plate</Source>
+      <Dest>Strážní robot - zběsilé ozubené plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013B9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013BA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland05_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Cruel Plate</Source>
+      <Dest>Strážní robot - kruté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013C0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Voltaic Frame</Source>
+      <Dest>Strážní robot - galvanický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013C1" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland03_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Cruel Spiked Plate</Source>
+      <Dest>Strážní robot - kruté ostnaté plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="0013C3" Partial="1">
+      <EDID>RobotWorkbench_ProtectronRaceMods</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_ProtectronRaceMods</Source>
+      <Dest>RobotWorkbench_ProtectronRaceMods</Dest>
+    </String>
+    <String List="0" sID="0013C5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (opasek)</Dest>
+    </String>
+    <String List="0" sID="0013C7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland08_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Barbaric Plate</Source>
+      <Dest>Strážní robot - barbarské plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013CA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Satchel_Wasteland10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Brutal Storage Plate</Source>
+      <Dest>Strážní robot - brutální úložné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013CB" Partial="1">
+      <EDID>RobotWorkbench_RoboBrainRaceMods</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_RoboBrainRaceMods</Source>
+      <Dest>RobotWorkbench_RoboBrainRaceMods</Dest>
+    </String>
+    <String List="0" sID="0013CC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland04_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Wicked Noxious Plate</Source>
+      <Dest>Anihilatron - podlé zhoubné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013D0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland03_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Cruel Spiked Plate</Source>
+      <Dest>Anihilatron - kruté ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013D8" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Merciless Serrated Plate</Source>
+      <Dest>Anihilatron - nemilosrdné ozubené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013DA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Satchel_Wasteland01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013E0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Satchel_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="0013E4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland07_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Brutal Spiked Plate</Source>
+      <Dest>Anihilatron - brutální ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013E6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland05_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Sinister Plate</Source>
+      <Dest>Strážní robot - zlověstné plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013E9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland05_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Sinister Plate</Source>
+      <Dest>Anihilatron - zlověstné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0013EC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland08_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Barbaric Staggering Plate</Source>
+      <Dest>Strážní robot - barbarské vrávorající plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013EE" Partial="1">
+      <EDID>RobotWorkbench_SentryRaceMods</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_SentryRaceMods</Source>
+      <Dest>RobotWorkbench_SentryRaceMods</Dest>
+    </String>
+    <String List="0" sID="0013EF" Partial="1">
+      <EDID>RobotWorkbench_HandyRaceMods</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_HandyRaceMods</Source>
+      <Dest>RobotWorkbench_HandyRaceMods</Dest>
+    </String>
+    <String List="0" sID="0013F1" Partial="1">
+      <EDID>RobotWorkbench_AssaultronRaceMods</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_AssaultronRaceMods</Source>
+      <Dest>RobotWorkbench_AssaultronRaceMods</Dest>
+    </String>
+    <String List="0" sID="0013F2" Partial="1">
+      <EDID>RobotWorkbench_RaceChangeModList</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_RaceChangeModList</Source>
+      <Dest>RobotWorkbench_RaceChangeModList</Dest>
+    </String>
+    <String List="0" sID="0013F4" Partial="1">
+      <EDID>RobotWorkbench_RaceList</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>RobotWorkbench_RaceList</Source>
+      <Dest>RobotWorkbench_RaceList</Dest>
+    </String>
+    <String List="0" sID="0013F5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland03_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Cruel Spiked Plate</Source>
+      <Dest>Anihilatron - kruté ostnaté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0013FC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland09_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Merciless Spiked Plate</Source>
+      <Dest>Strážní robot - nemilosrdné ostnaté plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="0013FE" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="001400" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Voltaic Frame</Source>
+      <Dest>Strážní robot - galvanický rám (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="001405" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Hydraulic Frame</Source>
+      <Dest>Anihilatron - hydraulický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="001406" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland08_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Barbaric Serrated Plate</Source>
+      <Dest>Anihilatron - barbarské ozubené plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001408" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction09_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Voltaic Frame</Source>
+      <Dest>Strážní robot - galvanický rám (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001416" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland04_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Wicked Spiked Plate</Source>
+      <Dest>Anihilatron - podlé ostnaté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="00141D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland05_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Sinister Plate</Source>
+      <Dest>Strážní robot - zlověstné plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00141F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001421" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Voltaic Frame</Source>
+      <Dest>Anihilatron - galvanický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="001426" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland02_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Grim Plate</Source>
+      <Dest>Strážní robot - děsivé plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001427" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland08_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Barbaric Plate</Source>
+      <Dest>Strážní robot - barbarské plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001428" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Merciless Toxic Plate</Source>
+      <Dest>Anihilatron - nemilosrdné toxické plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00142B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Satchel_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Primal Storage Plate</Source>
+      <Dest>Strážní robot - původní úložné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="00142C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland09_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Merciless Spiked Plate</Source>
+      <Dest>Strážní robot - nemilosrdné ostnaté plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00142D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Wasteland08_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Barbaric Toxic Plate</Source>
+      <Dest>Anihilatron - barbarské toxické plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001436" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Hydraulic Frame</Source>
+      <Dest>Anihilatron - hydraulický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="001438" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Satchel_Wasteland10_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Warmonger Storage Plate</Source>
+      <Dest>Strážní robot - válečnické úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001439" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland09_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Merciless Toxic Plate</Source>
+      <Dest>Strážní robot - nemilosrdné toxické plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00143A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction09_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Voltaic Frame</Source>
+      <Dest>Strážní robot - galvanický rám (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="00143B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Construction01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Actuated Frame</Source>
+      <Dest>Strážní robot - rám pohonu (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00143E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland06_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Savage Serrated Plate</Source>
+      <Dest>Strážní robot - zběsilé ozubené plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="00143F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland02_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Grim Plate</Source>
+      <Dest>Strážní robot - děsivé plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001440" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Wasteland06_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Savage Plate</Source>
+      <Dest>Strážní robot - zběsilé plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001441" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Construction09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Voltaic Frame</Source>
+      <Dest>Strážní robot - galvanický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="0014C4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Front Actuated Frame</Source>
+      <Dest>Anihilatron - rám pohonu (hruď)</Dest>
+    </String>
+    <String List="0" sID="001523" Partial="1">
+      <EDID>RadioDisplayDLC01MQ01</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Caravan Distress Frequency</Source>
+      <Dest>Nouzová frekvence karavany</Dest>
+    </String>
+    <String List="0" sID="00152E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Assaultron_Armor_Construction01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Assaultron Rear Actuated Frame</Source>
+      <Dest>Anihilatron - rám pohonu (záda)</Dest>
+    </String>
+    <String List="0" sID="00154B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction09_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Voltaic Frame</Source>
+      <Dest>Robomozek - galvanický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="00154E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland06_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Savage Plate</Source>
+      <Dest>Pan Šikulka - zběsilé plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001550" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Satchel_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Left Leg Factory Storage Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001551" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Voltaic Frame</Source>
+      <Dest>Pan Šikulka - galvanický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="00155C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Construction09_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Voltaic Frame</Source>
+      <Dest>Robomozek - galvanický rám (opasek)</Dest>
+    </String>
+    <String List="0" sID="001562" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Actuated Eye Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (střední oko)</Dest>
+    </String>
+    <String List="0" sID="001563" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Merciless Serrated Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné ozubené plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001564" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Satchel_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Factory Storage Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (opasek)</Dest>
+    </String>
+    <String List="0" sID="001566" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland03_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Sinister Hardened Plate</Source>
+      <Dest>Robomozek - zlověstné tvrzené plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00156E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Actuated Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (záda)</Dest>
+    </String>
+    <String List="0" sID="001579" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland04</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye Wicked Spiked Plate</Source>
+      <Dest>Pan Šikulka - podlé ostnaté plátování (střední oko)</Dest>
+    </String>
+    <String List="0" sID="001582" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland01_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (vršek)</Dest>
+    </String>
+    <String List="0" sID="00158E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Wasteland04_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Wicked Serrated Plate</Source>
+      <Dest>Robomozek - podlé ozubené plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="00158F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Satchel_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Leg Factory Storage Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (zadní noha)</Dest>
+    </String>
+    <String List="0" sID="001594" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction10_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Hydraulic Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (vršek)</Dest>
+    </String>
+    <String List="0" sID="001596" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Wasteland03_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Cruel Plate</Source>
+      <Dest>Robomozek - kruté plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="00159B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_MrHandy_Thruster_Armor_Wasteland06</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Thruster Savage Plate</Source>
+      <Dest>Pan Šikulka raketa (zběsilé plátování)</Dest>
+    </String>
+    <String List="0" sID="0015A3" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland03_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Sinister Hardened Plate</Source>
+      <Dest>Robomozek - zlověstné tvrzené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015AA" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland09_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Merciless Serrated Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné ozubené plátování (vršek)</Dest>
+    </String>
+    <String List="0" sID="0015B2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Satchel_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Primal Storage Plate</Source>
+      <Dest>Pan Šikulka - původní úložné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015B4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland08</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye Merciless Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné plátování (střední oko)</Dest>
+    </String>
+    <String List="0" sID="0015B6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015B9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Satchel_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Factory Storage Armor</Source>
+      <Dest>Pan Šikulka - tovární úložná zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="0015C1" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland02_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Grim Plate</Source>
+      <Dest>Pan Šikulka - děsivé plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015C2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland04_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Wicked Noxious Plate</Source>
+      <Dest>Pan Šikulka - podlé zhoubné plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015C5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_MrHandy_Thruster_Armor_Wasteland05</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Thruster Sinister Plate</Source>
+      <Dest>Pan Šikulka raketa (zlověstné plátování)</Dest>
+    </String>
+    <String List="0" sID="0015C7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland03_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Cruel Plate</Source>
+      <Dest>Pan Šikulka - kruté plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015CC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_MrHandy_Thruster_Armor_Wasteland09</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Thruster Merciless Plate</Source>
+      <Dest>Pan Šikulka raketa (nemilosrdné plátování)</Dest>
+    </String>
+    <String List="0" sID="0015DB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland08_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Barbaric Spiked Plate</Source>
+      <Dest>Pan Šikulka - barbarské ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="0015E6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Hydraulic Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="0015E9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Standard_Satchel_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Front Factory Storage Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015ED" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Satchel_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Factory Storage Armor</Source>
+      <Dest>Pan Šikulka - tovární úložná zbroj (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015EF" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction01_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Actuated Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (vršek)</Dest>
+    </String>
+    <String List="0" sID="0015F2" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Actuated Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (hruď)</Dest>
+    </String>
+    <String List="0" sID="0015F8" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland03_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Cruel Serrated Plate</Source>
+      <Dest>Pan Šikulka - kruté ozubené plátování (vršek)</Dest>
+    </String>
+    <String List="0" sID="001604" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland07_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Brutal Toxic Plate</Source>
+      <Dest>Pan Šikulka - brutální toxické plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001605" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland02</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye Grim Plate</Source>
+      <Dest>Pan Šikulka - děsivé plátování (střední oko)</Dest>
+    </String>
+    <String List="0" sID="001606" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00160C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Sentry_Armor_Standard_Satchel_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Rear Factory Storage Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (záda)</Dest>
+    </String>
+    <String List="0" sID="001618" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland02_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Grim Spiked Plate</Source>
+      <Dest>Robomozek - děsivé ostnaté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001621" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Satchel_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Primal Storage Plate</Source>
+      <Dest>Pan Šikulka - původní úložné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00162C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland03_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Cruel Plate</Source>
+      <Dest>Pan Šikulka - kruté plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="00163D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Primal Rusty Plate</Source>
+      <Dest>Robomozek - původní rezavé plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="00163F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland06_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Savage Plate</Source>
+      <Dest>Pan Šikulka - zběsilé plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001640" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Hydraulic Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="001644" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Standard_Satchel_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Factory Storage Armor</Source>
+      <Dest>Pan Šikulka - tovární úložná zbroj (vršek)</Dest>
+    </String>
+    <String List="0" sID="001645" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland02_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Grim Serrated Plate</Source>
+      <Dest>Robomozek - děsivé ozubené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001648" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_RoboBrain_Armor_Wasteland02_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Treads Mid Grim Plate</Source>
+      <Dest>Robomozek - děsivé plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="001651" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Factory Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (opasek)</Dest>
+    </String>
+    <String List="0" sID="001656" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction09_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Voltaic Frame</Source>
+      <Dest>Pan Šikulka - galvanický rám (vršek)</Dest>
+    </String>
+    <String List="0" sID="00165F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Eye Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (střední oko)</Dest>
+    </String>
+    <String List="0" sID="001660" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland05_Top</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Top Sinister Noxious Plate</Source>
+      <Dest>Pan Šikulka - zlověstné zhoubné plátování (vršek)</Dest>
+    </String>
+    <String List="0" sID="001666" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Merciless Serrated Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné ozubené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001667" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Construction09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Voltaic Frame</Source>
+      <Dest>Pan Šikulka - galvanický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="00166C" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Wasteland01_Back</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Rear Primal Rusty Plate</Source>
+      <Dest>Robomozek - původní rezavé plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001678" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction10</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Hydraulic Eye Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (střední oko)</Dest>
+    </String>
+    <String List="0" sID="001682" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland05_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Rear Sinister Plate</Source>
+      <Dest>Pan Šikulka - zlověstné plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001683" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_RoboBrain_Armor_Construction09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Robobrain Front Voltaic Frame</Source>
+      <Dest>Robomozek - galvanický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="001689" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland07_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Front Brutal Plate</Source>
+      <Dest>Pan Šikulka - brutální plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001A03" Partial="1">
+      <EDID>sMustBuildBaseBot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You must build an Automatron first.</Source>
+      <Dest>Nejprve je nutné vytvořit automatrona.</Dest>
+    </String>
+    <String List="0" sID="001A07" Partial="1">
+      <EDID>sBaseBot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>New Automatron</Source>
+      <Dest>Nový automatron</Dest>
+    </String>
+    <String List="0" sID="001AEB" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction09_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Voltaic Frame</Source>
+      <Dest>Protektron - galvanický rám (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001AEC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Hydraulic Frame</Source>
+      <Dest>Protektron - hydraulický rám (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001AF0" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Primal Plate</Source>
+      <Dest>Protektron - původní plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001AF1" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction09_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Voltaic Frame</Source>
+      <Dest>Protektron - galvanický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="001AF5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Actuated Frame</Source>
+      <Dest>Protektron - rám pohonu (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001AF7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland09_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Merciless Serrated Plate</Source>
+      <Dest>Protektron - nemilosrdné ozubené plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001AF9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Actuated Frame</Source>
+      <Dest>Protektron - rám pohonu (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001AFC" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Voltaic Frame</Source>
+      <Dest>Protektron - galvanický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B01" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction09_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Voltaic Frame</Source>
+      <Dest>Protektron - galvanický rám (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B05" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction10_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Hydraulic Frame</Source>
+      <Dest>Protektron - hydraulický rám (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B0B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction10_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Hydraulic Frame</Source>
+      <Dest>Protektron - hydraulický rám (záda)</Dest>
+    </String>
+    <String List="0" sID="001B0F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland03_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Cruel Spiked Plate</Source>
+      <Dest>Protektron - kruté ostnaté plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B11" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Primal Heavy Plate</Source>
+      <Dest>Protektron - původní těžké plátování (záda)</Dest>
+    </String>
+    <String List="0" sID="001B13" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland06_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Merciless Hardened Plate</Source>
+      <Dest>Protektron - nemilosrdné tvrzené plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B16" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Construction10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Hydraulic Frame</Source>
+      <Dest>Protektron - hydraulický rám (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B17" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland09_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Merciless Toxic Plate</Source>
+      <Dest>Protektron - nemilosrdné toxické plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B1D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction01_Rear</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Rear Actuated Frame</Source>
+      <Dest>Protektron - rám pohonu (záda)</Dest>
+    </String>
+    <String List="0" sID="001B20" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland03_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Left Leg Cruel Spiked Plate</Source>
+      <Dest>Protektron - kruté ostnaté plátování (levá noha)</Dest>
+    </String>
+    <String List="0" sID="001B21" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Primal Plate</Source>
+      <Dest>Protektron - původní plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B22" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland09_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Right Leg Merciless Serrated Plate</Source>
+      <Dest>Protektron - nemilosrdné ozubené plátování (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B23" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Wasteland01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Primal Heavy Plate</Source>
+      <Dest>Protektron - původní těžké plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B24" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Protectron_Armor_Construction01_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Front Actuated Frame</Source>
+      <Dest>Protektron - rám pohonu (hruď)</Dest>
+    </String>
+    <String List="0" sID="001B2B" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Standard_Satchel_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Right Leg Storage Factory Armor</Source>
+      <Dest>Strážní robot - tovární úložná zbroj (pravá noha)</Dest>
+    </String>
+    <String List="0" sID="001B69" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Sentry_Armor_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Mid Primal Plate</Source>
+      <Dest>Strážní robot - původní plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="001BFC" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="1">BPTD:BPTN</REC>
+      <Source>Right Arm</Source>
+      <Dest>Pravá ruka</Dest>
+    </String>
+    <String List="0" sID="001C3F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Legs_Protectron_Armor_Wasteland01_Waist</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Protectron Legs Mid Primal Plate</Source>
+      <Dest>Protektron - původní plátování (opasek)</Dest>
+    </String>
+    <String List="0" sID="001C64" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Lockpick</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Lockpick Module</Source>
+      <Dest>Modul otevírání zámků</Dest>
+    </String>
+    <String List="0" sID="001D0D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Hack</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Hacking Module</Source>
+      <Dest>Hackovací modul</Dest>
+    </String>
+    <String List="0" sID="001D56" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Armor_Wasteland08_Front</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Torso Front Barbaric Toxic Plate</Source>
+      <Dest>Pan Šikulka - barbarské toxické plátování (hruď)</Dest>
+    </String>
+    <String List="0" sID="001D59" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="2">BPTD:BPTN</REC>
+      <Source>Left Arm</Source>
+      <Dest>Levá ruka</Dest>
+    </String>
+    <String List="0" sID="001DBA" Partial="1">
+      <EDID>sBuildBaseBot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Build Automatron?</Source>
+      <Dest>Vytvořit automatrona?</Dest>
+    </String>
+    <String List="0" sID="001DBE" Partial="1">
+      <EDID>sCannotBuildBaseBot</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>You lack the requirements to build an Automatron.</Source>
+      <Dest>Nesplňuješ všechny požadavky pro vytvoření automatrona.</Dest>
+    </String>
+    <String List="0" sID="001DF5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland08_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Merciless Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné plátování (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001DF7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Warmonger Serrated Plate</Source>
+      <Dest>Pan Šikulka - válečnické ozubené plátování (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001DF8" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Hydraulic Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001DF9" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Actuated Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E03" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E05" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Limb_Eye_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Right Eye</Source>
+      <Dest>Pan Šikulka (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E0A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Limb_Eye_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Mr. Handy Left Eye</Source>
+      <Dest>Pan Šikulka (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E0F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland02_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Grim Plate</Source>
+      <Dest>Pan Šikulka - děsivé plátování (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E16" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland04_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Wicked Spiked Plate</Source>
+      <Dest>Pan Šikulka - podlé ostnaté plátování (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E17" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction01_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Actuated Frame</Source>
+      <Dest>Pan Šikulka - rám pohonu (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E1E" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland08_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Merciless Plate</Source>
+      <Dest>Pan Šikulka - nemilosrdné plátování (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E24" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland02_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Grim Plate</Source>
+      <Dest>Pan Šikulka - děsivé plátování (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E4A" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Construction10_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Hydraulic Frame</Source>
+      <Dest>Pan Šikulka - hydraulický rám (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E4D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland10_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Right Eye Warmonger Serrated Plate</Source>
+      <Dest>Pan Šikulka - válečnické ozubené plátování (pravé oko)</Dest>
+    </String>
+    <String List="0" sID="001E57" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland01_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Primal Plate</Source>
+      <Dest>Pan Šikulka - původní plátování (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E6D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_MrHandy_Eye_Armor_Wasteland04_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Left Eye Wicked Spiked Plate</Source>
+      <Dest>Pan Šikulka - podlé ostnaté plátování (levé oko)</Dest>
+    </String>
+    <String List="0" sID="001E7D" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Recon</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Recon Sensors</Source>
+      <Dest>Průzkumné senzory</Dest>
+    </String>
+    <String List="0" sID="001EC4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Heal</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Regeneration Field</Source>
+      <Dest>Regenerační pole</Dest>
+    </String>
+    <String List="0" sID="001EC7" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Detection</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sensor Array</Source>
+      <Dest>Senzorické pole</Dest>
+    </String>
+    <String List="0" sID="001EC8" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Stealth</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Stealth Field</Source>
+      <Dest>Pole neviditelnosti</Dest>
+    </String>
+    <String List="0" sID="001ECB" Partial="1">
+      <EDID>MrHandyCreateABotBodyPartData</EDID>
+      <REC id="0">BPTD:BPTN</REC>
+      <Source>LookAt</Source>
+      <Dest>LookAt</Dest>
+    </String>
+    <String List="0" sID="001ED4" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_EMP</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Tesla Coils</Source>
+      <Dest>Tesla cívky</Dest>
+    </String>
+    <String List="0" sID="001ED5" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Shield</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>No Misc Torso Mod</Source>
+      <Dest>Bez modifikací (trup)</Dest>
+    </String>
+    <String List="0" sID="001ED6" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Misc_Cloak_Radiation</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Radiation Coils</Source>
+      <Dest>Radiační cívky</Dest>
+    </String>
+    <String List="0" sID="001F4F" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Weap_Sentry_Unstable_ShoulderLauncherClusterFrenzyGas_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Right Unstable Gas Launcher</Source>
+      <Dest>Strážní robot (pravý nestabilní plynomet)</Dest>
+    </String>
+    <String List="0" sID="001F52" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Weap_Sentry_Unstable_ShoulderLauncherClusterFrenzyGas_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Left Unstable Gas Launcher</Source>
+      <Dest>Strážní robot (levý nestabilní plynomet)</Dest>
+    </String>
+    <String List="0" sID="001F53" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Weap_Sentry_Unstable_ShoulderLauncherFatMan_Right</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Right Shoulder Unstable Fat Man Launcher</Source>
+      <Dest>Strážní robot (pravý nestabilní Tlusťoch)</Dest>
+    </String>
+    <String List="0" sID="001F54" Partial="1">
+      <EDID>miscmod_DLC01Bot_Torso_Weap_Sentry_Unstable_ShoulderLauncherFatMan_Left</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Sentry Torso Left Shoulder Unstable Fat Man Launcher</Source>
+      <Dest>Strážní robot (levý nestabilní Tlusťoch)</Dest>
+    </String>
+    <String List="0" sID="001F83" Partial="1">
+      <EDID>sMiscStatDLC01QuestsCompleted</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Automatron Quests Completed</Source>
+      <Dest>Splněné automatron-úkoly</Dest>
+    </String>
+    <String List="0" sID="001F84" Partial="1">
+      <EDID>sRequiredComponents</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Required Components</Source>
+      <Dest>Požadované komponenty</Dest>
+    </String>
+    <String List="0" sID="001F8C" Partial="1">
+      <EDID>sSelectBotToMod</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Select Bot:</Source>
+      <Dest>Vyber bota:</Dest>
+    </String>
+    <String List="0" sID="001F8D" Partial="1">
+      <EDID>sFavoriteComponents</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>TAG FOR SEARCH</Source>
+      <Dest>ŠTÍTEK PRO VYHLEDÁVÁNÍ</Dest>
+    </String>
+    <String List="0" sID="001F8F" Partial="1">
+      <EDID>sItemCardCarryWt</EDID>
+      <REC>GMST:DATA</REC>
+      <Source>Carry Weight</Source>
+      <Dest>Nosnost</Dest>
+    </String>
+    <String List="0" sID="026799">
+      <EDID>QASmoke</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Tunnels</Source>
+      <Dest>Tunely</Dest>
+    </String>
+    <String List="0" sID="034596">
+      <EDID>WorkshopTurretSpotlight</EDID>
+      <REC id="0">NPC_:FULL</REC>
+      <Source>Spotlight</Source>
+      <Dest>Reflektor</Dest>
+    </String>
+    <String List="0" sID="034631">
+      <EDID>WorkshopTurretSpotlight</EDID>
+      <REC id="1">NPC_:FULL</REC>
+      <Source>Spotlight</Source>
+      <Dest>Reflektor</Dest>
+    </String>
+    <String List="1" sID="001524" Partial="1">
+      <EDID>RadioDisplayDLC01MQ01</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Caravan Distress Frequency</Source>
+      <Dest>Nouzová frekvence karavany</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
