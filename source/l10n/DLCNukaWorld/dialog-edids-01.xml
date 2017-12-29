@@ -1,0 +1,3479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DLCNukaWorld</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000DE0" Partial="1">
+      <EDID>DLC04_RQ_Player_Refuse</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Not interested</Source>
+      <Dest>Nezájem</Dest>
+    </String>
+    <String List="0" sID="000DE6" Partial="1">
+      <EDID>[01017FAF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>There a problem?</Source>
+      <Dest>Nějaký problém?</Dest>
+    </String>
+    <String List="0" sID="000DF7" Partial="1">
+      <EDID>DLC04_RQ_Player_NonCommittal</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Uhhh... later, maybe.</Source>
+      <Dest>Uhhh... Možná později</Dest>
+    </String>
+    <String List="0" sID="000E12" Partial="1">
+      <EDID>DLC04_Player_AskForReward</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Expect payment</Source>
+      <Dest>!Očekávej platbu</Dest>
+    </String>
+    <String List="0" sID="000E13" Partial="1">
+      <EDID>[01017F7B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Who's the target?</Source>
+      <Dest>!Kdo je ten cíl?</Dest>
+    </String>
+    <String List="0" sID="000E25" Partial="1">
+      <EDID>DLC04_RQ_PlayerContinue</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>I'm listening</Source>
+      <Dest>Poslouchám</Dest>
+    </String>
+    <String List="0" sID="000E2B" Partial="1">
+      <EDID>DLC04_RQ_Player_OffersHelp</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Sure, I'll help</Source>
+      <Dest>!Jistě, pomůžu</Dest>
+    </String>
+    <String List="0" sID="000E45" Partial="1">
+      <EDID>DLC04_RQ_PlayerInitialQuestion</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>What's up?</Source>
+      <Dest>Co se děje?</Dest>
+    </String>
+    <String List="0" sID="000E47" Partial="1">
+      <EDID>DLC04_RQ_Player_Accepts</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Sounds fun</Source>
+      <Dest>To zní zábavně</Dest>
+    </String>
+    <String List="0" sID="0011D7" Partial="1">
+      <EDID>[0101C718]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Working on it</Source>
+      <Dest>Dělám na tom</Dest>
+    </String>
+    <String List="0" sID="004167" Partial="1">
+      <EDID>[0104BCD7]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Follow me</Source>
+      <Dest>Následuj mě</Dest>
+    </String>
+    <String List="0" sID="004170" Partial="1">
+      <EDID>[0104BCBF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Never Mind</Source>
+      <Dest>Nevadí</Dest>
+    </String>
+    <String List="0" sID="004185" Partial="1">
+      <EDID>[0104BCC0]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>How's it going?</Source>
+      <Dest>!Jak to jde?</Dest>
+    </String>
+    <String List="0" sID="0041E3" Partial="1">
+      <EDID>[0104C0A7]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Try this "necklace"</Source>
+      <Dest>!Zkuste tento „náhrdelník“</Dest>
+    </String>
+    <String List="0" sID="004212" Partial="1">
+      <EDID>[0104BCC2]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Say your goodbyes</Source>
+      <Dest>!Řekněme, že vaše loučení</Dest>
+    </String>
+    <String List="0" sID="004350" Partial="1">
+      <EDID>[0104BCC1]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Try this "necklace"</Source>
+      <Dest>!Zkuste tento „náhrdelník“</Dest>
+    </String>
+    <String List="0" sID="004359" Partial="1">
+      <EDID>[0104C0A6]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Try this "necklace"</Source>
+      <Dest>!Zkuste tento „náhrdelník“</Dest>
+    </String>
+    <String List="2" sID="000DD9" Partial="1">
+      <EDID>[01017FA6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds fun.</Source>
+      <Dest>!Zní to zábava.</Dest>
+    </String>
+    <String List="2" sID="000DDA" Partial="1">
+      <EDID>[01017F90]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmmm... Let me get back to you about that?</Source>
+      <Dest>!Hmmm ... Nechte mě vrátit se k vám o tom?</Dest>
+    </String>
+    <String List="2" sID="000DDB" Partial="1">
+      <EDID>[01017FFF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a buck whose throat needs tearing out.</Source>
+      <Dest>!Je tu babku, jejíž hrdlo potřebuje vytržení.</Dest>
+    </String>
+    <String List="2" sID="000DDC" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I could use you again. If you know, you aint too busy.</Source>
+      <Dest>!Mohl bych vás znovu použít. Pokud víte, aint příliš zaneprázdněn.</Dest>
+    </String>
+    <String List="2" sID="000DDD" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>It's done.</Source>
+      <Dest>Je po všem.</Dest>
+    </String>
+    <String List="2" sID="000DDE" Partial="1">
+      <EDID>[01017FCF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got ya.</Source>
+      <Dest>!Mám tě.</Dest>
+    </String>
+    <String List="2" sID="000DDF" Partial="1">
+      <EDID>[01017FB3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I trust there will be something in this for me.</Source>
+      <Dest>!Doufám, že tam bude něco pro mě.</Dest>
+    </String>
+    <String List="2" sID="000DE1" Partial="1">
+      <EDID>[01017FC0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ain't you got the big ones.</Source>
+      <Dest>!Není máš ty velké.</Dest>
+    </String>
+    <String List="2" sID="000DE3" Partial="1">
+      <EDID>[01017F8C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fine. I got plenty of wolves that want to earn their meat.</Source>
+      <Dest>!Dobře. Mám spoustu vlky, kteří chtějí vydělávat na jejich maso.</Dest>
+    </String>
+    <String List="2" sID="000DE4" Partial="1">
+      <EDID>[01017FFD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got someone who needs to be put in their place... By which I mean "put in the ground."</Source>
+      <Dest>!Mám někoho, kdo potřebuje být na jejich místě ... čímž myslím, „vložil se do země.“</Dest>
+    </String>
+    <String List="2" sID="000DE5" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Hey1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey.</Source>
+      <Dest>Ahoj.</Dest>
+    </String>
+    <String List="2" sID="000DE7" Partial="1">
+      <EDID>[01017FB8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't want to disappoint the Alpha. Alright. But I'm still taking that as a "no."</Source>
+      <Dest>!Nechceme zklamat Alpha. V pořádku. Ale já pořád brát to jako „ne“.</Dest>
+    </String>
+    <String List="2" sID="000DE8" Partial="1">
+      <EDID>[01017FCD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Think I'm going to pass on that.</Source>
+      <Dest>!Že budu předat to.</Dest>
+    </String>
+    <String List="2" sID="000DE9" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got another job. Interested?</Source>
+      <Dest>!Mám jinou práci. Zajímám?</Dest>
+    </String>
+    <String List="2" sID="000DEA" Partial="1">
+      <EDID>[01017FD6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>And here I thought I'd have to soften you up more.</Source>
+      <Dest>!A tady jsem si myslel, že budu muset vás obměkčit víc.</Dest>
+    </String>
+    <String List="2" sID="000DEB" Partial="1">
+      <EDID>[01017F85]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That goes without saying.</Source>
+      <Dest>!To je samozřejmé.</Dest>
+    </String>
+    <String List="2" sID="000DEC" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Boss. I got something that requires your attention.</Source>
+      <Dest>!Šéf. Mám něco, co vyžaduje vaši pozornost.</Dest>
+    </String>
+    <String List="2" sID="000DED" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mason3</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mason.</Source>
+      <Dest>Mason.</Dest>
+    </String>
+    <String List="2" sID="000DEE" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got another thing, if you want it.</Source>
+      <Dest>!Dostal další věc, pokud ho chcete.</Dest>
+    </String>
+    <String List="2" sID="000DEF" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_HeyThere2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey there.</Source>
+      <Dest>Zdravíčko.</Dest>
+    </String>
+    <String List="2" sID="000DF0" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_HowYouDoing</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>How you doing?</Source>
+      <Dest>!Jak se máš?</Dest>
+    </String>
+    <String List="2" sID="000DF1" Partial="1">
+      <EDID>[01017F83]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The rules of the Pack - you help chase down the prey, you share in the spoils. So yeah. You'll get some.</Source>
+      <Dest>!Pravidla Šelem - pomůžeme ti honit kořist, sdílíš kořist. Tak jo. Získáte některé z nich.</Dest>
+    </String>
+    <String List="2" sID="000DF2" Partial="1">
+      <EDID>[01017FE0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not sure the big boss-man needs a piddley reward. But fair's fair. Here you go.</Source>
+      <Dest>!Nejste si jisti, velký boss-man potřebuje piddley odměnu. Ale spravedlivý je fair. Tady máš.</Dest>
+    </String>
+    <String List="2" sID="000DF3" Partial="1">
+      <EDID>[01017F7E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Who will I be facing?</Source>
+      <Dest>!Koho budu čelit?</Dest>
+    </String>
+    <String List="2" sID="000DF4" Partial="1">
+      <EDID>[01017FD3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ahah.</Source>
+      <Dest>Ahah.</Dest>
+    </String>
+    <String List="2" sID="000DF5" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Boss. I got something else that requires your attention.</Source>
+      <Dest>!Šéf. Mám něco jiného, co vyžaduje vaši pozornost.</Dest>
+    </String>
+    <String List="2" sID="000DF6" Partial="1">
+      <EDID>[01017FB7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Can't find the balls to give a straight answer? I'll find someone else.</Source>
+      <Dest>!Nelze najít odvahu dát přímou odpověď? Najdu někoho jiného.</Dest>
+    </String>
+    <String List="2" sID="000DF8" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You busy? I got something for ya.</Source>
+      <Dest>!Vy obsazeno? Mám něco pro tebe.</Dest>
+    </String>
+    <String List="2" sID="000DF9" Partial="1">
+      <EDID>[01017FA5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sign me up!</Source>
+      <Dest>!Přihlaš mě!</Dest>
+    </String>
+    <String List="2" sID="000DFA" Partial="1">
+      <EDID>[01017F8E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Soooo... there's like this other thing I have to do...</Source>
+      <Dest>!Soooo ... je tu takhle jinou věc, co musím udělat ...</Dest>
+    </String>
+    <String List="2" sID="000DFB" Partial="1">
+      <EDID>[01017FBF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Back already?</Source>
+      <Dest>!Back už?</Dest>
+    </String>
+    <String List="2" sID="000DFC" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro10_PCFemale</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, hey! if it ain't the boss-lady herself. Don't 'spose you got some time to help me out with a little something-something?</Source>
+      <Dest>!Ahoj ahoj! pokud to není boss-dáma sama. Nenechte „spose máte nějaký čas, aby mi pomohl ven s trochou něco-něco?</Dest>
+    </String>
+    <String List="2" sID="000DFD" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Situation dealt with.</Source>
+      <Dest>!Situace se zabýval.</Dest>
+    </String>
+    <String List="2" sID="000DFE" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mason1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Mason.</Source>
+      <Dest>!Hej, Mason.</Dest>
+    </String>
+    <String List="2" sID="000DFF" Partial="1">
+      <EDID>[01017FDF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I can see the caps in your eyes. Here you go, you greedy mongrel.</Source>
+      <Dest>!Vidím zátek?v tvých očích. Tady to máš, ty nenasytný kříženec.</Dest>
+    </String>
+    <String List="2" sID="000E00" Partial="1">
+      <EDID>[01017FC7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Welcome back. You just missed the parade we threw in your honor.</Source>
+      <Dest>!Vítej zpět. Jen jste vynechal průvod jsme hodili na vaši počest.</Dest>
+    </String>
+    <String List="2" sID="000E01" Partial="1">
+      <EDID>[01017F92]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ttth... Not sure if I can help you right now.</Source>
+      <Dest>!Ttth ... Nejste si jisti, jestli jsem vám může pomoci právě teď.</Dest>
+    </String>
+    <String List="2" sID="000E02" Partial="1">
+      <EDID>[01017FAE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Whatcha got?</Source>
+      <Dest>Copak máš?</Dest>
+    </String>
+    <String List="2" sID="000E03" Partial="1">
+      <EDID>[01017FE3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Add this to your pile of caps.</Source>
+      <Dest>!Přidat na svou hromadu zátek?</Dest>
+    </String>
+    <String List="2" sID="000E04" Partial="1">
+      <EDID>[01017FDB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You probably expect some kind of reward? Fine. Here.</Source>
+      <Dest>!Pravděpodobně jste očekávat nějakou odměnu? Dobře. Zde.</Dest>
+    </String>
+    <String List="2" sID="000E05" Partial="1">
+      <EDID>[01017F8F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Eh... I'll need to get back to you on that.</Source>
+      <Dest>!Eh ... budu potřebovat dostat zpět k vám na to.</Dest>
+    </String>
+    <String List="2" sID="000E06" Partial="1">
+      <EDID>[01017FC9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Yeah. No.</Source>
+      <Dest>!To jo. Ne.</Dest>
+    </String>
+    <String List="2" sID="000E07" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got something else. Unless you're done rooting around with us animals.</Source>
+      <Dest>!Mám něco jiného. Pokud jste hotovi zakořenění kolem s námi zvířaty.</Dest>
+    </String>
+    <String List="2" sID="000E08" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got a job. Has your name written all over it.</Source>
+      <Dest>!Dostal práci. Má Vaše jméno napsáno nad ním.</Dest>
+    </String>
+    <String List="2" sID="000E09" Partial="1">
+      <EDID>[01017FDE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I don't 'spose you do things out of the kindness of your heart. So, take this and we'll call it even.</Source>
+      <Dest>!Nemyslím „spose děláte věci z dobroty srdce. Tak, aby to a budeme říkat i.</Dest>
+    </String>
+    <String List="2" sID="000E0A" Partial="1">
+      <EDID>[01017FA7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Right up my alley.</Source>
+      <Dest>!Až mé uličky.</Dest>
+    </String>
+    <String List="2" sID="000E0B" Partial="1">
+      <EDID>[01017FBB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Way to burrow your way outa things. Could have just said, "no."</Source>
+      <Dest>!Způsob, jak se zavrtat svou cestu Outa věci. Mohlo to jen řekl „ne“.</Dest>
+    </String>
+    <String List="2" sID="000E0C" Partial="1">
+      <EDID>[01017FD0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Go on.</Source>
+      <Dest>Pokračuj.</Dest>
+    </String>
+    <String List="2" sID="000E0E" Partial="1">
+      <EDID>[01017FD2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ayah.</Source>
+      <Dest>Ayah.</Dest>
+    </String>
+    <String List="2" sID="000E0F" Partial="1">
+      <EDID>[01017FE2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>It's my job as Pack Alpha to render up the spoils. Here, consider yourself spoiled.</Source>
+      <Dest>Je to moje práce jakožto Alfa šelmy prokázat zkaženost. Tady, považuj se za zkaženého.</Dest>
+    </String>
+    <String List="2" sID="000E10" Partial="1">
+      <EDID>[01017FC2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You certainly can handle your shit, can't you?</Source>
+      <Dest>!Určitě můžete zpracovat vaše sračky, ne?</Dest>
+    </String>
+    <String List="2" sID="000E11" Partial="1">
+      <EDID>[01017F86]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You hurting for caps? I find that hard to believe. But yeah. No problem. You'll get a cut.</Source>
+      <Dest>!Vy bolí pro zátek? Zjistil jsem, že těžko věřit. Ale jo. Žádný problém. Dostanete řez.</Dest>
+    </String>
+    <String List="2" sID="000E14" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Heh. Come to slum it with us animals? Or you looking for something to do? 'Cause I got something.</Source>
+      <Dest>!Heh. Přijďte se slumu s námi zvířaty? Nebo si hledal něco dělat? Protože něco mám.</Dest>
+    </String>
+    <String List="2" sID="000E15" Partial="1">
+      <EDID>[01017FFE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got someone pissing in their watering hole. Needs to be taught a lesson. A permanent one.</Source>
+      <Dest>!Mám někoho chcaní v jejich zalévání díry. Je třeba lekci. Stálá jeden.</Dest>
+    </String>
+    <String List="2" sID="000E17" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>How about something a little more challenging next time.</Source>
+      <Dest>!Jak se o něco málo náročnější příště.</Dest>
+    </String>
+    <String List="2" sID="000E18" Partial="1">
+      <EDID>[01017F80]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Who am I up against?</Source>
+      <Dest>!Kdo jsem proti?</Dest>
+    </String>
+    <String List="2" sID="000E19" Partial="1">
+      <EDID>[01017FCC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Since when am I your bitch?</Source>
+      <Dest>!Vzhledem k tomu, když jsem tvoje děvka?</Dest>
+    </String>
+    <String List="2" sID="000E1A" Partial="1">
+      <EDID>[01017FAD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What's happening?</Source>
+      <Dest>Co se to děje?</Dest>
+    </String>
+    <String List="2" sID="000E1B" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You busy? I got another something for ya.</Source>
+      <Dest>!Vy obsazeno? Mám jiný něco pro tebe.</Dest>
+    </String>
+    <String List="2" sID="000E1C" Partial="1">
+      <EDID>[01017FD9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good! All I got on hand are pups. I need someone I can trust on this.</Source>
+      <Dest>!Dobrý! Vše, co jsem se dostal na ruce jsou mláďata. Potřebuji někoho, komu můžu věřit na toto téma.</Dest>
+    </String>
+    <String List="2" sID="000E1D" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got something lined up. Don't 'spose you want to lend another hand?</Source>
+      <Dest>!Mám něco, co postavili. Nenechte „spose chcete půjčit jinou ruku?</Dest>
+    </String>
+    <String List="2" sID="000E1E" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mason2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Mason.</Source>
+      <Dest>!Hej, Mason.</Dest>
+    </String>
+    <String List="2" sID="000E1F" Partial="1">
+      <EDID>[01017F96]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm here to help.</Source>
+      <Dest>Jsem tady kvůli pomoci.</Dest>
+    </String>
+    <String List="2" sID="000E20" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_WhatsHappening</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What's happening.</Source>
+      <Dest>!Co se děje.</Dest>
+    </String>
+    <String List="2" sID="000E21" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mason4</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mason.</Source>
+      <Dest>Mason.</Dest>
+    </String>
+    <String List="2" sID="000E22" Partial="1">
+      <EDID>[01017FA9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Think I'm going to enjoy that.</Source>
+      <Dest>!Že budu těšit, že.</Dest>
+    </String>
+    <String List="2" sID="000E23" Partial="1">
+      <EDID>[01018043]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Yeah. I thought you might like that.</Source>
+      <Dest>!To jo. Myslel jsem, že byste ráda.</Dest>
+    </String>
+    <String List="2" sID="000E24" Partial="1">
+      <EDID>[01017FCA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Do I look like I want to run your errands?</Source>
+      <Dest>!Vypadám snad jako já chci provozovat své pochůzky?</Dest>
+    </String>
+    <String List="2" sID="000E26" Partial="1">
+      <EDID>[01018041]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I was hoping you'd say that.</Source>
+      <Dest>Doufal jsem, že to řekneš.</Dest>
+    </String>
+    <String List="2" sID="000E27" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro10_PCMale</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, hey! if it ain't the boss-man his self. Don't 'spose you got some time to help me out with a little something-something?</Source>
+      <Dest>!Ahoj ahoj! pokud to není boss-man jeho vlastní. Nenechte „spose máte nějaký čas, aby mi pomohl ven s trochou něco-něco?</Dest>
+    </String>
+    <String List="2" sID="000E28" Partial="1">
+      <EDID>[01017FC4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're Alpha, alright.</Source>
+      <Dest>!Jsi Alpha, v pořádku.</Dest>
+    </String>
+    <String List="2" sID="000E2A" Partial="1">
+      <EDID>[01017FB5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If I scratch your back, I expect you'll scratch mine.</Source>
+      <Dest>!Kdybych poškrábat záda, předpokládám, že budete poškrábat můj.</Dest>
+    </String>
+    <String List="2" sID="000E2C" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_HeyThere1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey there.</Source>
+      <Dest>Zdravíčko.</Dest>
+    </String>
+    <String List="2" sID="000E2D" Partial="1">
+      <EDID>[01017FCB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think you're confusing me with someone who gives a shit.</Source>
+      <Dest>!Myslím, že mě matoucí s někým, kdo to zajímá.</Dest>
+    </String>
+    <String List="2" sID="000E2E" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Did you miss me?</Source>
+      <Dest>!Chyběl jsem ti?</Dest>
+    </String>
+    <String List="2" sID="000E2F" Partial="1">
+      <EDID>[01017FC3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>See people. That right there is how it's done.</Source>
+      <Dest>!Viz lidí. Že tady je, jak se to dělá.</Dest>
+    </String>
+    <String List="2" sID="000E30" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm back.</Source>
+      <Dest>Jsem zpátky.</Dest>
+    </String>
+    <String List="2" sID="000E31" Partial="1">
+      <EDID>[01017FBE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well that didn't take long.</Source>
+      <Dest>!No, to netrvalo dlouho.</Dest>
+    </String>
+    <String List="2" sID="000E32" Partial="1">
+      <EDID>[01017FDC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't spend this all in one place.</Source>
+      <Dest>!Netráví to všechno na jednom místě.</Dest>
+    </String>
+    <String List="2" sID="000E33" Partial="1">
+      <EDID>[01018042]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That's what I like to hear.</Source>
+      <Dest>Tak se mi to líbí.</Dest>
+    </String>
+    <String List="2" sID="000E34" Partial="1">
+      <EDID>[01017F7D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Who are we talking about here?</Source>
+      <Dest>!Kdo mluvíme tady o?</Dest>
+    </String>
+    <String List="2" sID="000E35" Partial="1">
+      <EDID>[01018000]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Cock's out there kicking up dust in their business. Need that bird's feather's plucked.</Source>
+      <Dest>!Kohouta se tam kope do prachu v jejich podnikání. Potřebujeme, že ptačí peří je trhal.</Dest>
+    </String>
+    <String List="2" sID="000E36" Partial="1">
+      <EDID>[01017FD7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>No kiddin'? Alright then.</Source>
+      <Dest>!Ne kecám? Tedy dobrá.</Dest>
+    </String>
+    <String List="2" sID="000E37" Partial="1">
+      <EDID>[01018040]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Go get 'em!</Source>
+      <Dest>Běž a dostaň je!</Dest>
+    </String>
+    <String List="2" sID="000E38" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Chalk another one up for the... Well, I was going to say "good guys"  but -heh- you know what I mean.</Source>
+      <Dest>!Křída jinou up pro ... No, chtěl jsem říct, „dobří“, ale -heh- víte, co tím myslím.</Dest>
+    </String>
+    <String List="2" sID="000E39" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Done and done.</Source>
+      <Dest>Považuj to za hotové.</Dest>
+    </String>
+    <String List="2" sID="000E3A" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That business you wanted handled. It's handled.</Source>
+      <Dest>!Že firma, kterou chtěl manipulovat. Je to ovládal.</Dest>
+    </String>
+    <String List="2" sID="000E3B" Partial="1">
+      <EDID>[01017F95]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Whatever I can do to help.</Source>
+      <Dest>!Ať mohu udělat, aby pomohla.</Dest>
+    </String>
+    <String List="2" sID="000E3C" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey there. You bored? Looking for something to do?</Source>
+      <Dest>!Nazdárek. Jsi znuděný? Hledal něco dělat?</Dest>
+    </String>
+    <String List="2" sID="000E3D" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What can I say? I'm good at what I do.</Source>
+      <Dest>!Co můžu říct? Jsem dobrý v tom, co dělám.</Dest>
+    </String>
+    <String List="2" sID="000E3E" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>So. Don't 'spose you want to help me out with another little something-something?</Source>
+      <Dest>!Tak. Nenechte „spose chcete, aby mi pomohl s dalším něco-něco?</Dest>
+    </String>
+    <String List="2" sID="000E3F" Partial="1">
+      <EDID>[01017F89]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'll root around for some other jerkoff to run my errands then.</Source>
+      <Dest>!Budu fandit kolem nějakého jiného jerkoff provozovat své pochůzky poté.</Dest>
+    </String>
+    <String List="2" sID="000E40" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Pack might need you for something else. What do you say?</Source>
+      <Dest>!Šelmy byste mohli potřebovat na něco jiného. Co říkáš?</Dest>
+    </String>
+    <String List="2" sID="000E41" Partial="1">
+      <EDID>[01017FE1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I hate to part with this. But, you earned it.</Source>
+      <Dest>!Nerad rozloučit s tím. Ale vy to zasloužil.</Dest>
+    </String>
+    <String List="2" sID="000E42" Partial="1">
+      <EDID>DLC04_RQ_Mason_Another03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey Boss. You got any more free time?</Source>
+      <Dest>!Hej Boss. Máš nějaký více volného času?</Dest>
+    </String>
+    <String List="2" sID="000E43" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I could use you. If you know, you aint too busy.</Source>
+      <Dest>!Mohl bych tě použít. Pokud víte, aint příliš zaneprázdněn.</Dest>
+    </String>
+    <String List="2" sID="000E44" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_CompleteQuest08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Boom! And that's how it's done.</Source>
+      <Dest>!Výložník! A to je, jak se to dělá.</Dest>
+    </String>
+    <String List="2" sID="000E46" Partial="1">
+      <EDID>[01017FE4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your cut.</Source>
+      <Dest>!Tvůj střih.</Dest>
+    </String>
+    <String List="2" sID="000E48" Partial="1">
+      <EDID>[01017FD5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, ain't that sweet of you.</Source>
+      <Dest>!No, není to milé.</Dest>
+    </String>
+    <String List="2" sID="000E49" Partial="1">
+      <EDID>[01017F8B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sure, boss. Ain't no fur off my ass.</Source>
+      <Dest>!Jistě, šéfe. Není žádná kožešina z mého zadku.</Dest>
+    </String>
+    <String List="2" sID="000E4A" Partial="1">
+      <EDID>[01017F8A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Big boss-man has big boss-man things to do. I got ya.</Source>
+      <Dest>!Big boss-man má velké boss-man věci na práci. Mám tě.</Dest>
+    </String>
+    <String List="2" sID="000E4D" Partial="1">
+      <EDID>[01017FC5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some said you couldn't do it. I had those assholes shot... No really.</Source>
+      <Dest>!Někteří tvrdili, že jste nemohli udělat. Měl jsem ty kreténi výstřel ... Ne tak docela.</Dest>
+    </String>
+    <String List="2" sID="000E4E" Partial="1">
+      <EDID>[01017F91]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ahh... I need to wash my hair...</Source>
+      <Dest>!Ach ... Musím si umýt vlasy ...</Dest>
+    </String>
+    <String List="2" sID="000E4F" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_WhatsUp</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What's up.</Source>
+      <Dest>!Co se děje.</Dest>
+    </String>
+    <String List="2" sID="000E50" Partial="1">
+      <EDID>[01017FD8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'd a done it myself, but I got my hands full with the zoo.</Source>
+      <Dest>!Měli jsem to udělal sám, ale mám plné ruce práce s zoo.</Dest>
+    </String>
+    <String List="2" sID="000E51" Partial="1">
+      <EDID>[01017FC1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Welcome back bucko.</Source>
+      <Dest>!Vítej zpět Bucko.</Dest>
+    </String>
+    <String List="2" sID="000E52" Partial="1">
+      <EDID>[01018044]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Wish everyone had your thirst for the chase!</Source>
+      <Dest>!Přejeme každý měl svou žízeň k lovu!</Dest>
+    </String>
+    <String List="2" sID="000E53" Partial="1">
+      <EDID>[01017FB2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I expect you to make it worth my while.</Source>
+      <Dest>!Očekávám, že aby to stojí moje chvíle.</Dest>
+    </String>
+    <String List="2" sID="000E54" Partial="1">
+      <EDID>[01017F84]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Of course. I'll send a little scratch your way.</Source>
+      <Dest>!Samozřejmě. Pošlu trochu Scratch svou cestu.</Dest>
+    </String>
+    <String List="2" sID="000E55" Partial="1">
+      <EDID>[01017FB9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Letting me down easy? Not to worry. I got plenty of other wolves who want to earn their meat.</Source>
+      <Dest>!Nechat mě snadné? Není se čeho bát. Mám spoustu dalších vlků, kteří chtějí vydělávat na jejich maso.</Dest>
+    </String>
+    <String List="2" sID="000E56" Partial="1">
+      <EDID>[01017FD1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm listening.</Source>
+      <Dest>Poslouchám.</Dest>
+    </String>
+    <String List="2" sID="000E57" Partial="1">
+      <EDID>[01017F98]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Whatever it is, I'll take care of it.</Source>
+      <Dest>!Ať je to cokoliv, já se o to postarám.</Dest>
+    </String>
+    <String List="2" sID="000E58" Partial="1">
+      <EDID>[01018001]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Need someone removed from the food chain.</Source>
+      <Dest>!Potřebuji někoho, kdo odstranit z potravního řetězce.</Dest>
+    </String>
+    <String List="2" sID="000E59" Partial="1">
+      <EDID>[01017FAF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There a problem?</Source>
+      <Dest>Nějaký problém?</Dest>
+    </String>
+    <String List="2" sID="000E5A" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey Boss. You got a minute?</Source>
+      <Dest>!Hej Boss. Máte chvilku?</Dest>
+    </String>
+    <String List="2" sID="000E5B" Partial="1">
+      <EDID>[01017F88]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Pffft. Whatever, boss-man.</Source>
+      <Dest>!Pffft. Bez ohledu, šéfe-man.</Dest>
+    </String>
+    <String List="2" sID="000E5C" Partial="1">
+      <EDID>[01017FAC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Whatcha need?</Source>
+      <Dest>Co potřebuješ?</Dest>
+    </String>
+    <String List="2" sID="000E5D" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Pack needs ya for something.</Source>
+      <Dest>!Šelmy potřebuje tě na něco.</Dest>
+    </String>
+    <String List="2" sID="000E5E" Partial="1">
+      <EDID>[01017FA8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>My kind of work.</Source>
+      <Dest>!Můj druh práce.</Dest>
+    </String>
+    <String List="2" sID="000E5F" Partial="1">
+      <EDID>[01017FAB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What's up?</Source>
+      <Dest>Co se děje?</Dest>
+    </String>
+    <String List="2" sID="000E60" Partial="1">
+      <EDID>DLC04_RQ_Mason_Intro04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>So nice of you to drop by and check in. Care to lend a hand?</Source>
+      <Dest>!Takže hezké, že jste se stavit a zkontrolujte. Péče podat pomocnou ruku?</Dest>
+    </String>
+    <String List="2" sID="000E61" Partial="1">
+      <EDID>[01017F97]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your wish is my command.</Source>
+      <Dest>!Vaše přání je mi rozkazem.</Dest>
+    </String>
+    <String List="2" sID="000E62" Partial="1">
+      <EDID>[01017F94]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sure. Whatever you need.</Source>
+      <Dest>!Jistě. Ať už budete potřebovat.</Dest>
+    </String>
+    <String List="2" sID="000E65" Partial="1">
+      <EDID>[01017FBA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Can't bear to look me in the eye and tell me, no? Huh.</Source>
+      <Dest>!Nesnesu, aby mě podívat do očí a říct mi, ne? Huh.</Dest>
+    </String>
+    <String List="2" sID="000E66" Partial="1">
+      <EDID>[01017FDD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here's a cut of the kill. I suppose you deserve it.</Source>
+      <Dest>!Zde je střih zabít. Myslím, že si to zaslouží.</Dest>
+    </String>
+    <String List="2" sID="000E67" Partial="1">
+      <EDID>[01017FB4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I hope you're not under the impression I'd do this for nothing.</Source>
+      <Dest>!Doufám, že nejste pod dojmem, že bych to pro nic za nic.</Dest>
+    </String>
+    <String List="2" sID="000E68" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Hey2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey.</Source>
+      <Dest>Ahoj.</Dest>
+    </String>
+    <String List="2" sID="000E69" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_HowsItHanging</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>How's it hanging?</Source>
+      <Dest>!Jak to visí?</Dest>
+    </String>
+    <String List="2" sID="000E6A" Partial="1">
+      <EDID>[01017FC6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Back so soon? That's too bad. I didn't have time to arrange the party.</Source>
+      <Dest>!Zpět tak brzo? To je zlé. Neměl jsem čas uspořádat večírek.</Dest>
+    </String>
+    <String List="2" sID="000F0A" Partial="1">
+      <EDID>[0101A5AE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want to cause a little ruckus for our so-called friends, the Disciples.</Source>
+      <Dest>!Chci vyvolat trochu rozruch pro naše takzvané přátele, Stoupence.</Dest>
+    </String>
+    <String List="2" sID="000F15" Partial="1">
+      <EDID>[0101A5AA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of the roosts got some trouble.</Source>
+      <Dest>!Jeden z úkrytů má nějaké potíže.</Dest>
+    </String>
+    <String List="2" sID="000F27" Partial="1">
+      <EDID>[0101A5B3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They have a special friend out in the wastes. Would sure be a shame if something happened to that friend of theirs.</Source>
+      <Dest>!Mají zvláštní přítele v odpadech. By být jisti, že škoda, kdyby se něco stalo s tím přítelem jejich.</Dest>
+    </String>
+    <String List="2" sID="000F56" Partial="1">
+      <EDID>[0101A5A8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got a lair that need's assistance.</Source>
+      <Dest>!Mám doupě, které je potřeba to pomoc.</Dest>
+    </String>
+    <String List="2" sID="000F5B" Partial="1">
+      <EDID>[0101A5AD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want to put those Operators in their place.</Source>
+      <Dest>Chci, aby byli Provozáci na svém místě.</Dest>
+    </String>
+    <String List="2" sID="000F5F" Partial="1">
+      <EDID>[0101A5A9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A nest out in the wastes put a call out.</Source>
+      <Dest>!Hnízdo v odpadech dát výzvu ven.</Dest>
+    </String>
+    <String List="2" sID="000F63" Partial="1">
+      <EDID>[0101A5B4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They made nice with one of my friends. I'm not feeling so friendly any more. Care to permanently end that friendship for me?</Source>
+      <Dest>!Udělali hezké s jedním z mých přátel. Necítím se tak přátelský nic víc. Péče trvale ukončit že přátelství pro mě?</Dest>
+    </String>
+    <String List="2" sID="000F64" Partial="1">
+      <EDID>[0101A5B1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They made what they think is a powerful ally. Little do they know, alliances with corpses don't last long. If you catch my meaning.</Source>
+      <Dest>!Udělali to, co si myslí, že je mocný spojenec. Málo vědí, spojenectví s mrtvoly dlouho nevydrží. Pokud jste chytit můj smysl.</Dest>
+    </String>
+    <String List="2" sID="000F73" Partial="1">
+      <EDID>[0101A5AF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want to put those Disciples in their place.</Source>
+      <Dest>!Chci, aby ty Stoupence na jejich místo.</Dest>
+    </String>
+    <String List="2" sID="000FA5" Partial="1">
+      <EDID>[0101A5AC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want to cause a little ruckus for our so-called friends, the Operators.</Source>
+      <Dest>Chci vyvolat trochu rozruchu pro naše takzvané přátele, Provozáky.</Dest>
+    </String>
+    <String List="2" sID="000FB2" Partial="1">
+      <EDID>[0101A5A7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our den's put out a call for aid.</Source>
+      <Dest>!Jeden z našich den je uhasit volání o pomoc.</Dest>
+    </String>
+    <String List="2" sID="000FB7" Partial="1">
+      <EDID>[0101A5A6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got word from one of our burrows.</Source>
+      <Dest>!Dostali zprávu od jednoho z našich nor.</Dest>
+    </String>
+    <String List="2" sID="001153" Partial="1">
+      <EDID>[0101C721]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You could be out there busting heads instead of here yapping with me.</Source>
+      <Dest>!Ty by mohly být venku mlátit hlavami místo zde yapping se mnou.</Dest>
+    </String>
+    <String List="2" sID="00116B" Partial="1">
+      <EDID>[0101C72C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>How's that job going? You're still doing it, right?</Source>
+      <Dest>!Jak to, že práce jde? Pořád to dělá, ne?</Dest>
+    </String>
+    <String List="2" sID="001171" Partial="1">
+      <EDID>[0101C71A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm on it. Don't worry.</Source>
+      <Dest>!Jdu na to. Nebojte se.</Dest>
+    </String>
+    <String List="2" sID="001174" Partial="1">
+      <EDID>[0101C72B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't you have something you were doing for me?</Source>
+      <Dest>!Ještě nemáte něco, co jste dělali pro mě?</Dest>
+    </String>
+    <String List="2" sID="001176" Partial="1">
+      <EDID>[0101C730]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're still up to that little task I gave you, yeah?</Source>
+      <Dest>!Jsi pořád do té malé úkolu jsem ti dal, jo?</Dest>
+    </String>
+    <String List="2" sID="001178" Partial="1">
+      <EDID>[0101C716]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't worry. I'm still on it.</Source>
+      <Dest>!Nebojte se. Jsem stále na něm.</Dest>
+    </String>
+    <String List="2" sID="001179" Partial="1">
+      <EDID>[0101C71B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got you covered. Sit tight.</Source>
+      <Dest>!Dostal jsem vás vztahuje. Sedět.</Dest>
+    </String>
+    <String List="2" sID="00117E" Partial="1">
+      <EDID>[0101C720]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I trust you'll get it done. Eventually.</Source>
+      <Dest>!Věřím, že budete si to udělat. Nakonec.</Dest>
+    </String>
+    <String List="2" sID="00117F" Partial="1">
+      <EDID>[0101C71F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't keep me waiting forever.</Source>
+      <Dest>!Nenechte mě čekat navždy.</Dest>
+    </String>
+    <String List="2" sID="001181" Partial="1">
+      <EDID>[0101C71D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Alright.</Source>
+      <Dest>Dobře.</Dest>
+    </String>
+    <String List="2" sID="001183" Partial="1">
+      <EDID>[0101C71C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good to hear.</Source>
+      <Dest>To rád slyším.</Dest>
+    </String>
+    <String List="2" sID="001188" Partial="1">
+      <EDID>[0101C717]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm working on it.</Source>
+      <Dest>Pracuji na tom.</Dest>
+    </String>
+    <String List="2" sID="00118C" Partial="1">
+      <EDID>[0101C719]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'm still working on it.</Source>
+      <Dest>Ještě na tom pracuji.</Dest>
+    </String>
+    <String List="2" sID="0011C2" Partial="1">
+      <EDID>[0101E324]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Railroad.</Source>
+      <Dest>!Železnici.</Dest>
+    </String>
+    <String List="2" sID="0011DA" Partial="1">
+      <EDID>[0101E325]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Institute.</Source>
+      <Dest>!Institut.</Dest>
+    </String>
+    <String List="2" sID="0011E3" Partial="1">
+      <EDID>[0101E319]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some Supermutants. Nothing you can't handle.</Source>
+      <Dest>!Některé Supermutants. Nic vám nemůže zvládnout.</Dest>
+    </String>
+    <String List="2" sID="0011EB" Partial="1">
+      <EDID>[0101E331]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They made enemies they shouldn't have. Normally I let fools nest in their own filth. But I'm feeling generous. Care to help take out the trash?</Source>
+      <Dest>!Oni dělali nepřátele oni by neměli mít. Normálně bych nechal blázni hnízdo ve své vlastní špíně. Ale cítím velkorysý. Péče pomoci vynést odpadky?</Dest>
+    </String>
+    <String List="2" sID="0011FA" Partial="1">
+      <EDID>[0101E31D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Couple Brotherhood of Steel aholes. You'll be doing the world a favor.</Source>
+      <Dest>!Pár Brotherhood of Steel aholes. Budete dělat světu laskavost.</Dest>
+    </String>
+    <String List="2" sID="001202" Partial="1">
+      <EDID>[0101E31A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Supermutants.</Source>
+      <Dest>Supermutanti.</Dest>
+    </String>
+    <String List="2" sID="001206" Partial="1">
+      <EDID>[0101E329]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They ran out of supplies. Normally I'd let 'em wallow in their stupidity. But I'm in a good mood today. I also know where we can borrow some supplies.</Source>
+      <Dest>!Oni se vyčerpali zásoby. Za normálních okolností bych nechal 'em libují v jejich hloupost. Ale já jsem v dobré náladě dnes. Také vím, kde můžeme půjčit nějaké zásoby.</Dest>
+    </String>
+    <String List="2" sID="00121E" Partial="1">
+      <EDID>[0101E32F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got some rats nesting on a cache of supplies that belongs to the Pack. Care to help clean out the vermin?</Source>
+      <Dest>!Dostal nějaké krysy, hnízdí na cache zásoby, které patří Šelmám. Péče pomoci vyčistit havěť?</Dest>
+    </String>
+    <String List="2" sID="001223" Partial="1">
+      <EDID>[0101E32E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's an outpost in the wastes that won't trade with us. So, we'll just go take what we want from them.</Source>
+      <Dest>!Tam je základna v odpadech, které nebudou obchodovat s námi. Takže, budeme jen tak vzít to, co chceme od nich.</Dest>
+    </String>
+    <String List="2" sID="001228" Partial="1">
+      <EDID>[0101E32C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a cache of stuff that belongs to the Pack. The current owners think otherwise. We're going to put them in their place.</Source>
+      <Dest>!Je tu cache věcí, které patří Šelmám. Stávající majitelé myslí jinak. Chystáme se dát je na svém místě.</Dest>
+    </String>
+    <String List="2" sID="001229" Partial="1">
+      <EDID>[0101E32A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a sweet new cache of supplies. Trouble is, it's in the hands of someone else at the moment. Want to help 'em deal with that minor detail?</Source>
+      <Dest>!Mají sladkou novou mezipaměť dodávek. Potíž je v tom, že je v rukou někoho jiného v tuto chvíli. Chcete pomoci 'em se s tím vypořádat maličkost?</Dest>
+    </String>
+    <String List="2" sID="00122B" Partial="1">
+      <EDID>[0101E328]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They're having a little trouble convincing some new friends to share their stash of goodies. So we're just going to go and take it all instead.</Source>
+      <Dest>!Jsou to trochu potíže přesvědčit některé nové přátele podělit se o své skrýš dobrot. Takže jsme prostě jít a vzít to všechno místo.</Dest>
+    </String>
+    <String List="2" sID="00122C" Partial="1">
+      <EDID>[0101E326]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Institute. A bunch of scared hens hiding behind their robots.</Source>
+      <Dest>!Institut. Je to banda vystrašených slepic skrývá za svými roboty.</Dest>
+    </String>
+    <String List="2" sID="00122D" Partial="1">
+      <EDID>[0101E323]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Railroad "agents." Who do those guys think they are anyway?</Source>
+      <Dest>!Železniční „agenti“. Kdo si ti kluci myslí, že jsou vlastně je?</Dest>
+    </String>
+    <String List="2" sID="00122E" Partial="1">
+      <EDID>[0101E322]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Gunners.</Source>
+      <Dest>Ranaři.</Dest>
+    </String>
+    <String List="2" sID="001231" Partial="1">
+      <EDID>[0101E321]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Gunners. Those guys don't play nice. But neither do we.</Source>
+      <Dest>Ranaři. Ti kluci nehrají čistě. Ale to ani my.</Dest>
+    </String>
+    <String List="2" sID="001233" Partial="1">
+      <EDID>[0101E320]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Minutemen.</Source>
+      <Dest>Minutemani.</Dest>
+    </String>
+    <String List="2" sID="001237" Partial="1">
+      <EDID>[0101E31E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Brotherhood of Steel.</Source>
+      <Dest>!Brotherhood of Steel.</Dest>
+    </String>
+    <String List="2" sID="001238" Partial="1">
+      <EDID>[0101E31C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Raiders.</Source>
+      <Dest>Nájezdníci.</Dest>
+    </String>
+    <String List="2" sID="00124E" Partial="1">
+      <EDID>[0101E31F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A handful of Minutemen. Anyone who thinks those wankers can protect them ain't never met a Pack member.</Source>
+      <Dest>Hrstka Minutemanů. Každý, kdo si myslí, že ho tihle onanisti můžou ochránit, se nikdy nesetkal se členem Šelem.</Dest>
+    </String>
+    <String List="2" sID="001252" Partial="1">
+      <EDID>[0101E32D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's supplies the Pack wants that others have. What the Pack wants, the Pack goes and gets.</Source>
+      <Dest>!Je tu dodávka pro Šelmy chce, aby jiní mají. Co Šelmy chtějí, Šelmy dostanou.</Dest>
+    </String>
+    <String List="2" sID="001277" Partial="1">
+      <EDID>[0101E31B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just some raider shit stains.</Source>
+      <Dest>!Jen pár nájezdníků hovno skvrny.</Dest>
+    </String>
+    <String List="2" sID="0015A3" Partial="1">
+      <EDID>[01021979]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They scored some supplies but lost their caravan. They've come under fire and need support. Normally I'd let 'em rot, but I'm feeling parental today.</Source>
+      <Dest>!Oni udělali nějaké zásoby, ale ztratily karavanu. Přišli pod požáru a potřebují podporu. Za normálních okolností bych nechal 'em shnít, ale cítím se rodičovská dnes.</Dest>
+    </String>
+    <String List="2" sID="0015AE" Partial="1">
+      <EDID>[0102197A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Their supply caravan got ambushed. They're hunkered down and want help. I'm feeling generous at the moment, so I'm sending guns.</Source>
+      <Dest>!Jejich dodávka karavan dostal do léčky. Jsou si dřepl a chtějí pomoci. Cítím štědrý v tuto chvíli, tak jsem posílám zbraně.</Dest>
+    </String>
+    <String List="2" sID="0015B9" Partial="1">
+      <EDID>[0102197D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our caravans got ambushed. They're holed up and licking their wounds, but trouble's close. Go help 'em, if they're not dead already.</Source>
+      <Dest>!Jeden z našich karavanů dostal do léčky. Jsou zalezlí a lížou rány, ale potíž je blízký. Přejděte pomoci 'em, když nejsou mrtví už.</Dest>
+    </String>
+    <String List="2" sID="0015D7" Partial="1">
+      <EDID>[0102197C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some cubs nosed up some goodies in the wastes. They also stirred up some trouble. Go bail their stupid asses out.</Source>
+      <Dest>!Některá mláďata nosem nějaké dobroty v odpadech. Oni také vzbudil nějaké potíže. Jdi zachraňovat své stupidní zadky ven.</Dest>
+    </String>
+    <String List="2" sID="0015E5" Partial="1">
+      <EDID>[0102197E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A trade deal went to shit - like they do. Our boys are hold up and taking fire. Go help them secure the goods.</Source>
+      <Dest>!Obchodní dohoda šel na hovno - jako to dělají. Naši chlapci jsou zvednout a pod palbou. Přejděte pomoci jim zajistit zboží.</Dest>
+    </String>
+    <String List="2" sID="0015FC" Partial="1">
+      <EDID>[01021978]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They scraped together a cache of goodies, but they ain't in a friendly neighborhood. They could use some help with the neighbors.</Source>
+      <Dest>!Oni dal dohromady cache dobrot, ale není v přátelské sousedství. Mohli použít nějakou pomoc se sousedy.</Dest>
+    </String>
+    <String List="2" sID="00263C" Partial="1">
+      <EDID>[01032441]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A nobody. Should be easy for you.</Source>
+      <Dest>!Nikdo. By mělo být snadné pro vás.</Dest>
+    </String>
+    <String List="2" sID="002690" Partial="1">
+      <EDID>[01032442]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just a fool. Should be easy pickin's.</Source>
+      <Dest>!Jenom blázen. Mělo by být snadné Pickin je.</Dest>
+    </String>
+    <String List="2" sID="002695" Partial="1">
+      <EDID>[01032318]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of mine's gone and got domesticated by some cluck and abandoned the Pack. Must of forgot we're packmates for life. Need you to be my reminder.</Source>
+      <Dest>!Jeden z mých pryč a dostal domácký nějakým kdákat a opustil Šelmy. Musí z zapomněli jsme smečka pro život. Potřebuju, abys byla moje připomínka.</Dest>
+    </String>
+    <String List="2" sID="002697" Partial="1">
+      <EDID>[01032313]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a trader working for them, bringing them the good stuff. But not for long. Hard to earn a living as a corpse.</Source>
+      <Dest>!Mají obchodník pro ně pracují, přinášet jim dobré věci. Ale ne na dlouho. Těžko vydělávat na živobytí jako mrtvoly.</Dest>
+    </String>
+    <String List="2" sID="0026A0" Partial="1">
+      <EDID>[01032315]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Turned one of my spies against us. Can't have people walking around thinking they can back stab me. Not without getting stabbed themselves.</Source>
+      <Dest>!Obrátil jeden z mých špehů proti nám. Nemůže mít lidé chodí v domnění, že lze zálohovat bodnout mě. Ne, aniž by se bodl sebe.</Dest>
+    </String>
+    <String List="2" sID="0026AC" Partial="1">
+      <EDID>[0103230F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of their own turned tail. We don't abandon packmates. Needs to be made an example of.</Source>
+      <Dest>!Jeden z vlastního otočil ocas. Nechceme opustit smečku. Potřeba, která má být provedena příklad.</Dest>
+    </String>
+    <String List="2" sID="0026CE" Partial="1">
+      <EDID>[01032314]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a fixer hooking them up with goodies. Need you rip a hole in that supply train.</Source>
+      <Dest>!Mají seřizovač hákování je s dobrotami. Potřebuji vás rip díru v tomto dodavatelském vlaku.</Dest>
+    </String>
+    <String List="2" sID="0026D2" Partial="1">
+      <EDID>[01032319]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got some unfinished business in the Commonwealth. The kind best handled by a bullet to the brains.</Source>
+      <Dest>!Mám nějakou nedokončenou práci v Commonwealthu. Druh nejlépe ovládal kulkou do mozku.</Dest>
+    </String>
+    <String List="2" sID="0026DC" Partial="1">
+      <EDID>[01032310]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of theirs turned traitor and needs to be removed from the food chain.</Source>
+      <Dest>!Jeden z jejich, zrádce a je třeba odstranit z potravního řetězce.</Dest>
+    </String>
+    <String List="2" sID="0026DD" Partial="1">
+      <EDID>[01032311]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of their packmates stole from them and scurried off. Everyone knows - you steal from the Pack, you pay with your life.</Source>
+      <Dest>!Jeden z jejich smečky ukradl z nich a pospíchal pryč. Každý ví - můžete ukrást Šelmám, budete platit se svým životem.</Dest>
+    </String>
+    <String List="2" sID="0026E6" Partial="1">
+      <EDID>[01032317]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some buck out in the wasteland paid us a ton of caps to take out a trouble maker. Need someone to make us good on that contract.</Source>
+      <Dest>!Někteří Buck se v nás pustina zaplatil spoustu zátek vzít si potížista. Potřebuji někoho, aby se nám dobře na této smlouvě.</Dest>
+    </String>
+    <String List="2" sID="0026FB" Partial="1">
+      <EDID>DLC04_RQ_Mason_ExplainShockCollar01Female</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take this Shock Collar. Sneak up and slap it on when she ain't looking. Or, beat her senseless, and snap it on when she's down and out.</Source>
+      <Dest>Vezmi tenhle šokový obojek. Připliž se a nasaď ho, když se nedívá. Nebo ji zbij do bezvědomí a pak jí ho nasaď, když je na zemi.</Dest>
+    </String>
+    <String List="2" sID="002701" Partial="1">
+      <EDID>DLC04_RQ_Mason_ExplainShockCollar01Male</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take this Shock Collar. Sneak up and slap it on when he ain't looking. Or, beat him to a bloody pulp, then snap it on when he's down and out.</Source>
+      <Dest>Vezmi tenhle šokový obojek. Připliž se a nasaď ho, když se nedívá. Nebo ho dobij až na krvavou kaši a pak mu ho nasaď, když je na zemi.</Dest>
+    </String>
+    <String List="2" sID="00271E" Partial="1">
+      <EDID>[01032AD8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a wastelander supplying them. But not for long.</Source>
+      <Dest>!Dostali wastelander jejich dodání. Ale ne na dlouho.</Dest>
+    </String>
+    <String List="2" sID="002743" Partial="1">
+      <EDID>[01032ADE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got a loose end out in the Commonwealth. Need you to go help me tie that down.</Source>
+      <Dest>!Mám volný konec v Commonwealthu. Potřebuji tě jít mi pomohl svázat, že dolů.</Dest>
+    </String>
+    <String List="2" sID="002774" Partial="1">
+      <EDID>[01032AD9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got an independent fixer setting them up with the good stuff. That ain't seem fair.</Source>
+      <Dest>!Mají nezávislou seřizovač jejich nastavení s dobrou věcí. Že není fér.</Dest>
+    </String>
+    <String List="2" sID="002781" Partial="1">
+      <EDID>[01032ADA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a patron in the Commonwealth who's been funding them. I'd like to redistribute some wealth. Go fetch me that patron.</Source>
+      <Dest>!Mají patrona v Commonwealthu kdo byl jejich financování. Rád bych přerozdělovat nějaké bohatství. Jdi, přines mi ten patron.</Dest>
+    </String>
+    <String List="2" sID="002786" Partial="1">
+      <EDID>[01032ADC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some buck out in the wasteland paid us a ton of caps to take out a trouble maker. Didn't specify needing a corpse. So, I got a better idea.</Source>
+      <Dest>!Někteří Buck se v nás pustina zaplatil spoustu zátek vzít si potížista. Neuvedli potřeboval mrtvolu. Takže, mám lepší nápad.</Dest>
+    </String>
+    <String List="2" sID="00279A" Partial="1">
+      <EDID>[01032AD4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of their own turned tail. We don't abandon packmates. Needs to be made an example of.</Source>
+      <Dest>!Jeden z vlastního otočil ocas. Nechceme opustit smečku. Potřeba, která má být provedena příklad.</Dest>
+    </String>
+    <String List="2" sID="00279C" Partial="1">
+      <EDID>DLC04_RQ_Mason_ExplainShockCollar02Female</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want you to collar her. Sneak up on her or beat her into submission. Either way, should be able to slap it on her without much fuss.</Source>
+      <Dest>!Chci, ať jí nasadíš obojek. Připlížit ní, nebo bil ji do podrobení. Ať tak či onak, by měl být schopen jej udeřit na ni bez velkého rozruchu.</Dest>
+    </String>
+    <String List="2" sID="0027A2" Partial="1">
+      <EDID>[01032AD5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of theirs turned traitor and needs to be taught a lesson.</Source>
+      <Dest>!Jeden z oni zrádce a je třeba ho dostat lekci.</Dest>
+    </String>
+    <String List="2" sID="0027A6" Partial="1">
+      <EDID>DLC04_RQ_Mason_ExplainShockCollar02Male</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want you to collar him. Sneak up on him or beat him into submission. Either way, should be able to slap it on him without much fuss.</Source>
+      <Dest>!Chci, ať mu nasadíš obojek. Plížit se na něj nebo bili ho do podrobení. Ať tak či onak, by měl být schopen jej udeřit na něj bez velkého rozruchu.</Dest>
+    </String>
+    <String List="2" sID="0027A7" Partial="1">
+      <EDID>[01032ADD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of mine's gone and got domesticated by some cluck and abandoned the Pack. Must of forgot we're packmates for life. One way, or another.</Source>
+      <Dest>!Jeden z mých pryč a dostal domácký nějakým kdákat a opustil Šelmy. Musí z zapomněli jsme smečka pro život. Jedním ze způsobů, nebo jiný.</Dest>
+    </String>
+    <String List="2" sID="0027B1" Partial="1">
+      <EDID>[01032AD6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of their packmates stole from them and scurried off. We're going to make sure no one thinks of doing that again.</Source>
+      <Dest>!Jeden z jejich smečky ukradl z nich a pospíchal pryč. Chystáme se ujistil, nikdo si myslí, že dělat to znovu.</Dest>
+    </String>
+    <String List="2" sID="00297C" Partial="1">
+      <EDID>[010350FA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Pffft. Whatever, boss-lady.</Source>
+      <Dest>!Pffft. Bez ohledu, šéfe-lady.</Dest>
+    </String>
+    <String List="2" sID="002984" Partial="1">
+      <EDID>[010350FB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Big boss-lady has big boss-lady things to do. I got ya.</Source>
+      <Dest>!Big boss-dáma má velký boss-lady věci na práci. Mám tě.</Dest>
+    </String>
+    <String List="2" sID="002993" Partial="1">
+      <EDID>[010350F1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not sure the big boss-lady needs a piddley reward. But fair's fair. Here you go.</Source>
+      <Dest>!Nejste si jisti, velký boss-dáma potřebuje piddley odměnu. Ale spravedlivý je fair. Tady máš.</Dest>
+    </String>
+    <String List="2" sID="0030F0" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got a little something you'd be perfect for.</Source>
+      <Dest>!Mám něco byste být ideální pro.</Dest>
+    </String>
+    <String List="2" sID="0030F5" Partial="1">
+      <EDID>[0103E33A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good.</Source>
+      <Dest>Dobře.</Dest>
+    </String>
+    <String List="2" sID="0030F9" Partial="1">
+      <EDID>[0103E332]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Welcome back... boss.</Source>
+      <Dest>!Vítej zpátky ... šéfa.</Dest>
+    </String>
+    <String List="2" sID="0030FF" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Nisha2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Nisha.</Source>
+      <Dest>!Hej, Nisha.</Dest>
+    </String>
+    <String List="2" sID="003102" Partial="1">
+      <EDID>[0103E323]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apparently, one of our own has grown a conscience and tried to sneak out without facing the consequences.</Source>
+      <Dest>!Zdá se, že jeden z našich vlastních rozrostla svědomí a pokusil propašovat ven, aniž by potýká s důsledky.</Dest>
+    </String>
+    <String List="2" sID="003103" Partial="1">
+      <EDID>[0103E3B0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some trader is selling information on us. A poor life choice, especially if you're going to get caught. Time to learn the hard way.</Source>
+      <Dest>!Některé obchodník prodává informací o nás. Chudý životní volba, zvláště pokud budete chytí. Čas se učit po zlém.</Dest>
+    </String>
+    <String List="2" sID="003105" Partial="1">
+      <EDID>[0103E32D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got a little... problem out in the Commonwealth. You're going to solve it, and make sure no one else gets any ideas.</Source>
+      <Dest>!Mám trochu ... problém v Commonwealthu. Budeš ji řešit, a ujistěte se, že nikdo jiný dostane nějaké nápady.</Dest>
+    </String>
+    <String List="2" sID="003108" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got something else lined up. You want in?</Source>
+      <Dest>!Mám něco jiného postavili. Chcete dovnitř?</Dest>
+    </String>
+    <String List="2" sID="003109" Partial="1">
+      <EDID>[0103E313]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An outpost in the Commonwealth put a call out.</Source>
+      <Dest>!Základna v Commonwealthu dát výzvu ven.</Dest>
+    </String>
+    <String List="2" sID="00310A" Partial="1">
+      <EDID>[0103E328]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some wastelander decided to go into the information selling business. You're going to go make sure that career choice is short lived.</Source>
+      <Dest>!Někteří wastelander rozhodl se jít do informací prodávající podnikání. Budeš jít se ujistil, že volba povolání je krátký žil.</Dest>
+    </String>
+    <String List="2" sID="00310B" Partial="1">
+      <EDID>[0103E3D1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Really? The longer you stand here, the more you look like Colter.</Source>
+      <Dest>!Opravdu? Čím déle tu stojíte, tím více budete vypadat jako Colter.</Dest>
+    </String>
+    <String List="2" sID="00310C" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got something else, as usual. Interested?</Source>
+      <Dest>!Mám něco jiného, jako obvykle. Zajímám?</Dest>
+    </String>
+    <String List="2" sID="00310E" Partial="1">
+      <EDID>[0103E327]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some dealer rather do business with anyone but us. As if we wouldn't notice. You're going to make that dealer regret living.</Source>
+      <Dest>!Některé obchodník raději obchodovat s nikým jiným než s námi. Jako bychom nevšimne. Budeš dělat, že dealer lítost bydlení.</Dest>
+    </String>
+    <String List="2" sID="003110" Partial="1">
+      <EDID>[0103E3CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hope that doesn't mean you're scared.</Source>
+      <Dest>!Doufám, že to neznamená, že se bojíš.</Dest>
+    </String>
+    <String List="2" sID="003111" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar01Female</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take this Shock Collar, sneak up, and snap it on when she isn't looking. Or, beat her senseless, my preference, then snap it on.</Source>
+      <Dest>Vezmi tenhle šokový obojek. Připliž se a nasaď ho, když se nedívá. Nebo ji zbij do bezvědomí, čemuž dávám osobně přednost, a pak jí ho nasaď.</Dest>
+    </String>
+    <String List="2" sID="003113" Partial="1">
+      <EDID>[0103E3AD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've got a traitor down there, and I'm feeling merciful. And by merciful, I mean skipping the torture and going straight to death.</Source>
+      <Dest>!Máme za zrádce tam dole, a cítím milosrdný. A milosrdný, myslím přeskakování mučení a jít rovnou k smrti.</Dest>
+    </String>
+    <String List="2" sID="003115" Partial="1">
+      <EDID>[0103E350]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got a name I want you to help cross off a list.</Source>
+      <Dest>!Mám jméno chci, abys pomohl odškrtnout seznamu.</Dest>
+    </String>
+    <String List="2" sID="00311A" Partial="1">
+      <EDID>[0103E34E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've made a friend of an old acquaintance that I let live a while back. I think I regret that decision now, if you know what I mean.</Source>
+      <Dest>!Udělali přítele, starého známého, který jsem nechal žít před nějakou dobou. Myslím, že mi líto, že rozhodnutí teď, když víte, co tím myslím.</Dest>
+    </String>
+    <String List="2" sID="00311B" Partial="1">
+      <EDID>[0103E3AC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They're saying one of our own grew a conscience and tried to leave. Everyone knows if you want out, you pay with your life.</Source>
+      <Dest>!Říkají, že jeden z našich vlastních rostl svědomí a snažil se odejít. Každý ví, že pokud chcete ven, budete platit se svým životem.</Dest>
+    </String>
+    <String List="2" sID="00311D" Partial="1">
+      <EDID>[0103E334]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Aren't you efficient.</Source>
+      <Dest>!Nejsi efektivní.</Dest>
+    </String>
+    <String List="2" sID="003122" Partial="1">
+      <EDID>[0103E325]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Oddly, someone disobeyed a direct order. It's rare, so it's time to remind people just how personally I take it.</Source>
+      <Dest>!Zvláštní je, že někdo neuposlechl přímý rozkaz. Je to vzácné, takže je na čase připomenout lidem, jak osobně to beru.</Dest>
+    </String>
+    <String List="2" sID="003123" Partial="1">
+      <EDID>[0103E336]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not bad.</Source>
+      <Dest>To není špatné.</Dest>
+    </String>
+    <String List="2" sID="003125" Partial="1">
+      <EDID>[0103E344]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>My scouts found an old cache and attracted a little too much attention celebrating. Go make sure they hang on to it and it doesn't happen again.</Source>
+      <Dest>!Mí zvědové našli starou mezipaměť a přilákal trochu příliš mnoho pozornosti oslavovat. Jdi se ujistili, že pověsit na něm, a to neopakovalo.</Dest>
+    </String>
+    <String List="2" sID="003126" Partial="1">
+      <EDID>[0103E3D9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've got word of some supplies we could use, and I'm never really in the negotiating mood. So you're just going to take it.</Source>
+      <Dest>!Máme slovo některých dodávek bychom mohli použít, a já jsem nikdy v vyjednávání náladě. Takže jste právě chystá vzít.</Dest>
+    </String>
+    <String List="2" sID="003127" Partial="1">
+      <EDID>[0103E348]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone out there's making threats, and needs to be cut down to size. Think literally.</Source>
+      <Dest>!Někdo tam venku Nutí hrozby, a je třeba ji snížit na míru. Myslet doslovně.</Dest>
+    </String>
+    <String List="2" sID="00312A" Partial="1">
+      <EDID>[0103E3B8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I was just thinking how very boring and dull the Operators' lives must be, and thought we could spice it up a bit for them.</Source>
+      <Dest>!Jen jsem přemýšlel, jak velmi nudný a jednotvárný život Provozáků musí být, a myslel, že bychom to mohli okořenit trochu pro ně.</Dest>
+    </String>
+    <String List="2" sID="003132" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, I got something you'll want to look into.</Source>
+      <Dest>!Hele, mám něco, co budete chtít podívat do.</Dest>
+    </String>
+    <String List="2" sID="003133" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar02Male</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want you to collar him. Sneak up on him or beat him into submission. Either way, should be able to slap it on him without much fuss.</Source>
+      <Dest>!Chci, ať mu nasadíš obojek. Plížit se na něj nebo bili ho do podrobení. Ať tak či onak, by měl být schopen jej udeřit na něj bez velkého rozruchu.</Dest>
+    </String>
+    <String List="2" sID="003134" Partial="1">
+      <EDID>[0103E333]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>So, you made it back.</Source>
+      <Dest>!Takže jste dělal to zpátky.</Dest>
+    </String>
+    <String List="2" sID="003136" Partial="1">
+      <EDID>[0103E3DB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a place nearby with supplies just waiting to be ours. Some may disagree, but I'm sure you won't let them live long enough to argue.</Source>
+      <Dest>!Tam je místo, v okolí se dodává jen čekají na to být naše. Někteří mohou nesouhlasit, ale jsem si jistý, že jim nedovolí žít dost dlouho na to argumentovat.</Dest>
+    </String>
+    <String List="2" sID="003138" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Nisha3</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Nisha.</Source>
+      <Dest>Nisha.</Dest>
+    </String>
+    <String List="2" sID="00313C" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You look like you could use something to do, and I got just the thing.</Source>
+      <Dest>!Vypadáte, jako byste mohli použít něco dělat, a mám to pravé.</Dest>
+    </String>
+    <String List="2" sID="00313D" Partial="1">
+      <EDID>[0103E351]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's some... tidying up that I thought you could help with.</Source>
+      <Dest>!Tam je nějaký ... uklízení, že jsem myslel, že byste mohli pomoci.</Dest>
+    </String>
+    <String List="2" sID="00313E" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got another job for you, if you're interested.</Source>
+      <Dest>!Mám jinou práci za vás, pokud máte zájem.</Dest>
+    </String>
+    <String List="2" sID="003141" Partial="1">
+      <EDID>[0103E345]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our supply runs got ambushed. I'm sure they can manage, but I want a little insurance, just in case.</Source>
+      <Dest>!Jeden z našich dodavatelských běhů dostal do léčky. Jsem si jistý, že zvládnu, ale já chci trochu pojištění jen v případě.</Dest>
+    </String>
+    <String List="2" sID="003143" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mags1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Mags.</Source>
+      <Dest>!Ahoj, Mags.</Dest>
+    </String>
+    <String List="2" sID="003147" Partial="1">
+      <EDID>[0103E3B4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some trader tried to make a shit deal, then accused us of being unfair. I think death is a pretty fair response, don't you?</Source>
+      <Dest>!Někteří obchodník se pokusil udělat hovno dohodu, pak obvinili nám nefér. Myslím, že smrt je docela reálná odpověď, ne?</Dest>
+    </String>
+    <String List="2" sID="00314A" Partial="1">
+      <EDID>[0103E3C3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I get it. Can't handle a little job.</Source>
+      <Dest>!Chápu. Nemůže zpracovat malou práci.</Dest>
+    </String>
+    <String List="2" sID="00314D" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar02Female</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I want you to collar her. Sneak up on her or beat her into submission. Either way, should be able to slap it on her without much fuss.</Source>
+      <Dest>!Chci, ať jí nasadíš obojek. Připlížit ní, nebo bil ji do podrobení. Ať tak či onak, by měl být schopen jej udeřit na ni bez velkého rozruchu.</Dest>
+    </String>
+    <String List="2" sID="00314F" Partial="1">
+      <EDID>[0103E335]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Didn't expect you back so soon.</Source>
+      <Dest>!Věděli jste neočekávali zpátky tak brzo.</Dest>
+    </String>
+    <String List="2" sID="003150" Partial="1">
+      <EDID>[0103E3DA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some outpost is too high and mighty to trade with us. You'd think they'd be thankful we even tried. Now we'll just kill them and take what we want.</Source>
+      <Dest>!Některé základna je příliš vysoké a mohutné obchodovat s námi. Člověk by si myslel, že to bude vděčný, dokonce jsme se snažili. Teď budeme jim prostě zabít a vzít si, co chceme.</Dest>
+    </String>
+    <String List="2" sID="003153" Partial="1">
+      <EDID>[0103E3BB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think it's about time the Pack learned a few lessons.</Source>
+      <Dest>Myslím, že je čas, aby se Šelmy naučily pár lekcí.</Dest>
+    </String>
+    <String List="2" sID="003159" Partial="1">
+      <EDID>[0103E356]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That goes without saying.</Source>
+      <Dest>!To je samozřejmé.</Dest>
+    </String>
+    <String List="2" sID="00315F" Partial="1">
+      <EDID>[0103E3B5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some old trader thinks it's okay to trash our good name. I'm thinking you take the tongue before you take the life.</Source>
+      <Dest>!Některé staré obchodník myslí, že je v pořádku do koše naše dobré jméno. Přemýšlím budete mít jazyk, než si vzít život.</Dest>
+    </String>
+    <String List="2" sID="003160" Partial="1">
+      <EDID>[0103E3B2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Somehow they managed to take one of my clients. No one cuts ties with me and lives.</Source>
+      <Dest>!Nějak se jim podařilo vzít jednu z mých klientů. Nikdo škrty vazby se mnou a životy.</Dest>
+    </String>
+    <String List="2" sID="003164" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Nisha1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Nisha.</Source>
+      <Dest>!Hej, Nisha.</Dest>
+    </String>
+    <String List="2" sID="00316C" Partial="1">
+      <EDID>[0103E3CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good.</Source>
+      <Dest>Dobře.</Dest>
+    </String>
+    <String List="2" sID="003170" Partial="1">
+      <EDID>[0103E33B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I knew you'd be interested.</Source>
+      <Dest>!Věděl jsem, že bych měla zájem.</Dest>
+    </String>
+    <String List="2" sID="003171" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got a job. I think it'll interest you.</Source>
+      <Dest>!Dostal práci. Myslím, že to tě nezajímá.</Dest>
+    </String>
+    <String List="2" sID="003172" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Looking a little bored there, boss. I got just the thing to cure that.</Source>
+      <Dest>!Při pohledu trochu znuděný tam, šéfe. Mám jen věc vyléčit to.</Dest>
+    </String>
+    <String List="2" sID="003174" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you have more free time, I can use it.</Source>
+      <Dest>!Pokud budete mít více volného času, mohu ji použít.</Dest>
+    </String>
+    <String List="2" sID="003175" Partial="1">
+      <EDID>[0103E3BD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's no way you're done already. Don't forget you have a job to do.</Source>
+      <Dest>!Neexistuje způsob, jak budete hotovi už. Nezapomeňte, že máte práci.</Dest>
+    </String>
+    <String List="2" sID="00317A" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Disciples could use you for something else. Think you can handle it?</Source>
+      <Dest>!Stoupenci Dalo by se použít na něco jiného. Myslíš, že to zvládneš?</Dest>
+    </String>
+    <String List="2" sID="00317B" Partial="1">
+      <EDID>[0103E3CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>All right...</Source>
+      <Dest>Dobrá...</Dest>
+    </String>
+    <String List="2" sID="00317D" Partial="1">
+      <EDID>[0103E3BA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I was just thinking about our dear friends in the Pack.</Source>
+      <Dest>Jen jsem přemýšlela o našich drahých přátelích u Šelem.</Dest>
+    </String>
+    <String List="2" sID="003181" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Something else came up, of course. Are you up for it?</Source>
+      <Dest>!Něco jiného přišel, samozřejmě. Vy jste se na to?</Dest>
+    </String>
+    <String List="2" sID="003184" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not busy? I could use you.</Source>
+      <Dest>!Nevytížený? Mohl bych tě použít.</Dest>
+    </String>
+    <String List="2" sID="003187" Partial="1">
+      <EDID>[0103E3CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>And here I thought you were capable of making decisions.</Source>
+      <Dest>!A tady jsem si myslel, že jsi schopný rozhodování.</Dest>
+    </String>
+    <String List="2" sID="00318B" Partial="1">
+      <EDID>[0103E3D0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not interested in fun, I see. That's too bad.</Source>
+      <Dest>!Nezájem o zábavu, jak vidím. To je zlé.</Dest>
+    </String>
+    <String List="2" sID="00318C" Partial="1">
+      <EDID>[0103E32B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a trader that ripped off one of our outposts. An example must be made.</Source>
+      <Dest>!Tam je obchodník, který utrhl jeden z našich základen. Příklad musí být.</Dest>
+    </String>
+    <String List="2" sID="00318E" Partial="1">
+      <EDID>[0103E355]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Obviously. Think anyone does anything for free around here? Well, heh, beside the traders.</Source>
+      <Dest>!Zřejmě. Že nikdo nic nedělá zadarmo tady? No, heh, vedle obchodníků.</Dest>
+    </String>
+    <String List="2" sID="003190" Partial="1">
+      <EDID>[0103E314]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of the outposts is having some... trouble.</Source>
+      <Dest>!Jeden ze základen má nějaký ... potíže.</Dest>
+    </String>
+    <String List="2" sID="003193" Partial="1">
+      <EDID>[0103E3C4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're seriously saying no? I think Gage and I need to have a little chat.</Source>
+      <Dest>!Ty vážně říkat ne? Myslím, že Gage a musím si trochu popovídat.</Dest>
+    </String>
+    <String List="2" sID="003198" Partial="1">
+      <EDID>[0103E324]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sadly, someone there turned traitor, and as you may know, all traitors must be taught a lesson.</Source>
+      <Dest>!Je smutné, že tam někdo zrádce, a jak možná víte, musí být všechny zrádci za vyučenou.</Dest>
+    </String>
+    <String List="2" sID="00319B" Partial="1">
+      <EDID>[0103E33E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Thought you'd like that.</Source>
+      <Dest>!Myslel jsem, že byste chtěli, aby.</Dest>
+    </String>
+    <String List="2" sID="0031A6" Partial="1">
+      <EDID>[0103E3D6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some other settlement thinks they need their supplies more than we do. Luckily, no one needs supplies when they're dead.</Source>
+      <Dest>!Některé další osada si myslí, že potřebují své zásoby více než my. Naštěstí nikdo nepotřebuje zásoby, když jsou mrtví.</Dest>
+    </String>
+    <String List="2" sID="0031A7" Partial="1">
+      <EDID>[0103E329]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An old client has taken business elsewhere. It's something that can't go unpunished.</Source>
+      <Dest>!Starý klient přijal podnikání jinde. Je to něco, co nemůže zůstat nepotrestána.</Dest>
+    </String>
+    <String List="2" sID="0031AC" Partial="1">
+      <EDID>[0103E3BE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't you have a little task to take care of?</Source>
+      <Dest>!Ještě nemáte trochu úkol postarat se o?</Dest>
+    </String>
+    <String List="2" sID="0031AD" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Busy? I have something else for you.</Source>
+      <Dest>!Zaneprázdněný? Mám něco pro tebe.</Dest>
+    </String>
+    <String List="2" sID="0031AF" Partial="1">
+      <EDID>[0103E312]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some outpost apparently can't handle its own.</Source>
+      <Dest>!Některé základna zřejmě nemůže zvládnout sám.</Dest>
+    </String>
+    <String List="2" sID="0031B2" Partial="1">
+      <EDID>[0103E3D4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apparently, some nearby neighbors aren't big on sharing when it comes to supplies. So we're just going to take them.</Source>
+      <Dest>!Zdá se, že některé blízké sousedy nejsou velké na sdílení, pokud jde o zásoby. Takže budeme jen vzít.</Dest>
+    </String>
+    <String List="2" sID="0031B3" Partial="1">
+      <EDID>[0103E346]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some trade deal's gone south. I want you to go make sure we keep what's ours and take what's theirs, along with their sad little lives.</Source>
+      <Dest>!Některé obchodní dohodou je pryč na jih. Chci, aby ses ujistil, budeme držet toho, co je naše, a přijmout to, co je jejich, spolu s jejich smutný život.</Dest>
+    </String>
+    <String List="2" sID="0031B6" Partial="1">
+      <EDID>[0103E3BF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Isn't there a job you're supposed to be doing?</Source>
+      <Dest>!Není tu práci jste měl dělat?</Dest>
+    </String>
+    <String List="2" sID="0031B8" Partial="1">
+      <EDID>[0103E337]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone's an overachiever.</Source>
+      <Dest>!Někdo to overachiever.</Dest>
+    </String>
+    <String List="2" sID="0031BB" Partial="1">
+      <EDID>[0103E3C2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Maybe you should think about who you're talking to next time.</Source>
+      <Dest>!Možná byste měli přemýšlet o tom, kdo mluvíte, aby příště.</Dest>
+    </String>
+    <String List="2" sID="0031C0" Partial="1">
+      <EDID>[0103E3C8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, aren't you agreeable.</Source>
+      <Dest>!No, nejste příjemný.</Dest>
+    </String>
+    <String List="2" sID="0031CC" Partial="1">
+      <EDID>[0103E341]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They scored some supplies, but now some other group is making threats to hand them over... and no one threatens me and gets away with it.</Source>
+      <Dest>!Oni udělali nějaké zásoby, ale teď nějaká jiná skupina dělá hrozby předat je ... a nikdo mi vyhrožuje a dostane pryč s ním.</Dest>
+    </String>
+    <String List="2" sID="0031CD" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got another job. Interested?</Source>
+      <Dest>!Mám jinou práci. Zajímám?</Dest>
+    </String>
+    <String List="2" sID="0031D3" Partial="1">
+      <EDID>[0103E3AE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone decided to act without my approval, and as punishment, I decided to spare the collar and go straight for the execution.</Source>
+      <Dest>Někdo se rozhodl jednat bez mého souhlasu a potrestání. Tedy mé rozhodnutí je vynechat obojek a jít rovnou na věc.</Dest>
+    </String>
+    <String List="2" sID="0031D6" Partial="1">
+      <EDID>[0103E342]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They had a caravan get ambushed. I trust they can handle it, but I want those supplies and I want them now.</Source>
+      <Dest>!Měli karavanu dostat do léčky. Věřím, že to zvládnu, ale chci ty zásoby a chci je teď.</Dest>
+    </String>
+    <String List="2" sID="0031D8" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Boss. I got something else that requires your attention.</Source>
+      <Dest>!Šéf. Mám něco jiného, co vyžaduje vaši pozornost.</Dest>
+    </String>
+    <String List="2" sID="0031DA" Partial="1">
+      <EDID>[0103E3C0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don't think I won't remember this.</Source>
+      <Dest>!Nemyslete si, že nebudu pamatovat.</Dest>
+    </String>
+    <String List="2" sID="0031DE" Partial="1">
+      <EDID>[0103E340]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They got a pretty good stash of supplies right now, but some outsiders want to make it theirs. I want you to make sure that doesn't happen.</Source>
+      <Dest>!Mají docela dobrý skrýš zásob právě teď, ale někteří lidé zvenčí chtějí, aby bylo jejich. Chci, abyste se ujistil, že se tak nestane.</Dest>
+    </String>
+    <String List="2" sID="0031E1" Partial="1">
+      <EDID>[0103E32C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An old trader thinks it's fine to badmouth us. Death is probably too good for this one. I think it's time for a little public shaming.</Source>
+      <Dest>!Starý obchodník si myslí, že je to v pořádku, aby nás pomlouvat. Smrt je pravděpodobně příliš dobrá pro tento jeden. Myslím, že je čas na malou veřejné zostuzení.</Dest>
+    </String>
+    <String List="2" sID="0031E5" Partial="1">
+      <EDID>[0103E3CC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good. I need a sure thing on this.</Source>
+      <Dest>!Dobrý. Musím tutovka na toto téma.</Dest>
+    </String>
+    <String List="2" sID="0031E6" Partial="1">
+      <EDID>[0103E311]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our outposts sent word.</Source>
+      <Dest>!Jeden z našich základen vzkázal.</Dest>
+    </String>
+    <String List="2" sID="0031E9" Partial="1">
+      <EDID>[0103E34D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They recruited some ally out in the Commonwealth. But you know how bad it can be out there. Most people don't live very long.</Source>
+      <Dest>!Oni rekrutovali nějaké spojence v Commonwealthu. Ale víte, jak špatné to může být venku. Většina lidí nežijí příliš dlouho.</Dest>
+    </String>
+    <String List="2" sID="0031EF" Partial="1">
+      <EDID>[0103E33D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I figured you might be into that.</Source>
+      <Dest>!Myslel jsem, že byste mohla být do toho.</Dest>
+    </String>
+    <String List="2" sID="0031F0" Partial="1">
+      <EDID>[0103E354]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Of course. You are the Overboss, aren't you?</Source>
+      <Dest>!Samozřejmě. Jste Overboss, ne?</Dest>
+    </String>
+    <String List="2" sID="0031F5" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey. I got something for you.</Source>
+      <Dest>!Ahoj. Mám něco pro tebe.</Dest>
+    </String>
+    <String List="2" sID="0031FB" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar01Male</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take this Shock Collar, sneak up, and snap it on when he isn't looking. Or, beat him to a bloody pulp, my preference, then snap it on.</Source>
+      <Dest>Vezmi tenhle šokový obojek. Připliž se a nasaď ho, když se nedívá. Nebo ho dobij až na krvavou kaši, čemuž dávám osobně přednost, a pak mu ho nasaď.</Dest>
+    </String>
+    <String List="2" sID="0031FC" Partial="1">
+      <EDID>[0103E3D2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Can't make a decision? Makes me wonder what else you can't do.</Source>
+      <Dest>!Nemůže učinit rozhodnutí? Je pro mě zajímalo, co jiného si nemůže dělat.</Dest>
+    </String>
+    <String List="2" sID="0031FE" Partial="1">
+      <EDID>[0103E338]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're Overboss for a reason.</Source>
+      <Dest>!Jsi Overboss z nějakého důvodu.</Dest>
+    </String>
+    <String List="2" sID="003201" Partial="1">
+      <EDID>[0103E3C1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>With an attitude like that, I don't see you hanging around here too long.</Source>
+      <Dest>!S postojem jako to, že nevidím jste vysedáváním tady příliš dlouho.</Dest>
+    </String>
+    <String List="2" sID="003207" Partial="1">
+      <EDID>[0103E34A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some idiot's trying to stir up trouble. I thought you could go out there and show everyone what happens when you mess with the Disciples.</Source>
+      <Dest>!Některé idiot se snaží vyvolat nesváry. Myslel jsem, že bys mohl jít ven a ukázat všem, co se stane, když nepořádek se Stoupenci.</Dest>
+    </String>
+    <String List="2" sID="00320A" Partial="1">
+      <EDID>[0103E349]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A certain individual is challenging my authority out in the Commonwealth, and I've decided to take offense. This calls for blood. A lot of blood.</Source>
+      <Dest>!Jistý jedinec je náročné mou autoritu v Commonwealthu, a rozhodl jsem se urazit. To volá po krvi. Spousta krve.</Dest>
+    </String>
+    <String List="2" sID="00320B" Partial="1">
+      <EDID>[0103E3B1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some wastelander's selling secrets about us, but not for long. Just don't make it too quick. It's more satisfying when suffering is involved.</Source>
+      <Dest>!Některé wastelander své prodejní tajemství o nás, ale ne na dlouho. Prostě nedělají to příliš rychle. Je to větší uspokojení, když se jedná o utrpení.</Dest>
+    </String>
+    <String List="2" sID="00320D" Partial="1">
+      <EDID>[0103E310]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got word from one of our outposts.</Source>
+      <Dest>!Dostal jsem zprávu od jednoho z našich základen.</Dest>
+    </String>
+    <String List="2" sID="00320E" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, look who stopped by. Care to lend a hand?</Source>
+      <Dest>!No, podívej se, kdo zastavil. Péče podat pomocnou ruku?</Dest>
+    </String>
+    <String List="2" sID="00320F" Partial="1">
+      <EDID>[0103E3D5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They ran out of supplies, but I happen to know the perfect place to get them restocked.</Source>
+      <Dest>!Ty došly zásoby, ale náhodou vím, ideální místo, aby si je restocked.</Dest>
+    </String>
+    <String List="2" sID="003212" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mags2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, Mags.</Source>
+      <Dest>!Ahoj, Mags.</Dest>
+    </String>
+    <String List="2" sID="003213" Partial="1">
+      <EDID>[0103E34C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They think they've got themselves some powerful ally. Why don't you show them exactly how wrong they are.</Source>
+      <Dest>!Myslí si, že mám vlastní kůži některé mocného spojence. Proč jste jim ukázat přesně, jak špatně jsou.</Dest>
+    </String>
+    <String List="2" sID="003214" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Nisha4</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Nisha.</Source>
+      <Dest>Nisha.</Dest>
+    </String>
+    <String List="2" sID="00321E" Partial="1">
+      <EDID>[0103E352]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think it's time someone learned just how dangerous we can be.</Source>
+      <Dest>!Myslím, že je čas se někdo dozvěděl, jak nebezpečné můžeme být.</Dest>
+    </String>
+    <String List="2" sID="00321F" Partial="1">
+      <EDID>[0103E33C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That's what I like to hear.</Source>
+      <Dest>Tak se mi to líbí.</Dest>
+    </String>
+    <String List="2" sID="003222" Partial="1">
+      <EDID>[0103E330]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Back already?</Source>
+      <Dest>!Back už?</Dest>
+    </String>
+    <String List="2" sID="003224" Partial="1">
+      <EDID>[0103E3B6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's some unfinished business in the Commonwealth. The kind that demands bloodshed, and lots of it.</Source>
+      <Dest>!Tam je nějaká nedokončená záležitost v Commonwealthu. Druh, který vyžaduje krveprolití, a to v hojné míře.</Dest>
+    </String>
+    <String List="2" sID="003228" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There you are. I need you to make some time for a job.</Source>
+      <Dest>!Tady jsi. Musím vás, aby nějaký čas na práci.</Dest>
+    </String>
+    <String List="2" sID="00322D" Partial="1">
+      <EDID>[0103E3B9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think it's about time we made things more interesting for the Operators.</Source>
+      <Dest>!Myslím, že je na čase, abychom vyrobené věci ještě zajímavější pro Provozáky.</Dest>
+    </String>
+    <String List="2" sID="00322F" Partial="1">
+      <EDID>[0103E3D8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some traders don't believe in finders keepers when it comes to stealing. It's time to put them in their place.</Source>
+      <Dest>!Někteří obchodníci nevěří v nálezci chovatelé, pokud jde o krádež. Je na čase, aby jim na jejich místo.</Dest>
+    </String>
+    <String List="2" sID="003237" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Intro03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey, boss. Got a minute?</Source>
+      <Dest>!Hej, šéfe. Máš minutku?</Dest>
+    </String>
+    <String List="2" sID="00323A" Partial="1">
+      <EDID>[0103E3C5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Oh, I'm sorry, I didn't mean to offend you by offering a job you couldn't handle. </Source>
+      <Dest>!Oh, promiň, nechtěl jsem tě urazit tím, že nabízí práci, kterou nemohl zvládnout.</Dest>
+    </String>
+    <String List="2" sID="003243" Partial="1">
+      <EDID>[0103E3C9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That easy, huh? </Source>
+      <Dest>!Tak snadné, že?</Dest>
+    </String>
+    <String List="2" sID="003247" Partial="1">
+      <EDID>[0103E331]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're back.</Source>
+      <Dest>Jsi zpátky.</Dest>
+    </String>
+    <String List="2" sID="003249" Partial="1">
+      <EDID>[0103E357]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Why? Hurting for caps? Don't worry, you'll get paid.</Source>
+      <Dest>!Proč? Bolí pro zátek? Nebojte se, dostanete zaplaceno.</Dest>
+    </String>
+    <String List="2" sID="00324B" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mags4</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mags.</Source>
+      <Dest>Mags.</Dest>
+    </String>
+    <String List="2" sID="00324C" Partial="1">
+      <EDID>[0103E32F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, that didn't take long.</Source>
+      <Dest>!No, to netrvalo dlouho.</Dest>
+    </String>
+    <String List="2" sID="00324D" Partial="1">
+      <EDID>DLC04_RQ_PlayerHello_Mags3</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mags.</Source>
+      <Dest>Mags.</Dest>
+    </String>
+    <String List="2" sID="00324E" Partial="1">
+      <EDID>DLC04_RQ_Nisha_Another08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got another thing, if you want in.</Source>
+      <Dest>!Dostal další věc, pokud chcete dovnitř.</Dest>
+    </String>
+    <String List="2" sID="003250" Partial="1">
+      <EDID>[0103E56F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Gunners. Put 'em in their place.</Source>
+      <Dest>!Ranaři. Dát 'em na jejich místo.</Dest>
+    </String>
+    <String List="2" sID="003251" Partial="1">
+      <EDID>[0103E575]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some nobody. I'm practically giving you this one.</Source>
+      <Dest>!Některé nikdo. Já jsem v podstatě dává vám tenhle.</Dest>
+    </String>
+    <String List="2" sID="003253" Partial="1">
+      <EDID>[0103E57F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here's what you're owed. </Source>
+      <Dest>!Zde je to, co jste dlužil.</Dest>
+    </String>
+    <String List="2" sID="003254" Partial="1">
+      <EDID>[0103E56C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Only the Brotherhood. Have at it.</Source>
+      <Dest>!Pouze Bratrstvo. Mají na to.</Dest>
+    </String>
+    <String List="2" sID="003255" Partial="1">
+      <EDID>[0103E56B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Brotherhood of Steel. You'll be doing the world a favor.</Source>
+      <Dest>!Bratrstvo oceli. Budete dělat světu laskavost.</Dest>
+    </String>
+    <String List="2" sID="003258" Partial="1">
+      <EDID>[0103E57E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your payment. Not that you need it.</Source>
+      <Dest>!Vaše platba. Ne, že ji budete potřebovat.</Dest>
+    </String>
+    <String List="2" sID="00325A" Partial="1">
+      <EDID>[0103E571]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Railroad "agents." Sticking their nose where it doesn't belong.</Source>
+      <Dest>!Železniční „agenti“. Lepení nos, kde to nepatří.</Dest>
+    </String>
+    <String List="2" sID="00325C" Partial="1">
+      <EDID>[0103E57A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I trust you'll get it done soon if you want to continue running this place.</Source>
+      <Dest>!Věřím, že budete si to udělat brzy, pokud chcete pokračovat v běhu toto místo.</Dest>
+    </String>
+    <String List="2" sID="00325D" Partial="1">
+      <EDID>[0103E56E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just those annoying Minutemen.</Source>
+      <Dest>!Jen ty otravné Minutemen.</Dest>
+    </String>
+    <String List="2" sID="00325E" Partial="1">
+      <EDID>[0103E572]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just the Railroad.</Source>
+      <Dest>!Jen železnice.</Dest>
+    </String>
+    <String List="2" sID="00325F" Partial="1">
+      <EDID>[0103E57C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I have plenty of Disciples who'd leap at the chance to get out there and cut some throats. I'm surprised you don't share their... enthusiasm.</Source>
+      <Dest>!Mám spoustu Stoupenců, kteří by skok na šanci se dostat ven a snížit některé hrdla. Divím se, že nesdílíte své ... nadšení.</Dest>
+    </String>
+    <String List="2" sID="003260" Partial="1">
+      <EDID>[0103E56A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Raiders. Like they stand a chance.</Source>
+      <Dest>!Nájezdníci. Jako by šanci.</Dest>
+    </String>
+    <String List="2" sID="003261" Partial="1">
+      <EDID>[0103E568]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Super Mutants. Fun, right?</Source>
+      <Dest>!Supermutanti. Zábava, že jo?</Dest>
+    </String>
+    <String List="2" sID="003262" Partial="1">
+      <EDID>[0103E567]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just some Super Mutants. Nothing you can't handle.</Source>
+      <Dest>!Jen pár Supermutanti. Nic vám nemůže zvládnout.</Dest>
+    </String>
+    <String List="2" sID="003263" Partial="1">
+      <EDID>[0103E581]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Payment in full.</Source>
+      <Dest>!Platba v plné výši.</Dest>
+    </String>
+    <String List="2" sID="003267" Partial="1">
+      <EDID>[0103E570]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just a few Gunners.</Source>
+      <Dest>Jen pár Ranařů.</Dest>
+    </String>
+    <String List="2" sID="003268" Partial="1">
+      <EDID>[0103E576]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just some annoying idiot. Should be easy for you.</Source>
+      <Dest>!To jsou jen některé nepříjemné idiot. By mělo být snadné pro vás.</Dest>
+    </String>
+    <String List="2" sID="003269" Partial="1">
+      <EDID>[0103E569]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some worthless local Raiders.</Source>
+      <Dest>!Nějací bezcenní místní nájezdníci.</Dest>
+    </String>
+    <String List="2" sID="00326A" Partial="1">
+      <EDID>[0103E578]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That's not what it looks like to me. You want to slack off, do it on your own time. Get out there and get it done.</Source>
+      <Dest>!To není, jak to vypadá na mě. Chcete-li slack off, to ve svém volném čase. Dostat ven a dostat to udělat.</Dest>
+    </String>
+    <String List="2" sID="00326D" Partial="1">
+      <EDID>[0103E584]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here's your cut. I suppose you earned it.</Source>
+      <Dest>!Tady je tvůj podíl. Myslím, že si to zasloužit.</Dest>
+    </String>
+    <String List="2" sID="003278" Partial="1">
+      <EDID>[0103E583]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not that you need this, but here. Your payment.</Source>
+      <Dest>!Ne, že budete potřebovat, ale tady. Vaše platba.</Dest>
+    </String>
+    <String List="2" sID="00327D" Partial="1">
+      <EDID>[0103E587]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>And your payment, as expected.</Source>
+      <Dest>!A platba, jak se očekávalo.</Dest>
+    </String>
+    <String List="2" sID="00327F" Partial="1">
+      <EDID>[0103E579]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Is that so? You've got a funny way of showing it because I'm pretty sure your job isn't here in Nuka-World.</Source>
+      <Dest>!Opravdu? Máte zábavný způsob, jak ukazuje to, protože jsem si jistá, že vaše práce není tady v Nuka-World.</Dest>
+    </String>
+    <String List="2" sID="003282" Partial="1">
+      <EDID>[0103E582]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. Try not to spend it all in one place.</Source>
+      <Dest>!Zde. Snažte se to všechno strávit na jednom místě.</Dest>
+    </String>
+    <String List="2" sID="003283" Partial="1">
+      <EDID>[0103E588]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>For your trouble. </Source>
+      <Dest>!Pro vaše potíže.</Dest>
+    </String>
+    <String List="2" sID="003284" Partial="1">
+      <EDID>[0103E574]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Only the Institute.</Source>
+      <Dest>!Pouze Institute.</Dest>
+    </String>
+    <String List="2" sID="003286" Partial="1">
+      <EDID>[0103E573]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Institute. They won't know what hit 'em.</Source>
+      <Dest>!Institut. Nebudou vědět, co hit 'em.</Dest>
+    </String>
+    <String List="2" sID="003288" Partial="1">
+      <EDID>[0103E56D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A handful of Minutemen. A kid could do this job.</Source>
+      <Dest>!Hrstka Minutemen. Dítě by mohl dělat tuto práci.</Dest>
+    </String>
+    <String List="2" sID="00328C" Partial="1">
+      <EDID>[0103E585]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Caps for your time. Enjoy them while they last.</Source>
+      <Dest>!Zátky za váš čas. Užijte si je, zatímco oni poslední.</Dest>
+    </String>
+    <String List="2" sID="00328D" Partial="1">
+      <EDID>[0103E586]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. A few caps for the trouble.</Source>
+      <Dest>!Zde. Několik zátek?pro potíže.</Dest>
+    </String>
+    <String List="2" sID="00328E" Partial="1">
+      <EDID>[0103E580]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your cut for the successful job.</Source>
+      <Dest>!Váš střih pro úspěšnou práci.</Dest>
+    </String>
+    <String List="2" sID="00328F" Partial="1">
+      <EDID>[0103E57B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you don't think you can handle it... you can tell me. Maybe you'd rather be slumming it with the traders?</Source>
+      <Dest>!Pokud si nemyslím, že to zvládne ... můžete mi říct. Možná byste raději být Slumming to s obchodníky?</Dest>
+    </String>
+    <String List="2" sID="003C49" Partial="1">
+      <EDID>[01047138]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A supply train of ours was hit, forced to dig in to protect the goods. I'd have you go in to ensure their survival.</Source>
+      <Dest>!Zásobovací kolona náš byl zasažen, musel kopat na ochranu zboží. Musela bych jít k zajištění jejich přežití.</Dest>
+    </String>
+    <String List="2" sID="003C4E" Partial="1">
+      <EDID>[010471DF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a loose end I'd like tied up out in the Commonwealth. I was hoping you could make sure no one ever hears from them again.</Source>
+      <Dest>!Tam je volný konec bych rád svázaná v Commonwealth. Doufal jsem, že byste mohl ujistit, nikdo nikdy slyší od nich.</Dest>
+    </String>
+    <String List="2" sID="003C50" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Looking to get your hands dirty? You're in the right place. Job came across my lap. Yours if you want it.</Source>
+      <Dest>!Podíváme-li dostat své špinavé ruce? Vy jste na správném místě. narazil na mém klíně práce. S pozdravem, jestli chceš.</Dest>
+    </String>
+    <String List="2" sID="003C51" Partial="1">
+      <EDID>[010471CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An independent party doing some work for us has accepted a job from them. I won't have that.</Source>
+      <Dest>!Nezávislá strana dělá nějakou práci pro nás přijal práci od nich. Nebudu mít to.</Dest>
+    </String>
+    <String List="2" sID="003C56" Partial="1">
+      <EDID>[0104720C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Brotherhood of Steel contingent. Certainly has the potential to be interesting. </Source>
+      <Dest>!Brotherhood of Steel kontingentu. Určitě má potenciál být zajímavé.</Dest>
+    </String>
+    <String List="2" sID="003C57" Partial="1">
+      <EDID>[010471D9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a trader who's been providing them with support. I want this toadie stopped. Permanently. Willing to do the deed?</Source>
+      <Dest>!Je tu obchodník, kdo byl jejich poskytování podpory. Chci, aby to toadie zastavil. Natrvalo. Ochoten udělat čin?</Dest>
+    </String>
+    <String List="2" sID="003C59" Partial="1">
+      <EDID>[01047119]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take this. Payment for services rendered.</Source>
+      <Dest>!Vzít. Platba za poskytnuté služby.</Dest>
+    </String>
+    <String List="2" sID="003C5A" Partial="1">
+      <EDID>[010471C9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apparently one of them lost their nerve on a run, then fled without punishment. We can't permit that.</Source>
+      <Dest>!Zřejmě jeden z nich ztratili nervy na útěku, pak prchl bez trestu. Nemůžeme dovolit, že.</Dest>
+    </String>
+    <String List="2" sID="003C5B" Partial="1">
+      <EDID>[0104720F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A squad of Minutemen.</Source>
+      <Dest>!Četa Minutemen.</Dest>
+    </String>
+    <String List="2" sID="003C5E" Partial="1">
+      <EDID>[0104713B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Very well. Only thought you might value an opportunity to display your support.</Source>
+      <Dest>!Velmi dobře. Jen si myslel, že by mohl ocenit možnost zobrazit vaši podporu.</Dest>
+    </String>
+    <String List="2" sID="003C60" Partial="1">
+      <EDID>[0104715A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Then I'll let you get back to it.</Source>
+      <Dest>!Pak jsem tě nechám vrátit se k němu.</Dest>
+    </String>
+    <String List="2" sID="003C65" Partial="1">
+      <EDID>[0104717F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've collected information about a significant store of goods. Goods that should be ours. You'd help them collect.</Source>
+      <Dest>!Už shromažďují informace o významném obchodě zboží. Zboží, které by měly být naše. Vy byste jim pomoci shromáždit.</Dest>
+    </String>
+    <String List="2" sID="003C67" Partial="1">
+      <EDID>[01047186]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've become aware of a cache of supplies that I'd like to lay claim to... and it's current owners dealt with. Up to the task?</Source>
+      <Dest>!Už jsme vědomi mezipaměti dodávek, které bych chtěl uplatnit nárok na ... a je to současní majitelé se zabývaly. Na tento úkol?</Dest>
+    </String>
+    <String List="2" sID="003C6C" Partial="1">
+      <EDID>[010471DB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've turned up information on one their dealers. I'd like this person put out of business. You'd be the one taking care of them.</Source>
+      <Dest>!Jsme objevili informace na jednom jejich prodejců. Rád bych tuto osobu vyřadil z provozu. Bys být tím, kdo o ně pečují.</Dest>
+    </String>
+    <String List="2" sID="003C71" Partial="1">
+      <EDID>[01047180]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've turned up an opportunity to lay claim to a decent-sized cache. You'd make sure the prize ends up in our hands.</Source>
+      <Dest>!Už se objevil možnost uplatnit nárok na slušné velikosti cache. Člověk by se ujistěte, že cena skončí v našich rukou.</Dest>
+    </String>
+    <String List="2" sID="003C72" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Overboss. Operators could use your skills if you've got some time.</Source>
+      <Dest>Overbossi. Provozáci by mohli využít tvé schopnosti, pokud máš chvilku času.</Dest>
+    </String>
+    <String List="2" sID="003C75" Partial="1">
+      <EDID>[01047113]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here you are. Your piece of the spoils.</Source>
+      <Dest>!Tady jsi. Váš kus kořisti.</Dest>
+    </String>
+    <String List="2" sID="003C76" Partial="1">
+      <EDID>[0104713C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Up to you, Overboss. I understand if it's all too much for you to handle.</Source>
+      <Dest>!Je to na tobě, Overboss. Chápu, jestli je to všechno příliš mnoho pro vás zpracovat.</Dest>
+    </String>
+    <String List="2" sID="003C7A" Partial="1">
+      <EDID>[01047156]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Disciples have made an annoyance of themselves yet again.</Source>
+      <Dest>!Stoupenci učinili zlosti sami o sobě ještě jednou.</Dest>
+    </String>
+    <String List="2" sID="003C7B" Partial="1">
+      <EDID>[01047155]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We have an issue with the Disciples.</Source>
+      <Dest>Máme problém se Stoupenci.</Dest>
+    </String>
+    <String List="2" sID="003C7F" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Boss. Think you might be interested in taking on a task for us?</Source>
+      <Dest>!Šéf. Myslíte, že by mohl být zájem o převzetí úkol pro nás?</Dest>
+    </String>
+    <String List="2" sID="003C80" Partial="1">
+      <EDID>[01047153]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Pack have managed to make themselves more irritating than usual.</Source>
+      <Dest>!Šelmám se podařilo, aby se sami více iritující než obvykle.</Dest>
+    </String>
+    <String List="2" sID="003C83" Partial="1">
+      <EDID>[0104719A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Back at last. And not... much worse for wear.</Source>
+      <Dest>!Po návratu do poslední. A ne ... mnohem hůř.</Dest>
+    </String>
+    <String List="2" sID="003C85" Partial="1">
+      <EDID>[010471D1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A contact of ours is looking to have someone punished. Publicly.</Source>
+      <Dest>!Kontaktní náš hledá se, že někdo potrestán. Veřejně.</Dest>
+    </String>
+    <String List="2" sID="003C87" Partial="1">
+      <EDID>[01047158]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good. The sooner it's done, the better.</Source>
+      <Dest>!Dobrý. Čím dříve se to dělá, tím lépe.</Dest>
+    </String>
+    <String List="2" sID="003C88" Partial="1">
+      <EDID>[0104714E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An issue has arisen among the members of one of our outposts.</Source>
+      <Dest>!Problém vznikl mezi členy jedné z našich základen.</Dest>
+    </String>
+    <String List="2" sID="003C89" Partial="1">
+      <EDID>[0104720B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some Raiders. Nothing more.</Source>
+      <Dest>!Nějací nájezdníci. Nic víc.</Dest>
+    </String>
+    <String List="2" sID="003C8C" Partial="1">
+      <EDID>[01047140]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I wouldn't want to burden you with something you're not equipped for.</Source>
+      <Dest>!Já bych nechtěl zatěžovat vás s něčím nejste vybaven.</Dest>
+    </String>
+    <String List="2" sID="003C8D" Partial="1">
+      <EDID>[010471DD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A contact of ours is looking to have someone disposed of. You'd be the one putting them down.</Source>
+      <Dest>!Kontaktní náš hledá mít někoho zlikvidovat. Bys být ten jejich uvádění dolů.</Dest>
+    </String>
+    <String List="2" sID="003C90" Partial="1">
+      <EDID>[0104713E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm. If that's what you'd prefer.</Source>
+      <Dest>!Hmm. Jestli je to, co byste raději.</Dest>
+    </String>
+    <String List="2" sID="003C98" Partial="1">
+      <EDID>[010471D3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A mouthy trader out in the Commonwealth has been slandering the Operators. I'd like to see them shamed.</Source>
+      <Dest>!Upovídaný obchodník v Commonwealthu bylo pomlouvání Provozáků. Chtěl bych vidět zostudit.</Dest>
+    </String>
+    <String List="2" sID="003C99" Partial="1">
+      <EDID>[010471BA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Overboss. Still game to close out that job for us?</Source>
+      <Dest>!Overboss. Stále hře uzavřít tuto práci za nás?</Dest>
+    </String>
+    <String List="2" sID="003C9A" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Intriguing job came our way. It's yours if you want it.</Source>
+      <Dest>!Zajímavé zaměstnání přišlo naše cesta. Je to váš, pokud budete chtít.</Dest>
+    </String>
+    <String List="2" sID="003C9B" Partial="1">
+      <EDID>[0104713D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fine. Perhaps I'll find someone else, then.</Source>
+      <Dest>!Dobře. Snad najdu někoho jiného, pak.</Dest>
+    </String>
+    <String List="2" sID="003C9C" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You've got good timing. There's a job I think might benefit from someone with your... strengths.</Source>
+      <Dest>!Máte dobré načasování. Tam je práce, kterou jsem si, že by mohl mít prospěch z někoho, kdo se svým ... silné stránky.</Dest>
+    </String>
+    <String List="2" sID="003C9D" Partial="1">
+      <EDID>[010471CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of their own has decided to abandon our little family without permission. And I'm not one to ignore an opportunity to make an example.</Source>
+      <Dest>!Jeden z nich se rozhodl opustit naši malou rodinu bez povolení. A já nejsem jeden ignorovat příležitost, aby příklad.</Dest>
+    </String>
+    <String List="2" sID="003CA5" Partial="1">
+      <EDID>[010471E1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Then I won't waste any more of your time than I have to.</Source>
+      <Dest>!Pak nebudu ztrácet více času, než musím.</Dest>
+    </String>
+    <String List="2" sID="003CA9" Partial="1">
+      <EDID>[010470FC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>When it's all said and done, there will be caps.</Source>
+      <Dest>!Když je vše řečeno a uděláno, bude zátek?</Dest>
+    </String>
+    <String List="2" sID="003CAA" Partial="1">
+      <EDID>[01047184]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Group of scavengers stumbled upon a rich cache. Lucky for us, they blabbed about it. I want to make it ours.</Source>
+      <Dest>!Skupina lapačů narazil na bohatou cache. Naštěstí pro nás, ale blabbed o tom. Chci, aby to naše.</Dest>
+    </String>
+    <String List="2" sID="003CAD" Partial="1">
+      <EDID>[010471BB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hope the task isn't giving you too much trouble, Overboss. You're still willing to take care of it?</Source>
+      <Dest>!Doufám, že úloha není dává vám příliš mnoho problémů, Overboss. Jsi stále ochoten postarat se o to?</Dest>
+    </String>
+    <String List="2" sID="003CAE" Partial="1">
+      <EDID>[010471D7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apparently one among them disobeyed an order, fleeing the scene to avoid the consequences of their actions. They need to be put down.</Source>
+      <Dest>!Zřejmě jeden z nich neuposlechl rozkaz, prchají ze scény, aby se zabránilo následkům svých činů. Je třeba je dát dolů.</Dest>
+    </String>
+    <String List="2" sID="003CAF" Partial="1">
+      <EDID>[01047193]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Wrapped up already? Hmm.</Source>
+      <Dest>!Shrnula už? Hmm.</Dest>
+    </String>
+    <String List="2" sID="003CB3" Partial="1">
+      <EDID>[0104712D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Was hoping that's what you'd say. Watch yourself out there.</Source>
+      <Dest>!Doufal, že to, co bych řekl. Dávej na sebe pozor venku.</Dest>
+    </String>
+    <String List="2" sID="003CB6" Partial="1">
+      <EDID>[01047151]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An outpost of ours is in need.</Source>
+      <Dest>!Základna z nás je v nouzi.</Dest>
+    </String>
+    <String List="2" sID="003CB7" Partial="1">
+      <EDID>[0104720A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Raiders. Nothing but pushovers, really.</Source>
+      <Dest>!Nájezdníci. Nic ale pushovers, opravdu.</Dest>
+    </String>
+    <String List="2" sID="003CB8" Partial="1">
+      <EDID>[0104714F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A request for support has come in from an outpost.</Source>
+      <Dest>!Žádost o podporu má přijít ze základny.</Dest>
+    </String>
+    <String List="2" sID="003CBA" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm... you know, I've got a job set aside that I think you might find... stimulating... if you're interested.</Source>
+      <Dest>!Hmm ... víte, mám práci vyčlenit si myslím, že byste mohli najít ... stimulující ... pokud máte zájem.</Dest>
+    </String>
+    <String List="2" sID="003CBB" Partial="1">
+      <EDID>[010471DA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've managed to turn one of our fixers. I won't tolerate such betrayal. Eliminate them.</Source>
+      <Dest>!Se jim podařilo otočit jeden z našich fixers. Nebudu tolerovat takovou zradu. Jejich odstranění.</Dest>
+    </String>
+    <String List="2" sID="003CC0" Partial="1">
+      <EDID>[010471E5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>All right then.</Source>
+      <Dest>Dobře tedy.</Dest>
+    </String>
+    <String List="2" sID="003CC5" Partial="1">
+      <EDID>[01047209]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A Super Mutant gang. Effectively target practice.</Source>
+      <Dest>!Supermutant gang. Účinně terč.</Dest>
+    </String>
+    <String List="2" sID="003CC6" Partial="1">
+      <EDID>[01047130]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Then I'll leave you to it.</Source>
+      <Dest>!Pak tě nechám na něm.</Dest>
+    </String>
+    <String List="2" sID="003CC7" Partial="1">
+      <EDID>[0104711B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Spend them as you will.</Source>
+      <Dest>!Utratit je, jak budete chtít.</Dest>
+    </String>
+    <String List="2" sID="003CC8" Partial="1">
+      <EDID>[01047131]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Superb. Happy hunting.</Source>
+      <Dest>!Nádherný. Šťastný lov.</Dest>
+    </String>
+    <String List="2" sID="003CCD" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another05</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There is some more work available, if you're looking to take something on.</Source>
+      <Dest>!Tam je nějaká další práce k dispozici, pokud hledáte vzít něco dále.</Dest>
+    </String>
+    <String List="2" sID="003CD0" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you're here looking to wreak a little havoc, I think I can provide. Up for some work?</Source>
+      <Dest>!Pokud jste zde chtějí způsobit trochu zmatek, myslím, že mohu poskytnout. Až za nějakou práci?</Dest>
+    </String>
+    <String List="2" sID="003CD1" Partial="1">
+      <EDID>[0104720D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just some Brotherhood irritants.</Source>
+      <Dest>!Jen pár Bratrstvo dráždidla.</Dest>
+    </String>
+    <String List="2" sID="003CD3" Partial="1">
+      <EDID>[010470FE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Of course. This is real work, Overboss. Pays real caps.</Source>
+      <Dest>!Samozřejmě. To je skutečná práce, Overboss. Pays skutečné zátek?</Dest>
+    </String>
+    <String List="2" sID="003CD5" Partial="1">
+      <EDID>[010471CD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've turned up the name of one of their fixers. I want them convinced we'd make better allies.</Source>
+      <Dest>!Už jsme se objevil název jednoho ze svých fixers. Chci, aby se přesvědčil, bychom lépe spojenci.</Dest>
+    </String>
+    <String List="2" sID="003CD6" Partial="1">
+      <EDID>[01047133]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've acquired a decent haul of supplies. Decent enough, unfortunately, to attract attention. That will need to be dealt with.</Source>
+      <Dest>!Už získal slušný úlovek dodávek. dost slušné, bohužel, k upoutání pozornosti. Které budou muset být řešeny.</Dest>
+    </String>
+    <String List="2" sID="003CDD" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another01</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You know, boss, there is another task I think might pique your interest.</Source>
+      <Dest>!Víš, šéfe, tam je další úkol, myslím, že možná vzbudí váš zájem.</Dest>
+    </String>
+    <String List="2" sID="003CE1" Partial="1">
+      <EDID>[01047137]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Couple of our members uncovered a cache, but word has gotten out about their find. You'd head in to make sure we're the ones who end up controlling it.</Source>
+      <Dest>!Pár našich členů odkryl cache, ale slovo se dostala ven o jejich nálezu. Vy byste zamířit do ujistit, že jsme ti, kdo skončí jeho ovládání.</Dest>
+    </String>
+    <String List="2" sID="003CE2" Partial="1">
+      <EDID>[010470F7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's an old nuisance that I'd like taken out. Up for a bit of wetwork?</Source>
+      <Dest>!Existuje staré obtíž, že bych rád vyjmut. Až na trochu wetwork?</Dest>
+    </String>
+    <String List="2" sID="003CE3" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another07</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There a chance you'd be interested in doing some more for us?</Source>
+      <Dest>!Existuje šance, že by zájem dělat víc pro nás?</Dest>
+    </String>
+    <String List="2" sID="003CE4" Partial="1">
+      <EDID>[0104719B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Job handled with aplomb, no doubt.</Source>
+      <Dest>!Job zacházet se sebejistotou, není pochyb.</Dest>
+    </String>
+    <String List="2" sID="003CE5" Partial="1">
+      <EDID>[0104715B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Try not to delay too long. Makes us look... unfocused.</Source>
+      <Dest>!Snažte se zdržovat příliš dlouho. Z nás dělá vypadají ... nesoustředěný.</Dest>
+    </String>
+    <String List="2" sID="003CE7" Partial="1">
+      <EDID>[010470F3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've acquired the name of a target they appear to value. I want this target put in an early grave.</Source>
+      <Dest>!Získali jsme název cíle se zobrazují na hodnotě. Chci tento cíl dát do předčasného hrobu.</Dest>
+    </String>
+    <String List="2" sID="003CEC" Partial="1">
+      <EDID>[010470FB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We're no charity. Good work will be compensated.</Source>
+      <Dest>!Jsme žádná charita. Dobrá práce bude kompenzován.</Dest>
+    </String>
+    <String List="2" sID="003CEF" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar02FemaleDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apply this shock collar to her. If you can do it without being detected, wonderful. Otherwise, feel free to pummel her into agreement.</Source>
+      <Dest>!Použij na ní tenhle šokový obojek. Pokud můžete to udělat, aniž by byla odhalena, úžasné. V opačném případě, neváhej ji bušit do smlouvy.</Dest>
+    </String>
+    <String List="2" sID="003CF0" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There is another job available, if you're interested, Overboss.</Source>
+      <Dest>!K dispozici je další práce, pokud máte zájem, Overboss.</Dest>
+    </String>
+    <String List="2" sID="003CF5" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another02</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's another job that could use your skills, boss. Would you want in?</Source>
+      <Dest>!Je tu další práce, která by mohla využít své schopnosti, šéfe. Chtěli byste v?</Dest>
+    </String>
+    <String List="2" sID="003CF9" Partial="1">
+      <EDID>[010470F8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We received a request to help someone shuffle off this mortal coil. I'd like you to take care of it.</Source>
+      <Dest>!Obdrželi jsme žádost, aby pomohl někdo zamíchat mimo tuto smrtelnou schránku. Chtěl bych, abyste se postarat o to.</Dest>
+    </String>
+    <String List="2" sID="003D00" Partial="1">
+      <EDID>[010470FD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Not to worry, Overboss. Successful jobs don't go unpaid among the Operators.</Source>
+      <Dest>!Není se čeho bát, Overbossi. Úspěšné úlohy nejdou neplacené mezi Provozáky.</Dest>
+    </String>
+    <String List="2" sID="003D03" Partial="1">
+      <EDID>[01047115]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There. Consider the task complete.</Source>
+      <Dest>!Tam. Vezměme si za úkol dokončen.</Dest>
+    </String>
+    <String List="2" sID="003D0A" Partial="1">
+      <EDID>[01047111]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. You've earned this.</Source>
+      <Dest>!Zde. Získali jste to.</Dest>
+    </String>
+    <String List="2" sID="003D0F" Partial="1">
+      <EDID>[01047112]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. Your cut.</Source>
+      <Dest>!Zde. Váš střih.</Dest>
+    </String>
+    <String List="2" sID="003D11" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro08</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You here to work? I've got something I think you might be able to handle.</Source>
+      <Dest>!Můžete zde pracovat? Mám něco, co si myslím, že byste měli být schopni zvládnout.</Dest>
+    </String>
+    <String List="2" sID="003D16" Partial="1">
+      <EDID>[010470EF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A threat has been made against one of our members. They need to learn we don't take threats idly. I want them dead.</Source>
+      <Dest>!Hrozba byla podána proti jednomu z našich členů. Potřebují se naučit nebereme hrozby se založenýma rukama. Chci je mrtvé.</Dest>
+    </String>
+    <String List="2" sID="003D23" Partial="1">
+      <EDID>[010471CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apparently one among them botched a job, fleeing the scene in shame. They can't be allowed to get away with that.</Source>
+      <Dest>!Zřejmě jeden z nich zpackaný práci, prchající scénu v hanbě. Nemohou být dovoleno dostat pryč s tím.</Dest>
+    </String>
+    <String List="2" sID="003D27" Partial="1">
+      <EDID>[01047216]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>No one of consequence. I wouldn't overthink it.</Source>
+      <Dest>!Žádný z následků. Já bych to overthink.</Dest>
+    </String>
+    <String List="2" sID="003D2A" Partial="1">
+      <EDID>[01047185]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's some traders that refuse to sell to our people. I won't tolerate such disrespect. So you're going to take their goods.</Source>
+      <Dest>!Je tu někteří obchodníci, které odmítají prodávat našich lidí. Nebudu tolerovat takovou neúctu. Takže se chystáte vzít své zboží.</Dest>
+    </String>
+    <String List="2" sID="003D2C" Partial="1">
+      <EDID>[010471CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone has been passing them information. That information should be ours.</Source>
+      <Dest>!Někdo byl jim předávání informací. Tyto informace by měly být naše.</Dest>
+    </String>
+    <String List="2" sID="003D31" Partial="1">
+      <EDID>[01047210]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Gunners. You'll want to watch yourself.</Source>
+      <Dest>!Ranaři. Budete chtít sledovat sami.</Dest>
+    </String>
+    <String List="2" sID="003D35" Partial="1">
+      <EDID>[010470F4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>It appears they've made some... new friends. Time these friends learned the cost of working with the wrong gang. I want them eliminated.</Source>
+      <Dest>!Zdá se, že jsem udělal pár ... nové přátele. Doba tito přátelé se naučili náklady na práci se špatným gangu. Chci je eliminován.</Dest>
+    </String>
+    <String List="2" sID="003D39" Partial="1">
+      <EDID>[010470F0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our own has a target they'd like to see removed from amongst the living, but I want to ensure it's not traced back to them. Up for a kill?</Source>
+      <Dest>!Jeden z našich vlastních má za cíl oni chtěli vidět odstraněn z řad živých, ale chci, aby bylo zajištěno, že to není vystopovat zpět k nim. Až za zabití?</Dest>
+    </String>
+    <String List="2" sID="003D3E" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar02MaleDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Apply this shock collar to him. If you can do it without being detected, wonderful. Otherwise, feel free to pummel him into agreement.</Source>
+      <Dest>!Použij na něj tenhle šokový obojek. Pokud můžete to udělat, aniž by byla odhalena, úžasné. V opačném případě, neváhej ho bušit do smlouvy.</Dest>
+    </String>
+    <String List="2" sID="003D42" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Have some work, Overboss, that I think may be up your alley. Interested?</Source>
+      <Dest>!Mají nějakou práci, Overboss, že myslím, že může být až vaše uličky. Zajímám?</Dest>
+    </String>
+    <String List="2" sID="003D45" Partial="1">
+      <EDID>[0104710F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Inaction. I believe there was another Overboss who preferred that as well.</Source>
+      <Dest>!Nečinnost. Věřím, že došlo k dalšímu Overboss, který dává přednost tomu stejně.</Dest>
+    </String>
+    <String List="2" sID="003D47" Partial="1">
+      <EDID>[01047199]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, well. Hadn't been expecting you so soon.</Source>
+      <Dest>!Ale Ale. Nebyl jste očekával tak brzy.</Dest>
+    </String>
+    <String List="2" sID="003D48" Partial="1">
+      <EDID>[010471D6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of them was caught skimming from the gang's stores, then fled without punishment. No one steals from the Operators and lives.</Source>
+      <Dest>!Jeden z nich byl chycen skluzem z obchodů gangu, pak prchl bez trestu. Nikdo ukradne z Provozáků a životů.</Dest>
+    </String>
+    <String List="2" sID="003D54" Partial="1">
+      <EDID>[01047213]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some Railroad agents come up for air.</Source>
+      <Dest>!Některé Železniční agenti přijít na vzduchu.</Dest>
+    </String>
+    <String List="2" sID="003D56" Partial="1">
+      <EDID>[010471D2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A request was made to break someone's spirits. No killing, though.</Source>
+      <Dest>!Žádost byla podána zlomit něčí náladu. Žádné zabíjení, ačkoli.</Dest>
+    </String>
+    <String List="2" sID="003D57" Partial="1">
+      <EDID>[010471DE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Request came in that we remove a nuisance for a friend. They want them dealt with for good.</Source>
+      <Dest>!Žádost přišla v tom, že jsme se odstranit obtíž pro kamaráda. Chtějí je řešena pro dobré.</Dest>
+    </String>
+    <String List="2" sID="003D5A" Partial="1">
+      <EDID>[01047214]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Institute and some of their toy soldiers.</Source>
+      <Dest>!Institut a některé ze svých vojáčků.</Dest>
+    </String>
+    <String List="2" sID="003D5C" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another04</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you think you've got it in you, I've got another job available.</Source>
+      <Dest>!Pokud si myslíte, že to mám v sobě, mám k dispozici jinou práci.</Dest>
+    </String>
+    <String List="2" sID="003D5F" Partial="1">
+      <EDID>[01047117]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here's your piece of the take.</Source>
+      <Dest>!Zde je vaše kus záběru.</Dest>
+    </String>
+    <String List="2" sID="003D61" Partial="1">
+      <EDID>[0104710B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fine. If you can't decide, I'm sure I can find someone who can.</Source>
+      <Dest>!Dobře. Pokud se nemůžete rozhodnout, jsem si jistý, mohu najít někoho, kdo může.</Dest>
+    </String>
+    <String List="2" sID="003D6C" Partial="1">
+      <EDID>[0104714D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>One of our outposts could use some assistance.</Source>
+      <Dest>!Jeden z našich základen mohl použít nějakou pomoc.</Dest>
+    </String>
+    <String List="2" sID="003D76" Partial="1">
+      <EDID>[01047134]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like they've come into something of a windfall. Their good fortune, though, hasn't gone unnoticed. These would be thieves have to be taken care of.</Source>
+      <Dest>!Vypadá to, že jsem přišel do cosi jako výhru. Jejich štěstí však nezůstalo bez povšimnutí. Jednalo by se zloději musí být postaráno.</Dest>
+    </String>
+    <String List="2" sID="003D78" Partial="1">
+      <EDID>[01047183]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a cache of supplies that would to better in our hands than its current owners. I'd like you to take care of it.</Source>
+      <Dest>!Je tu cache zásoby, které by lépe v našich rukou, než jeho současní majitelé. Chtěl bych, abyste se postarat o to.</Dest>
+    </String>
+    <String List="2" sID="003D7B" Partial="1">
+      <EDID>[0104710E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you're nervous, Overboss, I understand. Maybe someone else would be a better fit.</Source>
+      <Dest>!Pokud jste nervózní, Overboss, chápu. Možná, že někdo jiný by bylo lepší kondici.</Dest>
+    </String>
+    <String List="2" sID="003D7C" Partial="1">
+      <EDID>[01047215]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some Institute forces.</Source>
+      <Dest>!Některé Institute sil.</Dest>
+    </String>
+    <String List="2" sID="003D83" Partial="1">
+      <EDID>[01047139]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Seems an exchange of goods hasn't gone over as planned. You'd be there to ensure our people come out on top.</Source>
+      <Dest>!Zdá se, že výměna zboží neprošel přes jak bylo plánováno. Člověk by tam mělo být zajištění naši lidé vyjdou na vrcholu.</Dest>
+    </String>
+    <String List="2" sID="003D84" Partial="1">
+      <EDID>[0104711A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There you are. Caps are all yours.</Source>
+      <Dest>Tady jsi. Zátky jsou všechny tvoje.</Dest>
+    </String>
+    <String List="2" sID="003D88" Partial="1">
+      <EDID>[01047217]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone who's earned it. I wouldn't worry yourself much beyond that.</Source>
+      <Dest>!Někdo, kdo to vydělal. Já bych si starosti mnohem dál.</Dest>
+    </String>
+    <String List="2" sID="003D8C" Partial="1">
+      <EDID>[0104719C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hope it wasn't too challenging.</Source>
+      <Dest>!Doufám, že to nebylo příliš náročné.</Dest>
+    </String>
+    <String List="2" sID="003D8F" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar01MaleDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Make him wear this Shock Collar. You can either sneak up to him and attach it or beat him into submission and then do it.</Source>
+      <Dest>!Aby nosil tenhle šokový obojek. Můžete buď připlížit k němu a uvádějte jej vždy společně nebo bili ho do podrobení a pak to udělat.</Dest>
+    </String>
+    <String List="2" sID="003D90" Partial="1">
+      <EDID>[010470F1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone has been making trouble for our people. I want it to come to an end. For good.</Source>
+      <Dest>!Někdo se zabývá výrobou potíže pro naše lidi. Chci, aby to skončilo. Navždy.</Dest>
+    </String>
+    <String List="2" sID="003D94" Partial="1">
+      <EDID>DLC04_RQ_Nisha_ExplainShockCollar01FemaleDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Make her wear this Shock Collar. You can either sneak up to her and attach it or beat her into submission and then do it.</Source>
+      <Dest>!Aby nosila tenhle šokový obojek. Můžete buď připlížit k ní a uvádějte jej vždy společně, nebo bil ji do podrobení a pak to udělat.</Dest>
+    </String>
+    <String List="2" sID="003D98" Partial="1">
+      <EDID>[0104720E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A Minutemen contingent. No real danger.</Source>
+      <Dest>!Minutemen kontingentu. Žádné skutečné nebezpečí.</Dest>
+    </String>
+    <String List="2" sID="003D9C" Partial="1">
+      <EDID>[01047211]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Gunner contingent. Chance for some real action.</Source>
+      <Dest>Skupina Ranařů. Šance na nějakou skutečnou akci.</Dest>
+    </String>
+    <String List="2" sID="003D9E" Partial="1">
+      <EDID>[01047181]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a collection of provisions they'd like to lay claim to. Unfortunately, someone else beat them to it. I want you to take it from its current owners.</Source>
+      <Dest>!Tam je sbírka předpisů, které chtěli nárokovat. Bohužel, někdo porazit na něj. Chci, abyste si ji od svých současných majitelů.</Dest>
+    </String>
+    <String List="2" sID="003DA1" Partial="1">
+      <EDID>[01047157]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I guess you ought to get going then.</Source>
+      <Dest>!Myslím, že byste měli bychom jít poté.</Dest>
+    </String>
+    <String List="2" sID="003DA3" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I did have another task set aside. Up for another round?</Source>
+      <Dest>!udělal jsem další úkol zrušil. Až na další kolo?</Dest>
+    </String>
+    <String List="2" sID="003DA4" Partial="1">
+      <EDID>[01047154]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Pack continue to be a thorn in our side.</Source>
+      <Dest>!Šelmy jsou i nadále trnem na naší straně.</Dest>
+    </String>
+    <String List="2" sID="003DA5" Partial="1">
+      <EDID>[01047196]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm. Suppose I need to give you tougher jobs going forward.</Source>
+      <Dest>!Hmm. Dejme tomu, že je třeba, aby vám tvrdší práci do budoucna.</Dest>
+    </String>
+    <String List="2" sID="003DA9" Partial="1">
+      <EDID>[0104713F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Then I guess we don't need to take up any more of each other's time.</Source>
+      <Dest>!Pak myslím, že my nepotřebujeme k některé z více navzájem času.</Dest>
+    </String>
+    <String List="2" sID="003DAA" Partial="1">
+      <EDID>[0104715C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I'll be waiting.</Source>
+      <Dest>Budu čekat.</Dest>
+    </String>
+    <String List="2" sID="003DAE" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another03</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fresh opportunity for intrigue's become available, Overboss. Yours if you want it.</Source>
+      <Dest>!Čerstvé příležitost k intriky je k dispozici, Overboss. S pozdravem, jestli chceš.</Dest>
+    </String>
+    <String List="2" sID="003DAF" Partial="1">
+      <EDID>[01047135]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A caravan supplying them was hit. They're in need of help securing the stock.</Source>
+      <Dest>!Karavan je dodávat byl zasažen. Jsou potřebují pomoc zajišťující zásoby.</Dest>
+    </String>
+    <String List="2" sID="003DB2" Partial="1">
+      <EDID>[010470F5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a new ally they're trying to woo. I want to make sure that doesn't happen. Ever. Put them down for us?</Source>
+      <Dest>!Je tu nový spojenec, že se snaží nalákat. Chci se ujistit, že se tak nestane. Vůbec. Dát je dolů pro nás?</Dest>
+    </String>
+    <String List="2" sID="003DB4" Partial="1">
+      <EDID>DLC04_RQ_Mags_Intro09</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Overboss. Got a task I think you might be a good fit for. Any chance you'd be up for some work?</Source>
+      <Dest>!Overboss. Dostal úkol, myslím, že byste mohla být dobrou volbou pro. Je nějaká šance, že budeš až za nějakou práci?</Dest>
+    </String>
+    <String List="2" sID="003DB5" Partial="1">
+      <EDID>[0104710A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your decision to make. Though I don't appreciate being left in the lurch.</Source>
+      <Dest>!Vaše rozhodnutí učinit. I když ani nevědí, že zůstane na holičkách.</Dest>
+    </String>
+    <String List="2" sID="003DB6" Partial="1">
+      <EDID>[01047195]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Overboss. Glad to know things went well.</Source>
+      <Dest>!Overboss. Rád, že to šlo dobře.</Dest>
+    </String>
+    <String List="2" sID="003DB7" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another10</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Operators have another... opportunity to offer, Overboss. Interested?</Source>
+      <Dest>Provozáci mají další... možnou nabídku, Overbossi. Máš zájem?</Dest>
+    </String>
+    <String List="2" sID="003DB9" Partial="1">
+      <EDID>[01047197]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>The Overboss returns, alive and... well enough.</Source>
+      <Dest>!Overboss vrátí, živý a ... dost dobře.</Dest>
+    </String>
+    <String List="2" sID="003DBC" Partial="1">
+      <EDID>[01047150]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Populace at one of our outposts has reached out to us.</Source>
+      <Dest>!Lid v jedné z našich základen dosáhla k nám.</Dest>
+    </String>
+    <String List="2" sID="003DC0" Partial="1">
+      <EDID>[01047212]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Collection of Railroad agents. Should be easy pickings.</Source>
+      <Dest>!Sbírka Železniční agentů. By mělo být snadné zlatý důl.</Dest>
+    </String>
+    <String List="2" sID="003DC1" Partial="1">
+      <EDID>[0104712F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good to hear. We'll be waiting.</Source>
+      <Dest>!Dobré slyšet. Budeme čekat.</Dest>
+    </String>
+    <String List="2" sID="003DC6" Partial="1">
+      <EDID>[01047194]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Made short work of that, it would seem.</Source>
+      <Dest>!Vyrobený krátký proces, který, jak se zdá.</Dest>
+    </String>
+    <String List="2" sID="003DC9" Partial="1">
+      <EDID>[01047198]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well. I suspect things all went according to plan.</Source>
+      <Dest>!Dobře. Mám podezření, že věci, vše šlo podle plánu.</Dest>
+    </String>
+    <String List="2" sID="003DCA" Partial="1">
+      <EDID>[01047118]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I believe these are yours.</Source>
+      <Dest>!Věřím, že se jedná o vaše.</Dest>
+    </String>
+    <String List="2" sID="003DCC" Partial="1">
+      <EDID>[010471E2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Glad to hear it.</Source>
+      <Dest>To ráda slyším.</Dest>
+    </String>
+    <String List="2" sID="003DCE" Partial="1">
+      <EDID>[0104710D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm. A shame. Thought I might be able to count on you.</Source>
+      <Dest>!Hmm. Ostuda. Myslel jsem, že by měli být schopni spolehnout na vás.</Dest>
+    </String>
+    <String List="2" sID="003DD2" Partial="1">
+      <EDID>DLC04_RQ_Mags_Another06</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You know, the Operators could use you expertise again, if you're up for it.</Source>
+      <Dest>!Víš, že Provozáci by mohli použít odborné znalosti znovu, pokud jste se na to.</Dest>
+    </String>
+    <String List="2" sID="003DD4" Partial="1">
+      <EDID>[0104712E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Excellent. Best of luck.</Source>
+      <Dest>!Vynikající. Hodně štěstí.</Dest>
+    </String>
+    <String List="2" sID="003DD6" Partial="1">
+      <EDID>[010470F9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>An old ally's requested assistance in disposing of someone. I want them in our debt, so, I'd like you to take care of their target.</Source>
+      <Dest>!Starý Ally požaduje pomoc při likvidaci někoho. Chci je do našeho dluhu, takže bych rád, abyste se postarat o jejich cíli.</Dest>
+    </String>
+    <String List="2" sID="003DDB" Partial="1">
+      <EDID>[01047116]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There you are. Operators pay their debts.</Source>
+      <Dest>Tady jsi. Provozáci své dluhy splácí.</Dest>
+    </String>
+    <String List="2" sID="003DDC" Partial="1">
+      <EDID>[010471E4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Well, then, let me get to the point.</Source>
+      <Dest>!Nuže, dej mi dostat do bodu.</Dest>
+    </String>
+    <String List="2" sID="003DDD" Partial="1">
+      <EDID>[01047114]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Take it. The proceeds of a hard day's work.</Source>
+      <Dest>Vezmi si to. Výtěžek z celodenní tvrdé práci.</Dest>
+    </String>
+    <String List="2" sID="003DDE" Partial="1">
+      <EDID>[010471E3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good.</Source>
+      <Dest>Dobře.</Dest>
+    </String>
+    <String List="2" sID="003DE0" Partial="1">
+      <EDID>[010471BC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Things proceeding with the job, Overboss? I can count on you taking care of it?</Source>
+      <Dest>!Věci pokračováním v práci, Overboss? Mohu počítat s staráš o tom?</Dest>
+    </String>
+    <String List="2" sID="003DE4" Partial="1">
+      <EDID>[010471D5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Seems they exposed a turncoat among them who fled before they could be apprehended. I want the traitor's head.</Source>
+      <Dest>!Zdá se, že vystavení přeběhlík mezi nimi, kteří uprchli před tím, než by mohl být zadržen. Chci zrádce hlavu.</Dest>
+    </String>
+    <String List="2" sID="003DE5" Partial="1">
+      <EDID>[01047208]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some Super Mutants. Shouldn't be challenging.</Source>
+      <Dest>!Některé Supermutanti. Nemělo by to být náročné.</Dest>
+    </String>
+    <String List="2" sID="004099" Partial="1">
+      <EDID>[0104AEA2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What? No!</Source>
+      <Dest>Cože? Ne!</Dest>
+    </String>
+    <String List="2" sID="00409E" Partial="1">
+      <EDID>[0104AEA5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Shit!</Source>
+      <Dest>Sakra!</Dest>
+    </String>
+    <String List="2" sID="0040BD" Partial="1">
+      <EDID>[0104AEA4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Damn it!</Source>
+      <Dest>Zatraceně!</Dest>
+    </String>
+    <String List="2" sID="0040F8" Partial="1">
+      <EDID>[0104AEA7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Nooooo!</Source>
+      <Dest>Néééé!</Dest>
+    </String>
+    <String List="2" sID="0040FB" Partial="1">
+      <EDID>[0104AEA3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Shit!</Source>
+      <Dest>Sakra!</Dest>
+    </String>
+    <String List="2" sID="004103" Partial="1">
+      <EDID>[0104AE9F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Oh my god!</Source>
+      <Dest>Můj Bože!</Dest>
+    </String>
+    <String List="2" sID="00411A" Partial="1">
+      <EDID>[0104AEA6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source> Rage! Rage!</Source>
+      <Dest>Vztek! Vztek!</Dest>
+    </String>
+    <String List="2" sID="004122" Partial="1">
+      <EDID>[0104AEA0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>What? No!</Source>
+      <Dest>Cože? Ne!</Dest>
+    </String>
+    <String List="2" sID="004148" Partial="1">
+      <EDID>[0104BCCF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There something you want?</Source>
+      <Dest>!Existuje něco, co chcete?</Dest>
+    </String>
+    <String List="2" sID="004153" Partial="1">
+      <EDID>[0104C0A7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I have this necklace that would look wonderful on you. Here...</Source>
+      <Dest>!Mám ten náhrdelník, který by vypadat skvěle na vás. Tady ...</Dest>
+    </String>
+    <String List="2" sID="004169" Partial="1">
+      <EDID>[0104BCD0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Can I help you?</Source>
+      <Dest>Můžu vám pomoci?</Dest>
+    </String>
+    <String List="2" sID="00417D" Partial="1">
+      <EDID>[0104BCBF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Never mind.</Source>
+      <Dest>To je jedno.</Dest>
+    </String>
+    <String List="2" sID="00419F" Partial="1">
+      <EDID>[0104BCC4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Umm. Okay. Lead the way.</Source>
+      <Dest>!Umm. Dobře. Razí cestu.</Dest>
+    </String>
+    <String List="2" sID="0041B3" Partial="1">
+      <EDID>[0104BCD7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Come with me, there's something you need to see.</Source>
+      <Dest>Pojď se mnou. Je tu něco, co musíš vidět.</Dest>
+    </String>
+    <String List="2" sID="0041D0" Partial="1">
+      <EDID>[0104BCD1]</EDID>
+      <REC id="0">INFO:NAM1</REC>
+      <Source>Okay, I guess. Wait a minute...</Source>
+      <Dest>!Dobře, myslím. Počkej chvíli...</Dest>
+    </String>
+    <String List="2" sID="0041D6" Partial="1">
+      <EDID>[0104BCC0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>How's it going?</Source>
+      <Dest>Jak to jde?</Dest>
+    </String>
+    <String List="2" sID="004200" Partial="1">
+      <EDID>[0104BCC9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Um, fine. Do I know you?</Source>
+      <Dest>!Um, dobře. Znám tě?</Dest>
+    </String>
+    <String List="2" sID="00420F" Partial="1">
+      <EDID>[0104BCC3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Okay?</Source>
+      <Dest>Dobrá.</Dest>
+    </String>
+    <String List="2" sID="004214" Partial="1">
+      <EDID>[0104BCD1]</EDID>
+      <REC id="1">INFO:NAM1</REC>
+      <Source>HELP!</Source>
+      <Dest>POMOC!</Dest>
+    </String>
+    <String List="2" sID="004215" Partial="1">
+      <EDID>[0104BCC2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you have anyone to say goodbye to, now's the chance.</Source>
+      <Dest>!Pokud máte někoho, rozloučit se, teď je šance.</Dest>
+    </String>
+    <String List="2" sID="004216" Partial="1">
+      <EDID>Trick_TroubleMaker_Nope_2</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Nice try. I'm not an idiot.</Source>
+      <Dest>!Dobrý pokus. Nejsem idiot.</Dest>
+    </String>
+    <String List="2" sID="00421B" Partial="1">
+      <EDID>Trick_TroubleMaker_Nope_3</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Uh huh. Sure. I know a scam when I see one.</Source>
+      <Dest>!Aha. Jistě. Znám podvod, když vidím jeden.</Dest>
+    </String>
+    <String List="2" sID="004222" Partial="1">
+      <EDID>[0104BCD6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think you're mistaking me for someone else.</Source>
+      <Dest>!Myslím, že mě splete pro někoho jiného.</Dest>
+    </String>
+    <String List="2" sID="00422A" Partial="1">
+      <EDID>Trick_TroubleMaker_Nope_1</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Yeah right. No thanks.</Source>
+      <Dest>!Ano správně. Ne, díky.</Dest>
+    </String>
+    <String List="2" sID="004256" Partial="1">
+      <EDID>[0104C0A3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Nisha in Nuka-Town owns you. Get moving.</Source>
+      <Dest>!Nisha v Nuka-Town vás vlastní. Pohnout se.</Dest>
+    </String>
+    <String List="2" sID="004266" Partial="1">
+      <EDID>[0104C792]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a party I'd like to have a... frank discussion with.</Source>
+      <Dest>!Je tu párty bych chtěl mít ... upřímný rozhovor s.</Dest>
+    </String>
+    <String List="2" sID="004276" Partial="1">
+      <EDID>[0104C0A2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're property of Nisha in Nuka-Town now. Get going.</Source>
+      <Dest>!Jsi vlastnost Nisha v Nuka-Town teď. Jít.</Dest>
+    </String>
+    <String List="2" sID="00427D" Partial="1">
+      <EDID>[0104C793]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We received a request to help someone learn some respect.</Source>
+      <Dest>!Obdrželi jsme žádost, aby někdo pomůže naučit nějaký respekt.</Dest>
+    </String>
+    <String List="2" sID="00427F" Partial="1">
+      <EDID>[0104C776]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've made what they think is a powerful ally. Turns out their ally is actually working for us... well, almost. Need you to prove me right.</Source>
+      <Dest>!Udělali to, co si myslí, že je mocný spojenec. Ukázalo se, že jejich spojencem je ve skutečnosti pracuje pro nás ... no, skoro. Potřebuju, abys mi za pravdu.</Dest>
+    </String>
+    <String List="2" sID="004284" Partial="1">
+      <EDID>[0104C78E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like they're trying to make a new ally out in the wastes. I'd like the chance to present our case.</Source>
+      <Dest>!Vypadá to, že se snaží vytvořit nového spojence v odpadech. Rád bych možnost prezentovat náš případ.</Dest>
+    </String>
+    <String List="2" sID="004285" Partial="1">
+      <EDID>[0104C774]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've made too many enemies. Need you to go make them a friend.</Source>
+      <Dest>!Oni udělali příliš mnoho nepřátel. Potřebuji tě jít, aby byly přítel.</Dest>
+    </String>
+    <String List="2" sID="004289" Partial="1">
+      <EDID>[0104C78B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone's been leveling threats at them. I don't believe they pose any real danger, but I'd still like them to be taught the error of their ways.</Source>
+      <Dest>!Někdo vyrovnání hrozeb na ně. Nevěřím, že nepředstavují žádné skutečné nebezpečí, ale stejně bych rád, aby se učil chybu jejich cesty.</Dest>
+    </String>
+    <String List="2" sID="0042A9" Partial="1">
+      <EDID>[0104C790]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Seems they've swayed themselves a dangerous ally. But if they could be swayed once...</Source>
+      <Dest>!Zdá se, že jste pod vlivem samy o sobě nebezpečné spojence. Ale pokud by mohly být zviklat jednou ...</Dest>
+    </String>
+    <String List="2" sID="0042AA" Partial="1">
+      <EDID>[0104C788]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I think it's time someone learned just how serious we can be.</Source>
+      <Dest>!Myslím, že je čas se někdo dozvěděl, jak vážně my můžeme být.</Dest>
+    </String>
+    <String List="2" sID="0042B1" Partial="1">
+      <EDID>[0104C787]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They say keep your friends close and your enemies closer. Well, there's someone I need right by my side.</Source>
+      <Dest>!Říká se, že udržet si své přátele blízko a nepřátele ještě blíž. No, je tu někdo, musím hned po mém boku.</Dest>
+    </String>
+    <String List="2" sID="0042C8" Partial="1">
+      <EDID>[0104C782]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They think they've got some powerful ally. Why don't you prove them wrong - and make that powerful ally ours.</Source>
+      <Dest>!Myslí si, že mám nějaké mocného spojence. Proč jste dokázat jim špatně - a dělat, že mocného spojence naše.</Dest>
+    </String>
+    <String List="2" sID="0042D6" Partial="1">
+      <EDID>[0104C77A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's someone who needs to be put in their place... By which I mean, here in Nuka-Town, licking my toes.</Source>
+      <Dest>!Je tu někdo, kdo potřebuje být na jejich místě ... Čímž chci říct, tady v Nuka-Town, olizuje prsty u nohou.</Dest>
+    </String>
+    <String List="2" sID="004325" Partial="1">
+      <EDID>[0104C78F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We've learned the identity of an... interesting party they've reached out to. Someone we'd like to have some words with.</Source>
+      <Dest>!Naučili jsme se identitu ... Zajímavé stranou, že jsem natáhl. Někdo bychom chtěli mít pár slov s.</Dest>
+    </String>
+    <String List="2" sID="00432C" Partial="1">
+      <EDID>[0104C77B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a dog who needs leashing.</Source>
+      <Dest>!Tam je pes, který potřebuje leashing.</Dest>
+    </String>
+    <String List="2" sID="00432D" Partial="1">
+      <EDID>[0104C78C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone has been harrying our people. I'd like them to know what it feels likes.</Source>
+      <Dest>!Někdo byl obtěžovat naše lidi. Rád bych, aby věděli, jaké to rád.</Dest>
+    </String>
+    <String List="2" sID="004333" Partial="1">
+      <EDID>[0104C778]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've made nice with one of my old friends, a friend that apparently needs to be taught a lesson in loyalty.</Source>
+      <Dest>!Udělali hezké s jedním z mých starých přátel, přítele, který zřejmě potřebuje dostat lekci v loajalitu.</Dest>
+    </String>
+    <String List="2" sID="004339" Partial="1">
+      <EDID>[0104C794]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a favor I need done. An... old friend would like a rival taught a lesson.</Source>
+      <Dest>!Je tu laskavost musím udělá. Atraktivní ... starý přítel by chtěl soupeře lekci.</Dest>
+    </String>
+    <String List="2" sID="00433A" Partial="1">
+      <EDID>[0104C78A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>There's a local irritant they'd like to see dealt with. I want this irritant convinced to support our cause.</Source>
+      <Dest>!Tam je místní podráždění, že by si přál, aby se zabýval. Chci tento dráždivý přesvědčil k podpoře naší věci.</Dest>
+    </String>
+    <String List="2" sID="00433D" Partial="1">
+      <EDID>[0104C784]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They've made a friend of an old acquaintance of mine I haven't seen in quite some time. I think it's time we caught up.</Source>
+      <Dest>!Udělali přítele, starého známého dolu jsem neviděl v poměrně dlouhou dobu. Myslím, že je na čase, abychom dohnali.</Dest>
+    </String>
+    <String List="2" sID="004342" Partial="1">
+      <EDID>[0104C783]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They recruited some ally out in the Commonwealth. But you know how fickle alliances can be.</Source>
+      <Dest>!Oni rekrutovali nějaké spojence v Commonwealthu. Ale víte, jak vrtkavá aliance může být.</Dest>
+    </String>
+    <String List="2" sID="004344" Partial="1">
+      <EDID>[0104C780]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Some idiot's trying to stir up trouble. I think you should show everyone how the Disciples keep trouble makers in line.</Source>
+      <Dest>!Některé idiot se snaží vyvolat nesváry. Myslím, že byste měli všem ukázat, jak Stoupenci udržet mimo jiné potíže v řadě.</Dest>
+    </String>
+    <String List="2" sID="004346" Partial="1">
+      <EDID>[0104C77F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>A certain individual is challenging my authority out in the Commonwealth. There's a simple way to teach them respect.</Source>
+      <Dest>!Jistý jedinec je náročné mou autoritu v Commonwealthu. Existuje jednoduchý způsob, jak naučit respektu.</Dest>
+    </String>
+    <String List="2" sID="004347" Partial="1">
+      <EDID>[0104C77E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Someone out there's making threats, and needs to be neutered. Metaphorically.</Source>
+      <Dest>!Někdo tam venku Nutí hrozby, a je třeba ji vykastrovat. Obrazně.</Dest>
+    </String>
+    <String List="2" sID="004348" Partial="1">
+      <EDID>[0104C77C]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Need someone tamed.</Source>
+      <Dest>!Potřebuji někoho, kdo zkrocené.</Dest>
+    </String>
+    <String List="2" sID="00434A" Partial="1">
+      <EDID>[0104C777]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>They have a special friend out in the wastes. I'm jealous. I want that friend for myself.</Source>
+      <Dest>!Mají zvláštní přítele v odpadech. Žárlím. Chci tu kamaráda pro sebe.</Dest>
+    </String>
+    <String List="2" sID="00434E" Partial="1">
+      <EDID>[0104C773]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Got someone harassing them. I want to turn to the tables on that situation.</Source>
+      <Dest>!Mám někoho, kdo je obtěžující. Chci se obrátit v tabulkách na této situaci.</Dest>
+    </String>
+    <String List="2" sID="004351" Partial="1">
+      <EDID>[0104C0A5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're property of Mags Black in Nuka-Town now. Get going.</Source>
+      <Dest>!Jsi vlastnost Mags černé Nuka-Town teď. Jít.</Dest>
+    </String>
+    <String List="2" sID="004353" Partial="1">
+      <EDID>[0104C0A4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mags Black in Nuka-Town owns you. Get moving.</Source>
+      <Dest>!Mags Black v Nuka-Town vás vlastní. Pohnout se.</Dest>
+    </String>
+    <String List="2" sID="004355" Partial="1">
+      <EDID>[0104C0A0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You're property of Mason in Nuka-Town now. Get going.</Source>
+      <Dest>!Jsi vlastnost Mason v Nuka-Town teď. Jít.</Dest>
+    </String>
+    <String List="2" sID="004356" Partial="1">
+      <EDID>[0104C772]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Dog's out there pissing in their business. You're going to go put a leash on that pup.</Source>
+      <Dest>!Psí tam chcát v jejich podnikání. Budeš jít dát vodítko k tomuto štěně.</Dest>
+    </String>
+    <String List="2" sID="004358" Partial="1">
+      <EDID>[0104BCC1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You've won a prize. A necklace. I'll just put it on you...</Source>
+      <Dest>!Jste vyhráli cenu. Náhrdelník. Budu jen dát to na vás ...</Dest>
+    </String>
+    <String List="2" sID="004375" Partial="1">
+      <EDID>[0104C0A1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mason in Nuka-Town owns you. Get moving.</Source>
+      <Dest>!Mason v Nuka-Town vás vlastní. Pohnout se.</Dest>
+    </String>
+    <String List="2" sID="00439B" Partial="1">
+      <EDID>[0104C786]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I got a name on a list of potential "allies" I want you to escort back here.</Source>
+      <Dest>!Mám jméno na seznamu potenciálních spojenců „“ Chci, abyste doprovodil zpátky.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
