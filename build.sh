@@ -12,6 +12,9 @@
 
 set -e
 
+# Plugins to be built by default
+DEFAULT_PLUGINS='Fallout4 Fallout4_VR'
+
 # Make sure we have a working directory
 WORKDIR="build/.tmp";
 mkdir -p $WORKDIR
@@ -36,17 +39,16 @@ function run_build {
     echo "Building $PLUGIN..."
     run_combine
     run_compile
-    script/package.js -b
 }
 
 if [[ -v PLUGIN ]]; then
     run_build
 else
-    for PLUGIN_DIR in translated/*; do
+    for PLUGIN_DIR in $DEFAULT_PLUGINS; do
         PLUGIN=$(basename $PLUGIN_DIR) run_build
     done
 fi
 
 if [[ -v PACKAGE ]]; then
-    script/package.js -zm
+    script/package.js -bzm
 fi

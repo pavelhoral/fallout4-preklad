@@ -37,7 +37,7 @@ class DirectoryProcessor {
             var stat = fs.statSync(path.join(base, directory, name));
             if (stat.isDirectory()) {
                 this.processDirectory(base, path.join(directory, name));
-            } else if (name !== '.gitignore') {
+            } else if (name.startsWith('.')) { // Ignore hidden files
                 this.processFile(base, path.join(directory, name));
             }
         });
@@ -54,7 +54,7 @@ function buildData(version) {
             filepath = path.join(base, file),
             buffer = null;
         if (basename === 'Translate_en.txt') {
-            let content = fs.readFileSync(filepath),
+            let content = fs.readFileSync(filepath, { encoding: 'utf-8' }),
                 regexp = new RegExp('(\\$Press any button to start\\t).*');
             content = content.replace(regexp, '$1Čeština: ' + version);
             buffer = Buffer.from(content, 'utf16le');

@@ -19,11 +19,11 @@
       <Source>Scrapping</Source>
       <Dest>Scrapping</Dest>
     </String>
-    <String List="0" sID="00000B" Partial="1">
+    <String List="0" sID="00000B">
       <EDID>HC_HelpSurvivalVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Survival</Source>
-      <Dest>Survival</Dest>
+      <Dest>Přežití</Dest>
     </String>
     <String List="0" sID="00000D" Partial="1">
       <EDID>HelpSneakingVR_VW</EDID>
@@ -61,11 +61,11 @@
       <Source>Pip-Boy - Data</Source>
       <Dest>Pip-Boy - Data</Dest>
     </String>
-    <String List="0" sID="00001B" Partial="1">
+    <String List="0" sID="00001B">
       <EDID>HelpChemistryStationVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Chemistry Stations</Source>
-      <Dest>Chemistry Stations</Dest>
+      <Dest>Chemické laboratoře</Dest>
     </String>
     <String List="0" sID="00001C" Partial="1">
       <EDID>HelpWorkshopResourcesSettlementsVR_VW</EDID>
@@ -103,17 +103,17 @@
       <Source>Cooking</Source>
       <Dest>Cooking</Dest>
     </String>
-    <String List="0" sID="000027" Partial="1">
+    <String List="0" sID="000027">
       <EDID>HelpArmorVR</EDID>
       <REC>MESG:FULL</REC>
       <Source>Armor</Source>
-      <Dest>Armor</Dest>
+      <Dest>Zbroj</Dest>
     </String>
-    <String List="0" sID="000029" Partial="1">
+    <String List="0" sID="000029">
       <EDID>HelpCarryWeightVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Carry Weight</Source>
-      <Dest>Carry Weight</Dest>
+      <Dest>Nosnost</Dest>
     </String>
     <String List="0" sID="00002A" Partial="1">
       <EDID>HelpWorkshopResourcesSettlementsVR_VW</EDID>
@@ -127,47 +127,47 @@
       <Source>Terminals</Source>
       <Dest>Terminals</Dest>
     </String>
-    <String List="0" sID="00002C" Partial="1">
+    <String List="0" sID="00002C">
       <EDID>HelpBlockingVR</EDID>
       <REC>MESG:FULL</REC>
       <Source>Blocking</Source>
-      <Dest>Blocking</Dest>
+      <Dest>Blokování</Dest>
     </String>
-    <String List="0" sID="000031" Partial="1">
+    <String List="0" sID="000031">
       <EDID>HelpAimingVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Aiming</Source>
-      <Dest>Aiming</Dest>
+      <Dest>Míření</Dest>
     </String>
-    <String List="0" sID="000033" Partial="1">
+    <String List="0" sID="000033">
       <EDID>HelpAimingVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Aiming</Source>
-      <Dest>Aiming</Dest>
+      <Dest>Míření</Dest>
     </String>
-    <String List="0" sID="000035" Partial="1">
+    <String List="0" sID="000035">
       <EDID>HelpChemsVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Chems</Source>
-      <Dest>Chems</Dest>
+      <Dest>Chemikálie</Dest>
     </String>
-    <String List="0" sID="000037" Partial="1">
+    <String List="0" sID="000037">
       <EDID>HelpAddictionVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Addiction</Source>
-      <Dest>Addiction</Dest>
+      <Dest>Závislost</Dest>
     </String>
-    <String List="0" sID="00003A" Partial="1">
+    <String List="0" sID="00003A">
       <EDID>HelpActionPointsVR</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Action Points</Source>
-      <Dest>Action Points</Dest>
+      <Dest>Akční body</Dest>
     </String>
-    <String List="0" sID="00003C" Partial="1">
+    <String List="0" sID="00003C">
       <EDID>HelpActionPointsVR</EDID>
       <REC>MESG:FULL</REC>
       <Source>Action Points</Source>
-      <Dest>Action Points</Dest>
+      <Dest>Akční body</Dest>
     </String>
     <String List="0" sID="00003D" Partial="1">
       <EDID>HelpWorkshopWorkersVR_VW</EDID>
@@ -175,53 +175,53 @@
       <Source>Wsh. Workers</Source>
       <Dest>Wsh. Workers</Dest>
     </String>
-    <String List="0" sID="00003E" Partial="1">
+    <String List="0" sID="00003E">
       <EDID>HelpAttackingVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Attacking</Source>
-      <Dest>Attacking</Dest>
+      <Dest>Útočení</Dest>
     </String>
-    <String List="0" sID="00003F" Partial="1">
+    <String List="0" sID="00003F">
       <EDID>HelpAttackingVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Attacking</Source>
-      <Dest>Attacking</Dest>
+      <Dest>Útočení</Dest>
     </String>
-    <String List="0" sID="000040" Partial="1">
+    <String List="0" sID="000040">
       <EDID>HelpBarterVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Barter</Source>
-      <Dest>Barter</Dest>
+      <Dest>Obchodování</Dest>
     </String>
-    <String List="0" sID="000042" Partial="1">
+    <String List="0" sID="000042">
       <EDID>HelpBarterVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Barter</Source>
-      <Dest>Barter</Dest>
+      <Dest>Obchodování</Dest>
     </String>
-    <String List="0" sID="000048" Partial="1">
+    <String List="0" sID="000048">
       <EDID>HelpBlockingVR</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Blocking</Source>
-      <Dest>Blocking</Dest>
+      <Dest>Blokování</Dest>
     </String>
-    <String List="0" sID="000049" Partial="1">
+    <String List="0" sID="000049">
       <EDID>HelpWorkshopMenuVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Wsh. Menu</Source>
-      <Dest>Wsh. Menu</Dest>
+      <Dest>Dílenská nabídka</Dest>
     </String>
-    <String List="0" sID="00004A" Partial="1">
+    <String List="0" sID="00004A">
       <EDID>HelpCarryWeightVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Carry Weight</Source>
-      <Dest>Carry Weight</Dest>
+      <Dest>Nosnost</Dest>
     </String>
-    <String List="0" sID="00004C" Partial="1">
+    <String List="0" sID="00004C">
       <EDID>HelpChemistryStationVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Chemistry Stations</Source>
-      <Dest>Chemistry Stations</Dest>
+      <Dest>Chemické laboratoře</Dest>
     </String>
     <String List="0" sID="00004D" Partial="1">
       <EDID>HelpCompassVR</EDID>
@@ -229,11 +229,11 @@
       <Source>Compass</Source>
       <Dest>Compass</Dest>
     </String>
-    <String List="0" sID="00004E" Partial="1">
+    <String List="0" sID="00004E">
       <EDID>HelpChemsVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Chems</Source>
-      <Dest>Chems</Dest>
+      <Dest>Chemikálie</Dest>
     </String>
     <String List="0" sID="000051" Partial="1">
       <EDID>HelpWorkshopPowerVR_VW</EDID>
@@ -277,11 +277,11 @@
       <Source>Compass</Source>
       <Dest>Compass</Dest>
     </String>
-    <String List="0" sID="00005C" Partial="1">
+    <String List="0" sID="00005C">
       <EDID>HelpSprintingVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Sprinting</Source>
-      <Dest>Sprinting</Dest>
+      <Dest>Sprintování</Dest>
     </String>
     <String List="0" sID="000061" Partial="1">
       <EDID>HelpWaitingVR_VW</EDID>
@@ -337,11 +337,11 @@
       <Source>Pickpocketing</Source>
       <Dest>Pickpocketing</Dest>
     </String>
-    <String List="0" sID="000070" Partial="1">
+    <String List="0" sID="000070">
       <EDID>HelpArmorVR</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Armor</Source>
-      <Dest>Armor</Dest>
+      <Dest>Zbroj</Dest>
     </String>
     <String List="0" sID="000071" Partial="1">
       <EDID>HelpMeleeCombatVR_VW</EDID>
@@ -421,11 +421,11 @@
       <Source>Hacking</Source>
       <Dest>Hacking</Dest>
     </String>
-    <String List="0" sID="000088" Partial="1">
+    <String List="0" sID="000088">
       <EDID>HelpCompanionsVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Companions</Source>
-      <Dest>Companions</Dest>
+      <Dest>Společníci</Dest>
     </String>
     <String List="0" sID="00008B" Partial="1">
       <EDID>HelpHolotapeGamesVR_VW</EDID>
@@ -517,17 +517,17 @@
       <Source>Containers</Source>
       <Dest>Containers</Dest>
     </String>
-    <String List="0" sID="0000A7" Partial="1">
+    <String List="0" sID="0000A7">
       <EDID>HelpCompanionsVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Companions</Source>
-      <Dest>Companions</Dest>
+      <Dest>Společníci</Dest>
     </String>
-    <String List="0" sID="0000A9" Partial="1">
+    <String List="0" sID="0000A9">
       <EDID>TutorialJumpDownVR</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Tut Jump Down</Source>
-      <Dest>Tut Jump Down</Dest>
+      <Dest>Návod pro skok dolů</Dest>
     </String>
     <String List="0" sID="0000AB" Partial="1">
       <EDID>HelpPipBoyStats01VR_VW</EDID>
@@ -547,17 +547,17 @@
       <Source>Workshop - Menu</Source>
       <Dest>Workshop - Menu</Dest>
     </String>
-    <String List="0" sID="0000B9" Partial="1">
+    <String List="0" sID="0000B9">
       <EDID>WorkshopExitMenuMessageVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Wsh. Menu</Source>
-      <Dest>Wsh. Menu</Dest>
+      <Dest>Dílenská nabídka</Dest>
     </String>
-    <String List="0" sID="0000BA" Partial="1">
+    <String List="0" sID="0000BA">
       <EDID>HC_HelpSurvivalVR_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Survival Difficulty</Source>
-      <Dest>Survival Difficulty</Dest>
+      <Dest>Obtížnost Přežití</Dest>
     </String>
     <String List="0" sID="0000BB" Partial="1">
       <EDID>HelpPipBoyInventoryVR_VW</EDID>
@@ -571,11 +571,11 @@
       <Source>Quests</Source>
       <Dest>Quests</Dest>
     </String>
-    <String List="0" sID="0000BE" Partial="1">
+    <String List="0" sID="0000BE">
       <EDID>HelpAddictionVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Addiction</Source>
-      <Dest>Addiction</Dest>
+      <Dest>Závislost</Dest>
     </String>
     <String List="0" sID="0000C2" Partial="1">
       <EDID>HelpWaitingVR_VW</EDID>
@@ -619,11 +619,11 @@
       <Source>Vertibirds</Source>
       <Dest>Vertibirds</Dest>
     </String>
-    <String List="0" sID="0000D0" Partial="1">
+    <String List="0" sID="0000D0">
       <EDID>HelpSprintingVR_VW</EDID>
       <REC>MESG:NNAM</REC>
       <Source>Sprinting</Source>
-      <Dest>Sprinting</Dest>
+      <Dest>Sprintování</Dest>
     </String>
     <String List="0" sID="0000D1" Partial="1">
       <EDID>HelpPowerArmorVR_VW</EDID>
@@ -661,35 +661,35 @@
       <Source>V.A.T.S.</Source>
       <Dest>V.A.T.S.</Dest>
     </String>
-    <String List="0" sID="0000E0" Partial="1">
+    <String List="0" sID="0000E0">
       <EDID>TutorialSprintingDirectMovement_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Sprinting</Source>
-      <Dest>Sprinting</Dest>
+      <Dest>Sprintování</Dest>
     </String>
-    <String List="0" sID="0000E2" Partial="1">
+    <String List="0" sID="0000E2">
       <EDID>TutorialSwimming_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Swimming</Source>
-      <Dest>Swimming</Dest>
+      <Dest>Plavání</Dest>
     </String>
-    <String List="0" sID="0000E5" Partial="1">
+    <String List="0" sID="0000E5">
       <EDID>TutorialJump_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Jumping</Source>
-      <Dest>Jumping</Dest>
+      <Dest>Skákání</Dest>
     </String>
-    <String List="0" sID="0000E6" Partial="1">
+    <String List="0" sID="0000E6">
       <EDID>TutorialDirectMovementJump_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Jumping</Source>
-      <Dest>Jumping</Dest>
+      <Dest>Skákání</Dest>
     </String>
-    <String List="0" sID="0000E8" Partial="1">
+    <String List="0" sID="0000E8">
       <EDID>TutorialJumpTotal_VW</EDID>
       <REC>MESG:FULL</REC>
       <Source>Jumping</Source>
-      <Dest>Jumping</Dest>
+      <Dest>Skákání</Dest>
     </String>
     <String List="0" sID="013C56">
       <EDID>MQ102</EDID>
@@ -841,7 +841,7 @@
       <Source>Kill the Insects</Source>
       <Dest>Zabij hmyz</Dest>
     </String>
-    <String List="0" sID="0298A9" Partial="1">
+    <String List="0" sID="0298A9">
       <EDID>CharGenFinalChangesMenu</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>Finished - Exit the Vault</Source>
@@ -943,23 +943,23 @@
       <Source>Join Preston Garvey in Sanctuary</Source>
       <Dest>Připoj se k Prestonu Garveymu v Sanctuary</Dest>
     </String>
-    <String List="0" sID="03266A" Partial="1">
+    <String List="0" sID="03266A">
       <EDID>Combat11</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Swing at a target to deliver a melee attack with any ranged weapon.</Source>
-      <Dest>Swing at a target to deliver a melee attack with any ranged weapon.</Dest>
+      <Dest>Pro úder zblízka jakoukoliv zbraní máchni směrem na nepřítele.</Dest>
     </String>
-    <String List="0" sID="032DDD" Partial="1">
+    <String List="0" sID="032DDD">
       <EDID>Combat04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Using a scope slows you down, but improves your accuracy.</Source>
-      <Dest>Using a scope slows you down, but improves your accuracy.</Dest>
+      <Dest>Míření s optikou tě sice zpomalí, ale také zvýší tvoji přesnost.</Dest>
     </String>
-    <String List="0" sID="032E02" Partial="1">
+    <String List="0" sID="032E02">
       <EDID>Combat13</EDID>
       <REC>LSCR:DESC</REC>
       <Source>To use a grenade or Molotov cocktail, first equip it, hold Sneak, then throw!</Source>
-      <Dest>To use a grenade or Molotov cocktail, first equip it, hold Sneak, then throw!</Dest>
+      <Dest>Pokud chceš použít granát nebo Molotovův koktejl, nejdřív se jimi vybav, podrž tlačítko pro plížení a házej!</Dest>
     </String>
     <String List="1" sID="000001" Partial="1">
       <EDID>HelpHackingVR_VW</EDID>
@@ -1159,17 +1159,16 @@ If you have a recipe's ingredients, select it and press [WTrigger] to craft it. 
 &#xD;
 If you don't have the necessary ingredients, select the recipe and press [WTpad_Right] to tag it for search. Ingredients for that recipe will now appear in the world with a magnifying glass next to their name. </Dest>
     </String>
-    <String List="1" sID="000009" Partial="1">
+    <String List="1" sID="000009">
       <EDID>HelpAddictionVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Every time you use chems or drink alcohol, there is a chance you could become addicted. Every addiction you acquire will inflict a stat penalty (the penalty varies based on the chem involved).&#xD;
 &#xD;
 Consuming the item you're addicted to will temporarily remove the penalty, but to get rid of it permanently, you'll have to visit a doctor or take the medicine Addictol.&#xD;
 </Source>
-      <Dest>Every time you use chems or drink alcohol, there is a chance you could become addicted. Every addiction you acquire will inflict a stat penalty (the penalty varies based on the chem involved).&#xD;
+      <Dest>Pokaždé, když požiješ drogy nebo piješ alkohol, existuje šance, že si vytvoříš závislost. Každá získaná závislost uděluje postih (postihy jsou různé dle dané chemikálie).&#xD;
 &#xD;
-Consuming the item you're addicted to will temporarily remove the penalty, but to get rid of it permanently, you'll have to visit a doctor or take the medicine Addictol.&#xD;
-</Dest>
+Požití látky, na kterou máš závislost, tento postih dočasně odstraní. Aby se ho však bylo možno zbavit nastálo, budeš muset navštívit doktora nebo použít lék Denarkol.</Dest>
     </String>
     <String List="1" sID="00000A" Partial="1">
       <EDID>TutorialSprinting_VW</EDID>
@@ -1189,15 +1188,15 @@ Consuming the item you're addicted to will temporarily remove the penalty, but t
       <Source>Press [RWMenu] to exit V.A.T.S.</Source>
       <Dest>Press [RWMenu] to exit V.A.T.S.</Dest>
     </String>
-    <String List="1" sID="000010" Partial="1">
+    <String List="1" sID="000010">
       <EDID>HelpBlockingVR</EDID>
       <REC>MESG:DESC</REC>
       <Source>With a melee weapon equipped, bring it up in a defensive stance to block an incoming melee attack. Successfully blocked attacks do reduced damage and have a chance to cause your opponent to briefly stagger.&#xD;
  &#xD;
 Projectiles cannot be blocked.</Source>
-      <Dest>With a melee weapon equipped, bring it up in a defensive stance to block an incoming melee attack. Successfully blocked attacks do reduced damage and have a chance to cause your opponent to briefly stagger.&#xD;
- &#xD;
-Projectiles cannot be blocked.</Dest>
+      <Dest>Pokud držíš chladnou zbraň, zdvihni ji v obranném postavení pro blokování příchozího útoku zblízka. Úspěšně blokovaný útok působí menší poškození a má šanci na chvíli vyvést nepřítele z rovnováhy.&#xD;
+&#xD;
+Projektily nemohou být blokovány.</Dest>
     </String>
     <String List="1" sID="000011" Partial="1">
       <EDID>TutorialPipboyNavigation_VW</EDID>
@@ -1345,7 +1344,7 @@ You can slow the rate at which sprinting drains your AP by increasing your Endur
 IN DIRECT MOVEMENT MODE&#xD;
 Press [LWTPad_Up] to Sprint.</Dest>
     </String>
-    <String List="1" sID="000017" Partial="1">
+    <String List="1" sID="000017">
       <EDID>HelpAttackingVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [RWTrigger] to fire a gun or ranged weapon. Swing your melee weapon to attack. &#xD;
@@ -1364,22 +1363,24 @@ Holstering Your Weapon&#xD;
 Traveling with your drawn weapon can adversely affect your movement speed. The heavier your weapon, the slower you'll move. Hold [RWTPad_Center] to holster your weapon and restore your speed.&#xD;
 &#xD;
 To draw your weapon again, press [RWTrigger].</Source>
-      <Dest>Press [RWTrigger] to fire a gun or ranged weapon. Swing your melee weapon to attack. &#xD;
+      <Dest>Stiskni [RWTrigger] pro útok střelnou zbraní nebo zbraní na dálku. Pro útok chladnou zbraní máchni rukou.&#xD;
 &#xD;
-Gun Combat&#xD;
-With a gun equipped, bring it up to eye level to aim. This will increase accuracy and trigger certain unlocked Perks.&#xD;
+Boj střelnou zbraní&#xD;
+Držíš-li zbraň, zvedni na úroveň očí pro zamíření. To zvýší přesnost a aktivuje určité získané perky.&#xD;
 &#xD;
-Swing your gun at an enemy to perform a bash attack. You can increase the effectiveness of your weapon bashes by adding a bayonet mod to your gun.&#xD;
+Pro provedení útoku zblízka střelnou zbraní máchni rukou.&#xD;
+Efektivitu útoku můžeš zvýšit přidáním modifikace bajonet.&#xD;
 &#xD;
-Melee Combat&#xD;
-While wielding a melee weapon, raise it up in a defensive stance to attempt to block an incoming melee strike. Successful blocks reduce the amount of incoming damage and have a chance to cause your opponent to briefly stagger.&#xD;
+Boj zblízka&#xD;
+Držíš-li chladnou zbraň, zdvihni ji v obranném postoji pro pokus blokovat příchozí útok zblízka. Úspěšný blok snižuje příchozí poškození a má šanci krátce vyvést nepřítele z rovnováhy.&#xD;
 &#xD;
-Hold [RWTrigger] while swinging to perform a Power Attack. Performing a Power Attack consumes Action Points, but successful Power Attacks deal extra damage and cause an enemy to stagger. Power Attacks with heavy melee weapons can even break through an enemy's block.&#xD;
+Podrž [RWTrigger] při máchnutí pro provedení silného útoku. Silný útok spotřebovává akční Body, ale úspěšný silný útok způsobuje vyšší poškození a vyvede nepřítele z rovnováhy. Silné útoky těžkou zbraní mohou dokonce prolomit blok nepřátel.&#xD;
 &#xD;
-Holstering Your Weapon&#xD;
-Traveling with your drawn weapon can adversely affect your movement speed. The heavier your weapon, the slower you'll move. Hold [RWTPad_Center] to holster your weapon and restore your speed.&#xD;
+Odkládání zbraně&#xD;
+Cestování s vytaženou zbraní může nepříznivě ovlivnit rychlost pohybu. Čím těžší zbraň držíš, tím pomaleji se pohybuješ. Přidrž [RWTPad_Center] pro uložení zbraně do pouzdra a obnovení rychlosti.&#xD;
 &#xD;
-To draw your weapon again, press [RWTrigger].</Dest>
+Pro opětovné tasení zbraně stiskni [RWTrigger].&#xD;
+</Dest>
     </String>
     <String List="1" sID="00001F" Partial="1">
       <EDID>HelpLimbDamageVR</EDID>
@@ -1505,7 +1506,7 @@ When you dismiss Dogmeat, you can tell him to wait for you at any friendly works
       <Source>Press [RWMenu] to enter V.A.T.S.</Source>
       <Dest>Press [RWMenu] to enter V.A.T.S.</Dest>
     </String>
-    <String List="1" sID="000030" Partial="1">
+    <String List="1" sID="000030">
       <EDID>HelpArmorVR</EDID>
       <REC>MESG:DESC</REC>
       <Source>Stay alive longer by wearing Armor. Armor provides Damage Resistance, which reduces the damage you'll suffer from incoming attacks. You can purchase armor from merchants or loot it from your fallen foes.&#xD;
@@ -1540,38 +1541,38 @@ Mods&#xD;
 Armor is highly moddable. Visit an Armor Workbench to see what mods can be added to your armor.&#xD;
 &#xD;
 For more information on building mods, see the "Mods" entry.</Source>
-      <Dest>Stay alive longer by wearing Armor. Armor provides Damage Resistance, which reduces the damage you'll suffer from incoming attacks. You can purchase armor from merchants or loot it from your fallen foes.&#xD;
+      <Dest>Přežij déle díky nasazené zbroji. Zbroj poskytuje odolnost vůči zraněním, způsobeným příchozími útoky. Zbroje můžeš zakoupit u obchodníků nebo sebrat z padlých nepřátel.&#xD;
 &#xD;
-Equipping Armor&#xD;
-To equip a piece of armor, bring up the Pip-Boy and swipe [LWTPad_Left]/[LWTPad_Right] to open the Inventory (INV) tab. Then navigate to the Apparel section with [LWTPad_Left]/[LWTPad_Right].&#xD;
+Nasazení zbroje&#xD;
+Pro nasazení části zbroje se podívej do Pip-Boye a přesunutím prstu [LWTPad_Left]/[LWTPad_Right] otevři záložku Inventář (INV). Poté vyhledej sekci Výstroj pomocí [LWTPad_Left]/[LWTPad_Right].&#xD;
 &#xD;
-Select the piece of armor you'd like to equip with [LWTPad_Up] and [LWTPad_Down] and press [LWTPad_Center]. Equipped armor, along with the armor's Damage Resistance, will be displayed on the Vault Boy on the right side of the screen.&#xD;
+Vyber část zbroje, kterou si chceš nasadit pomocí [LWTPad_Up] a [LWTPad_Down] a volbu potvrď stiskem [LWTPad_Center]. Nasazená zbroj spolu se svojí odolností vůči zranění bude zobrazena ve Vault Boyovi na pravé straně obrazovky.&#xD;
 &#xD;
-Most armor is broken into pieces: a piece for each limb, a helmet, a torso, and a clothing item under the armor itself, which can provide additional Damage Resistance or stat bonuses.&#xD;
+Většina zbrojí je rozdělena na jednotlivé části: část pro každou končetinu, helma, hruď a obyčejné oblečení pod samotnou zbroj, které může poskytnout dodatečnou odolnost vůči zranění nebo bonusy ke statistikám.&#xD;
 &#xD;
-Damage Resistance&#xD;
-Armor provides one or more types of Damage Resistance. The higher your armor's damage resistance, the less damage you'll take from a given damage type.&#xD;
+Odolnost vůči zranění&#xD;
+Zbroj poskytuje jeden nebo více typů odolnosti vůči zranění. Čím vyšší je odolnost vůči zranění, tím méně zranění utrpíš z daného typu poškození.&#xD;
 &#xD;
-There are four types of Damage Resistance:&#xD;
+Existují čtyři druhy odolnosti vůči zranění:&#xD;
 &#xD;
-- Ballistic&#xD;
-- Energy (includes laser, plasma, flame and frost damage)&#xD;
-- Radiation&#xD;
-- Poison&#xD;
+- Balistické&#xD;
+- Energetické (zahrnuje laser, plazmu, oheň a zranění mrazem)&#xD;
+- Radiace&#xD;
+- Jed&#xD;
 &#xD;
-You can see the protection provided by a given piece of armor by selecting it in the Apparel section of the Pip-Boy Inventory (INV) tab. The armor's Damage Resistances will be displayed on the right side of the screen. The total resistances provided by your current armor are displayed at the bottom of the screen.&#xD;
+Můžeš si prohlédnout ochranu poskytovanou jednotlivou částí zbroje tím, že ji označíš v sekci Výstroj v Pip-Boyovi v záložce Inventář (INV). Odolnost vůči zranění bude zobrazená na pravé straně obrazovky. Celkové odolnosti, poskytované veškerou momentálně nošenou zbrojí, jsou zobrazeny na spodní straně obrazovky.&#xD;
 &#xD;
-If any of the currently selected armor's resistances are superior to those of your equipped armor, one or more "+" symbols will appear next to the superior resistance. If the selected piece's resistances are worse, one or more "-" symbols will appear.&#xD;
+Jestliže má momentálně vybraná zbroj lepší statistiky než ta, kterou právě nosíš, objeví se vedle hodnoty momentálně vybrané zbroje jedno nebo více znamének „+“. Statistiky, které jsou horší než u nošené zbroje, budou mít vedle svých hodnot jedno nebo více znamének „-“.&#xD;
 &#xD;
-To toggle which Damage Resistance type is displayed on the Vault Boy, hold [LWTPad_Center] and select SORT. &#xD;
+Pro přepínání mezi typy odolností, zobrazenými na Vault Boyovi podrž [LWTPad_Center] a zvol SEŘADIT.&#xD;
 &#xD;
-Sneaking and Armor&#xD;
-Your armor's weight affects your ability to sneak. The heavier your armor, the more likely you are to be heard while sneaking.&#xD;
+Plížení a zbroj&#xD;
+Váha zbroje ovlivňuje tvou schopnost plížení. Čím je tvá zbroj těžší, tím je pravděpodobnější, že tě při plížení odhalí.&#xD;
 &#xD;
-Mods&#xD;
-Armor is highly moddable. Visit an Armor Workbench to see what mods can be added to your armor.&#xD;
+Modifikace&#xD;
+Zbroj je velmi modifikovatelná. V ponku na úpravu zbroje zjisti, které modifikace můžeš přidat ke své zbroji.&#xD;
 &#xD;
-For more information on building mods, see the "Mods" entry.</Dest>
+Pro více informací ohledně tvorby modifikací se podívej do záznamu „Modifikace“.</Dest>
     </String>
     <String List="1" sID="000032" Partial="1">
       <EDID>HelpSneakingVR_VW</EDID>
@@ -1657,7 +1658,7 @@ The higher the weight of your armor, the more noise it makes while moving. Sneak
  &#xD;
 Enemies will also react to loud noises in the environment. If you can trigger an explosion or trap without being detected, you can lure away unsuspecting enemies.</Dest>
     </String>
-    <String List="1" sID="000034" Partial="1">
+    <String List="1" sID="000034">
       <EDID>HelpAimingVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>While wielding a gun, bring it up to eye level to aim.&#xD;
@@ -1674,20 +1675,20 @@ A variety of gun mods can affect your ability to aim.&#xD;
 - Scopes improve magnification&#xD;
 &#xD;
 For more information about mods, see the "Mods" entry.</Source>
-      <Dest>While wielding a gun, bring it up to eye level to aim.&#xD;
+      <Dest>Pokud máš v ruce zbraň, zdvihni ji pro míření do úrovni očí.&#xD;
 &#xD;
-Aiming gives you more precise control over your gun. It increases accuracy, slows movement, and depending on the sight, can grant a slight zoom towards your target.&#xD;
+Míření ti poskytuje lepší kontrolu nad zbraní. Zvyšuje přesnost, snižuje rychlost pohybu a v závislosti na mířidle může poskytnout menší přiblížení cíle.&#xD;
 &#xD;
-Guns with a scope provide a magnified zoom. To steady the aim of your scope, hold [RWGrip] to hold your breath. Holding your breath steadies your scope, but will drain your Action Points as you use it.&#xD;
+Zbraně s optikou poskytují větší přiblížení. Pro ustálení míření s optikou přidrž [RWGrip] k zadržení dechu. Zadržení dechu vyrovná tvojí optiku, ale průběžně spotřebovává akční Body.&#xD;
 &#xD;
-A variety of gun mods can affect your ability to aim.&#xD;
+Různé druhy zbraňových modifikací mohou ovlivnit tvé míření:&#xD;
 &#xD;
-- Long barrels can increase accuracy&#xD;
-- Reflex sights added to a scope make aiming faster&#xD;
-- Heavier mods will increase the time to aim&#xD;
-- Scopes improve magnification&#xD;
+- Dlouhé hlavně mohou zvýšit tvou přesnost&#xD;
+- Reflexní mířidla, přidaná k optice, urychlují míření&#xD;
+- Těžší modifikace zvýšují čas potřebný pro míření&#xD;
+- Optika zlepšuje přiblížení&#xD;
 &#xD;
-For more information about mods, see the "Mods" entry.</Dest>
+Pro více informací o modifikacích otevři záznam „Modifikace“.</Dest>
     </String>
     <String List="1" sID="000036" Partial="1">
       <EDID>HelpWorkshopResourcesSettlementsVR_VW</EDID>
@@ -1873,11 +1874,11 @@ While a station is active, you can enter or exit the Pip-Boy and your selected s
       <Source>Select a favorited item with [RWTPad_Center]. Hilight and release on the item to use it.</Source>
       <Dest>Select a favorited item with [RWTPad_Center]. Hilight and release on the item to use it.</Dest>
     </String>
-    <String List="1" sID="000043" Partial="1">
+    <String List="1" sID="000043">
       <EDID>TutorialJumpDownVR</EDID>
       <REC>MESG:DESC</REC>
       <Source>Hold [LWTrigger] and hold the wand steady to initiate a jump down.  Release [LWTrigger] to execute the jump.</Source>
-      <Dest>Hold [LWTrigger] and hold the wand steady to initiate a jump down.  Release [LWTrigger] to execute the jump.</Dest>
+      <Dest>Podrž [LWTrigger] a nehýbej ovladačem pro přípravu na skoku dolů.  Uvolni [LWTrigger] pro provedení seskoku.</Dest>
     </String>
     <String List="1" sID="000044" Partial="1">
       <EDID>TutorialFacegen01_VW</EDID>
@@ -1913,7 +1914,7 @@ Any available miscellaneous (or "misc") quests will be displayed under the "Misc
 &#xD;
 To mark individual misc objectives as active, select the "Miscellanous" entry, press [WTPad_Center] and select NAVIGATE OBJECTIVES to select the specific objective you'd like to toggle and press [WTrigger].</Dest>
     </String>
-    <String List="1" sID="000047" Partial="1">
+    <String List="1" sID="000047">
       <EDID>HelpBarterVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can purchase new goods and sell your spoils by bartering with merchants throughout the Commonwealth. &#xD;
@@ -1933,25 +1934,25 @@ Improving your Charisma will get you better prices from merchants, as will certa
 To accept the offered deal, press [WTPad_Center] and select ACCEPT.&#xD;
 &#xD;
 Press [WGrip] to exit the menu.</Source>
-      <Dest>You can purchase new goods and sell your spoils by bartering with merchants throughout the Commonwealth. &#xD;
+      <Dest>Nakupovat nové zboží a prodávat svojí kořist můžeš u obchodníků po celém Commonwealthu.&#xD;
 &#xD;
-While bartering, your inventory is displayed on the left, while the merchant's goods are displayed on the right.&#xD;
+Při obchodování je tvůj inventář zobrazen vlevo, zatímco obchodníkovo zboží je zobrazeno vpravo.&#xD;
 &#xD;
-Use [WTPad_Up] and [WTPad_Down] to navigate between items in the merchant's inventory. Select items you'd like to purchase with [WTPad_Trigger]. &#xD;
- &#xD;
-To sell an item, swipe [WTPad_Left] to enter your inventory and select the item you wish to sell with [WTrigger]. Items you're offering for sale will appear at the top of the merchant's inventory. To return to the merchant's inventory, swipe [WTPad_Right].&#xD;
+Pro navigaci mezi předměty v inventáři obchodníka požij [WTPad_Up] a [WTPad_Down]. Předměty k nákupu vyber pomocí [WTPad_Trigger].&#xD;
 &#xD;
-You can also filter either inventory by item type by pressing [WTPad_Center] and selecting SORT.&#xD;
+Pro prodání předmětu přetáhnutím prstu [WTPad_Left] vstoupíš do svého inventáře a můžeš vybírat předměty pomocí [WTrigger]. Předměty, které nabízíš k prodeji, budou zobrazeny na vrchu inventáře obchodníka. Pro návrat do inventáře obchodníka přetáhni prstem [WTPad_Right].&#xD;
 &#xD;
-As you select items to purchase and offer items to sell, the net cost of the deal will appear at the bottom of the screen. Buy more than you're selling and the remaining caps will have to come from your own pocket. &#xD;
+Svůj i obchodníkův inventář můžeš filtrovat podle typu předmětu stisknutím [WTPad_Center] a volbou SEŘADIT.&#xD;
 &#xD;
-Improving your Charisma will get you better prices from merchants, as will certain perks. Merchants only have a limited amount of caps to spend when purchasing items, though this pool will refresh over time. &#xD;
+Dle toho, jak si vybíráš věci ke koupi a své nabízíš k prodeji, zobrazuje se celková cena obchodu na spodní straně obrazovky. Kup za víc, než za kolik prodáváš, a zbylé zátky budou muset přijít z tvé vlastní kapsy.&#xD;
 &#xD;
-To accept the offered deal, press [WTPad_Center] and select ACCEPT.&#xD;
+Vylepšení charismatu a některé perky poskytují výhodnější ceny u obchodníků. Obchodníci mají pouze omezené množství zátek ke koupi věcí, které jim prodáváš, ale toto množství se časem obnovuje.&#xD;
 &#xD;
-Press [WGrip] to exit the menu.</Dest>
+K přijmutí obchodu stiskni [WTPad_Center] a zvol PŘIJMOUT.&#xD;
+&#xD;
+Stiskni [WGrip] Pro opuštění nabídky.</Dest>
     </String>
-    <String List="1" sID="00004B" Partial="1">
+    <String List="1" sID="00004B">
       <EDID>HelpCarryWeightVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>The amount of weight you can carry is determined by your Strength attribute. The higher your Strength, the more you can carry. You can increase this amount further by taking certain perks or wearing Power Armor.&#xD;
@@ -1963,15 +1964,15 @@ The fastest way to reduce the amount of weight you're carrying is by dropping it
 To drop an item, bring up the the Pip-Boy and open the Inventory (INV) tab with [WTPad_Left]/[WTPad_Right]. Highlight the item you wish to drop by swiping [WTPad_Up] and [WTPad_Down], then press [WTPad_Center] and select DROP.&#xD;
 &#xD;
 Items you drop will remain for a time, but leave them too long and there's a good chance they'll be gone when you finally come back.</Source>
-      <Dest>The amount of weight you can carry is determined by your Strength attribute. The higher your Strength, the more you can carry. You can increase this amount further by taking certain perks or wearing Power Armor.&#xD;
+      <Dest>Množství zátěže, kterou uneseš je určeno vlastností Síla. Čím vyšší je tvá síla, tím více toho uneseš. Tuto hodnotu můžeš dále zvýšit výběrem určitých perků nebo nošením energozbroje.&#xD;
 &#xD;
-Should you exceed this amount, however, you will be unable to run, sprint, or fast travel.&#xD;
+Pokud ovšem toho množství překročíš, nebudeš moci běžet, sprintovat, ani rychle cestovat.&#xD;
 &#xD;
-The fastest way to reduce the amount of weight you're carrying is by dropping items from your inventory.&#xD;
+Nejrychlejší způsob, jak se zbavit zátěže, kterou neseš, je zahození věcí z tvého inventáře.&#xD;
 &#xD;
-To drop an item, bring up the the Pip-Boy and open the Inventory (INV) tab with [WTPad_Left]/[WTPad_Right]. Highlight the item you wish to drop by swiping [WTPad_Up] and [WTPad_Down], then press [WTPad_Center] and select DROP.&#xD;
+Pro zahození předmětu se podívej do Pip-Boye a pomocí [WTPad_Left]/[WTPad_Right] otevři záložku Inventář (INV). Zvýrazni předmět, který si přeješ zahodit, stiskni [WTPad_Center] a zvol ZAHODIT.&#xD;
 &#xD;
-Items you drop will remain for a time, but leave them too long and there's a good chance they'll be gone when you finally come back.</Dest>
+Předměty, které zahodíš, po nějakou dobu zůstanou na místě, ale pokud je necháš ležet delší čas, je pravděpodobné, že zmizí, až se pro ně nakonec vrátíš.</Dest>
     </String>
     <String List="1" sID="00004F" Partial="1">
       <EDID>HelpHolotapesVR_VW</EDID>
@@ -2257,7 +2258,7 @@ You can use the following controls to move around new or existing objects:&#xD;
 &#xD;
 - [RWTrigger] places the object in its new location. [RWGrip] cancels - restoring an existing object to its original position, or canceling building a new object.</Dest>
     </String>
-    <String List="1" sID="00005F" Partial="1">
+    <String List="1" sID="00005F">
       <EDID>HelpChemistryStationVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Cook up homemade chems at a Chemistry Station. Chems can provide a variety of stat bonuses and beneficial effects, even restore lost health, but use them too frequently and you risk addiction. &#xD;
@@ -2279,25 +2280,25 @@ Storage&#xD;
 You can also store ingredients in a chemistry station by approaching the bench and pressing [WTPad_Up] to open the station's Transfer menu. When crafting a chem, ingredients stored in the chemistry station will be used before those in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Cook up homemade chems at a Chemistry Station. Chems can provide a variety of stat bonuses and beneficial effects, even restore lost health, but use them too frequently and you risk addiction. &#xD;
+      <Dest>Uvař si po domácku vyrobené drogy v chemické laboratoři. Drogy mohou poskytnout řadu bonusů a prospěšných účinků, nebo dokonce obnovit ztracené zdraví, ale příliš časté užívání tě vystavuje riziku závislosti.&#xD;
 &#xD;
-Crafting chems requires ingredients which can be purchased or found throughout the world.&#xD;
+Výroba drog vyžaduje přísady, které mohou být zakoupeny nebo nalezeny po celém světě.&#xD;
+&#xD;
+Vybírat mezi recepty nebo kategoriemi receptů můžeš pomocí [WTPad_Up] a [WTPad_Down]. Pro výběr receptu nebo kategorie receptů k výrobě stiskni [WTrigger].&#xD;
+&#xD;
+Recepty&#xD;
+Vyber kategorii pro vstup do nabídky Receptů.&#xD;
+&#xD;
+Pokud máš přísady potřebné pro recept ve svém inventáři nebo skladem ve stanici, vyber recept stiskni [WTrigger]. Toto spotřebuje přísady a vyrobí tvou drogu.&#xD;
  &#xD;
-You can navigate between chem recipes or categories with [WTPad_Up] and [WTPad_Down]. To select a category or a recipe to craft, press [WTrigger].&#xD;
+Pokud postrádáš nezbytné přísady pro přípravu konkrétního receptu, stiskni [WTPad_Right] k označení pro vyhledávání.&#xD;
 &#xD;
-Recipes&#xD;
-Select a category to enter the Recipes menu.&#xD;
+Označené přísady budou mít ve světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
-If you have the ingredients required for a recipe in your inventory or in storage at the station, select the recipe and press [WTrigger]. This will consume the ingredients and craft your chem.&#xD;
+Skladování&#xD;
+Můžeš také skladovat přísady v chemické laboratoři přistoupením ke stanici a stisknutím [WTPad_Up] pro otevření nabídky pro přesun stanice. Při výrobě chemikálie budou prioritně spotřebovány přísady, skladované v chemické laboratoři, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
-If you lack the ingredients necessary to prepare a specific chem, press [WTPad_Right] to tag it for search. &#xD;
-&#xD;
-Tagged ingredients will appear in the world with a small magnifying glass next to their name when approached.&#xD;
-&#xD;
-Storage&#xD;
-You can also store ingredients in a chemistry station by approaching the bench and pressing [WTPad_Up] to open the station's Transfer menu. When crafting a chem, ingredients stored in the chemistry station will be used before those in your inventory.&#xD;
-&#xD;
-For more info on how to use the Transfer menu, check out the "Containers" entry.</Dest>
+Pro více informací o používání Nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="000060" Partial="1">
       <EDID>TutorialCompanionsIntro03_VW</EDID>
@@ -2549,7 +2550,7 @@ To fast travel, bring up the Pip-Boy and open the Map tab by pressing [WTPad_Lef
 &#xD;
 You cannot fast travel while you are in combat, if you are carrying too much weight, or from most indoor locations.</Dest>
     </String>
-    <String List="1" sID="000079" Partial="1">
+    <String List="1" sID="000079">
       <EDID>HelpCompanionsVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>As you travel the Commonwealth, you'll have the opportunity to enlist Companions to help you on your journey. Companions can aid you in combat, haul gear, and if they like you enough, provide you with special perks.&#xD;
@@ -2607,61 +2608,61 @@ If you make decisions or perform actions your companion likes, it will improve y
 Get your companion to like you enough and they'll permanently grant you a unique perk. &#xD;
 &#xD;
 Make enough decisions your companion dislikes, however, and they'll refuse to travel with you. Permanently.</Source>
-      <Dest>As you travel the Commonwealth, you'll have the opportunity to enlist Companions to help you on your journey. Companions can aid you in combat, haul gear, and if they like you enough, provide you with special perks.&#xD;
+      <Dest>Na svých cestách po Commonwealthu budeš mít příležitost nabrat společníky, aby ti pomohli na tvé pouti. Společníci ti mohou pomáhat v boji, s přepravou vybavení, a pokud tě mají dostatečně rádi, mohou ti poskytnout i speciální perky.&#xD;
 &#xD;
-You may only have one companion at any given time.&#xD;
+Můžeš mít aktivního pouze jednoho společníka.&#xD;
 &#xD;
-Companion Menu&#xD;
-Approach your companion and press [WTPad_Center] to bring up their Companion menu. From this menu, you can:&#xD;
+Nabídka společníka&#xD;
+Přistup ke svému společníkovi a stiskni [WTPad_Center] pro zobrazení jeho nabídky. V nabídce máš na výběr:&#xD;
 &#xD;
-- Talk - [WTPad_Up] - Chat with or dismiss your companion&#xD;
-- Stay - [WTPad_Down] - Command your companion to stay put&#xD;
-- Trade - [WTPad_Left] - Trade items or adjust your companion's gear&#xD;
+- Promluvit - [WTPad_Up] - Mluvit s nebo propustit společníka&#xD;
+- Zůstaň - [WTPad_Down] - Nařídit společníkovi, aby zůstal na místě&#xD;
+- Obchodovat - [WTPad_Left] - Vyměňovat předměty nebo upravovat vybavení tvého společníka&#xD;
 &#xD;
-Trading and Equipping&#xD;
-Select "Trade - [WTPad_Left]" to enter your companion's inventory. From here, you can transfer items between you and your companion. &#xD;
+Vybavení&#xD;
+Zvol „Vybavení - [WTPad_Left]“ pro vstup do společníkova inventáře. V rámci něj si pak mezi sebou můžete vyměňovat předměty.&#xD;
 &#xD;
-To transfer an item, select it with [WTPad_Up] and [WTPad_Down] and press [WTrigger]. To enter your companion's inventory, swipe [WTPad_Right].&#xD;
+Pro přesun předmětu ho vyber pomocí [WTPad_Up] a [WTPad_Down], pak stiskni [WTrigger]. Pro přechod do inventáře společníka přesuň prst [WTPad_Right]. &#xD;
+&#xD;
+Můžeš také určit, jaké vybavení chceš, aby tvůj společník používal, ačkoliv ne všichni společníci mohou používat všechny předměty. Aby tvůj společník použil daný předmět, přidej ho do jeho inventáře, vyber ho a podrž [WTrigger].&#xD;
  &#xD;
-You can also specify the gear you'd like your companion to equip, though not all companions can equip all gear. To have your companion equip an item, add it to their inventory, select it, and hold [WTrigger].&#xD;
- &#xD;
-To instantly move everything from your companion's inventory to your own, press [WTPad_Center] and select LOOT ALL.&#xD;
- &#xD;
-Talking and Dismissing&#xD;
-In the "Talk - [WTPad_Up]" menu, you can:&#xD;
- &#xD;
-- [WTPad_Up] - Chat with your companion &#xD;
-- [WTPad_Down] - Find out how your companion currently feels about you &#xD;
-- [WTPad_Left] - Dismiss your companion&#xD;
- &#xD;
-When you dismiss your companion, you can order them to wait for you at any friendly workshop. Otherwise, they'll return to their most recent residence.&#xD;
- &#xD;
-Commands&#xD;
-You can issue commands to your companion either from the Companion menu or by facing them from a distance and pressing [WTPad_Center]. &#xD;
+Pro okamžitý přesun všech předmětů ze společníkova inventáře do tvého stiskni [WTPad_Center] a zvol VZÍT VŠE.&#xD;
 &#xD;
-This will put them in Command mode. &#xD;
-&#xD;
-To issue a command, target the object or location you'd like your companion to approach and press [WTPad_Center]. Companions can be commanded to:&#xD;
+Rozhovor a Propuštění&#xD;
+V nabídce „Promluvit - [WTPad_Up]“ můžeš:&#xD;
  &#xD;
-- Move to a specific location&#xD;
-- Use objects in the world, like doors, buttons, or furniture&#xD;
-- Collect items&#xD;
-- Attack enemies&#xD;
+- [WTPad_Up] - Promluvit si se společníkem&#xD;
+- [WTPad_Down] - Zjistit, co si o tobě momentálně společník myslí&#xD;
+- [WTPad_Left] - Propustit společníka&#xD;
  &#xD;
-Certain companions can also be commanded to pick locks or hack terminals. A companion must have bobby pins in their inventory before they can pick locks.&#xD;
-&#xD;
-Companions may refuse to perform certain actions, either because they are physically unable to, or because they have a moral objection to what you've requested. You will be held responsible for any crime your companion commits.&#xD;
+Když propustíš svého společníka, můžeš mu přikázat, aby na tebe počkal v libovolné přátelské dílně. Jinak se vrátí na místo, kde přebýval naposledy.&#xD;
  &#xD;
-To stop issuing commands, press [RWGrip].&#xD;
+Příkazy&#xD;
+Můžeš vydávat příkazy svému společníkovi z nabídky společníka nebo z dálky, když se k němu otočíš čelem a stiskneš [WTPad_Center].&#xD;
+&#xD;
+Toto u společníka spustí příkazový režim.&#xD;
+&#xD;
+Pro vydání příkazu, zaměř objekt nebo místo, kam chceš, aby se společník vydal a stiskni [WTPad_Center]. Společníkům může být přikázáno:&#xD;
+&#xD;
+- Přesun na konkrétní místo&#xD;
+- Používání objektů ve světě jako jsou dveře, tlačítka nebo nábytek&#xD;
+- Sbírání předmětů&#xD;
+- Útočení na nepřátele&#xD;
  &#xD;
-Relationship&#xD;
-Like most folks in the Commonwealth, companions have feelings and values determined by their allegiances and upbringing. &#xD;
+Někteří společníci jsou také schopni otevírat zámky nebo hackovat terminály. Předtím, než se společník může pokusit o otevření zámku, musí mít u sebe vlásenku.&#xD;
 &#xD;
-If you make decisions or perform actions your companion likes, it will improve your relationship with them, and they'll be more likely to share information about themselves. &#xD;
+Společníci mohou odmítnout vykonat některé příkazy, protože toho nejsou buď fyzicky schopni nebo mají morální výhrady vůči tvému požadavku. Budeš nést zodpovědnost za jakýkoliv zločin, kterého se tvůj společník dopustí.&#xD;
 &#xD;
-Get your companion to like you enough and they'll permanently grant you a unique perk. &#xD;
+Pro ukončení vydávání příkazů, stiskni [RWGrip].&#xD;
+ &#xD;
+Vztahy&#xD;
+Jako většina lidí v Commonwealthu, mají společníci pocity a hodnoty určené jejich příslušností a výchovou.&#xD;
 &#xD;
-Make enough decisions your companion dislikes, however, and they'll refuse to travel with you. Permanently.</Dest>
+Pokud učiníš rozhodnutí nebo provedeš čin, který se tvému společníkovi líbí, zlepší to s ním tvůj vztah a bude více nakloněn sdílet s tebou osobní informace.&#xD;
+&#xD;
+Když zařídíš, aby tě měl tvůj společník dostatečně rád, poskytne ti nastálo unikátní perk.&#xD;
+&#xD;
+Učiň však dostatek rozhodnutí, se kterými tvůj společník nesouhlasí a odmítne s tebou cestovat. Natrvalo.</Dest>
     </String>
     <String List="1" sID="00007B" Partial="1">
       <EDID>HelpPipBoyDataVR_VW</EDID>
@@ -2783,7 +2784,7 @@ Improve your chances to successfully pickpocket by increasing your Agility attri
       <Source>Move your head to look around.</Source>
       <Dest>Move your head to look around.</Dest>
     </String>
-    <String List="1" sID="000085" Partial="1">
+    <String List="1" sID="000085">
       <EDID>HelpActionPointsVR</EDID>
       <REC>MESG:DESC</REC>
       <Source>Action Points (AP) are a measurement of your physical energy. AP is used to:&#xD;
@@ -2805,25 +2806,25 @@ Many factors can affect your AP:&#xD;
 - Consumable items can grant temporary bonuses&#xD;
 &#xD;
 Your total AP is listed in the Pip-Boy on the Stat tab. When consumed, your AP displays on screen until fully recovered.</Source>
-      <Dest>Action Points (AP) are a measurement of your physical energy. AP is used to:&#xD;
+      <Dest>Akční body (AB) představují míru tvojí fyzické energie. AB jsou používány pro:&#xD;
 &#xD;
 - Sprint&#xD;
-- Power Attack&#xD;
-- Perform attacks and reload in V.A.T.S.&#xD;
-- Steady your aim while using a scoped weapon&#xD;
+- Silný útok&#xD;
+- Provádění útoků a přebíjení ve V.A.T.S.&#xD;
+- Stabilitu míření při používání zbraní s optikou&#xD;
 &#xD;
-Sprinting and steadying your aim consume AP continually. Power Attacks and actions performed during V.A.T.S. consume a set amount each time they're used. Weapons with a slower attack speed tend to consume more AP.&#xD;
+Sprintování a stabilizace zaměřování spotřebovává AB průběžně. Silné útoky a úkony prováděné v prostředí V.A.T.S. spotřebovávají určité množství pokaždé, když jsou použity. Zbraně s pomalejší rychlostí útoku obvykle spotřebovávají více AB.&#xD;
 &#xD;
-When your AP is depleted, none of these actions can be performed until the required amount regenerates.&#xD;
+Když jsou tvé AB vyčerpány, nemůže být žádná z těchto akcí použita, dokud se neobnoví jejich potřebné množství. &#xD;
 &#xD;
-Many factors can affect your AP:&#xD;
+Řada faktorů ovlivňuje tvoje AB:&#xD;
 &#xD;
-- Agility determines your total AP&#xD;
-- Endurance slows the rate of AP consumption when sprinting&#xD;
-- Perks grant permanent or situational bonuses&#xD;
-- Consumable items can grant temporary bonuses&#xD;
+- Obratnost určuje celkový počet tvých AB&#xD;
+- Odolnost zpomaluje rychlost spotřeby AB při sprintování&#xD;
+- Perky poskytují stálé nebo situační bonusy&#xD;
+- Konzumací některých drog a potravin lze získat dočasné bonusy&#xD;
 &#xD;
-Your total AP is listed in the Pip-Boy on the Stat tab. When consumed, your AP displays on screen until fully recovered.</Dest>
+Celkový počet tvých AB je uveden v Pip-Boyovi v záložce Status. Když se spotřebují, objeví se aktuální AB na obrazovce, dokud nejsou plně obnoveny.</Dest>
     </String>
     <String List="1" sID="000089" Partial="1">
       <EDID>HelpLockpickingVR_VW</EDID>
@@ -2893,7 +2894,7 @@ To scrap a structure in a workshop location, enter the Workshop menu by holding 
       <Source>From the Maps tab, select a map marker and press [WTrigger] to fast travel to that location. </Source>
       <Dest>From the Maps tab, select a map marker and press [WTrigger] to fast travel to that location. </Dest>
     </String>
-    <String List="1" sID="000092" Partial="1">
+    <String List="1" sID="000092">
       <EDID>HelpChemsVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Drug use is prevalent throughout the Commonwealth. "Chems" like Jet, Psycho, and Mentats to name a few, can be consumed to provide temporary stat bonuses and beneficial effects. &#xD;
@@ -2905,15 +2906,15 @@ Consuming the item you're addicted to will temporarily remove the penalty, but t
 Unlike other chems, Stimpaks and RadAway do not cause addiction.&#xD;
 &#xD;
 You can also make your own chems by visiting a Chemistry station.</Source>
-      <Dest>Drug use is prevalent throughout the Commonwealth. "Chems" like Jet, Psycho, and Mentats to name a few, can be consumed to provide temporary stat bonuses and beneficial effects. &#xD;
+      <Dest>Užívání drog je v Commonwealthu velmi rozšířené. „Chemikálie“ jako například jet, psycho a mentaty, mohou být požity pro získání dočasných bonusů a prospěšných účinků.&#xD;
 &#xD;
-However, every time you take chems, you risk becoming addicted, which carries with it a stat penalty (the penalty varies based on the chem involved). &#xD;
+Avšak pokaždé, když požiješ drogy, vystavuješ se riziku vypěstování závislosti, která s sebou nese postih ke statistikám (postihy jsou různé, záleží, o jaké látky se jedná).&#xD;
 &#xD;
-Consuming the item you're addicted to will temporarily remove the penalty, but to get rid of it permanently, you'll have to visit a doctor or take the medicine Addictol.&#xD;
+Požití látky, na kterou máš závislost, tento postih dočasně odstraní, aby se ho však bylo možno zbavit nastálo, budeš muset navštívit doktora nebo použít lék Denarkol.&#xD;
  &#xD;
-Unlike other chems, Stimpaks and RadAway do not cause addiction.&#xD;
+Na rozdíl od jiných chemikálií, stimpaky a rad-away závislost nezpůsobují.&#xD;
 &#xD;
-You can also make your own chems by visiting a Chemistry station.</Dest>
+Můžeš si také vyrobit svoje vlastní drogy v chemické laboratoři.</Dest>
     </String>
     <String List="1" sID="000095" Partial="1">
       <EDID>TutorialVATS02_VW</EDID>
@@ -3353,11 +3354,11 @@ Increase your effectiveness in melee combat by raising your Strength attribute o
       <Source>Approach an enemy and press [RWMenu] to use V.A.T.S.</Source>
       <Dest>Approach an enemy and press [RWMenu] to use V.A.T.S.</Dest>
     </String>
-    <String List="1" sID="0000C4" Partial="1">
+    <String List="1" sID="0000C4">
       <EDID>WorkshopExitMenuMessageVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Hold [LWMenu] to open the Workshop menu while in the build area.</Source>
-      <Dest>Hold [LWMenu] to open the Workshop menu while in the build area.</Dest>
+      <Dest>Pro otevření dílenské nabídky v zóně pro stavbu podrž [LWMenu].</Dest>
     </String>
     <String List="1" sID="0000C6" Partial="1">
       <EDID>TutorialJunkJet01_VW</EDID>
@@ -3599,7 +3600,7 @@ Every successful hit made in V.A.T.S. fills your Critical meter. Once full, you 
 &#xD;
 How quickly your Critical meter fills is determined by your Luck attribute.</Dest>
     </String>
-    <String List="1" sID="0000DA" Partial="1">
+    <String List="1" sID="0000DA">
       <EDID>HC_HelpSurvivalVR_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Is the struggle of this world merely a pleasant game for you? Do you long for a more brutal take on a life lived post apocalypse? &#xD;
@@ -3722,138 +3723,138 @@ Locations you've cleared will now repopulate with new enemies and loot at a sign
 Strong Back&#xD;
 Instead of allowing Fast Travel, with Strong Back Rank 4, you no longer take damage from exceeding your carry weight.&#xD;
 </Source>
-      <Dest>Is the struggle of this world merely a pleasant game for you? Do you long for a more brutal take on a life lived post apocalypse? &#xD;
+      <Dest>Jsou nástrahy tohoto světa pro tebe pouhou procházkou růžovým sadem? Dychtíš po brutálnějším pojetí života v postapokalypse?&#xD;
 &#xD;
-If you answered "Yes and yes!", then Survival difficulty is for you! &#xD;
+Odpovídáš-li „Ano a ano!“, pak je obtížnost Přežití přesně pro tebe!&#xD;
 &#xD;
-Survival upends many of the rules of life in the Commonwealth for maximum challenge. For a full list of these changes, see below. &#xD;
+Obtížnost Přežití přichází pro poskytnutí maximální výzvy hned s několika pravidly života v Commonwealthu. Úplný výpis pravidel najdeš níže.&#xD;
 &#xD;
-To enable Survival, press [LWMenu], select "Settings," then "Gameplay" and choose "Survival" from the "Difficulty" options.&#xD;
-&#xD;
-&#xD;
-Survival: Basics&#xD;
-&#xD;
-Saving &#xD;
-Manual, quicksaving &amp; most autosaves are disabled. To save your game, you'll need to find a bed and sleep for at least an hour. &#xD;
-&#xD;
-Staying Healthy&#xD;
-Survival makes it more challenging to keep yourself in top health and high spirits. Food and stimpaks heal at a significantly slower rate, and you'll need to pay attention to your overall wellness by staying properly fed, rested and hydrated. See "Survival: Healing Changes" and "Survival: Rest &amp; Wellness" entries for more details.&#xD;
-&#xD;
-Lethality&#xD;
-You now deal, but also take, more damage. You can increase the damage you deal even further with "Adrenaline". See the "Survival: Combat &amp; Adrenaline" entry for more details.&#xD;
-&#xD;
-Fast Travel &#xD;
-Fast Travel is disabled. If you wish to be somewhere, you'll have to get there the old-fashioned way. &#xD;
-&#xD;
-Inventory Management &#xD;
-You're able to carry far fewer items, including ammunition &amp; Stimpaks, which now both have weight. Your companions can still help you carry the load, but their capacity has also been decreased. See the "Survival: Items &amp; Companions" entry for more details.&#xD;
+Pro zapnutí Přežití stiskni [LWMenu], vyber „Nastavení“, pak „Hra“ a zvol „Přežití“ z dostupných úrovní „Obtížnosti“.&#xD;
 &#xD;
 &#xD;
-Survival: Combat &amp; Adrenaline&#xD;
+Přežití: Základy&#xD;
 &#xD;
-Adrenaline &#xD;
-Survival automatically grants the Adrenaline perk, which provides a bonus to your damage output. Unlike other perks, the only way to increase your rank of the Adrenaline perk is by getting kills (hostile or otherwise). The higher your Adrenaline rank, the higher the damage bonus. Sleeping for any amount of time will cause your Adrenaline rank to lower, taking your damage bonus down with it. You can check your current Adrenaline rank at any time in the Perks section on the Stat tab in your Pip-Boy. &#xD;
+Ukládání&#xD;
+Ruční, rychlé a většina automatických ukládání je zakázána. Pro uložení hry musíš najít postel a spát v ní alespoň jednu hodinu.&#xD;
 &#xD;
-Compass &#xD;
-Be sure to keep your eyes peeled, as enemies will no longer appear on your compass. The distance at which locations of interest will appear has been significantly shortened as well.&#xD;
+Udržení zdraví&#xD;
+Udržet si silné zdraví a dobrou formu je při Přežití velká výzva. Jídlo a stimpaky obnovují zdraví v omezené míře a zvláštní pozornost musíš věnovat pravidelné stravě, pití a spánku. Viz záznamy pro „Přežití: změny ve zdraví“ a „Přežití: odpočinek a základní potřeby“.&#xD;
 &#xD;
-Combat&#xD;
-In Survival, both you and your foes are deadlier than ever, so don't expect to survive more than a few hits from most enemies. Good armor, reliable cover, and tactical thinking are critical. Choose your openings wisely to make the most of your own increased damage.&#xD;
+Smrtelnost&#xD;
+Při Přežití působíš ty, ale i tví nepřátelé, větší poškození. Udělované poškození můžeš zvýšit ještě více pomocí „adrenalinu“. Viz záznam „Přežití: souboj a adrenalin“.&#xD;
 &#xD;
+Rychlé cestování&#xD;
+Rychlé cestování je zakázáno. Pokud si přeješ někde být, musíš se tam dostat pěkně po staru.&#xD;
 &#xD;
-Survival: Rest, Wellness &amp; Fatigue&#xD;
-&#xD;
-Bed Types &#xD;
-The type of bed you're sleeping in determines the length of time you are able to stay asleep. A sleeping bag will save your game and may save your life when you're desperate. A mattress offers strong healing and can clear most of your fatigue. The comfort of a bed allows for a full night's rest and all the benefits that come with it.&#xD;
-&#xD;
-Wellness &#xD;
-You'll find it difficult to survive without taking proper care of yourself. You must stay hydrated, fed, and rested to remain combat-ready. Going for extended periods of time without food, water, or a good night's sleep will begin to adversely affect your health, hurting your SPECIAL stats, adding to your Fatigue (see "Fatigue" below), lowering your immunity (see "Illness" below), and eventually even dealing physical damage to you.&#xD;
-&#xD;
-Fatigue &#xD;
-Fatigue mostly comes from being tired, but both hunger and thirst also affect it. Fatigue works like radiation, but affects your Action Points (AP) rather than your Hit Points (HP). The more Fatigue you've built up, the less AP you'll have for actions like sprinting and VATS. The amount of Fatigue you've accumulated is displayed in red on your AP bar.&#xD;
+Inventář&#xD;
+Uneseš o dost méně předmětů, včetně munice a stimpaků, kdy oboje má hmotnost. S nákladem ti mohou pomoci tví společníci, ale i jejich nosnost je omezena. Viz „Přežití: předměty a společníci“&#xD;
 &#xD;
 &#xD;
-Survival: Illness &amp; Health&#xD;
+Přežití: Souboj a adrenalin&#xD;
 &#xD;
-Illness &#xD;
-Eating uncooked meat, drinking unpurified water, taking damage from disease-ridden foes and using harmful Chems all put your body at increased risk for various ill effects. When you are afflicted with an Illness, a message will appear onscreen. You can check specifics about your current Illnesses by navigating to the Status section of your Pip-Boy's Stat tab and pressing [LWTPad_Center] to view your active effects.&#xD;
+Adrenalin&#xD;
+Přežití automaticky uděluje perk Adrenalin, který přidává bonus k udělovanému poškození. Pro zvýšení úrovně perku, na rozdíl od ostatních perků, je nutné zabíjet (nepřátele a ostatní). Čím vyšší je úroveň, tím vyšší je bonus k poškození. Spánek na libovolně krátkou dobu úroveň adrenalinu, a tím i bonus k poškození snižuje. V Pip-Boyovi v sekci Perků na záložce statistik můžeš úroveň adrenalinu kdykoliv zkontrolovat.&#xD;
 &#xD;
-Illnesses &#xD;
-Insomnia: You get less sleep than desired.&#xD;
-Lethargy: Your AP regenerates much more slowly.&#xD;
-Fatigue: You need to sleep more frequently. &#xD;
-Parasites: It takes more food than normal to satiate your hunger.&#xD;
-Weakness: Your body can't handle as much damage as normal.&#xD;
-Infection: You take damage as the infection spreads.&#xD;
+Kompas&#xD;
+Měj oči otevřené, protože nepřátelé se na tvém kompasu již nebudou zobrazovat. Významně je snížena i vzdálenost, na kterou se vykreslují lokace zájmu.&#xD;
 &#xD;
-Doctors &#xD;
-Doctors can heal your wounds, cure your addictions, and banish diseases... for a price. You can find a doctor in most major settlements.&#xD;
-&#xD;
-Antibiotics &#xD;
-Antibiotics, which can be crafted at Chem Stations, purchased from doctors or found in medical containers, instantly heal the various effects of Illness.&#xD;
-&#xD;
-Herbal Remedies&#xD;
-Herbal Remedies, which can be crafted at Chem Stations, purchased from vendors &amp; doctors and found in various containers significantly lower your chances of developing particular Illnesses.&#xD;
-&#xD;
-Suppressed Immunity &#xD;
-Items that cleanse your body of Rads come with the cost of making you tired and temporarily damaging your immunity, leaving you more vulnerable to Illness than usual.&#xD;
-&#xD;
-Survival: Healing Changes&#xD;
-&#xD;
-Slower Healing &#xD;
-In Survival, the rate at which restorative items, like Stimpaks and food, recover your health is significantly reduced. You'll need to time your healing precisely if you hope to last. &#xD;
-&#xD;
-Crippled Limbs &#xD;
-Crippled limbs will no longer auto-heal after combat, and will remain crippled until healed by a Stimpak. &#xD;
-&#xD;
-Companion Healing&#xD;
-If your companion goes down during combat, you must heal them before they can get back up. If you leave the area without healing them, they will return home to recover.&#xD;
+Souboj&#xD;
+Při Přežití jsi ty i tví nepřátelé mnohem více smrtelnější, a proto neočekávej, že od většiny nepřátel přežiješ víc než jen pár zásahů. Dobrá zbroj, spolehlivé krytí a taktické myšlení jsou klíčové. Své výpady si dobře naplánuj, ať využiješ maximum ze svého zvýšeného poškození.&#xD;
 &#xD;
 &#xD;
-Survival: Hunger, Thirst, Food &amp; Beverages&#xD;
+Přežití: Odpočinek, základní potřeby a únava&#xD;
 &#xD;
-Food / Drink Value&#xD;
-Looking at an item's value is a good way to determine how much that item will counter your thirst and hunger.&#xD;
+Typy postelí&#xD;
+Typ postele, do které si lehneš, ovlivňuje maximální délku nerušeného spánku. Spací pytel uloží hru a třeba i zachrání život, pokud jsi v zoufalé situaci. Matrace vyléčí závažnější zranění a zbaví tě velké části únavy. Pohodlí postele poskytuje nerušený spánek skrze celou noc a benefity s ním spojené.&#xD;
 &#xD;
-Food Bonus Effects&#xD;
-A food's bonus effects, such as increased carry weight from Radstag steak, will only apply if eaten when you are not currently hungry. Make sure to take care of the basics before eating for bonuses.&#xD;
+Základní potřeby&#xD;
+Přežití je velmi obtížné, pokud se o sebe nezvládneš patřičně starat. Pro uchování bojeschopnosti musíš dodržovat pitný režim a pravidelně jíst a odpočívat. Při delším čase bez jídla, vody nebo poctivého spánku začneš pociťovat negativní účinky na svém zdraví, zhoršení SPECIAL vlastností a zvýšení únavy (viz „Únava“ níže), sníženou imunitu (viz „Nemoci“ níže) a postupně i pravidelné fyzické poškození.&#xD;
 &#xD;
-Counter Effects&#xD;
-Keep in mind, certain items may not give you the results you expect. For example, Chems and Alcohol dehydrate, Caffeine makes you hungry, etc.&#xD;
-&#xD;
-Caffeinated &#xD;
-Caffeine gives you a short reprieve from your tiredness, possibly buying you time to finish a fight or find a bed.&#xD;
+Únava&#xD;
+Únava pochází většinou z nedostatku spánku, ale vliv na ni má jak hlad, tak i žízeň. Únava funguje podobně jako radiace, ale místo bodů zdraví (BZ) ovlivňuje akční body (AB). Čím více obdržíš únavy, tím budeš mít méně dostupných AB pro akce jako sprintování nebo režim V.A.T.S. Celková úroveň únavy je zobrazena v červené barvě na liště AB.&#xD;
 &#xD;
 &#xD;
-Survival: Items &amp; Companions&#xD;
+Přežití: Nemoci a zdraví&#xD;
 &#xD;
-Weighted Ammo &#xD;
-Bullets and shells now all have a small amount of weight, which varies by caliber. Heavier items such as fusion cores, rockets, and mini-nukes can really drag you down. &#xD;
+Nemoci&#xD;
+Konzumace syrového masa, pití nevyčištěné vody, zásah od nemocemi prolezlých nepřátel a užívání škodlivých chemikálií zvyšují riziko onemocnění. V případě nákazy je na obrazovce zobrazena krátká zpráva. Detaily nemoci si pak můžeš prohlédnout v Pip-Boyovi v sekci Stav v rámci záložky statistik po stisknutí [LWTPad_Center] na zobrazení aktivních účinků.&#xD;
 &#xD;
-Carry Weight &#xD;
-In Survival, both you and your companion's Carry Weight has been significantly reduced. Exceeding your carry weight reduces your Endurance and Agility stats, and periodically damages your legs and health. Think of your back! &#xD;
+Nákazy&#xD;
+Nespavost: Je ti dopřáno méně spánku, než je potřeba.&#xD;
+Letargie: Tvé AB jsou doplňovány o dost pomaleji.&#xD;
+Vyčerpání: Musíš spát více často.&#xD;
+Paraziti: Pro nasycení musíš zkonzumovat víc jídla než obvykle.&#xD;
+Slabost: Tvé tělo nevydrží takové poškození jako obvykle.&#xD;
+Infekce: Šířící se infekce tě pomalu zraňuje.&#xD;
 &#xD;
-Companions &#xD;
-Carry weight for companions has been decreased. Companions will also no longer automatically get back up if downed during combat and will return home if abandoned without being healed.&#xD;
+Doktoři&#xD;
+Doktoři mohou vyléčit tvá zranění, zbavit tě závislostí a uzdravit od nemocí... za peníze. Doktory najdeš ve většině velkých osad.&#xD;
 &#xD;
-Enemy and Loot Repopulation &#xD;
-Locations you've cleared will now repopulate with new enemies and loot at a significantly slower rate.&#xD;
+Antibiotika&#xD;
+Antibiotika, můžeš vyrábět v chemické laboratoři, kupovat od doktorů nebo najít v lékařských kontejnerech; okamžitě léčí různé účinky onemocnění.&#xD;
 &#xD;
-Strong Back&#xD;
-Instead of allowing Fast Travel, with Strong Back Rank 4, you no longer take damage from exceeding your carry weight.&#xD;
-</Dest>
+Bylinné prostředky&#xD;
+Bylinné prostředky lze vyrábět v chemické laboratoři, kupovat od obchodníků a doktorů nebo najít v rozličných kontejnerech; významně snižují šance nákazy specifických onemocnění.&#xD;
+&#xD;
+Snížená imunita&#xD;
+Předměty pro léčbu ozáření způsobují zvýšenou únavu a dočasné snížení imunity, a tak tě i vystavují vyššímu riziku onemocnění.&#xD;
+&#xD;
+&#xD;
+Přežití: Výzvy při léčení&#xD;
+&#xD;
+Pomalejší léčení&#xD;
+Při Přežití je výrazně snížena rychlost, se kterou působí léčebné prostředky, jako jsou stimpaky nebo jídlo. Chceš-li přežít, musíš si své léčení dobře rozplánovat.&#xD;
+&#xD;
+Ochromené končetiny&#xD;
+Ochromené končetiny se po ukončení boje samy neuzdraví a do vyléčení stimpakem zůstanou ochromené.&#xD;
+&#xD;
+Léčení společníků&#xD;
+Pokud je v boji tvůj společník sražen k zemi, musíš ho vyléčit, aby se mohl vrátit zpátky na nohy. Pokud opustíš oblast bez vyléčení raněného společníka, tak se sám vydá domů.&#xD;
+&#xD;
+&#xD;
+Přežití: Hlad, žízeň a nápoje&#xD;
+&#xD;
+Jídlo / hodnota pití&#xD;
+Hodnota předmětu je dobrým indikátorem toho, jak výrazně předmět při konzumaci ovlivní tvůj hlad a žízeň.&#xD;
+&#xD;
+Bonusové účinky jídla&#xD;
+Bonusové účinky jídla jako například zvýšená nosnost u steaku z mutajelena, jsou aplikovány pouze tehdy, nemáš-li při jejich konzumaci hlad. Vždy dbej na vyřešení svých základních potřeb, než začneš jíst kvůli bonusům.&#xD;
+&#xD;
+Negativní účinky&#xD;
+Pamatuj, že některé předměty mohou poskytovat neočekávané účinky. Například chemikálie nebo alkohol dehydrují, kofein způsobuje hlad atd.&#xD;
+&#xD;
+Kofein&#xD;
+Kofein krátkodobě vysvobozuje z ospalosti, čímž může poskytnout čas pro dokončení souboje nebo nalezení postele.&#xD;
+&#xD;
+&#xD;
+Přežití: Předměty a společníci&#xD;
+&#xD;
+Hmotnost munice&#xD;
+Náboje a střelivo mají malou hmotnost určenou svým kalibrem. Těžší předměty jako fúzní jádra, rakety nebo mini atomovky tě zase o dost více zatíží.&#xD;
+&#xD;
+Nosnost&#xD;
+Při Přežití je výrazně omezena nosnost tvá i tvého společníka. Překročení nosnosti snižuje odolnost a hbitost a periodicky poškozuje nohy a zdraví. Mysli na svá záda!&#xD;
+&#xD;
+Společníci&#xD;
+Nosnost společníků je snížena. Společníci se v boji vlastními silami nezvednou ze země. V případě opuštění raněného společníka se pak sami vrátí domů.&#xD;
+&#xD;
+Nepřátelé a objevování kořisti&#xD;
+Ve vyčištěných lokacích se nepřátelé a kořist znovu objevují ve výrazně snížené frekvenci.&#xD;
+&#xD;
+Stěhovák&#xD;
+Místo rychlého cestování s perkem Stěhovák na 4. úrovni, na tebe nebude působit poškození při překročení nosnosti.</Dest>
     </String>
-    <String List="1" sID="0000DD" Partial="1">
+    <String List="1" sID="0000DD">
       <EDID>TutorialDirectMovementJump_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [LWTrigger] to jump.</Source>
-      <Dest>Press [LWTrigger] to jump.</Dest>
+      <Dest>Pro výskok stiskni [LWTrigger].</Dest>
     </String>
-    <String List="1" sID="0000DE" Partial="1">
+    <String List="1" sID="0000DE">
       <EDID>TutorialJumpTotal_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Place the teleport marker on the surface you wish to jump to, or press [LWTrigger] if in direct movement mode to jump.</Source>
-      <Dest>Place the teleport marker on the surface you wish to jump to, or press [LWTrigger] if in direct movement mode to jump.</Dest>
+      <Dest>Umísti teleportační značku na povrch, na který chceš vyskočit, nebo stiskni [LWTrigger], pokud jsi v režimu přímé chůze.</Dest>
     </String>
     <String List="1" sID="0000DF" Partial="1">
       <EDID>TutorialSprintingTotal_VW</EDID>
@@ -3861,11 +3862,11 @@ Instead of allowing Fast Travel, with Strong Back Rank 4, you no longer take dam
       <Source>Quickly teleport in a direction, or press [LWTPad_Up] in Direct Movement Mode, to sprint. Sprinting consumes Action Points.</Source>
       <Dest>Quickly teleport in a direction, or press [LWTPad_Up] in Direct Movement Mode, to sprint. Sprinting consumes Action Points.</Dest>
     </String>
-    <String List="1" sID="0000E1" Partial="1">
+    <String List="1" sID="0000E1">
       <EDID>TutorialSprintingDirectMovement_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Press [LWTPad_Up] to sprint. Sprinting consumes Action Points.</Source>
-      <Dest>Press [LWTPad_Up] to sprint. Sprinting consumes Action Points.</Dest>
+      <Dest>Pro sprint stiskni [LWTPad_Up]. Sprintování spotřebovává akční body.</Dest>
     </String>
     <String List="1" sID="0000E3" Partial="1">
       <EDID>TutorialFavorites_VW</EDID>
@@ -3873,17 +3874,17 @@ Instead of allowing Fast Travel, with Strong Back Rank 4, you no longer take dam
       <Source>Favorite an item in the Pip-Boy then hold [RWTPad_Center] to bring up the favorites menu. Highlight and release on the item you wish to use with [WTPad_Any].</Source>
       <Dest>Favorite an item in the Pip-Boy then hold [RWTPad_Center] to bring up the favorites menu. Highlight and release on the item you wish to use with [WTPad_Any].</Dest>
     </String>
-    <String List="1" sID="0000E4" Partial="1">
+    <String List="1" sID="0000E4">
       <EDID>TutorialSwimming_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>To swim, submerge your head underwater, or press [LWGrip], and press [LWTrigger] and [RWTrigger] while moving your hands front to back.</Source>
-      <Dest>To swim, submerge your head underwater, or press [LWGrip], and press [LWTrigger] and [RWTrigger] while moving your hands front to back.</Dest>
+      <Dest>Pro plavání ponoř hlavu pod vodní hladinu, nebo stiskni [LWGrip], a stiskni [LWTrigger] a [RWTrigger] při pohybu rukama zepředu dozadu.</Dest>
     </String>
-    <String List="1" sID="0000E7" Partial="1">
+    <String List="1" sID="0000E7">
       <EDID>TutorialJump_VW</EDID>
       <REC>MESG:DESC</REC>
       <Source>Place the teleport marker on the surface you wish to jump to.</Source>
-      <Dest>Place the teleport marker on the surface you wish to jump to.</Dest>
+      <Dest>Umísti teleportační značku na povrch, na který chceš vyskočit.</Dest>
     </String>
     <String List="1" sID="0000E9" Partial="1">
       <EDID>TutorialSneaking_VW</EDID>
