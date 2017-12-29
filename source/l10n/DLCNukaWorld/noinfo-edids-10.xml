@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DLCNukaWorld</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000015" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Restore power to the Nuka-Express</Source>
+      <Dest>Obnov napájení Nuka-Expresu</Dest>
+    </String>
+    <String List="0" sID="000019" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Speak to Harvey</Source>
+      <Dest>Promluv si s Harveym</Dest>
+    </String>
+    <String List="0" sID="00001C" Partial="1">
+      <EDID>DLC04MQ00TrainButton</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Push</Source>
+      <Dest>Stisknout</Dest>
+    </String>
+    <String List="0" sID="00001D" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Listen to the Nuka-Cola Family Radio</Source>
+      <Dest>Poslechni si rodinné Rádio Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="00002B" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Find the weapon</Source>
+      <Dest>Najdi zbraň</Dest>
+    </String>
+    <String List="0" sID="000037" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="9">QUST:NNAM</REC>
+      <Source>Speak to Gage</Source>
+      <Dest>Promluv si s Gagem</Dest>
+    </String>
+    <String List="0" sID="000062" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="7">QUST:NNAM</REC>
+      <Source>Defeat Overboss Colter</Source>
+      <Dest>Poraz Overbosse Coltera</Dest>
+    </String>
+    <String List="0" sID="000073" Partial="1">
+      <EDID>DLC04MQ00PromotionalRadioTransmitter</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Promotional Radio</Source>
+      <Dest>Propagační rádio</Dest>
+    </String>
+    <String List="0" sID="000074" Partial="1">
+      <EDID>DLC04MQ00RadioDisplay</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Nuka-Cola Family Radio</Source>
+      <Dest>Rodinné rádio Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="000080" Partial="1">
+      <EDID>DLC04MQ00TrainButton</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Button</Source>
+      <Dest>Tlačítko</Dest>
+    </String>
+    <String List="0" sID="00008F" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>All Aboard</Source>
+      <Dest>Nastupovat</Dest>
+    </String>
+    <String List="0" sID="0000A3" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Taken For A Ride</Source>
+      <Dest>Procházka</Dest>
+    </String>
+    <String List="0" sID="0000A7" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Enter Nuka-World</Source>
+      <Dest>Vstup do Nuka-Worldu</Dest>
+    </String>
+    <String List="0" sID="0000AF" Partial="1">
+      <EDID>DLC04MQ00Radio</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>[DLC04MQ00 Initial Radio Jingle]</Source>
+      <Dest>[DLC04MQ00 Initial Radio Jingle]</Dest>
+    </String>
+    <String List="0" sID="0000CC" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Travel to the Nuka-World Transit Center</Source>
+      <Dest>Cestuj do tranzitního střediska Nuka-Worldu</Dest>
+    </String>
+    <String List="0" sID="0000D7" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="6">QUST:NNAM</REC>
+      <Source>Enter the Cola-Cars Arena</Source>
+      <Dest>Vstup do Cola-Cars arény</Dest>
+    </String>
+    <String List="0" sID="0000E8" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Survive the Gauntlet</Source>
+      <Dest>Přežij Rukavici</Dest>
+    </String>
+    <String List="0" sID="0000F0" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Enter the Locker Room</Source>
+      <Dest>Vstup do šatny</Dest>
+    </String>
+    <String List="0" sID="0000F5" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Take the Nuka-Express to Nuka-World</Source>
+      <Dest>Vezmi Nuka-Expres do Nuka-Worldu</Dest>
+    </String>
+    <String List="0" sID="000102" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageOverOr30</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zrušit</Dest>
+    </String>
+    <String List="0" sID="00010E" Partial="1">
+      <EDID>DLC04MQ00RadioAnnouncerVoice</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="00010F" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Use the Intercom</Source>
+      <Dest>Použij interkom</Dest>
+    </String>
+    <String List="0" sID="000115" Partial="1">
+      <EDID>DLC04MQ00PowerOnPH</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Power Generator</Source>
+      <Dest>Generátor elektřiny</Dest>
+    </String>
+    <String List="0" sID="00011D" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageOverOr30</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>All Aboard the Nuka-Express!</Source>
+      <Dest>Nastupovat do Nuka-Expresu!</Dest>
+    </String>
+    <String List="0" sID="00012E" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="9">QUST:NNAM</REC>
+      <Source>Assign a Gang to Nuka-World's Bottling Plant</Source>
+      <Dest>Přiřaď gang do Nuka-World stáčírny</Dest>
+    </String>
+    <String List="0" sID="000133" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Secure Galactic Zone</Source>
+      <Dest>Zabezpeč Galactickou zónu</Dest>
+    </String>
+    <String List="0" sID="00013B" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="8">QUST:NNAM</REC>
+      <Source>Secure Nuka-World's Bottling Plant</Source>
+      <Dest>Zabezpeč Nuka-World stáčírnu</Dest>
+    </String>
+    <String List="0" sID="00013C" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="10">QUST:NNAM</REC>
+      <Source>Speak to Gage</Source>
+      <Dest>Promluv si s Gagem</Dest>
+    </String>
+    <String List="0" sID="000142" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Assign a Gang to Kiddie Kingdom</Source>
+      <Dest>Přiřaď gang do Dětského království</Dest>
+    </String>
+    <String List="0" sID="000146" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="7">QUST:NNAM</REC>
+      <Source>Assign a Gang to Safari Adventure</Source>
+      <Dest>Přiřaď gang do Safari dobrodružství</Dest>
+    </String>
+    <String List="0" sID="000148" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="6">QUST:NNAM</REC>
+      <Source>Secure Safari Adventure</Source>
+      <Dest>Zabezpeč Safari dobrodružství</Dest>
+    </String>
+    <String List="0" sID="00014B" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Assign a Gang to Galactic Zone</Source>
+      <Dest>Přiřaď gang do Galaktické zóny</Dest>
+    </String>
+    <String List="0" sID="00014E" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Secure Dry Rock Gulch</Source>
+      <Dest>Zabezpeč Vyprahlou Rokli</Dest>
+    </String>
+    <String List="0" sID="000150" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Secure Kiddie Kingdom</Source>
+      <Dest>Zabezpeč Dětské království</Dest>
+    </String>
+    <String List="0" sID="000151" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>The Grand Tour</Source>
+      <Dest>Seznámení</Dest>
+    </String>
+    <String List="0" sID="000155" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Assign a Gang to Dry Rock Gulch</Source>
+      <Dest>Přiřaď gang do Vyprahlé Rokle</Dest>
+    </String>
+    <String List="0" sID="0002BA" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Use the Intercom to speak to Gage</Source>
+      <Dest>Použij interkom k rozhovoru s Gagem</Dest>
+    </String>
+    <String List="0" sID="0002BB" Partial="1">
+      <EDID>DLC04MQ01Gauntlet</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>[DLC04MQ01 - Gauntlet Quest]</Source>
+      <Dest>[DLC04MQ01 - Gauntlet Quest]</Dest>
+    </String>
+    <String List="0" sID="0002BD" Partial="1">
+      <EDID>DLC04MQ01LockerRoom_GageIntercomTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Intercom</Source>
+      <Dest>Interkom</Dest>
+    </String>
+    <String List="0" sID="0002CC" Partial="1">
+      <EDID>DLC04MQ01CrowdTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Crowd</Source>
+      <Dest>Dav</Dest>
+    </String>
+    <String List="0" sID="0002D0" Partial="1">
+      <EDID>DLC04MQ01LockerRoom_AnnouncerIntercomTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="00040C" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Power Play</Source>
+      <Dest>Přesilovka</Dest>
+    </String>
+    <String List="0" sID="0004B5" Partial="1">
+      <EDID>DLC04MS01BradbertonTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>John-Caleb Bradberton</Source>
+      <Dest>John-Caleb Bradberton</Dest>
+    </String>
+    <String List="0" sID="0004C5" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Cappy in a Haystack</Source>
+      <Dest>Zátky v kupce sena</Dest>
+    </String>
+    <String List="0" sID="000598" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Home Sweet Home</Source>
+      <Dest>Domov, sladký domov</Dest>
+    </String>
+    <String List="0" sID="0005B0" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="0006BE" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="6">QUST:NNAM</REC>
+      <Source>Hunt Down and Kill Mags Black</Source>
+      <Dest>Dopadni a zabij Mags Blackovou</Dest>
+    </String>
+    <String List="0" sID="000748" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="12">QUST:NNAM</REC>
+      <Source>Speak to Gage</Source>
+      <Dest>Promluv si s Gagem</Dest>
+    </String>
+    <String List="0" sID="000761" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="9">QUST:NNAM</REC>
+      <Source>Retrieve Control Room Key</Source>
+      <Dest>Získej klíč od řídicí místnosti</Dest>
+    </String>
+    <String List="0" sID="00078E" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="11">QUST:NNAM</REC>
+      <Source>Activate the Main Power Switch</Source>
+      <Dest>Aktivuj hlavní vypínač napájení</Dest>
+    </String>
+    <String List="0" sID="000792" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="10">QUST:NNAM</REC>
+      <Source>Proceed to Control Room</Source>
+      <Dest>Pokračuj do řídicí místnosti</Dest>
+    </String>
+    <String List="0" sID="000796" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="8">QUST:NNAM</REC>
+      <Source>Hunt Down and Kill Mason</Source>
+      <Dest>Dopadni a zabij Masona</Dest>
+    </String>
+    <String List="0" sID="000799" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Hunt Down and Kill Nisha</Source>
+      <Dest>Dopadni a zabij Nishu</Dest>
+    </String>
+    <String List="0" sID="00079F" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Speak to Nisha</Source>
+      <Dest>Promluv si s Nishou</Dest>
+    </String>
+    <String List="0" sID="0007A3" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Speak to Mason</Source>
+      <Dest>Promluv si s Masonem</Dest>
+    </String>
+    <String List="0" sID="0007A5" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Speak to Mags</Source>
+      <Dest>Promluv si s Mags</Dest>
+    </String>
+    <String List="0" sID="0007A6" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Meet the gang bosses near the Power Plant</Source>
+      <Dest>Setkej se s vůdci gangů v blízkosti elektrárny</Dest>
+    </String>
+    <String List="0" sID="0007C1" Partial="1">
+      <EDID>DLC04MQ01Announcer00StationTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0007C3" Partial="1">
+      <EDID>DLC04MQ01Announcer01SkybridgeTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0007C8" Partial="1">
+      <EDID>DLC04MQ01Announcer04BackstageTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0007CC" Partial="1">
+      <EDID>DLC04MQ01Announcer03ParkEntranceTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0007D1" Partial="1">
+      <EDID>DLC04MQ01Announcer05EmergencyExitTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0007D3" Partial="1">
+      <EDID>DLC04MQ01Announcer02EmployeeTunnelsTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0008B2" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="7">QUST:NNAM</REC>
+      <Source>Hunt Down and Kill William Black</Source>
+      <Dest>Dopadni a zabij Williama Blacka</Dest>
+    </String>
+    <String List="0" sID="0008DE" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="8">QUST:NNAM</REC>
+      <Source>Use the Thirst Zapper</Source>
+      <Dest>Použij generátor touhy</Dest>
+    </String>
+    <String List="0" sID="0009E2" Partial="1">
+      <EDID>DLC04MQ01Announcer06ColaCarsTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="0009F9" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Claim an Outpost for your Gang</Source>
+      <Dest>Nárokuj si základnu pro svůj gang</Dest>
+    </String>
+    <String List="0" sID="000B91" Partial="1">
+      <EDID>DLC04MS01Flyer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Nuka-World Contest Flyer</Source>
+      <Dest>Nuka-World soutěžní leták</Dest>
+    </String>
+    <String List="0" sID="000CB5" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Activate Railway Power</Source>
+      <Dest>Aktivovat napájení železnice</Dest>
+    </String>
+    <String List="0" sID="000CC0" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappys in Galactic Zone</Source>
+      <Dest>Najdi skryté zátky v Galaktické zóny</Dest>
+    </String>
+    <String List="0" sID="000CCC" Partial="1">
+      <EDID>DLC04MS01CappyClue_GZ2_S</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000CD1" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Nuka-Cola Corporation</Source>
+      <Dest>Majetek společnosti Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="000CD2" Partial="1">
+      <EDID>DLC04MS01CappyClue_KK1_F</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000CD5" Partial="1">
+      <EDID>DLC04MS01CappyActivator</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Record Clue</Source>
+      <Dest>!Nahrát Clue</Dest>
+    </String>
+    <String List="0" sID="000CE4" Partial="1">
+      <EDID>DLC04MS01CappyClue_DG1_E</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000CEA" Partial="1">
+      <EDID>DLC04MS01CappyClue_SA2_E</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000CED" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappys in Dry Rock Gulch</Source>
+      <Dest>Najdi skryté zátky ve Vyprahlé Rokli</Dest>
+    </String>
+    <String List="0" sID="000CEE" Partial="1">
+      <EDID>DLC04MS01CappyActivator</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Hidden Cappy</Source>
+      <Dest>Skrytá zátka</Dest>
+    </String>
+    <String List="0" sID="000CF3" Partial="1">
+      <EDID>DLC04MS01CappyClue_GZ1_R</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000CFD" Partial="1">
+      <EDID>DLC04MQ00ControlTerminalPassword</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Control Terminal Password</Source>
+      <Dest>Heslo k ovládacímu terminálu</Dest>
+    </String>
+    <String List="0" sID="000D03" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="1">TERM:BTXT</REC>
+      <Source>Transit Center Power Status:&#xD;
+Main Power: ***OFFLINE***&#xD;
+Emergency Power: ON&#xD;
+Auxiliary Power: OFF&#xD;
+Railway Power: ON&#xD;
+&#xD;
+Please make a selection:&#xD;
+</Source>
+      <Dest>Stav napájení tranzitního střediska:&#xD;
+Hlavní rozvod: ***VYPNUTO***&#xD;
+Nouzové napájení: ZAPNUTO&#xD;
+Pomocné napájení: VYPNUTO&#xD;
+Napájení železnice: ZAPNUTO&#xD;
+&#xD;
+Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="000D05" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Accessing railway generators... COMPLETE.&#xD;
+Routing power to rails... COMPLETE.&#xD;
+&#xD;
+*** Please exercise caution. Railways are now active.</Source>
+      <Dest>Přistupování ke generátorům železnice... DOKONČENO.&#xD;
+Směrování energie kolejnic... DOKONČENO.&#xD;
+&#xD;
+*** Prosím, buďte opatrní. Železnice je nyní aktivní.</Dest>
+    </String>
+    <String List="0" sID="000D07" Partial="1">
+      <EDID>DLC04MS01CappyClue_NTU_G</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000D0C" Partial="1">
+      <EDID>DLC04MS01CappyClue_BP_R</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000D12" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="8">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappy in the Bottling Plant</Source>
+      <Dest>Najdi skryté zátky ve stáčírně</Dest>
+    </String>
+    <String List="0" sID="000D1D" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="9">QUST:NNAM</REC>
+      <Source>Return to Sierra Petrovita</Source>
+      <Dest>Vrať se k Sierre Petrovitě</Dest>
+    </String>
+    <String List="0" sID="000D1E" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="7">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappys in Safari Adventure</Source>
+      <Dest>Najdi skryté zátky v Safari dobrodružství</Dest>
+    </String>
+    <String List="0" sID="000D20" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="6">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappys in Kiddie Kingdom</Source>
+      <Dest>Najdi skryté zátky v Dětském království</Dest>
+    </String>
+    <String List="0" sID="000D21" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Find the Hidden Cappy in Nuka-Town USA</Source>
+      <Dest>Najdi skryté zátky v Nuka-Townu USA</Dest>
+    </String>
+    <String List="0" sID="000D22" Partial="1">
+      <EDID>DLC04MQ00RadioBottleVoice</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bottle</Source>
+      <Dest>Lahvoun</Dest>
+    </String>
+    <String List="0" sID="000D2B" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Transit Center Power Grid Management</Source>
+      <Dest>Řízení rozvodné sítě tranzitního střediska</Dest>
+    </String>
+    <String List="0" sID="000D2C" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="0">TERM:BTXT</REC>
+      <Source>Transit Center Power Status:&#xD;
+Main Power: ***OFFLINE***&#xD;
+Emergency Power: ON&#xD;
+Auxiliary Power: OFF&#xD;
+Railway Power: OFF&#xD;
+&#xD;
+Please make a selection:&#xD;
+</Source>
+      <Dest>Stav napájení tranzitního střediska:&#xD;
+Hlavní rozvod: ***VYPNUTO***&#xD;
+Nouzové napájení: ZAPNUTO&#xD;
+Pomocné napájení: VYPNUTO&#xD;
+Napájení železnice: VYPNUTO&#xD;
+&#xD;
+Prosím, vyberte:&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="000D2D" Partial="1">
+      <EDID>DLC04MS01CappyClue_KK2_I</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000D32" Partial="1">
+      <EDID>DLC04MS01CappyClue_DG2_H</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000D41" Partial="1">
+      <EDID>DLC04MS01CappyClue_SA1_N</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Hidden Cappy Clue</Source>
+      <Dest>Stopa Skryté zátky</Dest>
+    </String>
+    <String List="0" sID="000D45" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Nuka-Express Control Terminal</Source>
+      <Dest>Ovládací terminál Nuka-Expresu</Dest>
+    </String>
+    <String List="0" sID="000D76" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Check in with your Crew</Source>
+      <Dest>Zkontroluj svou posádku</Dest>
+    </String>
+    <String List="0" sID="000DBF" Partial="1">
+      <EDID>DLC04MQ00NukaExpressTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Announcer</Source>
+      <Dest>Hlasatel</Dest>
+    </String>
+    <String List="0" sID="000DC2" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="000F4F" Partial="1">
+      <EDID>DLC04MQ00KaylorOrders</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Kaylor's Orders</Source>
+      <Dest>Kaylorovo rozkazy</Dest>
+    </String>
+    <String List="0" sID="000F66" Partial="1">
+      <EDID>DLC04MQ00Kaylor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Commander Kaylor</Source>
+      <Dest>Velitel Kaylorová</Dest>
+    </String>
+    <String List="0" sID="000F71" Partial="1">
+      <EDID>DLC04MS01Keypad</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Keypad</Source>
+      <Dest>Klávesnice</Dest>
+    </String>
+    <String List="0" sID="000FC4" Partial="1">
+      <EDID>DLC04MQ00Kaylor</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Kaylor</Source>
+      <Dest>Kaylor</Dest>
+    </String>
+    <String List="0" sID="000FED" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="000FF6" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Salam Volunteer Militia</Source>
+      <Dest>Majetek salemské domobrany</Dest>
+    </String>
+    <String List="0" sID="000FFF" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="6">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="001015" Partial="1">
+      <EDID>DLC04MQ00Gunners</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>[DLC04MQ00 Gunners]</Source>
+      <Dest>[DLC04MQ00 Gunners]</Dest>
+    </String>
+    <String List="0" sID="001019" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="9">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="00103A" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Enter Password</Source>
+      <Dest>Zadejte heslo</Dest>
+    </String>
+    <String List="0" sID="001043" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Accessing auxiliary generators... COMPLETE.&#xD;
+Re-routing power... COMPLETE.&#xD;
+&#xD;
+*** Please report main power deficiency to maintenance.</Source>
+      <Dest>Přístup k pomocným generátorům... DOKONČENO.&#xD;
+Přesměrování energie... DOKONČENO.&#xD;
+&#xD;
+*** Prosím, ohlaste nedostatek hlavní energie na údržbu.</Dest>
+    </String>
+    <String List="0" sID="00105E" Partial="1">
+      <EDID>DLC04MS01FuseBox</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Shut Off Power</Source>
+      <Dest>Vypnout napájení</Dest>
+    </String>
+    <String List="0" sID="001069" Partial="1">
+      <EDID>DLC04MS01KeypadActivatorBase</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Keypad</Source>
+      <Dest>Klávesnice</Dest>
+    </String>
+    <String List="0" sID="001078" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC id="0">TERM:RNAM</REC>
+      <Source>ERROR!</Source>
+      <Dest>CHYBA!</Dest>
+    </String>
+    <String List="0" sID="00107B" Partial="1">
+      <EDID>DLC04MQ04SettlementGangFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Raider - Sinner's Gang Faction</Source>
+      <Dest>Raider - Sinner's Gang Faction</Dest>
+    </String>
+    <String List="0" sID="001086" Partial="1">
+      <EDID>DLC04MS01FrozenHeadActivator</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Talk</Source>
+      <Dest>Oslovit</Dest>
+    </String>
+    <String List="0" sID="001090" Partial="1">
+      <EDID>DLC04MS01FrozenHeadActivator</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Frozen Head</Source>
+      <Dest>Zmrzlá hlava</Dest>
+    </String>
+    <String List="0" sID="001092" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Systems Control Terminal</Source>
+      <Dest>Terminál řídicích systémů</Dest>
+    </String>
+    <String List="0" sID="0010A5" Partial="1">
+      <EDID>DLC04MQ04SinnerGangFaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Raider - Sinner's Gang Faction</Source>
+      <Dest>Raider - Sinner's Gang Faction</Dest>
+    </String>
+    <String List="0" sID="0010AC" Partial="1">
+      <EDID>DLC04MS01KeypadActivatorBase</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Enter Code</Source>
+      <Dest>Zadat kód</Dest>
+    </String>
+    <String List="0" sID="0010B9" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Please enter your authorization code.</Source>
+      <Dest>Prosím, zadejte váš autorizační kód.</Dest>
+    </String>
+    <String List="0" sID="0010BB" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC id="1">TERM:RNAM</REC>
+      <Source>Authorizing...</Source>
+      <Dest>Autorizace...</Dest>
+    </String>
+    <String List="0" sID="0010BD" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Force a Settlement to Supply your Gang</Source>
+      <Dest>Vynuť si u osady zásobování svého gangu</Dest>
+    </String>
+    <String List="0" sID="0010C5" Partial="1">
+      <EDID>DLC04MS01FuseBox</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Main Power Control</Source>
+      <Dest>Hlavní ovládací panel</Dest>
+    </String>
+    <String List="0" sID="0010D0" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Authorized Personnel ONLY!!!</Source>
+      <Dest>POUZE oprávněný personál!!!</Dest>
+    </String>
+    <String List="0" sID="0010D5" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="8">QUST:NNAM</REC>
+      <Source>Defend &lt;Alias=InitialRaiderSettlementLocation&gt;</Source>
+      <Dest>Ubraň osadu &lt;Alias=InitialRaiderSettlementLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="0010DC" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Activate Auxiliary Power</Source>
+      <Dest>Aktivovat pomocné napájení</Dest>
+    </String>
+    <String List="0" sID="0010DF" Partial="1">
+      <EDID>DLC04MS01_VaultSystemsControlTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Enter Password</Source>
+      <Dest>Zadejte heslo</Dest>
+    </String>
+    <String List="0" sID="0010E3" Partial="1">
+      <EDID>DLC04MQ04LvlRaiderBossSinner</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sinner</Source>
+      <Dest>Hříšník</Dest>
+    </String>
+    <String List="0" sID="0010FF" Partial="1">
+      <EDID>DLC04MQ04RaiderAttack</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Handler Quest for MQ04 Raider Attack on Raider Settlement</Source>
+      <Dest>Handler Quest for MQ04 Raider Attack on Raider Settlement</Dest>
+    </String>
+    <String List="0" sID="001114" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="15">QUST:NNAM</REC>
+      <Source>Shut Off the Power</Source>
+      <Dest>Vypni napájení</Dest>
+    </String>
+    <String List="0" sID="00111A" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="17">QUST:NNAM</REC>
+      <Source>Give the Nuka-Cola Formula to Sierra</Source>
+      <Dest>Dej recepturu na Nuka-Colu Sierře</Dest>
+    </String>
+    <String List="0" sID="00111E" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="13">QUST:NNAM</REC>
+      <Source>Talk to the Head</Source>
+      <Dest>Promluv si s vedoucím</Dest>
+    </String>
+    <String List="0" sID="001138" Partial="1">
+      <EDID>DLC04MQ00GageTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Intercom</Source>
+      <Dest>Interkom</Dest>
+    </String>
+    <String List="0" sID="001139" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="16">QUST:NNAM</REC>
+      <Source>Obtain the Nuka-Cola Formula</Source>
+      <Dest>Získej recepturu na Nuka-Colu</Dest>
+    </String>
+    <String List="0" sID="00113A" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="11">QUST:NNAM</REC>
+      <Source>Make your Raider Outpost Happy (&lt;Global=DLC04MQ04Settlement01Percent&gt;%)</Source>
+      <Dest>Zajisti štěstí na své nájezdnické základně (&lt;Global=DLC04MQ04Settlement01Percent&gt; %)</Dest>
+    </String>
+    <String List="0" sID="001143" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="10">QUST:NNAM</REC>
+      <Source>Use the Keypad</Source>
+      <Dest>Použij klávesnici</Dest>
+    </String>
+    <String List="0" sID="001154" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="11">QUST:NNAM</REC>
+      <Source>Search the Office</Source>
+      <Dest>Prozkoumej kancelář</Dest>
+    </String>
+    <String List="0" sID="0011A9" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="14">QUST:NNAM</REC>
+      <Source>Accept Sierra's Offer OR Shut Off the Power</Source>
+      <Dest>Přijmi nabídku Sierry, nebo vypni napájení</Dest>
+    </String>
+    <String List="0" sID="00121F" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>An Ambitious Plan</Source>
+      <Dest>Ambiciózní plán</Dest>
+    </String>
+    <String List="0" sID="00129C" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Retrieve the Control Terminal Password</Source>
+      <Dest>Získej heslo ovládacího terminálu</Dest>
+    </String>
+    <String List="0" sID="0014D1" Partial="1">
+      <EDID>DLC04MQ01NishaTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Nisha</Source>
+      <Dest>Nisha</Dest>
+    </String>
+    <String List="0" sID="0014DB" Partial="1">
+      <EDID>DLC04MQ01WilliamTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>William</Source>
+      <Dest>William</Dest>
+    </String>
+    <String List="0" sID="0014F3" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Speak to Gage in the Overboss' Quarters</Source>
+      <Dest>Promluv si s Gagem v ubikacích Overbosse</Dest>
+    </String>
+    <String List="0" sID="001522" Partial="1">
+      <EDID>DLC04MQ01MasonTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Mason</Source>
+      <Dest>Mason</Dest>
+    </String>
+    <String List="0" sID="00153C" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="4">QUST:NNAM</REC>
+      <Source>Return to Gage</Source>
+      <Dest>Vrať se ke Gageovi</Dest>
+    </String>
+    <String List="0" sID="001548" Partial="1">
+      <EDID>DLC04MQ01MagsTalkingActivator</EDID>
+      <REC>TACT:FULL</REC>
+      <Source>Mags</Source>
+      <Dest>Mags</Dest>
+    </String>
+    <String List="0" sID="00155A" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Meet the gang boss for the Disciples</Source>
+      <Dest>Setkej se s vůdcem gangu Stoupenců</Dest>
+    </String>
+    <String List="0" sID="001583" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Meet the gang boss for the Operators</Source>
+      <Dest>Setkej se s vůdcem gangu Provozáků</Dest>
+    </String>
+    <String List="0" sID="001590" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="3">QUST:NNAM</REC>
+      <Source>Meet the gang boss for the Pack</Source>
+      <Dest>Setkej se s vůdcem gangu Šelem</Dest>
+    </String>
+    <String List="0" sID="0019D5" Partial="1">
+      <EDID>DLC04MQ04MasonSceneQuest</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Speak to Mason</Source>
+      <Dest>Promluv si s Masonem</Dest>
+    </String>
+    <String List="0" sID="0019FE" Partial="1">
+      <EDID>DLC04MQ04DixieSceneQuest</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Speak to Dixie</Source>
+      <Dest>Promluv si s Dixie</Dest>
+    </String>
+    <String List="0" sID="001CAA" Partial="1">
+      <EDID>DLC04MQ04KeywordAssignment</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Handler quest to assign keyword to appropriate locations</Source>
+      <Dest>Handler quest to assign keyword to appropriate locations</Dest>
+    </String>
+    <String List="0" sID="001DFA" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="12">QUST:NNAM</REC>
+      <Source>Talk to Shank</Source>
+      <Dest>Promluv si se Shankem</Dest>
+    </String>
+    <String List="0" sID="0020C5" Partial="1">
+      <EDID>DLC04MS01MiscObjectiveHolder</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Give Sierra a bottle of Nuka-Cola Quartz</Source>
+      <Dest>Dej Sierra láhev Nuka-Cola Quartz</Dest>
+    </String>
+    <String List="0" sID="00218B" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Talk to Sierra</Source>
+      <Dest>Promluv si se Sierrou</Dest>
+    </String>
+    <String List="0" sID="002192" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Follow Sierra on her Tour</Source>
+      <Dest>Následuj Sierru na jejím turné</Dest>
+    </String>
+    <String List="0" sID="0021C9" Partial="1">
+      <EDID>DLC04MQ04_LvlRaiderSinnerGang</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sinner's Raider</Source>
+      <Dest>Hříšníkův nájezdník</Dest>
+    </String>
+    <String List="0" sID="0021CC" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Corin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Corin</Source>
+      <Dest>Corin</Dest>
+    </String>
+    <String List="0" sID="0021D0" Partial="1">
+      <EDID>DLC04MQ04RaiderAttackerDisable</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Quest to handle disabling raiders from failed Wipe Out quest</Source>
+      <Dest>Quest to handle disabling raiders from failed Wipe Out quest</Dest>
+    </String>
+    <String List="0" sID="0021D6" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Sykes</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sykes</Source>
+      <Dest>Sykes</Dest>
+    </String>
+    <String List="0" sID="0021E6" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="7">QUST:NNAM</REC>
+      <Source>Check in with your Gang at &lt;Alias=InitialRaiderSettlementLocation&gt;</Source>
+      <Dest>Zkontroluj svůj gang v osadě &lt;Alias=InitialRaiderSettlementLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="002219" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_PvtTyler</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Tyler</Source>
+      <Dest>Vojín Tyler</Dest>
+    </String>
+    <String List="0" sID="002230" Partial="1">
+      <EDID>DLC04MQ04_LvlRaiderPowerArmorSinnerGang</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sinner's Raider</Source>
+      <Dest>Hříšníkův nájezdník</Dest>
+    </String>
+    <String List="0" sID="002249" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Lucky</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lucky</Source>
+      <Dest>Štístko</Dest>
+    </String>
+    <String List="0" sID="002256" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_SgtMarcksCorpseHolotape</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sergeant Marcks</Source>
+      <Dest>Seržant Marcksová</Dest>
+    </String>
+    <String List="0" sID="00226E" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_IanCorpseHolotape</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ian</Source>
+      <Dest>Ian</Dest>
+    </String>
+    <String List="0" sID="002277" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Anise</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Anise</Source>
+      <Dest>Anise</Dest>
+    </String>
+    <String List="0" sID="0022BC" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Ophelia</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ophelia</Source>
+      <Dest>Ophelia</Dest>
+    </String>
+    <String List="0" sID="0022F8" Partial="1">
+      <EDID>DLC04MS01KeypadInterior</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Keypad</Source>
+      <Dest>Klávesnice</Dest>
+    </String>
+    <String List="0" sID="00266C" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="10">QUST:NNAM</REC>
+      <Source>(Optional) Speak to Shank to Run New Jobs</Source>
+      <Dest>(Nepovinné) Promluv si se Shankem kvůli novým úkolům</Dest>
+    </String>
+    <String List="0" sID="0026EE" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="2">QUST:NNAM</REC>
+      <Source>Equip the Cappy Glasses</Source>
+      <Dest>Nasaď si zátkové brýle</Dest>
+    </String>
+    <String List="0" sID="00273E" Partial="1">
+      <EDID>DLC04MQ04_RaiderOutpostTracker</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Establish Raider Outposts (&lt;Global=DLC04RaiderOutpostCount&gt;/&lt;Global=DLC04MQ04Warlord02Threshold&gt;) to Unlock Stores </Source>
+      <Dest>Zajisti nájezdnickou základnu (&lt;Global=DLC04RaiderOutpostCount&gt;/&lt;Global=DLC04MQ04Warlord02Threshold&gt;) k odemknutí obchodů</Dest>
+    </String>
+    <String List="0" sID="002740" Partial="1">
+      <EDID>DLC04MQ04_RaiderOutpostTracker</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Claiming the Commonwealth</Source>
+      <Dest>Nárokování Commonwealthu</Dest>
+    </String>
+    <String List="0" sID="00276D" Partial="1">
+      <EDID>DLC04MQ04_RaiderOutpostTracker</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Establish Raider Outposts (&lt;Global=DLC04RaiderOutpostCount&gt;/&lt;Global=DLC04MQ04Warlord03Threshold&gt;) to Unlock Tribute Chest</Source>
+      <Dest>Zajisti nájezdnickou základnu (&lt;Global=DLC04RaiderOutpostCount&gt;/&lt;Global=DLC04MQ04Warlord03Threshold&gt;) k odemknutí truhly s výpalným</Dest>
+    </String>
+    <String List="0" sID="002976" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageOverOr30</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Travel to Nuka-World</Source>
+      <Dest>Cestovat do Nuka-Worldu</Dest>
+    </String>
+    <String List="0" sID="002977" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageUnder30</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zrušit</Dest>
+    </String>
+    <String List="0" sID="002978" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageUnder30</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Travel to Nuka-World</Source>
+      <Dest>Cestovat do Nuka-Worldu</Dest>
+    </String>
+    <String List="0" sID="00297A" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageUnder30</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>All Aboard the Nuka-Express!</Source>
+      <Dest>Nastupovat do Nuka-Expresu!</Dest>
+    </String>
+    <String List="0" sID="00298B" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="3">TERM:BTXT</REC>
+      <Source>Transit Center Power Status:&#xD;
+Main Power: ***OFFLINE***&#xD;
+Emergency Power: ON&#xD;
+Auxiliary Power: ON&#xD;
+Railway Power: ON&#xD;
+&#xD;
+Please make a selection:&#xD;
+</Source>
+      <Dest>Stav napájení tranzitního střediska:&#xD;
+Hlavní rozvod: ***VYPNUTO***&#xD;
+Nouzové napájení: ZAPNUTO&#xD;
+Pomocné napájení: ZAPNUTO&#xD;
+Napájení železnice: ZAPNUTO&#xD;
+&#xD;
+Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="0029E1" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="2">TERM:BTXT</REC>
+      <Source>Transit Center Power Status:&#xD;
+Main Power: ***OFFLINE***&#xD;
+Emergency Power: ON&#xD;
+Auxiliary Power: ON&#xD;
+Railway Power: OFF&#xD;
+&#xD;
+Please make a selection:&#xD;
+</Source>
+      <Dest>Stav napájení tranzitního střediska:&#xD;
+Hlavní rozvod: ***VYPNUTO***&#xD;
+Nouzové napájení: ZAPNUTO&#xD;
+Pomocné napájení: ZAPNUTO&#xD;
+Napájení železnice: VYPNUTO&#xD;
+&#xD;
+Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="0029EA" Partial="1">
+      <EDID>DLC04MQ01GauntletCorpse_Crag</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crag</Source>
+      <Dest>Crag</Dest>
+    </String>
+    <String List="0" sID="002CF6" Partial="1">
+      <EDID>DLC04MQ01AniseNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Anise's Suicide Note</Source>
+      <Dest>Vzkaz k Anisině sebevraždě</Dest>
+    </String>
+    <String List="0" sID="002D12" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Entry 2</Source>
+      <Dest>Záznam 2</Dest>
+    </String>
+    <String List="0" sID="002D1C" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Entry 5</Source>
+      <Dest>Záznam 5</Dest>
+    </String>
+    <String List="0" sID="002D22" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Personal Log</Source>
+      <Dest>Osobní deník</Dest>
+    </String>
+    <String List="0" sID="002D29" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Going on a recon mission tomorrow, and I know there's gonna be fireworks. We've had enough Super Mutant reports to know we'll run into them. If a fight breaks out, it could be my chance to get away without question. They'll just assume I was taken and not worth recovering. &#xD;
+</Source>
+      <Dest>Chystáme se zítra na průzkumnou misi a já vím, že tam bude rušno. Obdrželi jsme dost hlášení o supermutantech, který tam pobíhají po okolí. Jestli vypukne boj, mohla by to být moje šance, jak se dostat pryč bez zbytečných otázek. Budou jen předpokládat, že jsem to dostal a je po mně.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="002D50" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Damn, thanks to some feral ghouls, I'm way further west than I want to be right now. Least my chance of crossing paths with any of my old crew are slim. This place doesn't look half bad, though. Could set up some decent defenses here. &#xD;
+&#xD;
+Shit, I just heard something. I thought this place was deserted, but sounds like someone calling for help. Guess I'll go check it out.&#xD;
+</Source>
+      <Dest>!Sakra, díky některým divokých ghúlové, že jsem způsob, jak dál na západ než Chci být právě teď. Alespoň moje šance na přechodech cest s některou z mé staré posádky jsou mizivé. Toto místo nevypadá tak špatně, ačkoli. Mohli byste nastavit nějaké slušné obranu zde.&#xD;
+&#xD;
+Sakra, právě jsem něco slyšel. Myslel jsem, že toto místo bylo opuštěné, ale zní jako někdo volá o pomoc. Že budu to prověřit.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="002D5E" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Entry 1</Source>
+      <Dest>Záznam 1</Dest>
+    </String>
+    <String List="0" sID="002D63" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Welcome back, Private Taylor.</Source>
+      <Dest>Vítejte zpátky, vojíne Taylorová.</Dest>
+    </String>
+    <String List="0" sID="002D68" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Personal Log</Source>
+      <Dest>Osobní záznam</Dest>
+    </String>
+    <String List="0" sID="002D70" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Hell yeah, I'm out. I holed up in some run down building on the far west side of the Commonwealth. Going to wait till it's dark to make my next move. Might even stay here a few days to see what I can salvage around here. I just gotta be sure to plot a course that avoids any Gunner territory.&#xD;
+</Source>
+      <Dest>!Sakra jo, jsem venku. zalezlý jsem v nějakém stékají domu na daleko západní straně Commonwealthu. Bude čekat, až se setmí, aby můj další krok. Dalo by se dokonce tu zůstat několik dní na to, co se dá zachránit tady. Já jen musím mít jistotu, aby pozemek kurz, který se vyhýbá jakékoliv území Ranařů.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="002DA1" Partial="1">
+      <EDID>DLC04MQ01SergeantMarcksHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Recon Log</Source>
+      <Dest>Záznam z průzkumu</Dest>
+    </String>
+    <String List="0" sID="002DB3" Partial="1">
+      <EDID>DLC04MQ01OpheliaNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Ophelia's Unsent Letter</Source>
+      <Dest>Opheliin neodeslaný dopis</Dest>
+    </String>
+    <String List="0" sID="002DE3" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Got up today to find out the Sarge had Davis killed last night. Heard it was for some backtalk comment he made the day before which is bullshit. This is exactly why I need to get out of here. I'll have to make sure I keep this holotape close, too. Bet they'd shoot me on the spot just for thinking about leaving.&#xD;
+</Source>
+      <Dest>!Vstal dnes zjistit Sarge měl Davis zabit minulou noc. Slyšel to bylo z nějakého backtalk komentář on dělal o den dříve, což je nesmysl. To je přesně důvod, proč musím odsud dostat. Budu muset ujistit, že jsem udržet tento holotape blízko taky. Vsadit, že by mě zastřelit na místě jen přemýšlet o odchodu.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="002DE4" Partial="1">
+      <EDID>DLC04MQ01SykesNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Sykes' Old Letter</Source>
+      <Dest>Sykesův starý dopis</Dest>
+    </String>
+    <String List="0" sID="002DEA" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Entry 4</Source>
+      <Dest>Záznam 4</Dest>
+    </String>
+    <String List="0" sID="002DF0" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Tired of running with the Gunners. I gotta get out of here. Sure it was all fun and exciting at first, but now that I'm older, I'm sick of always watching my back. I just want out. Maybe hole up in Goodneighbor for a while or try to get into Diamond City. Some place where I can at least sleep easy.&#xD;
+</Source>
+      <Dest>!Už jsem unavený pobíháním s Ranaři. Musím se odsud dostat. Jistě to bylo zábavné a vzrušující na první, ale teď, když jsem starší, jsem nemocný vždy sleduje záda. Já jen chci ven. Možná, že díru do Dobrého Sousedství na chvíli, nebo se snaží dostat do Diamond City. Nějaké místo, kde můžu aspoň spát snadné.&#xD;
+</Dest>
+    </String>
+    <String List="0" sID="002DFB" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Private Taylor's Personal Log</Source>
+      <Dest>Osobní záznamy vojína Taylorové</Dest>
+    </String>
+    <String List="0" sID="002E09" Partial="1">
+      <EDID>DLC04MQ01IanHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Ian's Holotape</Source>
+      <Dest>Ianova holopáska</Dest>
+    </String>
+    <String List="0" sID="002E0C" Partial="1">
+      <EDID>DLC04MQ01CorinNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Ramblings</Source>
+      <Dest>Bláboly</Dest>
+    </String>
+    <String List="0" sID="002E2D" Partial="1">
+      <EDID>DLC04MQ01PrivateTaylorHolotapeTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Entry 3</Source>
+      <Dest>Záznam 3</Dest>
+    </String>
+    <String List="0" sID="002FCE" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="5">QUST:NNAM</REC>
+      <Source>Discuss Problems at &lt;Alias=InitialRaiderSettlementLocation&gt; with Shank</Source>
+      <Dest>Promluv si se Shankem o problémech v osadě &lt;Alias=InitialRaiderSettlementLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="00308E" Partial="1">
+      <EDID>DLC04MQ05PowerPlantControlRoomKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Plant Control Room Key</Source>
+      <Dest>Klíč od řídicí místnosti závodu</Dest>
+    </String>
+    <String List="0" sID="0030A8" Partial="1">
+      <EDID>DLC04MQ04ShankFinalSceneOfferQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Handler quest to allow Shank to discuss MQ04 if Raid is running</Source>
+      <Dest>Handler quest to allow Shank to discuss MQ04 if Raid is running</Dest>
+    </String>
+    <String List="0" sID="00318A" Partial="1">
+      <EDID>DLC04MS01MiscObjectiveHolder</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Talk to Sierra Petrovita</Source>
+      <Dest>Promluv si se Sierrou Petrovitou</Dest>
+    </String>
+    <String List="0" sID="003270" Partial="1">
+      <EDID>DLC04MQ04TutorialQuest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>DLC04MQ04 Tutorial Quest</Source>
+      <Dest>DLC04MQ04 Tutorial Quest</Dest>
+    </String>
+    <String List="0" sID="00378D" Partial="1">
+      <EDID>DLC04MQ04_LvlRaiderPowerArmorSinnerGang</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Raider</Source>
+      <Dest>Nájezdník</Dest>
+    </String>
+    <String List="0" sID="003831" Partial="1">
+      <EDID>DLC04MQ04_LvlRaiderSinnerGang</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Raider</Source>
+      <Dest>Nájezdník</Dest>
+    </String>
+    <String List="0" sID="003938" Partial="1">
+      <EDID>DLC04MQ01CragNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Crag's Plan</Source>
+      <Dest>Cragův plán</Dest>
+    </String>
+    <String List="0" sID="003BBD" Partial="1">
+      <EDID>DLC04MQ00TransitCenter</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>[DLC04MQ00 - Transit Center Quest]</Source>
+      <Dest>[DLC04MQ00 - Transit Center Quest]</Dest>
+    </String>
+    <String List="0" sID="003D6A" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="12">QUST:NNAM</REC>
+      <Source>Explore the Vault</Source>
+      <Dest>Prozkoumej vault</Dest>
+    </String>
+    <String List="0" sID="003ED4" Partial="1">
+      <EDID>DLC04MQ05Cleanup</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Destroy enemy outposts (&lt;Global=DLC04MQ05CleanupCount&gt;/&lt;Global=DLC04MQ05CleanupTotal&gt;)</Source>
+      <Dest>Znič nepřátelské základny (&lt;Global=DLC04MQ05CleanupCount&gt;/&lt;Global=DLC04MQ05CleanupTotal&gt;)</Dest>
+    </String>
+    <String List="0" sID="003F56" Partial="1">
+      <EDID>DLC04MQ05Cleanup</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Cleaning House</Source>
+      <Dest>Čištění domu</Dest>
+    </String>
+    <String List="0" sID="003F6D" Partial="1">
+      <EDID>DLC04MQ02_OperatorIntroScene</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Intro Scene for the Operators</Source>
+      <Dest>Intro Scene for the Operators</Dest>
+    </String>
+    <String List="0" sID="004019" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="13">QUST:NNAM</REC>
+      <Source>Establish Raider Outposts (&lt;Global=DLC04MQ04FinalOutpostsCount&gt;/3)</Source>
+      <Dest>Zajisti nájezdnickou základnu (&lt;Global=DLC04MQ04FinalOutpostsCount&gt;/ 3)</Dest>
+    </String>
+    <String List="0" sID="004186" Partial="1">
+      <EDID>DLC04MQ05WeatherRelease</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Weather Release for DLC04MQ05</Source>
+      <Dest>Weather Release for DLC04MQ05</Dest>
+    </String>
+    <String List="0" sID="0043FB" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>STATUS: CLOSED&#xD;
+Entered By: P. Reading&#xD;
+Monorail door is not closing completely. Remains slightly ajar.&#xD;
+&#xD;
+Assigned To: J. Crosby&#xD;
+Lining was old and had fallen out of place, preventing the door from closing. Stripped out and replaced.</Source>
+      <Dest>!Stav: Zavřeno&#xD;
+Vložil: P. Reading&#xD;
+jednokolejné dveře nezavírá úplně. Zůstává pootevřené.&#xD;
+&#xD;
+Přiřazen: J. Crosby&#xD;
+podšívka byl starý a spadl z místa, které zabrání zavírání dvířek. Svlékl a nahrazena.</Dest>
+    </String>
+    <String List="0" sID="004403" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Nuka-Cola Corporation</Source>
+      <Dest>Majetek společnosti Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="004404" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Maintenance Requests</Source>
+      <Dest>Požadavky na údržbu</Dest>
+    </String>
+    <String List="0" sID="004405" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>STATUS: CLOSED&#xD;
+Entered By: K. O'Rourke&#xD;
+More gum blocking the water fountain nozzle.&#xD;
+&#xD;
+Assigned To: G. Mackey&#xD;
+Removed vile blockage yet again. Seriously, this kid is going down. Did a little Protectron programming to keep a special eye out for this one.</Source>
+      <Dest>!Stav: Zavřeno&#xD;
+Vložil: K. O'Rourke&#xD;
+Více guma blokující vodní fontány trysky.&#xD;
+&#xD;
+Přiřazen: G. Mackey&#xD;
+Odstraněna odpornou ucpání ještě jednou. Vážně, ten kluk se děje dole. Udělal trochu programování Protektron udržovat zvláštní pozor na tento jeden.</Dest>
+    </String>
+    <String List="0" sID="004406" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Please make a selection:</Source>
+      <Dest>Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="00440A" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Monorail Schedule</Source>
+      <Dest>Harmonogram jednokolejky</Dest>
+    </String>
+    <String List="0" sID="00440C" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Nuka-Cola Corporation</Source>
+      <Dest>Majetek společnosti Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="00440D" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Employee Notifications</Source>
+      <Dest>Zaměstnanecká oznámení</Dest>
+    </String>
+    <String List="0" sID="00440E" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>10/02/77 - Clogged Water Fountain</Source>
+      <Dest>02.10.77 - Ucpaná vodní fontána</Dest>
+    </String>
+    <String List="0" sID="004410" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Nuka-Express Operations Control</Source>
+      <Dest>Obsluha řízení Nuka-Expressu</Dest>
+    </String>
+    <String List="0" sID="004412" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>10/02/77 - Updated Schedule for Fall</Source>
+      <Dest>02.10.77 - Aktualizovaný harmonogram pro podzim</Dest>
+    </String>
+    <String List="0" sID="004413" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>10/16/77 - Employee Termination</Source>
+      <Dest>16.10.77 - Bývalý zaměstnanec</Dest>
+    </String>
+    <String List="0" sID="004414" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Nuka-Express Control Terminal</Source>
+      <Dest>Ovládací terminál Nuka-Expresu</Dest>
+    </String>
+    <String List="0" sID="004417" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Nuka-Express Operations Control</Source>
+      <Dest>Obsluha řízení Nuka-Expressu</Dest>
+    </String>
+    <String List="0" sID="004419" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>10/13/77 - Unresponsive Protectron</Source>
+      <Dest>13.10.77 - Nereagující protektron</Dest>
+    </String>
+    <String List="0" sID="00441D" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Nuka-Express Operations Control</Source>
+      <Dest>Obsluha řízení Nuka-Expressu</Dest>
+    </String>
+    <String List="0" sID="004420" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Nuka-Express Control Terminal</Source>
+      <Dest>Ovládací terminál Nuka-Expresu</Dest>
+    </String>
+    <String List="0" sID="004422" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Power Grid Management</Source>
+      <Dest>Řízení rozvodné sítě</Dest>
+    </String>
+    <String List="0" sID="004424" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>10/15/77 - Clogged Water Fountain</Source>
+      <Dest>15.10.77 - Ucpaná vodní fontána</Dest>
+    </String>
+    <String List="0" sID="004425" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>STATUS: CLOSED&#xD;
+Entered By: K. O'Rourke&#xD;
+Some kid shoved gum down the water fountain nozzle again. &#xD;
+&#xD;
+Assigned To: G. Mackey&#xD;
+Removed disgusting, fluorescent green gum from nozzle. Recommend surveillance to hunt down and punish repeat offender. Permanent ban from park would be ideal. This is the sixth time.</Source>
+      <Dest>!Stav: Zavřeno&#xD;
+Vložil: K. O'Rourke&#xD;
+nějaký kluk strčil žvýkačku dolů plnicí trysku vody znovu.&#xD;
+&#xD;
+Přiřazen: G. Mackey&#xD;
+Odebraná nechutný, fluorescenční zelené žvýkačky z trysky. Doporučujeme dohled tak, aby dopadnout a potrestat pachatele opakování. Trvalý zákaz od parku by bylo ideální. Jedná se o šestý čas.</Dest>
+    </String>
+    <String List="0" sID="004428" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>To All Employees:&#xD;
+&#xD;
+The Nuka-Cola Corporation is currently investigating former employee Gordon Mackey after a Protectron malfunction that resulted in injury to a child. Please do not discuss this matter with anyone outside of the company.&#xD;
+&#xD;
+- Management</Source>
+      <Dest>Všem zaměstnancům:&#xD;
+&#xD;
+Společnost Nuka-Cola v současné době vyšetřuje bývalého zaměstnance Gordona Mackeye za selhání protektrona, které vyústilo ve zranění dítěte. Prosím, neprojednávejte tuto záležitost s nikým mimo společnost.&#xD;
+&#xD;
+- Vedení</Dest>
+    </String>
+    <String List="0" sID="00442F" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>STATUS: CLOSED&#xD;
+Entered By: P. Reading&#xD;
+Announcements over PA are stuck on the same announcement about Nuka-Cola Dark.&#xD;
+&#xD;
+Assigned To: G. Mackey&#xD;
+Rebooted horribly wretched announcement system. Recommend a punishment of death for its detestable creator. I am free on Saturday if someone wants to put together a firing squad.</Source>
+      <Dest>!Stav: Zavřeno&#xD;
+Vložil: P. Reading&#xD;
+Oznámení přes PA jsou přilepená na stejném oznámení o Nuka-Cola Dark.&#xD;
+&#xD;
+Přiřazen: G. Mackey&#xD;
+restartován strašně ubohé rozhlasu. Doporučí trest smrti pro jeho odporného tvůrce. Jsem volný v sobotu pokud někdo chce dát dohromady popravčí četu.</Dest>
+    </String>
+    <String List="0" sID="004432" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Service With A Smile!</Source>
+      <Dest>Servis s úsměvem!</Dest>
+    </String>
+    <String List="0" sID="004434" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>To All Employees:&#xD;
+&#xD;
+The Nuka-Cola Corporation is determined to deliver the best possible customer experience available. The first Nuka-World representatives our valuable customers will encounter are here at the Transit Center. Therefore, Transit Center employees are expected to be helpful and appear happy at all times. &#xD;
+&#xD;
+As a reminder, this is part of your job description. Failure to comply will result in termination without notice.&#xD;
+&#xD;
+- Management</Source>
+      <Dest>Všem zaměstnancům:&#xD;
+&#xD;
+Společnost Nuka-Cola je odhodlaná k zajištění nejlepšího možného zákaznického zážitku. K prvnímu kontaktu zástupců Nuka-Worldu s našimi ceněnými zákazníky dochází zde v tranzitním středisku. Proto se od zaměstnanců tranzitního střediska očekává, že se budou tvářit spokojeně a budou nápomocni za všech okolností.&#xD;
+&#xD;
+Připomínáme, že je to součástí vašeho popisu práce. Nedodržení bude mít za následek ukončení bez předchozího upozornění.&#xD;
+&#xD;
+- Vedení</Dest>
+    </String>
+    <String List="0" sID="004437" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Please make a selection:</Source>
+      <Dest>Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="004438" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Notifications</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>To All Employees:&#xD;
+&#xD;
+Please note that the schedule has been updated for the month of October. This is our final month of the season, so let's make it count! &#xD;
+&#xD;
+- Management</Source>
+      <Dest>Všem zaměstnancům:&#xD;
+&#xD;
+Upozorňujeme, že byl aktualizován plán pro měsíc říjen. To je náš poslední měsíc sezóny, takže to pojďme rozjet!&#xD;
+&#xD;
+- Vedení</Dest>
+    </String>
+    <String List="0" sID="00443B" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC>TERM:BTXT</REC>
+      <Source>Please make a selection:</Source>
+      <Dest>Prosím, vyberte:</Dest>
+    </String>
+    <String List="0" sID="00443D" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Nuka-Express Control Terminal</Source>
+      <Dest>Ovládací terminál Nuka-Expresu</Dest>
+    </String>
+    <String List="0" sID="00443F" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>10/07/77 - Announcements Repeating</Source>
+      <Dest>07.10.77 - Opakované oznámení</Dest>
+    </String>
+    <String List="0" sID="004440" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC>TERM:UNAM</REC>
+      <Source>The Nuka-Express is expected to run every 15 minutes. This system automatically notifies corporate of all unauthorized delays.&#xD;
+&#xD;
+Sunday - Thursday&#xD;
+- 6:00 am thru 9:30 am: Employees only. &#xD;
+- 9:45 am thru 11:55 pm: All traffic allowed.&#xD;
+- 12:00 am: Closed&#xD;
+&#xD;
+Friday - Saturday&#xD;
+- 6:00 am thru 8:30 am: Employees only. &#xD;
+- 8:45 am thru 11:55 pm: All traffic allowed.&#xD;
+- 12:00 am: Closed</Source>
+      <Dest>Nuka-Express se očekává každých 15 minut. Tento systém automaticky upozorní korporaci na všechna neoprávněná zdržení.&#xD;
+&#xD;
+Neděle - Čtvrtek&#xD;
+- od 06:00 do 09:30 : pouze zaměstnanci&#xD;
+- od 09:45 do 11:55 : povolen veškerý provoz&#xD;
+- od 12:00 do 05:55 : zavřeno&#xD;
+&#xD;
+Pátek - Sobota&#xD;
+- od 06:00 do 08:30 : pouze zaměstnanci&#xD;
+- od 08:45 do 11:55 : povolen veškerý provoz&#xD;
+- od 12:00 do 05:55 : zavřeno</Dest>
+    </String>
+    <String List="0" sID="004443" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>STATUS: CLOSED&#xD;
+Entered By: K. O'Rourke&#xD;
+One of the Protectrons is completely unresponsive. It's frozen at the bottom of the escalator and blocking pedestrian traffic.&#xD;
+&#xD;
+Assigned To: G. Mackey&#xD;
+Today's lesson, Protectrons need to be returned to their pods every evening. Recommend hiring some competent people to run the Transit Center and not just handing over the job to some kid whose daddy works for sales.</Source>
+      <Dest>!Stav: Zavřeno&#xD;
+Vložil: K. O'Rourke&#xD;
+Jedním z Protektrons vůbec neodpovídá. To je uložen na spodní části eskalátoru a blokování chodců.&#xD;
+&#xD;
+Přiřazen: G. Mackey&#xD;
+dnešní lekci Protektrons je třeba se vrátili do svých lusky každý večer. Doporučovat přijímání nějaké schopné lidi ke spuštění Transit Center a ne jen předání práci do jisté dítě, jehož táta pracuje pro přímý prodej.</Dest>
+    </String>
+    <String List="0" sID="004444" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Maintenance</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>10/22/77 - Monorail Door Ajar</Source>
+      <Dest>22.10.77 - Pootevřená dvířka jednokolejky</Dest>
+    </String>
+    <String List="0" sID="004447" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Nuka-Cola Corporation</Source>
+      <Dest>Majetek společnosti Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="00477F" Partial="1">
+      <EDID>DLC04MS01_NukaColaFormula</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Nuka-Cola Formula</Source>
+      <Dest>Receptura na Nuka-Colu</Dest>
+    </String>
+    <String List="0" sID="0048EB" Partial="1">
+      <EDID>DLC04MQ00ControlTerminal_Power</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zrušit</Dest>
+    </String>
+    <String List="0" sID="004AA6" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="2">TERM:ITXT</REC>
+      <Source>Kiddie Kingdom Hints</Source>
+      <Dest>Tipy pro Dětské království</Dest>
+    </String>
+    <String List="0" sID="004AA8" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="3">TERM:ITXT</REC>
+      <Source>Nuka-Town U.S.A. Hint</Source>
+      <Dest>Tip pro Nuka-Town USA</Dest>
+    </String>
+    <String List="0" sID="004AA9" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="5">TERM:ITXT</REC>
+      <Source>Safari Adventure Hints</Source>
+      <Dest>Tipy pro Safari dobrodružství</Dest>
+    </String>
+    <String List="0" sID="004AAA" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC>TERM:NAM0</REC>
+      <Source>Property of the Nuka-Cola Corporation</Source>
+      <Dest>Majetek společnosti Nuka-Cola</Dest>
+    </String>
+    <String List="0" sID="004AAB" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="1">TERM:ITXT</REC>
+      <Source>Galactic Zone Hints</Source>
+      <Dest>Tipy pro Galaktickou zónu</Dest>
+    </String>
+    <String List="0" sID="004AAC" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="0">TERM:ITXT</REC>
+      <Source>Dry Rock Gulch Hints</Source>
+      <Dest>Tipy pro Vyprahlou Rokli</Dest>
+    </String>
+    <String List="0" sID="004AAE" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="5">TERM:UNAM</REC>
+      <Source>Safari Adventure Hints&#xD;
+&#xD;
+Enter the hedges and join the new craze! Find your next Cappy somewhere in the maze.&#xD;
+&#xD;
+It's no monkey business where this Cappy waits. An animal statue is his hiding place.</Source>
+      <Dest>!Tipy pro Safari dobrodružství&#xD;
+&#xD;
+Vstup do živých plotů a vstoupit do nové mánii! Najděte si svůj příští Cappy někde v bludišti.&#xD;
+&#xD;
+Není to lumpárna, kde tato Cappy čeká. Zvíře socha je jeho úkryt.</Dest>
+    </String>
+    <String List="0" sID="004AAF" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="4">TERM:ITXT</REC>
+      <Source>Nuka-World Bottling Plant Hints</Source>
+      <Dest>Tip pro Nuka-World stáčírnu</Dest>
+    </String>
+    <String List="0" sID="004AB3" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC>TERM:WNAM</REC>
+      <Source>Find the Hidden Cappys!</Source>
+      <Dest>Najdi Skryté Zátky!</Dest>
+    </String>
+    <String List="0" sID="004AB6" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Hidden Cappy Contest Hints</Source>
+      <Dest>Tipy k soutěži Skrytá zátka</Dest>
+    </String>
+    <String List="0" sID="004AB8" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="1">TERM:UNAM</REC>
+      <Source>Galactic Zone Hints&#xD;
+&#xD;
+Walk through the stars, and then look around. Your happy friend Cappy is sure to be found!&#xD;
+&#xD;
+A great space adventure is waiting for you, and under the Starport, a Cappy is, too!</Source>
+      <Dest>!Tipy pro Galaktickou zónu&#xD;
+&#xD;
+Procházka hvězd, a pak se podívejte kolem sebe. Váš spokojený kamarád Cappy je určitě najdete!&#xD;
+&#xD;
+velký prostor dobrodružství na vás čeká, a pod STARPORT, je Cappy je, taky!</Dest>
+    </String>
+    <String List="0" sID="004AB9" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="2">TERM:UNAM</REC>
+      <Source>Kiddie Kingdom Hints&#xD;
+&#xD;
+Cappy likes hiding up top near the sky, so head for the castle and search way up high!&#xD;
+&#xD;
+Keeping your feet on the spinning floor could make it a challenge to find the right door.</Source>
+      <Dest>!Tipy pro Dětské království&#xD;
+&#xD;
+Cappy rád schovává do vrchu u obloze, takže hlava pro hrad a hledat způsob, jak vysoko!&#xD;
+&#xD;
+Udržet si nohy na podlaze předení to výzva najít správnou dveře mohl dělat.</Dest>
+    </String>
+    <String List="0" sID="004ABF" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="0">TERM:UNAM</REC>
+      <Source>Dry Rock Gulch Hints&#xD;
+&#xD;
+This Hidden Cappy is close to the ground. Look in the place where tombstones are found.&#xD;
+&#xD;
+To find the next Cappy, you'll have to be bold and search where Mad Mulligan pans for gold.</Source>
+      <Dest>!Tipy pro Vyprahlou Rokli&#xD;
+&#xD;
+To Hidden Cappy se blíží k zemi. Podívejte se v místě, kde se nacházejí náhrobky.&#xD;
+&#xD;
+najít další Cappy, budete muset být odvážný a hledat, kde pánve Šílenýho Mulligana na zlato.</Dest>
+    </String>
+    <String List="0" sID="004AC4" Partial="1">
+      <EDID>DLC04MS01HiddenCappyCluesHolotape</EDID>
+      <REC>NOTE:FULL</REC>
+      <Source>Hidden Cappy Contest Hints</Source>
+      <Dest>Tipy k soutěži Skrytá zátka</Dest>
+    </String>
+    <String List="0" sID="004AC5" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="3">TERM:UNAM</REC>
+      <Source>Nuka-Town U.S.A. Hint&#xD;
+&#xD;
+Down near the bottom of Fizztop Mountain, Cappy's enjoying a view of the fountain.</Source>
+      <Dest>!Tip pro Nuka-Town USA&#xD;
+&#xD;
+dolů v dolní části Šumící hory, Cappy se těší výhled na fontány.</Dest>
+    </String>
+    <String List="0" sID="004AC8" Partial="1">
+      <EDID>DLC04MS01HiddenCappyHintsTerminal</EDID>
+      <REC id="4">TERM:UNAM</REC>
+      <Source>Nuka-World Bottling Plant Hint&#xD;
+&#xD;
+Row down the river and see the old west where Cappy is hiding. Can you pass his test?&#xD;
+&#xD;
+&#xD;
+&#xD;
+</Source>
+      <Dest>!Tip pro Nuka-World stáčírnu&#xD;
+&#xD;
+Row po řece a vidět na Divokého západu, kde se skrývá Cappy. Můžete předat svou zkoušku?&#xD;
+&#xD;
+&#xD;
+ &#xD;
+</Dest>
+    </String>
+    <String List="1" sID="000031" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>My Pip-Boy picked up a new radio frequency. I should tune in and see what it might be.</Source>
+      <Dest>Můj Pip-Boy nalezl novou rádiovou frekvenci. Musím ji naladit a zjistit, co by to mohlo být.</Dest>
+    </String>
+    <String List="1" sID="00009C" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>I tuned into an old Nuka-Cola family radio station on my Pip-Boy. It was looping a jingle and advertisement for a place called Nuka-World. The broadcast mentioned a Nuka-World Transit Center with transportation to take me there. I should find it and see if I can still reach the amusement park.</Source>
+      <Dest>Po naladění staré rodinné rozhlasové stanice Nuka-Cola na mém Pip-Boyovi zazněla znělka a reklama na místo zvané Nuka-World. Vysílání se zmínilo o tranzitním středisku Nuka-Worldu s dopravou, která by mě tam mohla vzít. Musím ho najít a zjistit, jestli se ještě můžu do zábavního parku dostat.</Dest>
+    </String>
+    <String List="1" sID="0000BE" Partial="1">
+      <EDID>DLC04MQ00RadioDisplay</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Nuka-Cola Family Radio</Source>
+      <Dest>Nuka-Cola rodinné rádio</Dest>
+    </String>
+    <String List="1" sID="0000C1" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageOverOr30</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Leave the Commonwealth?</Source>
+      <Dest>Opustit Commonwealth?</Dest>
+    </String>
+    <String List="1" sID="0000DB" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="7">QUST:CNAM</REC>
+      <Source>I've restored power to the Nuka-Express. Now I can take the monorail to Nuka-World, and see if I can finally find out what's going on.</Source>
+      <Dest>Po obnově energie do Nuka-Expresu se nyní mohu přepravit jednokolejkou do Nuka-Worldu a uvidím, jestli konečně zjistím, co se děje.</Dest>
+    </String>
+    <String List="1" sID="0000F4" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>When arriving at the Nuka-World Transit Center, I came across an injured man. I should speak to him and find out what happened.</Source>
+      <Dest>Při příchodu do tranzitního střediska Nuka-Worldu se mi podařilo narazit na zraněného muže. Musím si s ním mluvit a zjistit, co se stalo.</Dest>
+    </String>
+    <String List="1" sID="000100" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="4">QUST:CNAM</REC>
+      <Source>I met a man named Harvey after arriving at the Nuka-World Transit Center. He asked me to save his family from a small group of Raiders at Nuka-World. If I want to help him, I need to find the control terminal to restore power to the Nuka-Express. Then I can take the monorail to the amusement park.</Source>
+      <Dest>Při příchodu do tranzitního střediska Nuka-Worldu mě muž jménem Harvey požádal, ať zachráním jeho rodinu od malé skupiny nájezdníků z Nuka-Worldu. Pokud mu chci pomoci, musím najít ovládací terminál pro obnovení energie do Nuka-Expresu. A pak to vzít jednokolejkou do zábavního parku.</Dest>
+    </String>
+    <String List="1" sID="000BC4" Partial="1">
+      <EDID>DLC04MS01Flyer</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&#xD;
+</Source>
+      <Dest>&#xD;
+</Dest>
+    </String>
+    <String List="1" sID="000CC6" Partial="1">
+      <EDID>DLC04MS01CappyClue_BP_R</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>R</Source>
+      <Dest>R</Dest>
+    </String>
+    <String List="1" sID="000CE2" Partial="1">
+      <EDID>DLC04MS01CappyClue_NTU_G</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>G</Source>
+      <Dest>G</Dest>
+    </String>
+    <String List="1" sID="000CF1" Partial="1">
+      <EDID>DLC04MS01CappyClue_GZ1_R</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>R</Source>
+      <Dest>R</Dest>
+    </String>
+    <String List="1" sID="000CF2" Partial="1">
+      <EDID>DLC04MS01CappyClue_DG1_E</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>E</Source>
+      <Dest>E</Dest>
+    </String>
+    <String List="1" sID="000D1B" Partial="1">
+      <EDID>DLC04MS01CappyClue_GZ2_S</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>S</Source>
+      <Dest>S</Dest>
+    </String>
+    <String List="1" sID="000D24" Partial="1">
+      <EDID>DLC04MS01CappyClue_DG2_H</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>H</Source>
+      <Dest>H</Dest>
+    </String>
+    <String List="1" sID="000D31" Partial="1">
+      <EDID>DLC04MS01CappyClue_SA1_N</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>N</Source>
+      <Dest>N</Dest>
+    </String>
+    <String List="1" sID="000D39" Partial="1">
+      <EDID>DLC04MS01CappyClue_KK2_I</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>I</Source>
+      <Dest>I</Dest>
+    </String>
+    <String List="1" sID="000D3A" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Sierra Petrovita asked for my help in finding 10 Hidden Cappy images in the park. Each one has part of a code she needs to access the office of John-Caleb Bradberton, the inventor of Nuka-Cola. I need to wear the Cappy glasses Sierra gave me in order to see the Hidden Cappy codes.</Source>
+      <Dest>!Sierra Petrovita požádal mě o pomoc při hledání skrytých 10 Cappy obrazy v parku. Každý z nich má část kódu ona potřebuje pro přístup k funkci John-Caleb Bradberton, vynálezce Nuka-Cola. Musím nosit brýle Cappy Sierra mi dal, aby bylo vidět kódy skryté Cappy.</Dest>
+    </String>
+    <String List="1" sID="000D3B" Partial="1">
+      <EDID>DLC04MS01CappyClue_KK1_F</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>F</Source>
+      <Dest>F</Dest>
+    </String>
+    <String List="1" sID="000D46" Partial="1">
+      <EDID>DLC04MS01CappyClue_SA2_E</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>E</Source>
+      <Dest>E</Dest>
+    </String>
+    <String List="1" sID="000E7B" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Now that Nuka-World is fully controlled by my gangs, I should return to Gage and seek his advice.</Source>
+      <Dest>Nyní, když je Nuka-World plně řízen mými gangy, musím se vrátit ke Gagemu a vyhledat jeho radu.</Dest>
+    </String>
+    <String List="1" sID="000EBD" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>Gage has suggested that we expand our gang influence into the Commonwealth. In order to do so, he's pointed me to one of his contacts, another raider he calls Shank.</Source>
+      <Dest>!Gage navrhl, že bychom rozšířit náš gang vliv v Commonwealthu. Za tímto účelem se tak, že mě upozornil na jednu ze svých kontaktů, což je další nájezdník jménem Shank.</Dest>
+    </String>
+    <String List="1" sID="000EF5" Partial="1">
+      <EDID>DLC04MQ03</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>To expand the territory for my gangs, I need to secure all of the parks beyond the walls of Nuka-Town U.S.A. and then choose which gangs will occupy the areas permanently.</Source>
+      <Dest>!Chcete-li rozšířit na území, pro mé gangy, musím zabezpečit všechny parků za zdmi Nuka-město USA a pak vybrat, které gangy obsadí oblasti trvale.</Dest>
+    </String>
+    <String List="1" sID="000FA0" Partial="1">
+      <EDID>DLC04MQ00KaylorOrders</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Commander Kaylor,&#xD;
+Your orders are to investigate the Nuka-Cola Family Radio signal that appeared today. Our intel has determined it's coming from the Nuka-World Transit Center, and we've reason to believe it may be linked to Sergeant Lanier's missing recon team. Your primary objective is to secure the surrounding location and report back to me. You'll then receive further instructions based on your status report. &#xD;
+- Colonel Cypress</Source>
+      <Dest>Veliteli Kaylore,&#xD;
+Vaše rozkazy jsou vyšetřovat signál rodinného Rádia Nuka-Cola, které se dnes objevily. Naše rozvědka určila že signál přichází z tranzitního střediska Nuka-Worldu a máme důvod se domnívat, že může být propojen s chybějícím průzkumným týmem seržanta Lanierové. Vaším hlavním cílem je zajistit okolní místo a podat mi hlášení. Poté obdržíte další pokyny na základě vašeho hlášení. &#xD;
+- plukovník Cypress</Dest>
+    </String>
+    <String List="1" sID="0012CF" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>After I killed a man at the Nuka-World Transit Center, a voice came over a speaker system, making me an offer to travel to Nuka-World. He said I should be able to retrieve the password to power up the Nuka-Express on the dead man's body.</Source>
+      <Dest>Po zabití člověka v tranzitním středisku Nuka-Worldu, zazněl v interkomu hlas, který mi nabídl možnost cestovat do Nuka-Worldu. Říkal, že ale musím získat heslo k zapnutí Nuka-Expresu z těla mrtvého muže.</Dest>
+    </String>
+    <String List="1" sID="001329" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="6">QUST:CNAM</REC>
+      <Source>After I killed a man at the Nuka-World Transit Center, a voice came over a speaker system, making me an offer to travel to Nuka-World. He said I should use the password I took off the dead man to unlock the control terminal and power up the Nuka-Express.</Source>
+      <Dest>Po zabití člověka v tranzitním středisku Nuka-Worldu, zazněl v interkomu hlas, který mi nabídl možnost cestovat do Nuka-Worldu. Říkal, ať použiji heslo, které mám z mrtvého muže, odemknu ovládací terminál a zapnu Nuka-Express.</Dest>
+    </String>
+    <String List="1" sID="001343" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="8">QUST:CNAM</REC>
+      <Source>I've restored power to the Nuka-Express. Now I need to take the monorail to Nuka-World, and see what these Raiders have to offer.</Source>
+      <Dest>Podařilo se mi obnovit energii do Nuka-Expresu. Teď musím jet jednokolejkou do Nuka-Worldu, a tam se uvidí, co mi tihle nájezdníci nabídnou.</Dest>
+    </String>
+    <String List="1" sID="001EE3" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="11">QUST:CNAM</REC>
+      <Source>Gage has told me that even though we've established our presence, there's plenty of caps out there just waiting to be taken, and as long as I keep bringing them in, the gangs will always have my back.</Source>
+      <Dest>!Gage mi řekl, že i když jsme založili naši přítomnost, je tu spousta zátek tam jen čekají na to být přijata, a tak dlouho, jak jsem se držet jejich uvedení do budou gangy mít vždy zády.</Dest>
+    </String>
+    <String List="1" sID="001EE7" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="9">QUST:CNAM</REC>
+      <Source>Mason has been killed. I should retrieve the key to the control room from his body.</Source>
+      <Dest>Mason byl zabit. Musím získat klíč k velínu z jeho těla.</Dest>
+    </String>
+    <String List="1" sID="001EEF" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="8">QUST:CNAM</REC>
+      <Source>Mags and William have both been killed. I should retrieve the key to the control room from Mag's body.</Source>
+      <Dest>Mags a William byli oba zabiti. Musím získat klíč k velínu z těla Mags.</Dest>
+    </String>
+    <String List="1" sID="001F07" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="7">QUST:CNAM</REC>
+      <Source>Nisha has been killed. I should retrieve the key to the control room from her body.</Source>
+      <Dest>Nisha byla zabita. Musím získat klíč k velínu z jejího těla.</Dest>
+    </String>
+    <String List="1" sID="001F3C" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>Now that I've established a proper foothold in the Commonwealth, I should return to Shank to discuss our next move.</Source>
+      <Dest>Teď, když je v Commonwealthu založena řádná opora, musím se vrátit k Shankovi a prodiskutovat další krok.</Dest>
+    </String>
+    <String List="1" sID="001FEA" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="5">QUST:CNAM</REC>
+      <Source>The decision is unanimous... leaving Mags and William in control of the Power Plant is unacceptable. I have no choice but to hunt them down and kill them. It's time to put and end to the Operators.</Source>
+      <Dest>!Toto rozhodnutí je zajedno... odcházející časopisů a William pod kontrolou elektrárny je nepřijatelné. Nemám jinou možnost, než jim dopadnout a zabít. Je na čase, aby i na konci Provozáky.</Dest>
+    </String>
+    <String List="1" sID="002005" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="6">QUST:CNAM</REC>
+      <Source>The decision is unanimous... leaving Mason in control of the Power Plant is unacceptable. I have no choice but to hunt him down and kill him. It's time to put and end to the Pack.</Source>
+      <Dest>!Toto rozhodnutí je zajedno ... opouštět Masonovi pod kontrolou elektrárny je nepřijatelné. Nemám jinou možnost, než ho dopadnout a zabít ho. Je na čase, aby i na konci Šelem.</Dest>
+    </String>
+    <String List="1" sID="002087" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="4">QUST:CNAM</REC>
+      <Source>The decision is unanimous... leaving Nisha in control of the Power Plant is unacceptable. I have no choice but to hunt her down and kill her. It's time to put and end to the Disciples.</Source>
+      <Dest>!Toto rozhodnutí je zajedno ... opouštět Nisha pod kontrolou elektrárny je nepřijatelné. Nemám jinou možnost, než ji dopadnout a zabít ji. Je na čase, aby i na konci Stoupenců.</Dest>
+    </String>
+    <String List="1" sID="0020C7" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Shank has informed me that Nisha has betrayed us, and used the Disciples to  capture Nuka-World's Power Plant. I should meet with Mags, William and Mason so I can decide how to proceed.</Source>
+      <Dest>Shank mě informoval, že Nisha nás zradila a použla Stoupence k obsazení Nuka-World elektrárny. Mám se setkat s Mags, Williamem a Masonem a rozhodnout, jak postupovat dál.</Dest>
+    </String>
+    <String List="1" sID="0020F4" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="10">QUST:CNAM</REC>
+      <Source>With the parks fully under our control, and our presence firmly established in the Commonwealth, it's time to switch on the power to Nuka-World and let the world know that our gangs are here to stay.</Source>
+      <Dest>S parky plně pod mou kontrolou a mou neochvějnou pozicí v Commonwealthu, je čas na zapnutí napájení Nuka-Worldu, a dát tak vědět světu, že zde sídlí mé gangy.</Dest>
+    </String>
+    <String List="1" sID="002109" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>Shank has informed me that Mason has betrayed us, and used the Pack to capture Nuka-World's Power Plant. I should meet with Nisha, Mags and William so I can decide how to proceed.</Source>
+      <Dest>Shank mě informoval, že Mason nás zradil a použil Šelmy k ovládnutí Nuka-World elektrárny. Mám se setkat s Nishou, Mags a Williamem a rozhodnout, jak postupovat dál.</Dest>
+    </String>
+    <String List="1" sID="00213F" Partial="1">
+      <EDID>DLC04MQ05</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>Shank has informed me that Mags and William have betrayed us, and used the Operators to capture Nuka-World's Power Plant. I should meet with Nisha and Mason so I can decide how to proceed.</Source>
+      <Dest>Shank mě informoval, že Mags a William nás zradili a používají Provozáky k obsazení Nuka-World elektrárny. Mám se setkat s Nishou a Masonem a rozhodnout, jak postupovat dál.</Dest>
+    </String>
+    <String List="1" sID="00297B" Partial="1">
+      <EDID>DLC04MQ00NukaExpressControlMessageUnder30</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Leave the Commonwealth?&#xD;
+(Nuka-World is recommended for level 30+)</Source>
+      <Dest>Opustit Commonwealth?&#xD;
+(Nuka-World se doporučuje pro úroveň 30+)</Dest>
+    </String>
+    <String List="1" sID="0029F8" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World to find the original Nuka-Cola formula. I searched for hidden clues in the park as part of an old contest that can get us inside the office of John-Caleb Bradberton, the inventor of Nuka-Cola.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Začalo tak hledání skrytých vodítek v parku jako součást staré soutěže, které nás mohou dostat dovnitř kanceláří Johna-Caleba Bradbertona, vynálezce Nuka-Coly.</Dest>
+    </String>
+    <String List="1" sID="0029FC" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find something important. In order to earn her trust and learn what she's looking for, I agreed to let her give me a tour of Nuka-Town USA.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt něco důležitého. Chci-li získat její důvěru a dozvědět se, co hledá, nezbylo mi než souhlasit s tím, že mě provede po Nuka-Town USA.</Dest>
+    </String>
+    <String List="1" sID="0029FF" Partial="1">
+      <EDID>DLC04MS01MiscObjectiveHolder</EDID>
+      <REC>QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find something important. In order to earn her trust and learn what she's looking for, I agreed to get her a bottle Nuka-Cola Quartz.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt něco důležitého. Chci-li získat její důvěru a dozvědět se, co hledá, nezbylo mi než souhlasit s tím, že jí dám láhev Nuka-Coly Quartz.</Dest>
+    </String>
+    <String List="1" sID="002A19" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World to find the original Nuka-Cola formula. After gathering hidden clues in the park, we gained entry to the office of John-Caleb Bradberton, the inventory of Nuka-Cola. Now we need to search the office for the formula.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Po shromáždění skrytých vodítek v parku jsme získali vstup do kanceláří Johna-Caleba Bradbertona, vynálezce Nuka-Coly. Nyní musíme prohledat kanceláře a najít recepturu.</Dest>
+    </String>
+    <String List="1" sID="002A3F" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="7">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find the original Nuka-Cola formula. Our search led us to the head of John-Caleb Bradberton, the inventor of Nuka-Cola, now kept alive by machinery. At Bradberton's request, I shut off the power to his life-support machinery. </Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Naše hledání nás dovedlo k hlavě Johna-Caleba Bradbertona, vynálezce Nuka-Coly, který zůstal naživu díky přístrojům. Na žádost Bradbertona byl uzavřen přívod energie k jeho podpoře života.</Dest>
+    </String>
+    <String List="1" sID="002A40" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="8">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find the original Nuka-Cola formula. Our search led us to the head of John-Caleb Bradberton, the inventor of Nuka-Cola, now kept alive by machinery. Despite Bradberton's wish to be etherized, I accepted Sierra's offer of a reward to keep him alive.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Naše hledání nás dovedlo k hlavě Johna-Caleba Bradbertona, vynálezce Nuka-Coly, který zůstal naživu díky přístrojům. Přes Bradbertonovo přání zemřít, pro mě byla lákavější nabídka a odměna Sierry udržet ho při životě.</Dest>
+    </String>
+    <String List="1" sID="002A46" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="5">QUST:CNAM</REC>
+      <Source>While searching for the Nuka-Cola formula, Sierra Petrovita and I encountered the frozen head of Nuka-Cola inventor John-Caleb Bradberton, now kept alive by machinery. Bradberton asked me to euthanize him in exchange for a prototype weapon. Sierra offered me a rare Nuka-Cola Jumpsuit if I keep Bradberton alive.</Source>
+      <Dest>Při pátrání po receptuře na Nuka-Colu jsme se Sierrou Petrovitou narazili na zmrzlou hlavu vynálezce Nuka-Coly, Johna-Caleba Bradbertona, který ještě žije díky přístrojům. Bradberton mě požádal o eutanázii výměnou za prototyp zbraně. Sierra mi nabídla vzácnou Nuka-Cola kombinézu, když nechám Bradbertona naživu.</Dest>
+    </String>
+    <String List="1" sID="002A92" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="4">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find the original Nuka-Cola formula. Our search has led us to the head of John-Caleb Bradberton, the inventory of Nuka-Cola, now kept alive by machinery.</Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Mé hledání mě dovedlo k hlavě Johna-Caleba Bradbertona, vynálezce Nuka-Coly, který zůstal naživu díky přístrojům.</Dest>
+    </String>
+    <String List="1" sID="002A93" Partial="1">
+      <EDID>DLC04MS01</EDID>
+      <REC id="6">QUST:CNAM</REC>
+      <Source>I met Sierra Petrovita, a Nuka-Cola fanatic who traveled to Nuka-World in order to find the original Nuka-Cola formula. Our search has led us to the head of John-Caleb Bradberton, the inventor of Nuka-Cola, now kept alive by machinery. At Bradberton's request, I shut off the power to his life-support machinery. </Source>
+      <Dest>Podařilo se mi natrefit na Sierru Petrovitu, Nuka-Cola fanatičku, která cestuje do Nuka-Worldu s cílem nalézt původní recepturu na Nuka-Colu. Mé hledání mě dovedlo k hlavě Johna-Caleba Bradbertona, vynálezce Nuka-Coly, který zůstal naživu díky přístrojům. Na žádost Bradbertona byl uzavřen přívod energie k jeho podpoře života.</Dest>
+    </String>
+    <String List="1" sID="002B0B" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>I have successfully persuaded all three gangs to support me as Overboss; it's time to let Gage know they're all behind me.</Source>
+      <Dest>Úspěšně se mi podařilo přesvědčit všechny tři gangy, aby mě podpořili jakožto Overbosse. Je tedy čas, aby se Gage dověděl, že všichni stojí za mnou.</Dest>
+    </String>
+    <String List="1" sID="002B53" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>I need to meet Porter Gage in the Overboss' quarters in Nuka-World so he can explain to me what's going on, and what's expected of me.</Source>
+      <Dest>Musím se setkat s Porterem Gagem v Overbossovo ubikacích v Nuka-Worldu, aby mi mohl vysvětlit, co se děje a co se ode mě očekává.</Dest>
+    </String>
+    <String List="1" sID="002BAF" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>I have convinced The Disciples, The Operators, and The Pack to follow me as Overboss as we begin to take over the rest of Nuka-World.</Source>
+      <Dest>Podařilo se mi přesvědčit Stoupence, Provozáky i Šelmy, aby mě podpořili coby Overbosse, a teď můžeme začít s převzetím zbytku Nuka-Worldu.</Dest>
+    </String>
+    <String List="1" sID="002BE0" Partial="1">
+      <EDID>DLC04MQ02</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Gage has explained that in order to take over all of Nuka-World, I need to get the three rival gangs to support me. The Disciples, The Operators, and the Pack all need to be convinced that I can lead them as Overboss.</Source>
+      <Dest>Gage mi vysvětlil, že k převzetí celého Nuka-Worldu musím docílit podpory tří soupeřících gangů. Stoupenci, Provozáci a Šelmy... ty všechny je třeba přesvědčit, že je mohu vést jako Overboss.</Dest>
+    </String>
+    <String List="1" sID="002DBA" Partial="1">
+      <EDID>DLC04MQ01SykesNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Sykes,&#xD;
+You worthless, good for nothing piece of shit. Not only did you do all my jet, you sold Fate for a lousy 100 caps to think that'd make up for it? I loved that damn minigun more than your life. &#xD;
+You've pissed me off for the last time. I'm out. I'm done taking care of you. Good luck out there on your own. You won't last a day.&#xD;
+- K.C.</Source>
+      <Dest>!Sykes,&#xD;
+Ty bezcenný, k ničemu kus hovna. Nejenže budete dělat všechnu svou stíhačkou jste prodal Fate za mizerný 100 zátek si myslet, že by to napravit? Miloval jsem ten zatracený Minigun víc než svůj život.&#xD;
+jste mě nasral naposledy. Jsem mimo. Skončil jsem o tebe starat. Hodně štěstí tam na vlastní pěst. Nebudete trvat jeden den.&#xD;
+- K. C.</Dest>
+    </String>
+    <String List="1" sID="002DF8" Partial="1">
+      <EDID>DLC04MQ01AniseNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>To the Assholes who trapped me in here.&#xD;
+I'm done playing your little game. I ran your stupid Gauntlet, and I made it this far, but I'm done. So no "big show" for you. Aren't you just the bravest bunch of dipshits to watch some guy in super charged Power Armor beat up on someone with nothing. I'll blow my own brains out, thank you very much.&#xD;
+&#xD;
+</Source>
+      <Dest>!K Assholes, kteří mě v pasti tady.&#xD;
+končím hrát svou malou hru. Běžel jsem vaši pitomou Gauntlet, a udělal jsem to tak daleko, ale já končím. Takže žádný „velký show“ pro vás. Nejsi jen nejodvážnější banda dipshits se dívat na nějaký chlápek v super nabitý Power zbroj mlátit někoho s ničím. Budu vyhodit své vlastní mozek, moc děkuji.</Dest>
+    </String>
+    <String List="1" sID="002E17" Partial="1">
+      <EDID>DLC04MQ01CorinNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Did all my jet.&#xD;
+Stuck in some messed up trap.&#xD;
+Writing sucks.&#xD;
+Gonna take all this RadX and pass out.&#xD;
+No one's stupid enough to come after me here.&#xD;
+I think that Harvey guy lied to me.&#xD;
+&#xD;
+</Source>
+      <Dest>!Dělal celý svůj proud.&#xD;
+Stuck v některých zpackal past.&#xD;
+Psaní naštve.&#xD;
+vezmu všechny tyto RadX a projít ven.&#xD;
+Nikdo tak hloupý, aby přišel za mnou sem.&#xD;
+Myslím, že Harvey chlap mi lhal.</Dest>
+    </String>
+    <String List="1" sID="002E2F" Partial="1">
+      <EDID>DLC04MQ01OpheliaNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Dear Mom and Dad,&#xD;
+I'm sure by now you've realized I've left, and I'm never coming back. Sure, you managed to keep me safe all my life in that bunker, but I just can't take it anymore. I'm going to see the world, whether you like or not. &#xD;
+&#xD;
+I'm heading to Diamond City where I can hopefully find a job and a place to live. You think I can't make it out in the world on my own? Well, I can. I'm not that naive little girl that sleeps with a teddy bear anymore. I'm an adult, and I can take care of myself.&#xD;
+&#xD;
+Please don't try to come after me unless you intend to visit. I'm never coming back. I just wanted to let you know that I'm okay.&#xD;
+&#xD;
+I still love you both,&#xD;
+Ophelia</Source>
+      <Dest>Drahá maminko a tatínku,&#xD;
+Jsem si jista tím, že jste si už uvědomili, že jsem odešla a nikdy se už nevrátím. Jistě, podařilo se mě udržet v bezpečí celý život v tomhle bunkru, ale já prostě tohle dál nesnesu. Jdu do světa, ať už se vám to líbí, nebo ne. &#xD;
+&#xD;
+Mířím do Diamond City, kde bych mohla snad najít práci a bydlení. Myslíte, že nemohu pracovat ve světě na vlastní pěst? No, můžu. Nejsem tak naivní holčička, která spí ještě s medvídkama. Jsem dospělá a můžu se o sebe postarat.&#xD;
+&#xD;
+Prosím, nesnažte se jít za mnou, pokud máte v úmyslu mě navštívit. Já se nikdy nevrátím. Jen jsem chtěla, abyste věděli, že jsem v pořádku.&#xD;
+&#xD;
+Mám vás oba pořád ráda,&#xD;
+Ophelia</Dest>
+    </String>
+    <String List="1" sID="003042" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>As I entered the locker room to prepare for my final battle, Gage's voice came over the intercom. I should speak to him and find out what he wants.</Source>
+      <Dest>Po vstoupení do šatny a připravování se na mou závěrečnou bitvu se ozval z interkomu Gageův hlas. Musím si s ním promluvit a zjistit, co chce.</Dest>
+    </String>
+    <String List="1" sID="003055" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="7">QUST:CNAM</REC>
+      <Source>I defeated Overboss Colter. The Thirst Zapper worked. Now I need to speak to Gage to find out what kind of offer he has in mind.</Source>
+      <Dest>Overboss Colter byl poražen. Generátor touhy fungoval. Teď musím mluvit s Gagem a zjistit, jaký druh nabídky má na mysli.</Dest>
+    </String>
+    <String List="1" sID="00306A" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="6">QUST:CNAM</REC>
+      <Source>I need to defeat Overboss Colter in the Cola-Cars Arena to beat the Gauntlet and get out of here. In order to take him down, I'll have to use the Thirst Zapper first to make him vulnerable.</Source>
+      <Dest>Musím porazit Overbosse Coltera v Cola-Cars aréně, zvítězit nad Rukavicí a vypadnout. Aby ale vůbec byl zranitelný, budu muset nejprve použít generátor touhy.</Dest>
+    </String>
+    <String List="1" sID="00306F" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>Gage explained that the upcoming fight against the Overboss Colter is rigged, but he's left a "secret weapon" I can use to defeat him in the arena. I need to find it somewhere in the locker room.</Source>
+      <Dest>Gage mi vysvětlil, že nadcházející boj proti Overbossu Colterovi je zmanipulovaný, ale že schoval „tajnou zbraň“, kterou mohu použít k jeho porážce v aréně. Musím ji najít někde v šatně.</Dest>
+    </String>
+    <String List="1" sID="00307B" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="5">QUST:CNAM</REC>
+      <Source>Gage told me the Thirst Zapper will short out Overboss Colter's electrified Power Armor. I'll need to use it if I'm going to be able to do any damage to him at all. Now, it's time to enter the Cola-Cars arena and finish this.</Source>
+      <Dest>Gage mi řekl, že generátor touhy na krátko vyřadí Overbossu Colterovi jeho elektrifikovanou energozbroj. Budu jej muset použít a následně ho zničit jinou zbraní. Nyní je čas pro vstup do Cola-Cars arény a dokončit to.</Dest>
+    </String>
+    <String List="1" sID="003082" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>I survived the bulk of the Gauntlet. It looks like I have one more fight ahead of me. At least these Raiders are giving me a chance to restock in a locker room before I face off against this Overboss.</Source>
+      <Dest>Přežil jsem převážnou část Rukavice. Vypadá to, že mám ještě jeden boj před sebou. Alespoň mi tihle nájezdníci dávají příležitost k uzdravení v šatně, než nastoupím proti tomu Overbossovi.</Dest>
+    </String>
+    <String List="1" sID="003099" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>A man named Porter Gage spoke to me over the Nuka-Express speaker system. He told me I was heading into a death trap, but he has an offer for me should I survive. </Source>
+      <Dest>Muž jménem Porter Gage mě kontaktoval přes interkom Nuka-Expressu. Řekl mi, že mířím do smrticí pasti, ale má pro mě nabídku, jak mohu přežít.</Dest>
+    </String>
+    <String List="1" sID="0030DC" Partial="1">
+      <EDID>DLC04MQ01</EDID>
+      <REC id="4">QUST:CNAM</REC>
+      <Source>I found what looks to be a squirt gun called the Thirst Zapper in the locker room. This must be the "secret weapon" that Gage was talking about. There must be more to this.</Source>
+      <Dest>Jak se mi podařilo zjistit, ta „tajná zbraň“, o které Gage mluvil, vypadá jako stříkací pistole s názvem Generátor touhy a musí být někde tady v šatně.</Dest>
+    </String>
+    <String List="1" sID="003511" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="4">QUST:CNAM</REC>
+      <Source>Shank said there's some kind of problem at the outpost. I should hear what he has to say.</Source>
+      <Dest>Shank říkal, že je na základně nějaký problém. Musím si poslechnout, co má na srdci.</Dest>
+    </String>
+    <String List="1" sID="00353D" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>Outpost number one is claimed. Now I just need to follow up on the next step.</Source>
+      <Dest>!Základna číslo jedna je žádáno. Teď už stačí navázat na další krok.</Dest>
+    </String>
+    <String List="1" sID="00355B" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Time for us to starting getting our gang set up in the Commonwealth. The first step - claim a new outpost from one of the Nuka-World gangs.</Source>
+      <Dest>!Čas pro nás začíná dostat náš gang nastavit v Commonwealthu. První krok - nároku novou základnu z jednoho z Nuka-World skupin.</Dest>
+    </String>
+    <String List="1" sID="003565" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="10">QUST:CNAM</REC>
+      <Source>So, this is it. The final piece. I need to claim two additional outposts. Shank said to come talk to him whenever I want to run those jobs.</Source>
+      <Dest>!Tak, to je ono. Posledním kouskem. Musím nároku dvě další základny. Shank řekl, aby přišel s ním mluvit, když chci spustit tyto úlohy.</Dest>
+    </String>
+    <String List="1" sID="0035E5" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="6">QUST:CNAM</REC>
+      <Source>It appears our outpost has attracted some unwanted attention from a gang of Commonwealth Raiders. Time to show them who's in charge.</Source>
+      <Dest>Zdá se, že naše základna přitahuje nějakou nežádoucí pozornost gangu commonwealthských nájezdníků. Je na čase jim ukázat, kdo je tady pánem.</Dest>
+    </String>
+    <String List="1" sID="003622" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="7">QUST:CNAM</REC>
+      <Source>Sinner and his gang have been dealt with. I should let Shank know.</Source>
+      <Dest>Hříšník a jeho gang jsou už minulostí. Musím o tom dát vědět Shankovi.</Dest>
+    </String>
+    <String List="1" sID="00364F" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="3">QUST:CNAM</REC>
+      <Source>On to step two - provisions. Shank said I need to convince a settlement to start supplying my outpost.</Source>
+      <Dest>!Ke kroku dvě - ustanovení. Shank Řekl jsem musel přesvědčit urovnání začít dodávat svou základnu.</Dest>
+    </String>
+    <String List="1" sID="003661" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="8">QUST:CNAM</REC>
+      <Source>It's time to earn the loyalty of my outpost. And that means making sure that outpost has everything it could need to make it happy. Shank said I should check my Pip-Boy or with him if I have questions about what it might need.</Source>
+      <Dest>!Je čas získat loajalitu mé základny. A to znamená, ujistěte se, že základna má vše, co by bylo potřeba, aby byl šťastný. Shank řekl bych měl zkontrolovat můj Pip-Boy nebo s ním, pokud mám otázky ohledně toho, co by to mohlo potřebovat.</Dest>
+    </String>
+    <String List="1" sID="003675" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="11">QUST:CNAM</REC>
+      <Source>It's done. Three outposts, ready and raring to raid. Our place in the Commonwealth is secured.</Source>
+      <Dest>A je hotovo. Tři základny, připravené a dychtící na nájezdy. Naše místo v Commonwealthu je zajištěno.</Dest>
+    </String>
+    <String List="1" sID="003687" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>Gage seems to think we should start expanding into the Commonwealth. He suggested I talk to a man named Shank in the Nuka-Town market.</Source>
+      <Dest>!Gage Zdá se, že bychom měli začít rozšiřovat v Commonwealthu. Navrhl jsem mluvit s mužem jménem Shank na trhu v Nuka-Townu.</Dest>
+    </String>
+    <String List="1" sID="003696" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="9">QUST:CNAM</REC>
+      <Source>My outpost has everything it could want for. Shank, here I come.</Source>
+      <Dest>!Moje základna má vše, co by mohl chtít pro. Shank, už jdu.</Dest>
+    </String>
+    <String List="1" sID="0036A7" Partial="1">
+      <EDID>DLC04MQ04</EDID>
+      <REC id="5">QUST:CNAM</REC>
+      <Source>I've convinced a group of settlers to start supplying my outpost. Time to check in with Shank, see what's next.</Source>
+      <Dest>!Jsem přesvědčen o tom, skupinu osadníků začít dodávat svou základnu. Čas v doprovodu se Shankem, uvidíme, co bude dál.</Dest>
+    </String>
+    <String List="1" sID="003942" Partial="1">
+      <EDID>DLC04MQ01CragNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Crag's Master Plan&#xD;
+1. Find Raider play park&#xD;
+2. CRUSH Raiders&#xD;
+3. Make best meat bag&#xD;
+4. Take stuff&#xD;
+5. WIN</Source>
+      <Dest>!Crag Master Plan&#xD;
+1. Najít nájezdnický zábavní park&#xD;
+2. ROZDRTIT nájezdníky&#xD;
+3. Proveďte nejlepší maso taška&#xD;
+4. Vezmi stažení&#xD;
+5. WIN</Dest>
+    </String>
+    <String List="1" sID="004129" Partial="1">
+      <EDID>DLC04MQ00</EDID>
+      <REC id="5">QUST:CNAM</REC>
+      <Source>I met a man named Harvey at the transit center. He admitted he was forced to lure me into a trap. If he didn't, the Raiders would kill him. If I want to find out what's going on in Nuka-World, I need to find the control terminal and restore power to the Nuka-Express. Then I can take the monorail to the amusement park.</Source>
+      <Dest>Muž jménem Harvey se mi v tranzitním středisku přiznal, že mě byl nucen nalákat do pasti. Kdyby ne, nájezdníci ho zabijí. Pokud chci zjistit, co se děje v Nuka-Worldu, musím najít ovládací terminál a obnovit napájení pro Nuka-Express. A pak to vzít jednokolejkou do zábavního parku.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
