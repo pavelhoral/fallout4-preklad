@@ -1,0 +1,68 @@
+{+$AttachPipboyToHMD	Attach Pipboy To HMD+}
+{+$ComfortDithering	Full Screen Dithering+}
+$ComfortSneak	Komfortní plížení
+$ComfortVignetteSize	Viditelnost komfortního stínítka
+$ComfortVignetteEdgeSoftness	Ostrost okrajů komfortního stínítka
+{+$ControlMode	Control Mode+}
+$DirectMovement	Přímý pohyb
+$DirectMovementSpeed	Rychlost přímého pohybu
+$DRAW WEAPON	TASIT ZBRAŇ
+$EXIT POWER ARMOR	(PODRŽ) VYSTOUPIT Z ENERGOZBROJE
+$Gamepad	Gamepad
+{+$HIGH	HIGH+}
+{+$HighlightObjects	Highlight Objects+}
+{+$HIT	Hit+}
+{+$HOLD	HOLD+}
+{+$InFront	In Front+}
+{+$LeftHandedMode	Left Handed Mode+}
+{+$LOW	LOW+}
+{+$MORE_RESOURCES	MORE RESOURCES REQUIRED.+}
+{+$MotionControllers	Motion Controllers+}
+{+$MoveMode	Movement Mode+}
+{+$NAVIGATE	NAVIGATE+}
+{+$PausePipboyOpen	Pause When Pipboy Is Open+}
+{+$PERK_REQUIREMENTS	PERK REQUIREMENTS NOT MET.+}
+{+$PipboyLocation	Pip-Boy Location+}
+{+$PipboyScale	Pip-Boy Scale+}
+{+$PlayerHeightCalibration	Player Height Calibration+}
+{+$Projected	Projected+}
+$PUT AWAY WEAPON	ODLOŽIT ZBRAŇ
+{+$SCROLL	SCROLL+}
+{+$SettingAttachPipboyToHMD	Attaching the pipboy to the HMD will cause the pipboy to detach from the wand and float out in front of the player when activated.  Note that 'Use Projected Pipboy' overrides this setting.+}
+{+$SettingShowActivationPreview	Show in game indicators of activation direction and distance.+}
+{+$SettingComfortScreenDitheringGuideText	Control full screen dithering.  Sliding to the right creates a stronger effect.+}
+{+$SettingComfortSneakGuideText	Press the grip button on the off-hand wand (default left) to enter or exit Sneak Mode.+}
+{+$SettingComfortVignetteWhileMovingGuideText	Use a vignette on the edges of the screen while moving in direct movement mode. +}
+{+$SettingComfortVignetteWhileTurningGuideText	Use a vignette on the edges of the screen while turning in direct movement mode.+}
+{+$SettingComfortVignetteSizeGuideText	Adjust the visbility of the vignette.  Sliding to the left will make the visible space smaller, while sliding to the right will make the visible space larger.+}
+{+$SettingComfortVignetteEdgeSoftnessGuideText	Adjust the sharpness of the edge of the vignette.  Sliding to the left will create a softer vignette, while sliding to the right will sharpen the vignette edges.+}
+{+$SettingWandLookAngleSnapGuideText	Push left or right on the primary wand touchpad to rotate the camera by fixed amounts.+}
+{+$SettingHilightObjectGuideText	Adds a highlight around interactive objects that are in range and being pointed at.+}
+{+$SettingWandLookAngleSnapSmoothingGuideText	Move the camera quickly over a few frames when snapping the camera left or right.+}
+{+$SettingWandLookAngleSnapAmountGuideText	How many degrees to move the camera when snapping the camera left or right.+}
+{+$SettingControlModeGuideText	Determines what control style you would prefer. Select "Gamepad" to play with a supported gamepad, or choose "Motion Controllers" to play using supported motion controls.+}
+{+$SettingDirectMovementGuideText	Direct Movement will allow you to smoothly walk or sprint instead of teleporting. +}
+{+$SettingLeftHandedModeGuideText	Switches the Primary wand to the Left hand.+}
+{+$SettingPipboyLocationGuideText	Adjusts the location of the Pip-Boy. "Wrist" will place the Pip-Boy on your wrist. "In front" will open the Pip-Boy at eye level when used. "Projected" will project the Pip-Boy screen at eye level when used. +}
+{+$SettingPipboyScaleGuideText	Adjusts the size of the wrist mounted Pip-Boy when it is in use.+}
+{+$SettingShowPipboyModelGuideText	Toggles the Pipboy model to display if you are using the Projected Pipboy mode. +}
+{+$SettingUseProjectedPipboyGuideText	The Projected Pipboy will remove the standard Pipboy from your arm and cause any Pipboy related screens to project in front of your view.  Note that this setting overrides 'Attach Pipboy To HMD'.+}
+{+$ShowActivationPreview	Show Activation Preview+}
+{+$ShowPipboyModel	Show Pipboy Model+}
+{+$SMOOTH	SMOOTH+}
+{+$SNAP	SNAP+}
+{+$SnapTurnDegrees	Snap Turn Degrees+}
+{+$Teleport	Teleport+}
+{+$TurningMode	Turning Mode+}
+{+$UseComfortVignetteMove	Comfort Vignette While Moving+}
+{+$UseComfortVignetteTurn	Comfort Vignette While Turning+}
+{+$UseProjectedPipboy	Use Projected Pipboy+}
+$VRSETTINGS	VR
+{+$WandLookAngleSnap	Use Wand Camera Rotation+}
+{+$WandLookAngleSnapSmoothing	Smooth Wand Camera Rotation+}
+{+$WandLookAngleSnapAmount	Wand Camera Rotation Amount+}
+$WandLookAngleSnapAmount30	30
+$WandLookAngleSnapAmount45	45
+$WandLookAngleSnapAmount60	60
+$WandLookAngleSnapAmount90	90
+{+$Wrist	Wrist+}
