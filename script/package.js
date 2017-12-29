@@ -54,7 +54,7 @@ function buildData(version) {
             filepath = path.join(base, file),
             buffer = null;
         if (basename === 'Translate_en.txt') {
-            let content = fs.readFileSync(filepath, 'utf16le'),
+            let content = fs.readFileSync(filepath),
                 regexp = new RegExp('(\\$Press any button to start\\t).*');
             content = content.replace(regexp, '$1Čeština: ' + version);
             buffer = Buffer.from(content, 'utf16le');
