@@ -37,7 +37,7 @@ class DirectoryProcessor {
             var stat = fs.statSync(path.join(base, directory, name));
             if (stat.isDirectory()) {
                 this.processDirectory(base, path.join(directory, name));
-            } else if (name.startsWith('.')) { // Ignore hidden files
+            } else if (!name.startsWith('.')) { // Ignore hidden files
                 this.processFile(base, path.join(directory, name));
             }
         });
