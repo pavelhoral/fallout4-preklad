@@ -106,7 +106,7 @@ The Director Management System is operating normally. Emergency controls have be
 =================================================&#xD;
 &#xD;
 VAROVÁNÍ:&#xD;
-Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (Director Management System - DMS) z provozu.&#xD;
+Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (CŘS) z provozu.&#xD;
 &#xD;
 Centrální řídicí systém pracuje normálně. Nouzové ovládání bylo deaktivováno.&#xD;
 </Dest>
@@ -836,7 +836,7 @@ The Galleria's Emergency Self Destruct procedure has been triggered. Please evac
 =================================================&#xD;
 &#xD;
 VAROVÁNÍ:&#xD;
-Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (Director Management System - DMS) z provozu.&#xD;
+Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (CŘS) z provozu.&#xD;
 &#xD;
 Byl aktivován proces nouzové autodestrukce obchodní galerie. Evakuujte prosím oblast a pro další pokyny kontaktujte ústředí General Atomics International.</Dest>
     </String>
@@ -1204,7 +1204,7 @@ Spustitelné operace:&#xD;
       <EDID>DN049_LvlMrGutsy_Director</EDID>
       <REC>NPC_:FULL</REC>
       <Source>The Director</Source>
-      <Dest>Ředitel</Dest>
+      <Dest>Řídící</Dest>
     </String>
     <String List="0" sID="016FBD">
       <EDID>DN039_OfficeTerminalMinutes</EDID>
@@ -1510,7 +1510,7 @@ This terminal is intended as an emergency manual override for the Supervisor in 
 =================================================&#xD;
 &#xD;
 VAROVÁNÍ:&#xD;
-Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (Director Management System - DMS) z provozu.</Dest>
+Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (CŘS) z provozu.</Dest>
     </String>
     <String List="0" sID="0184BD">
       <EDID>DN050SuspectBot</EDID>
@@ -2105,7 +2105,7 @@ The Galleria has been put into Emergency Shutdown Mode. Please contact General A
 =================================================&#xD;
 &#xD;
 VAROVÁNÍ:&#xD;
-Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (Director Management System - DMS) z provozu.&#xD;
+Tento terminál je určen pouze k nouzovému ručnímu ovládání pro dozorčího provozu v nepravděpodobném případě poruchy nebo vyřazení Centrálního řídicího systému (CŘS) z provozu.&#xD;
 &#xD;
 Obchodní galerie byla přepnuta do režimu nouzového vypnutí. Kontaktujte prosím ústředí General Atomics International pro další provozní pokyny.</Dest>
     </String>
@@ -2666,7 +2666,7 @@ Franšízové smlouvy Maddenovy tělocvičny dovolují lokálním provozovatelů
       <EDID>DN049DirectorImmunityPerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Director's Immunity</Source>
-      <Dest>Ředitelská imunita</Dest>
+      <Dest>Imunita Řídícího</Dest>
     </String>
     <String List="0" sID="01DD88">
       <EDID>DN044_Sheila</EDID>
@@ -7768,9 +7768,9 @@ If you believe the Director has been compromised, you may disable it and use the
 The password for this terminal is GAI-GAL-4.</Source>
       <Dest>Komunikační záznam: 26. 7. 2077&#xD;
 &#xD;
-Obchodní galerie je s okamžitou platností až do odvolání uzavřena. Uvědomte ředitele a dohlédněte na okamžité a úplné vypnutí celého centra a personálu.&#xD;
+Obchodní galerie je s okamžitou platností až do odvolání uzavřena. Uvědomte Řídícího a dohlédněte na okamžité a úplné vypnutí celého centra a personálu.&#xD;
 &#xD;
-Pokud se domníváte, že byl ředitel kompromitován, můžete ho deaktivovat a v jeho kanceláři skrze terminál ručního ovládání systému následně vyvolat nouzové vypnutí celé obchodní galerie.&#xD;
+Pokud se domníváte, že byl Řídící kompromitován, můžete ho deaktivovat a v jeho kanceláři skrze terminál ručního ovládání systému následně vyvolat nouzové vypnutí celé obchodní galerie.&#xD;
 &#xD;
 Heslo k terminálu je GAI-GAL-4.</Dest>
     </String>
@@ -7860,9 +7860,9 @@ Extreme caution is advised. We believe that the Director has also been compromis
       <Dest>Komunikační záznam: 23. 10. 2077&#xD;
 &#xD;
 Panu Kincaidovi:&#xD;
-Po příjezdu do centra zamiřte do kanceláře ředitele, která je v soše. Prokažte se jako dozorčí 18-Alfa pro Velké znovuotevření, předložte doklady a nařiďte řediteli, aby zahájil protokol Velkého znovuotevření. To spustí řadu aktualizací firmwaru, které by měly vyřešit spoustu chyb a obnovit roboty do normálního provozu. &#xD;
+Po příjezdu do centra zamiřte do kanceláře Řídícího, která je v soše. Prokažte se jako dozorčí 18-Alfa pro Velké znovuotevření, předložte doklady a nařiďte Řídícímu, aby zahájil protokol Velkého znovuotevření. To spustí řadu aktualizací firmwaru, které by měly vyřešit spoustu chyb a obnovit roboty do normálního provozu. &#xD;
 &#xD;
-Doporučuje se postupovat s maximální opatrností. Věříme, že ředitel byl také kompromitován a může být zodpovědný za smrt vašeho předchůdce.</Dest>
+Doporučuje se postupovat s maximální opatrností. Věříme, že Řídící byl také kompromitován a může být zodpovědný za smrt vašeho předchůdce.</Dest>
     </String>
     <String List="0" sID="02DFAE">
       <EDID>DN049_HandyEatsTerminal</EDID>
@@ -7976,7 +7976,7 @@ Once again, all supervisory functions are to be exercised by the Galleria's Dire
 &#xD;
 Oddělení vztahů se zákazníky bere na vědomí obavy popsané ve vašich posledních zprávách. Nicméně, vaše zásahy jsou neočekávaným vstupem, na který původní program robotů nebyl připraven. To může být příčinou kaskádového selhání v oblasti chování. Vaše role v těchto incidentech může navíc vystavit GAI dodatečné právní odpovědnosti.&#xD;
 &#xD;
-Ještě jednou, všechny funkce dohledu musí být vykonávány ředitelem obchodní galerie. Vyhněte se jakémukoli dalšímu kontaktu s roboty a návštěvníky.</Dest>
+Ještě jednou, všechny funkce dohledu musí být vykonávány Řídícím obchodní galerie. Vyhněte se jakémukoli dalšímu kontaktu s roboty a návštěvníky.</Dest>
     </String>
     <String List="0" sID="02E298">
       <EDID>DN049SlocumFaction</EDID>
@@ -8046,7 +8046,7 @@ Ještě jednou, všechny funkce dohledu musí být vykonávány ředitelem obcho
       <EDID>DN049DirectorFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>General Atomics -- Director</Source>
-      <Dest>General Atomics -- Ředitel</Dest>
+      <Dest>General Atomics -- Řídící</Dest>
     </String>
     <String List="0" sID="02E3D7">
       <EDID>DN049_LvlMrHandy_Bowling_Tenpin</EDID>
@@ -8092,7 +8092,7 @@ Ještě jednou, všechny funkce dohledu musí být vykonávány ředitelem obcho
 In light of recent events, you are authorized to assist the Director in identifying malfunctioning robots, and to monitor the effectiveness of any efforts to repair their programming. Should additional fatalities occur, you are further authorized to offer an immediate financial settlement to the survivors, if any, on behalf of GAI (see compensation scale 14-J).</Source>
       <Dest>Komunikační záznam: 19. 7. 2077&#xD;
 &#xD;
-Ve světle nedávných událostí jste oprávněn pomoci řediteli s identifikací vadných robotů a k monitorování úspěšnosti pokusů o opravu jejich programu. Pokud by došlo k dalším úmrtím, jste také oprávněn nabídnout přeživším okamžité peněžní vyrovnání jménem GAI (viz tabulka náhrad 14-J).</Dest>
+Ve světle nedávných událostí jste oprávněn pomoci Řídícímu s identifikací vadných robotů a k monitorování úspěšnosti pokusů o opravu jejich programu. Pokud by došlo k dalším úmrtím, jste také oprávněn nabídnout přeživším okamžité peněžní vyrovnání jménem GAI (viz tabulka náhrad 14-J).</Dest>
     </String>
     <String List="0" sID="02E4A6">
       <EDID>DN049_SupervisorsTerminal</EDID>
