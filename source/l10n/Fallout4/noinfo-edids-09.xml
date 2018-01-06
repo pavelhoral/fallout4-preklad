@@ -585,7 +585,7 @@ Surveillance Operations&#xD;
 Current Status: Online&#xD;
 </Source>
       <Dest>&#xD;
-Funkce dozoru&#xD;
+Funkce dohledu&#xD;
 Současný stav: V provozu&#xD;
 </Dest>
     </String>
@@ -1157,7 +1157,7 @@ DOPORUČOVÁN RESTART SYSTÉMU</Dest>
       <EDID>DN041_MainFrameTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Federal Surveillance Center K-21B</Source>
-      <Dest>Federální středisko dozoru K-21B</Dest>
+      <Dest>Federální dohledové centrum K-21B</Dest>
     </String>
     <String List="0" sID="016D5E">
       <EDID>DN015_PuzzleTerminal</EDID>
@@ -1396,7 +1396,7 @@ Sahám po zbrani na zemi a kovová ruka není mou vlastní. Podívám se dolů, 
       <EDID>DN041_MainFrameSubterminalSurv</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Federal Surveillance Center K-21B</Source>
-      <Dest>Federální středisko dozoru K-21B</Dest>
+      <Dest>Federální dohledové centrum K-21B</Dest>
     </String>
     <String List="0" sID="017D5E">
       <EDID>DN033_SubTerminalCommunications1</EDID>
@@ -1552,7 +1552,7 @@ Výjimečné řezy pro výjimečné lidi&#xD;
       <EDID>DN041_MainFrameSubterminalReboot</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Federal Surveillance Center K-21B</Source>
-      <Dest>Federální středisko dozoru K-21B</Dest>
+      <Dest>Federální dohledové centrum K-21B</Dest>
     </String>
     <String List="0" sID="01899A">
       <EDID>DN015_PuzzleTerminal</EDID>
@@ -1995,15 +1995,15 @@ Frequency 003: LOCATION NAME&#xD;
 Tune to the designated frequency to begin surveillance on a specific location. Frequency designations have be programmed based on the operation parameters of your center.  Should the need arise to alter or add frequencies, please contact the home office to request a technitian be dispatched to your center.&#xD;
 &#xD;
 Surveillance Operations have been designated CRITICAL by your system administrator.</Source>
-      <Dest>Středisko K-21B bylo určeno jako příští umístění pro vládní sankční dozor:&#xD;
+      <Dest>Centru K-21B byly přiděleny následující lokace pro vládní sankční dohled:&#xD;
 &#xD;
 Frekvence 001: NÁZEV LOKACE&#xD;
 Frekvence 002: NÁZEV LOKACE&#xD;
 Frekvence 003: NÁZEV LOKACE&#xD;
 &#xD;
-Nalaďte určenou frekvenci pro započetí dozoru nad daným místem. Názvy frekvencí musí být programovány dle provozních parametrů vašeho střediska. Pokud by bylo třeba doplnit nebo změnit frekvence, kontaktujte prosím s tímto požadavkem hlavní kancelář a na vaše středisko bude vyslán technik.&#xD;
+Pro započetí sledování konkrétní lokace nalaďte přidělenou frekvenci. Přidělené frekvence jsou programovány dle provozních parametrů vašeho centra. Pokud by bylo třeba doplnit nebo změnit frekvence, kontaktujte prosím s tímto požadavkem hlavní kancelář a do vašeho centra bude vyslán technik.&#xD;
 &#xD;
-Funkce dozoru byly vaším systémovým administrátorem označeny za KRITICKÉ.</Dest>
+Provoz dohledu byl vaším systémovým administrátorem označen za KRITICKÝ.</Dest>
     </String>
     <String List="0" sID="01ADB3">
       <EDID>DN020_StaffMemosSubTerminal</EDID>
@@ -2702,7 +2702,7 @@ Franšízové smlouvy Maddenovy tělocvičny dovolují lokálním provozovatelů
       <EDID>DN041_MainFrameSubterminalMain</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Federal Surveillance Center K-21B</Source>
-      <Dest>Federální středisko dozoru K-21B</Dest>
+      <Dest>Federální dohledové centrum K-21B</Dest>
     </String>
     <String List="0" sID="01DFB1">
       <EDID>DN020_PrincipalSubTerminal</EDID>
@@ -2826,7 +2826,7 @@ Tento příkaz vyvolá nouzové vypnutí všech připojených robotů. Tato oper
       <EDID>DN041_MainFrameSubterminalSurv</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Surveillance Instructions</Source>
-      <Dest>Instrukce dozoru</Dest>
+      <Dest>Instrukce dohledu</Dest>
     </String>
     <String List="0" sID="01F0B4">
       <EDID>DN067_RadioTransmitter</EDID>
