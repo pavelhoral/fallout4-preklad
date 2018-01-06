@@ -40,9 +40,6 @@
                 <FileSearch Id="Fallout4Custom.ini" Name="Fallout4Custom.ini" />
             </DirectorySearch>
         </Property>
-        <Condition Message="Nebylo možné najít soubor Fallout4Custom.ini (hru je nutné před instalací češtiny alespoň jednou spustit).">
-            <![CDATA[Installed OR FALLOUTCONFIG]]>
-        </Condition>
 
         <!-- Define target structure -->
         <Directory Id="TARGETDIR" Name="SourceDir">
