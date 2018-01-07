@@ -60,31 +60,39 @@
         </DirectoryRef>
         <DirectoryRef Id="InterfaceDir" FileSource="$(var.SourceBase)/interface">
             <Component Id="FalloutDict.txt" Guid="12EFF6F4-D4B3-46DE-B19D-8ECC9C14E2FD">
+                <RemoveFile Id="FalloutDict.txt" Name="FalloutDict.txt" On="both" />
                 <File Id="FalloutDict.txt" KeyPath="yes" />
             </Component>
             <Component Id="fonts_console.swf" Guid="FE877870-B4EE-4BCC-8629-4BF416304551">
+                <RemoveFile Id="fonts_console.swf" Name="fonts_console.swf" On="both" />
                 <File Id="fonts_console.swf" KeyPath="yes" />
             </Component>
             <Component Id="fonts_en.swf" Guid="7207CCFC-D1FE-455B-885F-C2B2D5C621A0">
+                <RemoveFile Id="fonts_en.swf" Name="fonts_en.swf" On="both" />
                 <File Id="fonts_en.swf" KeyPath="yes" />
             </Component>
             <Component Id="Translate_en.txt" Guid="DCAEE1F0-201B-438B-84B1-8473A3F79B04">
+                <RemoveFile Id="Translate_en.txt" Name="Translate_en.txt" On="both" />
                 <File Id="Translate_en.txt" KeyPath="yes" />
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="StringsDir" FileSource="$(var.SourceBase)/strings">
             <Component Id="Fallout4_en.STRINGS" Guid="4B12370A-B699-4B52-8F83-C697C36920A5">
+                <RemoveFile Id="Fallout4_en.STRINGS" Name="Fallout4_en.STRINGS" On="both" />
                 <File Id="Fallout4_en.STRINGS" KeyPath="yes" />
             </Component>
             <Component Id="Fallout4_en.ILSTRINGS" Guid="77898D90-8E42-4706-9957-8213DC573A0B">
+                <RemoveFile Id="Fallout4_en.ILSTRINGS" Name="Fallout4_en.ILSTRINGS" On="both" />
                 <File Id="Fallout4_en.ILSTRINGS" KeyPath="yes" />
             </Component>
             <Component Id="Fallout4_en.DLSTRINGS" Guid="226CD62C-D2CA-4DF2-9798-4FE1DD22AEB1">
+                <RemoveFile Id="Fallout4_en.DLSTRINGS" Name="Fallout4_en.DLSTRINGS" On="both" />
                 <File Id="Fallout4_en.DLSTRINGS" KeyPath="yes" />
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
             <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
+                <RemoveFile Id="Fallout4_Cestina.html" Name="Fallout4_Cestina.html" On="both" />
                 <File Id="Fallout4_Cestina.html" KeyPath="yes" />
             </Component>
             <Component Id="Fallout4_Cestina.png" Guid="0EBBD798-6B00-49CF-BCFB-7C4A4D8DC68F">
