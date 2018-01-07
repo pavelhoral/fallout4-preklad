@@ -7,7 +7,7 @@
 <?define UpgradeCode="34157A8C-584D-4A70-B4D4-3D11D419F54E" ?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
     <Product Id="*" UpgradeCode="$(var.UpgradeCode)"
-            Name="$(var.ProductName)" Manufacturer="$(var.ProductName)"
+            Name="$(var.ProductName)" Manufacturer="$(var.Manufacturer)"
             Language="1033" Codepage="1250" Version="$(var.ProductVersion)">
 
         <!-- Basic package configuration -->
