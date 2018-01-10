@@ -35,7 +35,7 @@
       <EDID>sAddedNote</EDID>
       <REC>GMST:DATA</REC>
       <Source>Note Added: %s.</Source>
-      <Dest>Přidána poznámka: %s.</Dest>
+      <Dest>Přidán text: %s.</Dest>
     </String>
     <String List="0" sID="0055DB">
       <EDID>sAlchemy</EDID>
@@ -119,7 +119,7 @@
       <EDID>RETreasureHuntSC03NoteGun</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Gunner's Note</Source>
-      <Dest>Ranařův vzkaz</Dest>
+      <Dest>Ranařův list</Dest>
     </String>
     <String List="0" sID="012934">
       <EDID>RRR01DeadDropMessage02b</EDID>
@@ -1007,7 +1007,7 @@ Někteří hlasití odpůrci (Toby) říkají, že bychom to měli zapíchnout. 
       <EDID>REScene01Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Note</Source>
-      <Dest>Vzkaz</Dest>
+      <Dest>Vzkaz pro Billyho</Dest>
     </String>
     <String List="0" sID="017D92">
       <EDID>RETreasureHuntSC02NoteChems</EDID>
@@ -1813,7 +1813,7 @@ Konec zprávy.&#xD;
       <EDID>RETreasureHuntTempNoteContainer</EDID>
       <REC>CONT:FULL</REC>
       <Source>Note Container</Source>
-      <Dest>Krabice na poznámky</Dest>
+      <Dest>Krabice na vzkazy</Dest>
     </String>
     <String List="0" sID="01D074">
       <EDID>RRHQPAMTerminalSubTerminalDesdemona</EDID>
@@ -2452,7 +2452,7 @@ Konec zprávy.&#xD;
       <EDID>RESceneKMK_MS19_A_Note</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Dr. Forsythe's Note</Source>
-      <Dest>Vzkaz dr. Forsytha</Dest>
+      <Dest>Instrukce dr. Forsytha</Dest>
     </String>
     <String List="0" sID="020B49">
       <EDID>RR301</EDID>
@@ -3132,7 +3132,7 @@ Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a komp
       <EDID>RESceneKMK01</EDID>
       <REC>QUST:FULL</REC>
       <Source>Scene01 - Dead guy with note leading to treasure</Source>
-      <Dest>Scene01 - Mrtvý muž se vzkazem, který vede k pokladu</Dest>
+      <Dest>Scene01 - Dead guy with note leading to treasure</Dest>
     </String>
     <String List="0" sID="025DF8">
       <EDID>RESceneKMK02</EDID>
