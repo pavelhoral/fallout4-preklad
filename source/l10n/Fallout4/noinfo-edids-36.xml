@@ -261,7 +261,7 @@ WASHINGTON DC - S rostoucí obavou o bezpečnost našich dětí v případě jad
       <EDID>vault111CryoRoomTerminal02</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Cryogenic Array: Offline. Premature termination resulting in system failure. Isolated manual and remote overrides detected. Controls disabled.</Source>
-      <Dest>Kryogenické pole: odpojeno. Předčasné ukončení má za následek selhání systému. Detekováno izolované manuální a vzdálené řízení. Ovládání vypnuto.</Dest>
+      <Dest>Kryogenické pole: odpojeno. Předčasné ukončení má za následek selhání systému. Detekována izolovaná manuální a vzdálená změna řízení. Ovládání vypnuto.</Dest>
     </String>
     <String List="0" sID="014082">
       <EDID>Vault75OverseerTerminal</EDID>
@@ -481,13 +481,13 @@ VI. Vault 75 musí zůstat zapečetěn do vydání signálu „Bezpečí“ spol
       <EDID>vault111CryoRoomSubTerminal01</EDID>
       <REC id="7">TERM:UNAM</REC>
       <Source>Occupant Status: Unknown -- Remote Override Engaged.</Source>
-      <Dest>Status uživatele: Neznámý -- Zadáno vzdálené přepsání.</Dest>
+      <Dest>Status uživatele: Neznámý (provedeno vzdálené otevření komory).</Dest>
     </String>
     <String List="0" sID="015AC4">
       <EDID>vault111CryoRoomSubTerminal01</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>Occupant Status: Unknown -- Pod Door Manual Override Engaged.</Source>
-      <Dest>Status uživatele: Neznámý -- Manualní otevření dveří podu.</Dest>
+      <Dest>Status uživatele: Neznámý (provedeno manuální otevření komory).</Dest>
     </String>
     <String List="0" sID="015BBC">
       <EDID>UnarmedMolerat</EDID>
@@ -523,7 +523,7 @@ VI. Vault 75 musí zůstat zapečetěn do vydání signálu „Bezpečí“ spol
       <EDID>vault111CryoRoomTerminal02</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Life Support: Offline. Premature termination resulting in system failure. Isolated manual and remote overrides detected. Controls disabled.</Source>
-      <Dest>Systém na podporu života: odpojeno. Předčasné ukončení má za následek selhání systému. Detekováno izolované manuální a vzdálené řízení. Ovládání vypnuto.</Dest>
+      <Dest>Systém na podporu života: odpojeno. Předčasné ukončení má za následek selhání systému. Detekována izolovaná manuální a vzdálená změna řízení. Ovládání vypnuto.</Dest>
     </String>
     <String List="0" sID="015F52">
       <EDID>Vault114</EDID>
@@ -826,7 +826,7 @@ Pokud se to lidem nelíbí, no... tím méně hladových krků.</Dest>
       <EDID>vault111CryoRoomSubTerminal01</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Occupant Status: Not applicable.</Source>
-      <Dest>Status uživatele: Nelze aplikovat.</Dest>
+      <Dest>Status uživatele: Nelze určit.</Dest>
     </String>
     <String List="0" sID="018206">
       <EDID>V81_ErinCombes</EDID>
@@ -862,7 +862,7 @@ Pokud se to lidem nelíbí, no... tím méně hladových krků.</Dest>
       <EDID>vault111CryoRoomTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Cryogenic Array: Offline. Premature termination resulting in system failure. Isolated manual and remote overrides detected. Controls disabled.</Source>
-      <Dest>Kryogenické pole: odpojeno. Předčasné ukončení má za následek selhání systému. Detekováno izolované manuální a vzdálené řízení. Ovládání vypnuto.</Dest>
+      <Dest>Kryogenické pole: odpojeno. Předčasné ukončení má za následek selhání systému. Detekována izolovaná manuální a vzdálená změna řízení. Ovládání vypnuto.</Dest>
     </String>
     <String List="0" sID="018B3E">
       <EDID>Vault111OverseerTSubOperationsSecurity</EDID>
@@ -886,7 +886,7 @@ Pokud se to lidem nelíbí, no... tím méně hladových krků.</Dest>
       <EDID>vault111CryoRoomSubTerminal01</EDID>
       <REC id="6">TERM:UNAM</REC>
       <Source>Occupant Status: Unknown -- Pod Door Manual Override Engaged.</Source>
-      <Dest>Status uživatele: Neznámý -- Manualní otevření dveří podu.</Dest>
+      <Dest>Status uživatele: Neznámý (provedeno manuální otevření komory).</Dest>
     </String>
     <String List="0" sID="018EFD">
       <EDID>V81_04</EDID>
@@ -930,7 +930,7 @@ Nezávislý výzkum je vítán a jeho schválení je v kompetencích správce.</
       <EDID>vault111CryoRoomTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Life Support: Offline. Premature termination resulting in system failure. Isolated manual and remote overrides detected. Controls disabled.</Source>
-      <Dest>Systém na podporu života: odpojeno. Předčasné ukončení má za následek selhání systému. Detekováno izolované manuální a vzdálené řízení. Ovládání vypnuto.</Dest>
+      <Dest>Systém na podporu života: odpojeno. Předčasné ukončení má za následek selhání systému. Detekována izolovaná manuální a vzdálená změna řízení. Ovládání vypnuto.</Dest>
     </String>
     <String List="0" sID="0193C5">
       <EDID>vault111CryoRoomSubTerminal01</EDID>

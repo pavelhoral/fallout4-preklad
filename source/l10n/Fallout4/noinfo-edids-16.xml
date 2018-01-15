@@ -287,7 +287,7 @@ Poznámky:</Dest>
       <EDID>InstM03_HydroponicsControlTerminalMain</EDID>
       <REC>TERM:WNAM</REC>
       <Source>***COMMAND FUNCTION OVERRIDE IN PROGRESS***</Source>
-      <Dest>***MANUÁLNÍ PŘÍKAZ SE ZPRACOVÁVÁ***</Dest>
+      <Dest>***PROBÍHÁ ZPRACOVÁNÍ PŘÍKAZU***</Dest>
     </String>
     <String List="0" sID="014643">
       <EDID>Inst303</EDID>
@@ -1828,7 +1828,7 @@ Poznámky: Instalace nového operačního systému</Dest>
       <EDID>InstM03SecurityOverridePassword</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Security Override Password</Source>
-      <Dest>Heslo manuálního ovládání</Dest>
+      <Dest>Heslo pro změnu v zabezpečení</Dest>
     </String>
     <String List="0" sID="01EE89">
       <EDID>Inst307</EDID>
@@ -3700,7 +3700,7 @@ Vyhlížejíce budoucnost, uctěme vzpomínku na ty, kteří se svojí prací po
       <EDID>InstMQ302ShaunTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Master Security Lockdown Override</Source>
-      <Dest>Manuální bezpečnostní uzavření</Dest>
+      <Dest>Změna bezpečnostního uzamčení</Dest>
     </String>
     <String List="0" sID="02E016">
       <EDID>InstituteAdvSystems</EDID>
@@ -3748,7 +3748,7 @@ Vyhlížejíce budoucnost, uctěme vzpomínku na ty, kteří se svojí prací po
       <EDID>InstMQ302ShaunTerminal</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Override Initiated</Source>
-      <Dest>Uzavření zahájeno</Dest>
+      <Dest>Změna uzamčení...</Dest>
     </String>
     <String List="0" sID="02E78B">
       <EDID>Inst305_PartsBox</EDID>
@@ -5699,7 +5699,7 @@ PŘEDMĚTY: 1000 zátek</Dest>
 =Emergency Alarms Sounded=&#xD;
 &#xD;
 =Residential Locks Remain Active=</Source>
-      <Dest>Manuální uzavření v procesu&#xD;
+      <Dest>Probíhá změna uzamčení...&#xD;
 &#xD;
 =Zámky dveří deaktivovány=&#xD;
 =Spuštěn nouzový poplach=&#xD;

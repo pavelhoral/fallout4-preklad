@@ -59,7 +59,7 @@
 Targeting overridden, $Administrator.</Source>
       <Dest>Připojování k závodníkům...&#xD;
 ...přístup k zaměřovacímu subsystému...&#xD;
-...rozesílání vlastního nastavení... hotovo.&#xD;
+...rozesílání změny nastavení... hotovo.&#xD;
 &#xD;
 Zaměřování přenastaveno, $Administrátore.</Dest>
     </String>
@@ -6025,7 +6025,7 @@ Rusty jede!</Dest>
       <EDID>DN047_FourLeafSecurityTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Security system currently disabled. Manual override required to reset system.</Source>
-      <Dest>Bezpečnostní systém je momentálně vypnutý. K restartování systému je nutné ruční ovládání.</Dest>
+      <Dest>Bezpečnostní systém je momentálně vypnutý. Restartování systému vyžaduje manuální příkaz.</Dest>
     </String>
     <String List="0" sID="02A723">
       <EDID>dn045_terminalSubMain</EDID>
@@ -6867,7 +6867,7 @@ Záznam o zasvěcení nováčků.&#xD;
 [890916] Executive Evacuation procedures activated...</Source>
       <Dest>[890913] Poplach z firemní centrály kvůli jaderné aktivitě...&#xD;
 [890914] Firemní komunikační spojení zajištěno...&#xD;
-[890915] Aktivována bezpečnostní izolace, vysoká priorita...&#xD;
+[890915] Aktivována bezpečnostní izolace, prioritní příkaz...&#xD;
 [890916] Aktivován proces pro evakuaci vedoucích pracovníků...</Dest>
     </String>
     <String List="0" sID="02CD2B">
@@ -7204,7 +7204,7 @@ STAV: v činnosti</Dest>
 Targeting overridden, $Administrator.</Source>
       <Dest>Připojování k závodníkům...&#xD;
 ...přístup k zaměřovacímu subsystému...&#xD;
-...rozesílání vlastního nastavení... hotovo.&#xD;
+...rozesílání změny nastavení... hotovo.&#xD;
 &#xD;
 Zaměřování přenastaveno, $Administrátore.</Dest>
     </String>
@@ -8264,7 +8264,7 @@ Vedení zrušilo izolaci zařízení. Veškerý bezpečnostní personál zůstan
       <EDID>DN066_ExecTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Activating Override</Source>
-      <Dest>Aktivování ručního ovládání</Dest>
+      <Dest>Probíhá změna poplachu</Dest>
     </String>
     <String List="0" sID="02EA41">
       <EDID>DN066_SecurityTerminal</EDID>
@@ -8400,7 +8400,7 @@ Vedení zrušilo izolaci zařízení. Veškerý bezpečnostní personál zůstan
       <EDID>DN066_ExecTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Alert Override: Off</Source>
-      <Dest>Ruční ovládání poplachu: Vypnuto</Dest>
+      <Dest>Vynutit ukončení poplachu</Dest>
     </String>
     <String List="0" sID="02F1D0">
       <EDID>DN066_LabTerminal</EDID>

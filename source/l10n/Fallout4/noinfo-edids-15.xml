@@ -393,7 +393,7 @@ Admin_Skupina: &lt;Token.Name=Faction&gt;</Dest>
       <EDID>hackerSpotlightHolotapeSubMenu</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>UPLOADING OVERRIDE PROGRAM</Source>
-      <Dest>ODESÍLÁNÍ PŘEPISOVACÍHO PROGRAMU</Dest>
+      <Dest>NAHRÁVÁNÍ ŘÍDICÍHO PROGRAMU</Dest>
     </String>
     <String List="0" sID="0161D5">
       <EDID>HairMale19</EDID>
@@ -1083,13 +1083,13 @@ Vykliďte z oblasti veškerý personál&#xD;
       <EDID>hackerSpotlightHolotapeSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./admin.spotlight_override</Source>
-      <Dest>*./admin.spotlight_prepis</Dest>
+      <Dest>*./admin.reflektor_ovladani</Dest>
     </String>
     <String List="0" sID="022CC1">
       <EDID>hackerProtectronHolotapeSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./admin.protectron_override</Source>
-      <Dest>*./admin.protektron_prepis</Dest>
+      <Dest>*./admin.protektron_ovladani</Dest>
     </String>
     <String List="0" sID="022E31">
       <EDID>HairFemale15</EDID>
@@ -1239,7 +1239,7 @@ Vykliďte z oblasti veškerý personál&#xD;
       <EDID>hackerProtectronHolotapeSubMenu</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Override Alliance Parameters</Source>
-      <Dest>Přepsat alianční parametry</Dest>
+      <Dest>Změnit alianční parametry</Dest>
     </String>
     <String List="0" sID="0253DA">
       <EDID>hackerSpotlightHolotapeSubMenu</EDID>
@@ -1349,7 +1349,7 @@ Vykliďte z oblasti veškerý personál&#xD;
 ! ! CATASTROPHIC UNIT DAMAGE IMMINMENT ! !&#xD;
 &#xD;
 </Source>
-      <Dest>&gt;&gt;PROGRAM PRO PŘEPIS REFLEKTORŮ &#xD;
+      <Dest>&gt;&gt;ZMĚNA OVLÁDÁNÍ REFLEKTORŮ &#xD;
 &gt;&gt;JISTIČE ODPOJENY&#xD;
 &gt;&gt;PROUD NAVÝŠEN&#xD;
                    **************&#xD;
@@ -1549,7 +1549,7 @@ Turret(s) Connected: &lt;Token.Value=Connected&gt;&#xD;
 &#xD;
 &#xD;
 </Source>
-      <Dest>*./admin.vez_zamerovani_prepis&#xD;
+      <Dest>*./admin.vez_zamerovani_ovladani&#xD;
 Verze BIOSu: vladce_injektor_aktivni&#xD;
 STAV: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;
@@ -1567,7 +1567,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;&#xD;
       <EDID>hackerTurretHolotapeSubMenu</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Override Targeting Parameters</Source>
-      <Dest>Změnit zaměřovací parametry</Dest>
+      <Dest>Přepsat zaměřovací parametry</Dest>
     </String>
     <String List="0" sID="028917">
       <EDID>hackerTurretTargetHolotapeSubMenu</EDID>
@@ -1645,7 +1645,7 @@ Admin_Group: &lt;Token.Name=Faction&gt;&#xD;
 Turret(s) Connected: &lt;Token.Value=Connected&gt;&#xD;
 &#xD;
 </Source>
-      <Dest>*./admin.vez_zamerovani_prepis&#xD;
+      <Dest>*./admin.vez_zamerovani_ovladani&#xD;
 Verze BIOSu: vladce_injektor_aktivni&#xD;
 STAV: AKTIVNÍ, Zaměřování&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;
@@ -1695,7 +1695,7 @@ BIOS Version: overlord_injector_active&#xD;
 STATUS: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
 Admin_Group: &lt;Token.Name=Faction&gt;&#xD;
 Turret(s) Connected: &lt;Token.Value=Connected&gt;</Source>
-      <Dest>*./admin.vez_prepis&#xD;
+      <Dest>*./admin.vez_ovladani&#xD;
 Verze BIOSu: vudce_injektor_aktivni&#xD;
 STAV: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;
@@ -1711,7 +1711,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;</Dest>
       <EDID>hackerTurretTargetHolotapeSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./admin.turret_target_override</Source>
-      <Dest>*./admin.vez_zamerovani_prepis</Dest>
+      <Dest>*./admin.vez_zamerovani_ovladani</Dest>
     </String>
     <String List="0" sID="028BB1">
       <EDID>hackerTurretTargetHolotapeSubMenu</EDID>
@@ -1785,7 +1785,7 @@ CHYBA: Žádná data pro kalibraci těla nejsou zaznamenána, vracím do výchoz
       <EDID>hackerTurretHolotapeSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./admin.turret_override</Source>
-      <Dest>*./admin.vez_prepis</Dest>
+      <Dest>*./admin.vez_ovladani</Dest>
     </String>
     <String List="0" sID="028C0F">
       <EDID>hackerTurretHolotapeSubMenu</EDID>
@@ -1795,7 +1795,7 @@ BIOS Version: overlord_injector_active&#xD;
 STATUS: BUSY, Targeting&#xD;
 Admin_Group: &lt;Token.Name=Faction&gt;&#xD;
 Turret(s) Connected: &lt;Token.Value=Connected&gt;</Source>
-      <Dest>*./admin.vez_prepis&#xD;
+      <Dest>*./admin.vez_ovladani&#xD;
 Verze BIOSu: vladce_injektor_aktivni&#xD;
 STAV: AKTIVNÍ, Zaměřování&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;
@@ -3449,7 +3449,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;</Dest>
       <EDID>hackerTurretAmmoHolotapeSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>*./admin.turret_ammo_override</Source>
-      <Dest>*./admin.vez_munice_prepis</Dest>
+      <Dest>*./admin.vez_munice_ovladani</Dest>
     </String>
     <String List="0" sID="03268F">
       <EDID>hackerTurretAmmoHolotapeSubMenu</EDID>
@@ -3465,7 +3465,7 @@ BIOS Version: overlord_injector_active&#xD;
 STATUS: BUSY, Targeting&#xD;
 Admin_Group: &lt;Token.Name=Faction&gt;&#xD;
 Turret(s) Connected: &lt;Token.Value=Connected&gt;</Source>
-      <Dest>*./admin.vez_prepis&#xD;
+      <Dest>*./admin.vez_ovladani&#xD;
 Verze BIOSu: vladce_injektor_aktivni&#xD;
 STAV: AKTIVNÍ, Zaměřování&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;
@@ -3627,7 +3627,7 @@ Připojené věže: &lt;Token.Value=Connected&gt;</Dest>
       <EDID>hackerTurretHolotapeSubMenu</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Override Ammo Loadout</Source>
-      <Dest>Změnit nastavení munice</Dest>
+      <Dest>Přepsat nastavení munice</Dest>
     </String>
     <String List="0" sID="032EAA">
       <EDID>hackerTurretHolotapeSubMenu</EDID>
@@ -3724,7 +3724,7 @@ Turret(s) Connected: &lt;Token.Value=Connected&gt;&#xD;
 ..                       &#xD;
 ..                       &#xD;
 &gt;&gt;Ammunition loadout parameters cleared.</Source>
-      <Dest>*./admin.vez_prepis&#xD;
+      <Dest>*./admin.vez_ovladani&#xD;
 Verze BIOSu: vladce_injektor_aktivni&#xD;
 STAV: &lt;Token.Name=OnStatus&gt;, &lt;Token.Name=AIstatus&gt;&#xD;
 Admin_Skupina: &lt;Token.Name=Faction&gt;&#xD;

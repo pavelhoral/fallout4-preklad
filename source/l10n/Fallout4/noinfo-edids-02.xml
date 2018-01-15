@@ -3907,7 +3907,7 @@ Jsem tak nadšený, že pracuji ve Fúzních závodech. Ostatní stážisti se z
       <EDID>BoS_DN084_Terminal_MassFusionMRSecuritySecondary</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>ERROR: The Security System is currently ACTIVE. All overrides have been disabled to prevent unauthorized access.</Source>
-      <Dest>CHYBA: Bezpečnostní systém je nyní AKTIVNÍ. Všechna manuální ovládání byla zablokována pro zamezení neautorizovaného přístupu.</Dest>
+      <Dest>CHYBA: Bezpečnostní systém je nyní AKTIVNÍ. Pro zamezení neautorizovaného přístupu nejsou povoleny žádné změny.</Dest>
     </String>
     <String List="0" sID="02AECD">
       <EDID>BoS_DN084_Terminal_MassFusionMRSecuritySecondary</EDID>
@@ -3919,7 +3919,7 @@ Jsem tak nadšený, že pracuji ve Fúzních závodech. Ostatní stážisti se z
       <EDID>BoS_DN084_Terminal_MassFusionMRFacilitiesSecondary</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>ERROR: The Security System is currently ACTIVE. Local overrides have been disabled to prevent unauthorized access.</Source>
-      <Dest>CHYBA: Bezpečnostní systém je nyní AKTIVNÍ. Místní manuální ovládání bylo zablokováno pro zamezení neautorizovaného přístupu.</Dest>
+      <Dest>CHYBA: Bezpečnostní systém je nyní AKTIVNÍ. Pro zamezení neautorizovaného přístupu nejsou povoleny lokální změny.</Dest>
     </String>
     <String List="0" sID="02AEDF">
       <EDID>BoS_DN084_Terminal_MassFusionMRSecuritySecondary</EDID>
@@ -5707,7 +5707,7 @@ Staré šrotiště se slušným potenciálem pro sběr nezpracovaného materiál
       <EDID>BoS_AirportTerminal_LibertyPrimeWarehouse</EDID>
       <REC>TERM:UNAM</REC>
       <Source>Door mechanism locked. Override not possible.</Source>
-      <Dest>Mechanismus dveří uzamčen. Ruční ovládání není možné.</Dest>
+      <Dest>Mechanismus dveří uzamčen. Ovládání není dostupné.</Dest>
     </String>
     <String List="0" sID="0326B5">
       <EDID>BoS_DN017_SecurityOfficeTerminal</EDID>

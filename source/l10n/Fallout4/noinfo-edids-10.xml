@@ -22,10 +22,10 @@ Bioscience Security&#xD;
 &#xD;
 *** SECURITY OVERRIDE IN PROGRESS. ACCESS RESTRICTED ***</Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení oddělení biologie&#xD;
+Zabezpečení oddělení biovědy&#xD;
 -------------------------------&#xD;
 &#xD;
-*** PROBÍHÁ RESET ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***</Dest>
+*** ZMĚNA V NASTAVENÍ ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***</Dest>
     </String>
     <String List="0" sID="012776">
       <EDID>dn097_subterminal01</EDID>
@@ -242,7 +242,7 @@ Poznámky: Osoba je bývalý voják, námořní pěchota Spojených států. Spo
       <EDID>DN102_TestLab2Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>Override Lockdown - Test Chamber 2</Source>
-      <Dest>Potlačení uzamčení - testovací komora 2</Dest>
+      <Dest>Zrušit uzamčení - testovací komora 2</Dest>
     </String>
     <String List="0" sID="01329B">
       <EDID>DN079_BasementTerminal</EDID>
@@ -282,7 +282,7 @@ Ta kniha o marketingu, co jsem našel, je opravdu skvělá. Jediným problémem 
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Cancel Security Override</Source>
-      <Dest>Zrušit reset zabezpečení</Dest>
+      <Dest>Zrušit změnu nastavení zabezpečení</Dest>
     </String>
     <String List="0" sID="01360C">
       <EDID>DN129_RobotTerminalPersonalitySubmenu</EDID>
@@ -1162,7 +1162,7 @@ Doporučuji jezero uzavřít veřejnosti a začít s oficiálním šetřením na
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Close Bioscience Security Door</Source>
-      <Dest>Zavřít bezpečnostní dveře oddělení biologie</Dest>
+      <Dest>Zavřít bezpečnostní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="016EC4">
       <EDID>dn097_terminal</EDID>
@@ -1186,7 +1186,7 @@ Doporučuji jezero uzavřít veřejnosti a začít s oficiálním šetřením na
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Bioscience Terminal</Source>
-      <Dest>Terminál oddělení biologie</Dest>
+      <Dest>Terminál oddělení biovědy</Dest>
     </String>
     <String List="0" sID="017273">
       <EDID>DN074_TerminalWaterQuality</EDID>
@@ -1510,7 +1510,7 @@ Zjištěn únik chemikálií. Ujistěte se, že všechen vedoucí personál byl 
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Cancel Security Override</Source>
-      <Dest>Zrušit reset zabezpečení</Dest>
+      <Dest>Zrušit změnu nastavení zabezpečení</Dest>
     </String>
     <String List="0" sID="018F89">
       <EDID>DN136_BioTerminalSub02</EDID>
@@ -1831,7 +1831,7 @@ Prezident a výkonný ředitel HalluciGenu Eric Rice prohlásil: „Naše dlouho
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Close Bioscience Security Door</Source>
-      <Dest>Zavřít bezpečnostní dveře oddělení biologie</Dest>
+      <Dest>Zavřít bezpečnostní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="01A77A">
       <EDID>DN074_TerminalWaterQuality</EDID>
@@ -2176,7 +2176,7 @@ Bioscience Security&#xD;
 -------------------------------&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení oddělení biologie&#xD;
+Zabezpečení oddělení biovědy&#xD;
 -------------------------------&#xD;
 </Dest>
     </String>
@@ -2346,7 +2346,7 @@ Bioscience Security&#xD;
 -------------------------------&#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení oddělení biologie&#xD;
+Zabezpečení oddělení biovědy&#xD;
 -------------------------------&#xD;
 </Dest>
     </String>
@@ -3030,7 +3030,7 @@ Rada konečně schválila renovaci sklepa. Trvalo jim to. Bude fajn se zbavit t�
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="021D25">
       <EDID>DN116MilitaryBotTerminalDefenseProtocol</EDID>
@@ -3930,7 +3930,7 @@ Sušené mléko&#xD;
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="025B17">
       <EDID>DN070_HolotapeSal</EDID>
@@ -4308,7 +4308,7 @@ Platýs&#xD;
       <EDID>DN136_BioTerminalSub03</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Open Bioscience Security Door</Source>
-      <Dest>Otevřít bezpečnostní dveře oddělení biologie</Dest>
+      <Dest>Otevřít bezpečnostní dveře oddělení biovědy</Dest>
     </String>
     <String List="0" sID="027B88">
       <EDID>DN081_SubTerminalExports</EDID>
@@ -4422,10 +4422,10 @@ Bioscience Security&#xD;
 &#xD;
 </Source>
       <Dest>-------------------------------&#xD;
-Zabezpečení oddělení biologie&#xD;
+Zabezpečení oddělení biovědy&#xD;
 -------------------------------&#xD;
 &#xD;
-*** PROBÍHÁ RESET ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***&#xD;
+*** ZMĚNA V NASTAVENÍ ZABEZPEČENÍ. PŘÍSTUP OMEZEN ***&#xD;
 &#xD;
 &#xD;
 </Dest>
@@ -4563,7 +4563,7 @@ v.1.35, 12. 8. 2077&#xD;
       <REC>TERM:UNAM</REC>
       <Source>Activating localized security override... done.&#xD;
 Maglock released. Opening door...</Source>
-      <Dest>Deaktivace místního zabezpečení... hotovo.&#xD;
+      <Dest>Aktivace lokální změny zabezpečení... hotovo.&#xD;
 Magnetozámek uvolněn. Otevírání dveří...</Dest>
     </String>
     <String List="0" sID="02870F">
@@ -6363,12 +6363,12 @@ Access Granted to Authorized Personnel Only&#xD;
 --Power Armor Storage and Repair--&#xD;
 Please enter your command:</Source>
       <Dest>===============================================&#xD;
-****POPLACH- UZAMČENÍ SYSTÉMU****&#xD;
-**** HLÁŠENY CIVILNÍ NEPOKOJE******&#xD;
+*** POPLACH - UZAMČENÍ SYSTÉMU ****&#xD;
+**** HLÁŠENY CIVILNÍ NEPOKOJE ******&#xD;
 ===============================================&#xD;
 Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::detekováno resetování hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
 --Sklad a oprava energozbrojí--&#xD;
 Prosím, zadejte váš příkaz:</Dest>
@@ -6405,12 +6405,12 @@ Access Granted to Authorized Personnel Only&#xD;
 --Armory Management and Inventory System--&#xD;
 Please enter your command:</Source>
       <Dest>===============================================&#xD;
-****POPLACH- UZAMČENÍ SYSTÉMU****&#xD;
-**** HLÁŠENY CIVILNÍ NEPOKOJE******&#xD;
+*** POPLACH - UZAMČENÍ SYSTÉMU ****&#xD;
+**** HLÁŠENY CIVILNÍ NEPOKOJE *****&#xD;
 ===============================================&#xD;
 Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::detekováno resetování hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
 --Systém pro správu zbrojnice a inventáře--&#xD;
 Prosím, zadejte váš příkaz:</Dest>
@@ -6441,12 +6441,12 @@ Access Granted to Authorized Personnel Only&#xD;
 --Barracks Access--&#xD;
 Please enter your command:</Source>
       <Dest>===============================================&#xD;
-****POPLACH- UZAMČENÍ SYSTÉMU****&#xD;
-**** HLÁŠENY CIVILNÍ NEPOKOJE******&#xD;
+*** POPLACH - UZAMČENÍ SYSTÉMU ****&#xD;
+**** HLÁŠENY CIVILNÍ NEPOKOJE *****&#xD;
 ===============================================&#xD;
 Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::detekováno resetování hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
 --Přístup do kasáren--&#xD;
 Prosím, zadejte váš příkaz:</Dest>
@@ -6475,14 +6475,14 @@ Access Granted to Authorized Personnel Only&#xD;
 &#xD;
 --Armory Management and Inventory System--&#xD;
 Please enter your command:</Source>
-      <Dest>================================================&#xD;
-*POPLACH- UZAMČENÍ SYSTÉMU PRO CIVILNÍ NEPOKOJE*&#xD;
-================================================&#xD;
+      <Dest>=================================================&#xD;
+*POPLACH - UZAMČENÍ SYSTÉMU PRO CIVILNÍ NEPOKOJE*&#xD;
+=================================================&#xD;
 Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::detekováno resetování hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
---Systém pro správů zbrojnice a inventáře--&#xD;
+--Systém pro správu zbrojnice a inventáře--&#xD;
 Prosím, zadejte váš příkaz:</Dest>
     </String>
     <String List="0" sID="02BFC1">
@@ -10971,7 +10971,7 @@ Chyba Serveru: připojení k síti nebylo úspěšné - zálohy nelze nyní obno
       <EDID>DN136_BioTerminalSub02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>BIOSCIENCE TERMINAL 4B</Source>
-      <Dest>TERMINÁL 4B ODDĚLENÍ BIOLOGIE</Dest>
+      <Dest>TERMINÁL 4B ODDĚLENÍ BIOVĚDY</Dest>
     </String>
     <String List="0" sID="0328A7">
       <EDID>DN136_ReactorTerminal</EDID>
