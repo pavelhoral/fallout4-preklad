@@ -89,6 +89,18 @@
                 <RemoveFile Id="Fallout4_en.DLSTRINGS" Name="Fallout4_en.DLSTRINGS" On="both" />
                 <File Id="Fallout4_en.DLSTRINGS" KeyPath="yes" />
             </Component>
+            <Component Id="DLCworkshop01_en.STRINGS" Guid="69544D15-CF23-4304-85F0-7D63D87826A3">
+                <RemoveFile Id="DLCworkshop01_en.STRINGS" Name="DLCworkshop01_en.STRINGS" On="both" />
+                <File Id="DLCworkshop01_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop01_en.ILSTRINGS" Guid="9461FC0C-D194-4933-A9B0-1ADDBD2CCBF2">
+                <RemoveFile Id="DLCworkshop01_en.ILSTRINGS" Name="DLCworkshop01_en.ILSTRINGS" On="both" />
+                <File Id="DLCworkshop01_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop01_en.DLSTRINGS" Guid="32204B01-ED43-4556-964E-26FCCBF38DB8">
+                <RemoveFile Id="DLCworkshop01_en.DLSTRINGS" Name="DLCworkshop01_en.DLSTRINGS" On="both" />
+                <File Id="DLCworkshop01_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
             <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
@@ -108,6 +120,9 @@
             <ComponentRef Id="Fallout4_en.STRINGS" />
             <ComponentRef Id="Fallout4_en.ILSTRINGS" />
             <ComponentRef Id="Fallout4_en.DLSTRINGS" />
+            <ComponentRef Id="DLCworkshop01_en.STRINGS" />
+            <ComponentRef Id="DLCworkshop01_en.ILSTRINGS" />
+            <ComponentRef Id="DLCworkshop01_en.DLSTRINGS" />
             <ComponentRef Id="Fallout4_Cestina.html" />
             <ComponentRef Id="Fallout4_Cestina.png" />
         </Feature>

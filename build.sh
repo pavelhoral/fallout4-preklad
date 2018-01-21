@@ -13,7 +13,7 @@
 set -e
 
 # Plugins to be built by default
-DEFAULT_PLUGINS='Fallout4 Fallout4_VR'
+DEFAULT_PLUGINS='Fallout4 DLCworkshop01 Fallout4_VR'
 
 # Make sure we have a working directory
 WORKDIR="build/.tmp";
