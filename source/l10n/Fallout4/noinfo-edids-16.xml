@@ -1774,7 +1774,7 @@ Poznámky: Instalace nového operačního systému</Dest>
       <EDID>InstMassFusion</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>(Optional) Restore Power to the Elevator</Source>
-      <Dest>(Nepovinné) Obnov přívod energie do výtahu</Dest>
+      <Dest>(Nepovinné) Obnov přívod elektřiny do výtahu</Dest>
     </String>
     <String List="0" sID="01EB52">
       <EDID>InstMassFusion</EDID>
@@ -4770,7 +4770,7 @@ Lately, however, we've been getting lax in our habits. Too often I'm finding lig
 Let's re-dedicate ourselves to doing what's right for the needs of the Institute as a whole. After all, this isn't just our home, it's a home for the future generations who will carry on the great work of building a better future.&#xD;
 &#xD;
 - Director Holdren</Source>
-      <Dest>Když jsme poprvé zavedli nová pravidla na spotřebu energie, byl jsem hrdý na to, jak jsme dokázali splnit nastavené standardy, aniž by to výrazně ovlivnilo výrobu. Byla to velká výzva, ale podařilo se nám ji pokořit.&#xD;
+      <Dest>Když jsme poprvé zavedli nová pravidla na spotřebu elektrické energie, byl jsem hrdý na to, jak jsme dokázali splnit nastavené standardy, aniž by to výrazně ovlivnilo výrobu. Byla to velká výzva, ale podařilo se nám ji pokořit.&#xD;
 &#xD;
 Poslední dobou se však zdá, že jsme usnuli na vavřínech. Až příliš často nacházím světla a vybavení zapnutá, když by neměla být, a nastavení vzduchotechniky změněné bez mého schválení.&#xD;
 &#xD;
@@ -5964,7 +5964,7 @@ I place my trust in your judgment. If you require additional power, or any other
 In short, do what you need to do, and if anyone objects to the way in which we carry out our work, I will deal with those objections myself.&#xD;
 &#xD;
 - Director Ayo</Source>
-      <Dest>Jak je jistě všem známo, Otec nás požádal, abychom pečlivě monitorovali naši spotřebu energie a pokusili se být co nejúspornější. S osobním důrazem bychom se měli snažit být úsporní ve všem, co děláme, ale je pochopitelné, že naše oddělení má potřeby, které jsou v Institutu poměrně specifické. Faktem je, že naše operace někdy vyžadují zdroje, které nejsme schopni na venek odůvodnit kvůli utajovanému charakteru naší práce.&#xD;
+      <Dest>Jak je jistě všem známo, Otec nás požádal, abychom pečlivě monitorovali naši spotřebu elektrické energie a pokusili se být co nejúspornější. S osobním důrazem bychom se měli snažit být úsporní ve všem, co děláme, ale je pochopitelné, že naše oddělení má potřeby, které jsou v Institutu poměrně specifické. Faktem je, že naše operace někdy vyžadují zdroje, které nejsme schopni na venek odůvodnit kvůli utajovanému charakteru naší práce.&#xD;
 &#xD;
 Vkládám důvěru ve vaše rozhodování. Pokud vyžadujete více energie nebo jiných zrojů k výkonu své práce, pak berte, co potřebujete. Pokud byste měli jakékoli obavy či otázky, neváhejte mne kontaktovat, ale mějte na paměti, že dodržení závěrečných projektových termínů je vaše zodpovědnost a případné výmluvy na úsporu energií nebudu akceptovat.&#xD;
 &#xD;
@@ -6775,7 +6775,7 @@ zasílám Vám požadované informace ohledně behaviorálních anomálií goril
       <EDID>InstM02RoboticsTerminal1Sub1</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Power Conservation Update</Source>
-      <Dest>Aktualizace úspory energie</Dest>
+      <Dest>Aktualizace k úsporám energie</Dest>
     </String>
     <String List="0" sID="032748">
       <EDID>InstituteBioScienceTerminal1A</EDID>
@@ -6801,7 +6801,7 @@ Unfortunately, the efforts we have made to date are simply not enough. We must c
 I have some ideas that will be discussed in the next Director's meeting. Until then, I ask that you please keep the need for conservation foremost in your thoughts.&#xD;
 &#xD;
 - Father</Source>
-      <Dest>Nedávno jsem se potkal s doktorkou Li, abychom zkontrolovali poslední měření spotřeby energie a mám dobré i špatné zprávy. Začnu tou dobrou.&#xD;
+      <Dest>Nedávno jsem se potkal s doktorkou Li, abychom zkontrolovali poslední měření spotřeby elektrické energie a mám dobré i špatné zprávy. Začnu tou dobrou.&#xD;
 &#xD;
 Je zřejmé, že jsme si žádost dr. Li vzali všichni k srdci a kladli na šetření energiemi velký důraz. Měření ukazují, že jsme dokázali svou činnost zefektivnit, kde se dalo. Zvláště jsem hrdý na oddělení robotiky, které vykázalo nejvyššího zlepšení a dokázalo předčit i oddělení pokročilých systémů. Dobrá práce.&#xD;
 &#xD;
@@ -6956,7 +6956,7 @@ Cíle: Rychlejší srážení krve, zvýšená odolnost vůči infekcím</Dest>
       <EDID>KendallHospitalButtonMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Insu</Source>
-      <Dest>Nedostatek</Dest>
+      <Dest>Nedost.</Dest>
     </String>
     <String List="0" sID="032992">
       <EDID>InstM02BinetTerminal</EDID>
@@ -9447,7 +9447,7 @@ F6-33 - Delta 6 2 Arcus&#xD;
       <EDID>KendallHospitalButtonMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Insufficient power...</Source>
-      <Dest>Nedostatek energie...</Dest>
+      <Dest>Nedostatečné napájení...</Dest>
     </String>
     <String List="1" sID="032D6C">
       <EDID>InstituteKickoutMessage</EDID>

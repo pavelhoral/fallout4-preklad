@@ -459,7 +459,9 @@ The Engine Core is operating on auxillary power.&#xD;
 Pomocné generátory: ZAPNUTO&#xD;
 &#xD;
 *VAROVÁNÍ*&#xD;
-Jádro motoru běží na nouzovou energii.</Dest>
+Jádro motoru pracuje v režimu pomocného napájení.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="015202">
       <EDID>BoS_DN130_GarageTerminal</EDID>
@@ -530,7 +532,8 @@ Power Options:</Source>
 Pomocné generátory: VYPNUTO&#xD;
 &#xD;
 *VAROVÁNÍ*&#xD;
-Jádro motoru běží na nouzovou energii. Pro úsporu energie byly všechny nedůležité systémy a operace zastaveny.&#xD;
+Jádro motoru pracuje v režimu nouzového napájení. Pro úsporu energie byly všechny nedůležité systémy a funkce pozastaveny.&#xD;
+&#xD;
 &#xD;
 Možnosti napájení:</Dest>
     </String>
@@ -868,7 +871,7 @@ Možnosti napájení:</Dest>
       <EDID>BoS_DN084_Terminal_MassFusionMAIN8FDevManagerMain</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Product Development Management Office</Source>
-      <Dest>Kancelář vedení vývoje produktu</Dest>
+      <Dest>Kancelář vedení produktového vývoje</Dest>
     </String>
     <String List="0" sID="019A03">
       <EDID>AudioTemplateYaoGuai</EDID>
@@ -1060,7 +1063,7 @@ Nebylo možné navázat spojení s prototypem. Prosím, kontaktujte technika pro
       <EDID>BoS_DN084_Terminal_MassFusionMAIN8FDev_NF</EDID>
       <REC>TERM:FULL</REC>
       <Source>Product Development Terminal</Source>
-      <Dest>Terminál vývoje produktu</Dest>
+      <Dest>Terminál produktového vývoje</Dest>
     </String>
     <String List="0" sID="01BC01">
       <EDID>BoS_DN017_FacilitiesTerminal</EDID>
@@ -1076,7 +1079,9 @@ The Engine Core is operating on emergency power. To conserve energy, all non-cri
 Pomocné generátory: VYPNUTO&#xD;
 &#xD;
 *VAROVÁNÍ*&#xD;
-Jádro motoru běží na nouzovou energii. Pro úsporu energie byly všechny nedůležité systémy a operace zastaveny.</Dest>
+Jádro motoru pracuje v režimu nouzového napájení. Pro úsporu energie byly všechny nedůležité systémy a funkce pozastaveny.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="01BC49">
       <EDID>AudioTemplateBloodbug</EDID>
@@ -1147,10 +1152,10 @@ Main power has been restored.</Source>
 ...hotovo.&#xD;
 Přistupování k rozvodům budovy...&#xD;
 ...hotovo.&#xD;
-Přesměrování energie...&#xD;
+Přesměrování zrdoje elektřiny...&#xD;
 ...hotovo.&#xD;
 &#xD;
-Hlavní zdroj byl obnoven.</Dest>
+Přívod elektrického proudu obnoven.</Dest>
     </String>
     <String List="0" sID="01C0F8">
       <EDID>BoS_DN084_Terminal_MassFusionMAINLobbySecurity</EDID>
@@ -1503,7 +1508,10 @@ The Engine Core is operating on auxillary power.&#xD;
 Pomocné generátory: ZAPNUTO&#xD;
 &#xD;
 *VAROVÁNÍ*&#xD;
-Jádro motoru běží na nouzovou energii.</Dest>
+Jádro motoru pracuje v režimu pomocného napájení.&#xD;
+&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="01DF89">
       <EDID>BedfordStationLocation</EDID>
@@ -1689,7 +1697,7 @@ A power surge has been detected in Product Development Lab #3. Main power has be
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl zaznamenán nárůst energie v laboratoři vývoje produktu #3. Hlavní zdroj byl odstaven, aby se předešlo poškození zařízení.&#xD;
+Detekováno kolísání napětí v laboratoři produktového vývoje #3. Hlavní zdroj byl odstaven, aby se předešlo poškození zařízení.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2203,9 +2211,9 @@ A power surge has been detected in Product Development Lab #3. Main power has be
 &#xD;
 It may be possible to reroute power around the affected area(s). Would you like to activate the automated routing procedure?</Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl zaznamenán nárůst energie v laboratoři vývoje produktu #3. Hlavní zdroj byl odstaven, aby se předešlo poškození zařízení.&#xD;
+Detekováno kolísání napětí v laboratoři produktového vývoje #3. Hlavní zdroj byl odstaven, aby se předešlo poškození zařízení.&#xD;
 &#xD;
-Je možné přesměrovat energii mimo postiženou oblast. Chcete aktivovat automatickou přesměrovací proceduru?</Dest>
+Je možné přesměrovat napájení mimo postiženou oblast. Chcete aktivovat automatickou přesměrovací proceduru?</Dest>
     </String>
     <String List="0" sID="025C75">
       <EDID>AutomotiveHubCap01</EDID>
@@ -2411,7 +2419,7 @@ Myslel jsem, že tohle je přesně důvod, proč jste opustil Poseidon. Karl.</D
       <EDID>BoS_DN084_Terminal_MassFusionMAIN8FDevManagerSecondary</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Product Development Management Office</Source>
-      <Dest>Kancelář vedení vývoje produktu</Dest>
+      <Dest>Kancelář vedení produktového vývoje</Dest>
     </String>
     <String List="0" sID="027B7F">
       <EDID>BoS_DN084_Terminal_MassFusionMRFacilitiesConfirm</EDID>
@@ -3015,7 +3023,7 @@ From: D. Wahbash, Facilities&#xD;
 &#xD;
 After dispatching the goblins, you enter a large chamber. The room is moist, dark and reeks of offal. Shadowfiend, you feel as though a thousand eyes are staring at you from the darkness but your darkvision reveals nothing. Gandar, you notice that your sword is giving off a faint shimmer. Tamash, your spirit guardian whispers words of warning to you that something otherworldly is here!</Source>
       <Dest>Komu: C. Collins, B. Thorpe, X. Vincent&#xD;
-Od: D. Wahbash, zařízení&#xD;
+Od: D. Wahbash, správa objektu&#xD;
 &#xD;
 Po vyslání goblinů vejdeš do velké síně. Místnost je vlhká, temná a páchne vnitřnostmi. Shadowfiende, cítíš, jakoby na tebe z temnoty zíraly tisíce očí, ale tvoje noční vidění nic neobjeví. Gandare, ty si všímáš, že se tvůj meč blýská. Tamashi, tvůj duchovní ochránce ti šeptá slova varování, že je tu něco nadpřirozeného!</Dest>
     </String>
@@ -3097,7 +3105,7 @@ Today we embark on a new frontier. Once the switch on the reactor is thrown, and
       <Dest>Komu: Tým reaktoru&#xD;
 Od: N. Chandrich, vedoucí výzkumu&#xD;
 &#xD;
-Dnes jsem přešli novou hranici. Jakmile je přepínač na reaktoru přehozen a berylliový mísič při studeném startu začne fúzní reakci, realita čisté jaderné energie bude na nás všech. Jako vedoucí výzkumu projektu bych rád poděkoval všem za přispění k věci. Hodně štěstí a Bůh vás provázej!</Dest>
+Dnes se chystáme pokořit zcela novou hranici. Jakmile zapojíme reaktor a berylliový mísič nastartuje studenou fúzní reakci, stane se sen čisté jaderné energie realitou pro nás všechny. Jako projektový vedoucí výzkumu bych rád poděkoval všem za jejich přispění k věci. Hodně štěstí a Bůh nás provázej!</Dest>
     </String>
     <String List="0" sID="02AAB7">
       <EDID>BoS_DN084_Terminal_MassFusionMRAttendant</EDID>
@@ -3115,7 +3123,7 @@ Today we embark on a new frontier. Once the switch on the reactor is thrown, and
       <Dest>Komu: Tým reaktoru&#xD;
 Od: N. Chandrich, vedoucí výzkumu&#xD;
 &#xD;
-Dnes jsem přešli novou hranici. Jakmile je přepínač na reaktoru přehozen a berylliový mísič při studeném startu začne fúzní reakci, realita čisté jaderné energie bude na nás všech. Jako vedoucí výzkumu projektu bych rád poděkoval všem za přispění k věci. Hodně štěstí a Bůh vás provázej!</Dest>
+Dnes se chystáme pokořit zcela novou hranici. Jakmile zapojíme reaktor a berylliový mísič nastartuje studenou fúzní reakci, stane se sen čisté jaderné energie realitou pro nás všechny. Jako projektový vedoucí výzkumu bych rád poděkoval všem za jejich přispění k věci. Hodně štěstí a Bůh nás provázej!</Dest>
     </String>
     <String List="0" sID="02AACC">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN1FCustomerService_NF</EDID>
@@ -3167,7 +3175,7 @@ From: D. Wahbash, Facilities&#xD;
 &#xD;
 Shadowfiend, your daggers harmlessly strike the cold stone of the ceiling as they seemingly pass through the shadowy, serpent-like form! Tamash, your staff would normally fill the chamber with pure sunlight, but something is preventing the magic from reaching its full potential. All you can manage is enough light to barely illuminate the room. Gandar, your sword cleaves air as your blade passes through the enemy unharmed.</Source>
       <Dest>Komu: C. Collins, B. Thorpe, X. Vincent&#xD;
-Od: D. Wahbash, zařízení&#xD;
+Od: D. Wahbash, správa objektu&#xD;
 &#xD;
 Shadowfiende, tvoje dýky neškodně zasáhly studený kámen na stropě, jak zdánlivě prošly tajemnou formou, podobnou hadovi! Tamashi, tvoje hůl by normálně zalila síň čistým slunečním svitem, ale něco zabraňuje magii dosažení plného potenciálu. Vše, co dokážeš, je sotva dostatek světla, abys trošku osvítil místnost. Gandare, tvůj meč rozštípne vzduch, jak tvoje čepel projde skrz nepřítele bez újmy.</Dest>
     </String>
@@ -3256,12 +3264,12 @@ Gandar vytahuje svůj meč prokletí démona ze své pochvy a čeká až Tamasho
 4. If your home's power isn't restored, please contact a service affiliate.&#xD;
 &#xD;
 Note: Mass Fusion is not responsible for any health-related issues caused by attempting to service our fusion equipment. </Source>
-      <Dest>Pokud Váš dům zažívá ztrátu energie a Váš účet není mezi dlužníky prosím následujte tyto kroky:&#xD;
+      <Dest>Pokud v domácnosti pociťujete nedostatek elektřiny a Váš účet není mezi dlužníky, prosím proveďte následující kroky:&#xD;
 &#xD;
 1. Najděte svůj fúzní rozvaděč.&#xD;
-2. Otevřete olověný stíněný panel.&#xD;
-3. Přepněte hlavní resetovací páku nahoru a dolů.&#xD;
-4. Pokud není energie ve Vašem domě obnovena prosím kontaktujte přidružený servis.&#xD;
+2. Otevřete stínící olověný panel.&#xD;
+3. Přepněte hlavní vypínací páku nahoru a dolů.&#xD;
+4. Nedojde-li k obnově dodávky elektřiny, prosím kontaktujte svého servisního technika.&#xD;
 &#xD;
 Poznámka: Fúzní závody nejsou zodpovědné za jakékoliv zdravotní potíže způsobené pokusem opravit naše fúzní zařízení.</Dest>
     </String>
@@ -3281,7 +3289,7 @@ Today we embark on a new frontier. Once the switch on the reactor is thrown, and
       <Dest>Komu: Tým reaktoru&#xD;
 Od: N. Chandrich, vedoucí výzkumu&#xD;
 &#xD;
-Dnes jsem přešli novou hranici. Jakmile je přepínač na reaktoru přehozen a berylliový mísič při studeném startu začne fúzní reakci, realita čisté jaderné energie bude na nás všech. Jako vedoucí výzkumu projektu bych rád poděkoval všem za přispění k věci. Hodně štěstí a Bůh vás provázej!</Dest>
+Dnes se chystáme pokořit zcela novou hranici. Jakmile zapojíme reaktor a berylliový mísič nastartuje studenou fúzní reakci, stane se sen čisté jaderné energie realitou pro nás všechny. Jako projektový vedoucí výzkumu bych rád poděkoval všem za jejich přispění k věci. Hodně štěstí a Bůh nás provázej!</Dest>
     </String>
     <String List="0" sID="02AB79">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN1FCustomerService_NF</EDID>
@@ -3323,7 +3331,7 @@ From: B. Thorpe, Prototype Engineering&#xD;
 &#xD;
 Tamash stops casting and switches to his Staff of Brilliant Sunlight. He incants the words and raises the staff high over his head to illuminate the room. He proudly yells aloud "Dark foe, prepare to be revealed!"</Source>
       <Dest>Komu: D. Wahbash, X. Vincent, C. Collins&#xD;
-Od: B. Thorpe, konstruování prototypu&#xD;
+Od: B. Thorpe, konstrukční technik&#xD;
 &#xD;
 Tamash zastaví připravování kouzla a přejde na svou hůl slunečního svitu. Přednese slova a pozvedne svou hůl vysoko nad svou hlavu pro osvětlení místnosti. Hrdě hlasitě zakřičí: „Temný nepříteli, připrav se na odhalení!“</Dest>
     </String>
@@ -3415,7 +3423,7 @@ Today we embark on a new frontier. Once the switch on the reactor is thrown, and
       <Dest>Komu: Tým reaktoru&#xD;
 Od: N. Chandrich, vedoucí výzkumu&#xD;
 &#xD;
-Dnes jsem přešli novou hranici. Jakmile je přepínač na reaktoru přehozen a berylliový mísič při studeném startu začne fúzní reakci, realita čisté jaderné energie bude na nás všech. Jako vedoucí výzkumu projektu bych rád poděkoval všem za přispění k věci. Hodně štěstí a Bůh vás provázej!</Dest>
+Dnes se chystáme pokořit zcela novou hranici. Jakmile zapojíme reaktor a berylliový mísič nastartuje studenou fúzní reakci, stane se sen čisté jaderné energie realitou pro nás všechny. Jako projektový vedoucí výzkumu bych rád poděkoval všem za jejich přispění k věci. Hodně štěstí a Bůh nás provázej!</Dest>
     </String>
     <String List="0" sID="02ABF9">
       <EDID>BigBeard05_Hairline</EDID>
@@ -3442,7 +3450,7 @@ Dnes jsem přešli novou hranici. Jakmile je přepínač na reaktoru přehozen a
 From: E. Denvers, Particle Theory&#xD;
 &#xD;
 What kind of bullshit is Chandrich trying to pull giving his recommendation to Hathaway? I've been that guy's slave for the last three years, and then that bitch waltzes in here and steals it all away from me? I'm telling you right now, you better do something about this or I'm walking, Goldburgh.</Source>
-      <Dest>Komu: W. Goldburgh, vedoucí vývoje produktů&#xD;
+      <Dest>Komu: W. Goldburgh, vedoucí produktového vývoje&#xD;
 Od: E. Denvers, teorie částic&#xD;
 &#xD;
 Co je to za nesmysl, že se Chandrich pokouší pomoct Hathawayové s povýšením? Byl jsem tomu chlapovi otrokem poslední tři roky a pak sem ta kráva přitancuje a všechno mi vezme? Říkám ti teď, měl bys s tím něco udělat, nebo odejdu, Goldburghu.</Dest>
@@ -3457,7 +3465,7 @@ Co je to za nesmysl, že se Chandrich pokouší pomoct Hathawayové s povýšen�
       <EDID>BoS_DN084_Terminal_MassFusionMAIN1FCustomerService_NFSub01</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Many individuals assume that the fusion distribution box in their home may present a danger to its occupants. While the device gives off a trace amount of radiation, we can assure you that it's completely safe. If you're experiencing the following symptoms, we give you our word you that they are in no way related to our Cleanpower technology: Nausea, vomiting, diarrhea, headache, fever, dizziness and disorientation, weakness, fatigue, hair loss, poor wound healing, low blood pressure, skin flaking or burns.</Source>
-      <Dest>Mnoho jednotlivců se domnívá, že fúzní rozvaděč v jejich domě představuje riziko pro jeho obyvatele. I když zařízení vyzařuje stopové množství radiace, můžeme Vás ujistit, že je naprosto bezpečné. Pokud pociťujete následující symptomy, dáváme Vám naše slovo, že nejsou žádným způsobem spojené s naší technologií čisté energie: žaludeční nevolnost, zvracení, průjem, bolest hlavy, horečka, závrať a dezorientace, slabost, únava, ztráta vlasů, špatné hojení zranění, nízký krevní tlak, loupání kůže nebo popáleniny.</Dest>
+      <Dest>Mnoho jednotlivců se domnívá, že fúzní rozvaděč v domě představuje riziko pro jeho obyvatele. I přesto, že zařízení vyzařuje stopové množství radiace, můžeme Vás ujistit, že je naprosto bezpečné. Pociťujete-li následující symptomy, dáváme Vám naše slovo, že nejsou žádným způsobem spojené s naší technologií čisté energie: žaludeční nevolnost, zvracení, průjem, bolest hlavy, horečka, závrať a dezorientace, slabost, únava, ztráta vlasů, špatné hojení zranění, nízký krevní tlak, loupání kůže nebo popáleniny.</Dest>
     </String>
     <String List="0" sID="02AC22">
       <EDID>BoS_DN084_Terminal_MassFusionMRSecurity</EDID>
@@ -3547,7 +3555,7 @@ From: B. Thorpe, Prototype Engineering&#xD;
 &#xD;
 Tamash reaches into his pouch and sprinkles his communing dust in a circle around himself. He closes his eyes and calls upon the Knowledge of Deeligasa. "Deeligasa, Sage of the Ages, show me what my eyes can't see!"</Source>
       <Dest>Komu: D. Wahbash, X. Vincent, C. Collins&#xD;
-Od: B. Thorpe, konstruování prototypu&#xD;
+Od: B. Thorpe, konstrukční technik&#xD;
 &#xD;
 Tamash sáhne do svého váčku a rozsype svůj prach spojení do kruhu okolo sebe. Zavře oči a vyzve vědění Deeligasa. „Deeligasi, mudrci věků, ukaž mi, co mé oči nemohou vidět!“</Dest>
     </String>
@@ -3595,7 +3603,7 @@ From: D. Wahbash, Facilities&#xD;
 &#xD;
 Tamash, something is preventing your summoning ritual from completing. All you feel is the cold touch of something dark and primeval creeping up your spine. You decide that rather than risk angering it further, you should cease casting. Shadowfiend, you think you see something slithering across the ceiling above Gandar.</Source>
       <Dest>Komu: C. Collins, B. Thorpe, X. Vincent&#xD;
-Od: D. Wahbash, zařízení&#xD;
+Od: D. Wahbash, správa objektu&#xD;
 &#xD;
 Tamashi, něco ti brání v dokončení rituálu vyvolávání. Vše, co cítíš, je chladný dotek něčeho temného a pravěkého, blížícího se k tvojí páteři. Rozhodneš se, že než riskovat, že to rozzlobíš víc, raději přerušíš kouzlení. Shadowfiende, ty si myslíš, že vidíš něco se plazit přes strop nad Gandarem.</Dest>
     </String>
@@ -3612,10 +3620,10 @@ Tamashi, něco ti brání v dokončení rituálu vyvolávání. Vše, co cítí�
 From: N. Chandrich, Research Lead&#xD;
 &#xD;
 Everything's in place and we're almost ready to get the Beryllium Agitator online. I have Kathy Hathaway working on the graphene shielding and the reactor team is working on the power calculations. That reminds me, Ms. Hathaway's contribution to this project has been absolutely invaluable. I'd like to recommend her for advancement. See that it happens.</Source>
-      <Dest>Komu: W. Goldburgh, vedoucí vývoje produktů&#xD;
+      <Dest>Komu: W. Goldburgh, vedoucí produktového vývoje&#xD;
 From: N. Chandrich, vedoucí výzkumu&#xD;
 &#xD;
-Všechno je na místě a jsme skoro připraveni spustit berylliový mísič. Nechal jsem Kathy Hathawayovou pracovat na grafenovém stínění a tým reaktoru pracuje na kalkulacích energie. To mi připomíná, přispění slečny Hathawayové k tomuto projektu bylo absolutně neocenitelné. Rád bych ji doporučil na povýšení. Postarejte se, ať se tak stane.</Dest>
+Všechno je na místě a jsme skoro připraveni spustit berylliový mísič. Nechal jsem Kathy Hathawayovou pracovat na grafenovém stínění a tým reaktoru pracuje na výkonnostních propočtech. To mi připomíná, přispění slečny Hathawayové k tomuto projektu bylo absolutně neocenitelné. Rád bych ji doporučil na povýšení. Postarejte se, ať se tak stane.</Dest>
     </String>
     <String List="0" sID="02ACDC">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN8FDev_NF</EDID>
@@ -3647,11 +3655,11 @@ Objednejte si svoje vlastní klobouky, trička, šortky, plavky, deštníky, kra
 After only a decade of research, Mass Fusion's Cleanpower Initiative transitioned from dream to reality and the switches were thrown. The people of Boston embraced this new technology, and by 2070, Mass Fusion became the primary power provider for all of Massachusetts. Now, as we look to the future, Mass Fusion hopes to bring ten more power plants online in the next several decades.&#xD;
 &#xD;
 To open a new account and begin enjoying the benefits of your nuclear tomorrow, please see one of our Mass Fusion Customer Service Representatives today!</Source>
-      <Dest>Na jaře roku 2043 se Karl Oslow odvážil snít o neomezené energii dodávané do nespočtu domácností z jedné elektrárny. Po šesti letech získávání zkušeností jako elektroinženýr v Poseidon Energy, se pan Oslow rozhodl, že už má dost tradičních metod distribuce energie a založil Fúzní závody pro realizaci své vize.&#xD;
+      <Dest>Na jaře roku 2043 se Karl Oslow odvážil snít o neomezené energii dodávané do nespočtu domácností z jediné elektrárny. Po šesti letech získávání zkušeností jako elektroinženýr v Poseidon Energy, se pan Oslow rozhodl, že už má dost tradičních metod distribuce energie a založil Fúzní závody pro realizaci své vize.&#xD;
 &#xD;
-Jenom po jedné dekádě výzkumu se úvodní nápad čisté energie Fúzních závodů změnil ze snu na realitu a vypínače byly přepnuty. Lidé Bostonu přijali tuto novou technologii a v roce 2070 se Fúzní závody staly hlavním dodavatelem energie pro celý Massachusetts. Nyní, jak se díváme do budoucnosti, Fúzní závody doufají, že zprovozní deset dalších elektráren během několika dekád. &#xD;
+Po pouhých desíti letech výzkumu se iniciativa Fúzních závodů za čistou energii proměnila ze snu v realitu a byly zahájeny první dodávky elektřiny. Bostonští obyvatelé tuto novou technologii vřele přijali a v roce 2070 se Fúzní závody staly hlavním dodavatelem elektřiny pro celý Massachusetts. Dnes, při pohledu na budoucnost, Fúzní závody doufají, že v nejbližších několika dekádách uvedou do provozu dalších deset elektráren. &#xD;
 &#xD;
-K otevření nového účtu a užívání si výhod Vašeho atomového zítřka prosím navštivte zástupce péče o zákazníky Fúzních závodů ještě dnes!</Dest>
+K otevření nového účtu a užívání si výhod Vašeho atomového zítřka prosím ještě dnes navštivte zástupce péče o zákazníky Fúzních závodů!</Dest>
     </String>
     <String List="0" sID="02ACE7">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN8FDev_NF</EDID>
@@ -3729,7 +3737,7 @@ Prosím, přestaň mi psát, Victore! Až budu mít odpověď, tak ti ji dám. N
       <EDID>BoS_DN084_Terminal_MassFusionMAIN1FCustomerService_NFSub01</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>If your entire street is experiencing a loss of power, then one of our substations or distribution centers is likely having a minor issue. Rest assured, we will work diligently to restore power to your neighborhood as soon as possible.</Source>
-      <Dest>Jestliže celá ulice zažívá ztrátu energie, pak pravděpodobně jedna z našich rozvoden nebo distribučních center má nějaký menší problém. Buďte si jisti, že budeme pracovat pilně na obnovení energie do Vašeho sousedství, jak jen to bude možné.</Dest>
+      <Dest>Pokud dochází k výpadkům elektrického proudu v celé ulici, je nejspíš problém v jedné z našich rozvoden nebo distribučních centrech. V takovém případě si můžete být jisti, že velmi usilovně pracujeme na co nejdřívější obnově dodávek elektřiny do Vašeho sousedství.</Dest>
     </String>
     <String List="0" sID="02AD2D">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN3FServer_NF</EDID>
@@ -3793,7 +3801,7 @@ From: B. Thorpe, Prototype Engineering&#xD;
 &#xD;
 Tamash drops the staff, reaches into his left front pocket and pulls out a pinch of sulfur powder. He incants the Flameblaze spell and blows into the pile of powder towards the beast. If it works, the thing has to make a -5 fire check.</Source>
       <Dest>Komu: D. Wahbash, X. Vincent, C. Collins&#xD;
-Od: B. Thorpe, konstruování prototypu&#xD;
+Od: B. Thorpe, konstrukční technik&#xD;
 &#xD;
 Tamash upustí hůl, sáhne do své levé přední kapsy a vytáhne špetku sírového prášku. Přednese kouzlo plápolajícího ohně a foukne do hromádky prášku směrem k bestii. Jestli to funguje, musí tohle způsobit -5 omezení ohně.</Dest>
     </String>
@@ -3937,7 +3945,7 @@ Jsem tak nadšený, že pracuji ve Fúzních závodech. Ostatní stážisti se z
       <EDID>BoS_DN084_Terminal_MassFusionMAIN27F_NF</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Product Engineering Intern - Jack Rockford</Source>
-      <Dest>Stážista vývoje produktu - Jack Rockford</Dest>
+      <Dest>Stážista produktového vývoje - Jack Rockford</Dest>
     </String>
     <String List="0" sID="02AF1B">
       <EDID>BoS_DN084_Terminal_MassFusionMRFacilitiesSecondary</EDID>
@@ -4101,7 +4109,9 @@ Ony fungují.&#xD;
 &#xD;
 Potřebuji nějaký způsob, jak je předvést. Slyšel jsem, že tenhle rok je na střeše sváteční párty. To je moje šance - vypít pár drinků a pak jen ups a spadnout z budovy. Nemůžu se dočkat, až uvidím jejich tváře. Určitě dostanu práci.&#xD;
 &#xD;
-Do té doby je nechám zamknuté v mém trezoru. Lepší, když to bude překvapení.</Dest>
+Do té doby je nechám zamknuté v mém trezoru. Lepší, když to bude překvapení.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="02B10C">
       <EDID>BoS_DN084_Terminal_MassFusionMRReactorControl</EDID>
@@ -4117,13 +4127,15 @@ Critical levels of radiation have been detected in the reactor chamber. Please t
 &#xD;
 </Source>
       <Dest>---STAV REAKTORU---&#xD;
-Hlavní reaktor je v současnosti V PROVOZU.&#xD;
-Kapacita energie: 22,105 MW&#xD;
+Hlavní reaktor je aktuálně V PROVOZU.&#xD;
+Výkonová kapacita: 22,105 MW&#xD;
 Hodnocení efektivity: 99,9997 %&#xD;
 Úroveň radiace: KRITICKÁ - 153 radů&#xD;
 &#xD;
 -VAROVÁNÍ-&#xD;
-V komoře reaktoru zjištěna kritická úroveň radiace. Prosím, dodržte příslušná bezpečnostní opatření.</Dest>
+V komoře reaktoru zjištěna kritická úroveň radiace. Prosím, dodržte příslušná bezpečnostní opatření.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="02B12C">
       <EDID>BoS_DN084_Terminal_MassFusionMRSecuritySecondary</EDID>
@@ -4189,9 +4201,9 @@ Můžete tomu uvěřit? Jediné 'vzdělání v práci', které dostávám, je na
       <Source>Please welcome our new Product Engineering Interns: Alyssa Torres, Daniel Montgomery, and Jack Rockford. &#xD;
 &#xD;
 As part of Mass Fusion's industry-leading Education at Work program, these talented students will have six months of intensive, hands-on training in our product engineering division while working to earn valuable college credit.</Source>
-      <Dest>Prosím, přivítejte naše nové stážisty vývoje produktů: Alyssa Torresová, Daniel Montgomery a Jack Rockford.&#xD;
+      <Dest>Prosím, přivítejte naše nové stážisty produktového vývoje: Alyssa Torresová, Daniel Montgomery a Jack Rockford.&#xD;
 &#xD;
-Jako součást špičkového vzdělávacího a pracovního programu Fúzních závodů, budou tito studenti mít šest měsíců intenzivní praktické školení v naší divizi vývoje produktů, zatímco budou pracovat, aby získali cenné vysokoškolské kredity.</Dest>
+Jako součást špičkového vzdělávacího a pracovního programu Fúzních závodů, budou tito studenti mít šest měsíců intenzivní praktické školení v naší divizi produktového vývoje, zatímco budou pracovat, aby získali cenné vysokoškolské kredity.</Dest>
     </String>
     <String List="0" sID="02B278">
       <EDID>BoS_DN084_Terminal_MassFusionMRSecuritySecondary</EDID>
@@ -4225,13 +4237,15 @@ Critical levels of radiation have been detected in the reactor chamber. Please t
 &#xD;
 </Source>
       <Dest>---STAV REAKTORU---&#xD;
-Hlavní reaktor je v současnosti MIMO PROVOZ.&#xD;
-Kapacita energie: 22,105 MW&#xD;
+Hlavní reaktor je aktuálně MIMO PROVOZ.&#xD;
+Výkonová kapacita: 22,105 MW&#xD;
 Hodnocení efektivity: neznámé&#xD;
 Úroveň radiace: KRITICKÁ - 153 radů&#xD;
 &#xD;
 -VAROVÁNÍ-&#xD;
-V komoře reaktoru zjištěna kritická úroveň radiace. Prosím, dodržte příslušná bezpečnostní opatření.</Dest>
+V komoře reaktoru zjištěna kritická úroveň radiace. Prosím, dodržte příslušná bezpečnostní opatření.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="02B2B6">
       <EDID>BoS_DN084_Terminal_MassFusionMAIN27F_NF</EDID>

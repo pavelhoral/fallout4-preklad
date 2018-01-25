@@ -2089,7 +2089,7 @@ Ghúlové se maca vůbec nedotkli, ale kousky krtkopotkanů je trošku zaujaly. 
       <EDID>BoS303</EDID>
       <REC id="7">QUST:NNAM</REC>
       <Source>(Optional) Restore Power to the Elevator</Source>
-      <Dest>(Nepovinné) Obnov přívod energie do výtahu</Dest>
+      <Dest>(Nepovinné) Obnov přívod elektřiny do výtahu</Dest>
     </String>
     <String List="0" sID="0204B0">
       <EDID>BoS303</EDID>
@@ -5315,9 +5315,9 @@ I don't know what the heck the mess hall is serving, but the sewage lines were c
       <Dest>Typ: Oprava&#xD;
 Status: Hotovo&#xD;
 Provedeno: Bainbridge BB-426ES&#xD;
-Předmet: Kanalizace&#xD;
+Předmet: Odpadní potrubí&#xD;
 &#xD;
-Nemám absolutní tušení, co sakra v jídelně podávaj, ale kanalizace je kompletně ucpaná. Bylo to tak odporné, že jsem si musel půjčit helmu z energozbroje mého kamaráda, jinak bych se z toho puchu pozvracel. Příště raději budu venku seškrabávat rez z pancíře lodi než tohle.</Dest>
+Nemám absolutní tušení, co sakra v jídelně podávaj, ale odpadní potrubí bylo kompletně ucpané. Bylo to tak odporné, že jsem si musel půjčit parťákovic helmu z energozbroje, jinak bych se z toho puchu pozvracel. Příště raději budu venku seškrabávat rez z pancíře lodi než tohle.</Dest>
     </String>
     <String List="0" sID="0323A4">
       <EDID>BoS_Prydwen_Terminal_NeriahLabSub01</EDID>
@@ -5401,9 +5401,9 @@ Installed a ventilation system over the rear laboratory space to help Neriah ven
       <Dest>Typ: Instalace&#xD;
 Status: Hotovo&#xD;
 Provedeno: Ingramová IG-444PR&#xD;
-Předmět: Ventilační filtrovací systém&#xD;
+Předmět: Systém pro odvětrávání&#xD;
 &#xD;
-Nainstalovala jsem ventilační systém pro zadní laboratorní prostory, aby se zápach z krtkopotkanů Neriahové ventiloval ven z lodi. Musela jsem vyříznout pár děr ve vnitřním a venkovním plátování, ale vše jsem třikrát svařila, aby to zůstalo pohromadě. Ventilace má časovač, takže by neměla konzumovat příliš energie z lodních rezerv. Ráda jsem pomohla vzhledem k tomu, že cítím ty její krysy i tady dole.</Dest>
+Nainstalovala jsem ventilační systém v zadních laboratorních prostorách, aby mohla Neriahová odvětrávat zápach ze svých krtkopotkanů ven z lodi. Musela jsem vyříznout pár děr ve vnitřním a vnějším plátování, ale vše jsem třikrát svařila, aby to všechno pořádně drželo. Ventilace má časovač, takže by neměla konzumovat příliš energie z lodních rezerv. Ráda jsem pomohla vzhledem k tomu, že cítím ty její krysy i tady dole.</Dest>
     </String>
     <String List="0" sID="032475">
       <EDID>BoS_Prydwen_Terminal_NeriahLabSub02</EDID>
@@ -5513,7 +5513,7 @@ Status: Hotovo&#xD;
 Provedeno: Ingramová IG-444PR&#xD;
 Předměl: Pozemní konstrukční rampa&#xD;
 &#xD;
-Konečně jsem tu rampu dokončila. Doufám, že se mi to podařilo navrhnout dostatečně dobře, aby unesla váhu Pěsti svobody. Taky jsem natáhla spoustu elektrických vodičů z motorů Prywden přímo do transformátorů pod kontrolní platformou. Napojím to všechno do systému, takže budeme moci přepnout z energie lodi na interní zdroj obra zmáčknutím tlačítka. Teď už jen potřebujeme zázrak, který by dostal Pěst svobody zpět na nohy.</Dest>
+Konečně je stavba rampy dokončená. Doufám, že se mi ji podařilo navrhnout dostatečně dobře, aby unesla váhu Pěsti svobody. Taky jsem natáhla spoustu elektrických vodičů z motorů Prywden přímo do transformátorů pod hlavní platformu. Zapojím to celé tak, abychom byli schopni přepnout napájení z lodi na interní zdroj obra zmáčknutím tlačítka. Teď už jen potřebujeme zázrak, který by dostal Pěst svobody zpět na nohy.</Dest>
     </String>
     <String List="0" sID="03253D">
       <EDID>BoS_Prydwen_Terminal_QuinlanSub02</EDID>
@@ -5539,7 +5539,7 @@ Vorpal threw a rotor on its last landing, so I hitched a ride with Spatha and he
       <Dest>Typ: Oprava&#xD;
 Status: Hotovo&#xD;
 Provedeno: Ingramová IG-444PR&#xD;
-Předmět: útočný vertibird „Vorpal“&#xD;
+Předmět: Útočný vertibird „Vorpal“&#xD;
 &#xD;
 Vorpal při svém posledním přistání ztratil motor, takže jsem se svezla na Spathe a zamířila na místo havárie. Pilot odvedl sakra dobrou práci, když přistál se svým „ptáčkem“ v jednom kuse. Stačilo pouze opravit rotor a dát ho zpět na jeho místo. Plátování na pravé části je trošku pochroumané, ale to sklepu kladivem hned, jak dostaneme Vorpal zpět na letiště. Bylo fajn pro jednou opustit Prywden. Doufám, že se mi podaří Kellse přesvědčit, aby mě pustil ven s nějakou příští hlídkou.</Dest>
     </String>
@@ -6468,7 +6468,7 @@ I'm happy to report that Liberty Prime has been completed, and initial diagnosti
       <Dest>Od: Proktor Ingramová IG-444PR&#xD;
 Pro: Starší Maxson MX-001E&#xD;
 &#xD;
-S radostí vám oznamuji, že Pěst svobody byla dokončena a první testy bojových schopností jsou velmi slibné. Pěst svobody aktualně používá energii z motorů Prywden, takže musíme co nejdříve najít způsob, jak spustit její vlastní reaktor. Jakmile bude reaktor spuštěn, budeme připraveni ji z rampy uvolnit a poslat do boje.</Dest>
+S radostí oznamuji, že Pěst svobody byla dokončena a úvodní diagnostika bojových schopností vypadá velmi slibně. Pěst aktuálně využívá energii dodávanou motory Prywden, nicméně doufáme, že co nejdříve najdeme způsob, jak zprovoznit její vnitřní reaktor. Ihned po spuštění reaktoru ji budeme moct z rampy odpoutat a vyslat do boje.</Dest>
     </String>
     <String List="0" sID="032E83">
       <EDID>BoS_Prydwen_Terminal_Maxson</EDID>
@@ -7591,7 +7591,7 @@ Prostě vem ty přísady a smíchej je v nějaké chemické laboratoři. Hodně 
       <EDID>BoS304</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>In order to get Liberty Prime's running under his own power, I should speak to Proctor Ingram.</Source>
-      <Dest>Pokud má Pěst svobody fungovat z vlasní energie, musím si promluvit s proktorem Ingramovou.</Dest>
+      <Dest>Pro přepnutí Pěsti svobody na vnitřní napájení si musím promluvit proktorem Ingramovou.</Dest>
     </String>
     <String List="1" sID="030ECA">
       <EDID>BoS302</EDID>
@@ -7681,7 +7681,7 @@ Prostě vem ty přísady a smíchej je v nějaké chemické laboratoři. Hodně 
       <EDID>BoS101</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Paladin Danse and I need to reach the top of the Engine Core in ArcJet Systems. I'll have to search for a way to restore power to the access elevator.</Source>
-      <Dest>Spolu s Dansem se musíme dostat nahoru k jádru ArcJet Systems. Musím najít způsob, jak obnovit přívod energie do výtahu.</Dest>
+      <Dest>Spolu s Dansem se musíme dostat nahoru k jádru ArcJet Systems. Musím najít způsob, jak obnovit napájení výtahu.</Dest>
     </String>
     <String List="1" sID="030F59">
       <EDID>BoS201</EDID>
