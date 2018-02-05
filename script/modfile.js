@@ -99,13 +99,18 @@ program.
  */
 program.
     command('find <pattern>').
-    description('Find items with the defined HEX pattern in their body.').
-    option('-t, --type <type>', 'specify entry type to find').
-    action((options) => {
-        var modfileFind = require('./modfile/find'),
-            matchExtractor = readModfile(new modfileFind.MatchExtractor(options.type, program.args[0])),
-            resultData = [];
-        matchExtractor.result.forEach((match) => {
+    description('Find items with the defined pattern in their body.').
+    option('-g, --group <group>', 'specify entry type to find').
+    option('-t, --text', 'do a text based search').
+    option('-r, --reverse', 'use reversed hex pattern').
+    action((pattern, options) => {
+        var modfileFind = require('./modfile/find');
+        if (options.text) {
+            pattern = Buffer.from(pattern, 'utf-8').toString('hex');
+        } else if (options.reverse) {
+            pattern = pattern.match(/../g).reverse().join('');
+        }
+        readModfile(new modfileFind.MatchExtractor(options.type, pattern)).result.forEach((match) => {
             output.write(`${renderFormId(match.formId)} [${parseModfile.MODFILE_TYPES.decode(match.type)}] ${match.editorId}\n`);
         });
     });
@@ -132,11 +137,8 @@ program.
  */
 program.
     action(() => {
-        console.error('[ERROR] Unknown command \'' + program.args[0] + '\'.');
+        program.help();
     });
 
 program.parse(process.argv);
 output.close();
-if (!program.args.length) {
-    program.help();
-}
