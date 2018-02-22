@@ -38,7 +38,7 @@ module.exports.ModfileType = ModfileType;
  * Create basic MODFILE_TYPE pool.
  */
 var MODFILE_TYPES = new ModfileType([
-    'GRUP', 'EDID', 'OFST'
+    'GRUP', 'EDID', 'OFST', 'XXXX'
 ]);
 module.exports.MODFILE_TYPES = MODFILE_TYPES;
 
@@ -182,7 +182,7 @@ class ModfileParser {
     parseFields(buffer, handler) {
         var offset = 0;
         while (offset < buffer.length) {
-            offset += this.parseField(buffer, offset, handler);
+            offset += this.parseField(buffer, offset, buffer.readUInt16LE(offset + 4), handler);
         }
         return buffer.length;
     }
@@ -190,11 +190,12 @@ class ModfileParser {
     /**
      * Parse field at the specified offset.
      */
-    parseField(buffer, offset, handler) {
-        var type = buffer.readUInt32LE(offset),
-            size = buffer.readUInt16LE(offset + 4);
+    parseField(buffer, offset, size, handler) {
+        var type = buffer.readUInt32LE(offset);
         if (type === MODFILE_TYPES.OFST) {
             return buffer.length - offset;
+        } else if (type === MODFILE_TYPES.XXXX) {
+            return size + 6 + this.parseField(buffer, offset + 16, buffer.readUInt32LE(offset + 6), handler);
         }
         handler.handleField(type, size, buffer, offset + 6);
         return size + 6;
