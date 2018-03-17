@@ -647,7 +647,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuForce</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>WARNING: Output force exceeds recommended safety parameters.</Source>
-      <Dest>VAROVÁNÍ: Síla překročuje doporučené bezpečné parametry.</Dest>
+      <Dest>VAROVÁNÍ: Síla překračuje doporučené bezpečné parametry.</Dest>
     </String>
     <String List="0" sID="000618">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuForce</EDID>
@@ -679,7 +679,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuForce</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>WARNING: Output force exceeds recommended safety parameters.</Source>
-      <Dest>VAROVÁNÍ: Síla překročuje doporučené bezpečné parametry.</Dest>
+      <Dest>VAROVÁNÍ: Síla překračuje doporučené bezpečné parametry.</Dest>
     </String>
     <String List="0" sID="00061E">
       <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
@@ -885,7 +885,7 @@ Nastavte sílu:&#xD;
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuForce</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>WARNING: Output force exceeds recommended safety parameters.</Source>
-      <Dest>VAROVÁNÍ: Síla překročuje doporučené bezpečné parametry.</Dest>
+      <Dest>VAROVÁNÍ: Síla překračuje doporučené bezpečné parametry.</Dest>
     </String>
     <String List="0" sID="000640">
       <EDID>DLC05nativeWorkshopBuilderWeapon01Terminal</EDID>
@@ -1357,7 +1357,7 @@ Nastavte rychlost dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Firework Control</Source>
-      <Dest>Ovládání ohňostroje Universal</Dest>
+      <Dest>Ovládání ohňostroje Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="000694">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1465,13 +1465,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překročuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
     </String>
     <String List="0" sID="0006A4">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překročuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
     </String>
     <String List="0" sID="0006A5">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1813,7 +1813,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Universal Pyrotechnics Firework Mortar Control</Source>
-      <Dest>&gt; Ovládání hmoždíře na ohňostroj Universal Pyrotechnics  </Dest>
+      <Dest>&gt; Ovládání hmoždíře na ohňostroj Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="0006DB">
       <EDID>DLC05nativeWorkshopBuilderExplosives01Terminal</EDID>
@@ -1825,7 +1825,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překročuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
     </String>
     <String List="0" sID="0006DD">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenu</EDID>
@@ -2017,7 +2017,7 @@ Vyberte potravinářský produkt k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Pyrotechnics Mill</Source>
-      <Dest>&gt;Automatizované výrobna pyrotechniky</Dest>
+      <Dest>&gt;Automatizovaná výrobna pyrotechniky</Dest>
     </String>
     <String List="0" sID="0006FB">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
@@ -4045,7 +4045,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Junk Mortar Control</Source>
-      <Dest>Ovládání hmoždíře na veteš Universal</Dest>
+      <Dest>Ovládání hmoždíře na veteš Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="00091F">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
@@ -4129,7 +4129,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05WorkshopConveyorYSwitchR</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Conveyor Belt - Right Diverter</Source>
-      <Dest>Pásový dopravník - rozdělovací </Dest>
+      <Dest>Pásový dopravník - rozdělovací</Dest>
     </String>
     <String List="0" sID="00092C">
       <EDID>DLC05WorkshopConveyorFloorRollersStr01</EDID>
@@ -5428,7 +5428,7 @@ Nastavit úhel palby:</Dest>
 &#xD;
 Please choose an option:&#xD;
 </Source>
-      <Dest>Universal Pyrotechnics Ovládací panel hmoždíře na veteš&#xD;
+      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na veteš&#xD;
 &#xD;
 Prosím, vyberte jednu z možností:&#xD;
 </Dest>
@@ -5449,7 +5449,7 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Pyrotechnics Junk Mortar Control</Source>
-      <Dest>Ovládání hmoždíře na veteš Universal Pyrotechnics</Dest>
+      <Dest>Universal Pyrotechnics, Inc. Ovládání hmoždíře na veteš</Dest>
     </String>
     <String List="0" sID="000A0D">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
@@ -5488,7 +5488,7 @@ Prosím, vyberte jednu z možností:&#xD;
 &#xD;
 Set output force:&#xD;
 </Source>
-      <Dest>Ovládací panel hmoždíře na veteš Universal Pyrotechnics&#xD;
+      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na veteš&#xD;
 &#xD;
 Nastavit sílu:&#xD;
 </Dest>
@@ -5577,7 +5577,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Pyrotechnics Junk Mortar Control</Source>
-      <Dest>Ovládání hmoždíře na veteš Universal Pyrotechnics</Dest>
+      <Dest>Universal Pyrotechnics, Inc. Ovládání hmoždíře na veteš</Dest>
     </String>
     <String List="0" sID="000A21">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
