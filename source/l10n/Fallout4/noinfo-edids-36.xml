@@ -6456,7 +6456,7 @@ Budete spolupracovat se správcem pocházejícím z armádních kruhů.  Váš s
       <EDID>TutorialWorkbench07</EDID>
       <REC>MESG:DESC</REC>
       <Source>If you're lacking required components, press [YButton:19] to tag a mod. Items containing components for that mod will now appear in the world with a magnifying glass.</Source>
-      <Dest>Pokud ti chybí potřebné komponenty, stiskni [YButton:19] k označení vybrané modifikace. Předměty obsahující potřebné komponenty budou ve světě zobrazeny s ikonou lupy.</Dest>
+      <Dest>Pokud ti chybí potřebné komponenty, stiskni [YButton:19] pro označení vybrané modifikace. Předměty obsahující potřebné komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu.</Dest>
     </String>
     <String List="1" sID="02F587">
       <EDID>TutorialSyringer02</EDID>
@@ -6761,9 +6761,9 @@ Pracovní stoly a stojany pro úpravu energozbroje ti umožní vytvářet modifi
 &#xD;
 Tvorba modifikací vyžaduje komponenty, které získáváš zpracováním veteše. Pokročilejší modifikace mohou vyžadovat specifické perky.&#xD;
 &#xD;
-Pokud máš potřebné komponenty, zvol danou modifikaci a vyrob ji pomocí [Click]. Požadované předměty budou automaticky zpracovány z úložného prostoru stanoviště úprav (nebo z tvého inventáře).&#xD;
+Pokud máš potřebné komponenty pro vybranou modifikaci, vyrob ji pomocí [Click]. Spotřebované předměty budou automaticky odebrány z úložného prostoru stanoviště úprav (nebo z tvého inventáře).&#xD;
 &#xD;
-Pokud nemáš potřebné komponenty, zvol danou modifikaci a stiskni [YButton:19] k jejímu označení pro hledání. Předměty obsahující potřebné komponenty pak budou ve světě zobrazeny s ikonou lupy vedle jejich jména.</Dest>
+Pokud nemáš potřebné komponenty, můžeš modifikaci označit pro hledání stisknutím [YButton:19]. Předměty obsahující hledané komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu.</Dest>
     </String>
     <String List="1" sID="0334E5">
       <EDID>TutorialVanityCam</EDID>
@@ -6794,9 +6794,9 @@ Pracovní stoly a stojany pro úpravu energozbroje ti umožní vytvářet modifi
 &#xD;
 Tvorba modifikací vyžaduje komponenty, které získáváš zpracováním veteše. Pokročilejší modifikace mohou vyžadovat specifické perky.&#xD;
 &#xD;
-Pokud máš potřebné komponenty, zvol danou modifikaci a vyrob ji stisknutím [Activate]. Požadované předměty budou automaticky zpracovány z úložného prostoru stanoviště úprav (nebo z tvého inventáře).&#xD;
+Pokud máš potřebné komponenty pro vybranou modifikaci, vyrob ji stisknutím [Activate]. Spotřebované předměty budou automaticky odebrány z úložného prostoru stanoviště úprav (nebo z tvého inventáře).&#xD;
 &#xD;
-Pokud nemáš potřebné komponenty, zvol danou modifikaci a stiskni [YButton:19] k jejímu označení pro hledání. Předměty obsahující potřebné komponenty pak budou ve světě zobrazeny s ikonou lupy vedle jejich jména.</Dest>
+Pokud nemáš potřebné komponenty, můžeš modifikaci označit pro hledání stisknutím [YButton:19]. Předměty obsahující hledané komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu.</Dest>
     </String>
     <String List="1" sID="033FA9">
       <EDID>Vault81OldOverseerTerminalNote</EDID>

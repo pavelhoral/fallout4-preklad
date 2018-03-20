@@ -10078,23 +10078,23 @@ Storage&#xD;
 You can also store ingredients in a cooking station by approaching it and pressing [XButton:16] to open the station's Transfer menu. When cooking a recipe, ingredients stored in a cooking station will be used before those in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Kuchařská stanoviště umožňují výrobu jídel, která mohou po požití vylepšit statistiky, obnovit ztracené zdraví nebo udělit dočasné bonusové účinky. Všechny kuchařské recepty vyžadují přísady, které mohou být zakoupeny nebo nalezeny po celém světě.&#xD;
+      <Dest>Kuchařská stanoviště umožňují výrobu jídel, která mohou po požití zlepšit vlastnosti, obnovit ztracené zdraví nebo udělit dočasné bonusové účinky. Všechny kuchařské recepty vyžadují přísady, které mohou být zakoupeny nebo nalezeny po celém herním světě.&#xD;
  &#xD;
-U kuchařského stanoviště použij [Leftstick] pro hledání receptu nebo kategorie receptů. Pro výběr kategorie nebo receptu stiskni [Accept].&#xD;
+U kuchařského stanoviště můžeš listovat recepty a kategoriemi receptů pomocí [Leftstick]. Pro výběr receptu nebo kategorie receptů stiskni [Accept].&#xD;
 &#xD;
 Recepty&#xD;
-Vyber kategorii pro vstup do nabídky Receptů&#xD;
+Pro vstup do nabídky receptů zvol jednu z kategorií.&#xD;
 &#xD;
-Pokud máš přísady vyžadované receptem ve svém inventáři nebo uskladněné v kuchařském stanovišti, vyber recept pomocí [Accept]. Toto spotřebuje přísady a vyrobí tvé jídlo.&#xD;
+Pokud máš receptem vyžadované přísady ve svém inventáři nebo uskladněné v kuchařském stanovišti, vyber daný recept a stiskni [Accept]. To přísady spotřebuje a vyrobí danou poživatinu.&#xD;
  &#xD;
-Pokud postrádáš přísady vyžadované konkrétním receptem, vyber jej v nabídce Recepty a stiskni [YButton:20] pro označení přísad receptu, které mají být vyhledávány.&#xD;
+Pokud postrádáš přísady vyžadované konkrétním receptem, vyber jej v nabídce receptů a stiskni [YButton:20] k označení přísad receptu pro hledání.&#xD;
 &#xD;
-Označené pčísady budou mít ve světě vedle svého názvu malou lupu.&#xD;
+Hledané přísady budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Ingredience můžeš skladovat v kuchařských stanovištích tak, že se přiblížíš a stiskneš [XButton:16] k otevření nabídky pro přesun do stanoviště. Při vaření podle receptu se prioritně spotřebují přísady uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
+Ingredience můžeš skladovat v kuchařských stanovištích přistoupením ke stanovišti a stisknutím [XButton:16] pro otevření nabídky pro přesun předmětů. Při vaření podle receptu se prioritně spotřebovávají přísady uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="03202B">
       <EDID>HelpControlsPC</EDID>
@@ -10645,12 +10645,12 @@ Přistup ke svému společníkovi a stiskni [Activate] pro zobrazení jeho nabí
 &#xD;
 - Promluvit - [MultiActivateY] - Mluvit s nebo propustit společníka&#xD;
 - Zůstaň - [MultiActivateA] - Nařídit společníkovi, aby zůstal na místě&#xD;
-- Obchodovat - [MultiActivateX] - Vyměňovat předměty nebo upravovat vybavení tvého společníka&#xD;
+- Vybavení - [MultiActivateX] - Vyměňovat předměty nebo upravovat vybavení tvého společníka&#xD;
 &#xD;
 Obchod a Vybavení&#xD;
 Zvol „Vybavení - [MultiActivateX]“ pro vstup do společníkova inventáře. Odtud můžeš přesouvat předměty mezi tvým a společníkovým inventářem.&#xD;
 &#xD;
-Pro přesun předmětu jej vyber pomocí [LeftStick] a stiskni [Accept]. Pro vstup do společníkova inventáře stiskni [LTrigger].&#xD;
+Pro přesun předmětu jej vyber pomocí [LeftStick] a stiskni [Accept]. Pro přechod do společníkova inventáře stiskni [LTrigger].&#xD;
 &#xD;
 Můžeš také určit, jaké vybavení chceš, aby tvůj společník používal, ačkoliv ne všichni společníci mohou používat všechny předměty. Aby tvůj společník použil daný předmět, přidej ho do jeho inventáře, zvýrazni ho kurzorem a stiskni [YButton].&#xD;
  &#xD;
@@ -10673,13 +10673,13 @@ Toto u společníka spustí příkazový režim.&#xD;
 Pro vydání příkazu, zaměř objekt nebo místo, kam chceš, aby se společník vydal a stiskni [Activate]. Společníkům může být přikázáno:&#xD;
 &#xD;
 - Přesun na konkrétní místo&#xD;
-- Používání objektů ve světě jako jsou dveře, tlačítka nebo nábytek&#xD;
+- Používání předmětů jako jsou dveře, tlačítka nebo nábytek&#xD;
 - Sbírání předmětů&#xD;
 - Útočení na nepřátele&#xD;
  &#xD;
 Někteří společníci jsou také schopni otevírat zámky nebo hackovat terminály. Předtím, než se společník může pokusit o otevření zámku, musí mít u sebe vlásenku.&#xD;
 &#xD;
-Společníci mohou odmítnout vykonat některé příkazy, protože toho nejsou buď fyzicky schopni nebo mají morální výhrady vůči tvému požadavku. Budeš nést zodpovědnost za jakýkoliv zločin, kterého se tvůj společník dopustí.&#xD;
+Společníci mohou odmítnout vykonat některé příkazy, protože toho nejsou buď fyzicky schopni, nebo mají vůči tvému požadavku morální výhrady. Za jakýkoliv zločin, kterého se tvůj společník dopustí, neseš plnou zodpovědnost.&#xD;
 &#xD;
 Pro ukončení vydávání příkazů, stiskni [PipBoy].&#xD;
  &#xD;
@@ -11105,25 +11105,25 @@ Storage&#xD;
 You can also store ingredients in a chemistry station by approaching the bench and pressing [XButton:16] to open the station's Transfer menu. When crafting a chem, ingredients stored in the chemistry station will be used before those in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Uvař si po domácku vyrobené drogy v chemické laboratoři. Drogy mohou poskytnout řadu bonusů a prospěšných účinků, nebo dokonce obnovit ztracené zdraví, ale příliš časté užívání tě vystavuje riziku závislosti.&#xD;
+      <Dest>Uvař si po domácku vyrobené chemikálie v chemické laboratoři. Chemikálie mohou poskytnout řadu bonusů a prospěšných účinků, nebo dokonce obnovit ztracené zdraví, ale příliš časté užívání tě vystavuje riziku závislosti.&#xD;
 &#xD;
-Výroba drog vyžaduje přísady, které mohou být zakoupeny nebo nalezeny po celém světě.&#xD;
+Výroba chemikálií vyžaduje přísady, které mohou být zakoupeny nebo nalezeny po celém herním světě.&#xD;
 &#xD;
-Použij [Click] pro výběr receptu nebo kategorie receptů. Můžeš také prohlížet dostupné možnosti pomocí [Up] a [Down] nebo kolečkem myši.&#xD;
+Použij [Click] pro výběr receptu nebo kategorie receptů. Dostupné možnosti si můžeš prohlížet pomocí [Up]/[Down] nebo kolečkem myši.&#xD;
 &#xD;
 Recepty&#xD;
 Vyber kategorii pro vstup do nabídky Receptů.&#xD;
 &#xD;
-Pokud máš přísady potřebné pro recept ve svém inventáři nebo skladem ve stanici, vyber recept pomocí [Click]. Toto spotřebuje přísady a vyrobí tvou drogu.&#xD;
+Pokud máš pro recept všechny potřebné přísady ve svém inventáři nebo skladem ve stanici, vyber recept pomocí [Click]. To přísady spotřebuje a vyrobí chemikálii.&#xD;
  &#xD;
-Pokud postrádáš nezbytné přísady pro přípravu konkrétního receptu, stiskni [YButton:20] k označení pro vyhledávání.&#xD;
+Pokud postrádáš nezbytné přísady pro přípravu konkrétního receptu, stiskni [YButton:20] k označení pro hledání.&#xD;
 &#xD;
-Označené přísady budou mít ve světě vedle svého názvu zobrazenou malou lupu.&#xD;
+Hledané přísady budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Můžeš také skladovat přísady v chemické laboratoři přistoupením ke stanici a stisknutím [XButton:16] pro otevření nabídky pro přesun stanice. Při výrobě chemikálie budou prioritně spotřebovány přísady, skladované v chemické laboratoři, teprve poté předměty ve tvém inventáři.&#xD;
+Přísady můžeš skladovat v chemické laboratoři přistoupením ke stanici a stisknutím [XButton:16] pro otevření nabídky pro přesun předmětů. Při výrobě chemikálie budou prioritně spotřebovány přísady skladované v chemické laboratoři, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o používání Nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="0321CA">
       <EDID>HelpPipBoyRadioXbox</EDID>
@@ -11483,55 +11483,55 @@ Storage&#xD;
 You can store items in a modding station by approaching the station and pressing [QCOpenTransferMenu] to open the station's Transfer menu. When crafting a mod, items stored in a modding station will be harvested for components before items in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Modifikace jsou speciální doplňky nebo úpravy prováděné na zbraních, zbroji a energozbroji, které mohou zvýšit hodnoty u předmětů, změnit jejich materiál nebo poskytnout prospěšné účinky.&#xD;
+      <Dest>Modifikace jsou speciální doplňky a úpravy zbraní, zbroje nebo energozbroje. Modifikace mohou zlepšovat vlastnosti předmětů, měnit konstrukční materiál, nebo poskytovat prospěšné účinky.&#xD;
 &#xD;
-Můžeš se podívat na modifikace, které momentálně používáš na svém vybavení nebo vytvořit nové na poncích na úpravu zbraní a zbroje a u stojanu na úpravu energozbroje - míst globálně známých jako „Stanoviště úprav“.&#xD;
+U ponku pro úpravu zbraní, ponku pro úpravu zbroje nebo stojanu pro úpravu energozbroje si můžeš prohlížet aktuálně používané modifikace, nebo vyrábět modifikace nové. Tato místa se obecně označují jako „stanoviště úprav“.&#xD;
 &#xD;
-Nové modifikace mohou být také zakoupeny od obchodníků se zbraněmi a se zbrojí.&#xD;
+Nové modifikace mohou být rovněž zakoupeny u obchodníků se zbraněmi a se zbrojí.&#xD;
 &#xD;
 Stanoviště úprav&#xD;
-Ve větších osadách se bude často nacházet řada stanovišť úprav poblíž jejich prodejen. Pro použití stanoviště úprav se k němu přibliž a stiskni [QCTakeItem].&#xD;
+Stanoviště úprav jsou k nalezení ve větších osadách poblíž prodejních míst. Pro použití stanoviště úprav se k němu přibliž a stiskni [QCTakeItem].&#xD;
 &#xD;
-Vyber předmět s modifikací pomocí [Click].&#xD;
+Předmět pro úpravu vyber pomocí [Click].&#xD;
 &#xD;
-Můžeš také listovat v předmětech pomocí [Up] a [Down] nebo pomocí kolečka myši.&#xD;
+V předmětech můžeš listovat pomocí [Up]/[Down] nebo pomocí kolečka myši.&#xD;
 &#xD;
-Modifikace a modifikovatelné části&#xD;
-Většina předmětů má celou řadu modifikovatelných částí. Vyber část pomocí [Click] pro vstup do nabídky modifikací zvolené části.&#xD;
+Modifikace a jejich pozice&#xD;
+Většina předmětů má celou řadu modifikovatelných pozic. Pro vstup do nabídky dostupných modifikací vyber konkrétní pozici pomocí [Click].&#xD;
 &#xD;
-Nabídka modifikací vypíše všechny modifikace dostupné pro vybranou část. Momentálně připevněné modifikace budou mít vedle svého názvu zobrazený čtvereček. Všechny modifikace, které byly získány dříve nebo na jejichž stavbu máš potřebné komponenty, budou světlejší.&#xD;
+Nabídka modifikací vypíše všechny modifikace dostupné pro vybranou pozici. Všechny aktuálně použité modifikace mají vedle svého názvu zobrazený čtvereček. Všechny modifikace, které již vlastníš nebo pro jejichž vytvoření máš potřebné komponenty, jsou vypsány světlejší barvou.&#xD;
 &#xD;
 Novou modifikaci můžeš připevnit pomocí [Click].&#xD;
 &#xD;
-Každá modifikovatelná část může najednou obsahovat pouze jednu modifikaci.&#xD;
+Každá modifikovatelná pozice může najednou obsahovat pouze jednu modifikaci.&#xD;
 &#xD;
 Tvorba modifikací&#xD;
-Tvorba nové modifikace vyžaduje komponenty. Některé pokročilé modifikace vyžadují pro svoji tvorbu určité perky. Komponenty jsou získávány z veteše nacházející se ve světě (ocel z konzerv, pružinky z hodin atd.). &#xD;
+Tvorba nové modifikace vyžaduje komponenty. Některé pokročilé modifikace vyžadují pro své vytvoření určité perky. Komponenty jsou získávány z veteše nacházející se v herním světě (ocel z konzerv, pružinky z hodin atd.).&#xD;
 &#xD;
-Pokud máš předměty, obsahující komponenty vyžadované danou modifikací, ve svém inventáři nebo uložené ve stanovišti úprav, které používáš, vyber modifikaci pomocí [Click] a okamžitě ji vytvoříš. Toto spotřebuje komponentu a vytvoří tvojí modifikaci.&#xD;
+Pokud máš pro modifikaci všechny potřebné komponenty ve svém inventáři nebo skladem ve stanovišti úprav, vyber modifikaci pomocí [Click]. To spotřebuje komponenty a vyrobí modifikaci.&#xD;
 &#xD;
 Označování komponent&#xD;
-Pokud nemáš potřebné komponenty, můžeš označit modifikaci pro vyhledávání tím, že ji vybereš v nabídce modifikací a stiskneš [YButton:20]. Všechny předměty ve světě, které obsahují komponenty pro tvou označenou modifikaci, budou označeny malou lupou, když se k nim přiblížíš. &#xD;
+Pokud ti chybí komponenty pro výrobu konkrétní modifikace, vyber ji v nabídce modifikací a stiskni [YButton:20] k označení požadovaných komponent pro hledání. Všechny předměty obsahující hledané komponenty budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
-Můžeš také označit komponenty v Pip-Boyovi. Otevři záložku Inventář (INV), vyber sekci Veteš a stiskni [LShoulder] pro vstup do přehledu komponent. Vyber komponentu, kterou chceš označit a stiskni [RShoulder].&#xD;
+Komponenty můžeš označit také v Pip-Boyovi. Otevři záložku Inventář (INV), vyber sekci Veteš a stiskni [LShoulder] pro zobrazení přehledu komponent. Vyber komponentu, kterou chceš označit a stiskni [RShoulder].&#xD;
 &#xD;
 Šrotování&#xD;
 Nalezené zbraně a zbroje mohou být rozloženy na komponenty pomocí šrotování.&#xD;
 &#xD;
-Pro šrotování předmětu, včetně jeho jakékoliv připevněné modifikace, jej vyber v inventáři stanoviště úprav a stiskni [XButton] pro jeho přeměnu na komponenty. Šrotování předmětu jej zničí spolu s připevněnými modifikacemi.&#xD;
+Pro sešrotování předmětu, včetně jeho jakékoliv namontované modifikace, jej vyber v inventáři stanoviště úprav a stiskni [XButton] pro jeho přeměnu na komponenty. Šrotování předmět zničí i spolu s jeho modifikacemi.&#xD;
 &#xD;
 Oprava energozbroje&#xD;
-Spolu se stavbou modifikací ti stojan na úpravu energozbroje dovoluje opravit poškozené části energozbroje. Poškozenou část energozbroje můžeš opravit v inventáři stojanu tak, že ji vybereš a stiskneš [YButton:20], ale pouze pokud vlastníš nezbytné komponenty.&#xD;
+Vedle tvorby modifikací umožňuje stojan na úpravu energozbroje opravit poškozené části energozbroje. Poškozenou část energozbroje můžeš opravit v inventáři stojanu tak, že ji vybereš a stiskneš [YButton:20], ale pouze pokud máš potřebné komponenty.&#xD;
 &#xD;
 Změna názvu vybavení&#xD;
-Ponky na úpravu zbraní a zbroje ti dovolují přejmenovat vybavení. V inventáři ponku stiskni [YButton] pro přejmenování vybrané zbraně nebo zbroje.&#xD;
+Ponky na úpravu zbraní a zbroje umožňují tvé vybavení přejmenovat. V inventáři ponku stiskni [YButton] pro přejmenování vybrané zbraně nebo zbroje.&#xD;
 &#xD;
-Nemůžeš přejmenovat části energozbroje.&#xD;
+Části energozbroje přejmenovávat nelze.&#xD;
 &#xD;
 Skladování&#xD;
-Ve stanovištích úprav můžeš skladovat předměty. Přibliž se a stiskni [QCOpenTransferMenu] pro otevření nabídky pro přesun. Při tvorbě modifikace, budou prioritně použity komponenty uložené ve stanovišti úprav, teprve poté komponenty ve tvém inventáři.&#xD;
+Ve stanovištích úprav můžeš skladovat předměty přistoupením ke stanovišti a stisknutím [QCOpenTransferMenu] pro otevření nabídky pro přesun předmětů. Při tvorbě modifikace, jsou prioritně používány komponenty uložené ve daném stanovišti úprav, teprve poté komponenty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="032354">
       <EDID>HelpFastTravelPC</EDID>
@@ -11594,48 +11594,48 @@ You can use the following controls to move around new or existing objects:&#xD;
 - While holding [Activate], press [RShoulder] to reset the object to its original distance&#xD;
 &#xD;
 - [Activate] places the object in its new location. [Cancel:16] cancels - restoring an existing object to its original position, or canceling building a new object.</Source>
-      <Dest>Dílny ti umožňují upravovat prostředí ve svém okolí: tvorbu nových objektů a staveb, změnu umístění a orientace stávajících nebo rozebírání předmětů, kterých se chceš zbavit.&#xD;
+      <Dest>Dílny ti umožňují upravovat prostředí ve svém okolí. Pomocí dílenského režimu můžeš vytvářet nové objekty a stavby, měnit umístení a orientaci stávajících objektů, nebo odstraňovat a rozebírat objekty, kterých se chceš zbavit.&#xD;
 &#xD;
-Jakmile získáš přístup k dílně, stiskni a přidrž [TogglePOV] pro vstup do nabídky dílny, pokud se nacházíš kdekoliv v místě „stavební oblasti“ dané dílny.&#xD;
+Jakmile získáš přístup k dílně, stiskni a přidrž [TogglePOV] pro vstup do dílenského režimu kdekoliv v místě „stavební oblasti“ dané dílny.&#xD;
 &#xD;
-Pohybuj se v nabídce dílny pomocí [Left]/[Right]/[Up]/[Down].&#xD;
+V nabídce dílny se pohybuj pomocí [Left]/[Right]/[Up]/[Down].&#xD;
 &#xD;
 Stavba objektu&#xD;
-Pro tvorbu nového objektu, který chceš postavit, vyber kategorii předmětů, do které objekt spadá pomocí [Left]/[Right] poté použij [Up], dokud se objekt, který chceš vytvořit, neobjeví uprostřed obrazovky.&#xD;
+Pro tvorbu nového objektu vyber kategorii pomocí [Left]/[Right] a poté použij [Up], dokud se požadovaný objekt neobjeví uprostřed obrazovky.&#xD;
 &#xD;
-Pokud je objekt zvýrazněn zeleně, můžeš ho postavit. Pokud je zvýrazněn červenou barvou, může zasahovat do jiného objektu nebo se vznášet ve vzduchu. Aby ho tedy bylo možné postavit, musíš jej umístit na jinou pozici. Na některé objekty se také mohou vztahovat zvláštní pravidla ohledně umístění. Například plodiny musí být umístěny do hlíny, čističky vody mohou být postaveny pouze u vodních zdrojů.&#xD;
+Pokud je objekt zvýrazněn zeleně, můžeš ho postavit. Pokud je zvýrazněn červenou barvou, je možné, že zasahuje do jiného objektu nebo se vznáší ve vzduchu. Aby ho tedy bylo možné postavit, musíš jej umístit na jinou pozici. Na některé objekty se mohou vztahovat zvláštní pravidla ohledně umístění. Například plodiny musí být umístěny do hlíny, čističky vody mohou být postaveny pouze u vodních zdrojů.&#xD;
 &#xD;
-Předměty, stavěné v dílně, jsou vyráběny z komponent, které mohou být získány z odpadních předmětů, nalezených po celém Commonwealthu. Komponenty požadované ke stavbě nového objektu jsou zobrazeny na obrazovce. Prioritně budou rozebrány na komponenty skladované předměty, teprve poté předměty ve tvém inventáři.&#xD;
+Dílenské objekty jsou vyráběny z komponent, které mohou být získány z veteše, která je k nalezení po celém Commonwealthu. Komponenty potřebné pro vytvoření objektu jsou zobrazeny při jeho umisťování. Prioritně jsou rozebírány na komponenty předměty skladované v dílně, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
 Existující objekty&#xD;
-S některými objekty ve světě může být manipulováno prostřednictvím nabídky dílny. Tyto objekty spadají do tří kategorií:&#xD;
+S některými objekty v herním světě může být manipulováno prostřednictvím dílenského režimu. Tyto objekty spadají do tří kategorií:&#xD;
 &#xD;
-- Inventářové objekty - objekty, které můžeš sebrat a uložit do svého inventáře. Mohou být také přemisťovány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
+- Inventářové objekty: objekty, které můžeš sebrat a uložit do svého inventáře. Mohou být také přemisťovány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
 &#xD;
-- Stavitelné objekty - objekty, které můžeš postavit skrze nabídku dílny. Mohou být přesouvány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
+- Stavitelné objekty: objekty, které můžeš postavit skrze nabídku dílny. Mohou být přesouvány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
 &#xD;
-- Šrotovatelné objekty - některé objekty (například pařezy, uschlé stromy, suť) mohou být rozebrány skrze nabídku dílny, ale nemohou být přesouvány nebo skladovány.&#xD;
+- Šrotovatelné objekty: některé objekty (například pařezy, uschlé stromy, suť) mohou být rozebrány skrze nabídku dílny, ale nemohou být přesouvány nebo skladovány.&#xD;
 &#xD;
-Pro přesun existujícího objektu jej zaměř pomocí síťky a stiskni [Activate] pro jeho označení. Jakmile je označen, můžeš objektem pohybovat stejně jako s nově postaveným objektem.&#xD;
+Pro přesun existujícího objektu jej zamiř na něj a stiskni [Activate] pro jeho označení. Jakmile je označen, můžeš objektem pohybovat stejně jako s nově vyráběným objektem.&#xD;
 &#xD;
 Pro výběr skupiny spojených objektů přidrž [Activate].&#xD;
 &#xD;
-Stiskni [Cancel:16] pro uložení objektu. Stavitelné objekty mohou být znovu postaveny později bez dalších nákladů; předměty z inventáře jsou uloženy do inventáře dílny.&#xD;
+Pro uložení objektu do inventáře dílny stiskni [Cancel:16]. Uložené objekty mohou být později znovu postaveny bez dalších nákladů.&#xD;
 &#xD;
-Stiskni [XButton:16] pro šrotování objektu, což jej rozebere zpět na komponenty. Můžeš vidět, které komponenty získáš rozebráním, když zvýrazníš objekt. Tyto komponenty budou umístěny přímo do inventáře dílny, jakmile bude objekt rozebrán.&#xD;
+Pro sešrotování objektu stiskni [XButton:16], čímž jej rozebereš zpět na komponenty. Při zvýraznění objektu můžeš vidět, které komponenty rozebráním získáš. Tyto komponenty jsou umístěny přímo do inventáře dílny, jakmile je objekt rozebrán.&#xD;
 &#xD;
 Manipulace s objekty&#xD;
-Pro manipulaci s novými nebo existujícími objekty můžeš použít tato ovládání:&#xD;
+S novými nebo existujícími objekty lze pohybovat následujícím způsobem:&#xD;
 &#xD;
-- Podrž [LTrigger:16]/[RTrigger:16] pro horizontální rotaci objektu&#xD;
+- pro horizontální rotaci objektu podrž [LTrigger:16]/[RTrigger:16]&#xD;
 &#xD;
-- Použij kolečko myši pro vertikální pohyb objektu&#xD;
+- pro přibližování nebo oddalování objektu podrž [Activate] a použij kolečko myši&#xD;
 &#xD;
-- Podrž [Activate] a použij kolečko myši pro přibližování nebo oddalování objektu&#xD;
+- pro vertikální pohyb objektu použij kolečko myši&#xD;
 &#xD;
-- Podrž [Activate] a použij [RShoulder] pro vrácení objektu do původní vzdálenosti&#xD;
+- pro vrácení objektu do původní vzdálenosti podrž [Activate] a stiskni [RShoulder]&#xD;
 &#xD;
-- [Activate] umístí objekt na jeho novou pozici. [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší budování nového objektu.</Dest>
+- [Activate] umístí objekt na jeho novou pozici; [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší stavbu nového objektu</Dest>
     </String>
     <String List="1" sID="032358">
       <EDID>HelpDamage</EDID>
@@ -11913,53 +11913,53 @@ Storage&#xD;
 You can store items in a modding station by approaching the station and pressing [QCOpenTransferMenu] to open the station's Transfer menu. When crafting a mod, items stored in a modding station will be harvested for components before items in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Modifikace jsou speciální doplňky nebo úpravy prováděné na zbraních, zbroji a energozbroji, které mohou zvýšit hodnoty u předmětů, změnit jejich materiál nebo poskytnout prospěšné účinky.&#xD;
+      <Dest>Modifikace jsou speciální doplňky a úpravy zbraní, zbroje nebo energozbroje. Modifikace mohou zlepšovat vlastnosti předmětů, měnit konstrukční materiál, nebo poskytovat prospěšné účinky.&#xD;
 &#xD;
-Můžeš se podívat na modifikace, které momentálně používáš na svém vybavení nebo vytvořit nové na poncích na úpravu zbraní a zbroje a u stojanu na úpravu energozbroje - míst globálně známých jako „Stanoviště úprav“.&#xD;
+U ponku pro úpravu zbraní, ponku pro úpravu zbroje nebo stojanu pro úpravu energozbroje si můžeš prohlížet aktuálně používané modifikace, nebo vyrábět modifikace nové. Tato místa se obecně označují jako „stanoviště úprav“.&#xD;
 &#xD;
-Nové modifikace mohou být také zakoupeny od obchodníků se zbraněmi a se zbrojí.&#xD;
+Nové modifikace mohou být rovněž zakoupeny u obchodníků se zbraněmi a se zbrojí.&#xD;
 &#xD;
 Stanoviště úprav&#xD;
-Ve větších osadách se bude často nacházet řada stanovišť úprav poblíž jejich prodejen. Pro použití stanoviště úprav se k němu přibliž a stiskni [QCTakeItem].&#xD;
+Stanoviště úprav jsou k nalezení ve větších osadách poblíž prodejních míst. Pro použití stanoviště úprav se k němu přibliž a stiskni [QCTakeItem].&#xD;
 &#xD;
-Pohybuj se mezi předměty pomocí [LeftStick]. Předmět vyber stisknutím [Accept].&#xD;
+V předmětech můžeš listovat pomocí [LeftStick]. Předmět pro úpravu vyber stisknutím [Accept].&#xD;
 &#xD;
-Modifikace a modifikovatelné části&#xD;
-Většina předmětů má celou řadu modifikovatelných částí. Vyber část pomocí [Accept] pro vstup do nabídky modifikací zvolené části.&#xD;
+Modifikace a jejich pozice&#xD;
+Většina předmětů má celou řadu modifikovatelných pozic. Pro vstup do nabídky dostupných modifikací vyber konkrétní pozici pomocí [Accept].&#xD;
 &#xD;
-Nabídka modifikací vypíše všechny modifikace dostupné pro vybranou část. Momentálně připevněné modifikace budou mít vedle svého názvu zobrazený čtvereček. Všechny modifikace, které byly získány dříve nebo na jejichž stavbu máš potřebné komponenty, budou světlejší.&#xD;
+Nabídka modifikací vypíše všechny modifikace dostupné pro vybranou pozici. Všechny aktuálně použité modifikace mají vedle svého názvu zobrazený čtvereček. Všechny modifikace, které již vlastníš nebo pro jejichž vytvoření máš potřebné komponenty, jsou vypsány světlejší barvou.&#xD;
 &#xD;
 Novou modifikaci můžeš připevnit pomocí [Accept].&#xD;
 &#xD;
-Každá modifikovatelná část může najednou obsahovat pouze jednu modifikaci.&#xD;
+Každá modifikovatelná pozice může najednou obsahovat pouze jednu modifikaci.&#xD;
 &#xD;
 Tvorba modifikací&#xD;
-Tvorba nové modifikace vyžaduje komponenty. Některé pokročilé modifikace vyžadují pro svoji tvorbu určité perky. Komponenty jsou získávány z veteše nacházející se ve světě (ocel z konzerv, pružinky z hodin atd.). &#xD;
+Tvorba nové modifikace vyžaduje komponenty. Některé pokročilé modifikace vyžadují pro své vytvoření určité perky. Komponenty jsou získávány z veteše nacházející se v herním světě (ocel z konzerv, pružinky z hodin atd.).&#xD;
 &#xD;
-Pokud máš předměty, obsahující komponenty vyžadované danou modifikací, ve svém inventáři nebo uložené ve stanovišti úprav, které používáš, vyber modifikaci pomocí [Accept] a okamžitě ji vytvoříš. Toto spotřebuje komponentu a vytvoří tvojí modifikaci.&#xD;
+Pokud máš pro modifikaci všechny potřebné komponenty ve svém inventáři nebo skladem ve stanovišti úprav, vyber modifikaci a stiskni [Accept]. To spotřebuje komponenty a vyrobí modifikaci.&#xD;
 &#xD;
 Označování komponent&#xD;
-Pokud nemáš potřebné komponenty, můžeš označit modifikaci pro vyhledávání tím, že ji vybereš v nabídce modifikací a stiskneš [YButton:20]. Všechny předměty ve světě, které obsahují komponenty pro tvou označenou modifikaci, budou označeny malou lupou, když se k nim přiblížíš. &#xD;
+Pokud ti chybí komponenty pro výrobu konkrétní modifikace, vyber ji v nabídce modifikací a stiskni [YButton:20] k označení požadovaných komponent pro hledání. Všechny předměty obsahující hledané komponenty budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
-Můžeš také označit komponenty v Pip-Boyovi. Otevři záložku Inventář (INV), vyber sekci Veteš a stiskni [LShoulder] pro vstup do přehledu komponent. Vyber komponentu, kterou chceš označit a stiskni [RShoulder].&#xD;
+Komponenty můžeš označit také v Pip-Boyovi. Otevři záložku Inventář (INV), vyber sekci Veteš a stiskni [LShoulder] pro zobrazení přehledu komponent. Vyber komponentu, kterou chceš označit a stiskni [RShoulder].&#xD;
 &#xD;
 Šrotování&#xD;
 Nalezené zbraně a zbroje mohou být rozloženy na komponenty pomocí šrotování.&#xD;
 &#xD;
-Pro šrotování předmětu, včetně jeho jakékoliv připevněné modifikace, jej vyber v inventáři stanoviště úprav a stiskni [XButton] pro jeho přeměnu na komponenty. Šrotování předmětu jej zničí spolu s připevněnými modifikacemi.&#xD;
+Pro sešrotování předmětu, včetně jeho jakékoliv namontované modifikace, jej vyber v inventáři stanoviště úprav a stiskni [XButton] pro jeho přeměnu na komponenty. Šrotování předmět zničí i spolu s jeho modifikacemi.&#xD;
 &#xD;
 Oprava energozbroje&#xD;
-Spolu se stavbou modifikací ti stojan na úpravu energozbroje dovoluje opravit poškozené části energozbroje. Poškozenou část energozbroje můžeš opravit v inventáři stojanu tak, že ji vybereš a stiskneš [YButton:20], ale pouze pokud vlastníš nezbytné komponenty.&#xD;
+Vedle tvorby modifikací umožňuje stojan na úpravu energozbroje opravit poškozené části energozbroje. Poškozenou část energozbroje můžeš opravit v inventáři stojanu tak, že ji vybereš a stiskneš [YButton:20], ale pouze pokud máš potřebné komponenty.&#xD;
 &#xD;
 Změna názvu vybavení&#xD;
-Ponky na úpravu zbraní a zbroje ti dovolují přejmenovat vybavení. V inventáři ponku stiskni [YButton] pro přejmenování vybrané zbraně nebo zbroje.&#xD;
+Ponky na úpravu zbraní a zbroje umožňují tvé vybavení přejmenovat. V inventáři ponku stiskni [YButton] pro přejmenování vybrané zbraně nebo zbroje.&#xD;
 &#xD;
-Nemůžeš přejmenovat části energozbroje.&#xD;
+Části energozbroje přejmenovávat nelze.&#xD;
 &#xD;
 Skladování&#xD;
-Ve stanovištích úprav můžeš skladovat předměty. Přibliž se a stiskni [QCOpenTransferMenu] pro otevření nabídky pro přesun. Při tvorbě modifikace, budou prioritně použity komponenty uložené ve stanovišti úprav, teprve poté komponenty ve tvém inventáři.&#xD;
+Ve stanovištích úprav můžeš skladovat předměty přistoupením ke stanovišti a stisknutím [QCOpenTransferMenu] pro otevření nabídky pro přesun předmětů. Při tvorbě modifikace, jsou prioritně používány komponenty uložené ve daném stanovišti úprav, teprve poté komponenty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="0323D9">
       <EDID>HelpQuestsXbox</EDID>
@@ -12028,48 +12028,48 @@ You can use the following controls to move around new or existing objects:&#xD;
 - While holding [Accept], press [RShoulder] to reset the object to its original distance&#xD;
 &#xD;
 - [Activate] places the object in its new location. [Cancel:16] cancels - restoring an existing object to its original position, or canceling building a new object.</Source>
-      <Dest>Dílny ti umožňují upravovat prostředí ve svém okolí: tvorbu nových objektů a staveb, změnu umístění a orientace stávajících nebo rozebírání předmětů, kterých se chceš zbavit.&#xD;
+      <Dest>Dílny ti umožňují upravovat prostředí ve svém okolí. Pomocí dílenského režimu můžeš vytvářet nové objekty a stavby, měnit umístení a orientaci stávajících objektů, nebo odstraňovat a rozebírat objekty, kterých se chceš zbavit.&#xD;
 &#xD;
-Jakmile získáš přístup k dílně, stiskni a přidrž [TogglePOV] pro vstup do nabídky dílny, pokud se nacházíš kdekoliv v místě „stavební oblasti“ dané dílny.&#xD;
+Jakmile získáš přístup k dílně, stiskni a přidrž [TogglePOV] pro vstup do dílenského režimu kdekoliv v místě „stavební oblasti“ dané dílny.&#xD;
 &#xD;
-Pohybuj se v nabídce dílny pomocí [_Dpad_None].&#xD;
+V nabídce dílny se pohybuj pomocí [_Dpad_None].&#xD;
 &#xD;
 Stavba objektu&#xD;
-Pro tvorbu nového objektu, který chceš postavit, vyber kategorii předmětů, do které objekt spadá pomocí [Left]/[Right] poté použij [Up], dokud se objekt, který chceš vytvořit, neobjeví uprostřed obrazovky.&#xD;
+Pro tvorbu nového objektu vyber kategorii pomocí [Left]/[Right] a poté použij [Up], dokud se požadovaný objekt neobjeví uprostřed obrazovky.&#xD;
 &#xD;
-Pokud je objekt zvýrazněn zeleně, můžeš ho postavit. Pokud je zvýrazněn červenou barvou, může zasahovat do jiného objektu nebo se vznášet ve vzduchu. Aby ho tedy bylo možné postavit, musíš jej umístit na jinou pozici. Na některé objekty se také mohou vztahovat zvláštní pravidla ohledně umístění. Například plodiny musí být umístěny do hlíny, čističky vody mohou být postaveny pouze u vodních zdrojů.&#xD;
+Pokud je objekt zvýrazněn zeleně, můžeš ho postavit. Pokud je zvýrazněn červenou barvou, je možné, že zasahuje do jiného objektu nebo se vznáší ve vzduchu. Aby ho tedy bylo možné postavit, musíš jej umístit na jinou pozici. Na některé objekty se mohou vztahovat zvláštní pravidla ohledně umístění. Například plodiny musí být umístěny do hlíny, čističky vody mohou být postaveny pouze u vodních zdrojů.&#xD;
 &#xD;
-Předměty, stavěné v dílně, jsou vyráběny z komponent, které mohou být získány z odpadních předmětů, nalezených po celém Commonwealthu. Komponenty požadované ke stavbě nového objektu jsou zobrazeny na obrazovce. Prioritně budou rozebrány na komponenty skladované předměty, teprve poté předměty ve tvém inventáři.&#xD;
+Dílenské objekty jsou vyráběny z komponent, které mohou být získány z veteše, která je k nalezení po celém Commonwealthu. Komponenty potřebné pro vytvoření objektu jsou zobrazeny při jeho umisťování. Prioritně jsou rozebírány na komponenty předměty skladované v dílně, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
 Existující objekty&#xD;
-S některými objekty ve světě může být manipulováno prostřednictvím nabídky dílny. Tyto objekty spadají do tří kategorií:&#xD;
+S některými objekty v herním světě může být manipulováno prostřednictvím dílenského režimu. Tyto objekty spadají do tří kategorií:&#xD;
 &#xD;
-- Inventářové objekty - objekty, které můžeš sebrat a uložit do svého inventáře. Mohou být také přemisťovány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
+- Inventářové objekty: objekty, které můžeš sebrat a uložit do svého inventáře. Mohou být také přemisťovány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
 &#xD;
-- Stavitelné objekty - objekty, které můžeš postavit skrze nabídku dílny. Mohou být přesouvány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
+- Stavitelné objekty: objekty, které můžeš postavit skrze nabídku dílny. Mohou být přesouvány, ukládány nebo rozebrány prostřednictvím nabídky dílny.&#xD;
 &#xD;
-- Šrotovatelné objekty - některé objekty (například pařezy, uschlé stromy, suť) mohou být rozebrány skrze nabídku dílny, ale nemohou být přesouvány nebo skladovány.&#xD;
+- Šrotovatelné objekty: některé objekty (například pařezy, uschlé stromy, suť) mohou být rozebrány skrze nabídku dílny, ale nemohou být přesouvány nebo skladovány.&#xD;
 &#xD;
-Pro přesun existujícího objektu jej zaměř pomocí síťky a stiskni [Activate] pro jeho označení. Jakmile je označen, můžeš objektem pohybovat stejně jako s nově postaveným objektem.&#xD;
+Pro přesun existujícího objektu jej zamiř na něj a stiskni [Activate] pro jeho označení. Jakmile je označen, můžeš objektem pohybovat stejně jako s nově vyráběným objektem.&#xD;
 &#xD;
 Pro výběr skupiny spojených objektů přidrž [Activate].&#xD;
 &#xD;
-Stiskni [Cancel:16] pro uložení objektu. Stavitelné objekty mohou být znovu postaveny později bez dalších nákladů; předměty z inventáře jsou uloženy do inventáře dílny.&#xD;
+Pro uložení objektu do inventáře dílny stiskni [Cancel:16]. Uložené objekty mohou být později znovu postaveny bez dalších nákladů.&#xD;
 &#xD;
-Stiskni [XButton:16] pro šrotování objektu, což jej rozebere zpět na komponenty. Můžeš vidět, které komponenty získáš rozebráním, když zvýrazníš objekt. Tyto komponenty budou umístěny přímo do inventáře dílny, jakmile bude objekt rozebrán.&#xD;
+Pro sešrotování objektu stiskni [XButton:16], čímž jej rozebereš zpět na komponenty. Při zvýraznění objektu můžeš vidět, které komponenty rozebráním získáš. Tyto komponenty jsou umístěny přímo do inventáře dílny, jakmile je objekt rozebrán.&#xD;
 &#xD;
 Manipulace s objekty&#xD;
-Pro manipulaci s novými nebo existujícími objekty můžeš použít tato ovládání:&#xD;
+S novými nebo existujícími objekty lze pohybovat následujícím způsobem:&#xD;
 &#xD;
-- Podrž [LTrigger]/[RTrigger] pro horizontální rotaci objektu&#xD;
+- pro horizontální rotaci objektu použij [LTrigger]/[RTrigger]&#xD;
 &#xD;
-- Podrž [Accept] a použij [LeftStick] pro přibližování nebo oddalování objektu&#xD;
+- pro přibližování nebo oddalování objektu podrž [Accept] a použij [LeftStick]&#xD;
 &#xD;
-- Podrž [Accept] a [LShoulder] a použij [LeftStick] pro vertikální pohyb objektu&#xD;
+- pro vertikální pohyb objektu podrž [Accept] a [LShoulder] a použij [LeftStick]&#xD;
 &#xD;
-- Podrž [Accept] a použij [RShoulder] pro vrácení objektu do původní vzdálenosti&#xD;
+- pro vrácení objektu do původní vzdálenosti podrž [Accept] a použij [RShoulder]&#xD;
 &#xD;
-- [Activate] umístí objekt na jeho novou pozici. [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší budování nového objektu.</Dest>
+- [Activate] umístí objekt na jeho novou pozici; [Cancel:16] vrací existující objekt na jeho původní pozici, nebo ruší stavbu nového objektu</Dest>
     </String>
     <String List="1" sID="0323ED">
       <EDID>HelpPipBoyInventoryXbox</EDID>
@@ -12205,23 +12205,23 @@ Storage&#xD;
 You can also store ingredients in a cooking station by approaching it and pressing [XButton:16] to open the station's Transfer menu. When cooking a recipe, ingredients stored in a cooking station will be used before those in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Kuchařská stanoviště umožňují výrobu jídel, která mohou po požití vylepšit statistiky, obnovit ztracené zdraví nebo udělit dočasné bonusové účinky. Všechny kuchařské recepty vyžadují přísady, které mohou být zakoupeny nebo nalezeny po celém světě.&#xD;
+      <Dest>Kuchařská stanoviště umožňují výrobu jídel, která mohou po požití zlepšit vlastnosti, obnovit ztracené zdraví nebo udělit dočasné bonusové účinky. Všechny kuchařské recepty vyžadují přísady, které mohou být zakoupeny nebo nalezeny po celém herním světě.&#xD;
  &#xD;
-U kuchařského stanoviště použij [Click] pro výběr receptu nebo kategorie receptů. Můžeš také procházet dostupné možnosti použitím [Up] a [Down] nebo pomocí kolečka myši.&#xD;
+Pro výběr receptu nebo kategorie receptů u kuchařského stanoviště použij [Click]. V seznamu můžeš listovat pomocí [Up]/[Down] nebo kolečkem myši.&#xD;
 &#xD;
 Recepty&#xD;
-Vyber kategorii pro vstup do nabídky Receptů&#xD;
+Pro vstup do nabídky receptů zvol jednu z kategorií.&#xD;
 &#xD;
-Pokud máš přísady vyžadované receptem ve svém inventáři nebo uskladněné v kuchařském stanovišti, vyber recept pomocí [Click]. Toto spotřebuje přísady a vyrobí tvé jídlo.&#xD;
+Pokud máš receptem vyžadované přísady ve svém inventáři nebo uskladněné v kuchařském stanovišti, můžeš vybrat recept pomocí [Click]. To přísady spotřebuje a vyrobí danou poživatinu.&#xD;
  &#xD;
-Pokud postrádáš přísady vyžadované konkrétním receptem, vyber jej v nabídce Recepty a stiskni [YButton:20] pro označení přísad receptu, které mají být vyhledávány.&#xD;
+Pokud postrádáš přísady vyžadované konkrétním receptem, vyber jej v nabídce receptů a stiskni [YButton:20] k označení přísad receptu pro hledání.&#xD;
 &#xD;
-Označené přísady budou mít ve světě vedle svého názvu malou lupu.&#xD;
+Hledané přísady budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Ingredience můžeš skladovat v kuchařských stanovištích tak, že se přiblížíš a stiskneš [XButton:16] k otevření nabídky pro přesun do stanoviště. Při vaření podle receptu se prioritně spotřebují přísady uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
+Ingredience můžeš skladovat v kuchařských stanovištích přistoupením ke stanovišti a stisknutím [XButton:16] pro otevření nabídky pro přesun předmětů. Při vaření podle receptu se prioritně spotřebovávají přísady uschované v kuchařském stanovišti, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o tom, jak používat nabídku pro přesun, navštiv záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="0323F6">
       <EDID>HelpPipBoyControlsXbox</EDID>
@@ -12429,25 +12429,25 @@ Storage&#xD;
 You can also store ingredients in a chemistry station by approaching the bench and pressing [XButton:16] to open the station's Transfer menu. When crafting a chem, ingredients stored in the chemistry station will be used before those in your inventory.&#xD;
 &#xD;
 For more info on how to use the Transfer menu, check out the "Containers" entry.</Source>
-      <Dest>Uvař si po domácku vyrobené drogy v chemické laboratoři. Drogy mohou poskytnout řadu bonusů a prospěšných účinků, nebo dokonce obnovit ztracené zdraví, ale příliš časté užívání tě vystavuje riziku závislosti.&#xD;
+      <Dest>Uvař si po domácku vyrobené chemikálie v chemické laboratoři. Chemikálie mohou poskytnout řadu bonusů a prospěšných účinků, nebo dokonce obnovit ztracené zdraví, ale příliš časté užívání tě vystavuje riziku závislosti.&#xD;
 &#xD;
-Výroba drog vyžaduje přísady, které mohou být zakoupeny nebo nalezeny po celém světě.&#xD;
+Výroba chemikálií vyžaduje přísady, které mohou být zakoupeny nebo nalezeny po celém herním světě.&#xD;
 &#xD;
-Můžeš se pohybovat mezi recepty nebo kategoriemi pomocí [LeftStick]. Pro výběr kategorie nebo receptu, který chceš vytvořit, stiskni [Accept]. &#xD;
+Mezi recepty a kategoriemi receptů můžeš listovat pomocí [LeftStick]. Pro výběr kategorie nebo receptu, který chceš vytvořit, stiskni [Accept]. &#xD;
 &#xD;
 Recepty&#xD;
 Vyber kategorii pro vstup do nabídky Receptů.&#xD;
 &#xD;
-Pokud máš přísady potřebné pro recept ve svém inventáři nebo skladem ve stanici, vyber recept a stiskni [Accept]. Toto spotřebuje přísady a vyrobí tvou drogu.&#xD;
- &#xD;
-Pokud postrádáš nezbytné přísady pro přípravu konkrétního receptu, stiskni [YButton:20] k označení pro vyhledávání.&#xD;
+Pokud máš pro recept všechny potřebné přísady ve svém inventáři nebo skladem ve stanici, vyber recept a stiskni [Accept]. To přísady spotřebuje a vyrobí chemikálii.&#xD;
 &#xD;
-Označené přísady budou mít ve světě vedle svého názvu zobrazenou malou lupu.&#xD;
+Pokud postrádáš nezbytné přísady pro přípravu konkrétního receptu, stiskni [YButton:20] k označení pro hledání.&#xD;
+&#xD;
+Hledané přísady budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
 Skladování&#xD;
-Můžeš také skladovat přísady v chemické laboratoři přistoupením ke stanici a stisknutím [XButton:16] pro otevření nabídky pro přesun stanice. Při výrobě chemikálie budou prioritně spotřebovány přísady, skladované v chemické laboratoři, teprve poté předměty ve tvém inventáři.&#xD;
+Přísady můžeš skladovat v chemické laboratoři přistoupením ke stanici a stisknutím [XButton:16] pro otevření nabídky pro přesun předmětů. Při výrobě chemikálie budou prioritně spotřebovány přísady skladované v chemické laboratoři, teprve poté předměty ve tvém inventáři.&#xD;
 &#xD;
-Pro více informací o používání Nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
+Pro více informací o používání nabídky pro přesun si prohlédni záznam „Úložné prostory“.</Dest>
     </String>
     <String List="1" sID="032493">
       <EDID>HelpExperiencePoints</EDID>
@@ -13032,9 +13032,9 @@ Můžeš mít aktivního pouze jednoho společníka.&#xD;
 Nabídka společníka&#xD;
 Přistup ke svému společníkovi a stiskni [Activate] pro zobrazení jeho nabídky. V nabídce máš na výběr:&#xD;
 &#xD;
-- Promluvit    - [MultiActivateY] - Mluvit s nebo propustit společníka&#xD;
-- Zůstaň          - [MultiActivateA] - Nařídit společníkovi, aby zůstal na místě&#xD;
-- Obchodovat - [MultiActivateX] - Vyměňovat předměty nebo upravovat vybavení tvého společníka&#xD;
+- Promluvit - [MultiActivateY] - Mluvit s nebo propustit společníka&#xD;
+- Zůstaň - [MultiActivateA] - Nařídit společníkovi, aby zůstal na místě&#xD;
+- Vybavení - [MultiActivateX] - Vyměňovat předměty nebo upravovat vybavení společníka&#xD;
 &#xD;
 Obchod a Vybavení&#xD;
 Zvol „Vybavení - [MultiActivateX]“ pro vstup do společníkova inventáře. Použij [Click] pro přesouvání předmětů mezi tvým a společníkovým inventářem.&#xD;
@@ -13060,13 +13060,13 @@ Toto u společníka spustí příkazový režim.&#xD;
 Pro vydání příkazu, zaměř objekt nebo místo, kam chceš, aby se společník vydal a stiskni [Activate]. Společníkům může být přikázáno:&#xD;
 &#xD;
 - Přesun na konkrétní místo&#xD;
-- Používání objektů ve světě jako jsou dveře, tlačítka nebo nábytek&#xD;
+- Používání předmětů jako jsou dveře, tlačítka nebo nábytek&#xD;
 - Sbírání předmětů&#xD;
 - Útočení na nepřátele&#xD;
  &#xD;
 Někteří společníci jsou také schopni otevírat zámky nebo hackovat terminály. Předtím, než se společník může pokusit o otevření zámku, musí mít u sebe vlásenku.&#xD;
 &#xD;
-Společníci mohou odmítnout vykonat některé příkazy, protože toho nejsou buď fyzicky schopni nebo mají morální výhrady vůči tvému požadavku. Budeš nést zodpovědnost za jakýkoliv zločin, kterého se tvůj společník dopustí.&#xD;
+Společníci mohou odmítnout vykonat některé příkazy, protože toho nejsou buď fyzicky schopni, nebo mají vůči tvému požadavku morální výhrady. Za jakýkoliv zločin, kterého se tvůj společník dopustí, neseš plnou zodpovědnost.&#xD;
 &#xD;
 Pro ukončení vydávání příkazů, stiskni [PipBoy].&#xD;
  &#xD;
@@ -13244,7 +13244,7 @@ Any weapons and armor you've collected can also be broken down into components t
 To scrap equipment, visit a modding station. Select the item you wish to scrap on the station's Inventory page and press [XButton]. Note, scrapping an item destroys it and any mods attached to it.&#xD;
 &#xD;
 You can also scrap unwanted structures in workshop areas. To scrap a structure, enter the Workshop menu, highlight the unwanted structure and press [XButton].</Source>
-      <Dest>Komponenty jsou základní materiály, které tvoří většinu předmětů a vybavení v Commonwealthu. Komponenty mohou být využity k sestavování modifikací ve stanovištích úprav, stavbě objektů v dílně a jsou také nezbytné pro tvorbu některých kuchařských či chemických receptů.&#xD;
+      <Dest>Komponenty jsou základní materiály, které tvoří většinu předmětů a vybavení v Commonwealthu. Komponenty mohou být využity k sestavování modifikací na stanovištích úprav, stavbě objektů v dílně a jsou také nezbytné pro tvorbu některých kuchařských či chemických receptů.&#xD;
 &#xD;
 Komponenty jsou primárně získávány z odpadních předmětů (ocel z konzerv, pružinky z hodin, atd.). Všechny odpadní předměty, které nasbíráš, budou zobrazeny v sekci Veteš v záložce Inventář (INV) tvého Pip-Boye.&#xD;
 &#xD;
@@ -13262,7 +13262,7 @@ Pokud nemáš komponenty nutné pro konstrukci objektu, můžeš označit tyto k
  &#xD;
 Pro označení komponenty pro vyhledávání, otevři sekci Veteš v záložce Inventář a stiskni [LShoulder] pro přepnutí do přehledu komponent. Ten zobrazí všechny komponenty dostupné z předmětů ve tvém inventáři. Pro označení konkrétní komponenty ji vyber a stiskni [RShoulder].&#xD;
 &#xD;
-Předměty, které obsahují označené komponenty, budou ve světě mít vedle svého názvu zobrazenou malou lupu.&#xD;
+Předměty, které obsahují označené komponenty, budou mít v herním světě vedle svého názvu zobrazenou malou lupu.&#xD;
 &#xD;
 Když jsi u stanoviště úprav nebo výrobního stanoviště, můžeš také označit konkrétní modifikace nebo recepty. Pro označení modifikace nebo receptu, jej vyber z nabídky Modifikace/Recepty a stiskni [YButton:20]. To označí chybějící komponenty, potřebné pro výrobu vybraného předmětu.&#xD;
 &#xD;
