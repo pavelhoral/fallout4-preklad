@@ -275,7 +275,7 @@
       <EDID>WksBallTrackStraight01a</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp High Supported</Source>
-      <Dest>Kuličková dráha - rampa - vysoká podpěra</Dest>
+      <Dest>Kuličková dráha - rampa (vysoká s podpěrou)</Dest>
     </String>
     <String List="0" sID="0005A5">
       <EDID>WksBallTrackCurveL01</EDID>
@@ -287,7 +287,7 @@
       <EDID>WksBallTrackStraight02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp Medium</Source>
-      <Dest>Kuličková dráha - rampa střední</Dest>
+      <Dest>Kuličková dráha - rampa (střední)</Dest>
     </String>
     <String List="0" sID="0005B1">
       <EDID>WksBallTrackCurveR01</EDID>
@@ -323,19 +323,19 @@
       <EDID>WksBallTrackStraight03a</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp Low Supported</Source>
-      <Dest>Kuličková dráha - rampa - nízká podpěra</Dest>
+      <Dest>Kuličková dráha - rampa (nízká s podpěrou)</Dest>
     </String>
     <String List="0" sID="0005C1">
       <EDID>WksBallTrackStraight02a</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp Medium Supported</Source>
-      <Dest>Kuličková dráha - rampa - střední podpěra</Dest>
+      <Dest>Kuličková dráha - rampa (střední s podpěrou)</Dest>
     </String>
     <String List="0" sID="0005C3">
       <EDID>WksBallTrackStraight03</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp Low</Source>
-      <Dest>Kuličková dráha - rampa nízká</Dest>
+      <Dest>Kuličková dráha - rampa (nízká)</Dest>
     </String>
     <String List="0" sID="0005C4">
       <EDID>WksBallTrackStraightTrigger01</EDID>
@@ -353,7 +353,7 @@
       <EDID>WksBallTrackStraight01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp High</Source>
-      <Dest>Kuličková dráha - rampa vysoká</Dest>
+      <Dest>Kuličková dráha - rampa (vysoká)</Dest>
     </String>
     <String List="0" sID="0005CB">
       <EDID>WksBallTrackBallDropPwr01</EDID>
@@ -415,7 +415,7 @@
       <Source>Power Armor Display</Source>
       <Dest>Stojan energozbroje</Dest>
     </String>
-    <String List="0" sID="0005DE">
+    <String List="0" sID="0005DE" Partial="1">
       <EDID>DLC05WorkshopMenu01Build02Boxcars</EDID>
       <REC>FLST:FULL</REC>
       <Source>Boxcars</Source>
@@ -427,7 +427,7 @@
       <Source>Display</Source>
       <Dest>Vitrína</Dest>
     </String>
-    <String List="0" sID="0005E2">
+    <String List="0" sID="0005E2" Partial="1">
       <EDID>DLC05WorkshopRecipeFilterBuilding02Boxcars</EDID>
       <REC>KYWD:FULL</REC>
       <Source>Boxcars</Source>
@@ -449,7 +449,7 @@
       <EDID>DLC05WorkshopRecipeFilterBuilding02Boxcars03Orange</EDID>
       <REC>KYWD:FULL</REC>
       <Source>Orange</Source>
-      <Dest>Oranžová</Dest>
+      <Dest>Oranžové</Dest>
     </String>
     <String List="0" sID="0005E7">
       <EDID>DLC05WorkshopPowerArmorDisplayRed01</EDID>
@@ -539,7 +539,7 @@
       <EDID>WksBallTrackCurveL03</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Curve Left - 360</Source>
-      <Dest>Kuličková dráha - levotočivá zatáčka - 360</Dest>
+      <Dest>Kuličková dráha - levotočivá zatáčka (360)</Dest>
     </String>
     <String List="0" sID="00065A">
       <EDID>WksBallTrackSplit01</EDID>
@@ -551,13 +551,13 @@
       <EDID>WksBallTrackFloorFunnelEdge01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Funnel - Edge</Source>
-      <Dest>Kuličková dráha - trychtýř - kraj</Dest>
+      <Dest>Kuličková dráha - trychtýř (kraj)</Dest>
     </String>
     <String List="0" sID="00065C">
       <EDID>WksBallTrackCurveR02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Curve Right - 180</Source>
-      <Dest>Kuličková dráha - pravotočivá zatáčka - 180</Dest>
+      <Dest>Kuličková dráha - pravotočivá zatáčka (180)</Dest>
     </String>
     <String List="0" sID="00065D">
       <EDID>WksBallTrackMerge01</EDID>
@@ -569,25 +569,25 @@
       <EDID>WksBallTrackFloorFunnelMid01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Funnel - Floor</Source>
-      <Dest>Kuličková dráha - trychtýř - podlaha</Dest>
+      <Dest>Kuličková dráha - trychtýř (podlaha)</Dest>
     </String>
     <String List="0" sID="00065F">
       <EDID>WksBallTrackCurveL02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Curve Left - 180</Source>
-      <Dest>Kuličková dráha - levotočivá zatáčka - 180</Dest>
+      <Dest>Kuličková dráha - levotočivá zatáčka (180)</Dest>
     </String>
     <String List="0" sID="000660">
       <EDID>WksBallTrackStraight01Dbl</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Ramp High - Double</Source>
-      <Dest>Kuličková dráha - rampa vysoká - dvojitá</Dest>
+      <Dest>Kuličková dráha - rampa (vysoká dvojitá)</Dest>
     </String>
     <String List="0" sID="000661">
       <EDID>WksBallTrackCurveR03</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Curve Right - 360</Source>
-      <Dest>Kuličková dráha - pravotočivá zatáčka - 360</Dest>
+      <Dest>Kuličková dráha - pravotočivá zatáčka (360)</Dest>
     </String>
     <String List="0" sID="000743">
       <EDID>DLC05WorkshopWarehouseKit_DoorsMetal</EDID>
@@ -775,7 +775,7 @@
       <Source>Acrylic Letter - H</Source>
       <Dest>Akrylové písmeno - H</Dest>
     </String>
-    <String List="0" sID="000828">
+    <String List="0" sID="000828" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-0</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 0</Source>
@@ -823,7 +823,7 @@
       <Source>Acrylic Letter - Z</Source>
       <Dest>Akrylové písmeno - Z</Dest>
     </String>
-    <String List="0" sID="000832">
+    <String List="0" sID="000832" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-6</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 6</Source>
@@ -839,7 +839,7 @@
       <EDID>DLC05WorkshopMarqueeLetter-Red-2</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 2</Source>
-      <Dest>Akrylové číslo - 2</Dest>
+      <Dest>Akrylová číslice - 2</Dest>
     </String>
     <String List="0" sID="000837">
       <EDID>DLC05WorkshopMarqueeLetter-Red-DollarSign</EDID>
@@ -853,7 +853,7 @@
       <Source>Acrylic Punctuation - Exclaimation Mark</Source>
       <Dest>Akrylový znak - vykřičník</Dest>
     </String>
-    <String List="0" sID="00083C">
+    <String List="0" sID="00083C" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-3</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 3</Source>
@@ -863,7 +863,7 @@
       <EDID>DLC05WorkshopMarqueeLetter-Red-4</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 4</Source>
-      <Dest>Akrylové číslo - 4</Dest>
+      <Dest>Akrylová číslice - 4</Dest>
     </String>
     <String List="0" sID="000843">
       <EDID>DLC05WorkshopMarqueeLetter-Red-QuestionMark</EDID>
@@ -931,7 +931,7 @@
       <Source>Post</Source>
       <Dest>Sloupek</Dest>
     </String>
-    <String List="0" sID="000856">
+    <String List="0" sID="000856" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-E</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Letter - E</Source>
@@ -949,7 +949,7 @@
       <Source>Acrylic Letter - X</Source>
       <Dest>Akrylové písmeno - X</Dest>
     </String>
-    <String List="0" sID="00085A">
+    <String List="0" sID="00085A" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-5</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 5</Source>
@@ -961,7 +961,7 @@
       <Source>Acrylic Punctuation - Question Mark</Source>
       <Dest>Akrylový znak - otazník</Dest>
     </String>
-    <String List="0" sID="000860">
+    <String List="0" sID="000860" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-7</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 7</Source>
@@ -979,7 +979,7 @@
       <Source>Roof</Source>
       <Dest>Střecha</Dest>
     </String>
-    <String List="0" sID="000867">
+    <String List="0" sID="000867" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-L</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Letter - L</Source>
@@ -997,7 +997,7 @@
       <Source>Acrylic Letter - S</Source>
       <Dest>Akrylové písmeno - S</Dest>
     </String>
-    <String List="0" sID="00086B">
+    <String List="0" sID="00086B" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-D</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Letter - D</Source>
@@ -1021,7 +1021,7 @@
       <Source>Acrylic Letter - Q</Source>
       <Dest>Akrylové písmeno - Q</Dest>
     </String>
-    <String List="0" sID="00086F">
+    <String List="0" sID="00086F" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-8</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 8</Source>
@@ -1045,19 +1045,19 @@
       <Source>Acrylic Symbol - Star</Source>
       <Dest>Akrylový znak - hvězdička</Dest>
     </String>
-    <String List="0" sID="000875">
+    <String List="0" sID="000875" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-I</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Letter - I</Source>
       <Dest>Akrylové písmeno - I</Dest>
     </String>
-    <String List="0" sID="000876">
+    <String List="0" sID="000876" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-1</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 1</Source>
       <Dest>Akrylové číslo - 1</Dest>
     </String>
-    <String List="0" sID="000879">
+    <String List="0" sID="000879" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Letter - B</Source>
@@ -1075,7 +1075,7 @@
       <Source>Acrylic Letter - T</Source>
       <Dest>Akrylové písmeno - T</Dest>
     </String>
-    <String List="0" sID="00087D">
+    <String List="0" sID="00087D" Partial="1">
       <EDID>DLC05WorkshopMarqueeLetter-Red-9</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 9</Source>
@@ -1517,7 +1517,7 @@
       <EDID>WksBallTrackFloorFunnelMid02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Ball Track - Funnel - Floor</Source>
-      <Dest>Kuličková dráha - trychtýř - podlaha</Dest>
+      <Dest>Kuličková dráha - trychtýř (podlaha)</Dest>
     </String>
     <String List="0" sID="000A2C">
       <EDID>DLC05WorkshopWarehouseKit_Walls02</EDID>
@@ -1601,19 +1601,19 @@ NOT/NAND/NOR/XNOR: These gates only transmit power if their inputs are connected
 NOT and NOR: Transmits power when no inputs have power.&#xD;
 NAND: Transmits power unless all inputs have power.&#xD;
 XNOR: Transmits power when all inputs are the same (powered or unpowered).</Source>
-      <Dest>Použij logická hradla k vytváření složitějších nastavení elektrické sítě. Logická hradla mají dva body pro připojení vodičů: vstup a výstup. Existují dva základní typy:&#xD;
+      <Dest>Pro vytváření složitějších elektrických obvodů použij logická hradla. Elektrické vodiče je k hradlům možné připojit na pozici vstupu nebo výstupu. Logická hradla mohou být dvou základních kategorií:&#xD;
 &#xD;
-AND/OR/XOR: Tato hradla fungují jako přepínače; přenášejí, nebo nepřenášejí energii v závislosti na kombinaci napájení svých vstupů.&#xD;
+AND/OR/XOR: Tato hradla fungují jako přepínače - přenášejí, nebo nepřenášejí elektřinu v závislosti na kombinaci napájení svých vstupů.&#xD;
 &#xD;
-AND: Přenáší energii, pokud jsou všechny vstupy pod proudem.&#xD;
-OR: Přenáší energii, pokud je kterýkoliv vstup pod proudem.&#xD;
-XOR: Přenáší energii, pokud je pod proudem právě jeden vstup.&#xD;
+* AND: Přenáší elektřinu, pokud jsou všechny vstupy pod napětím.&#xD;
+* OR: Přenáší elektřinu, pokud je libovolný vstup pod napětím.&#xD;
+* XOR: Přenáší elektřinu, pokud je pod napětím právě jeden vstup.&#xD;
 &#xD;
-NOT/NAND/NOR/XNOR: Tato hradla přenáší energii jen v případě, že jsou přímo spojena s výstupy dalších hradel.&#xD;
+NOT/NAND/NOR/XNOR: Tato hradla přenáší elektřinu jen v případě, že jsou přímo spojena s výstupy dalších hradel.&#xD;
 &#xD;
-NOT a NOR: Přenáší energii, pokud nejsou žádné vstupy pod proudem.&#xD;
-NAND: Přenáší energii, pokud nejsou všechny vstupy pod proudem.&#xD;
-XNOR: Přenáší energii, pokud jsou všechny vstupy pod, nebo bez proudu.</Dest>
+* NOT a NOR: Přenáší elektřinu, pokud nejsou žádné vstupy pod napětím.&#xD;
+* NAND: Přenáší elektřinu, pokud nejsou všechny vstupy pod napětím.&#xD;
+* XNOR: Přenáší elektřinu, pokud jsou všechny vstupy shodné (pod napětím nebo bez napětí).</Dest>
     </String>
     <String List="1" sID="0007BE">
       <EDID>DLC05WorkshopTutorialMessageBuilders</EDID>
@@ -1623,11 +1623,11 @@ XNOR: Přenáší energii, pokud jsou všechny vstupy pod, nebo bez proudu.</Des
 The builder will continue to create new objects as long as it has power and the required objects or components in its inventory.&#xD;
 &#xD;
 To change what a builder creates, use a Terminal connected to the same power grid.</Source>
-      <Dest>Výrobna se používá k vytváření nových položek z vlastního inventáře. Můžeš do ní umístit položky přímo nebo připojit dopravníkový pás, aby se do ní položky podávaly automaticky.&#xD;
+      <Dest>Výrobna se používá k vytváření nových předmětů ze součástek ve vlastním inventáři. Součástky do ní můžeš vkládat buď napřímo, nebo ji lze automaticky plnit pomocí připojemého pásového dopravníku.&#xD;
 &#xD;
-Výrobna bude vytvářet nové položky tak dlouho, dokud bude mít energii a požadované položky nebo součástky ve vlastním inventáři.&#xD;
+Výrobna bude vytvářet nové položky tak dlouho, dokud bude mít elektřinu a požadované komponenty ve vlastním inventáři.&#xD;
 &#xD;
-Chceš-li změnit to, co má výrobna vyrábět, učiň tak pomocí terminálu připojeného ke stejné elektrické síti.</Dest>
+Výrobní plán lze měnit pomocí terminálu připojeného ke stejné elektrické síti.</Dest>
     </String>
     <String List="1" sID="0007C2">
       <EDID>DLC05WorkshopTutorialMessageFireworks</EDID>
@@ -1635,9 +1635,9 @@ Chceš-li změnit to, co má výrobna vyrábět, učiň tak pomocí terminálu p
       <Source>A Firework Mortar can be loaded with firework shells, which it will then fire as long as it has power. You can change the firing delay by using a Terminal connected to the same power grid.&#xD;
 &#xD;
 Firework shells of different types can be crafted at a Chemistry Station, or you can create them using a Pyrotechnics Mill builder.</Source>
-      <Dest>Hmoždíř na ohňostroj může být nabit patronami, které bude střílet, pokud je napájen. V terminálu, připojeném ke stejné elektrické síti, můžeš nastavit zpoždění odpalu.&#xD;
+      <Dest>Do moždíře na ohňostroj je možné vložit kulové pumy, které jsou při aktivním napájení postupně odpalovány. Rychlost odpalování můžeš nastavit v terminálu připojeném ke stejné elektrické síti.&#xD;
 &#xD;
-Různé druhy patron mohou být vyrobeny v chemické stanici nebo zhotoveny ve výrobně pyrotechniky.</Dest>
+Různé druhy kulových pum lze vyrábět v chemické laboratoři nebo v rámci výrobny pyrotechniky.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
