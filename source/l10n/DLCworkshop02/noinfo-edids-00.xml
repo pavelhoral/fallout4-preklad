@@ -41,19 +41,19 @@
       <EDID>DLC05WorkshopFireworkMortar01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Firework Mortar</Source>
-      <Dest>Hmoždíř na ohňostroj</Dest>
+      <Dest>Moždíř na ohňostroj</Dest>
     </String>
     <String List="0" sID="000441">
       <EDID>DLC05RecipeFireworks</EDID>
       <REC>KYWD:FULL</REC>
       <Source>FIREWORKS</Source>
-      <Dest>OHŇOSTROJE</Dest>
+      <Dest>OHŇOSTROJ</Dest>
     </String>
     <String List="0" sID="000442">
       <EDID>DLC05FireworkShellPeonyGreen</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Peony Green</Source>
-      <Dest>Patrona ohňostroje - zelená pivoňka</Dest>
+      <Dest>Kulová puma - zelená pivoňka</Dest>
     </String>
     <String List="0" sID="000443">
       <EDID>DLC05ScaffPlatform1x2C</EDID>
@@ -107,7 +107,7 @@
       <EDID>DLC05FireworkShellWeatherRain</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Rain</Source>
-      <Dest>Patrona změny počasí - déšť</Dest>
+      <Dest>Kulová puma měnicí počasí - déšť</Dest>
     </String>
     <String List="0" sID="00044E">
       <EDID>DLC05ScaffPlatform2x2A</EDID>
@@ -143,7 +143,7 @@
       <EDID>DLC05FireworkShellWeatherRadstorm</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Radstorm</Source>
-      <Dest>Patrona změny počasí - radiační bouře</Dest>
+      <Dest>Kulová puma měnicí počasí - radiační bouře</Dest>
     </String>
     <String List="0" sID="000454">
       <EDID>DLC05ScaffPlatform1x1B</EDID>
@@ -197,7 +197,7 @@
       <EDID>DLC05FireworkShellWeatherClear</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Clear</Source>
-      <Dest>Patrona změny počasí - jasno</Dest>
+      <Dest>Kulová puma měnicí počasí - jasno</Dest>
     </String>
     <String List="0" sID="00045F">
       <EDID>DLC05ScaffRampB</EDID>
@@ -257,7 +257,7 @@
       <EDID>DLC05FireworkShellMinutemenFlare</EDID>
       <REC>MISC:FULL</REC>
       <Source>Emergency Flare Shell</Source>
-      <Dest>Patrona nouzové světlice</Dest>
+      <Dest>Nouzová signální puma</Dest>
     </String>
     <String List="0" sID="0005A1">
       <EDID>DLC05_Boxcar_03d</EDID>
@@ -323,7 +323,7 @@
       <EDID>DLC05WorkshopBoxCarBlue</EDID>
       <REC>FLST:FULL</REC>
       <Source>Boxcars</Source>
-      <Dest>Vagony</Dest>
+      <Dest>Nákladní vagóny</Dest>
     </String>
     <String List="0" sID="0005AF">
       <EDID>DLC05_BoxCarMid_01c</EDID>
@@ -335,7 +335,7 @@
       <EDID>DLC05_Boxcar_Door01</EDID>
       <REC>DOOR:FULL</REC>
       <Source>Box Car Door</Source>
-      <Dest>Vrata vagónu</Dest>
+      <Dest>Dveře vagónu</Dest>
     </String>
     <String List="0" sID="0005B3">
       <EDID>DLC05_Boxcar_03a</EDID>
@@ -437,7 +437,7 @@
       <EDID>DLC05WorkshopClockNuka</EDID>
       <REC>STAT:FULL</REC>
       <Source>Nuka Cola Clock</Source>
-      <Dest>Hodiny Nuka Cola</Dest>
+      <Dest>Hodiny Nuka-Cola</Dest>
     </String>
     <String List="0" sID="0005DB">
       <EDID>DLC05WeaponRackList</EDID>
@@ -449,7 +449,7 @@
       <EDID>DLC05WorkshopBoxCarOrange</EDID>
       <REC>FLST:FULL</REC>
       <Source>Boxcars</Source>
-      <Dest>Vagony</Dest>
+      <Dest>Nákladní vagóny</Dest>
     </String>
     <String List="0" sID="0005E1">
       <EDID>DLC05PistolRackList</EDID>
@@ -461,7 +461,7 @@
       <EDID>DLC05_Boxcar_Door02</EDID>
       <REC>DOOR:FULL</REC>
       <Source>Box Car Door</Source>
-      <Dest>Vrata vagónu</Dest>
+      <Dest>Dveře vagónu</Dest>
     </String>
     <String List="0" sID="0005E9">
       <EDID>DLC05PowerArmorDisplayList</EDID>
@@ -563,13 +563,13 @@
       <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000601">
       <EDID>DLC05WorkshopFireworkMortar02</EDID>
       <REC>CONT:FULL</REC>
       <Source>Firework Mortar (Angled)</Source>
-      <Dest>Hmoždíř na ohňostroj (šikmý)</Dest>
+      <Dest>Moždíř na ohňostroj (nakloněný)</Dest>
     </String>
     <String List="0" sID="000603">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
@@ -602,28 +602,28 @@
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="00060D">
       <EDID>DLC05nativeWorkshopBuilderTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="000610">
       <EDID>DLC05nativeWorkshopBuilderTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000611">
       <EDID>DLC05FireworkShellPeonyRed</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Peony Red</Source>
-      <Dest>Patrona ohňostroje - červená pivoňka</Dest>
+      <Dest>Kulová puma - červená pivoňka</Dest>
     </String>
     <String List="0" sID="000612">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuTimer</EDID>
@@ -685,7 +685,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="00061F">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuTimer</EDID>
@@ -699,7 +699,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopHopperTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Hopper Control</Source>
-      <Dest>&gt;Ovládání automatizované násypky Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované násypky Schlocket</Dest>
     </String>
     <String List="0" sID="000621">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuTimer</EDID>
@@ -795,7 +795,7 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="000632">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuForce</EDID>
@@ -825,7 +825,7 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuTimer</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>WARNING: Timer outside manufacturer recommended settings. Jamming may result.</Source>
-      <Dest>VAROVÁNÍ: Časovač mimo výrobcem doporučená nastavení. Může mít za následek ucpávání.</Dest>
+      <Dest>VAROVÁNÍ: Časovač mimo výrobcem doporučená nastavení. Může vést k zablokování výstupu.</Dest>
     </String>
     <String List="0" sID="000637">
       <EDID>DLC05nativeWorkshopBuilderWeapon01TerminalSubMenu</EDID>
@@ -891,7 +891,7 @@ Nastavte sílu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000641">
       <EDID>DLC05nativeWorkshopHopperTerminalSubMenuTimer</EDID>
@@ -962,7 +962,7 @@ Set output timer:&#xD;
 </Source>
       <Dest>Ovládací panel násypky Schlocket Industries&#xD;
 &#xD;
-Nastavte časovač:&#xD;
+Nastavte výstupní časovač:&#xD;
 </Dest>
     </String>
     <String List="0" sID="00064D">
@@ -1020,9 +1020,9 @@ Nastavte časovač:&#xD;
 &#xD;
 Select weapon to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte zbraň k výrobě:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000658">
@@ -1059,7 +1059,7 @@ Vyberte zbraň k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon02Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="000667">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubmenuDisplayRecipe</EDID>
@@ -1089,13 +1089,13 @@ Vyberte zbraň k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderTerminalSubmenuDisplayRecipe</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="00066C">
       <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="00066D">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubmenuDisplayRecipe</EDID>
@@ -1128,9 +1128,9 @@ Vyberte zbraň k výrobě:&#xD;
 &#xD;
 Select weapon to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte zbraň k výrobě:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000672">
@@ -1161,7 +1161,7 @@ Vyberte zbraň k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon02Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000677">
       <EDID>DLC05WorkshopBuilder02LaserGunName</EDID>
@@ -1208,9 +1208,9 @@ New build item: &lt;Token.Name=RecipeName&gt;&#xD;
 &#xD;
 Required components:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Výroba nové položky:&lt;Token.Name=RecipeName&gt;&#xD;
+Výrobní plán: &lt;Token.Name=RecipeName&gt;&#xD;
 &#xD;
 Požadované komponenty:&#xD;
 </Dest>
@@ -1225,7 +1225,7 @@ Požadované komponenty:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon03Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000680">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubmenuDisplayRecipe</EDID>
@@ -1246,16 +1246,16 @@ Požadované komponenty:&#xD;
 &#xD;
 Select weapon to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte zbraň k výrobě:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000683">
       <EDID>DLC05nativeWorkshopBuilderWeapon02TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000684">
       <EDID>DLC05nativeWorkshopBuilderWeapon03TerminalSubMenu</EDID>
@@ -1291,13 +1291,13 @@ Vyberte zbraň k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderWeapon03Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="00068A">
       <EDID>DLC05nativeWorkshopBuilderFood01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="00068B">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1327,19 +1327,19 @@ Nastavte rychlost dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopConveyorTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Conveyor Control</Source>
-      <Dest>&gt;Ovládání dopravníku Schlocket</Dest>
+      <Dest>&gt; Ovládání dopravníku Schlocket</Dest>
     </String>
     <String List="0" sID="00068F">
       <EDID>DLC05WorkshopFireworkWeaponWeatherClear</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000690">
       <EDID>DLC05WorkshopBuilderFood01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Food Processor</Source>
-      <Dest>Výrobna jídla</Dest>
+      <Dest>Výrobna pokrmů</Dest>
     </String>
     <String List="0" sID="000691">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuDirection</EDID>
@@ -1351,7 +1351,7 @@ Nastavte rychlost dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="7">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000693">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1363,13 +1363,13 @@ Nastavte rychlost dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="9">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000695">
       <EDID>DLC05WorkshopFireworkWeaponPeonyGreen</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000696">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1393,19 +1393,19 @@ Nastavte rychlost dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopBuilderFood01Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Food Processor Control</Source>
-      <Dest> &gt; Ovládání výrobny potravin</Dest>
+      <Dest> &gt; Ovládání výrobny pokrmů</Dest>
     </String>
     <String List="0" sID="00069A">
       <EDID>DLC05FireworkAmmoPeonyGreen</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="00069B">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="00069C">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuDirection</EDID>
@@ -1438,7 +1438,7 @@ Nastavte směr:&#xD;
 &#xD;
 Set output timer:&#xD;
 </Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na ohňostroj&#xD;
+      <Dest>Ovládací panel moždíře na ohňostroj Universal Pyrotechnics&#xD;
 &#xD;
 Nastavit časovač:&#xD;
 </Dest>
@@ -1465,13 +1465,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít ke škodám na majetku nebo zranění osob.</Dest>
     </String>
     <String List="0" sID="0006A4">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít ke škodám na majetku nebo zranění osob.</Dest>
     </String>
     <String List="0" sID="0006A5">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1489,13 +1489,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05FireworkAmmoWeatherClear</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006A8">
       <EDID>DLC05FireworkAmmoMinutemenFlare</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006A9">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuDirection</EDID>
@@ -1509,13 +1509,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05WorkshopFireworkWeaponPeonyRed</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006AB">
       <EDID>DLC05nativeWorkshopBuilderExplosives01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="0006AC">
       <EDID>DLC05WorkshopBuilder02PipeGunName</EDID>
@@ -1527,7 +1527,7 @@ Nastavit časovač:&#xD;
       <EDID>DLC05FireworkAmmoWeatherRadstorm</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006AE">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1551,7 +1551,7 @@ Nastavit časovač:&#xD;
       <EDID>DLC05WorkshopFireworkWeaponWeatherRain</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006B2">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1563,25 +1563,25 @@ Nastavit časovač:&#xD;
       <EDID>DLC05nativeWorkshopBuilderFood01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Food Processor Control</Source>
-      <Dest>&gt;Ovládání výrobny potravin</Dest>
+      <Dest>&gt; Ovládání výrobny pokrmů</Dest>
     </String>
     <String List="0" sID="0006B4">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006B5">
       <EDID>DLC05nativeWorkshopBuilderExplosives01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Explosives Mill</Source>
-      <Dest>&gt;Automatizovaná výrobna výbušnin Schlocket</Dest>
+      <Dest>&gt; Automatizovaná výrobna výbušnin Schlocket</Dest>
     </String>
     <String List="0" sID="0006B6">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006B7">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1593,13 +1593,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05FireworkAmmoWeatherRain</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006B9">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="5">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006BA">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1611,13 +1611,13 @@ Nastavit časovač:&#xD;
       <EDID>DLC05FireworkAmmoWeatherRain</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006BC">
       <EDID>DLC05WorkshopFireworkWeaponWeatherRadstorm</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006BD">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1641,7 +1641,7 @@ Nastavit časovač:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="8">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006C1">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1677,7 +1677,7 @@ Nastavit časovač:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006C7">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1695,37 +1695,37 @@ Nastavit časovač:&#xD;
       <EDID>DLC05FireworkAmmoPeonyGreen</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006CA">
       <EDID>DLC05nativeWorkshopFireworkTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Firework Mortar Control</Source>
-      <Dest> &gt; Ovládání hmoždíře na ohňostroj</Dest>
+      <Dest> &gt; Ovládání moždíře na ohňostroj</Dest>
     </String>
     <String List="0" sID="0006CB">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006CC">
       <EDID>DLC05WorkshopFireworkWeaponMinutemenFlare</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006CD">
       <EDID>DLC05FireworkAmmoWeatherRadstorm</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006CE">
       <EDID>DLC05FireworkAmmoPeonyRed</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006CF">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1761,13 +1761,13 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05FireworkAmmoWeatherClear</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006D4">
       <EDID>DLC05FireworkAmmoPeonyRed</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006D5">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
@@ -1787,7 +1787,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="0006D7">
       <EDID>DLC05nativeWorkshopFireworkTerminalSubMenu</EDID>
@@ -1807,13 +1807,13 @@ dopravníku:&#xD;
       <EDID>DLC05FireworkAmmoMinutemenFlare</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0006DA">
       <EDID>DLC05nativeWorkshopFireworkTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Universal Pyrotechnics Firework Mortar Control</Source>
-      <Dest>&gt; Ovládání hmoždíře na ohňostroj Universal Pyrotechnics</Dest>
+      <Dest>&gt; Ovládání moždíře na ohňostroj Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="0006DB">
       <EDID>DLC05nativeWorkshopBuilderExplosives01Terminal</EDID>
@@ -1825,7 +1825,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenuSpeed</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>WARNING: Conveyor speed exceeds recommended safety parameters. Property damage or injury may result.</Source>
-      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít k poškození majetku nebo ke zranění.</Dest>
+      <Dest>VAROVÁNÍ: Rychlost dopravníku překračuje doporučené bezpečné parametry. Může dojít ke škodám na majetku nebo zranění osob.</Dest>
     </String>
     <String List="0" sID="0006DD">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenu</EDID>
@@ -1843,7 +1843,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopFireworkTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Universal Pyrotechnics Firework Mortar Control...</Source>
-      <Dest>Přistupování k ovládání hmoždíře na ohňostroj Universal Pyrotechnics...</Dest>
+      <Dest>Přistupování k ovládání moždíře na ohňostroj Universal Pyrotechnics...</Dest>
     </String>
     <String List="0" sID="0006E0">
       <EDID>DLC05nativeWorkshopConveyorTerminalSubMenu</EDID>
@@ -1855,7 +1855,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="0006E2">
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
@@ -1879,7 +1879,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="0006E6">
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
@@ -1927,7 +1927,7 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="0006EE">
       <EDID>DLC05nativeWorkshopBuilderFood01TerminalSubMenu</EDID>
@@ -1939,13 +1939,13 @@ dopravníku:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>Firework Shell - Peony Red</Source>
-      <Dest>Patrona ohňostroje - červená pivoňka</Dest>
+      <Dest>Kulová puma - červená pivoňka</Dest>
     </String>
     <String List="0" sID="0006F0">
       <EDID>DLC05nativeWorkshopBuilderExplosives02Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="0006F1">
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
@@ -1972,9 +1972,9 @@ dopravníku:&#xD;
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="0006F5">
@@ -1987,7 +1987,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="9">TERM:ITXT</REC>
       <Source>Weather Change Shell - Radstorm</Source>
-      <Dest>Patrona změny počasí - radiační bouře</Dest>
+      <Dest>Kulová puma měnicí počasí - radiační bouře</Dest>
     </String>
     <String List="0" sID="0006F7">
       <EDID>DLC05WorkshopBuilderExplosives02</EDID>
@@ -2002,9 +2002,9 @@ Vyberte položku pro výrobu:&#xD;
 &#xD;
 Select food product to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte potravinářský produkt k výrobě:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="0006F9">
@@ -2017,13 +2017,13 @@ Vyberte potravinářský produkt k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Pyrotechnics Mill</Source>
-      <Dest>&gt;Automatizovaná výrobna pyrotechniky</Dest>
+      <Dest>&gt; Automatizovaná výrobna pyrotechniky</Dest>
     </String>
     <String List="0" sID="0006FB">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="10">TERM:ITXT</REC>
       <Source>Weather Change Shell - Rain</Source>
-      <Dest>Patrona změny počasí - déšť</Dest>
+      <Dest>Kulová puma měnicí počasí - déšť</Dest>
     </String>
     <String List="0" sID="0006FC">
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
@@ -2047,13 +2047,13 @@ Vyberte potravinářský produkt k výrobě:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Firework Shell - Peony Green</Source>
-      <Dest>Patrona ohňostroje - zelená pivoňka</Dest>
+      <Dest>Kulová puma - zelená pivoňka</Dest>
     </String>
     <String List="0" sID="000700">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="11">TERM:ITXT</REC>
       <Source>Emergency Flare Shell</Source>
-      <Dest>Patrona nouzové světlice</Dest>
+      <Dest>Nouzová signální puma</Dest>
     </String>
     <String List="0" sID="000701">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
@@ -2062,9 +2062,9 @@ Vyberte potravinářský produkt k výrobě:&#xD;
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000702">
@@ -2077,7 +2077,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="8">TERM:ITXT</REC>
       <Source>Weather Change Shell - Clear</Source>
-      <Dest>Patrona změny počasí - jasno</Dest>
+      <Dest>Kulová puma měnicí počasí - jasno</Dest>
     </String>
     <String List="0" sID="000704">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
@@ -2125,7 +2125,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05_workshop_FiringTarget</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Firing Target Toggle</Source>
-      <Dest>Střelecký terč přepínač</Dest>
+      <Dest>Střelecký terč (přepínač)</Dest>
     </String>
     <String List="0" sID="00070D">
       <EDID>DLC05WorkshopConveyorYSwitchL</EDID>
@@ -2137,13 +2137,13 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderArmor01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000710">
       <EDID>DLC05nativeWorkshopBuilderArmor01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="000711">
       <EDID>DLC05nativeWorkshopBuilderArmor01Terminal</EDID>
@@ -2161,7 +2161,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopBuilderArmor01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Armor Forge</Source>
-      <Dest>Výrobna zbroje</Dest>
+      <Dest>Výrobna zbrojí</Dest>
     </String>
     <String List="0" sID="000714">
       <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
@@ -2185,7 +2185,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorBox01A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000718">
       <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
@@ -2209,7 +2209,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorBox02A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="00071C">
       <EDID>DLC05WorkshopBuilderArmor01LeatherArmorMediumName</EDID>
@@ -2251,13 +2251,13 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05Conduits</EDID>
       <REC>FLST:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Elektrické vedení</Dest>
     </String>
     <String List="0" sID="000723">
       <EDID>DLC05ConduitFloor01A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="000724">
       <EDID>DLC05WorkshopBuilderArmor01CombatArmorHeavyName</EDID>
@@ -2275,7 +2275,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorTurn01B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="000728">
       <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
@@ -2284,9 +2284,9 @@ Vyberte položku pro výrobu:&#xD;
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000729">
@@ -2311,13 +2311,13 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorTurn01A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="00072D">
       <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="00072E">
       <EDID>DLC05nativeWorkshopBuilderArmor01TerminalSubMenu</EDID>
@@ -2341,19 +2341,19 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitCeilingBox01B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000732">
       <EDID>DLC05ConduitFloorTurn01C</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="000733">
       <EDID>DLC05ConduitFloorBox02D</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000734">
       <EDID>DLC05ConduitFloorSwitch01</EDID>
@@ -2365,85 +2365,85 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorBox01C</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000736">
       <EDID>DLC05ConduitFloor01C</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="000737">
       <EDID>DLC05ConduitFloorBox02B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000738">
       <EDID>DLC05ConduitFloorBox02E</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000739">
       <EDID>DLC05ConduitCeilingBox01D</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="00073A">
       <EDID>DLC05ConduitFloorBox01D</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="00073B">
       <EDID>DLC05MarqueeSign01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Sign</Source>
-      <Dest>Velký poutač</Dest>
+      <Dest>Poutač - text</Dest>
     </String>
     <String List="0" sID="00073C">
       <EDID>DLC05ConduitFloor01B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="00073D">
       <EDID>DLC05ConduitFloorToCeil01</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="00073E">
       <EDID>DLC05ConduitCeilingBox01E</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="00073F">
       <EDID>DLC05ConduitFloorBox02C</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000740">
       <EDID>DLC05ConduitCeilingBox01C</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000741">
       <EDID>DLC05ConduitCeilingBox01A</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000742">
       <EDID>DLC05ConduitFloorBox01B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit Junction</Source>
-      <Dest>Spojka vedení</Dest>
+      <Dest>Přípojka vedení</Dest>
     </String>
     <String List="0" sID="000746">
       <EDID>DLC05ConveyorBeltsRollers</EDID>
@@ -2461,7 +2461,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ConduitFloorToCeil02</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit</Source>
-      <Dest>Vodiče</Dest>
+      <Dest>Vodič</Dest>
     </String>
     <String List="0" sID="00074A">
       <EDID>DLC05ConduitFloorLight01A</EDID>
@@ -2575,7 +2575,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05MarqueeArrowTurnRightDown01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="00075F">
       <EDID>DLC05_Armor_Power_T51_ArmLeft_SugarBombs</EDID>
@@ -2677,7 +2677,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05MarqueeArrows</EDID>
       <REC>FLST:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="000774">
       <EDID>DLC05_Armor_Power_T51_LegRight_SugarBombs</EDID>
@@ -3025,67 +3025,67 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05MarqueeArrowUpTurnRight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007C8">
       <EDID>DLC05MarqueeArrowRightStraight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007C9">
       <EDID>DLC05MarqueeArrowDownTurnLeft01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CA">
       <EDID>DLC05MarqueeArrowDownStraight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CB">
       <EDID>DLC05MarqueeArrowUpTurnLeft01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CC">
       <EDID>DLC05MarqueeArrowTurnLeftDown01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CD">
       <EDID>DLC05MarqueeArrowDownTurnRight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CE">
       <EDID>DLC05MarqueeArrowLeftStraight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007CF">
       <EDID>DLC05MarqueeArrowTurnRightUp01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007D0">
       <EDID>DLC05MarqueeArrowTurnLeftUp01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007D1">
       <EDID>DLC05MarqueeArrowUpStraight01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Marquee Arrow</Source>
-      <Dest>Poutač šipka</Dest>
+      <Dest>Poutač - šipka</Dest>
     </String>
     <String List="0" sID="0007D2">
       <EDID>DLC05_ElevatorButton03</EDID>
@@ -3103,43 +3103,43 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05_ElevatorButton01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Floor 1</Source>
-      <Dest>Podlaží 1</Dest>
+      <Dest>1. patro</Dest>
     </String>
     <String List="0" sID="0007D5">
       <EDID>DLC05_ElevatorButton03</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Floor 3</Source>
-      <Dest>Podlaží 3</Dest>
+      <Dest>3. patro</Dest>
     </String>
     <String List="0" sID="0007D6">
       <EDID>DLC05_ElevatorButton02</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Floor 2</Source>
-      <Dest>Podlaží 2</Dest>
+      <Dest>2. patro</Dest>
     </String>
     <String List="0" sID="0007D7">
       <EDID>DLC05ConduitFloorToCeil01B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit - Wall Pass-Through</Source>
-      <Dest>Vedení - průchozí stěnou</Dest>
+      <Dest>Vedení - průchod stěnou</Dest>
     </String>
     <String List="0" sID="0007D8">
       <EDID>DLC05_ElevatorButton04</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Floor 4</Source>
-      <Dest>Podlaží 4</Dest>
+      <Dest>4. patro</Dest>
     </String>
     <String List="0" sID="0007D9">
       <EDID>DLC05ConduitFloorToCeil02B</EDID>
       <REC>STAT:FULL</REC>
       <Source>Conduit - Wall Pass-Through</Source>
-      <Dest>Vedení - průchozí stěnou</Dest>
+      <Dest>Vedení - průchod stěnou</Dest>
     </String>
     <String List="0" sID="0007DB">
       <EDID>DLC05ElevatorCar4</EDID>
       <REC>ACTI:FULL</REC>
       <Source>4 Floor Elevator</Source>
-      <Dest>Čtyřpatrový výtah</Dest>
+      <Dest>Výtah pro 4 patra</Dest>
     </String>
     <String List="0" sID="0007DC">
       <EDID>DLC05_ElevatorButton02</EDID>
@@ -3157,7 +3157,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ElevatorCar3</EDID>
       <REC>ACTI:FULL</REC>
       <Source>3 Floor Elevator</Source>
-      <Dest>Třípatrový výtah</Dest>
+      <Dest>Výtah pro 3 patra</Dest>
     </String>
     <String List="0" sID="0007DF">
       <EDID>DLC05_ElevatorButton04</EDID>
@@ -3169,7 +3169,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ElevatorCar2</EDID>
       <REC>ACTI:FULL</REC>
       <Source>2 Floor Elevator</Source>
-      <Dest>Dvoupatrový výtah</Dest>
+      <Dest>Výtah pro 2 patra</Dest>
     </String>
     <String List="0" sID="0007E5">
       <EDID>DLC05WorkshopConveyorLift03</EDID>
@@ -3181,7 +3181,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopConveyorBeltsLifts</EDID>
       <REC>FLST:FULL</REC>
       <Source>Conveyor Lift</Source>
-      <Dest>Výtah pásového dopravníku</Dest>
+      <Dest>Dopravníkové výtahy</Dest>
     </String>
     <String List="0" sID="0007EA">
       <EDID>DLC05WorkshopConveyorLift01</EDID>
@@ -3229,55 +3229,55 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05_workshop_FiringTarget_Pulse</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Firing Target Pulse</Source>
-      <Dest>Střelecký terč puls</Dest>
+      <Dest>Střelecký terč (impuls)</Dest>
     </String>
     <String List="0" sID="000810">
       <EDID>DLC05JunkMortar01</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Junk Mortar</Source>
-      <Dest>Hmoždíř na veteš</Dest>
+      <Dest>Moždíř na veteš</Dest>
     </String>
     <String List="0" sID="000812">
       <EDID>DLC05WorkshopBuilderClothing01</EDID>
       <REC>CONT:FULL</REC>
       <Source>Auto-Loom</Source>
-      <Dest>Automatizovaný tkací stroj</Dest>
+      <Dest>Výrobna oblečení</Dest>
     </String>
     <String List="0" sID="000813">
       <EDID>DLC05nativeWorkshopBuilderClothing01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="000814">
       <EDID>DLC05nativeWorkshopBuilderClothing01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Manufactory Control</Source>
-      <Dest>&gt;Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>&gt; Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000815">
       <EDID>DLC05nativeWorkshopBuilderClothing01Terminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Auto-Loom Control</Source>
-      <Dest> &gt; Ovládání automatizovaného tkacího stroje</Dest>
+      <Dest> &gt; Ovládání výrobny oblečení</Dest>
     </String>
     <String List="0" sID="000817">
       <EDID>DLC05WorkshopMarqueeLetter-Black-6</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 6</Source>
-      <Dest>Akrylové číslo - 6</Dest>
+      <Dest>Akrylová číslice - 6</Dest>
     </String>
     <String List="0" sID="000820">
       <EDID>DLC05MarqueeLetters-Black</EDID>
       <REC>FLST:FULL</REC>
       <Source>Marquee Letters</Source>
-      <Dest>Poutač písmena</Dest>
+      <Dest>Písmena na poutač</Dest>
     </String>
     <String List="0" sID="000823">
       <EDID>DLC05WorkshopMarqueeLetter-Black-0</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 0</Source>
-      <Dest>Akrylové číslo - 0</Dest>
+      <Dest>Akrylová číslice - 0</Dest>
     </String>
     <String List="0" sID="000824">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -3289,7 +3289,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05ComponentSorterList</EDID>
       <REC>FLST:FULL</REC>
       <Source>Components</Source>
-      <Dest>Součástky</Dest>
+      <Dest>Komponenty</Dest>
     </String>
     <String List="0" sID="000827">
       <EDID>DLC05WorkshopMarqueeLetter-Black-H</EDID>
@@ -3301,7 +3301,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopMarqueeLetter-Black-7</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 7</Source>
-      <Dest>Akrylové číslo - 7</Dest>
+      <Dest>Akrylová číslice - 7</Dest>
     </String>
     <String List="0" sID="000831">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -3325,7 +3325,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopMarqueeLetter-Black-3</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 3</Source>
-      <Dest>Akrylové číslo - 3</Dest>
+      <Dest>Akrylová číslice - 3</Dest>
     </String>
     <String List="0" sID="00083A">
       <EDID>DLC05WorkshopMarqueeLetter-Black-ExclaimationMark</EDID>
@@ -3367,7 +3367,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05MarqueeLetters-Red</EDID>
       <REC>FLST:FULL</REC>
       <Source>Marquee Letters</Source>
-      <Dest>Poutač písmena</Dest>
+      <Dest>Písmena na poutač</Dest>
     </String>
     <String List="0" sID="000844">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -3400,9 +3400,9 @@ Vyberte položku pro výrobu:&#xD;
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000852">
@@ -3421,13 +3421,13 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopMarqueeLetter-Black-5</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 5</Source>
-      <Dest>Akrylové číslo - 5</Dest>
+      <Dest>Akrylová číslice - 5</Dest>
     </String>
     <String List="0" sID="00085B">
       <EDID>DLC05WorkshopMarqueeLetter-Black-2</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 2</Source>
-      <Dest>Akrylové číslo - 2</Dest>
+      <Dest>Akrylová číslice - 2</Dest>
     </String>
     <String List="0" sID="00085D">
       <EDID>DLC05WorkshopMarqueeLetter-Black-D</EDID>
@@ -3439,19 +3439,19 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopMarqueeLetter-Black-4</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 4</Source>
-      <Dest>Akrylové číslo - 4</Dest>
+      <Dest>Akrylová číslice - 4</Dest>
     </String>
     <String List="0" sID="00085F">
       <EDID>DLC05WorkshopMarqueeLetter-Black-8</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 8</Source>
-      <Dest>Akrylové číslo - 8</Dest>
+      <Dest>Akrylová číslice - 8</Dest>
     </String>
     <String List="0" sID="000861">
       <EDID>DLC05WorkshopMarqueeLetter-Black-1</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 1</Source>
-      <Dest>Akrylové číslo - 1</Dest>
+      <Dest>Akrylová číslice - 1</Dest>
     </String>
     <String List="0" sID="000862">
       <EDID>DLC05WorkshopMarqueeLetter-Black-B</EDID>
@@ -3481,7 +3481,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="000874">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -3493,7 +3493,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopMarqueeLetter-Black-9</EDID>
       <REC>STAT:FULL</REC>
       <Source>Acrylic Number - 9</Source>
-      <Dest>Akrylové číslo - 9</Dest>
+      <Dest>Akrylová číslice - 9</Dest>
     </String>
     <String List="0" sID="000878">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -3511,7 +3511,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05FireworkShellPeonyYellow</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Peony Yellow</Source>
-      <Dest>Patrona ohňostroje - žlutá pivoňka</Dest>
+      <Dest>Kulová puma - žlutá pivoňka</Dest>
     </String>
     <String List="0" sID="0008BF">
       <EDID>DLC05_PosterBFrame38</EDID>
@@ -3523,7 +3523,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05FireworkShellPeonyBlue</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Peony Blue</Source>
-      <Dest>Patrona ohňostroje - modrá pivoňka</Dest>
+      <Dest>Kulová puma - modrá pivoňka</Dest>
     </String>
     <String List="0" sID="0008C1">
       <EDID>DLC05_PosterAFrame40</EDID>
@@ -3559,7 +3559,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05FireworkShellPalmSilver</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Palm Silver</Source>
-      <Dest>Patrona ohňostroje - stříbrná palma</Dest>
+      <Dest>Kulová puma - stříbrná palma</Dest>
     </String>
     <String List="0" sID="0008C8">
       <EDID>DLC05_PosterAFrame41</EDID>
@@ -3571,19 +3571,19 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05FireworkShellCrackle</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Crackle</Source>
-      <Dest>Patrona ohňostroje - jiskra</Dest>
+      <Dest>Kulová puma - jiskra</Dest>
     </String>
     <String List="0" sID="0008CA">
       <EDID>DLC05FireworkShellPalmGold</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Palm Gold</Source>
-      <Dest>Patrona ohňostroje - zlatá palma</Dest>
+      <Dest>Kulová puma - zlatá palma</Dest>
     </String>
     <String List="0" sID="0008CB">
       <EDID>DLC05FireworkShellPeonyPink</EDID>
       <REC>MISC:FULL</REC>
       <Source>Firework Shell - Peony Pink</Source>
-      <Dest>Patrona ohňostroje - růžová pivoňka</Dest>
+      <Dest>Kulová puma - růžová pivoňka</Dest>
     </String>
     <String List="0" sID="0008CC">
       <EDID>DLC05_PosterBFrame41</EDID>
@@ -3595,73 +3595,73 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05WorkshopFireworkWeaponPeonyYellow</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008CF">
       <EDID>DLC05FireworkAmmoPeonyYellow</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D0">
       <EDID>DLC05FireworkAmmoPeonyPink</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D1">
       <EDID>DLC05WorkshopFireworkWeaponPeonyBlue</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D2">
       <EDID>DLC05FireworkAmmoCrackle</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D3">
       <EDID>DLC05FireworkAmmoPeonyBlue</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D4">
       <EDID>DLC05FireworkAmmoPeonyYellow</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D5">
       <EDID>DLC05WorkshopFireworkWeaponPeonyCrackle</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D6">
       <EDID>DLC05FireworkAmmoPeonyPink</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D7">
       <EDID>DLC05FireworkAmmoPeonyBlue</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008D8">
       <EDID>DLC05WorkshopFireworkWeaponPeonyPink</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008DA">
       <EDID>DLC05FireworkAmmoCrackle</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="0008DB">
       <EDID>Dlc05GrnhsWallB01</EDID>
@@ -3733,7 +3733,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderAmmo01Terminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Schlocket Automated Manufactory Control...</Source>
-      <Dest>Přistupování k ovládání automatizované výroby Schlocket...</Dest>
+      <Dest>Přistupování k ovládání automatizované výrobny Schlocket...</Dest>
     </String>
     <String List="0" sID="0008E8">
       <EDID>Dlc05GrnhsWallTopA01</EDID>
@@ -3763,7 +3763,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderAmmo01Terminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Schlocket Automated Ammunition Plant</Source>
-      <Dest>&gt;Automatizovaná výrobna munice Schlocket</Dest>
+      <Dest>&gt; Automatizovaná výrobna munice Schlocket</Dest>
     </String>
     <String List="0" sID="0008ED">
       <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
@@ -3793,7 +3793,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>.50 Round</Source>
-      <Dest>Náboj ráže.50</Dest>
+      <Dest>Náboj ráže .50</Dest>
     </String>
     <String List="0" sID="0008F2">
       <EDID>Dlc05GrnhsRoofTwinPeakB01</EDID>
@@ -3823,13 +3823,13 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Schlocket Automated Manufactory Control</Source>
-      <Dest>Ovládání automatizované výroby Schlocket</Dest>
+      <Dest>Ovládání automatizované výrobny Schlocket</Dest>
     </String>
     <String List="0" sID="0008F7">
       <EDID>DLC05nativeWorkshopBuilderAmmo01TerminalSubMenu</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>2mm Electromagnetic Cartridge</Source>
-      <Dest>2mm Elektromagnetický zásobník</Dest>
+      <Dest>2mm elektromagnetický zásobník</Dest>
     </String>
     <String List="0" sID="0008F8">
       <EDID>Dlc05GrnhsRoofTwinPeakG01</EDID>
@@ -3856,9 +3856,9 @@ Vyberte položku pro výrobu:&#xD;
 &#xD;
 Select item to manufacture:&#xD;
 </Source>
-      <Dest>Ovládací panel automatizované výroby Schlocket Industries&#xD;
+      <Dest>Ovládací panel automatizované výrobny Schlocket Industries&#xD;
 &#xD;
-Vyberte položku pro výrobu:&#xD;
+Zvolte výrobní plán:&#xD;
 </Dest>
     </String>
     <String List="0" sID="0008FC">
@@ -3937,19 +3937,19 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="5">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="00090C">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="00090D">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="00090E">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
@@ -3979,7 +3979,7 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="7">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000913">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
@@ -3997,25 +3997,25 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000917">
       <EDID>DLC05nativeWorkshopJunkMortarTerminal</EDID>
       <REC>TERM:RNAM</REC>
       <Source>Accessing Universal Pyrotechnics Junk Mortar Control...</Source>
-      <Dest>Přistupování k ovládání hmoždíře na veteš Universal Pyrotechnics...</Dest>
+      <Dest>Přistupování k ovládání moždíře na veteš Universal Pyrotechnics...</Dest>
     </String>
     <String List="0" sID="000918">
       <EDID>DLC05nativeWorkshopJunkMortarTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Junk Mortar Control</Source>
-      <Dest> &gt; Ovládání hmoždíře na veteš</Dest>
+      <Dest> &gt; Ovládání moždíře na veteš</Dest>
     </String>
     <String List="0" sID="000919">
       <EDID>DLC05nativeWorkshopJunkMortarTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt; Universal Pyrotechnics Junk Mortar Control</Source>
-      <Dest>&gt; Ovládání hmoždíře na veteš Universal Pyrotechnics</Dest>
+      <Dest>&gt; Ovládání moždíře na veteš Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="00091A">
       <EDID>Dlc05GrnhsRoofPrefA01</EDID>
@@ -4045,19 +4045,19 @@ Vyberte položku pro výrobu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Junk Mortar Control</Source>
-      <Dest>Ovládání hmoždíře na veteš Universal Pyrotechnics</Dest>
+      <Dest>Ovládání moždíře na veteš Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="00091F">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000920">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000921">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
@@ -4065,7 +4065,7 @@ Vyberte položku pro výrobu:&#xD;
       <Source>Universal Pyrotechnics, Inc. Junk Mortar Control Panel&#xD;
 &#xD;
 Set firing angle:</Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na veteš&#xD;
+      <Dest>Ovládací panel moždíře na veteš Universal Pyrotechnics&#xD;
 &#xD;
 Nastavit úhel palby:</Dest>
     </String>
@@ -4073,13 +4073,13 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000923">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
       <REC id="8">TERM:RNAM</REC>
       <Source>Changing mortar firing angle...</Source>
-      <Dest>Změna úhlu palby hmoždíře...</Dest>
+      <Dest>Změna úhlu palby moždíře...</Dest>
     </String>
     <String List="0" sID="000924">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuAngle</EDID>
@@ -4093,43 +4093,43 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05FireworkAmmoPalmGold</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000926">
       <EDID>DLC05FireworkAmmoPalmGold</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000927">
       <EDID>DLC05FireworkAmmoPalmSilver</EDID>
       <REC>AMMO:ONAM</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000928">
       <EDID>DLC05WorkshopFireworkWeaponPalmSilver</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="000929">
       <EDID>DLC05WorkshopFireworkWeaponPalmGold</EDID>
       <REC>WEAP:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="00092A">
       <EDID>DLC05FireworkAmmoPalmSilver</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Mortar</Source>
-      <Dest>Hmoždíř</Dest>
+      <Dest>Moždíř</Dest>
     </String>
     <String List="0" sID="00092B">
       <EDID>DLC05WorkshopConveyorYSwitchR</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Conveyor Belt - Right Diverter</Source>
-      <Dest>Pásový dopravník - rozdělovací</Dest>
+      <Dest>Pásový dopravník - pravý odvaděč</Dest>
     </String>
     <String List="0" sID="00092C">
       <EDID>DLC05WorkshopConveyorFloorRollersStr01</EDID>
@@ -4267,7 +4267,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="000944">
       <EDID>DLC05PaintballGunBlue</EDID>
@@ -4279,7 +4279,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="000946">
       <EDID>DLC05WorkshopBallTrackCurves</EDID>
@@ -4291,31 +4291,31 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="000948">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="000949">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="00094A">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="00094B">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="00094C">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -4333,19 +4333,19 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="00094F">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="000950">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="000952">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -4357,13 +4357,13 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="000955">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="000956">
       <EDID>DLC05WorkshopBallTrackStraight</EDID>
@@ -4375,7 +4375,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="000958">
       <EDID>DLC05PaintballGunBlue</EDID>
@@ -4387,49 +4387,49 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="00095A">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="00095B">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="00095C">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="00095D">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="00095E">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="00095F">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="000960">
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="000961">
       <EDID>DLC05nativeWorkshopBuilderClothing01TerminalSubMenu</EDID>
@@ -4447,49 +4447,49 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunBlue</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="000964">
       <EDID>DLC05AmmoPaintballGlow</EDID>
       <REC>AMMO:FULL</REC>
       <Source>Paintball - Glow</Source>
-      <Dest>Paintball kuličky - svítící</Dest>
+      <Dest>Paintballová kulička - svítící</Dest>
     </String>
     <String List="0" sID="000965">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="000966">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="000967">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="000968">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="000969">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="00096A">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="00096B">
       <EDID>DLC05AmmoPaintballOrange</EDID>
@@ -4501,31 +4501,31 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="00096D">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="00096E">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="00096F">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="000970">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="000971">
       <EDID>DLC05AmmoPaintballOrange</EDID>
@@ -4537,55 +4537,55 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="000973">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="000974">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="000975">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="000976">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="000977">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="000978">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="000979">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="00097A">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="00097B">
       <EDID>DLC05PaintballGunOrange</EDID>
@@ -4597,7 +4597,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="00097D">
       <EDID>DLC05AmmoPaintballGlow</EDID>
@@ -4609,61 +4609,61 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="00097F">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="000980">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="000981">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="000982">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="000983">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="000984">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="000985">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="000986">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="000987">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="000988">
       <EDID>DLC05PaintballGunGreen</EDID>
@@ -4675,37 +4675,37 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="00098A">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="00098B">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="00098C">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="00098D">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="00098E">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="00098F">
       <EDID>DLC05PaintballGunGlow</EDID>
@@ -4717,73 +4717,73 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="000991">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="000992">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="000993">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="000994">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="000995">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="000996">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="000997">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="000998">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="000999">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="00099A">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="00099B">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="00099C">
       <EDID>DLC05AmmoPaintballYellow</EDID>
@@ -4795,217 +4795,217 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="00099E">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="00099F">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009A0">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="0009A1">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="0009A2">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009A3">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009A4">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009A5">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009A6">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="0009A7">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="0009A8">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009A9">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009AA">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009AB">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="0009AC">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009AD">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="0009AE">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="0009AF">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0009B0">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="0009B1">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009B2">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009B3">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009B4">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009B5">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009B6">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="0009B7">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009B8">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="0009B9">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="0009BA">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009BB">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="0009BC">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="0009BD">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009BE">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009BF">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009C0">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009C1">
       <EDID>DLC05PaintballGunWhite</EDID>
@@ -5017,7 +5017,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="5">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
-      <Dest>Poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009C3">
       <EDID>DLC05WorkshopConveyorBeltTripwire01</EDID>
@@ -5035,37 +5035,37 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="0009C6">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="0009C7">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="0009C8">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009C9">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="14">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
-      <Dest>Jednoduchá epická puška</Dest>
+      <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009CA">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="0009CB">
       <EDID>DLC05PaintballGunRed</EDID>
@@ -5077,13 +5077,13 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="0009CD">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009CE">
       <EDID>DLC05AmmoPaintballGreen</EDID>
@@ -5107,25 +5107,25 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="0009D2">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009D3">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="0009D4">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0009D5">
       <EDID>DLC05AmmoPaintballRed</EDID>
@@ -5149,7 +5149,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="0009D9">
       <EDID>DLC05AmmoPaintballWhite</EDID>
@@ -5161,7 +5161,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="1">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
-      <Dest>Trubková zbraň</Dest>
+      <Dest>Pipe Gun</Dest>
     </String>
     <String List="0" sID="0009DB">
       <EDID>DLC05AmmoPaintballYellow</EDID>
@@ -5173,31 +5173,31 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009DD">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009DE">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009DF">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="20">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
-      <Dest>Odstřelovací puška epická</Dest>
+      <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009E0">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="13">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
-      <Dest>Jednoduchá epická pistole</Dest>
+      <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009E1">
       <EDID>DLC05PaintballGunRed</EDID>
@@ -5209,37 +5209,37 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="0009E3">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="7">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
-      <Dest>Puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="0009E4">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009E5">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="0009E6">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009E7">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0009E8">
       <EDID>DLC05PaintballGunGreen</EDID>
@@ -5251,43 +5251,43 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="18">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
-      <Dest>Epická puška (ne-útočná)</Dest>
+      <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="0009EA">
       <EDID>DLC05PaintballGunGreen</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="0009EB">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="16">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
-      <Dest>Epická poloautomatická pistole</Dest>
+      <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009EC">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009ED">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="11">WEAP:FULL</REC>
       <Source>Random Pitsol</Source>
-      <Dest>Náhodná pistole</Dest>
+      <Dest>Random Pitsol</Dest>
     </String>
     <String List="0" sID="0009EE">
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="8">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
-      <Dest>Útočná puška</Dest>
+      <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="0009EF">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="6">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
-      <Dest>Automatická pistole</Dest>
+      <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="0009F0">
       <EDID>DLC05PaintballGunYellow</EDID>
@@ -5299,61 +5299,61 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="9">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
-      <Dest>Odstřelovací puška</Dest>
+      <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="0009F2">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="0009F3">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009F4">
       <EDID>DLC05PaintballGunYellow</EDID>
       <REC id="3">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
-      <Dest>Jednoduchá puška</Dest>
+      <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="0009F5">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="17">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
-      <Dest>Epická automatická pistole</Dest>
+      <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009F6">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="22">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
-      <Dest>Náhodná pistole epická</Dest>
+      <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0009F7">
       <EDID>DLC05PaintballGunWhite</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0009F8">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
-      <Dest>Náhodná puška epická</Dest>
+      <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009F9">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="21">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
-      <Dest>Epické SMG</Dest>
+      <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="0009FA">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="12">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
-      <Dest>Náhodná puška</Dest>
+      <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="0009FB">
       <EDID>DLC05PaintballGunWhite</EDID>
@@ -5365,19 +5365,19 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="15">WEAP:FULL</REC>
       <Source>Random Epic</Source>
-      <Dest>Náhodná epická</Dest>
+      <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0009FD">
       <EDID>DLC05PaintballGunOrange</EDID>
       <REC id="19">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
-      <Dest>Epická útočná puška</Dest>
+      <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="0009FE">
       <EDID>DLC05PaintballGunGlow</EDID>
       <REC id="2">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
-      <Dest>Jednoduchá pistole</Dest>
+      <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="0009FF">
       <EDID>DLC05PaintballGunGlow</EDID>
@@ -5389,13 +5389,13 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05PaintballGunRed</EDID>
       <REC id="4">WEAP:FULL</REC>
       <Source>Random</Source>
-      <Dest>Náhodná</Dest>
+      <Dest>Random</Dest>
     </String>
     <String List="0" sID="000A04">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="6">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A05">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
@@ -5407,7 +5407,7 @@ Nastavit úhel palby:</Dest>
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A07">
       <EDID>DLC05WorkshopConveyorLift05</EDID>
@@ -5428,7 +5428,7 @@ Nastavit úhel palby:</Dest>
 &#xD;
 Please choose an option:&#xD;
 </Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na veteš&#xD;
+      <Dest>Ovládací panel moždíře na veteš Universal Pyrotechnics&#xD;
 &#xD;
 Prosím, vyberte jednu z možností:&#xD;
 </Dest>
@@ -5449,7 +5449,7 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenu</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Pyrotechnics Junk Mortar Control</Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládání hmoždíře na veteš</Dest>
+      <Dest>Ovládání moždíře na veteš Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="000A0D">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
@@ -5467,7 +5467,7 @@ Prosím, vyberte jednu z možností:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="8">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A10">
       <EDID>DLC05WorkshopConveyorLift07</EDID>
@@ -5488,7 +5488,7 @@ Prosím, vyberte jednu z možností:&#xD;
 &#xD;
 Set output force:&#xD;
 </Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládací panel hmoždíře na veteš&#xD;
+      <Dest>Ovládací panel moždíře na veteš Universal Pyrotechnics&#xD;
 &#xD;
 Nastavit sílu:&#xD;
 </Dest>
@@ -5515,7 +5515,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="5">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A17">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
@@ -5527,13 +5527,13 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A19">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A1A">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
@@ -5551,7 +5551,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A1D">
       <EDID>DLC05WorkshopConveyorLift08</EDID>
@@ -5571,61 +5571,61 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="7">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A20">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC>TERM:FULL</REC>
       <Source>Universal Pyrotechnics Junk Mortar Control</Source>
-      <Dest>Universal Pyrotechnics, Inc. Ovládání hmoždíře na veteš</Dest>
+      <Dest>Ovládání moždíře na veteš Universal Pyrotechnics</Dest>
     </String>
     <String List="0" sID="000A21">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="9">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A22">
       <EDID>DLC05nativeWorkshopJunkMortarTerminalSubMenuForce</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Changing mortar settings...</Source>
-      <Dest>Změna nastavení hmoždíře...</Dest>
+      <Dest>Změna nastavení moždíře...</Dest>
     </String>
     <String List="0" sID="000A23">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Firework Shell - Peony Blue</Source>
-      <Dest>Patrona ohňostroje - modrá pivoňka</Dest>
+      <Dest>Kulová puma - modrá pivoňka</Dest>
     </String>
     <String List="0" sID="000A24">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Firework Shell - Palm Gold</Source>
-      <Dest>Patrona ohňostroje - zlatá palma</Dest>
+      <Dest>Kulová puma - zlatá palma</Dest>
     </String>
     <String List="0" sID="000A25">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Firework Shell - Crackle</Source>
-      <Dest>Patrona ohňostroje - jiskra</Dest>
+      <Dest>Kulová puma - jiskra</Dest>
     </String>
     <String List="0" sID="000A26">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>Firework Shell - Peony Yellow</Source>
-      <Dest>Patrona ohňostroje - žlutá pivoňka</Dest>
+      <Dest>Kulová puma - žlutá pivoňka</Dest>
     </String>
     <String List="0" sID="000A27">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Firework Shell - Palm Silver</Source>
-      <Dest>Patrona ohňostroje - stříbrná palma</Dest>
+      <Dest>Kulová puma - stříbrná palma</Dest>
     </String>
     <String List="0" sID="000A28">
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Firework Shell - Peony Pink</Source>
-      <Dest>Patrona ohňostroje - růžová pivoňka</Dest>
+      <Dest>Kulová puma - růžová pivoňka</Dest>
     </String>
     <String List="0" sID="000A29">
       <EDID>DLC05ConduitCeilingRadiator01</EDID>
@@ -5643,7 +5643,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05WorkshopHopper03</EDID>
       <REC>CONT:FULL</REC>
       <Source>Conveyor Storage</Source>
-      <Dest>Úložiště dopravníku</Dest>
+      <Dest>Dopravníkové úložiště</Dest>
     </String>
     <String List="0" sID="000A34">
       <EDID>DLC05_PosterAFrame34</EDID>
@@ -5667,13 +5667,13 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
       <REC id="23">TERM:ITXT</REC>
       <Source>B4</Source>
-      <Dest>B4</Dest>
+      <Dest>H4</Dest>
     </String>
     <String List="0" sID="000A41">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
       <REC id="23">TERM:UNAM</REC>
       <Source>Setting pitch to B4.</Source>
-      <Dest>Nastavování výšky tónu na B4.</Dest>
+      <Dest>Nastavování výšky tónu na H4.</Dest>
     </String>
     <String List="0" sID="000A42">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
@@ -5729,7 +5729,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
       <REC id="11">TERM:ITXT</REC>
       <Source>B3</Source>
-      <Dest>B3</Dest>
+      <Dest>H3</Dest>
     </String>
     <String List="0" sID="000A4B">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
@@ -5753,7 +5753,7 @@ Nastavit sílu:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalBlip</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt;Speaker Control - Blip</Source>
-      <Dest>&gt;Ovládání reproduktoru - pípnutí</Dest>
+      <Dest>&gt; Ovládání reproduktoru - pípnutí</Dest>
     </String>
     <String List="0" sID="000A4F">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
@@ -5795,7 +5795,7 @@ Nastavit sílu:&#xD;
 Set percussion speaker sound:</Source>
       <Dest>Universal Electric, Inc.&#xD;
 &#xD;
-Nastavte zvuk reproduktoru - bicí:&#xD;
+Nastavit zvuk reproduktoru - bicí:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000A55">
@@ -5973,7 +5973,7 @@ Nastavte zvuk reproduktoru - bicí:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
       <REC id="23">TERM:UNAM</REC>
       <Source>Setting pitch to B4.</Source>
-      <Dest>Nastavování výšky tónu na B4.</Dest>
+      <Dest>Nastavování výšky tónu na H4.</Dest>
     </String>
     <String List="0" sID="000A72">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
@@ -5990,7 +5990,7 @@ Set blip speaker pitch:&#xD;
 </Source>
       <Dest>Universal Electric, Inc.&#xD;
 &#xD;
-Nastavte zvuk reproduktoru - pípnutí:&#xD;
+Nastavit zvuk reproduktoru - pípnutí:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000A74">
@@ -6003,7 +6003,7 @@ Nastavte zvuk reproduktoru - pípnutí:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
       <REC id="11">TERM:UNAM</REC>
       <Source>Setting pitch to B3.</Source>
-      <Dest>Nastavování výšky tónu na B3.</Dest>
+      <Dest>Nastavování výšky tónu na H3.</Dest>
     </String>
     <String List="0" sID="000A76">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
@@ -6027,7 +6027,7 @@ Nastavte zvuk reproduktoru - pípnutí:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
       <REC id="11">TERM:UNAM</REC>
       <Source>Setting pitch to B3.</Source>
-      <Dest>Nastavování výšky tónu na B3.</Dest>
+      <Dest>Nastavování výšky tónu na H3.</Dest>
     </String>
     <String List="0" sID="000A7A">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
@@ -6092,7 +6092,7 @@ Set explosion speaker pitch:&#xD;
 </Source>
       <Dest>Universal Electric, Inc.&#xD;
 &#xD;
-Nastavte zvuk reproduktoru - exploze:&#xD;
+Nastavit zvuk reproduktoru - exploze:&#xD;
 </Dest>
     </String>
     <String List="0" sID="000A84">
@@ -6284,7 +6284,7 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
       <REC id="11">TERM:ITXT</REC>
       <Source>B3</Source>
-      <Dest>B3</Dest>
+      <Dest>H3</Dest>
     </String>
     <String List="0" sID="000AA3">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
@@ -6362,7 +6362,7 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalExplosion</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt;Speaker Control - Explosion</Source>
-      <Dest>&gt;Ovládání reproduktoru - exploze</Dest>
+      <Dest>&gt; Ovládání reproduktoru - exploze</Dest>
     </String>
     <String List="0" sID="000AB0">
       <EDID>DLC05nativeWorkshopSpeakerTerminalPercussion</EDID>
@@ -6380,7 +6380,7 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalPercussion</EDID>
       <REC>TERM:FULL</REC>
       <Source>&gt;Speaker Control - Percussion</Source>
-      <Dest>&gt;Ovládání reproduktoru - bicí</Dest>
+      <Dest>&gt; Ovládání reproduktoru - bicí</Dest>
     </String>
     <String List="0" sID="000AB3">
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuBlip</EDID>
@@ -6422,7 +6422,7 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05nativeWorkshopSpeakerTerminalSubMenuExplosion</EDID>
       <REC id="23">TERM:ITXT</REC>
       <Source>B4</Source>
-      <Dest>B4</Dest>
+      <Dest>H4</Dest>
     </String>
     <String List="0" sID="000ABA">
       <EDID>DLC05nativeWorkshopSpeakerTerminalPercussion</EDID>
@@ -6452,31 +6452,31 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateNAND</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power unless all inputs have power.</Source>
-      <Dest>Přenáší elektřinu, pokud nejsou napájené všechny vstupy.</Dest>
+      <Dest>Přenáší elektřinu, pokud nejsou všechny vstupy pod napětím.</Dest>
     </String>
     <String List="1" sID="00000F">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateAND</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power if all inputs have power.</Source>
-      <Dest>Přenáší elektřinu, pokud jsou napájené všechny vstupy.</Dest>
+      <Dest>Přenáší elektřinu, pokud jsou všechny vstupy pod napětím.</Dest>
     </String>
     <String List="1" sID="000012">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateOR</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power if any input has power.</Source>
-      <Dest>Přenáší elektřinu, pokud je napájen kterýkoliv vstup.</Dest>
+      <Dest>Přenáší elektřinu, pokud je libovolný vstup pod napětím.</Dest>
     </String>
     <String List="1" sID="000013">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateNOR</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power when no inputs have power.</Source>
-      <Dest>Přenáší elektřinu, pokud nejsou napájené vstupy.</Dest>
+      <Dest>Přenáší elektřinu, pokud nejsou žádné vstupy pod napětím.</Dest>
     </String>
     <String List="1" sID="000015">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateNOT</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power when no inputs have power.</Source>
-      <Dest>Přenáší elektřinu, pokud nejsou napájené vstupy.</Dest>
+      <Dest>Přenáší elektřinu, pokud nejsou žádné vstupy pod napětím.</Dest>
     </String>
     <String List="1" sID="000018">
       <EDID>DLC05WeaponRackMessageInvalid</EDID>
@@ -6494,25 +6494,25 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05ArmorRackRace</EDID>
       <REC>RACE:DESC</REC>
       <Source>Needs to be zeroed out so NPCs don't use this (and t-pose). This is for the player only.</Source>
-      <Dest>Musí být odstraněno, aby nebylo použito NPC (a póza jako T) . Toto je jen pro hráče</Dest>
+      <Dest>Needs to be zeroed out so NPCs don't use this (and t-pose). This is for the player only.</Dest>
     </String>
     <String List="1" sID="000440">
       <EDID>DLC05FireworkMortarMessageFull</EDID>
       <REC>MESG:DESC</REC>
       <Source>The mortar can only hold one type of shell at a time.</Source>
-      <Dest>Hmoždíř může najednou využívat pouze jeden typ patron.</Dest>
+      <Dest>Do moždíře je možné nabít souběžně pouze jeden typ kulových pum.</Dest>
     </String>
     <String List="1" sID="0005D0">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateXOR</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power if exactly one input has power.</Source>
-      <Dest>Přenáší elektřinu, pokud je napájen jeden vstup.</Dest>
+      <Dest>Přenáší elektřinu, pokud je pod napětím právě jeden vstup.</Dest>
     </String>
     <String List="1" sID="00070E">
       <EDID>DLC05HumanRaceAdditiveSubgraphData</EDID>
       <REC>RACE:DESC</REC>
       <Source>Needs to be zeroed out so NPCs don't use this (and t-pose). This is for the player only.</Source>
-      <Dest>Musí být odstraněno, aby nebylo použito NPC (a póza jako T) . Toto je jen pro hráče</Dest>
+      <Dest>Needs to be zeroed out so NPCs don't use this (and t-pose). This is for the player only.</Dest>
     </String>
     <String List="1" sID="00075A">
       <EDID>DLC05_Armor_Power_T51_LegRight_Abraxo</EDID>
@@ -6524,13 +6524,13 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05_PA_Material_SugarBombs</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases Strength with all pieces painted.</Source>
-      <Dest>Zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
+      <Dest>Zvyšuje sílu, pokud jsou nalakovány všechny části energozbroje.</Dest>
     </String>
     <String List="1" sID="000764">
       <EDID>DLC05_PA_Material_Abraxo</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Increases Agility with all pieces painted.</Source>
-      <Dest>Zvyšuje hbitost, jsou-li natřené všechny části zbroje.</Dest>
+      <Dest>Zvyšuje hbitost, pokud jsou nalakovány všechny části energozbroje.</Dest>
     </String>
     <String List="1" sID="00076A">
       <EDID>DLC05_Armor_Power_T51_Torso_Abraxo</EDID>
@@ -6620,19 +6620,19 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_FiringTarget01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Switches power on or off each time it is struck.</Source>
-      <Dest>Přepne napájení po každém zásahu.</Dest>
+      <Dest>Po každém zásahu zapne nebo naopak vypne napájení.</Dest>
     </String>
     <String List="1" sID="0007E4">
       <EDID>DLC05workshop_co_WorkshopBuilderWeapon01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds basic weapons from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři základní zbraně. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři základní zbraně. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="0007E7">
       <EDID>DLC05workshop_co_WorkshopFireworkMortar02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Launches firework shells when powered. Shells can be crafted at a Chemistry Station.</Source>
-      <Dest>Po připojení elektřiny vystřeluje patrony ohňostroje. Patrony lze vytvořit v chemické stanici.</Dest>
+      <Dest>Po připojení elektřiny vystřeluje kulové pumy ohňostroje. Kulové pumy lze vytvořit v chemické laboratoři.</Dest>
     </String>
     <String List="1" sID="0007E8">
       <EDID>DLC05workshop_co_BallTrackBallDrop01</EDID>
@@ -6650,19 +6650,19 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopBuilderWeapon02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds energy weapons from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři energetické zbraně. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři energetické zbraně. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="0007F0">
       <EDID>DLC05workshop_co_BallTrackBall</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Polished steel ball perfect for testing your ball track.</Source>
-      <Dest>Leštěná ocelová koule ideální pro testování kuličkové dráhy.</Dest>
+      <Dest>Leštěná ocelová koule, ideální pro testování kuličkové dráhy.</Dest>
     </String>
     <String List="1" sID="0007F4">
       <EDID>DLC05workshop_co_WorkshopFireworkMortar01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Launches firework shells when powered. Shells can be crafted at a Chemistry Station.</Source>
-      <Dest>Po připojení elektřiny vystřeluje patrony ohňostroje. Patrony lze vytvořit v chemické stanici.</Dest>
+      <Dest>Po připojení elektřiny vystřeluje kulové pumy ohňostroje. Kulové pumy lze vytvořit v chemické laboratoři.</Dest>
     </String>
     <String List="1" sID="0007F5">
       <EDID>DLC05workshop_co_WorkshopPistolRack</EDID>
@@ -6674,7 +6674,7 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopHopper02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Pulls items out of an adjacent container when powered.</Source>
-      <Dest>Po připojení elektřiny vytáhne položky ze sousedního kontejneru.</Dest>
+      <Dest>Po připojení elektřiny vytahuje položky ze sousedního kontejneru.</Dest>
     </String>
     <String List="1" sID="0007F7">
       <EDID>DLC05workshop_co_WorkshopWeaponStand</EDID>
@@ -6686,19 +6686,19 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopBuilderArmor01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds armor from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři zbroj. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři zbroj. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="0007F9">
       <EDID>DLC05workshop_co_WorkshopBuilder01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds a variety of basic objects from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři různé základní předměty. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři různé základní předměty. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="0007FA">
       <EDID>DLC05workshop_co_WorkshopPitchingMachine01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Launches small objects from its inventory when powered.</Source>
-      <Dest>Po připojení elektřiny vyhazuje drobné předměty ze svého inventáře.</Dest>
+      <Dest>Po připojení elektřiny pálí drobné předměty ze svého inventáře.</Dest>
     </String>
     <String List="1" sID="0007FB">
       <EDID>DLC05workshop_co_WorkshopHopper01</EDID>
@@ -6710,55 +6710,55 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopBuilderWeapon03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds heavy weapons from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři těžké zbraně. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři těžké zbraně. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="0007FD">
       <EDID>DLC05workshop_co_ElevatorFrame01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>A two-story elevator.</Source>
-      <Dest>Dvoupodlažní výtah.</Dest>
+      <Dest>Výtah pro 2 patra.</Dest>
     </String>
     <String List="1" sID="0007FE">
       <EDID>DLC05workshop_co_WorkshopSorter01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Sorts incoming objects when powered, based on its current inventory.</Source>
-      <Dest>Po připojení elektřiny třídí příchozí objekty na základě aktuálního inventáře.</Dest>
+      <Dest>Po připojení elektřiny třídí příchozí předměty na základě vlastního inventáře.</Dest>
     </String>
     <String List="1" sID="0007FF">
       <EDID>DLC05workshop_co_BasketballHoopSwitch01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Switches power on briefly when triggered.</Source>
-      <Dest>Při spuštění krátce sepne napájení.</Dest>
+      <Dest>Při aktivaci krátce sepne napájení.</Dest>
     </String>
     <String List="1" sID="000801">
       <EDID>DLC05workshop_co_StationaryGun</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Stationary mounted pipe gun which fires while powered.</Source>
-      <Dest>Stacionární montovaná trubková zbraň, která vystřelí, pokud je napájena.</Dest>
+      <Dest>Upevněná stacionární trubková zbraň, která stříli po připojení elektřiny.</Dest>
     </String>
     <String List="1" sID="000802">
       <EDID>DLC05workshop_co_BallTrackStraightTrigger01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Turns power on or off each time it is triggered.</Source>
-      <Dest>Přepne napájení pokaždé, když zařízením projde proud.</Dest>
+      <Dest>Při každé aktivaci zapne nebo nebo naopak vypne napájení.</Dest>
     </String>
     <String List="1" sID="000803">
       <EDID>DLC05workshop_co_WorkshopBuilderFood01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Creates a variety of processed food from its inventory when powered. Use a connected terminal to set what to create.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři různé potraviny. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři různé druhy pokrmů. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000804">
       <EDID>DLC05workshop_co_WorkshopBuilderExplosives01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds mines or grenades from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři miny a granáty. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři miny a granáty. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000805">
       <EDID>DLC05Workshop_co_Pillory</EDID>
       <REC>COBJ:DESC</REC>
       <Source>For those who deserve punishment.</Source>
-      <Dest>Pro ty, kteří si zaslouží potrestání.</Dest>
+      <Dest>Pro ty, kteří zasluhují potrestat.</Dest>
     </String>
     <String List="1" sID="000806">
       <EDID>DLC05workshop_co_FiringTarget02</EDID>
@@ -6770,67 +6770,67 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopBuilderExplosives02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds firework shells from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři patrony ohňostroje. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři patrony ohňostroje. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000808">
       <EDID>DLC05workshop_co_BallTrackSplit01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Switches between different tracks when power is on or off.</Source>
-      <Dest>Přepíná mezi různými dráhami, je-li napájení zapnuto nebo vypnuto.</Dest>
+      <Dest>Podle zapnutého nebo vypnutého napájení přepíná mezi různými dráhami.</Dest>
     </String>
     <String List="1" sID="00080B">
       <EDID>DLC05workshop_co_ElevatorFrame03</EDID>
       <REC>COBJ:DESC</REC>
       <Source>A four-story elevator.</Source>
-      <Dest>Čtyřpodlažní výtah.</Dest>
+      <Dest>Výtah pro 4 patra.</Dest>
     </String>
     <String List="1" sID="00080C">
       <EDID>DLC05workshop_co_ElevatorFrame02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>A three-story elevator.</Source>
-      <Dest>Trojpodlažní výtah.</Dest>
+      <Dest>Výtah pro 3 patra.</Dest>
     </String>
     <String List="1" sID="00080F">
       <EDID>DLC05workshop_co_BasketballHoopSwitch02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Switches power on briefly when triggered.</Source>
-      <Dest>Při spuštění krátce sepne napájení.</Dest>
+      <Dest>Při aktivaci krátce sepne napájení.</Dest>
     </String>
     <String List="1" sID="000811">
       <EDID>DLC05workshop_co_WorkshopBuilderClothing01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds clothing from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři oblečení. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři oblečení. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="00084D">
       <EDID>DLC05workshop_co_WorkshopSorter02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Sorts incoming objects by the components they contain, based on its current inventory.</Source>
-      <Dest>Třídí příchozí položky dle surovin, které obsahují, na základě vlastního aktuálního inventáře.</Dest>
+      <Dest>Třídí příchozí předměty dle obsažených surovin na základě vlastního inventáře.</Dest>
     </String>
     <String List="1" sID="0008DF">
       <EDID>DLC05workshop_co_WorkshopBuilderAmmo01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds ammunition from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři munici. Použij připojený terminál k nastavení výroby.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři munici. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000914">
       <EDID>DLC05Workshop_co_WorkshopSwitchLogicGateXNOR</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power when all inputs are the same (powered or unpowered).</Source>
-      <Dest>Přenáší energii, pouze pokud jsou všechny vstupy stejné (napájené nebo nenapájené).</Dest>
+      <Dest>Přenáší elektřinu, pokud jsou všechny vstupy shodné (pod napětím nebo bez napětí).</Dest>
     </String>
     <String List="1" sID="000954">
       <EDID>DLC05workshop_co_StationaryGunPaintball</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Stationary mounted paintball gun which fires while powered.</Source>
-      <Dest>Stacionární montovaná paintballová zbraň, která vystřelí, pokud je napájena.</Dest>
+      <Dest>Upevněná stacionární paintballová zbraň, která stříli po připojení elektřiny.</Dest>
     </String>
     <String List="1" sID="000A03">
       <EDID>DLC05workshop_co_BallTrackStraightTrigger02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Turns power on briefly when it is triggered.</Source>
-      <Dest>Při spuštění krátce sepne napájení.</Dest>
+      <Dest>Při aktivaci krátce sepne napájení.</Dest>
     </String>
     <String List="1" sID="000A2B">
       <EDID>DLC05workshop_co_WorkshopWeaponRackShort</EDID>
@@ -6848,13 +6848,13 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_PoweredSpeakersMusic</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Plays a musical tone when powered. Use a connected terminal to change the pitch.</Source>
-      <Dest>Po připojení elektřiny zahraje hudební tón. Pro změnu tónu použij připojený terminál.</Dest>
+      <Dest>Po připojení elektřiny hraje zvolený tón. Pro změnu tónu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000A33">
       <EDID>DLC05workshop_co_JunkMortar</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Fires objects dropped inside it when powered.</Source>
-      <Dest>Po připojení elektřiny vystřeluje předměty, které jsou uvnitř.</Dest>
+      <Dest>Po připojení elektřiny vystřelí předměty, které jsou uvnitř.</Dest>
     </String>
     <String List="1" sID="000A3A">
       <EDID>DLC05workshop_co_PoweredSpeakersEffects</EDID>
@@ -6872,13 +6872,13 @@ Nastavte zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopTripwireLaser02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Toggles power on and off when triggered.</Source>
-      <Dest>Při spuštění zapne nebo vypne napájení.</Dest>
+      <Dest>Při aktivaci zapne nebo naopak vypne napájení.</Dest>
     </String>
     <String List="1" sID="000ABF">
       <EDID>DLC05workshop_co_WorkshopTripwireLaser01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Transmits power while triggered.</Source>
-      <Dest>Při spuštění přenáší elektřinu.</Dest>
+      <Dest>Při aktivaci přenáší elektřinu.</Dest>
     </String>
     <String List="1" sID="000AC0">
       <EDID>DLC05workshop_co_WorkshopArmorRackFemale</EDID>
