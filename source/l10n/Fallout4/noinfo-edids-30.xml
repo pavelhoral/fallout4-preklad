@@ -1719,7 +1719,7 @@ Pracuju s Tomem. Je geniální, ale zároveň je čím dál podivnější. Carri
       <EDID>RETreasureHuntSC03</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Find the &lt;Alias=Weapon&gt; in &lt;Alias=Dungeon&gt;</Source>
-      <Dest>&lt;Alias=Weapon&gt; je k nalezení v lokaci &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>V lokaci &lt;Alias=Dungeon&gt; najdi zbraň &lt;Alias=Weapon&gt;</Dest>
     </String>
     <String List="0" sID="01C469">
       <EDID>RR201</EDID>
@@ -2099,7 +2099,7 @@ Konec zprávy.&#xD;
       <EDID>RESceneKMK02</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Explore &lt;Alias=Dungeon&gt; and recover the &lt;Alias=Item&gt;</Source>
-      <Dest>Prozkoumej lokaci &lt;Alias=Dungeon&gt; a najdi &lt;Alias=Item&gt;</Dest>
+      <Dest>Prozkoumej lokaci &lt;Alias=Dungeon&gt; a získej předmět &lt;Alias=Item&gt;</Dest>
     </String>
     <String List="0" sID="01DE66">
       <EDID>RRM01StocktonHolotape</EDID>
@@ -3114,7 +3114,7 @@ Začneme od základů, operační bezpečností. Hlídky, kontrarozvědka a komp
       <EDID>RESceneKMK01</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Recover the &lt;Alias=Item&gt; from &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Získej &lt;Alias=Item&gt; z lokace &lt;Alias=Dungeon&gt;</Dest>
+      <Dest>Z lokace &lt;Alias=Dungeon&gt; získej předmět &lt;Alias=Item&gt;</Dest>
     </String>
     <String List="0" sID="025C68">
       <EDID>RogerWarwick</EDID>
@@ -3382,7 +3382,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRR01b</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Go to the Dead Drop for &lt;Alias=QuestGiver&gt;</Source>
-      <Dest>Jdi k mrtvé schránce (&lt;Alias=QuestGiver&gt;)</Dest>
+      <Dest>Jdi k mrtvé schránce na žádost doktora Carringtona</Dest>
     </String>
     <String List="0" sID="027640">
       <EDID>RRM01</EDID>
@@ -4004,7 +4004,7 @@ Musíme to tempo vydržet.</Dest>
       <EDID>RRR08</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss01&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss01&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss01&gt;</Dest>
     </String>
     <String List="0" sID="02D1F4">
       <EDID>RRR08</EDID>
@@ -4590,13 +4590,13 @@ Musíš odtamtud na chvíli vypadnout. Ten úkol je pro všechny těžký, tak s
       <EDID>RRR08</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss06&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss06&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss06&gt;</Dest>
     </String>
     <String List="0" sID="03142B">
       <EDID>RRR08</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss02&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss02&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss02&gt;</Dest>
     </String>
     <String List="0" sID="0314B5">
       <EDID>RoboticsExpert01</EDID>
@@ -4608,19 +4608,19 @@ Musíš odtamtud na chvíli vypadnout. Ten úkol je pro všechny těžký, tak s
       <EDID>RRR08</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss05&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss05&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss05&gt;</Dest>
     </String>
     <String List="0" sID="031660">
       <EDID>RRR08</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss03&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss03&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss03&gt;</Dest>
     </String>
     <String List="0" sID="0316D5">
       <EDID>RRR08</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Kill &lt;Alias=Boss04&gt;</Source>
-      <Dest>Zabít: &lt;Alias=Boss04&gt;</Dest>
+      <Dest>Zabij člena gangu jménem &lt;Alias=Boss04&gt;</Dest>
     </String>
     <String List="0" sID="031787">
       <EDID>Rooted03</EDID>
@@ -5157,7 +5157,7 @@ heslo: Vernon!Je!Idiot!&#xD;
       <EDID>RETreasureHuntSC04NoteScrap</EDID>
       <REC>BOOK:DESC</REC>
       <Source>One of the caravan guards said they passed by &lt;Alias=Dungeon&gt; a while back. Thought it might have some good scrap left to salvage. Might be worth a look.</Source>
-      <Dest>Jeden z ochránců karavany mi řekl, že před časem procházeli oblastí, kde je &lt;Alias=Dungeon&gt;. Myslí, že tam ještě zůstal nějaký dobrý šrot na sesbírání. Mohlo by stát za to, se tam podívat.</Dest>
+      <Dest>Jeden z ochránců karavany mi řekl, že před časem procházeli nedaleko lokace &lt;Alias=Dungeon&gt;. Myslí, že tam ještě zůstal nějaký dobrý šrot na sesbírání. Mohlo by stát za to, se tam podívat.</Dest>
     </String>
     <String List="1" sID="012D10">
       <EDID>RR301TempDeadDrop</EDID>
@@ -5240,7 +5240,7 @@ P.S. Ujisti se, že tě nikdo nesleduje. Přijde mi, že John začíná mít pod
       <EDID>RETreasureHuntSC03NoteGun</EDID>
       <REC>BOOK:DESC</REC>
       <Source>I got the intel. The gang at &lt;Alias=Dungeon&gt; looks tough, but their leader has the gun - a &lt;Alias=Weapon&gt;, just like the contact said. The right squad of men could take it.</Source>
-      <Dest>Dostal jsem info. Gang v lokaci &lt;Alias=Dungeon&gt; vypadá odolně, ale jejich velitel vlastní tu zbraň. Je to &lt;Alias=Weapon&gt;, přesně jak řekl informátor. Správná jednotka by ji mohla získat.</Dest>
+      <Dest>Mám zprávu, že gang v lokaci &lt;Alias=Dungeon&gt; vypadá odolně, ale jejich velitel vlastní tu zbraň - &lt;Alias=Weapon&gt;, přesně jak tvrdil informátor. Správná banda ranařů by to mohla zvládnout.</Dest>
     </String>
     <String List="1" sID="01C8FB">
       <EDID>RR301TempMessage</EDID>
@@ -5310,7 +5310,7 @@ Je třeba dojít k osmi ukazatelům. Písmena, která označuješ, dají dohroma
       <EDID>RRR01DeadDropMessage02b</EDID>
       <REC>MESG:DESC</REC>
       <Source>Blackbird spotted at &lt;alias=QuestLocation&gt;. Badly injured. Way too many for the runner to engage. Request assistance from HQ.</Source>
-      <Dest>Kos byl spatřen v lokaci &lt;alias=QuestLocation&gt;. Těžce zraněn. Příliš nepřátel pro jednoho běžce. Žádost o asistenci velitelství.</Dest>
+      <Dest>Kos spatřen v lokaci &lt;alias=QuestLocation&gt;. Těžce zraněn. Příliš nepřátel pro jednoho běžce. Žádám o asistenci velitelství.</Dest>
     </String>
     <String List="1" sID="01D4D9">
       <EDID>RR101TouristBostonCommonMessage</EDID>
@@ -5462,7 +5462,7 @@ PŘINÉST&#xD;
       <EDID>RETreasureHuntSC05NoteTech</EDID>
       <REC>BOOK:DESC</REC>
       <Source>Best stay away from &lt;Alias=Dungeon&gt; - word is that synths have been seen around there. Don't know what they're after, but it can't be good.</Source>
-      <Dest>Je lepší nechodit tam, jak je &lt;Alias=Dungeon&gt; - prý tam zahlédli synťáky. Nevím, o co jim jde, ale nic dobrého to nebude.</Dest>
+      <Dest>&lt;Alias=Dungeon&gt; a okolí nejsou bezpečné - prý tam zahlédli synťáky. Nevím, o co jim jde, ale nic dobrého z toho nekouká.</Dest>
     </String>
     <String List="1" sID="025AE5">
       <EDID>RoboticsExpert01</EDID>

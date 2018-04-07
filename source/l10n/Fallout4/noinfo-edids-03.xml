@@ -2341,7 +2341,7 @@ Později jsem slyšela, že se neohlásil na svou službu na můstku. Nikdo nev�
       <EDID>BosR02</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Recover the &lt;Alias=TechItem01&gt; at &lt;Alias=Dungeon&gt;</Source>
-      <Dest>Z lokace &lt;Alias=Dungeon&gt; získej předmět &lt;Alias=TechItem01&gt; </Dest>
+      <Dest>Z lokace &lt;Alias=Dungeon&gt; získej předmět &lt;Alias=TechItem01&gt;</Dest>
     </String>
     <String List="0" sID="02250A">
       <EDID>BoS301ScaraMainTerminal</EDID>
@@ -6833,7 +6833,7 @@ Vsadím se, že si myslíš, že budu zrcadlit tvůj tah, ale víš co? Pohnu m�
       <EDID>BoSPlayerFootLockerDisplayName</EDID>
       <REC>MESG:FULL</REC>
       <Source>&lt;Alias=Player&gt;'s Storage</Source>
-      <Dest>&lt;Alias=Player&gt; úložiště</Dest>
+      <Dest>Úložný prostor (&lt;Alias=Player&gt;)</Dest>
     </String>
     <String List="0" sID="034194">
       <EDID>BoSStoragePointer</EDID>
@@ -7393,7 +7393,7 @@ Prostě vem ty přísady a smíchej je v nějaké chemické laboratoři. Hodně 
       <EDID>BosR02</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Scribe Haylen has given me a mission to recover a piece of technology for her at a given location. I need to go there, find the artifact, and bring it back to her in one piece.</Source>
-      <Dest>Písařka Haylenová mě pověřila nalezením kousku staré technologie. Musím ten artefakt najít a bezpečně jí ho donést.</Dest>
+      <Dest>Písařka Haylenová mě pověřila zajištěním jednoho předmětu ze zadané lokace. Musím se tam vydat, artefakt najít a v jednom kuse ho přinést zpět. donést.</Dest>
     </String>
     <String List="1" sID="030C9B">
       <EDID>BoSR03</EDID>
@@ -7411,7 +7411,7 @@ Prostě vem ty přísady a smíchej je v nějaké chemické laboratoři. Hodně 
       <EDID>BosR02</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I found the artifact that Scribe Haylen was looking for. I need to report back to her at the Cambridge Police Station.</Source>
-      <Dest>Artefakt, který po mně chtěla Haylenová, byl nalezen. Musím se u ní ohlásit na cambridgeské policejní stanici.</Dest>
+      <Dest>Podařilo se mi nalézt artefakt, který písařka Haylenová hledala. Musím se u ní ohlásit na cambridgeské policejní stanici.</Dest>
     </String>
     <String List="1" sID="030D31">
       <EDID>BoSR04</EDID>
@@ -8275,7 +8275,7 @@ Prostě vem ty přísady a smíchej je v nějaké chemické laboratoři. Hodně 
       <EDID>BoSPlayerFootLockerDisplayName</EDID>
       <REC>MESG:DESC</REC>
       <Source>&lt;Alias=Player&gt;'s Storage</Source>
-      <Dest>&lt;Alias=Player&gt; úložiště</Dest>
+      <Dest>Úložný prostor (&lt;Alias=Player&gt;)</Dest>
     </String>
     <String List="1" sID="034534">
       <EDID>BoS203</EDID>
