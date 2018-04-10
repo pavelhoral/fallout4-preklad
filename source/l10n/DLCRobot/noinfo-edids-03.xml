@@ -29,7 +29,7 @@
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Decontamination Control</Source>
-      <Dest>RB-2851: Kontrola dekontaminace</Dest>
+      <Dest>RB-2851: Ovládání dekontaminace</Dest>
     </String>
     <String List="0" sID="00007F">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -59,7 +59,7 @@
       <EDID>DLC01Lair_RobCo_DisplayTerminal01</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-9000 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model RX-9000</Dest>
+      <Dest>Terminálový systém ROBCO Model RX-9000</Dest>
     </String>
     <String List="0" sID="00012B">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
@@ -75,7 +75,7 @@ Elevator access to the Control Center is prohibited while a Security Alert is ac
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
+Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -96,9 +96,9 @@ Standing by for authorization. &lt;Token.ValueInt=VoiceprintCount&gt;/3 voicepri
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
+Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
 &#xD;
-***ZAHÁJENÍ MANUÁLNÍHO OVLÁDÁNÍ***&#xD;
+***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
 Čekání na ověření: &lt;Token.ValueInt=VoiceprintCount&gt;/3 hlasový vzorek potvrzen.&#xD;
 &#xD;
 </Dest>
@@ -113,13 +113,13 @@ Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
       <EDID>DLC01Lair_HolotapeMechanist</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Mechanist's Log</Source>
-      <Dest>Mechanikův záznam</Dest>
+      <Dest>Deník Mechanika</Dest>
     </String>
     <String List="0" sID="0001C3">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Sales &amp; Service Center, Store #271</Source>
-      <Dest>Prodejní a servisní centrum RobCo, Sklad #271</Dest>
+      <Dest>Prodejní a servisní středisko RobCo, Prodejna #271</Dest>
     </String>
     <String List="0" sID="0001ED">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
@@ -135,7 +135,7 @@ Tampering detected. Any attempt to hack, modify, or alter an MK-11 Decontaminati
 STAV: Aktivní&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
+Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu nebo zásah do dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
     <String List="0" sID="00020B">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -143,9 +143,9 @@ Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu de
       <Source>Testing... Let's hope this entry sticks. &#xD;
 &#xD;
 I finally got one of the terminals up and running. Now to hope I have the same luck with the rest of this facility.</Source>
-      <Dest>Testování... Doufám, že tohle je vstup na nahrávání. &#xD;
+      <Dest>Testování... Doufejme, že se ten záznam uloží. &#xD;
 &#xD;
-Nakonec se mi podařilo rozběhnout jeden z těch terminálů. Teď doufám, že budu mít stejné štěstí se zbytkem tohoto zařízení.</Dest>
+Konečně se mi podařilo rozběhnout jeden z těch terminálů. Teď jen zbývá doufat, že budu mít stejné štěstí i se zbytkem tohoto areálu.</Dest>
     </String>
     <String List="0" sID="000227">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -163,7 +163,7 @@ Nakonec se mi podařilo rozběhnout jeden z těch terminálů. Teď doufám, že
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
+      <Dest>Terminálový systém ROBCO Model RX-6550</Dest>
     </String>
     <String List="0" sID="00027E">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -193,7 +193,7 @@ Nakonec se mi podařilo rozběhnout jeden z těch terminálů. Teď doufám, že
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>This place is incredible. An entire wing devoted to Robobrain research and development. I've never seen any robots quite like these, except in a few of the comics I've read. And the brains! They're still preserved after all this time. I can't wait to start delving into the schematics to assemble one myself. </Source>
-      <Dest>Toto místo je neuvěřitelné. Celé křídlo je věnováno výzkumu a vývoji robomozků. Nikdy jsem neviděla takové roboty jako jsou tyhle, s výjimkou některých komiksů, které jsem četla. A mozky! Jsou ještě po tak dlouhé době zachovalé. Nemohu se dočkat, až se ponořím do schémat a sestavím si jednoho sama.</Dest>
+      <Dest>Tohle místo je neuvěřitelné. Celé jedno křídlo je věnováno výzkumu a vývoji robomozků. Nikdy jsem neviděla takové roboty, jako jsou tito, když teda nepočítám ty z komiksů, které jsem četla. A ty mozky! I po tak dlouhé době jsou pořád zachovalé. Už se nemůžu dočkat, až se sama ponořím do schémat a jeden si sama sestrojím.</Dest>
     </String>
     <String List="0" sID="0002F4">
       <EDID>DLC01Lair_HolotapeOnly_ThomasHarkin</EDID>
@@ -214,20 +214,20 @@ Elevator access to the Control Center has been restored.&#xD;
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
-***PROBÍHÁ MANUÁLNÍ PŘEPSÁNÍ***&#xD;
-Přístup k ovládání výtahu byl obnoven.</Dest>
+***PROBÍHÁ RUČNÍ OVLÁDÁNÍ***&#xD;
+Přístup výtahu do řídícího centra byl obnoven.</Dest>
     </String>
     <String List="0" sID="0003B8">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Isabel Cruz's Log</Source>
-      <Dest>Záznam Isabel Cruzové</Dest>
+      <Dest>Deník Isabel Cruzové</Dest>
     </String>
     <String List="0" sID="0003DE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model E-601 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model E-601</Dest>
+      <Dest>Terminálový systém ROBCO Model E-601</Dest>
     </String>
     <String List="0" sID="000460">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -245,25 +245,25 @@ Přístup k ovládání výtahu byl obnoven.</Dest>
       <EDID>DLC01Lair_FacilityMainframeNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Mainframe</Source>
-      <Dest>Hlavní počítač</Dest>
+      <Dest>Centrální počítač</Dest>
     </String>
     <String List="0" sID="000480">
       <EDID>DLC01Lair_GarageDoorNameOverride</EDID>
       <REC>MESG:ITXT</REC>
       <Source>Read Terminal</Source>
-      <Dest>Přečti terminál</Dest>
+      <Dest>Přečíst terminál</Dest>
     </String>
     <String List="0" sID="000496">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Terminating decontamination mist. Please wait...</Source>
-      <Dest>Ukončování dekontaminační mlhy. Prosím, čekejte...</Dest>
+      <Dest>Přerušování dekontaminační páry. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="0004BA">
       <EDID>DLC01Lair_LaserTripwire</EDID>
       <REC>ACTI:ATTX</REC>
       <Source>Disarm</Source>
-      <Dest>Odzbrojit</Dest>
+      <Dest>Zneškodnit</Dest>
     </String>
     <String List="0" sID="00052F">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
@@ -309,7 +309,7 @@ Chyba. Systém nemůže najít soubory.</Dest>
       <EDID>DLC01Lair_RobCo_DisplayTerminal03_Error</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
+      <Dest>Terminálový systém ROBCO Model RX-6550</Dest>
     </String>
     <String List="0" sID="0005F0">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
@@ -379,13 +379,13 @@ Tampering detected. Any attempt to hack, modify, or alter an MK-11 Decontaminati
 STAV: Neaktivní&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
+Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu nebo zásah do dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
     <String List="0" sID="000781">
       <EDID>DLC01Lair_MainframeTalkingActivator</EDID>
       <REC>TACT:FULL</REC>
       <Source>Mainframe</Source>
-      <Dest>Hlavní počítač</Dest>
+      <Dest>Centrální počítač</Dest>
     </String>
     <String List="0" sID="000784">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
@@ -440,10 +440,10 @@ Confirming availability of manual override...&#xD;
 Please provide the requisite authorization.</Source>
       <Dest>Přistupování k registru bezpečnostního protokolu...&#xD;
 ...hotovo.&#xD;
-Potvrzování dostupnosti ručního ovládání...&#xD;
+Potvrzování možnosti ručního ovládání...&#xD;
 ...hotovo.&#xD;
 &#xD;
-Prosím, uveďte potřebnou autorizaci.</Dest>
+Prosím, zadejte potřebnou autorizaci.</Dest>
     </String>
     <String List="0" sID="0008B8">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -480,16 +480,18 @@ Standing by for authorization.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
+Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
 &#xD;
-***INICIOVÁNO MANUÁLNÍ OTEVŘENÍ***&#xD;
-Čekání na autorizaci.</Dest>
+***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
+Čekání na autorizaci.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="00096C">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Initiate Manual Override</Source>
-      <Dest>Zahájení ručního ovládání</Dest>
+      <Dest>Zahájit ruční ovládání</Dest>
     </String>
     <String List="0" sID="00096E">
       <EDID>DLC01Lair_DeconArchHazard</EDID>
@@ -505,19 +507,21 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="000A0C">
       <EDID>DLC01Lair_HolotapeOnly_AniseCiroletti</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Anise Ciroletti</Source>
-      <Dest>Anise Cirolettiová</Dest>
+      <Dest>Anise Ciroletti</Dest>
     </String>
     <String List="0" sID="000A44">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Mechanist's Log</Source>
-      <Dest>Mechanikův deník</Dest>
+      <Dest>Deník Mechanika</Dest>
     </String>
     <String List="0" sID="000AAE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal01</EDID>
@@ -535,17 +539,17 @@ Releasing security lockdown on the elevator...&#xD;
 &#xD;
 A limited manual override is now in place. Be advised that, as a precaution, return access from the Control Center is prohibited until the Security Alert has ended.</Source>
       <Dest>...Autorizace potvrzena.&#xD;
-...Ruční přepsání potvrzeno.&#xD;
-Uvolnění bezpečnostního uzamčení výtahu...&#xD;
+...Ruční ovládání potvrzeno.&#xD;
+Ukončení bezpečnostního uzamčení výtahu...&#xD;
 ...hotovo.&#xD;
 &#xD;
-Omezené ruční ovládání je nyní zprovozněno. Vezměte na vědomí, že jako preventivní opatření je přístup z kontrolního centra zakázán až do ukončení výstrahy zabezpečení.</Dest>
+Omezené ruční ovládání je nyní zprovozněno. Upozorňujeme, že z preventivních důvodů je přístup z řídícího centra zakázán až do ukončení bezpečnostního poplachu.</Dest>
     </String>
     <String List="0" sID="000AD7">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Activating decontamination mist. Please wait...</Source>
-      <Dest>Aktivace dekontaminační mlhy. Prosím, čekejte...</Dest>
+      <Dest>Aktivace dekontaminační páry. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="000AE0">
       <EDID>DLC01Lair_RobCo_ServiceTerminalNote</EDID>
@@ -583,13 +587,13 @@ Tampering detected. Any attempt to hack, modify, or alter an MK-11 Decontaminati
 STAV: Zaneprázdněn&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
+Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu nebo zásah do dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
     <String List="0" sID="000BAF">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="5">TERM:BTXT</REC>
       <Source>Elevator access nominal.</Source>
-      <Dest>Přístup k výtahu v pořádku.</Dest>
+      <Dest>Přístup k výtahu je omezen.</Dest>
     </String>
     <String List="0" sID="000BB3">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -607,13 +611,13 @@ As a failsafe, if the Control Center has been compromised, a limited manual over
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 087&#xD;
 Bezpečnostní poplach Epsilon-VI&#xD;
 &#xD;
-V případě chyby v KÓDU Podmíněného Protokolu ('KPP', [021]), vedoucímu k hromadné vzpouře robotického personálu (viz definice, příloha III), vedoucí jakékoliv Třídy-II je oprávněn vyhlásit bezpečnostní poplach Epsilon-VI.&#xD;
+V případě chyby v Rozhodovacím protokolu CODE ('RPC', [021]), vedoucí k hromadné vzpouře robotického údržbářského personálu (viz definice, Příloha III), jsou všichni dozorčí druhého stupně oprávněni vyhlásit bezpečnostní poplach Epsilon-VI.&#xD;
 &#xD;
-Je-li tento poplach vyhlášen, budou všechny bezpečnostní a obranné systémy aktivovány, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Personálu zařízení se doporučuje, aby se ozbrojili a schovali se. Externí průzkum bude proveden Armádním výborem pro dohled nad roboty ('AVDR') do deseti (10) pracovních dní od stanovení vhodného postupu.&#xD;
+Je-li tento poplach vyhlášen, budou aktivovány veškeré bezpečnostní a obranné systémy, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Personálu se doporučuje, aby se ozbrojili a schovali se. Externí revize bude provedena Výborem pro dohled nad armádní robotikou ('VDAR') do deseti (10) pracovních dní s následným stanovením vhodného postupu.&#xD;
 &#xD;
-Tento poplach může být ukončen: [1] Pomocí dálkového oprávnění od AVDR nebo [2] správcem zařízení z hlavního ovládacího terminálu v řídicím centru.&#xD;
+Tento poplach může být ukončen: [1] Pomocí vzdálené autorizace od VDAR nebo [2] Vedoucím správy objektu z hlavního ovládacího terminálu v řídicím centru.&#xD;
 &#xD;
-Jako ochrana selhání zabezpečení v případě narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Je vyžadována hlasová identifikace tří registrovaných vedoucích zaměstnanců Třídy-II k aktivaci přepsání.</Dest>
+Jako pojistka pro případ narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Pro aktivaci ručního ovládání je vyžadována hlasová identifikace tří registrovaných dozorčích zaměstnanců druhého stupně.</Dest>
     </String>
     <String List="0" sID="000BEF">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -621,9 +625,9 @@ Jako ochrana selhání zabezpečení v případě narušení řídicího centra,
       <Source>The ROBCO Model E-601 Terminal System is a new, streamlined terminal for the business-minded individual. You'll be sure to climb the corporate ladder by staying organized and on the ball with our state-of-the-art calendar, contact manager, and messaging system!&#xD;
 &#xD;
 The examples below show some of the customization and detail the E-601 is capable of.</Source>
-      <Dest>Systém terminálu ROBCO Model E-601 je nový zjednodušený terminál pro obchodně smýšlející jedince. Budete mít zaručený postup po firemním žebříčku díky perfektní organizaci s naším přehledným a moderním kalendářem, správcem kontaktů a zasílanými zprávami!&#xD;
+      <Dest>Terminálový systém ROBCO Model E-601 je nový zjednodušený terminál pro obchodně smýšlející jednotlivce. Zaručeně budete stoupat po firemním žebříčku díky perfektní organizaci s naším nejmodernějším kalendářem, správcem kontaktů a systémem zpráv!&#xD;
 &#xD;
-Následující příklady vám umožní seznámit se s některými možnostmi a volitelnými funkcemi E-601.</Dest>
+Na následujících příkladech vám ukážeme některé z možností přizpůsobení a v detailu si představíme funkce, kterými E-601 disponuje.</Dest>
     </String>
     <String List="0" sID="000C1E">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
@@ -642,10 +646,12 @@ Voiceprint authorization adknowledged. Please confirm the override.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
+Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
 &#xD;
-***MANUÁLNÍ PŘEPSÁNÍ INICIOVÁNO***&#xD;
-Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
+***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
+Autorizace hlasového otisku byla uznána. Prosím, potvrďte ruční ovládání.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="000C1F">
       <EDID>DLC01Lair_HolotapeOnly_TonyDelano</EDID>
@@ -657,7 +663,7 @@ Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>(087): Epsilon-VI Security Alert</Source>
-      <Dest>(087): bezpečnostní poplach Epsilon-VI</Dest>
+      <Dest>(087): Bezpečnostní poplach Epsilon-VI</Dest>
     </String>
     <String List="0" sID="000C83">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -671,7 +677,7 @@ Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
       <Source>Finally, a personalized home computer for the whole family to enjoy! Keep track of activities and tasks, and maintain privacy by adding passwords to logins.*&#xD;
 &#xD;
 *Passwords currently not applied.</Source>
-      <Dest>Konečně tu je personalizovaný domácí počítač pro celou rodinu, těšte se! Mějte přehled o činnostech, úkolech a zachovejte si soukromí přidáním hesla pro přihlášení*.&#xD;
+      <Dest>Konečně tu je personalizovaný domácí počítač, který si užije celá rodina! Mějte přehled o svých aktivitách a úkolech a díky přihlášovacímu heslu si zachovejte své soukromí*.&#xD;
 &#xD;
 *Heslo není momentálně nastaveno.</Dest>
     </String>
@@ -687,9 +693,9 @@ Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
       <Source>The future of gaming has arrived! Impress your friends with the new ROBCO RX-9000.&#xD;
 &#xD;
 This terminal features an upgraded processor and cutting-edge graphics unlike any other terminal on the market. Please see a sales associate for a compatible game demo holotape.</Source>
-      <Dest>Budoucnost her je tady! Zapůsobte na své přátele s novým ROBCO RX-9000.&#xD;
+      <Dest>Budoucnost hraní je tady! Ohromte své přátele s novým ROBCO RX-9000.&#xD;
 &#xD;
-Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jiných terminálů na trhu. Viz prodejní součást; kompatibilní demohra na holopásce.</Dest>
+Tento terminál se vyznačuje vylepšeným procesorem a špičkovou grafikou, které nenajdete u žádného jiného terminálu na trhu. Pro získání kompatibilní předváděcí herní holopásky, kontaktujte prosím svého obchodního partnera.</Dest>
     </String>
     <String List="0" sID="000CF8">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03_Error</EDID>
@@ -713,13 +719,13 @@ Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jin
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model E-330 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model E-330</Dest>
+      <Dest>Terminálový systém ROBCO Model E-330</Dest>
     </String>
     <String List="0" sID="000D6E">
       <EDID>DLC01Lair_RobcoSalesAndServiceDoorOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Robco Sales &amp; Service Center</Source>
-      <Dest>Prodejní a servisní centrum RobCo</Dest>
+      <Dest>Prodejní a servisní středisko RobCo</Dest>
     </String>
     <String List="0" sID="000D80">
       <EDID>DLC01Lair_EntranceSecurityDoor</EDID>
@@ -731,7 +737,7 @@ Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jin
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Confirm Manual Override</Source>
-      <Dest>Potvrdit ruční přepsání</Dest>
+      <Dest>Potvrdit ruční ovládání</Dest>
     </String>
     <String List="0" sID="000DA8">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -743,7 +749,7 @@ Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jin
       <EDID>DLC01Lair_RobcoSalesAndServiceKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Key</Source>
-      <Dest>Klíč od Prodejního a servisního centra RobCo</Dest>
+      <Dest>Klíč od Prodejního a servisního střediska RobCo</Dest>
     </String>
     <String List="0" sID="000DC5">
       <EDID>DLC01Lair_HolotapeOnly_TonyDelano</EDID>
@@ -755,13 +761,13 @@ Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jin
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Terminal</Source>
-      <Dest>Terminál Prodejního a servisního centra RobCo</Dest>
+      <Dest>Terminál Prodejního a servisního střediska RobCo</Dest>
     </String>
     <String List="0" sID="000E3C">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Announcements</Source>
-      <Dest>Oznámení</Dest>
+      <Dest>Prohlášení</Dest>
     </String>
     <String List="0" sID="000E40">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
@@ -773,13 +779,13 @@ All personnel must pass through decontamination when entering or exiting the Fac
 All personnel must display a Rank 22 (at minimum) Security Badge with updated photo ID. Failure will result in immediate security lockup until the person may be questioned and confirmed.&#xD;
 &#xD;
 Guests must present a signed letter of approval from General Rawlings and employee point of contact. All guests must display a guest badge with limited access. Guests must be accompanied at all times. Guests found unattended will be held for questioning, and the point of contact will be responsible for their actions.</Source>
-      <Dest>ZÁSADY K AUTORIZACI&#xD;
+      <Dest>AUTORIZAČNÍ POSTUPY&#xD;
 &#xD;
-Všichni zaměstnanci musí projít dekontaminací při vstupu nebo výstupu ze zařízení.&#xD;
+Všichni zaměstnanci musí při vstupu nebo výstupu z objektu projít dekontaminací.&#xD;
 &#xD;
-Všichni zaměstnanci musí viditelně nosit bezpečnostní odznak stupně 22 (minimálně) s aktualizovanou fotografií. Selhání bude mít za následek okamžité bezpečnostní uzamčení, dokud nebude osoba prověřena a potvrzena.&#xD;
+Všichni zaměstnanci musí viditelně nosit bezpečnostní odznak (minimálně) úrovně 22 s aktualizovanou fotografií. Opomenutí bude mít za následek okamžité uvěznění, dokud nebude dotyčná osoba vyslechnuta a prověřena.&#xD;
 &#xD;
-Hosté musí předložit podepsaný dopis o schválení od firmy General Rawlings a jméno cílového zaměstnance, kterého kontaktují. Všichni hosté se musí prokazovat odznakem pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
+Hosté musí předložit podepsaný schvalovací dopis od firmy General Rawlings s uvedenou kontaktní osobou. Všichni hosté musí viditelně nosit odznak pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
     </String>
     <String List="0" sID="000E61">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -815,7 +821,7 @@ Hosté musí předložit podepsaný dopis o schválení od firmy General Rawling
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Please remember that all employees are under a strict Non-Disclosure Agreement. Violations will not be tolerated. </Source>
-      <Dest>Nezapomeňte, že všichni zaměstnanci jsou pod přísnou utajovací dohodou. Porušování nebude tolerováno.</Dest>
+      <Dest>Prosím pamatujte, že všichni zaměstnanci podléhají přísné dohodě o mlčenlivosti. Její porušení nebude tolerováno.</Dest>
     </String>
     <String List="0" sID="000F2A">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -836,10 +842,10 @@ Resolution:&#xD;
       <Dest>Status: OTEVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[T. Sanchez] Paní Blancheová tvrdí, že její terminál právě „najednou přestal fungovat“. Dostává stále stejnou chybovou zprávu. Uvedla, že při startu začal padat a teď ani nenajede. Tak „najednou“. Při ohledání zjišťuji, že je to celé kvůli hromadě kočičích chlupů v tomto terminálu. Pravděpodobně se přehřál. &#xD;
+[T. Sanchez] Paní Blancheová tvrdí, že její terminál prostě „najednou přestal fungovat“. Ukazuje univerzální chybovou zprávu. Uvedla, že po čase začal padat a teď už ani nenajede. Asi tolik k tomu „najednou“. Když se tak na paní podívám, tipuju, že v tom terminále bude tolik chlupů, že bych z nich poskládal novou kočku. Pravděpodobně se přehřál. &#xD;
 &#xD;
 Řešení:&#xD;
-[Zakázka probíhá.]</Dest>
+[Zakázka se vyřizuje.]</Dest>
     </String>
     <String List="0" sID="000FF0">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
@@ -855,11 +861,10 @@ Evaluation:&#xD;
       <Dest>Status: UZAVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[K. O'Conner] Slečna Sullivanová tvrdí, že její I-601 byla připojena k její kancelářské síti, ale nikdy z ní neodešle korespondenci. Řekla také, že došlo k naprostému selhání oznámení systému po nastavení, které jsme po nákupu terminálu provedli. Není si jistá, kde může být problém. Říká, že její IT oddělení kontrolovalo počítač a nebyli si jistí, proč nefunguje. Přinesla ho zpátky a hrozí nám žalobou. Myslím, že to opravdu podělalo některá její důležitá setkání...&#xD;
+[K. O'Conner] Slečna Sullivanová tvrdí, že má svou E-601 připojenou ke své kancelářské síti, ale nedaří se jí z ní odeslat korespondenci. Taky říkala, že došlo k naprostému selhání systému oznámení, který jsme jí pří nákupu nastavili. Není si jistá, kde může být problém. Říká, že její IT oddělení počítač zkontrolovalo, ale také neví, proč nefunguje. Přinesla ho zpátky sem a vyhrožuje nám žalobou. Řekl bych, že jí to muselo pořádně podělat pár důležitých setkání...&#xD;
 &#xD;
-Ohodnocení:&#xD;
-[P. Benson] Vypadá to, že Carmike sabotoval tenhle počítač ještě předtím, než odešel. Nevím, jestli to byla jeho osobní nebo jeho poslední akce. Myslím, že vím, co s tím provedl, ale nechci dopředu nic slibovat. Doporučuji nahradit tento terminál novým, takže bude nekompromisně zaručen jeho chod.&#xD;
-</Dest>
+Vyhodnocení:&#xD;
+[P. Benson] Vypadá to, že tenhle počítač sabotoval Carmike předtím, než odešel. Nevím, jestli k tomu měl osobní důvody nebo chtěl jen naposledy uškodit. Myslím, že vím, co s tím provedl, ale nechci nic slibovat. Doporučuji nahradit tento terminál úplně novým, abychom měli jistotu, že nebude kompromitován.</Dest>
     </String>
     <String List="0" sID="001007">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -871,7 +876,7 @@ Ohodnocení:&#xD;
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>The potential for the robobrains seems limitless. I've managed to update a few of them to handle some of the menial tasks around here. I may have this facility fully functional for my own purposes faster than I thought.</Source>
-      <Dest>Potenciál robomozků se zdá být neomezený. Podařilo se mi některé z nich aktualizovat a přidělit jim tady nějaké služební úkoly. Možná budu moct toto zařízení plně zprovoznit pro své vlastní účely rychleji, než jsem si myslela.</Dest>
+      <Dest>Potenciál robomozků se zdá být neomezený. Podařilo se mi pár z nich naprogramovat, aby prováděli některé z místních podřadných prací. Možná se mi nakonec podaří celý areál plně zprovoznit pro mé vlastní účely rychleji, než jsem si myslela.</Dest>
     </String>
     <String List="0" sID="001043">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
@@ -901,25 +906,25 @@ Ohodnocení:&#xD;
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Sales &amp; Service Center, Store #271</Source>
-      <Dest>Prodejní a servisní centrum RobCo, Sklad #271</Dest>
+      <Dest>Prodejní a servisní středisko RobCo, Prodejna #271</Dest>
     </String>
     <String List="0" sID="00114A">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Authorization Policies</Source>
-      <Dest>Zásady autorizace</Dest>
+      <Dest>Autorizační postupy</Dest>
     </String>
     <String List="0" sID="001156">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Terminal</Source>
-      <Dest>Terminál Prodejního a servisního centra RobCo</Dest>
+      <Dest>Terminál Prodejního a servisního střediska RobCo</Dest>
     </String>
     <String List="0" sID="001197">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
-      <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
+      <Dest>Terminálový systém ROBCO Model RX-6550</Dest>
     </String>
     <String List="0" sID="0011AF">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -927,9 +932,9 @@ Ohodnocení:&#xD;
       <Source>I've a new mission: the safety of the Commonwealth! I think I can program the robots here to safely police the surrounding area, possibly up to a 15 mile radius. I was laying in bed, staring at the posters I found and it occurred to me: I could really make a difference here.&#xD;
 &#xD;
 I'm going to start constructing the Mechanist suit in the drawing I found. </Source>
-      <Dest>Mám novou misi: Bezpečnost Commonwealthu! Myslím, že mohu naprogramovat roboty, aby zabezpečili oblast až do okruhu 25 km. Ležením v posteli a zíráním na nalezené plakáty mi to došlo: Já tu opravdu můžu něco změnit.&#xD;
+      <Dest>Mám nové poslání: Bezpečnost Commonwealthu! Myslím, že dokážu naprogramovat místní roboty, aby hlídali okolní oblasti v okruhu až 15 mil. Jak jsem tak ležela v posteli a zírala na plakáty, které jsem našla, najednou mi to došlo. Vážně bych tu mohla něco změnit.&#xD;
 &#xD;
-Chystám se začít s výrobou Mechanikova obleku podle nalezených plánů.</Dest>
+Chystám se začít s výrobou Mechanikova obleku podle toho obrázku, co jsem našla.</Dest>
     </String>
     <String List="0" sID="0011B7">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -948,14 +953,14 @@ As a reminder, all RobCo Sales &amp; Service Center Employees are to adhere to t
 - There will be no tampering with any shipments labeled RB-2851. I believe all employees are aware of what our typical shipments look like. Any so-called "accidental" opening of these shipments will not be tolerated and result in immediate termination, followed by extensive questioning by our friends downstairs.&#xD;
 - Employees are expected to wear official name tags. Name tags should be highly visible and attached to the top right corner of your uniform shirt. Please wear your proper nametag. No swapping.&#xD;
 - Customers, friends, and family are no longer allowed in the back service area.</Source>
-      <Dest>Pro: Veškerý personál&#xD;
+      <Dest>Komu: Všemu personálu&#xD;
 Od: Mark Kurchfield, generální manažer&#xD;
 &#xD;
-Připomínáme, že všichni zaměstnanci Prodejního a servisního centra RobCo jsou povinni dodržovat následující standardy chování:&#xD;
+Připomínáme, že všichni zaměstnanci Prodejního a servisního střediska RobCo jsou povinni dodržovat následující pravidla chování:&#xD;
 &#xD;
-- žádnou manipulaci s jakoukoli zásilkou označenou RB-2851. Věřím, že všichni zaměstnanci jsou si vědomi, jak naše typické zásilky vypadají. Jakékoliv tzv. „náhodné“ otevření těchto zásilek nebude tolerováno a má za následek okamžité ukončení pracovního poměru, následované rozsáhlým výslechem našimi přáteli v přízemí.&#xD;
-- od zaměstnanců se očekává, že budou nosit úřední jmenovky. Jmenovky by měly být dobře viditelné a připojené k pravému hornímu rohu stejnokroje. Prosím, noste správné jmenovky. Nezaměňujte je.&#xD;
-- návštěvy zákazníků, přátel a rodiny již nejsou v zadní části servisní budovy povoleny.</Dest>
+- Zákaz manipulace s jakoukoliv zásilkou označenou RB-2851. Věřím, že všichni zaměstnanci jsou si vědomi, jak naše typické zásilky vypadají. Jakékoliv „náhodné“ otevření těchto zásilek nebude tolerováno a má za následek okamžité ukončení pracovního poměru, následované rozsáhlým výslechem našimi přáteli v přízemí.&#xD;
+- Od zaměstnanců se očekává, že budou nosit úřední jmenovky. Jmenovky by měly být dobře viditelné a připnuté k pravému hornímu rohu stejnokroje. Prosím, noste správné jmenovky. Nevyměňujte si je.&#xD;
+- Zákazníkům, přátelům, ani rodinám není nadále povolen vstup do zadní části servisní budovy.</Dest>
     </String>
     <String List="0" sID="00122A">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
@@ -970,11 +975,10 @@ Evaluation:&#xD;
       <Dest>Status: UZAVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[K. O'Conner] Crenshaw je zpět s jeho starodávným terminálem. Je nejméně 7 let starý. Padá, když se snaží hrát Rudou hrozbu.&#xD;
+[K. O'Conner] Crenshaw se vrátil s tím svým prastarým terminálem. Touhle dobou je už nejméně 7 let starý. Padá, když se snaží nahrát Rudou hrozbu.&#xD;
 &#xD;
-Ohodnocení:&#xD;
-[S. Lee] Calvin bude muset do jeskyně a koupit nový terminál. Ta stará NX-12 je dobrá leda tak na psaní dokumentů či hraní her založených na textu. Bude potřebovat větší paměť, kterou tenhle terminál ani nemůže podporovat. V podstatě všechny nové vnitřnosti nebo zbrusu nový terminál. Ať si vybere.&#xD;
-</Dest>
+Vyhodnocení:&#xD;
+[S. Lee] Calvin se bude muset cuknout a koupit nový terminál. Ta stará NX-12 dobrá leda tak na psaní dokumentů či hraní textových her. Bude potřebovat větší paměť, kterou tenhle terminál ani nepodporuje. V podstatě se buď úplně vymění vnitřnosti nebo koupí zbrusu nový terminál. Ať si vybere.</Dest>
     </String>
     <String List="0" sID="001248">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
@@ -994,13 +998,13 @@ Pokud problémy přetrvávají, obraťte se na nejbližší Prodejní a servisn�
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>The Mechanist suit turned out even better than I'd hoped! Sparks gave a very approving "beep". I even added a voice augmentation to it. It's strange how it makes me feel so confident when I put it on. It's like being a different person.</Source>
-      <Dest>Mechanikův oblek dopadl ještě lépe, než jsem doufala! Sparks velmi obdivně „pípnul“. Dokonce jsem do něj přidala hlasovou augmentaci. Je to zvláštní, jak to dodá pocit jistoty, když ho mám na sobě. Je to jako být jiná osoba.</Dest>
+      <Dest>Mechanikův oblek dopadl ještě lépe, než jsem doufala! Jiskra souhlasně „pípnul“. Dokonce jsem do něj přidala hlasovou augmentaci. Je zvláštní, jak se najednou cítím sebejistá, když si ho na sebe obleču. Je to jako bych byla úplně jiný člověk.</Dest>
     </String>
     <String List="0" sID="001326">
       <EDID>DLC01Lair_HolotapeOnly_ElevatorAnnouncer</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Announcer</Source>
-      <Dest>Hlasatel</Dest>
+      <Dest>Hlásič</Dest>
     </String>
     <String List="0" sID="001391">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1018,13 +1022,13 @@ Security teams are to perform a methodical sweep of the Research Wing before iss
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 074&#xD;
 Bezpečnostní poplach Gama-IX&#xD;
 &#xD;
-V případě koordinovaného pokusu o útěk, nebo nepřátelských akcí testovaných osob, každý vedoucí Třídy-I nebo Třídy-II je oprávněn vyhlásit bezpečnostní poplach Gama-IX.&#xD;
+V případě koordinovaného pokusu o útěk nebo nepřátelského chování testovaných subjektů je kterýkoliv z dozorčích prvního či druhého stupně oprávněn vyhlásit bezpečnostní poplach Gama-IX.&#xD;
 &#xD;
-Bezpečnostní poplach Gama-IX zahájí maximální bezpečnostní uzamčení výzkumného křídla, v ostatních oděleních dojde k minimálnímu bezpečnostnímu uzamčení. V rámci výzkumného křídla budou všechny bezpečnostní a obranné systémy aktivovány, všechny funkce místních a vzdálených terminálů budou vypnuty a všechny bezpečnostní dveře v celách budou uzavřeny.&#xD;
+Bezpečnostním poplachem Gama-IX se zahájí uzamčení výzkumného křídla s maximální ostrahou a u ostatních odělení dojde k uzavření s minimální ostrahou. V rámci výzkumného křídla se aktivují všechny bezpečnostní a obranné systémy, vypnou se všechny funkce místních a vzdálených terminálů a uzavřou se všechny bezpečnostní dveře v oddělení s celami.&#xD;
 &#xD;
-Správci zařízení se doporučuje brát tento poplach jako příležitost k testování a může nasadit všechny dostupné experimentální roboty k zajištění výzkumného křídla. Oběti na testovaných osobách jsou očekávány; kompletní čistka je povolena dle vlastního uvážení správců.&#xD;
+Vedoucímu správy objektu se doporučuje brát tento poplach jako příležitost k testování a nasadit všechny dostupné experimentální roboty k zajištění výzkumného křídla. S oběťmi na straně testovaných subjektů se počítá a dle vlastního uvážení vedoucího je povoleno i kompletní vymýcení.&#xD;
 &#xD;
-Bezpečnostní týmy musí provést metodickou čistku výzkumného křídla před vydáním oznámení „Čistý vzduch“ a před ukončením tohoto poplachu. Správce musí předložit zprávu o incidentu RM-13, stejně jako žádost o výměnu testovaných osob Armádnímu výboru pro dohled nad roboty.</Dest>
+Bezpečnostní týmy musí před signálem „Čistý vzduch“ a před ukončením tohoto poplachu provést metodické pročištění výzkumného křídla. Vedoucí musí Výboru pro dohled nad armádní robotikou předložit zprávu o incidentu RM-13, a to společně se žádostí o náhradní testovací subjekty.</Dest>
     </String>
     <String List="0" sID="0013A2">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1034,7 +1038,7 @@ The Security Protocol Database has been corrupted. [4/219] files recovered. Disp
 &#xD;
 </Source>
       <Dest>***CHYBA***&#xD;
-Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Zobrazování souborů:&#xD;
+Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Zobrazuji soubory:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1042,7 +1046,7 @@ Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Z
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>(219): Omega Protocol</Source>
-      <Dest>(219): Omega protokol</Dest>
+      <Dest>(219): Protokol Omega</Dest>
     </String>
     <String List="0" sID="0013CD">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1062,15 +1066,15 @@ If communications have not been reestablished by thirty (30) hours from LOC, the
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 219&#xD;
 Omega protokol&#xD;
 &#xD;
-V případě potvrzení jaderných detonací, správce zařízení (nebo v jeho nepřítomnosti vedoucí nejvyšší úrovně ve službě; dále jen úřadující správce) ustanoví dočasné uzamčení a navede všechny zaměstnance do zdejšího úkrytu.&#xD;
+V případě potvrzených jaderných výbuchů vyhlásí vedoucí správy objektu (nebo za jeho nepřítomnosti služebně nejstarší dozorčí, který je ve službě - dále jen zastupující vedoucí) dočasné uzamčení a nařídí veškerému personálu, aby zůstaly v krytu.&#xD;
 &#xD;
-Ztrátu kontaktu s (LOC) vojenským velením je třeba očekávat.&#xD;
+Předpokládá se ztráta konktaktu (ZK) s vojenským velením.&#xD;
 &#xD;
-Po dobu ne méně než dvanáct (12) hodin od LOC události, se zastupující správce musí pokusit obnovit kontakt (viz část Tísňové komunikační protokoly, příloha IX). Veškeré instrukce přenášené na základě těchto komunikací je nutno dodržovat a postupovat dle tohoto protokolu.&#xD;
+Po uplynutí ne méně než dvanácti (12) hodin od zjištění ZK se musí zastupující vedoucí pokusit obnovit kontakt (viz Nouzové komunikační postupy, Příloha IX). Veškeré instrukce přenášené v souladu s těmito postupy nahrazují tento protokol a musí se dodržovat.&#xD;
 &#xD;
-V případě nedostupnosti komunikace během čtyřiadvaceti (24) hodin od LOC, úřadující správce zahájí řádné vypnutí zařízení. Testované osoby musí být zabezpečeny ve svých celách. Zaměstnanci zařízení zůstávají na místě, než odstraní všechny citlivé soubory a záznamy, zavřou svá stanoviště, ozbrojí se a posbírají své osobní věci.&#xD;
+V případě, že se komunikace nepodaří obnovit během čtyřiadvaceti (24) hodin od ZK, vyhlásí zatupující vedoucí řádné odstavení objektu. Testované subjekty se uzamknou do svých cel. Zaměstnanci objektu zůstanou na místě, odstraní veškeré citlivé dokumenty a záznamy, uzavřou svá stanoviště, ozbrojí se a posbírají si své osobní věci.&#xD;
 &#xD;
-Pokud nebude komunikace obnovena do (30) hodin od LOC, úřadující správce aktivuje uzamčení v režimu Omega. To poskytne deseti (10) minutové okno pro evakuaci personálu zařízení. Tato evakuace by měla být považována za trvalou. Jakmile se zahájí, uzamčení může být ukončeno pouze pomocí dálkového povolení Armádního výboru pro dohled nad roboty.</Dest>
+Pokud nebude komunikace obnovena do třiceti (30) hodin od ZK, zastupující vedoucí aktivuje stav uzamčení v režimu Omega. Tím poskytne okno o délce deseti (10) minut, kdy personál evakuje objekt. Tato evakuace bude považována za trvalou. Jakmile dojde k zahájení, uzamčení může být ukončeno pouze vzdálenou autorizací Výboru pro dohled nad armádní robotikou.</Dest>
     </String>
     <String List="0" sID="0013DB">
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
@@ -1085,7 +1089,7 @@ ERR 0xC0001011: Critical failure.&#xD;
 ERR 0x00001001: Critical failure.&#xD;
 &#xD;
 Please contact a ROBCO Certified Technician for assistance.</Source>
-      <Dest>ROBCO model E-330 je nejspolehlivější terminálový klient, který byl kdy vůbec vyvinut. Po připojení k hlavnímu terminálu ROBCO, váš 33   is c p  le of ov r 100  @$  #%5 \\¤ &#xD;
+      <Dest>ROBCO model E-330 je nejspolehlivější klientský terminál, který byl kdy vůbec vyvinut. Po připojení k hlavnímu terminálu ROBCO, je váš 33    sch p  n v ce n ž 100  @$  #%5 \\¤ &#xD;
 &#xD;
    STOP: Zjištěno více chyb.&#xD;
 ERR 0xFA770171: Chyba segmentace.&#xD;
@@ -1094,7 +1098,7 @@ ERR 0xFFF11011: Chyba paměti.&#xD;
 ERR 0xC0001011: Kritická chyba.&#xD;
 ERR 0x00001001: Kritická chyba.&#xD;
 &#xD;
-Prosím, obraťte se na ROBCO certifikovaného technika pro podporu.</Dest>
+Pro další podporu se prosím obraťte na certifikovaného technika firmy ROBCO.</Dest>
     </String>
     <String List="0" sID="0013DE">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1110,27 +1114,27 @@ Security teams are to escort the members of each department to the Research Labs
 &#xD;
 Should any agents be discovered, the Administrator is authorized to subdue them by any means necessary and turn them over to the Research Staff for experimentation. After completing the interrogation process, the Administrator may terminate this Alert at his discretion.</Source>
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 045&#xD;
-Kontrašpionážní procedura Třída-V&#xD;
+Protišpionážní postup třídy V&#xD;
 &#xD;
-Má-li správce zařízení podezření z porušení bezpečnosti u zahraničního zpracodajského operativce (včetně, ale nikoli výhradně u čínských agentů a sympatizantů), musí správce aktivovat kontrašpionážní proceduru Třídy-V.&#xD;
+Má-li vedoucí správy objektu podezření z narušení bezpečnosti zahraničním zpracodajským agentem (zahrnující také, ale nikoli výhradně, čínské agenty či sympatizanty), musí zahájit protišpionážní postup třídy V.&#xD;
 &#xD;
-V případě poplachu Třídy-V, vstoupí zařízení do minimálního bezpečnostního uzamčení. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde budou vyčkávat na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí nebo nebude nahlášen později, se považuje za podezřelého a může být zastřelen.&#xD;
+V případě poplachu třídy V dojde k uzamčení objektu s minimální ostrahou. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde vyčkají na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí nebo se nedostaví, bude považován za podezřelého a může být zastřelen na potkání.&#xD;
 &#xD;
-Bezpečnostní týmy eskortují podezřelé členy jednotlivých pracovišt do výzkumných laboratoří na 3. patře k výslechové proceduře. Hlavní vědec vybaví mezmetronem robomozka k podpoře v průběhu výslechu. Vzhledem k experimentální povaze této technologie, budou očekávány nějaké oběti díky spontánní lebeční erupci (v řádu 10-15 %).&#xD;
+Bezpečnostní týmy eskortují příslušníky jednotlivých pracovišt do výzkumných laboratoří ve 3. patře k výslechové proceduře. Vedoucí výzkumu připraví mezmetronem vybavený robomozek, který u výslechu bude nápomocen. Vzhledem k experimentální povaze této technologie se počítá s jistým množstvím ztrát z důvodu samovolné lebeční erupce(v řádu 10-15 %).&#xD;
 &#xD;
-Jestliže budou nalezeni nějací agenti, správce je oprávněn k jejich podrobení všemi dostupnými prostředky a může je poskytnout výzkumného personálu k experimentování. Po dokončení výslechů, může administrátor tento poplach ukončit dle svého uvážení.</Dest>
+V případě odhalení agentů je vedoucí oprávněn k jejich zadržení použít veškeré dostupné prostředky a předat je výzkumnému personálu k experimentování. Po dokončení výslechu může vedoucí dle vlastního uvážení tento poplach ukončit.</Dest>
     </String>
     <String List="0" sID="0013E7">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>(045): Class-V Counter-Espionage Procedure</Source>
-      <Dest>(045): Třída-V kontrašpionážní procedury</Dest>
+      <Dest>(045): Protišpionážní postup třídy V</Dest>
     </String>
     <String List="0" sID="00141C">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>(074): Gamma-IX Security Alert</Source>
-      <Dest>(074): bezpečnostní poplach Gama-IX</Dest>
+      <Dest>(074): Bezpečnostní poplach Gama-IX</Dest>
     </String>
     <String List="0" sID="0019B0">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -1172,7 +1176,7 @@ Sanchez, Julianna&#xD;
  Relation: Client&#xD;
  Notes:&#xD;
   Extremely professional. Dislikes small talk.</Source>
-      <Dest>Uchovávejte podrobné informace o vašich kontaktech. Přidejte si osobní kontakt na vaši firmu!&#xD;
+      <Dest>Uchovávejte podrobné informace o svých kontaktech. Zapojte do svého podnikání trochu osobního kontaktu!&#xD;
 &#xD;
 --- A ---&#xD;
 Adams, Jerry&#xD;
@@ -1181,34 +1185,34 @@ Adams, Jerry&#xD;
  Povolání: Inženýr Fúzních závodů&#xD;
  Vztah: Klient&#xD;
  Poznámky: &#xD;
-  Manželka Isla Adamsová. syn a dcera, Thomas a Mandy.&#xD;
+  Manželka Isla Adamsová. Syn a dcera, Thomas a Mandy.&#xD;
 &#xD;
 --- J ---&#xD;
 Lee, Veronika&#xD;
  Telefon: 123-456-7890&#xD;
  Adresa: 123 Street, Cambridge, MA 12345&#xD;
- Povolání: CTO General Atomics International&#xD;
- Vztah: Kolega&#xD;
+ Povolání: Technická ředitelka General Atomics International&#xD;
+ Vztah: Kolegyně&#xD;
  Poznámky: &#xD;
-  Narozeniny 13.04.2060. Momentálně zadaná. Dva psi. Alergická na kočky.&#xD;
+  Narozeniny 13.04.2060. Čerstvě vdaná. Dva psi. Alergická na kočky.&#xD;
 &#xD;
 --- M ---&#xD;
 Mehdi, Ahmed&#xD;
  Telefon: 123-456-7890&#xD;
  Adresa: 123 Street, Boston, MA 12345&#xD;
  Povolání: Předseda Ústavu genetiky Greenetech&#xD;
- Vztah: Přítel&#xD;
+ Vztah: Kamarád&#xD;
  Poznámky:&#xD;
-  Sportovec. Bez domácích zvířat. Dobré spojení na CIT.&#xD;
+  Má rád sport. Nemá domácí zvířata. Dobré konexe na C.I.T.&#xD;
 &#xD;
 --- S --- &#xD;
 Sanchezová, Julianna&#xD;
  Telefon: 123-456-7890&#xD;
  Adresa: 123 Street, Boston, MA 12345&#xD;
- Povolání: Podnikatelka, ministerstvo obrany&#xD;
- Vztah: Klient&#xD;
+ Povolání: Podnikatelka, Ministerstvo obrany&#xD;
+ Vztah: Klientka&#xD;
  Poznámky:&#xD;
-  Velmi profesionální. Nesnáší pomlouvání.</Dest>
+  Extrémně profesionální. Nesnáší nezávazné konverzace.</Dest>
     </String>
     <String List="0" sID="0019C6">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -1224,11 +1228,11 @@ Sanchezová, Julianna&#xD;
 --- November ---&#xD;
 16: Doctor's Appointment&#xD;
 25: Thanksgiving</Source>
-      <Dest>Sledujte významná data s přizpůsobitelným kalendářem. Již nikdy více nezapomenete na narozeniny nebo výročí!&#xD;
+      <Dest>Mějte přehled nad důležitými daty s naším přizpůsobitelným kalendářem. Nikdy více nezapomenete na narozeniny nebo výročí!&#xD;
 &#xD;
 --- Říjen ---&#xD;
 02: Výročí!&#xD;
-18: Zubař&#xD;
+18: Návštěva zubaře&#xD;
 30: Narozeniny Jerry Adamse&#xD;
 31: Halloweenská párty&#xD;
 &#xD;
@@ -1250,15 +1254,15 @@ Subject: Halloween&#xD;
 Let's schedule a meeting to discuss this year's Halloween party. We'll need to vote on whether or not costumes should be mandatory, and decide the final catering list.&#xD;
 &#xD;
 - Albert</Source>
-      <Dest>Nový systém pro zasílání zpráv automaticky ve firemní poště přidá časové razítko a potvrdí doručení při otevření zprávy Rozlučte se starými výmluvami!&#xD;
+      <Dest>Nový systém pro zasílání zpráv ve firemní poště automaticky přidá časové razítko a potvrdí otevření zprávy. Rozlučte se s ohranými výmluvami!&#xD;
 &#xD;
-Pro: Mark Kim&#xD;
+Komu: Mark Kim&#xD;
 Od: Albert Cunningham&#xD;
 Odesláno: 12. října 2077 v 08:27&#xD;
 Stav: Otevřeno 12. října 2077 v 08:33&#xD;
 Předmět: Halloween&#xD;
 &#xD;
-Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Budeme muset hlasovat o tom, zda budou kostýmy povinné a rozhodnout konečný stravovací seznam.&#xD;
+Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Budeme muset hlasovat o tom, zda budou kostýmy povinné a rozhodnout konečnou podobu seznamu jídel.&#xD;
 &#xD;
 - Albert</Dest>
     </String>
@@ -1280,21 +1284,21 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
             - CFO&#xD;
             - COO&#xD;
             - CTO</Source>
-      <Dest>Váš denní itinerář se bude získávat přímo z vašich zpráv a kalendáře. Prakticky se generuje sám!&#xD;
+      <Dest>Náš denní itinerář bude získávat data přímo z vašich zpráv a kalendáře. V podstatě se generuje sám!&#xD;
 &#xD;
-09:00: Rozpočet setkání&#xD;
+09:00: Schůzka ohledně rozpočtu&#xD;
             Shrnutí: Revize čtvrtého čtvrtletí&#xD;
             Účastníci:&#xD;
-            - CFO&#xD;
-            - VP Účetnictví&#xD;
-            - VP Odbyt&#xD;
-12:00: Pracovní oběd s operačním řízením&#xD;
-15:00: Zasedání rady pro globální fúzi.&#xD;
+            - Finanční ředitel&#xD;
+            - Viceprezident účetního oddělení&#xD;
+            - Viceprezident oddělení odbytu&#xD;
+12:00: Pracovní oběd se zástupci operačníjo řízení&#xD;
+15:00: Zasedání rady ohledně globálního slučování.&#xD;
             Shrnutí: Výhody globální expanze&#xD;
             Účastníci:&#xD;
-            - CFO&#xD;
-            - COO&#xD;
-            - CTO</Dest>
+            - Finanční ředitel&#xD;
+            - Provozní ředitel&#xD;
+            - Technický ředitel</Dest>
     </String>
     <String List="0" sID="001A12">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
@@ -1306,7 +1310,7 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Robot Storage Control Terminal</Source>
-      <Dest>RB-2851: Řídicí terminál skladu robotů</Dest>
+      <Dest>RB-2851: Ovládací terminál skladiště robotů</Dest>
     </String>
     <String List="0" sID="001A44">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
@@ -1316,8 +1320,7 @@ Critical failure in pod array. Please contact a technician for assistance.&#xD;
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
-&#xD;
+Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
 </Dest>
     </String>
     <String List="0" sID="001A4B">
@@ -1334,7 +1337,7 @@ Critical failure in pod array. Please contact a technician for assistance.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
+Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1342,7 +1345,7 @@ Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008112-AB</Source>
-      <Dest>Požadavek údržby č. 09008112-AB</Dest>
+      <Dest>Problém při údržbě č. 09008112-AB</Dest>
     </String>
     <String List="0" sID="001A87">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1354,7 +1357,7 @@ Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008777-AC</Source>
-      <Dest>Požadavek údržby č. 09008777-AC</Dest>
+      <Dest>Problém při údržbě č. 09008777-AC</Dest>
     </String>
     <String List="0" sID="001A95">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1364,11 +1367,11 @@ Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
 After dome implantation, the brain on the above subject started exhibiting physical changes. The subject's dura turned some kind of a mottled brown color, and started to break down after only twelve hours in the solution.&#xD;
 &#xD;
 Turns out, the bio-gel was tainted with sulfuric acid runoff from the dome polishing compound and a reaction was occurring when they met. Unfortunately, this subject is a total loss. We'll have to just write it off as bad luck and switch polishing compounds immediately.</Source>
-      <Dest>Požadavek údržby č. 09007889-AB&#xD;
+      <Dest>Problém při údržbě č. 09007889-AB&#xD;
 &#xD;
-Po implantaci kupole, začal mozek tohoto subjektu vykazovat fyzické změny. Duralové části objektu se obalily nějakým druhem strakaté hnědé barvy a začaly se rozpadat po pouhých dvanácti hodinách v roztoku.&#xD;
+Po implantaci kupole začal mozek výše zmíněný subjekt vykazovat fyzické změny. Mozková plena subjektu změnila barvu na víceméně strakatě hnědou a po pouhých dvanácti hodinách v roztoku se začala rozkládat.&#xD;
 &#xD;
-Ukázalo se, že bio-gel byl znečištěný roztokem kyseliny sírové a lešticí látky z kopule a navzájem zreagovaly. Bohužel tento subjekt je totálně ztracen. Budeme to muset prostě odepsat jako nehodu a okamžitě vyměnit lešticí prostředky.</Dest>
+Ukázalo se, že bio-gel byl znečištěný kyselinou sírovou, která je obsažená v leštící směsi na kopule a při vzájemném kontaktu došlo k chemické reakci. Bohužel jsme tím subjekt naprosto zničili. Budeme ho prostě muset odepsat a okamžitě vyměnit lešticí prostředky.</Dest>
     </String>
     <String List="0" sID="001AA8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1378,11 +1381,11 @@ Ukázalo se, že bio-gel byl znečištěný roztokem kyseliny sírové a leštic
 We're continuing to have issues maintaining cohesion between the neural interface and the spinal column nerve endings. The nerves reject the connections faster than we can rebind them. I know we were hoping to keep the spinal columns intact for the Robobrains, but it's obviously not going to happen.&#xD;
 &#xD;
 I'd suggest we revert back to the original plan - the good old brain in a jar prototype. It will reduce the amount of life support subsystems significantly, as well as cut production time almost by a third. I'll submit my findings to the brass in Washington tomorrow.</Source>
-      <Dest>Požadavek údržby č. 09008112-AB&#xD;
+      <Dest>Problém při údržbě č. 09008112-AB&#xD;
 &#xD;
-Máme i nadále problémy s udržováním soudržnosti mezi neurálním rozhraním a páteřním nervovým zakončením. Nervy se odmítají spojit dřív, než je můžeme znovu spojit. Vím, že jsme doufali v neporušenou páteř pro robomozky, ale to se samozřejmě nestane.&#xD;
+Neustále máme problémy se zachováním soudržnosti mezi neurálním rozhraním a páteřním nervovým zakončením. Nervy se odpojí dřív, než je stihneme všechny připojit. Vím, že jsme doufali, že robomozkům páteř nebude třeba narušit, ale očividně to není možné.&#xD;
 &#xD;
-Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům mozků ve sklenici. To sníží množství životních příznaků podpůrných subsystémů, stejně jako to sníží výrobní čas téměř o třetinu. Předložím zítra svá zjištění ve Washingtonu.</Dest>
+Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům mozků ve sklenici. Významně se tím sníží množství život-udržujících subsystémů a navíc se sníží výrobní čas téměř o třetinu. Zítra svá zjištění předložím pohlavárům ve Washingtonu.</Dest>
     </String>
     <String List="0" sID="001ABB">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1394,7 +1397,7 @@ Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům moz
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Maintenance Issue 09009113-AR</Source>
-      <Dest>Požadavek údržby č. 09009113-AR</Dest>
+      <Dest>Problém při údržbě č. 09009113-AR</Dest>
     </String>
     <String List="0" sID="001AD8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1406,19 +1409,19 @@ We got the first batch of Robobrains back from testing, and they're a mess. Crac
 This particular issue is troubling though. According to field users, some of the Robobrains are misinterpreting commands. The on-board brain seems to almost overthink these instructions and "decide" to rewrite them for efficiency purposes. Most of the time, this results in property damage or even a few civilian fatalities.&#xD;
 &#xD;
 I've gone over every square inch of the faulty units and I can't find a thing wrong with them. I'm going to have to send this issue over to research and see what they can shake out. At least our department is in the clear on this one.</Source>
-      <Dest>Požadavek údržby č. 09008777-AC&#xD;
+      <Dest>Problém při údržbě č. 09008777-AC&#xD;
 &#xD;
-Máme první várku robomozků vrácených z testování a jsou poničené. Prasklé kopule, vyhozené běhouny, přetížené fúzní piloty, usmažené obvody - seznam by mohl pokračovat dál a dál.&#xD;
+Tak se nám vrátila první várka robomozků z testování a jsou v žalostném stavu. Prasklé kopule, vyhozené pásy, přetížené fúzní články, usmažené obvody - a takhle bych mohl pokračovat dál a dál.&#xD;
 &#xD;
-Další konkrétní problém je nicméně znepokojující. Podle terénního uživatele někteří z robomozků špatně interpretují příkazy. Jak se zdá palubní mozek ignoruje tyto pokyny a „rozhodne“ se je přepsat za účelem zvýšení účinnosti, což má za následek poškození majetku nebo i několik civilních úmrtí.&#xD;
+Konkrétně tohle je znepokojující problém. Podle uživatelů někteří z robomozků špatně interpretují příkazy. Jak se zdá, palubní mozek nad těmito pokyny tak dlouho přemýšl, až se „rozhodne“ si je sám přeformulovat. To má většinou za následek poškození majetku nebo dokonce i pár civilních obětí.&#xD;
 &#xD;
-Projel jsem každý čtvereční palec vadných jednotek a nenašel nic poškozeného. Budu muset předat tenhle problém na výzkumné oddělení a uvidíme, co z toho vyklepou. Alespoň v tomhle má naše oddělení jasno.</Dest>
+Projel jsem každý centimetr čtvereční vadných kusů a nenašel jsem na nich žádnou závadu. Budu tenhle problém muset předat na výzkumné oddělení a uvidíme, s čím přijdou. Aspoň že v tomhle případě jsme z obliga.</Dest>
     </String>
     <String List="0" sID="001AE1">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Chief Engineer's Terminal</Source>
-      <Dest>Terminál hlavního inženýra</Dest>
+      <Dest>Terminál vedoucího inženýra</Dest>
     </String>
     <String List="0" sID="001AE2">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1434,7 +1437,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Maintenance Issue 09007889-AB</Source>
-      <Dest>Požadavek údržby č. 09007889-AB</Dest>
+      <Dest>Problém při údržbě č. 09007889-AB</Dest>
     </String>
     <String List="0" sID="001AE4">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1446,7 +1449,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Engineering - Thomas Harkin</Source>
-      <Dest>RB-2851: Inženýrství - Thomas Harkin</Dest>
+      <Dest>RB-2851: Inženýři - Thomas Harkin</Dest>
     </String>
     <String List="0" sID="001AE7">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1462,11 +1465,11 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
 One of the Robobrains rolled off the line with a "faulty" voice module. When it speaks, it's speaking in reverse. This troubled me, so I had them shut down the line for almost eight hours while I checked the software for issues and then gave the audio output assembler a thorough diagnostic. I didn't find any issues, so I gave the all clear to resume assembly and marked it down as a glitch.&#xD;
 &#xD;
 I have no idea what would cause such a ridiculous issue, but if you ask me, I think one of the guys upstairs thought it would be funny.</Source>
-      <Dest>Požadavek údržby č. 09009113-AR&#xD;
+      <Dest>Problém při údržbě č. 09009113-AR&#xD;
 &#xD;
-Jeden z robomozků vyjel z linky s „vadným“ hlasovým modulem. Když mluví, je to řečeno obráceně. To mě znepokojuje, takže jsem vypnul linku na téměř osm hodin. Poté jsem zkontroloval software pro otázky a poté předal zvukový výstup, důkladně jej smontoval a diagnostikoval. Nenašel jsem ale žádné problémy, takže jsem ukončil poplach, spustil montáž a označil to jako jedinou závadu.&#xD;
+Jeden z robomozků vyjel z linky s „vadným“ hlasovým modulem. Když promluví, mluví pozpátku. To mě znepokojovalo, tak jsem nechal vypnout linku na téměř osm hodin, během kterých jsem kontroloval software a hledal závadu. Nakonec jsem provedl důslednou diagnostiku kompilátoru zvukového výstupu. Žádnou závadu jsem nenašel, tak jsem povolil pokračovat v montážích a zaznamenal to jako vadný kus.&#xD;
 &#xD;
-Nemám tušení, co způsobilo takový směšný problém, ale pokud byste se mě na to zeptali, jednomu z kluků nahoře to přišlo celkem zábavné.</Dest>
+Nemám tušení, co by mohlo způsobit tak šílenou závadu, ale řekl bych, že si prostě jen někdo z kluků nahoře myslel, že to bude k popukání.</Dest>
     </String>
     <String List="0" sID="001AEE">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1484,13 +1487,13 @@ Status: Encoded&#xD;
 I'm pleased to report that the department is back up to one hundred percent efficiency. Now that the section is staffed entirely by soldiers, the work is getting done on budget, on time and without mistakes. That's how you run a damn assembly line.&#xD;
 &#xD;
 Stick that in your pipe and smoke it, General Atomics.</Source>
-      <Dest>Osobní záznam: por. Justin Green, Vojenská divize robotiky Spojených států&#xD;
-Vstup: 0D77-HR078&#xD;
-Status: Zakódováno&#xD;
+      <Dest>Osobní záznam: por. Justin Green, divize robotiky Armády Spojených států&#xD;
+Záznam: 0D77-HR078&#xD;
+Status: Šifrováno&#xD;
 &#xD;
-Jsem rád, že oddělení hlásí zpět účinnost sto procent. Teď, když je úsek personálně zcela vojenský, provádíme stále práce na rozpočtu, včas a bez chyb. To je způsob, jak spustit tu zatracenou montážní linku.&#xD;
+S radostí oznamuji, že oddělení opět dosáhlo efektivitu sto procent. Teď, když se celá sekce skládá výhradně z vojáků, zvládáme plnit se stanoveným rozpočtem, včas a bezchybně. Takhle se sakra vede montážní linka.&#xD;
 &#xD;
-Podrž si svojí trubku a vykuř si, General Atomics.</Dest>
+Takhle se to dělá vy cucáci z General Atomics.</Dest>
     </String>
     <String List="0" sID="001AF6">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1516,15 +1519,15 @@ It took a while, but I finally weeded out the last of those General Atomics ingr
 Then there was Sara Wolliczek. She was supposed to be G.A.'s pride and joy down here. I caught her hooking up the Robobrain heads to one of our recompilers and trying to have a conversation with it. Asking it "was it sad" and "could it feel pain" Are you kidding me? I fired her on the spot.&#xD;
 &#xD;
 How a private company gets anything done without discipline I'll never know.</Source>
-      <Dest>Osobní záznam: por. Justin Green, Vojenská divize robotiky Spojených států&#xD;
-Vstup: 0D77-HR078&#xD;
-Status: Zakódováno&#xD;
+      <Dest>Osobní záznam: por. Justin Green, divize robotiky Armády Spojených států&#xD;
+Záznam: 0D77-HR078&#xD;
+Status: Šifrováno&#xD;
 &#xD;
-Nějakou dobu to trvalo, ale nakonec jsem dostal posledního nevděčníka General Atomics z mého oddělení. Kdo si myslí, že jsou? Nikdy v životě jsem neviděl línější bandu ničemů a lenochů. Ztratili dokumentaci, zpozdili dodávky, horší montážní práce - vše, na co si jen vzpomenete, a tihle šašci toho byli příčinou.&#xD;
+Nějakou dobu to trvalo, ale nakonec jsem ze svýho oddělení vyštípal i toho nejposlednějšího nevděčníka z General Atomics. Kdo si sakra vůbec myslí, že jsou? Nikdy v životě jsem ještě neviděl línější bandu budižkničemů. Poztrácená dokumentace, náhodně poházený zásoby, mizerně odvedená montáž - za všechno špatný mohli tihleti šašci.&#xD;
 &#xD;
-Pak tu byla Sara Wolliczeková. Měla být pýchou G.A. a radostí tady dole. Chytil jsem ji, jak hackuje hlavy robomozků jedním z našich překladačů a snaží se s nimi komunikovat. Ptala se jich „co je smutek“ a „můžeš cítit bolest“... To si ze mě děláš srandu? Na místě jsem ji vyhodil.&#xD;
+A pak tu byla Sára Wolliczeková. Měla to být místní pýcha General Atomics. Přistihl jsem ji, jak napojuje hlavy robomozků na jeden z našich rekompilátorů a snaží se s nimi komunikovat. Ptala se jich jestli „cítí smutek“ a „nebolí to“... To jako vážně? Na místě jsem ji vyrazil.&#xD;
 &#xD;
-Jak může soukromá společnost něco dělat bez disciplíny, to se asi nikdy nedozvím.</Dest>
+Jak může mít soukromá společnost nějaký výsledky bez disciplíny, to asi nikdy nepochopím.</Dest>
     </String>
     <String List="0" sID="001B00">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1542,13 +1545,13 @@ Status: Encoded&#xD;
 Got transferred over to run Production Control today. The idiot from General Atomics got pulled after he let the department efficiency drop below ninety percent. Private sector buffoons have it so easy... imagine being content with such a crappy rating and not even having to account for the shortfall.&#xD;
 &#xD;
 I'm going to start getting things back on track down here and show those civilians how the U.S. Military runs the show.</Source>
-      <Dest>Osobní záznam: por. Justin Green, Vojenská divize robotiky Spojených států&#xD;
-Vstup: 0D77-HR056&#xD;
-Status: Zakódováno&#xD;
+      <Dest>Osobní záznam: por. Justin Green, divize robotiky Armády Spojených států&#xD;
+Záznam: 0D77-HR056&#xD;
+Status: Šifrováno&#xD;
 &#xD;
-Mám dnes přistoupit ke spuštění výrobní kontroly. Ten idiot od General Atomics byl stažen poté, co nechal klesnout efektivitu oddělení pod devadesát procent. Ti kašpaři v soukromým sektoru jsou tak jednoduchý... představte si obsah s takovým mizerným ohodnocením a ani nepočítá s poklesem.&#xD;
+Dnes mě sem převeleli, abych vedl oddělení Kontroly výroby. Toho idiota z General Atomics stáhli poté, co nechal klesnout efektivitu oddělení pod devadesát procent. Ti šašci v soukromým sektoru to mají tak jednoduchý... nechápu, jak mohl být spokojenej s tak mizerným hodnocením a jaktože se za to manko ani nemusel nikomu zodpovídat.&#xD;
 &#xD;
-Chystám se uvést vše do původního stavu a ukázat těm civilistům, jak probíhá ta pravá americká vojenská šou.</Dest>
+Ale já to tu začnu zase dávat zpátky do latě a ukážu těm civilistům, jak to vypadá, když se do věcí obuje Armáda Spojených států..</Dest>
     </String>
     <String List="0" sID="001B0A">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1576,13 +1579,13 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Production Control Terminal</Source>
-      <Dest>Ovládací terminál výroby</Dest>
+      <Dest>Terminál Kontroly výroby</Dest>
     </String>
     <String List="0" sID="001B1F">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Production Control</Source>
-      <Dest>RB-2851: Produkční kontrola</Dest>
+      <Dest>RB-2851: Kontrola výroby</Dest>
     </String>
     <String List="0" sID="001B55">
       <EDID>DLC01Lair_DeconArchHazard_Small</EDID>
@@ -1607,9 +1610,9 @@ Zakázka: 09-241&#xD;
 Vložil:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  T. Sanchez&lt;/font&gt;&#xD;
 &lt;font face='$MAIN_Font'&gt;Zákazník:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  Henrietta Blancheová&lt;/font&gt;&#xD;
 &#xD;
-&lt;font face='$MAIN_Font'&gt;Žádost:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  RX-6550 terminál se zhroutí ihned po naběhnutí. Podezření na přehřátí.&lt;/font&gt;&#xD;
+&lt;font face='$MAIN_Font'&gt;Žádost:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  Terminál RX-6550 ihned po naběhnutí spadne. Podezření na přehřátí.&lt;/font&gt;&#xD;
 &#xD;
-&lt;font face='$MAIN_Font'&gt;Vyhodnocení:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  Celá konzole potřebuje vyčistit. Přehodnotit, jakmile bude veškerý hardware vyčištěn.&lt;/font&gt;&lt;/font&gt;&#xD;
+&lt;font face='$MAIN_Font'&gt;Vyhodnocení:&lt;/font&gt;&lt;font face='$HandwrittenFont' size='18'&gt;  Celá konzole potřebuje vyčistit. Znovu to přehodnotím, jakmile vysvobodím veškerý hardware.&lt;/font&gt;&lt;/font&gt;&#xD;
 </Dest>
     </String>
   </Content>
