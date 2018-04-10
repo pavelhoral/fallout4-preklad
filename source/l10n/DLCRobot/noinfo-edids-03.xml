@@ -7,61 +7,61 @@
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="000012" Partial="1">
+    <String List="0" sID="000012">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Office Terminal</Source>
       <Dest>Terminál kanceláře ostrahy</Dest>
     </String>
-    <String List="0" sID="000013" Partial="1">
+    <String List="0" sID="000013">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Security Desk 12</Source>
       <Dest>RB-2851: Bezpečnostní kancelář 12</Dest>
     </String>
-    <String List="0" sID="00003A" Partial="1">
+    <String List="0" sID="00003A">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Retrieving...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="000043" Partial="1">
+    <String List="0" sID="000043">
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Decontamination Control</Source>
       <Dest>RB-2851: Kontrola dekontaminace</Dest>
     </String>
-    <String List="0" sID="00007F" Partial="1">
+    <String List="0" sID="00007F">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Mom</Source>
       <Dest>Máma</Dest>
     </String>
-    <String List="0" sID="000085" Partial="1">
+    <String List="0" sID="000085">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Terminal</Source>
       <Dest>Terminál</Dest>
     </String>
-    <String List="0" sID="0000BE" Partial="1">
+    <String List="0" sID="0000BE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Dad</Source>
       <Dest>Táta</Dest>
     </String>
-    <String List="0" sID="0000DF" Partial="1">
+    <String List="0" sID="0000DF">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Broken Terminal</Source>
       <Dest>Rozbitý terminál</Dest>
     </String>
-    <String List="0" sID="000113" Partial="1">
+    <String List="0" sID="000113">
       <EDID>DLC01Lair_RobCo_DisplayTerminal01</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-9000 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model RX-9000</Dest>
     </String>
-    <String List="0" sID="00012B" Partial="1">
+    <String List="0" sID="00012B">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="0">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -79,7 +79,7 @@ Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="00014F" Partial="1">
+    <String List="0" sID="00014F">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="2">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -103,25 +103,25 @@ Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="00015A" Partial="1">
+    <String List="0" sID="00015A">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Calendar</Source>
       <Dest>Kalendář</Dest>
     </String>
-    <String List="0" sID="0001B3" Partial="1">
+    <String List="0" sID="0001B3">
       <EDID>DLC01Lair_HolotapeMechanist</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Mechanist's Log</Source>
       <Dest>Mechanikův záznam</Dest>
     </String>
-    <String List="0" sID="0001C3" Partial="1">
+    <String List="0" sID="0001C3">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Sales &amp; Service Center, Store #271</Source>
       <Dest>Prodejní a servisní centrum RobCo, Sklad #271</Dest>
     </String>
-    <String List="0" sID="0001ED" Partial="1">
+    <String List="0" sID="0001ED">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>MK-11 Decontamination Arch Control Interface&#xD;
@@ -137,7 +137,7 @@ STAV: Aktivní&#xD;
 ***VAROVÁNÍ***&#xD;
 Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
-    <String List="0" sID="00020B" Partial="1">
+    <String List="0" sID="00020B">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Testing... Let's hope this entry sticks. &#xD;
@@ -147,61 +147,61 @@ I finally got one of the terminals up and running. Now to hope I have the same l
 &#xD;
 Nakonec se mi podařilo rozběhnout jeden z těch terminálů. Teď doufám, že budu mít stejné štěstí se zbytkem tohoto zařízení.</Dest>
     </String>
-    <String List="0" sID="000227" Partial="1">
+    <String List="0" sID="000227">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Retrieving...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="00024F" Partial="1">
+    <String List="0" sID="00024F">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>Welcome to the ROBCO Industries (TM) Sales Network</Source>
       <Dest>Vítejte v prodejní síti ROBCO Industries (TM)</Dest>
     </String>
-    <String List="0" sID="00027D" Partial="1">
+    <String List="0" sID="00027D">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
     </String>
-    <String List="0" sID="00027E" Partial="1">
+    <String List="0" sID="00027E">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo E-601 Terminal</Source>
       <Dest>Terminál RobCo E-601</Dest>
     </String>
-    <String List="0" sID="000297" Partial="1">
+    <String List="0" sID="000297">
       <EDID>DLC01Lair_HolotapeOnly_AniseCiroletti</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Anise</Source>
       <Dest>Anise</Dest>
     </String>
-    <String List="0" sID="0002A1" Partial="1">
+    <String List="0" sID="0002A1">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="0002A3" Partial="1">
+    <String List="0" sID="0002A3">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Accessing Control Ports...</Source>
       <Dest>Přistupování k ovládacím portům...</Dest>
     </String>
-    <String List="0" sID="0002B7" Partial="1">
+    <String List="0" sID="0002B7">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>This place is incredible. An entire wing devoted to Robobrain research and development. I've never seen any robots quite like these, except in a few of the comics I've read. And the brains! They're still preserved after all this time. I can't wait to start delving into the schematics to assemble one myself. </Source>
       <Dest>Toto místo je neuvěřitelné. Celé křídlo je věnováno výzkumu a vývoji robomozků. Nikdy jsem neviděla takové roboty jako jsou tyhle, s výjimkou některých komiksů, které jsem četla. A mozky! Jsou ještě po tak dlouhé době zachovalé. Nemohu se dočkat, až se ponořím do schémat a sestavím si jednoho sama.</Dest>
     </String>
-    <String List="0" sID="0002F4" Partial="1">
+    <String List="0" sID="0002F4">
       <EDID>DLC01Lair_HolotapeOnly_ThomasHarkin</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Thomas</Source>
       <Dest>Thomas</Dest>
     </String>
-    <String List="0" sID="00030E" Partial="1">
+    <String List="0" sID="00030E">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="4">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -217,61 +217,61 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
 ***PROBÍHÁ MANUÁLNÍ PŘEPSÁNÍ***&#xD;
 Přístup k ovládání výtahu byl obnoven.</Dest>
     </String>
-    <String List="0" sID="0003B8" Partial="1">
+    <String List="0" sID="0003B8">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Isabel Cruz's Log</Source>
       <Dest>Záznam Isabel Cruzové</Dest>
     </String>
-    <String List="0" sID="0003DE" Partial="1">
+    <String List="0" sID="0003DE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model E-601 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model E-601</Dest>
     </String>
-    <String List="0" sID="000460" Partial="1">
+    <String List="0" sID="000460">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Contacts</Source>
       <Dest>Kontakty</Dest>
     </String>
-    <String List="0" sID="000474" Partial="1">
+    <String List="0" sID="000474">
       <EDID>DLC01Lair_MechanistNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>The Mechanist</Source>
       <Dest>Mechanik</Dest>
     </String>
-    <String List="0" sID="00047B" Partial="1">
+    <String List="0" sID="00047B">
       <EDID>DLC01Lair_FacilityMainframeNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Mainframe</Source>
       <Dest>Hlavní počítač</Dest>
     </String>
-    <String List="0" sID="000480" Partial="1">
+    <String List="0" sID="000480">
       <EDID>DLC01Lair_GarageDoorNameOverride</EDID>
       <REC>MESG:ITXT</REC>
       <Source>Read Terminal</Source>
       <Dest>Přečti terminál</Dest>
     </String>
-    <String List="0" sID="000496" Partial="1">
+    <String List="0" sID="000496">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Terminating decontamination mist. Please wait...</Source>
       <Dest>Ukončování dekontaminační mlhy. Prosím, čekejte...</Dest>
     </String>
-    <String List="0" sID="0004BA" Partial="1">
+    <String List="0" sID="0004BA">
       <EDID>DLC01Lair_LaserTripwire</EDID>
       <REC>ACTI:ATTX</REC>
       <Source>Disarm</Source>
       <Dest>Odzbrojit</Dest>
     </String>
-    <String List="0" sID="00052F" Partial="1">
+    <String List="0" sID="00052F">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Deactivate Decontamination Arches</Source>
       <Dest>Deaktivovat dekontaminační oblouky</Dest>
     </String>
-    <String List="0" sID="000544" Partial="1">
+    <String List="0" sID="000544">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03_Error</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Retrieving...&#xD;
@@ -285,13 +285,13 @@ Načítání...&#xD;
 &#xD;
 Chyba. Systém nemůže najít soubory.</Dest>
     </String>
-    <String List="0" sID="00059D" Partial="1">
+    <String List="0" sID="00059D">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Activate Decontamination Arches</Source>
       <Dest>Aktivovat dekontaminační oblouky</Dest>
     </String>
-    <String List="0" sID="0005B1" Partial="1">
+    <String List="0" sID="0005B1">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Welcome back, ISABEL. Please select an entry.&#xD;
@@ -299,73 +299,73 @@ Chyba. Systém nemůže najít soubory.</Dest>
 </Source>
       <Dest>Vítejte zpět, ISABEL. Prosím, vyberte záznam.</Dest>
     </String>
-    <String List="0" sID="0005C7" Partial="1">
+    <String List="0" sID="0005C7">
       <EDID>DLC01Lair_LaserTripwire</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Laser Tripwire</Source>
       <Dest>Laserová past</Dest>
     </String>
-    <String List="0" sID="0005E0" Partial="1">
+    <String List="0" sID="0005E0">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03_Error</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
     </String>
-    <String List="0" sID="0005F0" Partial="1">
+    <String List="0" sID="0005F0">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Elevator Access</Source>
       <Dest>RB-2851: Přístup k výtahu</Dest>
     </String>
-    <String List="0" sID="0005F1" Partial="1">
+    <String List="0" sID="0005F1">
       <EDID>DLC01Lair_ChangeLocation</EDID>
       <REC>QUST:FULL</REC>
       <Source>[DLC01 - Mechanist's Lair Change Location]</Source>
       <Dest>[DLC01 - Mechanist's Lair Change Location]</Dest>
     </String>
-    <String List="0" sID="000627" Partial="1">
+    <String List="0" sID="000627">
       <EDID>DLC01Lair_GarageDoorNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Garage</Source>
       <Dest>Garáž</Dest>
     </String>
-    <String List="0" sID="00063C" Partial="1">
+    <String List="0" sID="00063C">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Accessing Control Ports...</Source>
       <Dest>Přistupování k ovládacím portům...</Dest>
     </String>
-    <String List="0" sID="00068C" Partial="1">
+    <String List="0" sID="00068C">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Retrieving...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="0006D4" Partial="1">
+    <String List="0" sID="0006D4">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Entry 2</Source>
       <Dest>Záznam 2</Dest>
     </String>
-    <String List="0" sID="0006EA" Partial="1">
+    <String List="0" sID="0006EA">
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo E-330 Terminal</Source>
       <Dest>Terminál RobCo E-330</Dest>
     </String>
-    <String List="0" sID="000717" Partial="1">
+    <String List="0" sID="000717">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Daily Itinerary</Source>
       <Dest>Denní itinerář</Dest>
     </String>
-    <String List="0" sID="000743" Partial="1">
+    <String List="0" sID="000743">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Entry 1</Source>
       <Dest>Záznam 1</Dest>
     </String>
-    <String List="0" sID="00075E" Partial="1">
+    <String List="0" sID="00075E">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="2">TERM:BTXT</REC>
       <Source>MK-11 Decontamination Arch Control Interface&#xD;
@@ -381,37 +381,37 @@ STAV: Neaktivní&#xD;
 ***VAROVÁNÍ***&#xD;
 Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
-    <String List="0" sID="000781" Partial="1">
+    <String List="0" sID="000781">
       <EDID>DLC01Lair_MainframeTalkingActivator</EDID>
       <REC>TACT:FULL</REC>
       <Source>Mainframe</Source>
       <Dest>Hlavní počítač</Dest>
     </String>
-    <String List="0" sID="000784" Partial="1">
+    <String List="0" sID="000784">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Security Desk 12</Source>
       <Dest>RB-2851: Bezpečnostní kancelář 12</Dest>
     </String>
-    <String List="0" sID="0007E1" Partial="1">
+    <String List="0" sID="0007E1">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Security Protocol Reference</Source>
       <Dest>Bezpečnostní odvolávací protokol</Dest>
     </String>
-    <String List="0" sID="000811" Partial="1">
+    <String List="0" sID="000811">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Messages</Source>
       <Dest>Zprávy</Dest>
     </String>
-    <String List="0" sID="000816" Partial="1">
+    <String List="0" sID="000816">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Timmy</Source>
       <Dest>Timmy</Dest>
     </String>
-    <String List="0" sID="00084B" Partial="1">
+    <String List="0" sID="00084B">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="0">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -429,7 +429,7 @@ Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Z
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="0008A8" Partial="1">
+    <String List="0" sID="0008A8">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Accessing security protocol registry...&#xD;
@@ -445,25 +445,25 @@ Potvrzování dostupnosti ručního ovládání...&#xD;
 &#xD;
 Prosím, uveďte potřebnou autorizaci.</Dest>
     </String>
-    <String List="0" sID="0008B8" Partial="1">
+    <String List="0" sID="0008B8">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="000912" Partial="1">
+    <String List="0" sID="000912">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC>TERM:FULL</REC>
       <Source>Security Office Terminal</Source>
       <Dest>Terminál kanceláře ostrahy</Dest>
     </String>
-    <String List="0" sID="000923" Partial="1">
+    <String List="0" sID="000923">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Elevator Access Terminal</Source>
       <Dest>Přístupový terminál výtahu</Dest>
     </String>
-    <String List="0" sID="00092A" Partial="1">
+    <String List="0" sID="00092A">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -485,19 +485,19 @@ Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
 ***INICIOVÁNO MANUÁLNÍ OTEVŘENÍ***&#xD;
 Čekání na autorizaci.</Dest>
     </String>
-    <String List="0" sID="00096C" Partial="1">
+    <String List="0" sID="00096C">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Initiate Manual Override</Source>
       <Dest>Zahájení ručního ovládání</Dest>
     </String>
-    <String List="0" sID="00096E" Partial="1">
+    <String List="0" sID="00096E">
       <EDID>DLC01Lair_DeconArchHazard</EDID>
       <REC>HAZD:FULL</REC>
       <Source>Decontamination Mist</Source>
       <Dest>Dekontaminační pára</Dest>
     </String>
-    <String List="0" sID="0009B3" Partial="1">
+    <String List="0" sID="0009B3">
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -507,25 +507,25 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
     </String>
-    <String List="0" sID="000A0C" Partial="1">
+    <String List="0" sID="000A0C">
       <EDID>DLC01Lair_HolotapeOnly_AniseCiroletti</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Anise Ciroletti</Source>
       <Dest>Anise Cirolettiová</Dest>
     </String>
-    <String List="0" sID="000A44" Partial="1">
+    <String List="0" sID="000A44">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Mechanist's Log</Source>
       <Dest>Mechanikův deník</Dest>
     </String>
-    <String List="0" sID="000AAE" Partial="1">
+    <String List="0" sID="000AAE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal01</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo RX-9000 Terminal</Source>
       <Dest>Terminál RobCo RX-9000</Dest>
     </String>
-    <String List="0" sID="000ACA" Partial="1">
+    <String List="0" sID="000ACA">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>...Authorization confirmed.&#xD;
@@ -541,19 +541,19 @@ Uvolnění bezpečnostního uzamčení výtahu...&#xD;
 &#xD;
 Omezené ruční ovládání je nyní zprovozněno. Vezměte na vědomí, že jako preventivní opatření je přístup z kontrolního centra zakázán až do ukončení výstrahy zabezpečení.</Dest>
     </String>
-    <String List="0" sID="000AD7" Partial="1">
+    <String List="0" sID="000AD7">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Activating decontamination mist. Please wait...</Source>
       <Dest>Aktivace dekontaminační mlhy. Prosím, čekejte...</Dest>
     </String>
-    <String List="0" sID="000AE0" Partial="1">
+    <String List="0" sID="000AE0">
       <EDID>DLC01Lair_RobCo_ServiceTerminalNote</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Work Order 09-241</Source>
       <Dest>Zakázka 09-241</Dest>
     </String>
-    <String List="0" sID="000B6D" Partial="1">
+    <String List="0" sID="000B6D">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -563,13 +563,13 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
     </String>
-    <String List="0" sID="000B88" Partial="1">
+    <String List="0" sID="000B88">
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source> &gt; Decontamination Arch Control</Source>
       <Dest> &gt; Ovládání dekontaminačního oblouku</Dest>
     </String>
-    <String List="0" sID="000B98" Partial="1">
+    <String List="0" sID="000B98">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:BTXT</REC>
       <Source>MK-11 Decontamination Arch Control Interface&#xD;
@@ -585,13 +585,13 @@ STAV: Zaneprázdněn&#xD;
 ***VAROVÁNÍ***&#xD;
 Detekován neoprávněný přístup. Pokus o hackování, úpravu nebo změnu dekontaminačního oblouku MK-11 je přísně zakázán a může vést ke ztrátě záruky.</Dest>
     </String>
-    <String List="0" sID="000BAF" Partial="1">
+    <String List="0" sID="000BAF">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="5">TERM:BTXT</REC>
       <Source>Elevator access nominal.</Source>
       <Dest>Přístup k výtahu v pořádku.</Dest>
     </String>
-    <String List="0" sID="000BB3" Partial="1">
+    <String List="0" sID="000BB3">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>RB-2851 SECURITY PROTOCOL 087&#xD;
@@ -615,7 +615,7 @@ Tento poplach může být ukončen: [1] Pomocí dálkového oprávnění od AVDR
 &#xD;
 Jako ochrana selhání zabezpečení v případě narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Je vyžadována hlasová identifikace tří registrovaných vedoucích zaměstnanců Třídy-II k aktivaci přepsání.</Dest>
     </String>
-    <String List="0" sID="000BEF" Partial="1">
+    <String List="0" sID="000BEF">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="0">TERM:BTXT</REC>
       <Source>The ROBCO Model E-601 Terminal System is a new, streamlined terminal for the business-minded individual. You'll be sure to climb the corporate ladder by staying organized and on the ball with our state-of-the-art calendar, contact manager, and messaging system!&#xD;
@@ -625,7 +625,7 @@ The examples below show some of the customization and detail the E-601 is capabl
 &#xD;
 Následující příklady vám umožní seznámit se s některými možnostmi a volitelnými funkcemi E-601.</Dest>
     </String>
-    <String List="0" sID="000C1E" Partial="1">
+    <String List="0" sID="000C1E">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="3">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -647,25 +647,25 @@ Pokud je bezpečnostní poplach aktivní, výtah je nefunkční.&#xD;
 ***MANUÁLNÍ PŘEPSÁNÍ INICIOVÁNO***&#xD;
 Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
     </String>
-    <String List="0" sID="000C1F" Partial="1">
+    <String List="0" sID="000C1F">
       <EDID>DLC01Lair_HolotapeOnly_TonyDelano</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Tony Delano</Source>
       <Dest>Tony Delano</Dest>
     </String>
-    <String List="0" sID="000C2C" Partial="1">
+    <String List="0" sID="000C2C">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>(087): Epsilon-VI Security Alert</Source>
       <Dest>(087): bezpečnostní poplach Epsilon-VI</Dest>
     </String>
-    <String List="0" sID="000C83" Partial="1">
+    <String List="0" sID="000C83">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Retrieving...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="000C86" Partial="1">
+    <String List="0" sID="000C86">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Finally, a personalized home computer for the whole family to enjoy! Keep track of activities and tasks, and maintain privacy by adding passwords to logins.*&#xD;
@@ -675,13 +675,13 @@ Autorizace hlasového otisku uznána. Prosím, potvrďte přepsání.</Dest>
 &#xD;
 *Heslo není momentálně nastaveno.</Dest>
     </String>
-    <String List="0" sID="000CD2" Partial="1">
+    <String List="0" sID="000CD2">
       <EDID>DLC01Lair_HolotapeOnly_ThomasHarkin</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Thomas Harkin</Source>
       <Dest>Thomas Harkin</Dest>
     </String>
-    <String List="0" sID="000CF7" Partial="1">
+    <String List="0" sID="000CF7">
       <EDID>DLC01Lair_RobCo_DisplayTerminal01</EDID>
       <REC>TERM:BTXT</REC>
       <Source>The future of gaming has arrived! Impress your friends with the new ROBCO RX-9000.&#xD;
@@ -691,79 +691,79 @@ This terminal features an upgraded processor and cutting-edge graphics unlike an
 &#xD;
 Tento terminál má vylepšený procesor a špičkovou grafiku na rozdíl od jiných terminálů na trhu. Viz prodejní součást; kompatibilní demohra na holopásce.</Dest>
     </String>
-    <String List="0" sID="000CF8" Partial="1">
+    <String List="0" sID="000CF8">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03_Error</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo RX-6550 Terminal</Source>
       <Dest>Terminál RobCo RX-6550</Dest>
     </String>
-    <String List="0" sID="000D0C" Partial="1">
+    <String List="0" sID="000D0C">
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Decontamination Control Terminal</Source>
       <Dest>Terminál ovládání dekontaminace</Dest>
     </String>
-    <String List="0" sID="000D12" Partial="1">
+    <String List="0" sID="000D12">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo RX-6550 Terminal</Source>
       <Dest>Terminál RobCo RX-6550</Dest>
     </String>
-    <String List="0" sID="000D23" Partial="1">
+    <String List="0" sID="000D23">
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model E-330 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model E-330</Dest>
     </String>
-    <String List="0" sID="000D6E" Partial="1">
+    <String List="0" sID="000D6E">
       <EDID>DLC01Lair_RobcoSalesAndServiceDoorOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Robco Sales &amp; Service Center</Source>
       <Dest>Prodejní a servisní centrum RobCo</Dest>
     </String>
-    <String List="0" sID="000D80" Partial="1">
+    <String List="0" sID="000D80">
       <EDID>DLC01Lair_EntranceSecurityDoor</EDID>
       <REC>DOOR:FULL</REC>
       <Source>Security Door</Source>
       <Dest>Bezpečnostní dveře</Dest>
     </String>
-    <String List="0" sID="000DA7" Partial="1">
+    <String List="0" sID="000DA7">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Confirm Manual Override</Source>
       <Dest>Potvrdit ruční přepsání</Dest>
     </String>
-    <String List="0" sID="000DA8" Partial="1">
+    <String List="0" sID="000DA8">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Janie</Source>
       <Dest>Janie</Dest>
     </String>
-    <String List="0" sID="000DC0" Partial="1">
+    <String List="0" sID="000DC0">
       <EDID>DLC01Lair_RobcoSalesAndServiceKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Key</Source>
       <Dest>Klíč od Prodejního a servisního centra RobCo</Dest>
     </String>
-    <String List="0" sID="000DC5" Partial="1">
+    <String List="0" sID="000DC5">
       <EDID>DLC01Lair_HolotapeOnly_TonyDelano</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Tony</Source>
       <Dest>Tony</Dest>
     </String>
-    <String List="0" sID="000DDF" Partial="1">
+    <String List="0" sID="000DDF">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Terminal</Source>
       <Dest>Terminál Prodejního a servisního centra RobCo</Dest>
     </String>
-    <String List="0" sID="000E3C" Partial="1">
+    <String List="0" sID="000E3C">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Announcements</Source>
       <Dest>Oznámení</Dest>
     </String>
-    <String List="0" sID="000E40" Partial="1">
+    <String List="0" sID="000E40">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>AUTHORIZATION POLICIES&#xD;
@@ -781,49 +781,49 @@ Všichni zaměstnanci musí viditelně nosit bezpečnostní odznak stupně 22 (m
 &#xD;
 Hosté musí předložit podepsaný dopis o schválení od firmy General Rawlings a jméno cílového zaměstnance, kterého kontaktují. Všichni hosté se musí prokazovat odznakem pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
     </String>
-    <String List="0" sID="000E61" Partial="1">
+    <String List="0" sID="000E61">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="000E65" Partial="1">
+    <String List="0" sID="000E65">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Bronwyn Sullivan</Source>
       <Dest>Bronwyn Sullivanová</Dest>
     </String>
-    <String List="0" sID="000EAE" Partial="1">
+    <String List="0" sID="000EAE">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Henrietta Blanche</Source>
       <Dest>Henrietta Blancheová</Dest>
     </String>
-    <String List="0" sID="000EC5" Partial="1">
+    <String List="0" sID="000EC5">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:NAM0</REC>
       <Source>Welcome to the ROBCO Industries (TM) Sales Network</Source>
       <Dest>Vítejte v prodejní síti ROBCO Industries (TM)</Dest>
     </String>
-    <String List="0" sID="000ECF" Partial="1">
+    <String List="0" sID="000ECF">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Entry 3</Source>
       <Dest>Záznam 3</Dest>
     </String>
-    <String List="0" sID="000ED9" Partial="1">
+    <String List="0" sID="000ED9">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Please remember that all employees are under a strict Non-Disclosure Agreement. Violations will not be tolerated. </Source>
       <Dest>Nezapomeňte, že všichni zaměstnanci jsou pod přísnou utajovací dohodou. Porušování nebude tolerováno.</Dest>
     </String>
-    <String List="0" sID="000F2A" Partial="1">
+    <String List="0" sID="000F2A">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Entry 4</Source>
       <Dest>Záznam 4</Dest>
     </String>
-    <String List="0" sID="000F7F" Partial="1">
+    <String List="0" sID="000F7F">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Status: OPEN&#xD;
@@ -841,7 +841,7 @@ Popis:&#xD;
 Řešení:&#xD;
 [Zakázka probíhá.]</Dest>
     </String>
-    <String List="0" sID="000FF0" Partial="1">
+    <String List="0" sID="000FF0">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Status: CLOSED&#xD;
@@ -861,67 +861,67 @@ Ohodnocení:&#xD;
 [P. Benson] Vypadá to, že Carmike sabotoval tenhle počítač ještě předtím, než odešel. Nevím, jestli to byla jeho osobní nebo jeho poslední akce. Myslím, že vím, co s tím provedl, ale nechci dopředu nic slibovat. Doporučuji nahradit tento terminál novým, takže bude nekompromisně zaručen jeho chod.&#xD;
 </Dest>
     </String>
-    <String List="0" sID="001007" Partial="1">
+    <String List="0" sID="001007">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Entry 5</Source>
       <Dest>Záznam 5</Dest>
     </String>
-    <String List="0" sID="001041" Partial="1">
+    <String List="0" sID="001041">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>The potential for the robobrains seems limitless. I've managed to update a few of them to handle some of the menial tasks around here. I may have this facility fully functional for my own purposes faster than I thought.</Source>
       <Dest>Potenciál robomozků se zdá být neomezený. Podařilo se mi některé z nich aktualizovat a přidělit jim tady nějaké služební úkoly. Možná budu moct toto zařízení plně zprovoznit pro své vlastní účely rychleji, než jsem si myslela.</Dest>
     </String>
-    <String List="0" sID="001043" Partial="1">
+    <String List="0" sID="001043">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Service Requests</Source>
       <Dest>Servisní požadavky</Dest>
     </String>
-    <String List="0" sID="00106B" Partial="1">
+    <String List="0" sID="00106B">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="4">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="0010E4" Partial="1">
+    <String List="0" sID="0010E4">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Calvin Crenshaw</Source>
       <Dest>Calvin Crenshaw</Dest>
     </String>
-    <String List="0" sID="001113" Partial="1">
+    <String List="0" sID="001113">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Service Requests</Source>
       <Dest>Servisní požadavky</Dest>
     </String>
-    <String List="0" sID="00111B" Partial="1">
+    <String List="0" sID="00111B">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Sales &amp; Service Center, Store #271</Source>
       <Dest>Prodejní a servisní centrum RobCo, Sklad #271</Dest>
     </String>
-    <String List="0" sID="00114A" Partial="1">
+    <String List="0" sID="00114A">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Authorization Policies</Source>
       <Dest>Zásady autorizace</Dest>
     </String>
-    <String List="0" sID="001156" Partial="1">
+    <String List="0" sID="001156">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC>TERM:FULL</REC>
       <Source>RobCo Sales &amp; Service Center Terminal</Source>
       <Dest>Terminál Prodejního a servisního centra RobCo</Dest>
     </String>
-    <String List="0" sID="001197" Partial="1">
+    <String List="0" sID="001197">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>ROBCO Model RX-6550 Terminal System</Source>
       <Dest>Systém terminálu ROBCO Model RX-6550</Dest>
     </String>
-    <String List="0" sID="0011AF" Partial="1">
+    <String List="0" sID="0011AF">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>I've a new mission: the safety of the Commonwealth! I think I can program the robots here to safely police the surrounding area, possibly up to a 15 mile radius. I was laying in bed, staring at the posters I found and it occurred to me: I could really make a difference here.&#xD;
@@ -931,13 +931,13 @@ I'm going to start constructing the Mechanist suit in the drawing I found. </Sou
 &#xD;
 Chystám se začít s výrobou Mechanikova obleku podle nalezených plánů.</Dest>
     </String>
-    <String List="0" sID="0011B7" Partial="1">
+    <String List="0" sID="0011B7">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="0011F5" Partial="1">
+    <String List="0" sID="0011F5">
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC>TERM:UNAM</REC>
       <Source>To: All Staff&#xD;
@@ -957,7 +957,7 @@ Připomínáme, že všichni zaměstnanci Prodejního a servisního centra RobCo
 - od zaměstnanců se očekává, že budou nosit úřední jmenovky. Jmenovky by měly být dobře viditelné a připojené k pravému hornímu rohu stejnokroje. Prosím, noste správné jmenovky. Nezaměňujte je.&#xD;
 - návštěvy zákazníků, přátel a rodiny již nejsou v zadní části servisní budovy povoleny.</Dest>
     </String>
-    <String List="0" sID="00122A" Partial="1">
+    <String List="0" sID="00122A">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Status: CLOSED&#xD;
@@ -976,7 +976,7 @@ Ohodnocení:&#xD;
 [S. Lee] Calvin bude muset do jeskyně a koupit nový terminál. Ta stará NX-12 je dobrá leda tak na psaní dokumentů či hraní her založených na textu. Bude potřebovat větší paměť, kterou tenhle terminál ani nemůže podporovat. V podstatě všechny nové vnitřnosti nebo zbrusu nový terminál. Ať si vybere.&#xD;
 </Dest>
     </String>
-    <String List="0" sID="001248" Partial="1">
+    <String List="0" sID="001248">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Terminal unit systems have been stopped.&#xD;
@@ -990,19 +990,19 @@ Prosím, zkontrolujte, zda je všechen potřebný hardware a software správně 
 &#xD;
 Pokud problémy přetrvávají, obraťte se na nejbližší Prodejní a servisní centrum RobCo.</Dest>
     </String>
-    <String List="0" sID="001251" Partial="1">
+    <String List="0" sID="001251">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>The Mechanist suit turned out even better than I'd hoped! Sparks gave a very approving "beep". I even added a voice augmentation to it. It's strange how it makes me feel so confident when I put it on. It's like being a different person.</Source>
       <Dest>Mechanikův oblek dopadl ještě lépe, než jsem doufala! Sparks velmi obdivně „pípnul“. Dokonce jsem do něj přidala hlasovou augmentaci. Je to zvláštní, jak to dodá pocit jistoty, když ho mám na sobě. Je to jako být jiná osoba.</Dest>
     </String>
-    <String List="0" sID="001326" Partial="1">
+    <String List="0" sID="001326">
       <EDID>DLC01Lair_HolotapeOnly_ElevatorAnnouncer</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Announcer</Source>
       <Dest>Hlasatel</Dest>
     </String>
-    <String List="0" sID="001391" Partial="1">
+    <String List="0" sID="001391">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>RB-2851 SECURITY PROTOCOL 074&#xD;
@@ -1026,7 +1026,7 @@ Správci zařízení se doporučuje brát tento poplach jako příležitost k te
 &#xD;
 Bezpečnostní týmy musí provést metodickou čistku výzkumného křídla před vydáním oznámení „Čistý vzduch“ a před ukončením tohoto poplachu. Správce musí předložit zprávu o incidentu RM-13, stejně jako žádost o výměnu testovaných osob Armádnímu výboru pro dohled nad roboty.</Dest>
     </String>
-    <String List="0" sID="0013A2" Partial="1">
+    <String List="0" sID="0013A2">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>***ERROR***&#xD;
@@ -1038,13 +1038,13 @@ Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Z
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="0013AB" Partial="1">
+    <String List="0" sID="0013AB">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>(219): Omega Protocol</Source>
       <Dest>(219): Omega protokol</Dest>
     </String>
-    <String List="0" sID="0013CD" Partial="1">
+    <String List="0" sID="0013CD">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>RB-2851 SECURITY PROTOCOL 219&#xD;
@@ -1072,7 +1072,7 @@ V případě nedostupnosti komunikace během čtyřiadvaceti (24) hodin od LOC, 
 &#xD;
 Pokud nebude komunikace obnovena do (30) hodin od LOC, úřadující správce aktivuje uzamčení v režimu Omega. To poskytne deseti (10) minutové okno pro evakuaci personálu zařízení. Tato evakuace by měla být považována za trvalou. Jakmile se zahájí, uzamčení může být ukončeno pouze pomocí dálkového povolení Armádního výboru pro dohled nad roboty.</Dest>
     </String>
-    <String List="0" sID="0013DB" Partial="1">
+    <String List="0" sID="0013DB">
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
       <REC>TERM:BTXT</REC>
       <Source>The ROBCO Model E-330 is the most reliable client terminal ever developed. When connected to a ROBCO-brand Mainframe, your 33   is c p  le of ov r 100  @$  #%5 \\¤ &#xD;
@@ -1096,7 +1096,7 @@ ERR 0x00001001: Kritická chyba.&#xD;
 &#xD;
 Prosím, obraťte se na ROBCO certifikovaného technika pro podporu.</Dest>
     </String>
-    <String List="0" sID="0013DE" Partial="1">
+    <String List="0" sID="0013DE">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>RB-2851 SECURITY PROTOCOL 045&#xD;
@@ -1120,19 +1120,19 @@ Bezpečnostní týmy eskortují podezřelé členy jednotlivých pracovišt do v
 &#xD;
 Jestliže budou nalezeni nějací agenti, správce je oprávněn k jejich podrobení všemi dostupnými prostředky a může je poskytnout výzkumného personálu k experimentování. Po dokončení výslechů, může administrátor tento poplach ukončit dle svého uvážení.</Dest>
     </String>
-    <String List="0" sID="0013E7" Partial="1">
+    <String List="0" sID="0013E7">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>(045): Class-V Counter-Espionage Procedure</Source>
       <Dest>(045): Třída-V kontrašpionážní procedury</Dest>
     </String>
-    <String List="0" sID="00141C" Partial="1">
+    <String List="0" sID="00141C">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>(074): Gamma-IX Security Alert</Source>
       <Dest>(074): bezpečnostní poplach Gama-IX</Dest>
     </String>
-    <String List="0" sID="0019B0" Partial="1">
+    <String List="0" sID="0019B0">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Store detailed information for your contacts. Add that personal touch to your business!&#xD;
@@ -1210,7 +1210,7 @@ Sanchezová, Julianna&#xD;
  Poznámky:&#xD;
   Velmi profesionální. Nesnáší pomlouvání.</Dest>
     </String>
-    <String List="0" sID="0019C6" Partial="1">
+    <String List="0" sID="0019C6">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Keep track of significant dates with our customizable calendar. Never forget a birthday or anniversary again!&#xD;
@@ -1236,7 +1236,7 @@ Sanchezová, Julianna&#xD;
 16: Návštěva lékaře&#xD;
 25: Díkůvzdání</Dest>
     </String>
-    <String List="0" sID="0019DF" Partial="1">
+    <String List="0" sID="0019DF">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>New messaging system will automatically time stamp coporate intramail and confirm when the message is opened. Say goodbye to the old excuses!&#xD;
@@ -1262,7 +1262,7 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
 &#xD;
 - Albert</Dest>
     </String>
-    <String List="0" sID="0019E3" Partial="1">
+    <String List="0" sID="0019E3">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Our Daily Itinerary will pull directly from your messages and calendar. It practically generates itself!&#xD;
@@ -1296,19 +1296,19 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
             - COO&#xD;
             - CTO</Dest>
     </String>
-    <String List="0" sID="001A12" Partial="1">
+    <String List="0" sID="001A12">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Robot Storage Control Terminal</Source>
       <Dest>Ovládací terminál skladiště robotů</Dest>
     </String>
-    <String List="0" sID="001A20" Partial="1">
+    <String List="0" sID="001A20">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Robot Storage Control Terminal</Source>
       <Dest>RB-2851: Řídicí terminál skladu robotů</Dest>
     </String>
-    <String List="0" sID="001A44" Partial="1">
+    <String List="0" sID="001A44">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -1320,7 +1320,7 @@ Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="001A4B" Partial="1">
+    <String List="0" sID="001A4B">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC id="0">TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -1338,25 +1338,25 @@ Kritické selhání sítě. Prosím, obraťte se na technickou podporu.&#xD;
 &#xD;
 </Dest>
     </String>
-    <String List="0" sID="001A82" Partial="1">
+    <String List="0" sID="001A82">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008112-AB</Source>
       <Dest>Požadavek údržby č. 09008112-AB</Dest>
     </String>
-    <String List="0" sID="001A87" Partial="1">
+    <String List="0" sID="001A87">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="3">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001A8F" Partial="1">
+    <String List="0" sID="001A8F">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008777-AC</Source>
       <Dest>Požadavek údržby č. 09008777-AC</Dest>
     </String>
-    <String List="0" sID="001A95" Partial="1">
+    <String List="0" sID="001A95">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Maintenance Issue 09007889-AB&#xD;
@@ -1370,7 +1370,7 @@ Po implantaci kupole, začal mozek tohoto subjektu vykazovat fyzické změny. Du
 &#xD;
 Ukázalo se, že bio-gel byl znečištěný roztokem kyseliny sírové a lešticí látky z kopule a navzájem zreagovaly. Bohužel tento subjekt je totálně ztracen. Budeme to muset prostě odepsat jako nehodu a okamžitě vyměnit lešticí prostředky.</Dest>
     </String>
-    <String List="0" sID="001AA8" Partial="1">
+    <String List="0" sID="001AA8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Maintenance Issue 09008112-AB&#xD;
@@ -1384,19 +1384,19 @@ Máme i nadále problémy s udržováním soudržnosti mezi neurálním rozhran�
 &#xD;
 Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům mozků ve sklenici. To sníží množství životních příznaků podpůrných subsystémů, stejně jako to sníží výrobní čas téměř o třetinu. Předložím zítra svá zjištění ve Washingtonu.</Dest>
     </String>
-    <String List="0" sID="001ABB" Partial="1">
+    <String List="0" sID="001ABB">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001ABD" Partial="1">
+    <String List="0" sID="001ABD">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Maintenance Issue 09009113-AR</Source>
       <Dest>Požadavek údržby č. 09009113-AR</Dest>
     </String>
-    <String List="0" sID="001AD8" Partial="1">
+    <String List="0" sID="001AD8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Maintenance Issue 09008777-AC&#xD;
@@ -1414,13 +1414,13 @@ Další konkrétní problém je nicméně znepokojující. Podle terénního už
 &#xD;
 Projel jsem každý čtvereční palec vadných jednotek a nenašel nic poškozeného. Budu muset předat tenhle problém na výzkumné oddělení a uvidíme, co z toho vyklepou. Alespoň v tomhle má naše oddělení jasno.</Dest>
     </String>
-    <String List="0" sID="001AE1" Partial="1">
+    <String List="0" sID="001AE1">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Chief Engineer's Terminal</Source>
       <Dest>Terminál hlavního inženýra</Dest>
     </String>
-    <String List="0" sID="001AE2" Partial="1">
+    <String List="0" sID="001AE2">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -1430,31 +1430,31 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
     </String>
-    <String List="0" sID="001AE3" Partial="1">
+    <String List="0" sID="001AE3">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Maintenance Issue 09007889-AB</Source>
       <Dest>Požadavek údržby č. 09007889-AB</Dest>
     </String>
-    <String List="0" sID="001AE4" Partial="1">
+    <String List="0" sID="001AE4">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001AE5" Partial="1">
+    <String List="0" sID="001AE5">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Engineering - Thomas Harkin</Source>
       <Dest>RB-2851: Inženýrství - Thomas Harkin</Dest>
     </String>
-    <String List="0" sID="001AE7" Partial="1">
+    <String List="0" sID="001AE7">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001AEA" Partial="1">
+    <String List="0" sID="001AEA">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Maintenance Issue 09009113-AR&#xD;
@@ -1468,13 +1468,13 @@ Jeden z robomozků vyjel z linky s „vadným“ hlasovým modulem. Když mluví
 &#xD;
 Nemám tušení, co způsobilo takový směšný problém, ale pokud byste se mě na to zeptali, jednomu z kluků nahoře to přišlo celkem zábavné.</Dest>
     </String>
-    <String List="0" sID="001AEE" Partial="1">
+    <String List="0" sID="001AEE">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="1">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001AF4" Partial="1">
+    <String List="0" sID="001AF4">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Personal Log Entry: Lt. Justin Green, U.S. Army Robotics Division&#xD;
@@ -1492,19 +1492,19 @@ Jsem rád, že oddělení hlásí zpět účinnost sto procent. Teď, když je �
 &#xD;
 Podrž si svojí trubku a vykuř si, General Atomics.</Dest>
     </String>
-    <String List="0" sID="001AF6" Partial="1">
+    <String List="0" sID="001AF6">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="2">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001AFD" Partial="1">
+    <String List="0" sID="001AFD">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>0D77-HR090</Source>
       <Dest>0D77-HR090</Dest>
     </String>
-    <String List="0" sID="001AFF" Partial="1">
+    <String List="0" sID="001AFF">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Personal Log Entry: Lt. Justin Green, U.S. Army Robotics Division&#xD;
@@ -1526,13 +1526,13 @@ Pak tu byla Sara Wolliczeková. Měla být pýchou G.A. a radostí tady dole. Ch
 &#xD;
 Jak může soukromá společnost něco dělat bez disciplíny, to se asi nikdy nedozvím.</Dest>
     </String>
-    <String List="0" sID="001B00" Partial="1">
+    <String List="0" sID="001B00">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>0D77-HR078</Source>
       <Dest>0D77-HR078</Dest>
     </String>
-    <String List="0" sID="001B03" Partial="1">
+    <String List="0" sID="001B03">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Personal Log Entry: Lt. Justin Green, U.S. Army Robotics Division&#xD;
@@ -1550,7 +1550,7 @@ Mám dnes přistoupit ke spuštění výrobní kontroly. Ten idiot od General At
 &#xD;
 Chystám se uvést vše do původního stavu a ukázat těm civilistům, jak probíhá ta pravá americká vojenská šou.</Dest>
     </String>
-    <String List="0" sID="001B0A" Partial="1">
+    <String List="0" sID="001B0A">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***WARNING***&#xD;
@@ -1560,37 +1560,37 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
     </String>
-    <String List="0" sID="001B0C" Partial="1">
+    <String List="0" sID="001B0C">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Loading...</Source>
       <Dest>Načítání...</Dest>
     </String>
-    <String List="0" sID="001B0D" Partial="1">
+    <String List="0" sID="001B0D">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>0D77-HR056</Source>
       <Dest>0D77-HR056</Dest>
     </String>
-    <String List="0" sID="001B12" Partial="1">
+    <String List="0" sID="001B12">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Production Control Terminal</Source>
       <Dest>Ovládací terminál výroby</Dest>
     </String>
-    <String List="0" sID="001B1F" Partial="1">
+    <String List="0" sID="001B1F">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Production Control</Source>
       <Dest>RB-2851: Produkční kontrola</Dest>
     </String>
-    <String List="0" sID="001B55" Partial="1">
+    <String List="0" sID="001B55">
       <EDID>DLC01Lair_DeconArchHazard_Small</EDID>
       <REC>HAZD:FULL</REC>
       <Source>Decontamination Mist</Source>
       <Dest>Dekontaminační pára</Dest>
     </String>
-    <String List="1" sID="00117F" Partial="1">
+    <String List="1" sID="00117F">
       <EDID>DLC01Lair_RobCo_ServiceTerminalNote</EDID>
       <REC>BOOK:DESC</REC>
       <Source>&lt;font size='16'&gt;&lt;font face='$MAIN_Font'&gt;RobCo Sales &amp; Service&#xD;
