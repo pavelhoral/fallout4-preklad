@@ -47,7 +47,7 @@
       <EDID>DLC05WorkshopWarehouseKit</EDID>
       <REC>FLST:FULL</REC>
       <Source>Warehouse Kit</Source>
-      <Dest>Sada skladiště </Dest>
+      <Dest>Sada skladiště</Dest>
     </String>
     <String List="0" sID="00000B">
       <EDID>DLC05WorkshopSwitchLogicGateOR</EDID>
@@ -1603,7 +1603,7 @@ NAND: Transmits power unless all inputs have power.&#xD;
 XNOR: Transmits power when all inputs are the same (powered or unpowered).</Source>
       <Dest>Pro vytváření složitějších elektrických obvodů použij logická hradla. Elektrické vodiče je k hradlům možné připojit na pozici vstupu nebo výstupu. Logická hradla mohou být dvou základních kategorií:&#xD;
 &#xD;
-AND/OR/XOR: Tato hradla fungují jako přepínače - přenášejí, nebo nepřenášejí elektřinu v závislosti na kombinaci napájení svých vstupů.&#xD;
+AND/OR/XOR: Tato hradla fungují jako přepínače - přenášejí nebo nepřenášejí elektřinu v závislosti na kombinaci napájení svých vstupů.&#xD;
 &#xD;
 * AND: Přenáší elektřinu, pokud jsou všechny vstupy pod napětím.&#xD;
 * OR: Přenáší elektřinu, pokud je libovolný vstup pod napětím.&#xD;
@@ -1623,7 +1623,7 @@ NOT/NAND/NOR/XNOR: Tato hradla přenáší elektřinu jen v případě, že jsou
 The builder will continue to create new objects as long as it has power and the required objects or components in its inventory.&#xD;
 &#xD;
 To change what a builder creates, use a Terminal connected to the same power grid.</Source>
-      <Dest>Výrobna se používá k vytváření nových předmětů ze součástek ve vlastním inventáři. Součástky do ní můžeš vkládat buď napřímo, nebo ji lze automaticky plnit pomocí připojemého pásového dopravníku.&#xD;
+      <Dest>Výrobna se používá k vytváření nových předmětů ze součástek ve vlastním inventáři. Součástky do ní můžeš vkládat buď napřímo nebo ji lze automaticky plnit pomocí připojeného pásového dopravníku.&#xD;
 &#xD;
 Výrobna bude vytvářet nové položky tak dlouho, dokud bude mít elektřinu a požadované komponenty ve vlastním inventáři.&#xD;
 &#xD;

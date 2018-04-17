@@ -47,7 +47,7 @@
       <EDID>DLC05RecipeFireworks</EDID>
       <REC>KYWD:FULL</REC>
       <Source>FIREWORKS</Source>
-      <Dest>OHŇOSTROJ</Dest>
+      <Dest>OHŇOSTROJE</Dest>
     </String>
     <String List="0" sID="000442">
       <EDID>DLC05FireworkShellPeonyGreen</EDID>
@@ -107,7 +107,7 @@
       <EDID>DLC05FireworkShellWeatherRain</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Rain</Source>
-      <Dest>Kulová puma měnicí počasí - déšť</Dest>
+      <Dest>Kulová puma měnící počasí - déšť</Dest>
     </String>
     <String List="0" sID="00044E">
       <EDID>DLC05ScaffPlatform2x2A</EDID>
@@ -143,7 +143,7 @@
       <EDID>DLC05FireworkShellWeatherRadstorm</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Radstorm</Source>
-      <Dest>Kulová puma měnicí počasí - radiační bouře</Dest>
+      <Dest>Kulová puma měnící počasí - radiační bouře</Dest>
     </String>
     <String List="0" sID="000454">
       <EDID>DLC05ScaffPlatform1x1B</EDID>
@@ -197,7 +197,7 @@
       <EDID>DLC05FireworkShellWeatherClear</EDID>
       <REC>MISC:FULL</REC>
       <Source>Weather Change Shell - Clear</Source>
-      <Dest>Kulová puma měnicí počasí - jasno</Dest>
+      <Dest>Kulová puma měnící počasí - jasno</Dest>
     </String>
     <String List="0" sID="00045F">
       <EDID>DLC05ScaffRampB</EDID>
@@ -1987,7 +1987,7 @@ Zvolte výrobní plán:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="9">TERM:ITXT</REC>
       <Source>Weather Change Shell - Radstorm</Source>
-      <Dest>Kulová puma měnicí počasí - radiační bouře</Dest>
+      <Dest>Kulová puma měnící počasí - radiační bouře</Dest>
     </String>
     <String List="0" sID="0006F7">
       <EDID>DLC05WorkshopBuilderExplosives02</EDID>
@@ -2023,7 +2023,7 @@ Zvolte výrobní plán:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="10">TERM:ITXT</REC>
       <Source>Weather Change Shell - Rain</Source>
-      <Dest>Kulová puma měnicí počasí - déšť</Dest>
+      <Dest>Kulová puma měnící počasí - déšť</Dest>
     </String>
     <String List="0" sID="0006FC">
       <EDID>DLC05nativeWorkshopBuilderExplosives01TerminalSubMenu</EDID>
@@ -2077,7 +2077,7 @@ Zvolte výrobní plán:&#xD;
       <EDID>DLC05nativeWorkshopBuilderExplosives02TerminalSubMenu</EDID>
       <REC id="8">TERM:ITXT</REC>
       <Source>Weather Change Shell - Clear</Source>
-      <Dest>Kulová puma měnicí počasí - jasno</Dest>
+      <Dest>Kulová puma měnící počasí - jasno</Dest>
     </String>
     <String List="0" sID="000704">
       <EDID>DLC05nativeWorkshopBuilderTerminalSubMenu</EDID>
@@ -6734,13 +6734,13 @@ Nastavit zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_StationaryGun</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Stationary mounted pipe gun which fires while powered.</Source>
-      <Dest>Upevněná stacionární trubková zbraň, která stříli po připojení elektřiny.</Dest>
+      <Dest>Upevněná stacionární trubková zbraň, která střílí po připojení elektřiny.</Dest>
     </String>
     <String List="1" sID="000802">
       <EDID>DLC05workshop_co_BallTrackStraightTrigger01</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Turns power on or off each time it is triggered.</Source>
-      <Dest>Při každé aktivaci zapne nebo nebo naopak vypne napájení.</Dest>
+      <Dest>Při každé aktivaci zapne nebo naopak vypne napájení.</Dest>
     </String>
     <String List="1" sID="000803">
       <EDID>DLC05workshop_co_WorkshopBuilderFood01</EDID>
@@ -6770,7 +6770,7 @@ Nastavit zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_WorkshopBuilderExplosives02</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Builds firework shells from its inventory when powered. Use a connected terminal to set what to build.</Source>
-      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři patrony ohňostroje. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
+      <Dest>Po připojení elektřiny vyrábí z věcí v inventáři kulové pumy ohňostroje. Pro nastavení výrobního plánu použij připojený terminál.</Dest>
     </String>
     <String List="1" sID="000808">
       <EDID>DLC05workshop_co_BallTrackSplit01</EDID>
@@ -6824,7 +6824,7 @@ Nastavit zvuk reproduktoru - exploze:&#xD;
       <EDID>DLC05workshop_co_StationaryGunPaintball</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Stationary mounted paintball gun which fires while powered.</Source>
-      <Dest>Upevněná stacionární paintballová zbraň, která stříli po připojení elektřiny.</Dest>
+      <Dest>Upevněná stacionární paintballová zbraň, která střílí po připojení elektřiny.</Dest>
     </String>
     <String List="1" sID="000A03">
       <EDID>DLC05workshop_co_BallTrackStraightTrigger02</EDID>
