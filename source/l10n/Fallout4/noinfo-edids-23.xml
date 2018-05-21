@@ -3735,7 +3735,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeRevolver_Muzzle_Suppressor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Suppresses sound from firing. Exceptional per-shot recoil. Improved recoil control. Poor range.</Source>
-      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="012ACB">
       <EDID>mod_PipeBoltAction_Scope_ScopeLong_Recon</EDID>
@@ -3747,13 +3747,13 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeRevolver_Muzzle_Compensator</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved per-shot recoil. Improved recoil control. Reduced range.</Source>
-      <Dest>Lepší zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
+      <Dest>Menší zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
     </String>
     <String List="1" sID="012CF0">
       <EDID>mod_PipeGun_Muzzle_MuzzleBrake</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional recoil control. Better per-shot recoil. Inferior range.</Source>
-      <Dest>Výjimečná ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Výjimečná ovladatelnost zpětného rázu. Menší zpětný ráz jednotlivých ran. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="012D37">
       <EDID>MovingTarget01</EDID>
@@ -3957,7 +3957,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_SubmachineGun_Muzzle_Compensator</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved per-shot recoil. Improved recoil control. Reduced range.</Source>
-      <Dest>Lepší zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
+      <Dest>Menší zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
     </String>
     <String List="1" sID="01BC48">
       <EDID>mod_PipeRevolver_Muzzle_BayonetSmall</EDID>
@@ -3981,7 +3981,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeGun_Muzzle_Suppressor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Suppresses sound from firing. Exceptional per-shot recoil. Improved recoil control. Poor range.</Source>
-      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="01C513">
       <EDID>mod_PipeGun_Grip_StockRecoil</EDID>
@@ -4005,7 +4005,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeBoltAction_Muzzle_Suppressor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Suppresses sound from firing. Exceptional per-shot recoil. Improved recoil control. Poor range.</Source>
-      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="01C525">
       <EDID>mod_PipeGun_Grip_Standard</EDID>
@@ -4179,13 +4179,13 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeBoltAction_Muzzle_MuzzleBrake</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional recoil control. Better per-shot recoil. Inferior range.</Source>
-      <Dest>Výjimečná ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Výjimečná ovladatelnost zpětného rázu. Menší zpětný ráz jednotlivých ran. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="01C8FF">
       <EDID>mod_PipeRevolver_Muzzle_MuzzleBrake</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional recoil control. Better per-shot recoil. Inferior range.</Source>
-      <Dest>Výjimečná ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Výjimečná ovladatelnost zpětného rázu. Menší zpětný ráz jednotlivých ran. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="01C934">
       <EDID>mod_PipeBoltAction_Scope_ScopeMedium</EDID>
@@ -4527,7 +4527,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeGun_Muzzle_Compensator</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved per-shot recoil. Improved recoil control. Reduced range.</Source>
-      <Dest>Lepší zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
+      <Dest>Menší zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
     </String>
     <String List="1" sID="023B37">
       <EDID>mod_PipeRevolver_Grip_Better1</EDID>
@@ -4563,7 +4563,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_PipeBoltAction_Muzzle_Compensator</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Improved per-shot recoil. Improved recoil control. Reduced range.</Source>
-      <Dest>Lepší zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
+      <Dest>Menší zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Snížený dostřel.</Dest>
     </String>
     <String List="1" sID="026699">
       <EDID>mod_PipeGun_Receiver_Lighter</EDID>
@@ -5025,7 +5025,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_SubmachineGun_Muzzle_Suppressor</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Suppresses sound from firing. Exceptional per-shot recoil. Improved recoil control. Poor range.</Source>
-      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz pro jednotlivé rány. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Potlačuje zvuk střelby. Výjimečně malý zpětný ráz jednotlivých ran. Lepší ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="03084E">
       <EDID>mod_SubmachineGun_Receiver_Automatic1_and_MoreDamage1_and_ArmorPiercing</EDID>
@@ -5085,7 +5085,7 @@ STAV: uzamčeno</Dest>
       <EDID>mod_SubmachineGun_Muzzle_MuzzleBrake</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Exceptional recoil control. Better per-shot recoil. Inferior range.</Source>
-      <Dest>Výjimečná ovladatelnost zpětného rázu. Špatný dostřel.</Dest>
+      <Dest>Výjimečná ovladatelnost zpětného rázu. Menší zpětný ráz jednotlivých ran. Špatný dostřel.</Dest>
     </String>
     <String List="1" sID="0309B8">
       <EDID>mod_SubmachineGun_Receiver_Automatic2</EDID>
