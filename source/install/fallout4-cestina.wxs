@@ -101,6 +101,30 @@
                 <RemoveFile Id="DLCworkshop01_en.DLSTRINGS" Name="DLCworkshop01_en.DLSTRINGS" On="both" />
                 <File Id="DLCworkshop01_en.DLSTRINGS" KeyPath="yes" />
             </Component>
+            <Component Id="DLCworkshop02_en.STRINGS" Guid="35A6EAF0-D0DC-43D0-A1F2-A4A78980BEBB">
+                <RemoveFile Id="DLCworkshop02_en.STRINGS" Name="DLCworkshop02_en.STRINGS" On="both" />
+                <File Id="DLCworkshop02_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop02_en.ILSTRINGS" Guid="66D1EFAA-C1B0-4B69-B717-8709D8247C79">
+                <RemoveFile Id="DLCworkshop02_en.ILSTRINGS" Name="DLCworkshop02_en.ILSTRINGS" On="both" />
+                <File Id="DLCworkshop02_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop02_en.DLSTRINGS" Guid="BB8D0F6D-F0DE-42DD-9854-DEBA60848A4D">
+                <RemoveFile Id="DLCworkshop02_en.DLSTRINGS" Name="DLCworkshop02_en.DLSTRINGS" On="both" />
+                <File Id="DLCworkshop02_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop03_en.STRINGS" Guid="6C00489D-4ECD-4FA1-B1AA-CF435DD0E08F">
+                <RemoveFile Id="DLCworkshop03_en.STRINGS" Name="DLCworkshop03_en.STRINGS" On="both" />
+                <File Id="DLCworkshop03_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop03_en.ILSTRINGS" Guid="EB4758CF-34FA-4BD0-AC49-A41EB62E12FF">
+                <RemoveFile Id="DLCworkshop03_en.ILSTRINGS" Name="DLCworkshop03_en.ILSTRINGS" On="both" />
+                <File Id="DLCworkshop03_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCworkshop03_en.DLSTRINGS" Guid="EFA1E609-2554-4A37-B4CE-F17C95F14C13">
+                <RemoveFile Id="DLCworkshop03_en.DLSTRINGS" Name="DLCworkshop03_en.DLSTRINGS" On="both" />
+                <File Id="DLCworkshop03_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
             <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
@@ -123,6 +147,12 @@
             <ComponentRef Id="DLCworkshop01_en.STRINGS" />
             <ComponentRef Id="DLCworkshop01_en.ILSTRINGS" />
             <ComponentRef Id="DLCworkshop01_en.DLSTRINGS" />
+            <ComponentRef Id="DLCworkshop02_en.STRINGS" />
+            <ComponentRef Id="DLCworkshop02_en.ILSTRINGS" />
+            <ComponentRef Id="DLCworkshop02_en.DLSTRINGS" />
+            <ComponentRef Id="DLCworkshop03_en.STRINGS" />
+            <ComponentRef Id="DLCworkshop03_en.ILSTRINGS" />
+            <ComponentRef Id="DLCworkshop03_en.DLSTRINGS" />
             <ComponentRef Id="Fallout4_Cestina.html" />
             <ComponentRef Id="Fallout4_Cestina.png" />
         </Feature>
@@ -134,21 +164,28 @@
             <Publish Dialog="ExitDialog" Control="Finish" Event="DoAction" Value="OpenReadme">NOT Installed</Publish>
         </UI>
 
+        <!-- Read-only flag removal -->
+        <SetProperty Id="RemoveReadOnly" Before="RemoveReadOnly" Sequence="execute"
+                Value="&quot;[WindowsFolder]System32\attrib.exe&quot; -r &quot;[FALLOUTCONFIG]&quot;" />
+        <CustomAction Id="RemoveReadOnly" BinaryKey="WixCA" DllEntry="WixQuietExec" Execute="deferred"
+                Return="check" Impersonate="no" />
+
         <!-- Custom install sequence -->
         <InstallExecuteSequence>
             <RemoveExistingProducts Before="InstallInitialize" />
+            <Custom Action="RemoveReadOnly" After="InstallInitialize" />
         </InstallExecuteSequence>
 
         <!-- Define installer icon -->
-          <Icon Id="Icon" SourceFile="installer-icon.ico" />
+        <Icon Id="Icon" SourceFile="installer-icon.ico" />
 
-          <!-- Configure properties for add/remove programs -->
-          <Property Id="ARPPRODUCTICON" Value="Icon" />
-          <Property Id="ARPHELPLINK" Value="$(var.ProductUrl)" />
+        <!-- Configure properties for add/remove programs -->
+        <Property Id="ARPPRODUCTICON" Value="Icon" />
+        <Property Id="ARPHELPLINK" Value="$(var.ProductUrl)" />
 
-          <!-- Define UI properties -->
-          <WixVariable Id="WixUIBannerBmp" Value="installer-banner.bmp" />
-          <WixVariable Id="WixUIDialogBmp" Value="installer-header.bmp" />
+        <!-- Define UI properties -->
+        <WixVariable Id="WixUIBannerBmp" Value="installer-banner.bmp" />
+        <WixVariable Id="WixUIDialogBmp" Value="installer-header.bmp" />
 
         <!-- Include UI configuration -->
         <?include installer-simpleui.wxi ?>
