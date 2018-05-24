@@ -1105,7 +1105,7 @@ Jádro motoru pracuje v režimu nouzového napájení. Pro úsporu energie byly 
       <EDID>BoS_DN130_GladiusTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Gladius Personnel Terminal</Source>
-      <Dest>Terminál členů Gladiusu</Dest>
+      <Dest>Terminál posádky Gladius</Dest>
     </String>
     <String List="0" sID="01BEDA">
       <EDID>BeerGwinnettAle</EDID>
@@ -2303,7 +2303,7 @@ Je možné přesměrovat napájení mimo postiženou oblast. Chcete aktivovat au
       <EDID>BoS_DN130_GladiusTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Gladius Personnel Terminal</Source>
-      <Dest>Terminál členů Gladiusu</Dest>
+      <Dest>Terminál posádky Gladius</Dest>
     </String>
     <String List="0" sID="0269DD">
       <EDID>BoS_DN084_Terminal_MassFusionMRReactorControl</EDID>
@@ -2557,7 +2557,7 @@ Myslel jsem, že tohle je přesně důvod, proč jste opustil Poseidon. Karl.</D
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Gladius Personnel Status</Source>
-      <Dest>Stav členů Gladiusu</Dest>
+      <Dest>Stav členů posádky</Dest>
     </String>
     <String List="0" sID="028D6F">
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
@@ -2567,13 +2567,13 @@ Registration: KN-100K&#xD;
 Status: Deceased</Source>
       <Dest>Rytíř Keane&#xD;
 Registrace: KN-100K&#xD;
-Stav: zesnulý</Dest>
+Stav: mrtvý</Dest>
     </String>
     <String List="0" sID="028D74">
       <EDID>BoS_DN130_GladiusTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Gladius Personnel Status</Source>
-      <Dest>Stav členů Gladiusu</Dest>
+      <Dest>Stav členů posádky</Dest>
     </String>
     <String List="0" sID="028D81">
       <EDID>BoS_DN130_GladiusTerminalSub01</EDID>
@@ -2587,7 +2587,7 @@ Soon after, my squad was ambushed by Raiders. Knight Keane's Power Armor was des
 &#xD;
 Po několika měsících moje četa překročila hranici a vstoupila do Commonwealthu. Rozhodli jsme se okamžitě prohledat bostonský region s úmyslem najít a zajistit budovu, kterou budeme používat jako velitelství průzkumu.&#xD;
 &#xD;
-Brzy potom byla moje četa přepadena nájezdníky. Energozbroj rytíře Keanea byla zničena a přišli jsme o nějaké zásoby. Naštěstí jsme byli schopni odrazit útok a pokračovat v naší misi.</Dest>
+Brzy nato byla moje četa přepadena nájezdníky. Energozbroj rytíře Keanea byla zničena a přišli jsme o část zásob. Naštěstí jsme byli schopni útok odrazit a pokračovat v naší misi.</Dest>
     </String>
     <String List="0" sID="028DAC">
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
@@ -2597,7 +2597,7 @@ Registration: DW-112KS&#xD;
 Status: Deceased</Source>
       <Dest>Rytíř-seržant Dawes&#xD;
 Registrace: DW-112KS&#xD;
-Stav: zesnulý</Dest>
+Stav: mrtvý</Dest>
     </String>
     <String List="0" sID="028E05">
       <EDID>BoS_DN130_GladiusTerminalSub01</EDID>
@@ -2619,7 +2619,7 @@ Stav: zesnulý</Dest>
 We've discovered a secure building in Cambridge that appears to be a former police station. We were able to clear the building and recover a good deal of supplies and ammunition from pre-war caches inside. According to Scribe Haylen, this location is structurally sound, and highly defensible. I've decided to establish our headquarters here for the time being.</Source>
       <Dest>Záznam 022287-2&#xD;
 &#xD;
-Objevili jsme bezpečnou budovu v Cambridge, která jak se zdá, bývala policejní stanice. Byli jsme schopni budovu vyčistit a získat hodně zásob a munice z předválečných skrýší uvnitř. Podle písařky Haylenové je tahle lokace konstrukčně spolehlivá a velmi dobře udržitelná. Rozhodli jsme se založit zde prozatím velitelství.</Dest>
+Objevili jsme bezpečnou budovu v Cambridge, která jak se zdá, bývala policejní stanice. Objekt se nám podařilo vyčistit a u toho i získat zásoby a munici z předválečných skrýší uvnitř. Podle písařky Haylenové je stavba v dobrém stavu a s dobrým obranným potenciálem. Rozhodl jsem se zde zřídit naše prozatimní velitelství.</Dest>
     </String>
     <String List="0" sID="028E41">
       <EDID>BoS_DN130_GladiusTerminalSub01</EDID>
@@ -2637,9 +2637,9 @@ We sustained another casualty today at grid reference A113. This area contains t
 The airport was almost completely abandoned, but Fort Strong turned out to be infested by Super Mutants. We were hoping to resupply at the armory there, but Knight-Sergeant Dawes was killed. This is the second location I've had to order a retreat from since we arrived, and the third member of my team to die. I recommend a complete bombardment of this location in the future.</Source>
       <Dest>072287-5&#xD;
 &#xD;
-Dnes jsme utrpěli další zranění na souřadnicích A113. Tahle oblast obsahuje ruiny bostonského mezinárodního letiště a Fort Strong.&#xD;
+Dnes jsme utrpěli další ztrátu na souřadnicích A113. V této oblasti se nachází ruiny bostonského mezinárodního letiště a Fort Strong.&#xD;
 &#xD;
-Letiště bylo skoro úplně opuštěné, ale Fort Strong se ukázal zamořený supermutanty. Doufali jsme, že doplníme zásoby ve zbrojnici, ale rytíř-seržant Dawes byl zabit. To je druhá oblast, ze které jsem byl nucen zavelet ústup od našeho příjezdu a třetí člen mého týmu, co zemřel. Do budoucna doporučuji celkové bombardování této oblasti.</Dest>
+Letiště bylo téměř úplně opuštěné, ale Fort Strong se ukázal zamořený supermutanty. Doufali jsme, že doplníme zásoby ve zbrojnici, ale rytíř-seržant Dawes byl zabit. To je od našeho příjezdu již druhá oblast, ze které jsem byl nucen zavelet ústup, a třetí člen mého týmu, co zemřel. Do budoucna doporučuji plošné bombardování celé oblasti.</Dest>
     </String>
     <String List="0" sID="028E7E">
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
@@ -2671,9 +2671,9 @@ Stav: aktivní</Dest>
 Proceed to the area designated as the "Commonwealth" to perform a standard Long Range Recon Operation (LRRO). Report any unusual activity using standard long-range communications to Scabbard. Extraction time undetermined.&#xD;
 &#xD;
 Paladin Danse (DN-407P)</Source>
-      <Dest>Současné rozkazy průzkumné čety Gladius jsou následující:&#xD;
+      <Dest>Současné rozkazy průzkumné čety Gladius jsou:&#xD;
 &#xD;
-Přesunout se k oblasti označené jako „Commonwealth“ a provést standardní průzkumnou operaci. Nahlásit každou neobvyklou aktivitu Scabbardovi použitím standardních komuninačních metod dalekého dosahu. Datum vyzvednutí neurčený.&#xD;
+Přesunout se do oblasti označené jako „Commonwealth“ a zahájit standardní předsunutý operační průzkum (POP). Nahlásit Scabbardovi přes standardní dálkové spojení jakoukoliv neobvyklou aktivitu. Datum odchodu blíže neurčeno.&#xD;
 &#xD;
 Paladin Danse (DN-407P)</Dest>
     </String>
@@ -2685,7 +2685,7 @@ Paladin Danse (DN-407P)</Dest>
 Scribe Haylen has been picking up unusual energy readings on her instruments. She claims that they are on an extreme high-band spectrum frequency, which makes it highly unlikely to be pre-war in origin. The readings are also highly sporadic, only appearing for very short amounts of time and in very specific locations. The decay on these signals is severe, and they seem to disappear off Haylen's instruments after several hours. We don't have the equipment necessary to track these readings, so we're attempting to use triangulation to discover their point of origin.</Source>
       <Dest>102287-6&#xD;
 &#xD;
-Písařka Haylenová zachytila neobvyklé energetické údaje na svých zařízeních. Tvrdí, že jsou na extrémně širokopásmové frekcenci, tedy je velice nepravděpodobné, že pocházejí z předválečné doby. Údaje jsou také hodně ojedinělé, objevují se jen na krátký čas a ve velmi specifických lokacích. Rozpad těchto signálů je velký a zdá se, že zmizí z Hayleniných přístrojů po několika hodinách. Nemáme zařízení nutné pro sledování těchto údajů, takže se snažíme využít triangulace pro určení zdroje.</Dest>
+Písařka Haylenová na svých přístrojích několikrát zachytila neobvyklé energetické hodnoty. Tvrdí, že jde o vysílání v rámci extrémně vysokofrekvenčního pásma, a původ v předválečných technologiích je tak velmi nepravděpodobný. Naměřené hodnoty se objevují sporadicky, na krátký čas a pouze na specifických místech. Signál je rychle rozptýlen a z Hayleniných přístrojů po pár hodinách zcela mizí. Nemáme zařízení potřebné pro vysledování zdroje vysílání, takže se snažíme využít triangulace.</Dest>
     </String>
     <String List="0" sID="028EE1">
       <EDID>BoS_DN130_GladiusTerminalSub01</EDID>
@@ -2697,9 +2697,9 @@ After Haylen identifed the Corvega Factory in Lexington as a possible site conta
 As we approached, our squad was hit with gunfire. Knight Worwick was wounded, so I decided to fall back to Cambridge. During our retreat, Knight Brach stepped on a landmine. Scribe Haylen attempted to treat him, but Brach succumbed to his wounds and died. Let it be noted for the record that Haylen is to be commended for her efforts.</Source>
       <Dest>042287-3&#xD;
 &#xD;
-Poté, co Haylenová identifikovala montážní závod Corvegy v Lexingtonu jako možné místo obsahující funkční předválečnou technologii, zahájili jsme operaci prohledat a získat. Nechal jsem Dawese zmapovat místo a objevil, že je v držení velkým množstvím nájezdníků. Dal jsem zelenou a pokusili jsme se o průnik.&#xD;
+Haylenová identifikovala montážní závod Corvegy v Lexingtonu jako možné místo obsahující funkční předválečnou technologii. Zahájili jsme tedy přípravu na průzkum a zajištění. Nechal jsem Dawese místo zmapovat a zjistil, že je v držení velkého množství nájezdníků. Dal jsem operaci zelenou a pokusili jsme se o průnik.&#xD;
 &#xD;
-Jak jsme se přiblížili, byla naše četa zasažena palbou. Rytíř Worwick byl zraněn, proto jsem se rozhodl pro ústup do Cambridge. Při našem ústupu šlápl rytíř Brach na pozemní minu. Písařka Haylenová se ho pokusila ošetřit, ale Brach podlehl svým zraněním a zemřel. Nechť je přidáno do záznamu, že Haylenová by měla být pochválena za svoje úsilí.</Dest>
+Jak jsme se přiblížili, dostala se četa pod palbu. Rytíř Worwick byl postřelen, a tak jsem se rozhodl pro stažení zpět do Cambridge. Při ústupu šlápl rytíř Brach na pozemní minu. Písařka Haylenová se ho pokoušela zachránit, ale Brachova zranění byla tak závažná, že jim na místě podlehl. Nechť je přidáno do záznamu, že Haylenová má být za vynaložené úsilí pochválena.</Dest>
     </String>
     <String List="0" sID="028EE7">
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
@@ -2709,7 +2709,7 @@ Registration: BR-122K&#xD;
 Status: Deceased</Source>
       <Dest>Rytíř Brach&#xD;
 Registrace: BR-122K&#xD;
-Stav: zesnulý</Dest>
+Stav: mrtvý</Dest>
     </String>
     <String List="0" sID="028EE8">
       <EDID>BoS_DN130_GladiusTerminalSub02</EDID>
@@ -2831,7 +2831,7 @@ Stav: aktivní</Dest>
 We've been attempting to contact Scabbard with the energy reading Haylen has collected, but the police station's high-gain antenna was damaged by a Super Mutant rocket attack and we can't transmit the data. Haylen is attempting to repair the antenna, but she isn't certain that we have the parts we need at this time.</Source>
       <Dest>102287-7&#xD;
 &#xD;
-Pokoušeli jsem se kontaktovat Scabbarda s energetickými údaji, které Haylenová nasbírala, ale vysokozisková anténa policejní stanice byla poškozena raketovým útokem supermutantů a my jsme nemohli odeslat data. Haylenová se pokouší anténu opravit, ale není si jistá, že v tuhle chvíli máme všechny potřebné součástky.</Dest>
+Pokoušeli jsem se spojit se Scabbardem, abychom mu mohli předat energitické údaje naměřené písařkou Haylenovou, ale vysokozisková anténa policejní stanice byla poškozena raketovým útokem supermutantů a nepodařilo se nám odeslat data. Haylenová se pokouší anténu opravit, ale není si jistá, zda v tuto chvíli máme všechny potřebné součástky.</Dest>
     </String>
     <String List="0" sID="02A339">
       <EDID>Beard20</EDID>
@@ -4585,7 +4585,7 @@ Nevím, co dělat, Debbie. Měl jsem tu nahoře Jenny z oddělení centrálního
 It's been two days since our failed operation at Corvega, and I'm sad to report that Knight Worwick has died. His gunshot wounds had left him paralyzed and internally bleeding. Scribe Haylen informed me that he was suffering and had less than five percent chance of recovery. I authorized her to inject him with an overdose of painkiller and put him to rest. I'd once again like to commend Scribe Haylen for her efforts in keeping Worwick alive, and for following my final orders without question.</Source>
       <Dest>042287-4&#xD;
 &#xD;
-Je to dva dny od naší neúspěšné operace v montážním závodu a je mi líto, že musím oznámit, že rytíř Worwick zemřel. Jeho střelné zranění ho nechalo částěčně paralizovaného a s vnitřním krvácením. Písařka Haylenová mě informovala, že trpěl a měl méně než pětiprocentní šanci na uzdravení. Rozkázal jsem jí podat mu velkou dávku léků na utišení bolesti a umožnit mu konečně klid. Znovu bych chtěl pochválit úsilí písařky Haylenové udržet Worwicka naživu a za uposlechnutí mého konečného rozkazu bez otázek.</Dest>
+Je to dva dny od naší neúspěšné operace v montážním závodu a s lítostí musím oznámit, že rytíř Worwick je po smrti. Střelná zranění mu způsobila částečné ochrnutí a vnitřní krvácení. Písařka Haylenová mě informovala, že trpěl a šance na uzdravení byla méně než pětiprocentní. Přikázal jsem jí podat mu nadměrnou dávku sedativ a umožnit mu tak konečně klid. Znovu bych chtěl pochválit úsilí písařky Haylenové udržet Worwicka naživu a za uposlechnutí mého konečného rozkazu bez otázek.</Dest>
     </String>
     <String List="0" sID="0312AC">
       <EDID>Blowtorch_Rare</EDID>
@@ -4601,7 +4601,7 @@ Registration: WR-113K&#xD;
 Status: Deceased</Source>
       <Dest>Rytíř Worwick&#xD;
 Registrace: WR-113K&#xD;
-Stav: zesnulý</Dest>
+Stav: mrtvý</Dest>
     </String>
     <String List="0" sID="031621">
       <EDID>BoS_DN130_GladiusTerminalSub01</EDID>
