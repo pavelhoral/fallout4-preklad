@@ -11,7 +11,7 @@
       <EDID>DLC01JezebelVoice</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Jezebel's Voice</Source>
-      <Dest>Jezebelin hlas</Dest>
+      <Dest>Jezábelin hlas</Dest>
     </String>
     <String List="0" sID="000024">
       <EDID>DLC01EnchBot_FortifyCarryWeight20</EDID>
@@ -37,13 +37,13 @@ A critical power failure has been detected. All systems are offline.&#xD;
 Byl zjištěn bezpečnostní poplach Epsilon-VI.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
+Byl zjištěn kritický výpadek elektřiny. Všechny systémy jsou vypnuté.</Dest>
     </String>
     <String List="0" sID="00003B">
       <EDID>DLC01EnchBot_Unstable_SentryRightLaserGatlingEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Unstable Sentry Right Laser Gatling</Source>
-      <Dest>Strážní robot - Nestabilní pravý laserový rotační kulomet</Dest>
+      <Dest>Strážní robot - pravý nestabilní laserový rotační kulomet</Dest>
     </String>
     <String List="0" sID="000041">
       <EDID>DLC01EnchBot_Cloak_Shield</EDID>
@@ -67,7 +67,7 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <EDID>DLC01EncMechEyeBot01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Eyebot</Source>
-      <Dest>Posílené očko</Dest>
+      <Dest>Servomech. očko</Dest>
     </String>
     <String List="0" sID="0000A6">
       <EDID>DLC01EnchBot_Unstable_SentryLeftExplosiveMinigunEffect</EDID>
@@ -85,13 +85,13 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <EDID>DLC01Lair_CC_MasterControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Master Control</Source>
-      <Dest>RB-2851: Hlavní řízení</Dest>
+      <Dest>RB-2851: Hlavní ovládání</Dest>
     </String>
     <String List="0" sID="000144">
       <EDID>DLC01EncMechSentry01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Tankbot</Source>
-      <Dest>Posílený tankbot</Dest>
+      <Dest>Servomech. tankbot</Dest>
     </String>
     <String List="0" sID="000148">
       <EDID>DLC01EnchBot_FortifyHealthSentry_Torso</EDID>
@@ -139,13 +139,13 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <EDID>DLC01ExplosiveMarkerGrenadeCryo</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cryogenic Grenades</Source>
-      <Dest>Kryogenní granáty</Dest>
+      <Dest>Kryogenické granáty</Dest>
     </String>
     <String List="0" sID="000200">
       <EDID>DLC01EncMechRoboBrain01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Robobrain</Source>
-      <Dest>Posílený robomozek</Dest>
+      <Dest>Servomech. robomozek</Dest>
     </String>
     <String List="0" sID="000202">
       <EDID>DLC01EnchBot_Cloak_HealSpell</EDID>
@@ -158,8 +158,8 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <REC id="2">TERM:UNAM</REC>
       <Source>Connecting to Assembly Line Control...&#xD;
 ...ERROR. Invalid response from the RobCo Assembly Line Control Unit. Please contact Facilities for repairs.</Source>
-      <Dest>Připojení k ovládání montážní linky...&#xD;
-...CHYBA. Neplatná odpověď RobCo jednotky ovládání montážní linky. Prosím, obraťte se na zařízení pro opravy.</Dest>
+      <Dest>Připojování k ovládání montážní linky...&#xD;
+...CHYBA. Neplatná odpověď z ovládací jednotky montážní linky RobCo. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
     </String>
     <String List="0" sID="00021E">
       <EDID>DLC01EnchBot_Cloak_DetectionEffect</EDID>
@@ -261,13 +261,13 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <EDID>DLC01Lair_CC_MasterControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Master Control Terminal</Source>
-      <Dest>Hlavní kontrolní terminál</Dest>
+      <Dest>Hlavní ovládací terminál</Dest>
     </String>
     <String List="0" sID="0004E8">
       <EDID>DLC01EncMechMrHandy01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Swarmbot</Source>
-      <Dest>Posílený swarmbot</Dest>
+      <Dest>Servomech. swarmbot</Dest>
     </String>
     <String List="0" sID="000504">
       <EDID>DLC01EnchBot_csProtectron</EDID>
@@ -303,7 +303,7 @@ Byl zjištěn kritický výpadek proudu. Všechny systémy jsou vypnuté.</Dest>
       <EDID>DLC01EncMechProtectron01Template</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Servomech Junkbot</Source>
-      <Dest>Posílený vetešbot</Dest>
+      <Dest>Servomech. vetešbot</Dest>
     </String>
     <String List="0" sID="0005D7">
       <EDID>DLC01Lair_CC_MasterControlTerminal</EDID>
@@ -323,16 +323,16 @@ Restoring elevator access... done.&#xD;
 Epsilon-VI Security Alert terminated successfully.&#xD;
 &#xD;
 This facility is now under your control, $Administrator.</Source>
-      <Dest>Zpřístupňování řídicích systémů RB-2851... hotovo.&#xD;
+      <Dest>Přistupování k ovládání systému RB-2851... hotovo.&#xD;
 &#xD;
-Skenování nepřátelských cílů... cíle objeveny.&#xD;
-...eliminace nepřátelských cílů. Čekejte prosím...&#xD;
-Skenování dalších nepřátelských cílů... žádné cíle.&#xD;
+Hledání nepřátelských cílů... cíle objeveny.&#xD;
+...Eliminace nepřátelských cílů. Čekejte prosím...&#xD;
+Hledání nepřátelských cílů... žádné cíle.&#xD;
 &#xD;
-Skenování chyb systému...&#xD;
+Hledání chyb systému...&#xD;
 ...nalezeno několik chyb. Nutná oprava.&#xD;
 &#xD;
-Uvolňování dočasných bezpečnostních omezení... hotovo.&#xD;
+Rušení bezpečnostního uzavření... hotovo.&#xD;
 Obnovování přístupu k výtahu... hotovo.&#xD;
 &#xD;
 Ukončení bezpečnostního poplachu Epsilon-VI úspěšné.&#xD;
@@ -453,7 +453,7 @@ Byl zjištěn bezpečnostní poplach Epsilon-VI.</Dest>
       <Dest>UŽIVATEL: $Administrátor&#xD;
 &#xD;
 ***UPOZORNĚNÍ***&#xD;
-- Výroba energie s 93,2% účinností.</Dest>
+- Výroba elektřiny s 93,2% účinností.</Dest>
     </String>
     <String List="0" sID="0008C8">
       <EDID>DLC01COMRobotCompanion</EDID>
@@ -489,19 +489,19 @@ Byl zjištěn bezpečnostní poplach Epsilon-VI.</Dest>
       <EDID>DLC01CreatureDialogueRobobrain</EDID>
       <REC>QUST:FULL</REC>
       <Source>Combat Lines, Reaction Lines, Etc</Source>
-      <Dest>Bojové hlášky, reakce atd.</Dest>
+      <Dest>Combat Lines, Reaction Lines, Etc</Dest>
     </String>
     <String List="0" sID="00095B">
       <EDID>DLC01EnchBot_Unstable_SentryRightShoulderFatManEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Sentry Right Shoulder Unstable Fat Man Launcher</Source>
-      <Dest>Strážní robot - nestabilní Tlusťoch (pravé rameno)</Dest>
+      <Dest>Strážní robot - nestabilní odpalovač s Tlusťochem (pravé rameno)</Dest>
     </String>
     <String List="0" sID="00095D">
       <EDID>DLC01EnchBot_Unstable_SentryRightExplosiveMinigunEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Unstable Sentry Right Explosive Minigun</Source>
-      <Dest>Strážní robot - nestabilní pravý explozivní rotační kulomet</Dest>
+      <Dest>Strážní robot - pravý nestabilní explozivní rotační kulomet</Dest>
     </String>
     <String List="0" sID="00096D">
       <EDID>DLC01EncAssaultron_Mix</EDID>
@@ -537,7 +537,7 @@ Byl zjištěn bezpečnostní poplach Epsilon-VI.</Dest>
       <EDID>DLC01EncBotRaiderSentry01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Sentry Bot Lament</Source>
-      <Dest>Truchlící strážní robot</Dest>
+      <Dest>Strážní robot kvíleč</Dest>
     </String>
     <String List="0" sID="0009CE">
       <EDID>DLC01HoldingCell</EDID>
@@ -600,18 +600,18 @@ Releasing security lockdown... done.&#xD;
 Epsilon-VI Security Alert terminated successfully.&#xD;
 &#xD;
 This facility is now under your control, $Administrator.</Source>
-      <Dest>Zpřístupňování řídicích systémů RB-2851... hotovo.&#xD;
+      <Dest>Přistupování k ovládání systému RB-2851... hotovo.&#xD;
 &#xD;
-Skenování nepřátelských cílů... cíle objeveny.&#xD;
-...eliminace nepřátelských cílů. Čekejte prosím...&#xD;
-Skenování dalších nepřátelských cílů... žádné cíle.&#xD;
+Hledání nepřátelských cílů... cíle objeveny.&#xD;
+...Eliminace nepřátelských cílů. Čekejte prosím...&#xD;
+Hledání nepřátelských cílů... žádné cíle.&#xD;
 &#xD;
-Skenování chyb systému...&#xD;
-...objeven výpadek napájení. Obnovování napájení.&#xD;
-Skenování chyb systému...&#xD;
+Hledání chyb systému...&#xD;
+...nalezeno selhání napájení. Obnovuji napájení.&#xD;
+Hledání chyb systému...&#xD;
 ...nalezeno několik chyb. Nutná oprava.&#xD;
 &#xD;
-Uvolňování dočasných bezpečnostních omezení... hotovo.&#xD;
+Rušení bezpečnostního uzavření... hotovo.&#xD;
 &#xD;
 Ukončení bezpečnostního poplachu Epsilon-VI úspěšné.&#xD;
 &#xD;
@@ -639,7 +639,7 @@ Toto zařízení nyní je pod vaší kontrolou, $Administratore.</Dest>
       <EDID>DLC01EnchBot_Unstable_SentryLeftShoulderFatManEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Sentry Left Shoulder Unstable Fat Man Launcher</Source>
-      <Dest>Strážní robot - nestabilní Tlusťoch (levé rameno)</Dest>
+      <Dest>Strážní robot - nestabilní odpalovač s Tlusťochem (levé rameno)</Dest>
     </String>
     <String List="0" sID="000AA1">
       <EDID>DLC01EnchBot_Cloak_RadiationEffect</EDID>
@@ -663,7 +663,7 @@ Toto zařízení nyní je pod vaší kontrolou, $Administratore.</Dest>
       <EDID>DLC01EnchBot_Trashbot_RightArmVFXEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Trashbot Right Arm VFX</Source>
-      <Dest>Pravá ruka VFX Trashbota</Dest>
+      <Dest>Zmetkobot - VFX (pravá ruka)</Dest>
     </String>
     <String List="0" sID="000ADA">
       <EDID>DLC01Lair_CC_WorkroomTerminal</EDID>
@@ -745,27 +745,27 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01EnchBot_Unstable__EnchTEMPLATE</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Unstable Mod TEMPLATE</Source>
-      <Dest>Strážní robot - nestabilní modifikace ŠABLONA</Dest>
+      <Dest>Nestabilní modifikace ŠABLONA</Dest>
     </String>
     <String List="0" sID="000BA9">
       <EDID>DLC01EnchBot_Unstable__EffectTEMPLATE</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Unstable Mod Effect TEMPLATE</Source>
-      <Dest>Unstable Mod Effect TEMPLATE</Dest>
+      <Dest>Nestabilní účinek modifikace ŠABLONA</Dest>
     </String>
     <String List="0" sID="000BAB">
       <EDID>DLC01EnchBot_Trashbot_CoreVFXEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Trashbot Core VFX</Source>
-      <Dest>Trashbot Core VFX</Dest>
+      <Dest>Zmetkobot - jádro VFX</Dest>
     </String>
     <String List="0" sID="000BAE">
       <EDID>DLC01Lair_CC_MasterControlTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Connecting to Security Door Control...&#xD;
 ...ERROR in relay 1607. Unable to initialize the MaxLock Security Door Control Interface module. Please contact Facilities for repairs.</Source>
-      <Dest>Připojení k ovládání bezpečnostních dveří...&#xD;
-...CHYBA v relé 1607. Nelze inicializovat modul ovládacího rozhraní bezpečnostních dveří MaxLock. Prosím, obraťte se na zařízení pro opravy.</Dest>
+      <Dest>Připojování k ovládání bezpečnostních dveří...&#xD;
+...CHYBA v relé 1607. Nelze inicializovat modul ovládacího rozhraní bezpečnostních dveří MaxLock. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
     </String>
     <String List="0" sID="000BB7">
       <EDID>DLC01EnchBot_FortifyMeleeDmg50</EDID>
@@ -795,7 +795,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01EncBotRaiderMrHandy01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Mr. Handy Dominator</Source>
-      <Dest>Pan Šikulka dominátor</Dest>
+      <Dest>Pan Šikulka tyran</Dest>
     </String>
     <String List="0" sID="000BD5">
       <EDID>DLC01EnchBot_Cloak_Detection</EDID>
@@ -807,7 +807,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01DamageResistBotShield</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Bot Shield damage resist</Source>
-      <Dest>Odolný štít robota</Dest>
+      <Dest>Štít robota</Dest>
     </String>
     <String List="0" sID="000BE7">
       <EDID>DLC01EnchBot_Unstable_SentryRightShoulderFrenzyGasEffect</EDID>
@@ -863,7 +863,7 @@ This terminal may only be accessed with an R-30 Alpha clearance. By accessing th
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
-Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál dozorce potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
+Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -889,7 +889,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01FortHagenSatelliteArrayAutomatronTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Rust Devil Gaming Terminal</Source>
-      <Dest>Herní terminál Rezavých Ďáblů</Dest>
+      <Dest>Herní terminál Rezavých ďáblů</Dest>
     </String>
     <String List="0" sID="000CF2">
       <EDID>DLC01EnchBot_FortifyHealthMrHandy_Torso</EDID>
@@ -901,7 +901,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01EnchBot_Unstable_SentryRightShoulderFrenzyGasEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Sentry Right Shoulder Unstable Gas Launcher</Source>
-      <Dest>Strážní robot - nestabilní plynomet (pravé rameno)</Dest>
+      <Dest>Strážní robot - nestabilní odpalovač s plynem (pravé rameno)</Dest>
     </String>
     <String List="0" sID="000D42">
       <EDID>DLC01EnchBot_Cloak_EMPEffect</EDID>
@@ -931,7 +931,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01EnchBot_Unstable_SentryLeftLaserGatlingEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Unstable Sentry Left Laser Gatling</Source>
-      <Dest>Strážní robot - nestabilní levý laserový rotační kulomet</Dest>
+      <Dest>Strážní robot - levý nestabilní laserový rotační kulomet</Dest>
     </String>
     <String List="0" sID="000DA0">
       <EDID>DLC01EnchBot_FortifySpeedMult5</EDID>
@@ -949,13 +949,13 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01EnchBot_Unstable_SentryLeftShoulderFrenzyGasEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Sentry Left Shoulder Unstable Gas Launcher</Source>
-      <Dest>Strážní robot - nestabilní plynomet (levé rameno)</Dest>
+      <Dest>Strážní robot - nestabilní odpalovač s plynem (levé rameno)</Dest>
     </String>
     <String List="0" sID="000DBB">
       <EDID>DLC01DamageResistBotShield</EDID>
       <REC>MGEF:DNAM</REC>
       <Source>DMG Resist</Source>
-      <Dest>Odolnost vůči POŠ</Dest>
+      <Dest>Odol. v. zranění</Dest>
     </String>
     <String List="0" sID="000DC1">
       <EDID>DLC01EyeBotRaceAdditiveSubgraphRace</EDID>
@@ -967,13 +967,13 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01EncMechAssaultron01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Scrapbot</Source>
-      <Dest>Posílený šrotbot</Dest>
+      <Dest>Servomech. šrotbot</Dest>
     </String>
     <String List="0" sID="000DE3">
       <EDID>DLC01EnchBot_Trashbot_LeftArmVFXEffect</EDID>
       <REC>MGEF:FULL</REC>
       <Source>Trashbot Left Arm VFX</Source>
-      <Dest>Levá ruka VFX Trashbota</Dest>
+      <Dest>Zmetkobot - VFX (levá ruka)</Dest>
     </String>
     <String List="0" sID="000DE6">
       <EDID>DLC01EnchBot_Cloak_HealSpellEffect</EDID>
@@ -1039,7 +1039,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="102">INNR:WNAM</REC>
       <Source>Incendiary</Source>
-      <Dest>[Žhář]</Dest>
+      <Dest>[Zápalná]</Dest>
     </String>
     <String List="0" sID="000E4B">
       <EDID>DLC01dn_PowerArmor</EDID>
@@ -1297,7 +1297,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_PowerArmor</EDID>
       <REC id="12">INNR:WNAM</REC>
       <Source>Assembled</Source>
-      <Dest>[Sestava]</Dest>
+      <Dest>[C jádra]</Dest>
     </String>
     <String List="0" sID="000EDC">
       <EDID>DLC01EnchBot_Voice_MaleEffect</EDID>
@@ -1411,7 +1411,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="101">INNR:WNAM</REC>
       <Source>Repeating</Source>
-      <Dest>[Víceranná]</Dest>
+      <Dest>[Víceranný]</Dest>
     </String>
     <String List="0" sID="000F23">
       <EDID>DLC01EnchBot_Voice_Bleep_C_Effect</EDID>
@@ -1525,7 +1525,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="41">INNR:WNAM</REC>
       <Source>Fluted</Source>
-      <Dest>[Odlehčení]</Dest>
+      <Dest>[Odlehčený]</Dest>
     </String>
     <String List="0" sID="000F5B">
       <EDID>DLC01dn_PowerArmor</EDID>
@@ -1591,7 +1591,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_PowerArmor</EDID>
       <REC id="3">INNR:WNAM</REC>
       <Source>Targeting</Source>
-      <Dest>[Zaměřovač]</Dest>
+      <Dest>[Zaměřovací]</Dest>
     </String>
     <String List="0" sID="000F88">
       <EDID>DLC01dn_PowerArmor</EDID>
@@ -1603,7 +1603,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="74">INNR:WNAM</REC>
       <Source>Sharpshooter's</Source>
-      <Dest>[Střelecká]</Dest>
+      <Dest>[Ostrostřelec]</Dest>
     </String>
     <String List="0" sID="000F8E">
       <EDID>DLC01dn_LightningGun</EDID>
@@ -1843,7 +1843,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="118">INNR:WNAM</REC>
       <Source>Hardened</Source>
-      <Dest>[Tvrzená]</Dest>
+      <Dest>[Tělo+]</Dest>
     </String>
     <String List="0" sID="001032">
       <EDID>DLC01HandyAdditiveSubgraphRace</EDID>
@@ -1915,7 +1915,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="7">INNR:WNAM</REC>
       <Source>Incendiary</Source>
-      <Dest>[Žhář]</Dest>
+      <Dest>[Zápalná]</Dest>
     </String>
     <String List="0" sID="00105E">
       <EDID>DLC01dn_LightningGun</EDID>
@@ -1993,7 +1993,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="133">INNR:WNAM</REC>
       <Source>Lobber</Source>
-      <Dest>[Lobber]</Dest>
+      <Dest>[oblouková hlaveň]</Dest>
     </String>
     <String List="0" sID="001093">
       <EDID>DLC01dn_PowerArmor</EDID>
@@ -2335,7 +2335,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="104">INNR:WNAM</REC>
       <Source>Fiery</Source>
-      <Dest>[Zesílení]</Dest>
+      <Dest>[Zesílená]</Dest>
     </String>
     <String List="0" sID="001120">
       <EDID>DLC01dn_LightningGun</EDID>
@@ -2437,7 +2437,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="87">INNR:WNAM</REC>
       <Source>Crystallized</Source>
-      <Dest>[Krystalizace]</Dest>
+      <Dest>[Krystalizovaný]</Dest>
     </String>
     <String List="0" sID="0011C2">
       <EDID>DLC01dn_LightningGun</EDID>
@@ -2551,7 +2551,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01dn_LightningGun</EDID>
       <REC id="91">INNR:WNAM</REC>
       <Source>Extended</Source>
-      <Dest>[Prodloužení]</Dest>
+      <Dest>[Prodloužený]</Dest>
     </String>
     <String List="0" sID="001243">
       <EDID>DLC01dn_LightningGun</EDID>
@@ -2605,13 +2605,14 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Robot Ally Testing Series 3</Source>
-      <Dest>Spojenecký robot - testovací série 3</Dest>
+      <Dest>Robot spojenec - testovací série 3</Dest>
     </String>
     <String List="0" sID="001266">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Initial testing was brutal, but it's improving. The allies could detect and analyze the threat of a weapon pretty well, but once you have one in the hand of an innocent, they immediately designate them as hostile. I need some better detection methods. It's possible they'll miss some hostiles judging by appearance, but better safe than sorry.</Source>
-      <Dest>Počáteční testování bylo brutální, ale už se to zlepšuje. Spojenci by mohli docela dobře odhalit a analyzovat hrozbu zbraně, ale jakmile má jednu v ruce i někdo nevinný, okamžitě je označen jako nepřítel. Potřebuji nějaké lepší detekční metody. Je možné, že na základě vzhledu nebudou někteří nepřátelé detekováni, takže jistota je jistota.</Dest>
+      <Dest>Počáteční testování bylo brutální, ale zlepšuje se. Spojenci dokáží odhalit a analyzovat hrozbu zbraně docela dobře, ale jakmile ji má v ruce někdo nevinný, okamžitě je označí za nepřítele. Potřebuji lepší metody detekce. Je možné, že podle vzhledu opomenou nějaké nepřátele, ale jistota je jistota.&#xD;
+</Dest>
     </String>
     <String List="0" sID="001269">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -2619,8 +2620,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <Source>This terminal may only be accessed with an R-30 Alpha clearance. By accessing this terminal the viewer acknowledges that the appropriate clearance is held. Violations are a punishable offense subject to military jurisdiction.&#xD;
 &#xD;
 </Source>
-      <Dest>Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál dozorce potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
-&#xD;
+      <Dest>Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
 </Dest>
     </String>
     <String List="0" sID="00126D">
@@ -2657,9 +2657,9 @@ Military personnel didn't even flinch, but several concerning verbal arguments h
 The following are being put on watch:&#xD;
 - General Atomics: Carson Samuels&#xD;
 - General Atomics: Maura Hauer</Source>
-      <Dest>Testované subjekty dorazily. Sledoval jsem pozorně personál na jakékoliv známky kompromisů. Psychologické hodnocení šlo stranou, mnozí se stávají rizikovým faktorem při jednání s jejich vlastním druhem jako subjektem. &#xD;
+      <Dest>Testovací subjekty dorazily. Pozorně jsem sledoval personál kvůli náznakům zrady. Nehledě na psychologické hodnocení jsou mnozí rizikovým faktorem, když pracují se svým vlastním druhem jako se subjekty.&#xD;
 &#xD;
-Vojenský personál se ani nehnul, ale vypuklo několik slovních potyček. Zdá se, že tu bude spousta pozvolného prosazování, pokud jde o kritiku charakterů vedoucích oddělení. Karimová a Adler nejsou ani na místě, ale způsob, jakým jejich lidé jednají, dává najevo, jakoby tam opravdu byli.&#xD;
+Vojenský personál se ani nehnul, ale objevilo se několik slovních potyček, které mi dělají starosti. Zdá se, že kritická povaha vedoucích oddělení se šíří i na ostatní. Karimová a Adler ani nejsou přítomni a jejich lidé jednají tak, že by si jeden myslel, že tam jsou.&#xD;
 &#xD;
 Níže jsou uvedeni dohlížitelé:&#xD;
 - General Atomics: Carson Samuels&#xD;
@@ -2675,7 +2675,7 @@ Níže jsou uvedeni dohlížitelé:&#xD;
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Robot Ally Testing Series 4</Source>
-      <Dest>Spojenecký robot - testovací série 4</Dest>
+      <Dest>Robot spojenec - testovací série 4</Dest>
     </String>
     <String List="0" sID="001285">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
@@ -2683,9 +2683,9 @@ Níže jsou uvedeni dohlížitelé:&#xD;
       <Source>Today marks the dawning of a new age for the Commonwealth. No longer will the innocent settlers need to fear the cruel and savage nature of the Raiders and Gunners. My robots will ensure the safety of the people by targeting and eliminating all threats.&#xD;
 &#xD;
 The day is near where we can truly focus on rebuilding the Commonwealth without the threat of surrounding dangers.</Source>
-      <Dest>Dnešek je úsvitem nového věku pro Commonwealth. Již se nebudou nevinní osadníci muset obávat kruté a divoké povahy nájezdníků a Ranařů. Mí roboti zajistí bezpečnost lidí vyhledáním a odstraněním všech hrozeb.&#xD;
+      <Dest>Dnešek značí úsvit nové doby pro Commonwealth. Nevinní osadnící se už nebudou muset nadále bát kruté a barbarské povahy Nájezdníků a Ranarů. Moji roboti zaručí bezpečnost lidí vyhledáváním a zničením všech hrozeb.&#xD;
 &#xD;
-Den, kdy se můžeme skutečně soustředit na přestavbu Commonwealthu bez hrozby okolního nebezpečí.</Dest>
+Blíží se den, kdy se můžeme opravdu bez obav zaměřit na znovuvybudování Commonwealthu bez hrozeb z okolí.</Dest>
     </String>
     <String List="0" sID="001287">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -2717,9 +2717,9 @@ Den, kdy se můžeme skutečně soustředit na přestavbu Commonwealthu bez hroz
       <Source>I did it. Live testing. I had a recon bot go out and find a Raider camp based on specs I uploaded. Lucky for me, all these groups tend to have a consistent look to them. The allies went in, eliminated the threat, and even noted in the data that two lives were saved in the process. &#xD;
 &#xD;
 While I'm really excited about the two lives saved... I'm not sure if I'll sleep tonight. Raiders may have murdered a lot of people in my old settlement, but for me to be responsible for taking lives? </Source>
-      <Dest>A je to tu. Testování naživo. Vypustila jsem průzkumného robota s cílem najít nájezdnický tábor na základě specifikací, které jsem mu nahrála. Naštěstí pro mě, všechny tyto skupiny mají tendenci mít jednotný vzhled. Spojenec šel dovnitř, eliminoval hrozbu, a dokonce zaznamenal v datech, že během testu byly zachráněny dva životy.&#xD;
+      <Dest>Povedlo se. Testování na živo. Průzkumný robot měl za úkol najít tábor nájezdníků podle dodaných specifikací. Naštěstí pro mě, všechny tyhle skupiny mají tendence používat jednotný vzhled. Spojenci šli dovnitř, eliminovali hrozbu a dokonce zaznamenali, že byly zachráněny dva životy.&#xD;
 &#xD;
-I když jsem opravdu nadšená ze dvou zachráněných životů... nejsem si jistá, jestli budu v noci spát. Nájezdníci můžou zavraždit mnoho lidí v mé staré osadě.</Dest>
+I když cítím nadšení z těch dvou zachráněných... Nevím, jestli budu moci v noci spát. Nájezdníci mohli v mé staré osadě zavraždit spousty lidí, ale mít zodpovědnost za braní životů?</Dest>
     </String>
     <String List="0" sID="001298">
       <EDID>DLC01EnchBot_Voice_SentryEffect</EDID>
@@ -2755,13 +2755,13 @@ I když jsem opravdu nadšená ze dvou zachráněných životů... nejsem si jis
       <EDID>DLC01Lair_CC_WorkroomTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Mechanist Logs</Source>
-      <Dest>Mechanikův deník</Dest>
+      <Dest>Mechanikovi záznamy</Dest>
     </String>
     <String List="0" sID="0012A9">
       <EDID>DLC01Lair_CC_WorkroomTerminal</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>HUBRIS: Welcome, Isabel. Please make a selection.</Source>
-      <Dest>HUBRIS: Vítejte, Isabelo. Prosím, zvolte si.</Dest>
+      <Dest>HUBRIS: Vítejte, Isabelo. Prosím, vyberte si.</Dest>
     </String>
     <String List="0" sID="0012BA">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
@@ -2773,7 +2773,7 @@ I když jsem opravdu nadšená ze dvou zachráněných životů... nejsem si jis
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>I think I got it. Testing group was able to pick out the dummies I created based on clothing and hostile actions. I think I spent a good week on creating different scenarios. Now I just need a live testing spot... I really don't even want to think about it. </Source>
-      <Dest>Myslím že to mám. Zkušební skupina byla schopna rozeznat figuríny, které jsem vytvořila na základě oblečení a nepřátelských akcí. Myslím, že jsem strávila příjemný týden na vytváření různých scénářů. Teď už stačí jen živé testovací místo... Opravdu na to nechci ani myslet.</Dest>
+      <Dest>Myslím, že to mám. Testovací skupina byla schopna rozpoznat vytvořené figuríny na základně oblečení a nepřátelského chování. Stálo mě to dobrý týden vytváření různých scénářů. Teď už jen potřebuji místo pro testy na živo... Vážně na to nechci ani pomyslet.</Dest>
     </String>
     <String List="0" sID="0012CE">
       <EDID>DLC01COMRobotCompanionOtherTalk</EDID>
@@ -2810,8 +2810,8 @@ I když jsem opravdu nadšená ze dvou zachráněných životů... nejsem si jis
       <REC>TERM:BTXT</REC>
       <Source>HUBRIS: Accessing files for Robotics Records...&#xD;
 HUBRIS: Please select an entry.</Source>
-      <Dest>HUBRIS: Přístup k souborům pro robotickou paměť...&#xD;
-HUBRIS: Prosím, vyberte položku.</Dest>
+      <Dest>HUBRIS: Přístupování k záznamům robotiky...&#xD;
+HUBRIS: Prosím, vyberte záznam.</Dest>
     </String>
     <String List="0" sID="0012EC">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -2823,7 +2823,7 @@ HUBRIS: Prosím, vyberte položku.</Dest>
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>First test runs on the robot allies inside a controlled environment. Went fairly well when it came to detecting and scanning other robots in the area and determining if they were hostile or not. Following tests will be a bit trickier. I'm not even sure how to manage a live test right now. The whole idea kinda freaks me out. I've never intentionally killed anyone, and these bots are sort of built to do that...</Source>
-      <Dest>První test proveden na robotím spojenci uvnitř kontrolovaného prostředí. Šlo to docela dobře, dokud se nedostalo na detekci a skenování dalších robotů v této oblasti a určení, zda budou nepřátelští, nebo ne. Následující testy budou trochu složitější. Nejsem si ani jistá, jak zvládnout živé testování. Celá myšlenka mě trochu děsí. Nikdy jsem záměrně nikoho nezabila, ale tihle boti jsou druh, který je k tomu postaven...</Dest>
+      <Dest>První test proveden na robotickém spojenci v kontrolovaném prostředí. Dopadl docela dobře pokud jde o objevení a skenování ostatních robotů v oblasti a určování jestli jsou nepřátelští nebo ne. Následující testy budou trochu složitější. Nemám zatím ani jasno, jak udělat testy na živo. Celá ta myšlenka mě docela děsí. Nikdy by mě nenapadlo úmyslně zabíjet a tihle roboti jsou víceméně stvořeni právě pro to...</Dest>
     </String>
     <String List="0" sID="0012F4">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -2845,11 +2845,11 @@ HUBRIS: Prosím, vyberte položku.</Dest>
 He's been more compliant lately. Maybe the realization of what it would take to safely leave this project has sunk in. &#xD;
 &#xD;
 And I've just been informed that an extremely irate Gregory Adler is on the phone. I'm guessing Rawlings didn't bother to tell him or Karim about his new addition to the team.</Source>
-      <Dest>Rawlings dnes přivezl doktorku Karu Asanteovou. Hlavní vědec Cirolettiová je velmi nadšená, že s ní můžeme spolupracovat, ale náš technik v oblasti kybernetiky se zdá být trochu odtažitý a myslím, že pan Samuels možná ví, že jeho místo je v ohrožení.&#xD;
+      <Dest>Rawlings dnes přivedl doktorku Karu Asanteovou. Hlavní vědec Cirolettiová je velmi nadšená, že s ní můžeme spolupracovat, ale náš technik v oblasti kybernetiky se zdá být trochu odtažitý. Myslím, že pan Samuels možná ví, že jeho místo je v ohrožení.&#xD;
 &#xD;
-Začal být v poslední době více flexibilní. Možná, že se zcela ponořil do realizace věcí, potřebných k zabezpečení tohoto projektu.&#xD;
+Začal být v poslední době více ochotný. Možná, že mu došlo, co by obnášelo bezpečně opustit projekt.&#xD;
 &#xD;
-A právě mě informovali, že je na telefonu extrémně rozzlobený Gregory Adler. Hádám, že Rawlings se neobtěžoval, aby informoval jej nebo Karimovou o svém novém přírůstku v týmu.</Dest>
+A právě mě informovali, že je na telefonu extrémně rozzlobený Gregory Adler. Hádám, že Rawlings se neobtěžoval, aby informoval jej nebo Karimovou o novém přírůstku v týmu.</Dest>
     </String>
     <String List="0" sID="0012FE">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
@@ -2873,7 +2873,7 @@ A právě mě informovali, že je na telefonu extrémně rozzlobený Gregory Adl
       <EDID>DLC01Lair_CC_WorkroomTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Robotics Records</Source>
-      <Dest>Robotická evidence</Dest>
+      <Dest>Záznamy robotiky</Dest>
     </String>
     <String List="0" sID="001304">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
@@ -2891,7 +2891,7 @@ A právě mě informovali, že je na telefonu extrémně rozzlobený Gregory Adl
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Robot Ally Testing Series 2</Source>
-      <Dest>Spojenecký robot - testovací série 2</Dest>
+      <Dest>Robot spojenec - testovací série 2</Dest>
     </String>
     <String List="0" sID="001310">
       <EDID>DLC01EnchBot_Voice_Bleep_A</EDID>
@@ -2905,9 +2905,11 @@ A právě mě informovali, že je na telefonu extrémně rozzlobený Gregory Adl
       <Source>Today marked the first official meeting of the minds within the new facility. General Rawlings met with the representatives from General Atomics, Anna Karim and Gregory Adler. I firmly believe having the U.S. Military working side-by-side with these brilliant scientists will yield some amazing results.&#xD;
 &#xD;
 Getting the government to work with private industry is going to be a challenge. The project will either prove to be ingenious or a completely wasted effort. But I think we're already seeing promise. Their personal need to one up each other may be the best motivation yet.</Source>
-      <Dest>Dnes proběhlo první významné oficiální setkání v rámci nového zařízení. Generál Rawlings se setkal s představiteli z General Atomics, Annou Karimovou a Gregorym Adlerem. Pevně věřím, že spolupráce armády Spojených států bok po boku s těmito skvělými vědci přinese nějaké úžasné výsledky.&#xD;
+      <Dest>Dnes proběhlo první oficiální setkání myslitelů v rámci nového zařízení. Generál Rawlings se setkal s představiteli z General Atomics, Annou Karimovou a Gregorym Adlerem. Pevně věřím, že spolupráce armády Spojených států bok po boku s těmito skvělými vědci přinese nějaké úžasné výsledky.&#xD;
 &#xD;
-Získání vlády, aby spolupracovala se soukromým sektorem, bude výzvou. V rámci projektu se toto buď ukáže být geniální, nebo zcela zbytečnou snahou. Ale myslím, že jsme již viděli naději. Jejich osobní potřeby můžou být za čas tou nejlepší vzájemnou motivací.</Dest>
+Zajištění, aby vláda spolupracovala se soukromým sektorem, bude výzvou. Projekt se ukáže buďto jako geniální nebo naprosto zbytečný. Myslím, že už jsme viděli příslib spolupráce. Nejlepší motivací pro ně můžou být jejich osobní potřeby.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001314">
       <EDID>DLC01Lair_CC_ObservationTerminal</EDID>
@@ -2919,7 +2921,7 @@ Získání vlády, aby spolupracovala se soukromým sektorem, bude výzvou. V r�
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Somewhere in the Commonwealth, a true villain has risen. The loss of my robots is no longer acceptable. I must now focus on defense improvements to my Sanctum. I cannot run the risk of this new scourge gaining control of my resources. </Source>
-      <Dest>Někde v Commonwealthu povstal opravdový ničema. Ztráta mých robotů již není přijatelná. Nyní se musím zaměřit na zlepšení obrany mé Svatyně. Nemohu riskovat, že tato nová pohroma získá kontrolu nad mými zdroji.</Dest>
+      <Dest>Někde v Commonwealthu povstal opravdový zloduch. Ztráta mých robotů už není dál přijatelná. Musím se zaměřit na vylepšení obrany svého úkrytu. Nemohu riskovat, že by tahle nová pohroma získala kontrolu nad mými zdroji.</Dest>
     </String>
     <String List="0" sID="00131C">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
@@ -2927,19 +2929,19 @@ Získání vlády, aby spolupracovala se soukromým sektorem, bude výzvou. V r�
       <Source>HUBRIS: Accessing files for Mechanist logs...&#xD;
 HUBRIS: Please select an entry.</Source>
       <Dest>HUBRIS: Přistupování k záznamům Mechanika...&#xD;
-HUBRIS: Prosím, vyberte položku.</Dest>
+HUBRIS: Prosím, vyberte záznam.</Dest>
     </String>
     <String List="0" sID="00131D">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Robotics</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Robot Ally Testing Series 1</Source>
-      <Dest>Spojenecký robot - testovací série 1</Dest>
+      <Dest>Robot spojenec - testovací série 1</Dest>
     </String>
     <String List="0" sID="001322">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>The Robobrains report a significant decrease in my robot allies. For the good of the Commonwealth, I've increased production. I won't allow my efforts to be destroyed by such criminal scum. </Source>
-      <Dest>Robomozci hlásí výrazný pokles mých robotických spojenců. Pro dobro Commonwealthu jsem zvýšil produkci. Nedopustím, aby bylo mé úsilí zničeno takovou špínou.</Dest>
+      <Dest>Robomozci hlásí výrazný pokles mých robotických spojenců. Pro dobro Commonwealthu zvýším produkci. Nedopustím, aby bylo mé úsilí zničeno takovou zločineckou spodinou.</Dest>
     </String>
     <String List="0" sID="001377">
       <EDID>DLC01HoldingChest</EDID>
@@ -2963,19 +2965,19 @@ HUBRIS: Prosím, vyberte položku.</Dest>
       <EDID>DLC01JezebelTalkingActivator</EDID>
       <REC>TACT:FULL</REC>
       <Source>Jezebel</Source>
-      <Dest>Jezebel</Dest>
+      <Dest>Jezábel</Dest>
     </String>
     <String List="0" sID="00188C">
       <EDID>DLC01JezebelNameMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Jezebel</Source>
-      <Dest>Jezebel</Dest>
+      <Dest>Jezábel</Dest>
     </String>
     <String List="0" sID="0018BA">
       <EDID>DLC01FortHagenLockdownTerminal_Embedded</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Fort Hagen Hangar Level - Access Terminal</Source>
-      <Dest>Přístupový terminál plochy hangáru Fort Hagenu</Dest>
+      <Dest>Hangár Fort Hagenu - přístupový terminál</Dest>
     </String>
     <String List="0" sID="0018BC">
       <EDID>DLC01FortHagenSatelliteArrayAutomatronTerminal</EDID>
@@ -2999,7 +3001,7 @@ HUBRIS: Prosím, vyberte položku.</Dest>
       <EDID>DLC01FortHagenLockdownTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Fort Hagen Hangar Lockdown Terminal</Source>
-      <Dest>Bezpečnostní terminál hangáru Fort Hagenu</Dest>
+      <Dest>Terminál uzamčení hangáru Fort Hagenu</Dest>
     </String>
     <String List="0" sID="0018C3">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3029,7 +3031,7 @@ HUBRIS: Prosím, vyberte položku.</Dest>
       <EDID>DLC01HagenRaiderEntranceTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Rust Devil Entry Terminal</Source>
-      <Dest>Přístupový terminál Rezavých Ďáblů</Dest>
+      <Dest>Terminál záznamů Rezavých ďáblů</Dest>
     </String>
     <String List="0" sID="0018D6">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3040,10 +3042,10 @@ HUBRIS: Prosím, vyberte položku.</Dest>
 &#xD;
 Choose an entry:</Source>
       <Dest>--------------------------------&#xD;
-****PROTOKOLY****&#xD;
+****ZÁZNAMY****&#xD;
 --------------------------------&#xD;
 &#xD;
-Vyberte položku:</Dest>
+Vyberte záznam:</Dest>
     </String>
     <String List="0" sID="0018D9">
       <EDID>DLC01FortHagenLockdownTerminal</EDID>
@@ -3058,26 +3060,26 @@ Access Granted to Authorized Personnel Only&#xD;
 --Hangar Security Door Control--&#xD;
 Please enter your command:</Source>
       <Dest>===============================================&#xD;
-****POPLACH - CELKOVÉ DOČASNÉ UZAVŘENÍ****&#xD;
+****POPLACH - AKTIVOVÁNO CELKOVÉ UZAMČENÍ****&#xD;
 ===============================================&#xD;
-Přístup povolen pouze oprávněnému personálu&#xD;
+Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::zjištěno přepsání hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
---Bezpečnostní ovládání dveří hangáru--&#xD;
-Prosím, zadejte příkaz:</Dest>
+--Ovládání bezpečnostních dveří hangáru--&#xD;
+Prosím, zadejte váš příkaz:</Dest>
     </String>
     <String List="0" sID="0018E1">
       <EDID>DLC01FortHagenLockdownTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Fort Hagen Hangar Level - Access Terminal</Source>
-      <Dest>Přístupový terminál plochy hangáru Fort Hagenu</Dest>
+      <Dest>Hangár Fort Hagenu - přístupový terminál</Dest>
     </String>
     <String List="0" sID="0018E2">
       <EDID>DLC01FortHagenLockdownTerminal_Embedded</EDID>
       <REC>TERM:FULL</REC>
       <Source>Fort Hagen Hangar Lockdown Terminal</Source>
-      <Dest>Bezpečnostní terminál hangáru Fort Hagenu</Dest>
+      <Dest>Terminál uzamčení hangáru Fort Hagenu</Dest>
     </String>
     <String List="0" sID="0018E4">
       <EDID>DLC01FortHagenSatelliteArrayAutomatronTerminal</EDID>
@@ -3089,13 +3091,13 @@ Prosím, zadejte příkaz:</Dest>
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Pioneer Park Disaster</Source>
-      <Dest>Katastrofa v Parku Pionýrů</Dest>
+      <Dest>Katastrofa v parku Pionýrů</Dest>
     </String>
     <String List="0" sID="0018EE">
       <EDID>DLC01HagenRaiderTurretControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Fort Hagen Hangar Control Terminal</Source>
-      <Dest>Ovládací terminál hangáru Fort Hagenu</Dest>
+      <Dest>Terminál ovládání hangáru Fort Hagenu</Dest>
     </String>
     <String List="0" sID="0018F4">
       <EDID>DLC01FortHagenSatelliteArrayAutomatronTerminal</EDID>
@@ -3112,10 +3114,10 @@ rust devil workshop machine&#xD;
 &#xD;
 CHOOSE AN ENTRY:</Source>
       <Dest>=====================================&#xD;
-dílna Rezavých Ďáblů&#xD;
+dílna Rezavých ďáblů&#xD;
 =====================================&#xD;
 &#xD;
-VYBERTE POLOŽKU:</Dest>
+VYBERTE ZÁZNAM:</Dest>
     </String>
     <String List="0" sID="0018FB">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3127,7 +3129,7 @@ VYBERTE POLOŽKU:</Dest>
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Rust Devil Workshop Terminal</Source>
-      <Dest>Provozní terminál Rezavých Ďáblů</Dest>
+      <Dest>Terminál dílny Rezavých ďáblů</Dest>
     </String>
     <String List="0" sID="00190A">
       <EDID>DLC01FortHagenLockdownTerminal_Embedded</EDID>
@@ -3142,20 +3144,20 @@ Access Granted to Authorized Personnel Only&#xD;
 --Hangar Security Door Control--&#xD;
 Please enter your command:</Source>
       <Dest>===============================================&#xD;
-****POPLACH - CELKOVÉ DOČASNÉ UZAVŘENÍ****&#xD;
+****POPLACH - AKTIVOVÁNO CELKOVÉ UZAMČENÍ****&#xD;
 ===============================================&#xD;
-Přístup povolen pouze oprávněnému personálu&#xD;
+Přístup povolen pouze pověřenému personálu&#xD;
 &#xD;
-::zjištěno přepsání hesla::&#xD;
+::detekován reset hesla::&#xD;
 &#xD;
 --Ovládání bezpečnostních dveří hangáru--&#xD;
-Prosím, zadejte příkaz:</Dest>
+Prosím, zadejte váš příkaz:</Dest>
     </String>
     <String List="0" sID="00190C">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>AHAB</Source>
-      <Dest>AHAB</Dest>
+      <Dest>ACHAB</Dest>
     </String>
     <String List="0" sID="00190F">
       <EDID>DLC01FortHagenSatelliteArrayAutomatronTerminal</EDID>
@@ -3173,7 +3175,7 @@ Prosím, zadejte příkaz:</Dest>
 --hangar door override :)-&#xD;
 what do you want to do?:</Source>
       <Dest>===============================================&#xD;
-****MOŽNOSTI ZAŘÍZENÍ****&#xD;
+****SÍLA STROJE****&#xD;
 ===============================================&#xD;
 &#xD;
 --ovládání dveří hangáru :)-&#xD;
@@ -3208,7 +3210,7 @@ what you want to do?:</Source>
 ****SÍLA STROJE****&#xD;
 ===============================================&#xD;
 &#xD;
---kontrola věží--&#xD;
+--ovládání věží--&#xD;
 co chcete dělat?:</Dest>
     </String>
     <String List="0" sID="00192D">
@@ -3227,7 +3229,7 @@ co chcete dělat?:</Dest>
       <EDID>DLC01HagenRaiderShackTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Rust Devil Terminal</Source>
-      <Dest>Terminál Rezavých Ďáblů</Dest>
+      <Dest>Terminál Rezavých ďáblů</Dest>
     </String>
     <String List="0" sID="001940">
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
@@ -3247,7 +3249,7 @@ gaming terminal OFF LIMITs --- IVEY's ORDERS</Source>
 ****SÍLA STROJE****&#xD;
 ===============================================&#xD;
 &#xD;
-herní terminál je omezen --- IVEYINO NAŘÍZENÍ</Dest>
+herní terminál je zakázán --- IVEYINO NAŘÍZENÍ</Dest>
     </String>
     <String List="0" sID="00196E">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3264,14 +3266,13 @@ We will find him, make a bot from his bones, and force it take out our trash. &#
 </Source>
       <Dest>Kdo je to ten Mechanik?!?&#xD;
 &#xD;
-Jeho krvelační roboti jsou všude! Každé smetiště, každá továrna, dokonce i v parku Pionýrů robotiky. Jak máme najít díly pro naše vlastní roboty s tímhle ztroskotancem, který nám odříznul přechod?&#xD;
+Jeho krvelační roboti jsou všude! Každé smetiště, každá továrna, dokonce i v parku Pionýrů robotiky. Jak máme najít díly pro naše vlastní roboty s tímhle ztroskotancem, který nás odříznul?&#xD;
 &#xD;
-Nevíme, jak se bránit. Ach, Ježíši. Zabijeme skupinu botů a objeví se dalších 10. Znamená to, že je ten chlap pumpuje někde na nějaké montážní lince?&#xD;
+Ne že bychom nebojovali. Ale ježiši. Zabili jsme skupinu jeho robotů a objevilo se 10 dalších. Skáčou mu snad někde z montážní linky?&#xD;
 &#xD;
 Jeho nalezení je naší nejvyšší prioritou, protože co jiného můžeme dělat, když nám stojí v cestě?&#xD;
- &#xD;
-Najdeme ho, uděláme bota z jeho kostí a donutíme ho k vrácení našich odpadků.&#xD;
-</Dest>
+&#xD;
+Najdeme ho, z jeho kostí uděláme robota a donutíme ho za všechno zaplatit.</Dest>
     </String>
     <String List="0" sID="001972">
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
@@ -3293,11 +3294,11 @@ I want AT LEAST TWO living breathing humans patrolling the perimiter at all time
 -IVEY </Source>
       <Dest>REZAVÍ ĎÁBLOVÉ,&#xD;
 &#xD;
-Se všemi těmi Mechanikovo roboty na volný noze si nemůžeme dovolit šetřit na hlídkách. Protože všichni víme, že ten parchant zítra plánuje nájezd na všechny naše roboty.&#xD;
+se všemi těmi Mechanikovými roboty tam venku si nemůžeme dovolit šidit hlídky. Z toho co víme může ten parchant klidně na zítra plánovat nájezd, aby si vzal naše roboty.&#xD;
 &#xD;
-No, Lockjawe, to neznamená, že můžeš nastavit tři roboty na hlídání oblasti a zdřímnout si.&#xD;
+Ne Lockjawe, to neznamená, že můžeš nastavit tři roboty, aby hlídkovali a zdřímnout si.&#xD;
 &#xD;
-Chci NEJMÉNĚ DVA žijící a dýchající lidi na hlídání okolí za každejch okolností a dejte mi okamžitě vědět, pokud uvidíte jakýhokoliv podivnýho bota přicházet do kopce.&#xD;
+Chci MINIMÁLNĚ DVA živé dýchající lidi obcházející perimetr za každých okolností a jdete mi vědět HNED, jak uvidíte nějakého cizího robota na kopci.&#xD;
 &#xD;
 -IVEY</Dest>
     </String>
@@ -3305,7 +3306,7 @@ Chci NEJMÉNĚ DVA žijící a dýchající lidi na hlídání okolí za každej
       <EDID>DLC01HagenRaiderEntranceTerminal</EDID>
       <REC>TERM:ITXT</REC>
       <Source>LOOKOUT DUTY</Source>
-      <Dest>POVINNÁ HLÍDKA</Dest>
+      <Dest>HLÍDKOVÁ SLUŽBA</Dest>
     </String>
     <String List="0" sID="001980">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3318,13 +3319,13 @@ AHAB will be at my side when I find the Mechanist and get revenge for what he di
 &#xD;
 I just hope we don't pulverize his bones in the process. I want to use them to make something fun.&#xD;
 </Source>
-      <Dest>Párač, který zabil mé muže?&#xD;
+      <Dest>Párač, který zabil moje lidi?&#xD;
 &#xD;
-Přichytil jsem lebku na bota. Ne jen tak ledajakého bota, ale ultimátního smrtibota.&#xD;
+Dala jsem jeho lebku na robota. Ne jen tak ledajakého robota, ale ultimátního robota zabijáka.&#xD;
 &#xD;
-AHAB bude po mém boku, když najdu Mechanika a pomstím se za to, co udělal Rezavým Ďáblům!&#xD;
+ACHAB bude po mém boku až najdu Mechanika a pomstím se za to, co udělal Rezavým ďáblům!&#xD;
 &#xD;
-Jen doufám, že v průběhu boje nestihne rozdrtit jeho kosti. Chci je ještě použít na něco zábavnýho.&#xD;
+Jen doufám, že při tom nerozdtíme jeho kosti. Chci z nich udělat něco zábavného.&#xD;
 </Dest>
     </String>
     <String List="0" sID="001981">
@@ -3366,12 +3367,12 @@ WELL, as we were trying to get the bots out of there, a horde of Mechanist bots 
 In short, we lost three men and two of our bots were pulverized. BUT, we did manage to nab one of the Mechanist's robobrains alive. I am hoping it will lead me to the bastard that keeps messing with our shit.</Source>
       <Dest>Byla to rutinní šrotovací mise.&#xD;
 &#xD;
-Chtěli jsme jít dovnitř, vzít čtyři protektrony a dostat se ven. Žádnej velkej problém.&#xD;
-Jo, průzkumník v lokaci nás varoval před páračem v téhle oblasti. Jakýmkoliv. S našimi roboty je ale párač jako krtkopotkan. Ne velkej. Dokonce se nám podařilo proklouznout dovnitř a dostat se k robotům bez probuzení monstra.&#xD;
+Chtěli jsme jít dovnitř, vzít čtyři protektrony a vypadnout. Žádný problém.&#xD;
+Jo, průzkum oblasti nás varoval před páračem v blízkosti. Nebo tak něco. U našich robotů to klidně mohl být jen krtkopotkan. Nic velkého. Dokonce se nám podařilo dostat dovnitř tiše a to monstrum nevzbudit.&#xD;
 &#xD;
-DOBŘE, jak jsme se snažili odsud dostat roboty, objevila nás horda Mechanikovo robotů a snažili se dostat k naší kořisti! Vzhledem k tomu, že vesmír má špatnej smysl pro humor, tak to probudilo párače. Takže jsme se taky museli vypořádat i s ním.&#xD;
+NO a když jsme se snažili odtamtud ty roboty dostat, objevila se horda Mechanikových robotů a začla s námi bojovat o kořist! A protože vesmír má zvrácený smysl pro humor, vzbudilo to párače a museli jsme se vypořádat ještě s ním.&#xD;
 &#xD;
-Stručně řečeno, ztratili jsme tři muže a dva z našich botů rozprašovačů. ALE, podařilo se nám chytit jednoho z Mechanikovo robomozků živýho. Doufáme, že nás dovede k bastardovi, kterej se nám neustále sere do cesty.</Dest>
+Ve zkratce, ztratili jsme tři muže a dva naši roboti byli zdemolováni. ALE porařilo se nám sbalit jednoho živého Mechanikova robomozka. Doufám, že nás to dovede k tomu parchantovi, co se nám pořád plete do cesty.</Dest>
     </String>
     <String List="0" sID="00199D">
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
@@ -3385,15 +3386,15 @@ Bring peace to the Commonwealth? What a load of crap.&#xD;
 Anyway, I have some ideas on how we can make some sick mods for the thing. I want it disassembled by tomorrow. &#xD;
 &#xD;
 -IVEY </Source>
-      <Dest>Máme mozek, teď jen zničit očko.&#xD;
+      <Dest>Máme mozek, očko prostě zničte.&#xD;
 &#xD;
-Mám nemocné uši z těch neustálých zpráv o Mechanikovi.&#xD;
+Už je mi zle z poslouchání těch neustálých zpráv o Mechanikovi.&#xD;
 &#xD;
-Přinést mír do Commonwealthu? To je ale blbost.&#xD;
+Přináší mír do Commonwealthu? To je ale kravina.&#xD;
 &#xD;
-Mimochodem, mám nějaké nápady, jak můžeme na té věci provést nějaké modifikace. Tak to chci mít do zítřka rozebraný. &#xD;
+Mimochodem, mám nějaké nápady, jak můžeme na té věci udělat pár bezva modifikací. Chci to mít do zítra rozebrané.&#xD;
 &#xD;
--IVEY</Dest>
+- IVEY</Dest>
     </String>
     <String List="0" sID="0019A2">
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
@@ -3410,16 +3411,15 @@ You won't be happy if I get someone else. &#xD;
 Just do it.&#xD;
 &#xD;
 -IVEY</Source>
-      <Dest>Mozek nemluví? Tak něco dělejte.&#xD;
+      <Dest>Mozek nemluví? Tak ho donuťte.&#xD;
 &#xD;
-Rozbijte sklo a hledejte, dokud něco nenajdete!&#xD;
+Rozbijte sklo a vražte do něj ruce pokud to bude potřeba!&#xD;
 &#xD;
-Mozky samozřejmě přivolávají střelbu. uvnitř té slizké koule musí být nějaký skrytý signál, který můžeme použít, aby nás dovedl k Mechanikovi.&#xD;
+Mozci jsou zjevně ti, kteří to řídí. Uvnitř té hnusné koule slizu musí být skrytý nějaký signál, který nás dovede k Mechanikovi.&#xD;
 &#xD;
-Máte čas do zítřka. Než se sem dostane někdo jiný a udělá to za vás.&#xD;
-A nebudete rádi, když se sem někdo dostane. &#xD;
+Máte čas do zítra. Pak si na to najdu někoho jiného. A nebudete rádi, když si najdu někoho jiného.&#xD;
 &#xD;
-Prostě dělejte.&#xD;
+Prostě to udělejte.&#xD;
 &#xD;
 -IVEY</Dest>
     </String>
@@ -3541,7 +3541,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01HagenHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Jezebel Interview</Source>
-      <Dest>Jezebelin rozhovor</Dest>
+      <Dest>Jezábelin rozhovor</Dest>
     </String>
     <String List="0" sID="001BC1">
       <EDID>DLC01HelpRobotWorkbenchXbox</EDID>
@@ -3613,7 +3613,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaider01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Rust Devil</Source>
-      <Dest>Rezavý Ďábel</Dest>
+      <Dest>Rezavý ďábel</Dest>
     </String>
     <String List="0" sID="001DDE">
       <EDID>DLC01EnchBot_AV_ConditionRate</EDID>
@@ -3637,13 +3637,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderAssaultron04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Assaultron Gorgon</Source>
-      <Dest>Anihilatron medúza</Dest>
+      <Dest>Anihilatron gorgona</Dest>
     </String>
     <String List="0" sID="001DFF">
       <EDID>DLC01CreatureRustDevil</EDID>
       <REC>LSCR:DESC</REC>
       <Source>A new player in the Commonwealth, the Rust Devils are a Raider gang with a taste for technology and the smarts to use it. They frequently destroy robots just so they can utilize their scavenged parts.</Source>
-      <Dest>Noví hráči v Commonwealthu, Rezaví Ďáblové, jsou nájezdnické gangy se zálibou v technologiích. Často zničí roboty, jen aby z nich mohli využít nalezené součástky.</Dest>
+      <Dest>Noví hráči v Commonwealthu, Rezaví ďáblové, jsou skupina nájezdníků s láskou k technologiím a chytrostí je používat. Často ničí roboty jen aby z nich získali součástky.</Dest>
     </String>
     <String List="0" sID="001E21">
       <EDID>DLC01EncBotRaiderProtectron02</EDID>
@@ -3655,19 +3655,19 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderSentry02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Sentry Bot Carnage</Source>
-      <Dest>Strážní robot masakr</Dest>
+      <Dest>Strážní robot párač</Dest>
     </String>
     <String List="0" sID="001E3F">
       <EDID>DLC01EncBotRaiderSentry03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Sentry Bot Butcher</Source>
-      <Dest>Strážní robot řezník</Dest>
+      <Dest>Strážní robot sekač</Dest>
     </String>
     <String List="0" sID="001E42">
       <EDID>DLC01EncBotRaiderSentry04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Sentry Bot Reaper</Source>
-      <Dest>Strážní robot sekáč</Dest>
+      <Dest>Strážní robot kosič</Dest>
     </String>
     <String List="0" sID="001E55">
       <EDID>DLC01EncBotRaiderProtectron04</EDID>
@@ -3679,7 +3679,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderProtectron03</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Protectron Basilisk</Source>
-      <Dest>Protektron bazilišek</Dest>
+      <Dest>Protektron smrťák</Dest>
     </String>
     <String List="0" sID="001E75">
       <EDID>DLC01EncBotRaiderProtectron01a</EDID>
@@ -3691,13 +3691,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderSentry01a</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Sentry Bot Ripper</Source>
-      <Dest>Strážní robot sekáč</Dest>
+      <Dest>Strážní robot trhač</Dest>
     </String>
     <String List="0" sID="001E77">
       <EDID>DLC01EncMechMrHandy01a</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Swarmbot</Source>
-      <Dest>Swarmbot</Dest>
+      <Dest>Rojbot</Dest>
     </String>
     <String List="0" sID="001E7B">
       <EDID>DLC01EncMechProtectron01a</EDID>
@@ -3733,7 +3733,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry01a</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Tankbot</Source>
-      <Dest>Tankbot</Dest>
+      <Dest>Tankobot</Dest>
     </String>
     <String List="0" sID="001E85">
       <EDID>DLC01EnchBot_Cloak_Recon</EDID>
@@ -3745,13 +3745,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01CreatureRobobrain</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Robobrain, constructed by General Atomics International before the Great War, is unique in that it uses an actual organic brain as its central processor.</Source>
-      <Dest>Robomozek, sestrojený General Atomics International před světovou válkou, je unikátní v tom, že používá skutečný organický mozek jako svůj centrální procesor.</Dest>
+      <Dest>Robomozek, sestrojený General Atomics International před Velkou válkou, je unikátní v tom, že používá skutečný organický mozek jako svůj centrální procesor.</Dest>
     </String>
     <String List="0" sID="001E87">
       <EDID>DLC01GeneralGameplayRobotWorkbench</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Robot Workbench allows for the construction of a wide range of robots... including combinations never approved by General Atomics International or RobCo!</Source>
-      <Dest>Robotická stanice umožňuje konstruovat celou řadu robotů... včetně kombinací nikdy neschválených robotů společnosti General Atomics International nebo RobCo!</Dest>
+      <Dest>Robotická stanice umožňuje konstruovat celou řadu robotů... včetně kombinací nikdy neschválených společností General Atomics International nebo RobCo!</Dest>
     </String>
     <String List="0" sID="001E88">
       <EDID>DLC01EncBotRaiderProtectron01a</EDID>
@@ -3787,7 +3787,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderMrHandy01a</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Mr. Handy Wrecker</Source>
-      <Dest>Pan Šikulka rozbíječ</Dest>
+      <Dest>Pan Šikulka ničitel</Dest>
     </String>
     <String List="0" sID="001E92">
       <EDID>DLC01EnchBot_Cloak_ReconSpell</EDID>
@@ -3949,7 +3949,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechMrHandy01aLegendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Swarmbot</Source>
-      <Dest>Legendární swarmbot</Dest>
+      <Dest>Legendární rojbot</Dest>
     </String>
     <String List="0" sID="001EDF">
       <EDID>DLC01EncMechProtectron03</EDID>
@@ -3961,43 +3961,43 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Servomech Tankbot</Source>
-      <Dest>Legendární posílený tankbot</Dest>
+      <Dest>Legendární servomech. tankbot</Dest>
     </String>
     <String List="0" sID="001EE2">
       <EDID>DLC01EncMechAssaultron04Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Quantum Scrapbot</Source>
-      <Dest>Legendární quantum šrotbot</Dest>
+      <Dest>Legendární kvantový šrotbot</Dest>
     </String>
     <String List="0" sID="001EE3">
       <EDID>DLC01EncMechMrHandy01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Servomech Swarmbot</Source>
-      <Dest>Legendární posílený swarmbot</Dest>
+      <Dest>Legendární servomech. swarmbot</Dest>
     </String>
     <String List="0" sID="001EE4">
       <EDID>DLC01EncMechMrHandy03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Cybermech Swarmbot</Source>
-      <Dest>Kybernetický swarmbot</Dest>
+      <Dest>Kybernetický rojbot</Dest>
     </String>
     <String List="0" sID="001EE6">
       <EDID>DLC01EncMechSentry01Dummy</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Weapon Dummy</Source>
-      <Dest>Atrapa zbraně</Dest>
+      <Dest>Weapon Dummy</Dest>
     </String>
     <String List="0" sID="001EE7">
       <EDID>DLC01EncBotRaiderMrHandy02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Mr. Handy Destroyer</Source>
-      <Dest>Pan Šikulka ničitel</Dest>
+      <Dest>Pan Šikulka kazisvět</Dest>
     </String>
     <String List="0" sID="001EE8">
       <EDID>DLC01EncMechMrHandy04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Quantum Swarmbot</Source>
-      <Dest>Quantum swarmbot</Dest>
+      <Dest>Kvantový rojbot</Dest>
     </String>
     <String List="0" sID="001EE9">
       <EDID>DLC01EncMechAssaultron01aLegendary</EDID>
@@ -4015,25 +4015,25 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechRoboBrain04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Quantum Robobrain</Source>
-      <Dest>Quantum robomozek</Dest>
+      <Dest>Kvantový robomozek</Dest>
     </String>
     <String List="0" sID="001EED">
       <EDID>DLC01EncMechSentry02Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Integrated Tankbot</Source>
-      <Dest>Legendární integrovaný tankbot</Dest>
+      <Dest>Legendární integrovaný tankobot</Dest>
     </String>
     <String List="0" sID="001EEE">
       <EDID>DLC01EncBotRaiderMrHandy01aLegendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Mr. Handy Wrecker</Source>
-      <Dest>Legendární Pan Šikulka rozbíječ</Dest>
+      <Dest>Legendární Pan Šikulka ničitel</Dest>
     </String>
     <String List="0" sID="001EEF">
       <EDID>DLC01EncMechMrHandy01Dummy</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Weapon Dummy</Source>
-      <Dest>Atrapa zbraně</Dest>
+      <Dest>Weapon Dummy</Dest>
     </String>
     <String List="0" sID="001EF0">
       <EDID>DLC01EncBotRaiderProtectron02Legendary</EDID>
@@ -4063,7 +4063,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Quantum Tankbot</Source>
-      <Dest>Quantum tankbot</Dest>
+      <Dest>Kvantový tankobot</Dest>
     </String>
     <String List="0" sID="001EF5">
       <EDID>DLC01EncMechAssaultron03</EDID>
@@ -4075,13 +4075,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Integrated Tankbot</Source>
-      <Dest>Integrovaný tankbot</Dest>
+      <Dest>Integrovaný tankobot</Dest>
     </String>
     <String List="0" sID="001EF7">
       <EDID>DLC01EncMechMrHandy02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Integrated Swarmbot</Source>
-      <Dest>Integrovaný swarmbot</Dest>
+      <Dest>Integrovaný rojbot</Dest>
     </String>
     <String List="0" sID="001EF8">
       <EDID>DLC01EncMechAssaultron02Legendary</EDID>
@@ -4093,13 +4093,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechProtectron04</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Quantum Junkbot</Source>
-      <Dest>Quantum vetešbot</Dest>
+      <Dest>Kvantový vetešbot</Dest>
     </String>
     <String List="0" sID="001EFA">
       <EDID>DLC01EncMechSentry03Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Cybermech Tankbot</Source>
-      <Dest>Legendární kybernetický tankbot</Dest>
+      <Dest>Legendární kybernetický tankobot</Dest>
     </String>
     <String List="0" sID="001EFB">
       <EDID>DLC01EncMechRoboBrain02Legendary</EDID>
@@ -4111,7 +4111,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechAssaultron04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Quantum Scrapbot</Source>
-      <Dest>Quantum šrotbot</Dest>
+      <Dest>Kvantový šrotbot</Dest>
     </String>
     <String List="0" sID="001EFF">
       <EDID>DLC01EncBotRaiderProtectron01Legendary</EDID>
@@ -4153,13 +4153,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncBotRaiderMrHandy01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Mr. Handy Dominator</Source>
-      <Dest>Legendární Pan Šikulka dominátor</Dest>
+      <Dest>Legendární Pan Šikulka tyran</Dest>
     </String>
     <String List="0" sID="001F09">
       <EDID>DLC01EncMechMrHandy04Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Quantum Swarmbot</Source>
-      <Dest>Legendární quantum swarmbot</Dest>
+      <Dest>Legendární kvantový rojbot</Dest>
     </String>
     <String List="0" sID="001F0A">
       <EDID>DLC01EncMechRoboBrain01aLegendary</EDID>
@@ -4171,19 +4171,19 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Cybermech Tankbot</Source>
-      <Dest>Kybernetický tankbot</Dest>
+      <Dest>Kybernetický tankobot</Dest>
     </String>
     <String List="0" sID="001F0C">
       <EDID>DLC01EncBotRaiderMrHandy02Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Mr. Handy Destroyer</Source>
-      <Dest>Legendární Pan Šikulka ničitel</Dest>
+      <Dest>Legendární Pan Šikulka kazisvět</Dest>
     </String>
     <String List="0" sID="001F0D">
       <EDID>DLC01EncBotRaiderProtectron03Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Protectron Basilisk</Source>
-      <Dest>Legendární protektron bazilišek</Dest>
+      <Dest>Legendární protektron smrťák</Dest>
     </String>
     <String List="0" sID="001F0E">
       <EDID>DLC01EncBotRaiderProtectron04Legendary</EDID>
@@ -4195,7 +4195,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechRoboBrain04Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Quantum Robobrain</Source>
-      <Dest>Legendární quantum robomozek</Dest>
+      <Dest>Legendární kvantový robomozek</Dest>
     </String>
     <String List="0" sID="001F10">
       <EDID>DLC01EncBotRaiderMrHandy03</EDID>
@@ -4207,7 +4207,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry01aLegendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Tankbot</Source>
-      <Dest>Legendární tankbot</Dest>
+      <Dest>Legendární tankobot</Dest>
     </String>
     <String List="0" sID="001F13">
       <EDID>DLC01EncMechEyeBot02</EDID>
@@ -4219,25 +4219,25 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechSentry04Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Quantum Tankbot</Source>
-      <Dest>Legendární quantum tankbot</Dest>
+      <Dest>Legendární kvantový tankobot</Dest>
     </String>
     <String List="0" sID="001F15">
       <EDID>DLC01EncMechProtectron01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Servomech Junkbot</Source>
-      <Dest>Legendární posílený vetešbot</Dest>
+      <Dest>Legendární servomech. vetešbot</Dest>
     </String>
     <String List="0" sID="001F16">
       <EDID>DLC01EncMechRoboBrain01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Servomech Robobrain</Source>
-      <Dest>Legendární posílený robomozek</Dest>
+      <Dest>Legendární servomech. robomozek</Dest>
     </String>
     <String List="0" sID="001F17">
       <EDID>DLC01EncMechProtectron04Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Quantum Junkbot</Source>
-      <Dest>Legendární quantum vetešbot</Dest>
+      <Dest>Legendární kvantový vetešbot</Dest>
     </String>
     <String List="0" sID="001F18">
       <EDID>DLC01EncBotRaiderProtectron01aLegendary</EDID>
@@ -4249,7 +4249,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechAssaultron01Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Servomech Scrapbot</Source>
-      <Dest>Legendární posílený šrotbot</Dest>
+      <Dest>Legendární servomech. šrotbot</Dest>
     </String>
     <String List="0" sID="001F1A">
       <EDID>DLC01EncMechProtectron02</EDID>
@@ -4261,13 +4261,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechMrHandy02Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Integrated Swarmbot</Source>
-      <Dest>Legendární integrovaný swarmbot</Dest>
+      <Dest>Legendární integrovaný rojbot</Dest>
     </String>
     <String List="0" sID="001F1C">
       <EDID>DLC01EncMechMrHandy03Legendary</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Legendary Cybermech Swarmbot</Source>
-      <Dest>Legendární kybernetický swarmbot</Dest>
+      <Dest>Legendární kybernetický rojbot</Dest>
     </String>
     <String List="0" sID="001F1F">
       <EDID>DLC01EncMechEyeBot02</EDID>
@@ -4321,13 +4321,13 @@ Prostě dělejte.&#xD;
       <EDID>DLC01EncMechEyeBot01Dummy</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Servomech Eyebot</Source>
-      <Dest>Posílené očko</Dest>
+      <Dest>Servomech. očko</Dest>
     </String>
     <String List="0" sID="001F43">
       <EDID>DLC01EnchBot_Unstable_SentryLeftExplosiveMinigunEnch</EDID>
       <REC>ENCH:FULL</REC>
       <Source>Unstable Sentry Left Explosive Minigun</Source>
-      <Dest>Strážní robot - nestabilní levý explozivní rotační kulomet</Dest>
+      <Dest>Strážní robot - levý nestabilní explozivní rotační kulomet</Dest>
     </String>
     <String List="0" sID="001F44">
       <EDID>DLC01EnchBot_Unstable_PerceptionCondition</EDID>
@@ -4465,7 +4465,7 @@ Prostě dělejte.&#xD;
       <EDID>DLC01JezebelNameMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Jezebel</Source>
-      <Dest>Jezebel</Dest>
+      <Dest>Jezábel</Dest>
     </String>
     <String List="1" sID="001BCA">
       <EDID>DLC01HelpRobotWorkbenchXbox</EDID>
@@ -4479,15 +4479,15 @@ Building Robots and mods requires components, which are harvested from Junk Item
 If you have the required components, select a mod and press [Accept] to craft it. The required items will be harvested automatically from your inventory (or from storage in this workbench).&#xD;
 &#xD;
 If you're lacking components, select a mod and press [YButton:20] to tag it for search. Items containing components for that mod will now appear in the world with a magnifying glass next to their name.</Source>
-      <Dest>Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení.&#xD;
+      <Dest>Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení. &#xD;
 &#xD;
-Nejprve je nutné vytvořit robotickou stanici (stiskni [XButton] pro vytvoření) nebo stačí vylepšit stávajícího robotického společníka. Můžeš mít pouze jednoho robotického společníka.&#xD;
+Nejprve je potřeba postavit základního robota (stiskni [XButton] pro vytvoření) nebo už mít robotického společníka a toho modifikovat. V jednu chvíli je možné mít pouze jednoho robotického společníka.&#xD;
 &#xD;
-Pro výrobu robotů a modifikací jsou požadovany součástky, které jsou odebírány z veteše. Náročnější modifikace mohou vyžadovat i určité perky.&#xD;
+Vytváření robotů nebo modifikací vyžaduje komponenty, které se získávájí z veteše. Pokročilejší modifikace mohou vyžadovat určité perky.&#xD;
 &#xD;
-Pokud máš požadované součástky, vyber modifikaci a stiskni [Accept] pro její vytvoření. Požadované položky budou automaticky odebrány z inventáře (nebo ze zásob v aktuální dílenské stanici).&#xD;
+Pokud máš požadované komponenty, vyber modifikaci a stiskni [Accept] pro její vytvoření. Potřebné komponenty budou automatický získány z tvého inventáře (nebo úložného prostoru v této stanici).&#xD;
 &#xD;
-Pokud nějaké součástky chybí, vyber modifikaci a stisknutím [YButton:20] je označíš pro vyhledávání. U položek, které obsahují chybějící součástky se vedle jejich jména objeví lupa.</Dest>
+Pokud ti komponenty chybí, vyber modifikaci a stiskni [YButton:20] k označení pro hledání. Věci obsahující komponenty pro zvolenou modifikaci budou mít v herním světě vedle svého názvu zobrazenou malou lupu.</Dest>
     </String>
     <String List="1" sID="001BDF">
       <EDID>DLC01HelpRobotWorkbenchPC</EDID>
@@ -4501,15 +4501,15 @@ Building Robots and mods requires components, which are harvested from Junk Item
 If you have the required components, select a mod and [Click] to craft it. The required items will be harvested automatically from your inventory (or from storage in this workbench).&#xD;
 &#xD;
 If you're lacking components, select a mod and press [YButton:20] to tag it for search. Items containing components for that mod will now appear in the world with a magnifying glass next to their name.</Source>
-      <Dest>Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení.&#xD;
+      <Dest>Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení. &#xD;
 &#xD;
-Nejprve je nutné vytvořit robotickou stanici (stiskni [XButton] pro vytvoření) nebo stačí vylepšit stávajícího robotického společníka. Můžeš mít pouze jednoho robotického společníka.&#xD;
+Nejprve je potřeba postavit základního robota (stiskni [XButton] pro vytvoření) nebo už mít robotického společníka a toho modifikovat. V jednu chvíli je možné mít pouze jednoho robotického společníka.&#xD;
 &#xD;
-Pro výrobu robotů a modifikací jsou požadovany součástky, které jsou odebírány z veteše. Náročnější modifikace mohou vyžadovat i určité perky.&#xD;
+Vytváření robotů nebo modifikací vyžaduje komponenty, které se získávájí z veteše. Pokročilejší modifikace mohou vyžadovat určité perky.&#xD;
 &#xD;
-Pokud máš požadované součástky, vyber modifikaci a stiskni [Click] pro její vytvoření. Požadované položky budou automaticky odebrány z inventáře (nebo ze zásob v aktuální dílenské stanici).&#xD;
+Pokud máš požadované komponenty, vyber modifikaci a stiskni [Click] pro její vytvoření. Potřebné komponenty budou automatický získány z tvého inventáře (nebo úložného prostoru v této stanici).&#xD;
 &#xD;
-Pokud nějaké součástky chybí, vyber modifikaci a stisknutím [YButton:20] je označíš pro vyhledávání. U položek, které obsahují chybějící součástky se vedle jejich jména objeví lupa.</Dest>
+Pokud ti komponenty chybí, vyber modifikaci a stiskni [YButton:20] k označení pro hledání. Věci obsahující komponenty pro zvolenou modifikaci budou mít v herním světě vedle svého názvu zobrazenou malou lupu.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
