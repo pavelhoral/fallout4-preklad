@@ -82,7 +82,9 @@ function buildZip(version) {
         console.log('Created ZIP \'%s\'.', name);
     });
     new DirectoryProcessor((base, file) => {
-        zip.addFile(path.join(base, file), file);
+        zip.addFile(path.join(base, file), file, {
+            mode: parseInt("0100444", 8)
+        });
     }).process('target');
     zip.end();
 }
