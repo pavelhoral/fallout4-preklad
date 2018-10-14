@@ -13,6 +13,7 @@ program.
     option('-t, --target <directory>', 'target output directory [target/Strings]').
     option('-s, --shadow <directory>', 'shadow translation source directory').
     option('-u, --unaccent', 'remove all accents from translation strings').
+    option('-p, --partial', 'include partial translations').
     option('-d, --debug', 'prepend string identifiers to translations').
     parse(process.argv);
 
@@ -83,7 +84,8 @@ fs.ensureDirSync(targetDirectory);
 
 ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach((type, index) => {
     var strings = inputStrings.
-            filter((string) => string.$.List == index).
+            filter(string => string.$.List == index).
+            filter(string => program.partial || !string.$.Partial).
             reduce((result, string) => {
                 result[parseInt(string.$.sID, 16)] =  renderString(string);
                 return result;
