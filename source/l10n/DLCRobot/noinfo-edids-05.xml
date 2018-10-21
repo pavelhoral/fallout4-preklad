@@ -153,7 +153,7 @@ Vyberte zdroj k lokalizaci:</Dest>
       <EDID>miscmod_DLC01_mod_LightningGun_Barrel_ChargeLob</EDID>
       <REC>MISC:FULL</REC>
       <Source>Tesla Rifle Lob Barrel</Source>
-      <Dest>Tesla zbraň - oblouková hlaveň</Dest>
+      <Dest>Tesla zbraň - padáková hlaveň</Dest>
     </String>
     <String List="0" sID="0000C5">
       <EDID>DLC01WorkshopResourceScannerAmmo</EDID>
@@ -293,7 +293,7 @@ Vyberte zdroj k lokalizaci:</Dest>
       <EDID>miscmod_DLC01_mod_LightningGun_Barrel_ChargeShotgun</EDID>
       <REC>MISC:FULL</REC>
       <Source>Tesla Rifle Shotgun Barrel</Source>
-      <Dest>Tesla zbraň - hlaveň brokovnice</Dest>
+      <Dest>Tesla zbraň - brokovnicová hlaveň</Dest>
     </String>
     <String List="0" sID="0001DD">
       <EDID>miscmod_DLC01Bot_Hand_Melee_Protectron_Melee_Claw_Left</EDID>
@@ -409,7 +409,7 @@ Vyberte zdroj k lokalizaci:</Dest>
       <EDID>DLC01WorkshopResourceScannerMain</EDID>
       <REC>TERM:FULL</REC>
       <Source>EyeBot Pod</Source>
-      <Dest>Pod očka</Dest>
+      <Dest>Stanice očka</Dest>
     </String>
     <String List="0" sID="0002DF">
       <EDID>DLC01WorkshopResourceScannerExplosives</EDID>
@@ -593,7 +593,7 @@ Vyberte typ výbušniny k lokalizaci:</Dest>
       <EDID>miscmod_DLC01_mod_LightningGun_Barrel_SemiAuto</EDID>
       <REC>MISC:FULL</REC>
       <Source>Tesla Rifle Semi-Auto Barrel</Source>
-      <Dest>Tesla zbraň - poloautomat hlaveň</Dest>
+      <Dest>Tesla zbraň - poloautomat. hlaveň</Dest>
     </String>
     <String List="0" sID="0004EC">
       <EDID>DLC01WorkshopResourceScannerComponents</EDID>
@@ -2726,7 +2726,7 @@ Vyberte typ munice k lokalizaci:</Dest>
       <EDID>miscmod_DLC01Bot_Head_Sentry_Armor_Wasteland11_Unstable</EDID>
       <REC>MISC:FULL</REC>
       <Source>Sentry Ahab's Helm</Source>
-      <Dest>Strážní robot (Ahabova helma)</Dest>
+      <Dest>Strážní robot (Achabova helma)</Dest>
     </String>
     <String List="0" sID="0015A9">
       <EDID>DLC01Scrappable_Debris08</EDID>
@@ -3218,7 +3218,7 @@ Vyberte typ munice k lokalizaci:</Dest>
       <EDID>miscmod_DLC01Bot_Head_RoboBrain_Jezebel_MQ04</EDID>
       <REC>MISC:FULL</REC>
       <Source>Jezebel's Head</Source>
-      <Dest>Jezebelina hlava</Dest>
+      <Dest>Jezábelina hlava</Dest>
     </String>
     <String List="0" sID="0017AC">
       <EDID>miscmod_dlc01_mod_melee_assaultronblade_Standard</EDID>
@@ -3254,7 +3254,7 @@ Vyberte typ munice k lokalizaci:</Dest>
       <EDID>DLC01WorkshopSchematicResourceScanner</EDID>
       <REC>MISC:FULL</REC>
       <Source>EyeBot Pod Schematics</Source>
-      <Dest>Schémata podu očka</Dest>
+      <Dest>Schéma stanice očka</Dest>
     </String>
     <String List="0" sID="0019AB">
       <EDID>DLC01WorkshopSchematicSpotlight</EDID>
@@ -3608,7 +3608,7 @@ Vyberte typ munice k lokalizaci:</Dest>
       <EDID>miscmod_DLC01Bot_Head_RoboBrain_Jezebel_MenuSort</EDID>
       <REC>MISC:FULL</REC>
       <Source>Jezebel's Head</Source>
-      <Dest>Jezebelina hlava</Dest>
+      <Dest>Jezábelina hlava</Dest>
     </String>
     <String List="0" sID="001E13">
       <EDID>DLC01WeaponTeslaRifle</EDID>
@@ -4050,13 +4050,13 @@ Nastavení bojových inhibitorů bylo obnoveno.</Dest>
       <EDID>DLC01WorkshopResourceTargetFailureMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Scan failed to detect that resource. Please try again later.</Source>
-      <Dest>Načítání selhalo. Prosím, zkuste to znovu později. [XX: "Scan failed to detect that resource" neznamená "Načítání selhalo", ale nevím co je to ve hře. Je také možné, že je to v pořádku a se skenováním to nemá nic společného.]</Dest>
+      <Dest>Vybraný zdroj nebyl v okolí nalezen. Prosím, zkuste to znovu později.</Dest>
     </String>
     <String List="1" sID="000220">
       <EDID>DLC01workshop_co_ResourceScanner</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Scan for resources.</Source>
-      <Dest>Průzkum zdrojů. [XX: To samé jako předchozí "MESG", chtělo by to otestovat, tohle ale v Creation Kitu nejde...]</Dest>
+      <Dest>Hledat zdroje.</Dest>
     </String>
     <String List="1" sID="00106E">
       <EDID>DLC01TutorialWorkbenchRobotTotal_MK</EDID>
@@ -4073,21 +4073,22 @@ If you have the required components, select a mod with [Click] to craft it. The 
 If you're lacking components, select a mod and press [YButton:19] to tag it for search. Items containing components for that mod will now appear in the world with a magnifying glass next to their name.&#xD;
 </Source>
       <Dest>ROBOTICKÁ STANICE&#xD;
-Robotická stanice ti umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení.&#xD;
+Robotická stanice umožňuje vytvářet robotické společníky a modifikace pro jejich vylepšení.&#xD;
 &#xD;
-Nejprve si musíš postavit robotickou stanici [XX: Nevím, čím se myslí "Workbench Bot", osobně si myslím, že člověk musí vyrobit robota, ale je možné, že to znamená robotickou stanici??] (stisknutím [XButton]) nebo už mít robotického společníka, aby mohl být upraven. Můžeš mít pouze jednoho robotického společníka na cestách.&#xD;
+K zahájení úprav musíš mít buď robotického společníka, nebo můžeš stisknutím [XButton] postavit výchozí torzo. V jeden moment můžeš mít jen jednoho robotického společníka.&#xD;
 &#xD;
-Stavění robotů a modifikací vyžaduje součástky, které získáš ze šrotu. Náročnější modifikace mohou vyžadovat i určité perky.&#xD;
+Stavění robotů a modifikací vyžaduje komponenty, které získáváš zpracováním veteše. Pokročilejší modifikace mohou vyžadovat specifické perky.&#xD;
 &#xD;
-Pokud máš požadované součástky, vyber modifikaci a stisknutím [Click] ji vytvoříš. Požadované položky budou automaticky odebrány z  tvého inventáře (nebo ze zásob z aktuální dílenské stanice).&#xD;
+Pokud máš potřebné komponenty pro vybranou modifikaci, vyrob ji pomocí [Click]. Spotřebované předměty budou automaticky odebrány z úložného prostoru stanoviště úprav (nebo z tvého inventáře).&#xD;
 &#xD;
-Pokud ti nějaké součástky chybí, vyber modifikaci a stisknutím [YButton:19] je označíš pro vyhledávání. U položek obsahujících hledané součástky se objeví lupa vedle jejich jména.</Dest>
+Pokud nemáš potřebné komponenty, můžeš modifikaci označit pro hledání stisknutím [YButton:19]. Předměty obsahující hledané komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu.&#xD;
+</Dest>
     </String>
     <String List="1" sID="0011E8">
       <EDID>DLC01TutorialRobotWorkbench01</EDID>
       <REC>MESG:DESC</REC>
       <Source>In order to modify a robot, either build a new one (press [XButton] to do so) or use your existing Robot Companion.</Source>
-      <Dest>Aby bylo možné modifikovat robota, musíš nejprve vytvořit nového (stisknutím [XButton]) nebo vybráním tvého, již existujícího robotického společníka.</Dest>
+      <Dest>Aby bylo možné upravovat robota, musíš buď nejprve vytvořit nového (stisknutím [XButton]), nebo využít svého současného robotického společníka.</Dest>
     </String>
     <String List="1" sID="00144C">
       <EDID>DLC01WorkshopRobotAttack01Message</EDID>
@@ -4165,67 +4166,67 @@ Pokud ti nějaké součástky chybí, vyber modifikaci a stisknutím [YButton:19
       <EDID>DLC01WorkshopSchematicSpotlight_Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can now build Wall-Mounted Spotlights.</Source>
-      <Dest>Nyní můžeš postavit nástěnné reflektory.</Dest>
+      <Dest>Nyní můžeš stavět nástěnné reflektory.</Dest>
     </String>
     <String List="1" sID="00198D">
       <EDID>DLC01WorkshopSchematicEyebotPod_Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can now build EyeBot Pods at outdoor workshops.</Source>
-      <Dest>Nyní můžeš stavět pody pro očka ve venkovních dílnách.</Dest>
+      <Dest>Nyní můžeš ve venkovních dílnách stavět stanice pro očka.</Dest>
     </String>
     <String List="1" sID="001BCB">
       <EDID>DLC01WorkshopSchematicWorkbench_Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can now build a Robot Workbench.</Source>
-      <Dest>Nyní můžeš postavit robotickou stanici.</Dest>
+      <Dest>Nyní můžeš stavět robotické stanice.</Dest>
     </String>
     <String List="1" sID="001BD9">
       <EDID>DLC01TutorialRobotRepairKit</EDID>
       <REC>MESG:DESC</REC>
       <Source>Robot Repair Kits repair robot companions downed in combat, and can be favorited for quick use. Humans cannot use Robot Repair Kits on themselves.</Source>
-      <Dest>Souprava pro opravu robota opraví robotické společníky poražené v boji, dá se zařadit do předvoleb pro rychlé použití. Soupravu pro opravu robota nelze použít na lidi.</Dest>
+      <Dest>Souprava na opravu robotů opraví robotické společníky poražené v boji a může být zařazena do předvoleb pro rychlé použití. Soupravu na opravu robotů nelze použít na lidi.</Dest>
     </String>
     <String List="1" sID="001C13">
       <EDID>DLC01TutorialRobotWorkbench04</EDID>
       <REC>MESG:DESC</REC>
       <Source>Components you lack can be tagged with [YButton:20]. Items you find that contain the components will appear with a magnifying glass next to their name.</Source>
-      <Dest>Chybějící součástky mohou být označeny pomocí [YButton:20]. U položek obsahujících hledané součástky se objeví lupa vedle jejich jména.</Dest>
+      <Dest>Chybějící komponenty mohou být označeny pomocí [YButton:20]. Předměty obsahující hledané komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu. </Dest>
     </String>
     <String List="1" sID="001C22">
       <EDID>DLC01TutorialRobotWorkbench03</EDID>
       <REC>MESG:DESC</REC>
       <Source>Select the desired mod and [Click] to craft it. If you have the required components, they will be harvested from your inventory or workbench.</Source>
-      <Dest>Vyber požadovanou modifikaci a stisknutím [Click] ji vyrobíš. Pokud máš požadované součástky, budou odebrány z tvého inventáře nebo dílenské stanice.</Dest>
+      <Dest>Zvol modifikaci a vyrob ji stisknutím [Click]. Pokud máš požadované komponenty, budou odebrány z tvého inventáře (nebo úložného prostoru stanoviště úprav).</Dest>
     </String>
     <String List="1" sID="001C28">
       <EDID>DLC01TutorialRobotWorkbench02_MK</EDID>
       <REC>MESG:DESC</REC>
       <Source>Building Robots and mods requires components, which are harvested from Junk Items. More advanced mods may require certain perks.</Source>
-      <Dest>Stavění robotů a modifikací vyžaduje součástky, které získáš ze šrotu. Náročnější modifikace mohou vyžadovat i určité perky.</Dest>
+      <Dest>Stavění robotů a modifikací vyžaduje komponenty, které získáváš zpracováním veteše. Pokročilejší úpravy mohou vyžadovat specifické perky.</Dest>
     </String>
     <String List="1" sID="001C3E">
       <EDID>DLC01TutorialRobotWorkbench01_MK</EDID>
       <REC>MESG:DESC</REC>
       <Source>In order to modify a robot, either build a new one (press [XButton] to do so) or use your existing Robot Companion.</Source>
-      <Dest>Aby bylo možné modifikovat robota, musíš nejprve vytvořit nového (stisknutím [XButton]) nebo vybráním tvého, již existujícího robotického společníka.</Dest>
+      <Dest>Aby bylo možné upravovat robota, musíš buď nejprve vytvořit nového (stisknutím [XButton]), nebo využít svého současného robotického společníka.</Dest>
     </String>
     <String List="1" sID="001CDA">
       <EDID>DLC01TutorialRobotWorkbench04_MK</EDID>
       <REC>MESG:DESC</REC>
       <Source>Components you lack can be tagged with [YButton:20]. Items you find that contain the components will appear with a magnifying glass next to their name.</Source>
-      <Dest>Chybějící součástky mohou být označeny pomocí [YButton:20]. U položek obsahujících hledané součástky se objeví lupa vedle jejich jména.</Dest>
+      <Dest>Chybějící komponenty mohou být označeny pomocí [YButton:20]. Předměty obsahující hledané komponenty budou následně zobrazovány s ikonou lupy vedle svého názvu. </Dest>
     </String>
     <String List="1" sID="001D22">
       <EDID>DLC01TutorialRobotWorkbench03_MK</EDID>
       <REC>MESG:DESC</REC>
       <Source>Select the desired mod and [Accept] to craft it. If you have the required components, they will be harvested from your inventory or workbench.</Source>
-      <Dest>Vyber požadovanou modifikaci a stisknutím [Accept] ji vyrobíš. Pokud máš požadované součástky, budou odebrány z tvého inventáře nebo dílenské stanice.</Dest>
+      <Dest>Zvol modifikaci a vyrob ji stisknutím [Activate]. Pokud máš požadované komponenty, budou odebrány z tvého inventáře (nebo úložného prostoru stanoviště úprav).</Dest>
     </String>
     <String List="1" sID="001DB2">
       <EDID>DLC01TutorialRobotWorkbench02</EDID>
       <REC>MESG:DESC</REC>
       <Source>Building Robots and mods requires components, which are harvested from Junk Items. More advanced mods may require certain perks.</Source>
-      <Dest>Stavění robotů a modifikací vyžaduje součástky, které získáš ze šrotu. Náročnější modifikace mohou vyžadovat i určité perky.</Dest>
+      <Dest>Stavění robotů a modifikací vyžaduje komponenty, které získáváš zpracováním veteše. Pokročilejší úpravy mohou vyžadovat specifické perky.</Dest>
     </String>
     <String List="1" sID="02B70F">
       <EDID>FollowersCompanionDismissMessage</EDID>

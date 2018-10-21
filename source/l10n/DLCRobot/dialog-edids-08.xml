@@ -211,17 +211,17 @@
       <Source>I'm not picking up a signal from any of my bots right now, but that doesn't necessarily mean you've found them all.</Source>
       <Dest>Momentálně nezachytávám signál od žádného z mých robotů, ale to ještě nemusí nutně znamenat že už byli nalezeni všichni.</Dest>
     </String>
-    <String List="2" sID="00064F">
+    <String List="2" sID="00064F" Partial="1">
       <EDID>DLC01MQPostQuestPlayerGreetingMechanist01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Isabel, are you tracking any more of your rogue bots?</Source>
-      <Dest>Izabelo, máš signál od některého dalšího z tvých zběhlých robotů?</Dest>
+      <Dest>Izabelo, nemáš pozici nějakého dalšího ze svých neovladatelných robotů?</Dest>
     </String>
-    <String List="2" sID="000650">
+    <String List="2" sID="000650" Partial="1">
       <EDID>DLC01MQPostQuestPlayerGreetingCodsworth01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ada, are you picking up a signal from any more of the rogue robots?</Source>
-      <Dest>Ado, zachytáváš signál od některého dalšiho ze zběhlých robotů?</Dest>
+      <Dest>Ado, nechytáš signál od nějakého dalšího z neovladatelných robotů?</Dest>
     </String>
     <String List="2" sID="000652">
       <EDID>[0100851B]</EDID>
