@@ -78,7 +78,7 @@ class StringsReader {
 
     readFile(filename, encoding, target) {
         var buffer = fs.readFileSync(filename),
-            padded = path.extname(filename) !== '.STRINGS';
+            padded = path.extname(filename).toUpperCase() !== '.STRINGS';
         return this.readBuffer(buffer, padded, encoding, target);
     }
 
