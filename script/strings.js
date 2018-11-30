@@ -50,6 +50,21 @@ program.
         });
     });
 
+program.
+    command('export <file...>').
+    description('Export contents of STRINGS file.').
+    option('-t, --text', 'generate text output').
+    action((files, options) => {
+        files.forEach(file => {
+            var strings = readStrings(file);
+            if (options.text) {
+                output.write(Object.keys(strings).map(key => strings[key]).join('\n'));
+            } else {
+                output.write(JSON.stringify(strings, null, '  '));
+            }
+        });
+    });
+
 program.parse(process.argv);
 output.close();
 if (!program.args.length) {
