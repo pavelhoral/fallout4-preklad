@@ -34,10 +34,12 @@ A critical power failure has been detected. All systems are offline.&#xD;
       <Dest>UŽIVATEL: $Administrátor&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Byl zjištěn bezpečnostní poplach Epsilon-VI.&#xD;
+Byl vyhlášen bezpečnostní poplach Epsilon-VI.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Byl zjištěn kritický výpadek elektřiny. Všechny systémy jsou vypnuté.</Dest>
+Byl zjištěn kritický výpadek elektřiny. Všechny systémy jsou nedostupné.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="00003B">
       <EDID>DLC01EnchBot_Unstable_SentryRightLaserGatlingEnch</EDID>
@@ -159,7 +161,7 @@ Byl zjištěn kritický výpadek elektřiny. Všechny systémy jsou vypnuté.</D
       <Source>Connecting to Assembly Line Control...&#xD;
 ...ERROR. Invalid response from the RobCo Assembly Line Control Unit. Please contact Facilities for repairs.</Source>
       <Dest>Připojování k ovládání montážní linky...&#xD;
-...CHYBA. Neplatná odpověď z ovládací jednotky montážní linky RobCo. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
+...CHYBA. Neplatná odpověď z řídicí jednotky montážní linky RobCo. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
     </String>
     <String List="0" sID="00021E">
       <EDID>DLC01EnchBot_Cloak_DetectionEffect</EDID>
@@ -261,7 +263,7 @@ Byl zjištěn kritický výpadek elektřiny. Všechny systémy jsou vypnuté.</D
       <EDID>DLC01Lair_CC_MasterControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Master Control Terminal</Source>
-      <Dest>Hlavní ovládací terminál</Dest>
+      <Dest>Terminál hlavního ovládání</Dest>
     </String>
     <String List="0" sID="0004E8">
       <EDID>DLC01EncMechMrHandy01Template</EDID>
@@ -323,21 +325,21 @@ Restoring elevator access... done.&#xD;
 Epsilon-VI Security Alert terminated successfully.&#xD;
 &#xD;
 This facility is now under your control, $Administrator.</Source>
-      <Dest>Přistupování k ovládání systému RB-2851... hotovo.&#xD;
+      <Dest>Přistupování k řídicím systémům RB-2851... hotovo.&#xD;
 &#xD;
 Hledání nepřátelských cílů... cíle objeveny.&#xD;
 ...Eliminace nepřátelských cílů. Čekejte prosím...&#xD;
 Hledání nepřátelských cílů... žádné cíle.&#xD;
 &#xD;
 Hledání chyb systému...&#xD;
-...nalezeno několik chyb. Nutná oprava.&#xD;
+...detekováno několik chyb. Nutná oprava.&#xD;
 &#xD;
-Rušení bezpečnostního uzavření... hotovo.&#xD;
+Rušení bezpečnostního uzamčení... hotovo.&#xD;
 Obnovování přístupu k výtahu... hotovo.&#xD;
 &#xD;
 Ukončení bezpečnostního poplachu Epsilon-VI úspěšné.&#xD;
 &#xD;
-Toto zařízení nyní je pod vaší kontrolou, $Administratore.</Dest>
+Tento objekt je nyní pod vaší kontrolou, $Administratore.</Dest>
     </String>
     <String List="0" sID="000655">
       <EDID>DLC01EnchBot_Cloak_ShieldSpellEffect</EDID>
@@ -417,7 +419,9 @@ An Epsilon-VI Security Alert has been declared.&#xD;
       <Dest>UŽIVATEL: $Administrátor&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Byl zjištěn bezpečnostní poplach Epsilon-VI.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="000807">
       <EDID>DLC01EnchBot_ReduceCarryWeight20</EDID>
@@ -600,22 +604,22 @@ Releasing security lockdown... done.&#xD;
 Epsilon-VI Security Alert terminated successfully.&#xD;
 &#xD;
 This facility is now under your control, $Administrator.</Source>
-      <Dest>Přistupování k ovládání systému RB-2851... hotovo.&#xD;
+      <Dest>Přistupování k řídicím systémům RB-2851... hotovo.&#xD;
 &#xD;
 Hledání nepřátelských cílů... cíle objeveny.&#xD;
 ...Eliminace nepřátelských cílů. Čekejte prosím...&#xD;
 Hledání nepřátelských cílů... žádné cíle.&#xD;
 &#xD;
 Hledání chyb systému...&#xD;
-...nalezeno selhání napájení. Obnovuji napájení.&#xD;
+...detekováno selhání napájení. Obnovování napájení.&#xD;
 Hledání chyb systému...&#xD;
-...nalezeno několik chyb. Nutná oprava.&#xD;
+...detekováno několik chyb. Nutná oprava.&#xD;
 &#xD;
-Rušení bezpečnostního uzavření... hotovo.&#xD;
+Rušení bezpečnostního uzamčení... hotovo.&#xD;
 &#xD;
 Ukončení bezpečnostního poplachu Epsilon-VI úspěšné.&#xD;
 &#xD;
-Toto zařízení nyní je pod vaší kontrolou, $Administratore.</Dest>
+Tento objekt je nyní pod vaší kontrolou, $Administratore.</Dest>
     </String>
     <String List="0" sID="000A1F">
       <EDID>DLC01COMRHellos</EDID>
@@ -673,7 +677,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="000AE9">
       <EDID>DLC01EnchBot_FortifyCarryWeight10</EDID>
@@ -765,7 +771,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <Source>Connecting to Security Door Control...&#xD;
 ...ERROR in relay 1607. Unable to initialize the MaxLock Security Door Control Interface module. Please contact Facilities for repairs.</Source>
       <Dest>Připojování k ovládání bezpečnostních dveří...&#xD;
-...CHYBA v relé 1607. Nelze inicializovat modul ovládacího rozhraní bezpečnostních dveří MaxLock. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
+...CHYBA přenosu 1607. Nelze inicializovat modul řídicího rozhraní bezpečnostních dveří MaxLock. Prosím, kontaktujte kvůli opravám údržbu.</Dest>
     </String>
     <String List="0" sID="000BB7">
       <EDID>DLC01EnchBot_FortifyMeleeDmg50</EDID>
@@ -863,7 +869,7 @@ This terminal may only be accessed with an R-30 Alpha clearance. By accessing th
       <Dest>***VAROVÁNÍ***&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
-Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
+Tento terminál je přístupný pouze s pověřením R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2620,7 +2626,7 @@ Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstup
       <Source>This terminal may only be accessed with an R-30 Alpha clearance. By accessing this terminal the viewer acknowledges that the appropriate clearance is held. Violations are a punishable offense subject to military jurisdiction.&#xD;
 &#xD;
 </Source>
-      <Dest>Tento terminál může být přístupný pouze s oprávněním R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
+      <Dest>Tento terminál je přístupný pouze s pověřením R-30 Alpha. Vstupem na tento terminál uživatel potvrzuje, že má příslušné oprávnění. Porušování je trestné a spadá pod vojenskou soudní pravomoc.&#xD;
 </Dest>
     </String>
     <String List="0" sID="00126D">
@@ -2761,7 +2767,7 @@ I když cítím nadšení z těch dvou zachráněných... Nevím, jestli budu mo
       <EDID>DLC01Lair_CC_WorkroomTerminal</EDID>
       <REC id="1">TERM:BTXT</REC>
       <Source>HUBRIS: Welcome, Isabel. Please make a selection.</Source>
-      <Dest>HUBRIS: Vítejte, Isabelo. Prosím, vyberte si.</Dest>
+      <Dest>HUBRIS: Vítejte, Izabelo. Prosím, vyberte si.</Dest>
     </String>
     <String List="0" sID="0012BA">
       <EDID>DLC01Lair_CC_WorkroomTerminal_Mechanist</EDID>
@@ -3031,7 +3037,7 @@ HUBRIS: Prosím, vyberte záznam.</Dest>
       <EDID>DLC01HagenRaiderEntranceTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Rust Devil Entry Terminal</Source>
-      <Dest>Terminál záznamů Rezavých ďáblů</Dest>
+      <Dest>Vstupní terminál Rezavých ďáblů</Dest>
     </String>
     <String List="0" sID="0018D6">
       <EDID>DLC01HagenRaiderIveysTerminal</EDID>
@@ -3266,13 +3272,14 @@ We will find him, make a bot from his bones, and force it take out our trash. &#
 </Source>
       <Dest>Kdo je to ten Mechanik?!?&#xD;
 &#xD;
-Jeho krvelační roboti jsou všude! Každé smetiště, každá továrna, dokonce i v parku Pionýrů robotiky. Jak máme najít díly pro naše vlastní roboty s tímhle ztroskotancem, který nás odříznul?&#xD;
+Jeho krvelační roboti jsou všude! Každé smetiště, každá továrna, dokonce i v parku Pionýrů robotiky. Jak máme najít díly pro naše vlastní roboty s tímhle lemplem, který nás od všeho odříznul?&#xD;
 &#xD;
 Ne že bychom nebojovali. Ale ježiši. Zabili jsme skupinu jeho robotů a objevilo se 10 dalších. Skáčou mu snad někde z montážní linky?&#xD;
 &#xD;
 Jeho nalezení je naší nejvyšší prioritou, protože co jiného můžeme dělat, když nám stojí v cestě?&#xD;
 &#xD;
-Najdeme ho, z jeho kostí uděláme robota a donutíme ho za všechno zaplatit.</Dest>
+Najdeme ho a z jeho kostí uděláme robota, který nám bude vynášet smetí.&#xD;
+</Dest>
     </String>
     <String List="0" sID="001972">
       <EDID>DLC01HagenRaiderJezebelTerminal</EDID>
@@ -3294,11 +3301,11 @@ I want AT LEAST TWO living breathing humans patrolling the perimiter at all time
 -IVEY </Source>
       <Dest>REZAVÍ ĎÁBLOVÉ,&#xD;
 &#xD;
-se všemi těmi Mechanikovými roboty tam venku si nemůžeme dovolit šidit hlídky. Z toho co víme může ten parchant klidně na zítra plánovat nájezd, aby si vzal naše roboty.&#xD;
+se všemi těmi Mechanikovými roboty tam venku si nemůžeme dovolit šidit hlídky. Z toho, co víme, může ten parchant klidně na zítra plánovat nájezd, aby nám ukradl naše roboty.&#xD;
 &#xD;
-Ne Lockjawe, to neznamená, že můžeš nastavit tři roboty, aby hlídkovali a zdřímnout si.&#xD;
+Ne Strnáči, to neznamená, že můžeš nastavit tři roboty, aby hlídkovali a zdřímnout si.&#xD;
 &#xD;
-Chci MINIMÁLNĚ DVA živé dýchající lidi obcházející perimetr za každých okolností a jdete mi vědět HNED, jak uvidíte nějakého cizího robota na kopci.&#xD;
+Chci MINIMÁLNĚ DVA živé dýchající lidi obcházející perimetr za každých okolností a hlaste OKAMŽITĚ, jak někde uvidíte nějakého cizího robota.&#xD;
 &#xD;
 -IVEY</Dest>
     </String>

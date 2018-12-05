@@ -407,13 +407,13 @@ Zkontrolujte všechna připojení a zkuste to znovu!</Dest>
       <EDID>DLC01MQ04</EDID>
       <REC id="9">QUST:NNAM</REC>
       <Source>Build Jezebel a Body</Source>
-      <Dest>Postav Jezabel tělo</Dest>
+      <Dest>Postav Jezábel tělo</Dest>
     </String>
     <String List="0" sID="000883">
       <EDID>DLC01MQ04</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Speak to Jezebel</Source>
-      <Dest>Promluv si s Jezebel</Dest>
+      <Dest>Promluv si s Jezábel</Dest>
     </String>
     <String List="0" sID="000884">
       <EDID>DLC01MQ04</EDID>
@@ -437,7 +437,7 @@ Zkontrolujte všechna připojení a zkuste to znovu!</Dest>
       <EDID>DLC01Lair_VoiceprintHolotapeFacilities</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Facilities Director's Holotape</Source>
-      <Dest>Holopáska ředitele zařízení</Dest>
+      <Dest>Holopáska ředitele správy objektu</Dest>
     </String>
     <String List="0" sID="000925">
       <EDID>DLC01LightningHazardEffect</EDID>
@@ -845,7 +845,7 @@ Zkontrolujte všechna připojení a zkuste to znovu!</Dest>
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Facilities Management Terminal</Source>
-      <Dest>Terminál vedení zařízení</Dest>
+      <Dest>Terminál správy objektu</Dest>
     </String>
     <String List="0" sID="000F52">
       <EDID>DLC01MQ04RaiderBossMessage</EDID>
@@ -1297,11 +1297,11 @@ Cela: A-2&#xD;
 Věk: 33&#xD;
 Pohlaví: Žena&#xD;
 &#xD;
-Historie&#xD;
-Bývalá příslušnice armády. Usvědčena ze zabití 2. stupně. Útok vedl k hospitalizaci a později ke smrti oběti.&#xD;
+Minulost&#xD;
+Bývalá příslušnice armády. Usvědčena ze zabití 2. stupně. Napadení vedoucí k hospitalizaci a později smrti oběti.&#xD;
 &#xD;
-Ohodnocení&#xD;
-Subjekt je vysoce inteligentní a prokazatelně duševně zdravý. Schváleno pro kandidaturu.</Dest>
+Hodnocení&#xD;
+Subjekt je vysoce inteligentní a prokazatelně duševně zdravý. Schváleno pro proceduru.</Dest>
     </String>
     <String List="0" sID="001263">
       <EDID>DLC01Lair_RW_RoboAssemblyTerminal</EDID>
@@ -1327,10 +1327,10 @@ Cela: A-4&#xD;
 Věk: 32&#xD;
 Pohlaví: Muž&#xD;
 &#xD;
-Historie&#xD;
+Minulost&#xD;
 Usvědčen z vraždy 2. stupně pod vlivem alkoholu.&#xD;
 &#xD;
-Ohodnocení&#xD;
+Hodnocení&#xD;
 Subjekt vykazuje vysokou inteligenci a znalosti taktiky. Mírné příznaky PTSD. Dr. Astleford vyhodnotí léčbu.</Dest>
     </String>
     <String List="0" sID="001278">
@@ -1365,7 +1365,7 @@ Contamination detected in the extraction room. Please notify Facilities and the 
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***POPLACH***&#xD;
-Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte zařízení a vedoucího lékařského důstojníka.&#xD;
+Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte správu objektu a vedoucího lékařského důstojníka.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1373,7 +1373,7 @@ Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte zař�
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Facility Requests</Source>
-      <Dest>Žádosti zařízení</Dest>
+      <Dest>Žádosti k vyřízení</Dest>
     </String>
     <String List="0" sID="00128A">
       <EDID>DLC01Lair_RW_HoldingBlockObsTerminal</EDID>
@@ -1385,7 +1385,7 @@ Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte zař�
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Unit Tasks</Source>
-      <Dest>Příkazy jednotky</Dest>
+      <Dest>Úkoly jednotek</Dest>
     </String>
     <String List="0" sID="00129A">
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
@@ -1400,13 +1400,13 @@ September R&amp;D Orders [Pending Approval]&#xD;
 - 200 autoclave bags&#xD;
 - 2 sharps bins&#xD;
 - 50 units isopropyl alcohol</Source>
-      <Dest>Zářijové výrobní zakázky [schváleno T. Harkinem]&#xD;
+      <Dest>Zářijové objednávky vybavení [schváleno T. Harkinem]&#xD;
 - 17 metrů měděného drátu&#xD;
 - 100 ocelových plechů 60x120&#xD;
 - 8 vysokoteplotních vzduchových filtrů&#xD;
 - 2 RobCo terminály model E-601&#xD;
 &#xD;
-Zářijové zakázky oddělení výzkumu a vývoje [čeká na schválení]&#xD;
+Zářijové objednávky oddělení výzkumu a vývoje [čeká na schválení]&#xD;
 - 200 sterilizačních vaků&#xD;
 - 2 nádoby na nebezpečný odpad&#xD;
 - 50 jednotek isopropylalkoholu</Dest>
@@ -1429,8 +1429,8 @@ Cela: B-4&#xD;
 Věk: 48&#xD;
 Pohlaví: Žena&#xD;
 &#xD;
-Historie&#xD;
-Odsouzena za žhářství. Vypálila soudní dům a zanechala 3 mrtvé. Přistupovat pouze pod vlivem sedativ.&#xD;
+Minulost&#xD;
+Odsouzena za žhářství. Vypálila soudní dvůr s 3 obětmi na životě. Přistupovat pouze po podání sedativ.&#xD;
 &#xD;
 Ohodnocení&#xD;
 Dědičná demence v rodině. U mozku je pravděpodobnost rozpadání nebo zkreslování dat. Doporučeno ukončení.</Dest>
@@ -1451,7 +1451,7 @@ Dědičná demence v rodině. U mozku je pravděpodobnost rozpadání nebo zkres
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Repair Orders</Source>
-      <Dest>Objednávka opravy</Dest>
+      <Dest>Žádosti k opravě</Dest>
     </String>
     <String List="0" sID="0012D9">
       <EDID>DLC01Lair_RW_HoldingBlockObsTerminal</EDID>
@@ -1471,10 +1471,10 @@ Cela: B-6&#xD;
 Věk: 22&#xD;
 Pohlaví: Žena&#xD;
 &#xD;
-Historie&#xD;
-Odsouzena za vraždu servírky. Náchylná k náhlým výbuchům násilí. Doporučujeme subjekt držet pod kontrolou za každých okolností nebo podávat sedativa.&#xD;
+Minulost&#xD;
+Odsouzena za vraždu servírky. Náchylná k náhlým výbuchům násilí. Doporučujeme subjekt držet spoutaný za každých okolností, nebo pod vlivem sedativ.&#xD;
 &#xD;
-Ohodnocení&#xD;
+Hodnocení&#xD;
 Velmi emocionální. V současné době na koktejlu antidepresiv a antistresiv. Dr. Astleford začíná psychiatrické sezení za účelem dalšího zjištění, zda se jedná o vhodného kandidáta.</Dest>
     </String>
     <String List="0" sID="0012E7">
@@ -1496,7 +1496,7 @@ Assigned: T. Delano</Source>
 Přidělení: ŽÁDNÉ&#xD;
 &#xD;
 G-421 Pan Odvážný&#xD;
-Žádost: Žádné optické čtení ve středním oku. Je třeba vyměnit.&#xD;
+Žádost: Žádný optický vstup ze středního oka. Je třeba vyměnit.&#xD;
 Přidělení: J. McDaniel&#xD;
 &#xD;
 P-466 protektron&#xD;
@@ -1527,11 +1527,11 @@ Cela: B-3&#xD;
 Věk: 34&#xD;
 Pohlaví: Muž&#xD;
 &#xD;
-Historie&#xD;
+Minulost&#xD;
 Usvědčen ze sériových vražd v oblasti DC. Nenavštěvovat bez doprovodu. Přítomnost bezpečnostního personálu nutná u všech rozhovorů.&#xD;
 &#xD;
-Ohodnocení&#xD;
-A22 vykazuje vyšší mozkové funkce, ale slabou odolnost. Byla zahájena vysokoproteinová dieta a začala elektroterapeutická sezení pro léčbu svalů. Nemělo by trvat dlouho, než jeho mozek bude schopný přežít proceduru.</Dest>
+Hodnocení&#xD;
+A22 vykazuje vyšší mozkové funkce, ale slabou odolnost. Dáváme mu vysokoproteinovou dietu a začala elektroterapeutická sezení pro léčbu svalů. Nemělo by trvat dlouho, než bude jeho mozek schopný přežít proceduru.</Dest>
     </String>
     <String List="0" sID="0012EF">
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
@@ -1600,7 +1600,7 @@ Stav: Kompletní</Dest>
       <EDID>DLC01Lair_UW_FacilitiesManagementTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Facilities Management - Tony Delano</Source>
-      <Dest>RB-2851: Management zařízení - Tony Delano</Dest>
+      <Dest>RB-2851: Správa objektu - Tony Delano</Dest>
     </String>
     <String List="0" sID="001308">
       <EDID>DLC01Lair_RW_HoldingBlockObsTerminal</EDID>
@@ -1634,7 +1634,7 @@ Cell door malfunction. Please notify security and initiate lockdown protocol.&#x
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Závada dveří cely. Prosím, zajistěte bezpečnost a zahajte uzamykací protokol.&#xD;
+Závada zámků zadržovacích cel. Prosím, uvědomte ostrahu a zahajte protokol pro uzamčení.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1658,7 +1658,7 @@ Contamination detected in the extraction room. Please notify Facilities and the 
 &#xD;
 </Source>
       <Dest>***POPLACH***&#xD;
-Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte zařízení a vedoucího lékařského důstojníka.&#xD;
+Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte správu objektu a vedoucího lékařského důstojníka.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1670,7 +1670,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="0013C6">
       <EDID>DLC01Lair_RW_HoldingBlockObsTerminal</EDID>
@@ -1680,7 +1682,7 @@ Cell door malfunction. Please notify security and initiate lockdown protocol.&#x
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Závada dveří cely. Prosím, zajistěte bezpečnost a zahajte protokol uzamčení.&#xD;
+Závada zámků zadržovacích cel. Prosím, uvědomte ostrahu a zahajte protokol pro uzamčení.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1975,7 +1977,7 @@ Zaměření: Aktualizování konzervačních tekutin k zachování délky život
       <EDID>DLC01MQ04</EDID>
       <REC id="10">QUST:NNAM</REC>
       <Source>Speak to Jezebel</Source>
-      <Dest>Promluv si s Jezebel</Dest>
+      <Dest>Promluv si s Jezábel</Dest>
     </String>
     <String List="0" sID="001864">
       <EDID>DLC01MQ04</EDID>
@@ -2015,7 +2017,7 @@ Contamination detected in the extraction room. Please notify Facilities and the 
 &#xD;
 Please select Batch for status.</Source>
       <Dest>***POPLACH***&#xD;
-Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte zařízení a vedoucího lékařského důstojníka.&#xD;
+Zjištěna kontaminace v extrakční místnosti. Prosím, ihned informujte správu objektu a vedoucího lékařského důstojníka.&#xD;
 &#xD;
 Prosím, zvolte skupinu k zobrazení stavu.</Dest>
     </String>
@@ -2081,7 +2083,7 @@ Zaměření: Aktualizace hardwaru a softwaru s cílem umožnit plynulejší komu
       <EDID>DLC01MQ04</EDID>
       <REC id="6">QUST:NNAM</REC>
       <Source>Take Jezebel</Source>
-      <Dest>Vezmi Jezebel</Dest>
+      <Dest>Vezmi Jezábel</Dest>
     </String>
     <String List="0" sID="0018A1">
       <EDID>DLC01Lair_RW_RoboAssemblyTerminal_Batches</EDID>
@@ -2271,7 +2273,7 @@ Kritické selhání při navazování bezdrátového spojení s očkem. Nelze se
       <EDID>DLC01Lair_RW_PropertyStorageTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Property Storage Lockup Terminal</Source>
-      <Dest>Terminál skladiště objektu</Dest>
+      <Dest>Terminál skladu malých předmětů</Dest>
     </String>
     <String List="0" sID="001A36">
       <EDID>DLC01Lair_RW_PropertyStorageTerminal</EDID>
@@ -2281,13 +2283,15 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001A63">
       <EDID>DLC01Lair_RW_PropertyStorageTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Property Storage Lockup</Source>
-      <Dest>RB-2851: Skladiště objektu</Dest>
+      <Dest>RB-2851: Sklad malých předmětů</Dest>
     </String>
     <String List="0" sID="001A72">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -2349,7 +2353,7 @@ Dnes u nás vyložili další várku „subjektů“. Nevím, co ty muži a žen
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Finally got official approval to keep the cigarette machine in my substation. I'm pretty sure the free cartons that found their way onto the General's desk may have had something to do with it. Now Banks can't do a damn thing about it and he isn't getting a single penny. Looks like this electrical engineer just came out on top for once.</Source>
-      <Dest>Konečně jsem dostal oficiální souhlas, že si můžu nechat automat na cigarety v rozvodně. Jsem si jistý, že ty kartony zdarma, které generál našel na stole, s tím mohli mít co do činění. Teď už s tím nemůže Banks nic dělat a nedostane jediný cent. Vypadá to, že se nám právě elektroinženýr dostal vrchol.</Dest>
+      <Dest>Konečně jsem dostal oficiální souhlas, že si můžu nechat automat na cigarety v rozvodně. Jsem si jistý, že kartony zdarma, které generál našel na stole, s tím mohli mít co do činění. Teď už s tím nemůže Banks nic dělat a nedostane jediný cent. Zdá se, že pro jednou vyhrála moje elektroinženýrská maličkost.</Dest>
     </String>
     <String List="0" sID="001A7D">
       <EDID>DLC01Lair_RW_CerebralReconditioningTerminal</EDID>
@@ -2361,7 +2365,7 @@ Dnes u nás vyložili další várku „subjektů“. Nevím, co ty muži a žen
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Today was Halsti's birthday, so we made him a brain-shaped cake. Well, sort of. We actually just took one of the extracted brains and covered it with frosting. Of course, we didn't tell Halsti that - the look on his face when he bit down on the slice we gave him was pretty hilarious. It was a waste of a decent subject brain, but the prank was totally worth it! We really have some good times down here. I sincerely hope that they don't reassign anyone away from the department - we're working well together and our efficiency rating can't get much higher.</Source>
-      <Dest>Dnes měl Halsti narozeniny, tak jsme mu udělali dort ve tvaru mozku. No, tak nějak. Ve skutečnosti jsme si vzali jeden z extrahovaných mozků a přelili ho polevou. Samozřejmě, že jsme to Halstovi neřekli - chtěli jsme vidět jeho výraz, až se zakousne do kousku, který jsme mu dali - bylo to fakt legrační. Sice to bylo plýtvání slušným kusem mozku, ale ta legrace za to naprosto stála! Vážně si to tady dole užíváme. Upřímně doufám, že nikoho z pracoviště nepřeřadí - jde nám to spolu dobře a efektivitou práce se snad výše už dostat nemůžeme.</Dest>
+      <Dest>Dnes měl Halsti narozeniny, tak jsme mu udělali dort ve tvaru mozku. No, tak nějak. Ve skutečnosti jsme si vzali jeden z extrahovaných mozků a přelili ho polevou. Samozřejmě, že jsme to Halstovi neřekli - jeho výraz, když se do něj zakousl byl k nezaplacení. Sice to bylo plýtvání slušným kusem mozku, ale ta legrace za to prostě stála! Vážně si to tady dole užíváme. Upřímně doufám, že nikoho z pracoviště nepřeřadí - jde nám to spolu dobře a efektivitou práce se snad výše už dostat nemůžeme.</Dest>
     </String>
     <String List="0" sID="001A80">
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
@@ -2385,7 +2389,7 @@ Dnes u nás vyložili další várku „subjektů“. Nevím, co ty muži a žen
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Once again, thanks to equipment failures, we're getting pretty backed up in this department. The brain extractors were never made to operate at this capacity - I think they've been running around the clock for the last few weeks. We usually end up with a popped blade from slicing through a particularly tough skull, or the hydraulics in the pulling arm seize up when the spinal cord isn't fully severed and the brain is pulled too early. I hope that Ciroletti doesn't yell at us again - this really isn't our fault.</Source>
-      <Dest>Zase jsme kvůli tomu, že nám selhává výbava v našem oddělení pozadu. Mozkové extraktory nebyly vyrobeny k takovéhle zátěži - myslím, že posledních několik týdnů běží nepřetržitě. Většinou skončíme s vyraženou čepelí při rozřezávání obzvláště tvrddé lebky, nebo se hydraulika v extrakčním rameni zasekne, pokud mícha není úplně oddělená a mozek je vytažen příliš brzo. Doufám že Cirolettiová na nás nebude znovu křičet - to opravdu není naše vina.</Dest>
+      <Dest>Zase jsme kvůli tomu, že nám selhává vybavení, na našem oddělení pozadu. Mozkové extraktory nebyly vyrobeny na takovouhle zátěž - mám pocit, že posledních několik týdnů běží nepřetržitě. Většinou skončíme s uvolněnou čepelí při rozřezávání obzvláště tvrddé lebky, nebo se zaseknutou hydraulikou v extrakčním rameni, když mícha není zcela oddělená a mozek je vytažen příliš brzy. Doufám že Cirolettiová na nás nebude znovu křičet - opravdu to není naše vina.</Dest>
     </String>
     <String List="0" sID="001A8B">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -2451,7 +2455,7 @@ Cirolettiová: „Ukončování A22. Subjekt je příliš nestabilní.“</Dest>
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>I've been down here almost four months now and I'm already getting bored. I thought it would be exciting to sign up and work for the robotics program, but when I finally got my departmental assignment, I almost quit. Power Substation A? Are you kidding me? Four years of electrical engineering school and they have me babysit a bunch of generators? I can strip a Mr. Handy or Protectron down to its base parts in under two hours, and they stick me here. What a goddamn waste of time.</Source>
-      <Dest>Byl jsem tady dole téměř čtyři měsíce a už se začínám nudit. Přišlo mi, že by bylo zajímavý se zaregistrovat a pracovat na programu robotiky, ale když jsem konečně dostal můj resortní úkol, téměř jsem dal výpověď/to vzdal. Rozvodna A? To si ze mě dělají srandu? Čtyři roky elektrotechnické školy a oni mě nechají hlídat nějaký generátory? Jsem schopnej kompletně rozebrat Pana Šikulku nebo Protektrona za méně než dvě hodiny a oni mě posaděj sem. Taková zatracená ztráta času.</Dest>
+      <Dest>Byl jsem tady dole téměř čtyři měsíce a už se začínám nudit. Přišlo mi, že bylo zajímavý se přihlásit a pracovat v programu robotiky. Jenže když mě přidělili resort, skoro jsem dal výpověď. Rozvodna A? To si ze mě dělají srandu? Čtyři roky elektrotechnické školy a oni mě nechají hlídat nějaký generátory? Jsem schopnej kompletně rozebrat Pana Šikulku nebo Protektrona za méně než dvě hodiny a oni mě posaděj sem. Taková zatracená ztráta času.</Dest>
     </String>
     <String List="0" sID="001AA1">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -2487,7 +2491,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001AA6">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -2497,7 +2503,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001AA7">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -2509,8 +2517,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>Wommack over in sanitation made an offhand comment that his job having to grab what was left of our test subjects and dispose of them in the furnace felt "wrong." Then, not a day later, I was sharing lunch with some of the personnel from the assembly division and they asked me if pulling the brains from our test subject's heads ever bothered me. I told them that it didn't. I'm not sure why some of the people on this project are having problems with what we're doing. Maybe they should look for work somewhere else.</Source>
-      <Dest>Wommack ze zdravotnického přidal okamžitě poznámku, že jeho prací je zachytit to, co zbylo z našich testovacích subjektů a jejich nakládáním do pece cítí „zvláštnost“. Poté, o den později jsem byl na společném obědu s některými pracovníky z výrobní divize a ptali se mě, jestli mi tahání mozků z hlav našich testovacích subjektů nikdy nevadilo. Řekl jsem jim, že ne. Nejsem si jistý. Proč někteří lidé mají problémy s tím, co děláme v našem projektu. Možná, že by si měli hledat práci jinde.&#xD;
-Wommack z úklidového měl poznámku, že mu nepřijde "správné" sbírat zbytky našich subjektů a následně je spalovat. Den na to jsem obědval společně s lidmi z montážního oddělení a ty se mě ptali, jestli mi vyndavání mozků z hlav subjektů nijak nevadí. Řekl jsem jim, že ne. Nevím, proč některým lidem vadí, co tu dělají. Možná by se měli poohlédnout po jiné práci.</Dest>
+      <Dest>Wommack z úklidového měl poznámku, že mu nepřijde „správné“ sbírat zbytky našich subjektů a následně je spalovat. Den na to jsem obědval společně s lidmi z montážního oddělení a ti se mě ptali, jestli mi vyndavání mozků z hlav našich subjektů nijak nevadí. Řekl jsem jim, že ne. Nevím, proč některým lidem vadí, co tu dělají. Možná by se měli poohlédnout po jiné práci.</Dest>
     </String>
     <String List="0" sID="001AAD">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -2564,7 +2571,7 @@ Wommack z úklidového měl poznámku, že mu nepřijde "správné" sbírat zbyt
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>We all had a pretty good laugh around the extraction department today. Ansel tried mixing some fresh bio-gel with a little bit of grenadine and vodka and dared us all to drink it down. It turned out to be pretty good - kind of thick and sweet with just the right amount of kick. We came up with a little game to try and name the drink. A whole bunch of stupid ones came up of course, but we finally settled on the "Extractor Sunrise." Too bad we can't share with the other departments, but the bio-gel costs like a thousand bucks a pint, and I don't think Ciroletti would appreciate us drinking down some of her budget.</Source>
-      <Dest>Všichni jsme se dnes docela dobře v oddělení extrakce pobavili. Ansel se snažil namíchat čerstvý biogel s trochou grenadiny a vodkou a všechny nás přemluvil se napít. Nakonec to bylo docela dobré - docela husté a sladké a dokázalo to správně nakopnout. Pak jsme se to pití snažili nějak pojmenovat. Po spoustě pitomých názvech jsme se nakonec shodli na „Extraktor Sunrise“. Je škoda že to nemůžeme sdílet s ostatními odděleními, ale vzhledem k tomu, že půllitr biogelu stojí asi tisíc babek si nemyslím, že by Cirolettiová ocenila, že jí tu dole propíjíme rozpočet.</Dest>
+      <Dest>Všichni jsme se dnes na oddělení extrakce celkem dobře bavili. Ansel zkusil namíchat čerstvý biogel s trochou grenadiny a vodkou a všechny nás přemluvil se napít. A ono to vůbec nebylo špatné - trošku husté a sladké, ale dokázalo to správně nakopnout. Pak vymysleli takovou hru, kdy jsme pro to vymýšleli jméno. Po spoustě pitomých názvů jsme se shodli na „Extraktor Sunrise“. Je škoda, že nemůžeme nabídnout i ostatním oddělením, ale vzhledem k tomu, že půllitr biogelu stojí přes tisíc babek, tak by Cirolettiová asi ocenila, abychom jí tu dole nepropíjeli rozpočet.</Dest>
     </String>
     <String List="0" sID="001ABF">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -2612,7 +2619,7 @@ A57: „Rozumím.“&#xD;
 **2minutová pauza bez jakékoli odezvy**&#xD;
 Cirolettiová: „Trvá to příliš dlouho. Odpovězte, prosím.“&#xD;
 A57: „Chyba. Nebyl poskytnut žádný příkaz. Čekám na označení jednotky.“&#xD;
-Cirolettiová: „Sakra. Myslím, že to je krátkodobá pamět... tak to je v háji. Hoďte to do pece a zkusíme další.“</Dest>
+Cirolettiová: „Sakra. To vypadá, že má v háji krátkodobou pamět. Hoďte to do pece a zkusíme další.“</Dest>
     </String>
     <String List="0" sID="001AC7">
       <EDID>DLC01Lair_RW_BrainExtractionTerminal</EDID>
@@ -2630,7 +2637,7 @@ Cirolettiová: „Sakra. Myslím, že to je krátkodobá pamět... tak to je v h
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>I took all the trouble to sneak that machine into my substation, just to have Banks over at Substation B start complaining about the smoke. At first I thought he was just jealous that all of the ladies have been hanging around my new cigarette machine during their smoke breaks. Then he showed all his cards when he told me he's going to "lodge a formal complaint with Delano" if I don't "make him happy." He doesn't care about the smoke, sneaky little theif just wants a cut of the cigarette sales. I might have to pay him off to keep the brass off my back.</Source>
-      <Dest>Dal jsem si práci, abych ten stroj propašoval do mojí rozvodny, jenže Banks z rozvodny B si začal stěžovat na kouř. Nejdřív jsem si myslel, že jen žárlí na ty všechny ženský, který jsou omotaný kolem mýho novýho automatu na cigarety během jejich kouřový přestávky. Pak ale vyložil všechny svoje karty, a řekl mi, že „podá formální stížnost Delanovi“, pokud nezařídím „aby z toho taky něco měl“. Nestará se o kouř, ten záludnej malej zmetek chce jen část z prodeje cigaret. Asi mu budu muset zaplatit, aby mi nedělal problémy.</Dest>
+      <Dest>Dal jsem si práci, abych ten automat propašoval sem do rozvodny, jenže Banks z rozvodny B si začal stěžovat na kouř. Nejdřív jsem si myslel, že jen žárlí na ty všechny ženský, který jsou omotaný kolem mýho novýho automatu na cigarety během jejich přestávky. Pak se ale pěkně vybarvil, když mi řekl, že „podá formální stížnost Delanovi“, pokud nezařídím „aby z toho taky něco měl“. Vůbec mu nejde o kouř... Ten záludnej malej zmetek prostě chce podíl z prodeje cigaret. Asi mu budu muset zaplatit, aby nedělal problémy.</Dest>
     </String>
     <String List="0" sID="001ACB">
       <EDID>DLC01Lair_RW_CerebralReconditioningTerminal</EDID>
@@ -2640,7 +2647,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001ACC">
       <EDID>DLC01Lair_RW_CerebralReconditioningTerminal</EDID>
@@ -2680,7 +2689,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001AD7">
       <EDID>DLC01Lair_RW_HoldingBlockGuardsTerminal</EDID>
@@ -2692,7 +2703,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>After talking to Sharpley during my smoke break, I thought of a way to turn my isolation into an advantage. I've got a buddy in the civilian service who works for a vending company and he reckons that I can make a few bucks if I stick one of his cigarette machines down here. It would save everyone a trip all the way to the surface if they're out of smokes and give me an excuse to say hi to any of the ladies that happen to wander in to purchase some. I'll tell you, Sharpley's a goddamn genius. I might even have to comp him a few free packs for his help.</Source>
-      <Dest>Po rozhovoru se Sharpleyem během mé přestávky na cígo jsem přišel na způsob, jak bych tý mojí izolace mohl využít. Mám kamaráda v civilní službě, kterej pracuje pro společnost, co se zaměřuje na prodejní automaty a podle něj si tu můžu vydělat pár babek, když sem dolů dostanu jeden z jeho automatů na cigarety. Každýmu by to zachránilo cestu nahoru, když jim dojdou cigára a mě by to dalo záminku pokecat se všema ženskejma, co si sem přijdou nějaký koupit. Řeknu vám, že ten Sharpley je zatracenej génius. Asi mu budu muset dát pár kartonů za tu jeho pomoc.</Dest>
+      <Dest>Po rozhovoru se Sharpleyem během přestávky na cígo jsem vymyslel způsob, jak bych mojí izolace mohl využít. Mám kamaráda v civilu, kterej pracuje pro společnost zaměřující se na prodejní automaty a podle něj si můžu vydělat pár babek, když sem dolů dostanu jeden z jeho automatů na cigarety. Každýmu by to zachránilo zbytečnou cestu na povrch, když jim dojdou cigára a mě by to dalo záminku pokecat se všema ženskejma, co si sem přijdou nějaký koupit. Řeknu vám, že ten Sharpley je zatracenej génius. Za jeho pomoc mu budu muset dát zadáčo pár kartonů.</Dest>
     </String>
     <String List="0" sID="001ADA">
       <EDID>DLC01Lair_UW_PowerSubStationATerminal</EDID>
@@ -2752,8 +2763,8 @@ Původní jméno a pohlaví: 36, Muž&#xD;
 &#xD;
 Protokol:&#xD;
 Cirolettiová: „Nahráváme. Opakujte to znovu.“&#xD;
-A124: „Řekl jsem, že pokud mě nevrátíte zpátky do mého těla, tak tu zabiju vás a pak i všechny ostatní.“&#xD;
-Cirolettiová: „Zajímavé. Uvědomujete si, že jste jenom mozek připojený k hlasovému rozhraní? Že nejste tyto akce schopný provést.“&#xD;
+A124: „Řekl jsem, že pokud mě nevrátíte zpátky do mého těla, tak tu zabiju vás, a pak i všechny ostatní.“&#xD;
+Cirolettiová: „Zajímavé. Uvědomujete si, že jste jenom mozek připojený k hlasovému rozhraní? Že nejste tyto akce schopný provést?“&#xD;
 A124: „To je mi jedno. Najdu si cestu. A až ji najdu, zemřete jako první.“&#xD;
 Cirolettiová: „Úžasné, prostě úžasné. Vaše chybějící tělo vás náhodou neznepokojuje?“&#xD;
 A124: „Ne. Vůbec ne. Všchny vás tu zabiju ať to stojí, co to stojí.“&#xD;
@@ -2788,12 +2799,12 @@ Původní věk a pohlaví: 30, Žena&#xD;
 &#xD;
 Zápis:&#xD;
 Cirolettiová: „Dobře. Máte nějaké vzpomínky na něco, před vaší službou v tomto zařízení?&#xD;
-        A110: „Negativní, madam.“&#xD;
-Cirolettiová: „Jste si jistá? Proveďte hloubkové prověření vašich paměťových bank. Bylo u vás hlášeno neobvyklé chování.“&#xD;
-        A110: „Skenuji. Prosím, vydržte.“&#xD;
-        A110: „Chyba. Detekován neznámý fragment. Chybbbb...“&#xD;
-        A110: „C... co? To nemůže být pravda. Moje ruce... nohy... jsou pryč! Co to se mnou je?!“&#xD;
-Cirolettiová: „Vypínání.“&#xD;
+A110: „Negativní, madam.“&#xD;
+Cirolettiová: „Jste si jistá? Proveďte hloubkové prověření vašeho paměťového uložiště. Bylo u vás hlášeno neobvyklé chování.“&#xD;
+A110: „Skenuji. Prosím, vydržte.“&#xD;
+A110: „Chyba. Detekován neznámý fragment. Chybbbb...“&#xD;
+A110: „C... co? To nemůže být pravda. Moje ruce... nohy... jsou pryč! Co to se mnou je?!“&#xD;
+Cirolettiová: „Vypínám.“&#xD;
 Cirolettiová: „Aha. To je ono. To byl kvadrant A98786756 ve spánkovém laloku. Můžeme sem dostat technika, ať vymaže dlouhodobou paměť? A řekněte jim, ať jsou příště důslednější.“</Dest>
     </String>
     <String List="0" sID="001AE8">

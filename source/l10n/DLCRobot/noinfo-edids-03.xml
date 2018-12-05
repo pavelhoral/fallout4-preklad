@@ -17,7 +17,7 @@
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Security Desk 12</Source>
-      <Dest>RB-2851: Bezpečnostní kancelář 12</Dest>
+      <Dest>RB-2851: Bezpečnostní přepážka 12</Dest>
     </String>
     <String List="0" sID="00003A">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -75,7 +75,7 @@ Elevator access to the Control Center is prohibited while a Security Alert is ac
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
+Dokud je bezpečnostní poplach aktivní, není možné používat výtah do řídícího středika.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -96,7 +96,7 @@ Standing by for authorization. &lt;Token.ValueInt=VoiceprintCount&gt;/3 voicepri
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
+Dokud je bezpečnostní poplach aktivní, není možné používat výtah do řídícího středika.&#xD;
 &#xD;
 ***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
 Čekání na ověření: &lt;Token.ValueInt=VoiceprintCount&gt;/3 hlasový vzorek potvrzen.&#xD;
@@ -215,13 +215,15 @@ Elevator access to the Control Center has been restored.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***PROBÍHÁ RUČNÍ OVLÁDÁNÍ***&#xD;
-Přístup výtahu do řídícího centra byl obnoven.</Dest>
+Provoz výtahu do řídícího středika byl obnoven.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="0003B8">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Isabel Cruz's Log</Source>
-      <Dest>Deník Isabel Cruzové</Dest>
+      <Dest>Deník Izabely Cruzové</Dest>
     </String>
     <String List="0" sID="0003DE">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -297,7 +299,7 @@ Chyba. Systém nemůže najít soubory.</Dest>
       <Source>Welcome back, ISABEL. Please select an entry.&#xD;
 &#xD;
 </Source>
-      <Dest>Vítejte zpět, ISABEL. Prosím, vyberte záznam.</Dest>
+      <Dest>Vítejte zpět, IZABELO. Prosím, vyberte záznam.</Dest>
     </String>
     <String List="0" sID="0005C7">
       <EDID>DLC01Lair_LaserTripwire</EDID>
@@ -391,13 +393,13 @@ Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu neb
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Security Desk 12</Source>
-      <Dest>RB-2851: Bezpečnostní kancelář 12</Dest>
+      <Dest>RB-2851: Bezpečnostní přepážka 12</Dest>
     </String>
     <String List="0" sID="0007E1">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Security Protocol Reference</Source>
-      <Dest>Bezpečnostní odvolávací protokol</Dest>
+      <Dest>Bezpečnostní protokoly</Dest>
     </String>
     <String List="0" sID="000811">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -425,7 +427,7 @@ The Security Protocol Database has been corrupted. [4/219] files recovered. Disp
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***CHYBA***&#xD;
-Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Zobrazuji soubory:&#xD;
+Narušena konzistence databáze bezpečnostních protokolů. Obnoveno [4/219] záznamů. Soubory:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -480,7 +482,7 @@ Standing by for authorization.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
+Dokud je bezpečnostní poplach aktivní, není možné používat výtah do řídícího středika.&#xD;
 &#xD;
 ***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
 Čekání na autorizaci.&#xD;
@@ -543,7 +545,7 @@ A limited manual override is now in place. Be advised that, as a precaution, ret
 Ukončení bezpečnostního uzamčení výtahu...&#xD;
 ...hotovo.&#xD;
 &#xD;
-Omezené ruční ovládání je nyní zprovozněno. Upozorňujeme, že z preventivních důvodů je přístup z řídícího centra zakázán až do ukončení bezpečnostního poplachu.</Dest>
+Omezené ruční ovládání je nyní zprovozněno. Upozorňujeme, že z preventivních důvodů není až do ukončení bezpečnostního poplachu dovoleno řídící centrum opustit.</Dest>
     </String>
     <String List="0" sID="000AD7">
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
@@ -565,7 +567,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="000B88">
       <EDID>DLC01Lair_ENT_DeconControlTerminal</EDID>
@@ -593,7 +597,7 @@ Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu neb
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
       <REC id="5">TERM:BTXT</REC>
       <Source>Elevator access nominal.</Source>
-      <Dest>Přístup k výtahu je omezen.</Dest>
+      <Dest>Provoz výtahu je bez omezení.</Dest>
     </String>
     <String List="0" sID="000BB3">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -613,11 +617,11 @@ Bezpečnostní poplach Epsilon-VI&#xD;
 &#xD;
 V případě chyby v Rozhodovacím protokolu CODE ('RPC', [021]), vedoucí k hromadné vzpouře robotického údržbářského personálu (viz definice, Příloha III), jsou všichni dozorčí druhého stupně oprávněni vyhlásit bezpečnostní poplach Epsilon-VI.&#xD;
 &#xD;
-Je-li tento poplach vyhlášen, budou aktivovány veškeré bezpečnostní a obranné systémy, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Personálu se doporučuje, aby se ozbrojili a schovali se. Externí revize bude provedena Výborem pro dohled nad armádní robotikou ('VDAR') do deseti (10) pracovních dní s následným stanovením vhodného postupu.&#xD;
+Je-li tento poplach vyhlášen, budou aktivovány veškeré bezpečnostní a obranné systémy, funkce vzdálených terminálů budou zakázány a řídicí centrum vstoupí do automatického stavu uzamčení. Příslušníkům personálu se doporučuje, aby se ozbrojili a ukryli. Externí revize bude provedena Výborem pro dohled nad armádní robotikou ('VDAR') do deseti (10) pracovních dní s následným stanovením vhodného postupu.&#xD;
 &#xD;
-Tento poplach může být ukončen: [1] Pomocí vzdálené autorizace od VDAR nebo [2] Vedoucím správy objektu z hlavního ovládacího terminálu v řídicím centru.&#xD;
+Tento poplach může být ukončen: [1] Pomocí vzdálené autorizace VDAR, nebo [2] sprácem objektu z terminálu hlavního ovládání v řídicím centru.&#xD;
 &#xD;
-Jako pojistka pro případ narušení řídicího centra, může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu v bezpečnostní místnosti 3. Pro aktivaci ručního ovládání je vyžadována hlasová identifikace tří registrovaných dozorčích zaměstnanců druhého stupně.</Dest>
+Jako pojistka pro případ narušení řídicího centra může být zahájeno omezené ruční ovládání z přístupového terminálu výtahu bezpečnostní místnosti 3. Pro aktivaci ručního ovládání je vyžadována hlasová identifikace tří registrovaných dozorčích zaměstnanců druhého stupně.</Dest>
     </String>
     <String List="0" sID="000BEF">
       <EDID>DLC01Lair_RobCo_DisplayTerminal02</EDID>
@@ -646,7 +650,7 @@ Voiceprint authorization adknowledged. Please confirm the override.&#xD;
 Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
 &#xD;
 ***VAROVÁNÍ***&#xD;
-Dokud je bezpečnostní poplach aktivní, výtah nemá povolen přístup do řídícího centra.&#xD;
+Dokud je bezpečnostní poplach aktivní, není možné používat výtah do řídícího středika.&#xD;
 &#xD;
 ***ZAHÁJENÍ RUČNÍHO OVLÁDÁNÍ***&#xD;
 Autorizace hlasového otisku byla uznána. Prosím, potvrďte ruční ovládání.&#xD;
@@ -767,7 +771,7 @@ Tento terminál se vyznačuje vylepšeným procesorem a špičkovou grafikou, kt
       <EDID>DLC01Lair_RobCo_SalesTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Announcements</Source>
-      <Dest>Prohlášení</Dest>
+      <Dest>Oznámení</Dest>
     </String>
     <String List="0" sID="000E40">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal</EDID>
@@ -783,9 +787,9 @@ Guests must present a signed letter of approval from General Rawlings and employ
 &#xD;
 Všichni zaměstnanci musí při vstupu nebo výstupu z objektu projít dekontaminací.&#xD;
 &#xD;
-Všichni zaměstnanci musí viditelně nosit bezpečnostní odznak (minimálně) úrovně 22 s aktualizovanou fotografií. Opomenutí bude mít za následek okamžité uvěznění, dokud nebude dotyčná osoba vyslechnuta a prověřena.&#xD;
+Všichni zaměstnanci musí viditelně nosit bezpečnostní kartu (minimálně) úrovně 22 s aktualizovanou fotografií. Opomenutí bude mít za následek okamžité uvěznění, dokud nebude dotyčná osoba vyslechnuta a prověřena.&#xD;
 &#xD;
-Hosté musí předložit podepsaný schvalovací dopis od firmy General Rawlings s uvedenou kontaktní osobou. Všichni hosté musí viditelně nosit odznak pro hosty s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
+Hosté musí předložit povolení podepsané generálem Rawlingsem s uvedenou kontaktní osobou. Všichni hosté musí viditelně nosit návštěvnickou kartu s omezeným přístupem. Hosté musí mít po celou dobu doprovod. Hosté přichycení bez dozoru budou podrobeni výslechu a kontaktní osoba bude zodpovědná za jejich činy.</Dest>
     </String>
     <String List="0" sID="000E61">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -958,7 +962,7 @@ Od: Mark Kurchfield, generální manažer&#xD;
 &#xD;
 Připomínáme, že všichni zaměstnanci Prodejního a servisního střediska RobCo jsou povinni dodržovat následující pravidla chování:&#xD;
 &#xD;
-- Zákaz manipulace s jakoukoliv zásilkou označenou RB-2851. Věřím, že všichni zaměstnanci jsou si vědomi, jak naše typické zásilky vypadají. Jakékoliv „náhodné“ otevření těchto zásilek nebude tolerováno a má za následek okamžité ukončení pracovního poměru, následované rozsáhlým výslechem našimi přáteli v přízemí.&#xD;
+- Zákaz manipulace s jakoukoliv zásilkou označenou RB-2851. Věřím, že všichni zaměstnanci jsou si vědomi, jak naše typické zásilky vypadají. Jakékoliv „náhodné“ otevření těchto zásilek nebude tolerováno a bude mít za následek okamžité ukončení pracovního poměru, následované rozsáhlým výslechem našimi přáteli v přízemí.&#xD;
 - Od zaměstnanců se očekává, že budou nosit úřední jmenovky. Jmenovky by měly být dobře viditelné a připnuté k pravému hornímu rohu stejnokroje. Prosím, noste správné jmenovky. Nevyměňujte si je.&#xD;
 - Zákazníkům, přátelům, ani rodinám není nadále povolen vstup do zadní části servisní budovy.</Dest>
     </String>
@@ -988,7 +992,7 @@ Vyhodnocení:&#xD;
 Please verify that all necessary hardware and software is properly installed.&#xD;
 &#xD;
 If problems continue, contact your nearest RobCo Sales &amp; Service center for immediate assistance.</Source>
-      <Dest>Systém jednotek terminálu byl zastaven.&#xD;
+      <Dest>Subsystémy terminálové jednotky byly zastaveny.&#xD;
 &#xD;
 Prosím, zkontrolujte, zda je všechen potřebný hardware a software správně nainstalován.&#xD;
 &#xD;
@@ -1022,13 +1026,13 @@ Security teams are to perform a methodical sweep of the Research Wing before iss
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 074&#xD;
 Bezpečnostní poplach Gama-IX&#xD;
 &#xD;
-V případě koordinovaného pokusu o útěk nebo nepřátelského chování testovaných subjektů je kterýkoliv z dozorčích prvního či druhého stupně oprávněn vyhlásit bezpečnostní poplach Gama-IX.&#xD;
+V případě koordinovaného pokusu o útěk nebo nepřátelského chování testovaných subjektů, je kterýkoliv z dozorčích prvního či druhého stupně oprávněn vyhlásit bezpečnostní poplach Gama-IX.&#xD;
 &#xD;
-Bezpečnostním poplachem Gama-IX se zahájí uzamčení výzkumného křídla s maximální ostrahou a u ostatních odělení dojde k uzavření s minimální ostrahou. V rámci výzkumného křídla se aktivují všechny bezpečnostní a obranné systémy, vypnou se všechny funkce místních a vzdálených terminálů a uzavřou se všechny bezpečnostní dveře v oddělení s celami.&#xD;
+Bezpečnostním poplachem Gama-IX se zahájí uzamčení výzkumného křídla s nejvyšším zabezpečením a u ostatních odělení dojde k uzavření s nejnižším zabezpečením. V rámci výzkumného křídla se aktivují všechny bezpečnostní a obranné systémy, vypnou se všechny funkce místních a vzdálených terminálů a uzavřou se všechny bezpečnostní dveře v oddělení s celami.&#xD;
 &#xD;
-Vedoucímu správy objektu se doporučuje brát tento poplach jako příležitost k testování a nasadit všechny dostupné experimentální roboty k zajištění výzkumného křídla. S oběťmi na straně testovaných subjektů se počítá a dle vlastního uvážení vedoucího je povoleno i kompletní vymýcení.&#xD;
+Správci objektu se doporučuje brát tento poplach jako příležitost k nasazení a otestvání všech dostupných experimentálních robotů k zajištění výzkumného křídla. S oběťmi na straně testovaných subjektů se počítá a dle vlastního uvážení správce je povolena i plošná likvidace.&#xD;
 &#xD;
-Bezpečnostní týmy musí před signálem „Čistý vzduch“ a před ukončením tohoto poplachu provést metodické pročištění výzkumného křídla. Vedoucí musí Výboru pro dohled nad armádní robotikou předložit zprávu o incidentu RM-13, a to společně se žádostí o náhradní testovací subjekty.</Dest>
+Bezpečnostní týmy musí před vydáním signálu „konec poplachu“ provést systematické pročištění výzkumného křídla. Správce objektu musí Výboru pro dohled nad armádní robotikou předložit zprávu o incidentu RM-13, a to společně s žádostí o případné doplnění testovacích subjektů.</Dest>
     </String>
     <String List="0" sID="0013A2">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1038,7 +1042,7 @@ The Security Protocol Database has been corrupted. [4/219] files recovered. Disp
 &#xD;
 </Source>
       <Dest>***CHYBA***&#xD;
-Databáze bezpečnostního protokolu byla narušena. [4/219] soubory obnoveny. Zobrazuji soubory:&#xD;
+Narušena konzistence databáze bezpečnostních protokolů. Obnoveno [4/219] záznamů. Soubory:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1066,15 +1070,15 @@ If communications have not been reestablished by thirty (30) hours from LOC, the
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 219&#xD;
 Omega protokol&#xD;
 &#xD;
-V případě potvrzených jaderných výbuchů vyhlásí vedoucí správy objektu (nebo za jeho nepřítomnosti služebně nejstarší dozorčí, který je ve službě - dále jen zastupující vedoucí) dočasné uzamčení a nařídí veškerému personálu, aby zůstaly v krytu.&#xD;
+V případě potvrzených jaderných výbuchů vyhlásí správce objektu (nebo za jeho nepřítomnosti služebně nejstarší dozorčí, který je ve službě - dále jen zastupující správce) dočasné uzamčení a nařídí veškerému personálu, aby vyhledal úkryt.&#xD;
 &#xD;
 Předpokládá se ztráta konktaktu (ZK) s vojenským velením.&#xD;
 &#xD;
-Po uplynutí ne méně než dvanácti (12) hodin od zjištění ZK se musí zastupující vedoucí pokusit obnovit kontakt (viz Nouzové komunikační postupy, Příloha IX). Veškeré instrukce přenášené v souladu s těmito postupy nahrazují tento protokol a musí se dodržovat.&#xD;
+Po uplynutí ne méně než dvanácti (12) hodin od zjištění ZK se musí zastupující správce pokusit obnovit kontakt (viz Nouzové komunikační postupy, Příloha IX). Veškeré instrukce přenášené v souladu s těmito postupy nahrazují tento protokol a musí být dodrženy.&#xD;
 &#xD;
-V případě, že se komunikace nepodaří obnovit během čtyřiadvaceti (24) hodin od ZK, vyhlásí zatupující vedoucí řádné odstavení objektu. Testované subjekty se uzamknou do svých cel. Zaměstnanci objektu zůstanou na místě, odstraní veškeré citlivé dokumenty a záznamy, uzavřou svá stanoviště, ozbrojí se a posbírají si své osobní věci.&#xD;
+V případě, že se komunikace nepodaří obnovit během čtyřiadvaceti (24) hodin od ZK, vyhlásí zatupující správce řízené odstavení objektu. Testované subjekty budou uzamčeny do svých cel. Přítomní zaměstnanci skartují všechny citlivé dokumenty a záznamy, uzavřou svá stanoviště, ozbrojí se a posbírají své osobní věci.&#xD;
 &#xD;
-Pokud nebude komunikace obnovena do třiceti (30) hodin od ZK, zastupující vedoucí aktivuje stav uzamčení v režimu Omega. Tím poskytne okno o délce deseti (10) minut, kdy personál evakuje objekt. Tato evakuace bude považována za trvalou. Jakmile dojde k zahájení, uzamčení může být ukončeno pouze vzdálenou autorizací Výboru pro dohled nad armádní robotikou.</Dest>
+Pokud nebude komunikace obnovena do třiceti (30) hodin od ZK, zastupující správce aktivuje stav uzamčení v režimu Omega. Tím poskytne okno o délce deseti (10) minut, kdy personál evakuje objekt. Tato evakuace bude považována za trvalou. Jakmile dojde k zahájení, uzamčení může být ukončeno pouze vzdálenou autorizací Výboru pro dohled nad armádní robotikou.</Dest>
     </String>
     <String List="0" sID="0013DB">
       <EDID>DLC01Lair_RobCo_DisplayTerminal05</EDID>
@@ -1114,21 +1118,21 @@ Security teams are to escort the members of each department to the Research Labs
 &#xD;
 Should any agents be discovered, the Administrator is authorized to subdue them by any means necessary and turn them over to the Research Staff for experimentation. After completing the interrogation process, the Administrator may terminate this Alert at his discretion.</Source>
       <Dest>RB-2851 BEZPEČNOSTNÍ PROTOKOL 045&#xD;
-Protišpionážní postup třídy V&#xD;
+Protišpionážní postup kategorie V&#xD;
 &#xD;
-Má-li vedoucí správy objektu podezření z narušení bezpečnosti zahraničním zpracodajským agentem (zahrnující také, ale nikoli výhradně, čínské agenty či sympatizanty), musí zahájit protišpionážní postup třídy V.&#xD;
+Má-li správce objektu podezření z narušení bezpečnosti zahraničním zpracodajským agentem (zahrnující také, ale nikoli výhradně, čínské operativce či sympatizanty), musí zahájit protišpionážní postup kategorie V.&#xD;
 &#xD;
-V případě poplachu třídy V dojde k uzamčení objektu s minimální ostrahou. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde vyčkají na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí nebo se nedostaví, bude považován za podezřelého a může být zastřelen na potkání.&#xD;
+V případě poplachu kategorie V dojde k uzamčení objektu s nízkým zabezpečením. Všichni zaměstnanci se musí hlásit na svých stanovištích, kde vyčkají na další instrukce od bezpečnostního personálu. Každý, kdo se včas nenahlásí nebo se nedostaví, bude považován za podezřelého a může být bez ptaní zastřelen.&#xD;
 &#xD;
-Bezpečnostní týmy eskortují příslušníky jednotlivých pracovišt do výzkumných laboratoří ve 3. patře k výslechové proceduře. Vedoucí výzkumu připraví mezmetronem vybavený robomozek, který u výslechu bude nápomocen. Vzhledem k experimentální povaze této technologie se počítá s jistým množstvím ztrát z důvodu samovolné lebeční erupce(v řádu 10-15 %).&#xD;
+Bezpečnostní týmy eskortují zaměstnance z jednotlivých pracovišt do výzkumných laboratoří ve 3. patře k výslechové proceduře. Vedoucí výzkumu připraví mezmetronem vybavený robomozek, který bude asistovat při výslechu. Vzhledem k experimentální povaze této technologie se počítá s jistým množstvím ztrát z důvodu samovolné vnitrolebeční expanze (v řádu 10-15 %).&#xD;
 &#xD;
-V případě odhalení agentů je vedoucí oprávněn k jejich zadržení použít veškeré dostupné prostředky a předat je výzkumnému personálu k experimentování. Po dokončení výslechu může vedoucí dle vlastního uvážení tento poplach ukončit.</Dest>
+V případě odhalení agentů je správce objektu oprávněn k jejich zadržení použít veškeré dostupné prostředky a předat je výzkumnému personálu k experimentování. Po dokončení výslechu může správce objektu dle vlastního uvážení tento poplach ukončit.</Dest>
     </String>
     <String List="0" sID="0013E7">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>(045): Class-V Counter-Espionage Procedure</Source>
-      <Dest>(045): Protišpionážní postup třídy V</Dest>
+      <Dest>(045): Protišpionážní postup kategorie V</Dest>
     </String>
     <String List="0" sID="00141C">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1304,13 +1308,13 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Robot Storage Control Terminal</Source>
-      <Dest>Ovládací terminál skladiště robotů</Dest>
+      <Dest>Terminál skladiště robotů</Dest>
     </String>
     <String List="0" sID="001A20">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Robot Storage Control Terminal</Source>
-      <Dest>RB-2851: Ovládací terminál skladiště robotů</Dest>
+      <Dest>RB-2851: Terminál skladiště robotů</Dest>
     </String>
     <String List="0" sID="001A44">
       <EDID>DLC01Lair_PW_RobotStorageTerminal</EDID>
@@ -1321,6 +1325,7 @@ Critical failure in pod array. Please contact a technician for assistance.&#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
 Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
+&#xD;
 </Dest>
     </String>
     <String List="0" sID="001A4B">
@@ -1431,7 +1436,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001AE3">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1449,7 +1456,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Engineering - Thomas Harkin</Source>
-      <Dest>RB-2851: Inženýři - Thomas Harkin</Dest>
+      <Dest>RB-2851: Konstrukční oddělení - Thomas Harkin</Dest>
     </String>
     <String List="0" sID="001AE7">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1561,7 +1568,9 @@ An Epsilon-VI Security Alert has been declared. All systems have been locked dow
 &#xD;
 </Source>
       <Dest>***VAROVÁNÍ***&#xD;
-Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.</Dest>
+Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamčeny. Zabezpečte svoji stanici a čekejte na další instrukce.&#xD;
+&#xD;
+</Dest>
     </String>
     <String List="0" sID="001B0C">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1579,13 +1588,13 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Production Control Terminal</Source>
-      <Dest>Terminál Kontroly výroby</Dest>
+      <Dest>Terminál řízení výroby</Dest>
     </String>
     <String List="0" sID="001B1F">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RB-2851: Production Control</Source>
-      <Dest>RB-2851: Kontrola výroby</Dest>
+      <Dest>RB-2851: Řízení výroby</Dest>
     </String>
     <String List="0" sID="001B55">
       <EDID>DLC01Lair_DeconArchHazard_Small</EDID>
