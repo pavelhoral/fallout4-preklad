@@ -143,9 +143,9 @@ Detekován neoprávněný přístup. Jakýkoliv pokus o hackování, úpravu neb
       <Source>Testing... Let's hope this entry sticks. &#xD;
 &#xD;
 I finally got one of the terminals up and running. Now to hope I have the same luck with the rest of this facility.</Source>
-      <Dest>Testování... Doufejme, že se ten záznam uloží. &#xD;
+      <Dest>Test... Doufejme, že se ten záznam uloží. &#xD;
 &#xD;
-Konečně se mi podařilo rozběhnout jeden z těch terminálů. Teď jen zbývá doufat, že budu mít stejné štěstí i se zbytkem tohoto areálu.</Dest>
+Konečně se mi podařilo rozběhnout jeden z terminálů. Teď nezbývá než doufat, že budu mít stejné štěstí i se zbytkem areálu.</Dest>
     </String>
     <String List="0" sID="000227">
       <EDID>DLC01Lair_RobCo_DisplayTerminal03</EDID>
@@ -193,7 +193,7 @@ Konečně se mi podařilo rozběhnout jeden z těch terminálů. Teď jen zbýv�
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>This place is incredible. An entire wing devoted to Robobrain research and development. I've never seen any robots quite like these, except in a few of the comics I've read. And the brains! They're still preserved after all this time. I can't wait to start delving into the schematics to assemble one myself. </Source>
-      <Dest>Tohle místo je neuvěřitelné. Celé jedno křídlo je věnováno výzkumu a vývoji robomozků. Nikdy jsem neviděla takové roboty, jako jsou tito... když teda nepočítám ty z komiksů, které jsem četla. A ty mozky! I po tak dlouhé době jsou pořád zachovalé. Už se nemůžu dočkat, až se sama ponořím do schémat a jeden si sama sestrojím.</Dest>
+      <Dest>Tohle místo je neuvěřitelné. Celé jedno křídlo je věnováno výzkumu a vývoji robomozků. Nikdy jsem podobné roboty neviděla... když teda nepočítám ty z komiksů, které jsem četla. A ty mozky! I po tak dlouhé době jsou pořád zachovalé. Už se nemůžu dočkat, až se ponořím do schémat a jeden si sama sestrojím.</Dest>
     </String>
     <String List="0" sID="0002F4">
       <EDID>DLC01Lair_HolotapeOnly_ThomasHarkin</EDID>
@@ -259,7 +259,7 @@ Provoz výtahu do řídícího středika byl obnoven.&#xD;
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Terminating decontamination mist. Please wait...</Source>
-      <Dest>Přerušování dekontaminační páry. Prosím, čekejte...</Dest>
+      <Dest>Ukončování dekontaminační páry. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="0004BA">
       <EDID>DLC01Lair_LaserTripwire</EDID>
@@ -551,7 +551,7 @@ Omezené ruční ovládání je nyní zprovozněno. Upozorňujeme, že z prevent
       <EDID>DLC01Lair_ENT_DeconControlTerminal_ArchControlSubTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Activating decontamination mist. Please wait...</Source>
-      <Dest>Aktivace dekontaminační páry. Prosím, čekejte...</Dest>
+      <Dest>Aktivování dekontaminační páry. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="000AE0">
       <EDID>DLC01Lair_RobCo_ServiceTerminalNote</EDID>
@@ -631,7 +631,7 @@ Jako pojistka pro případ narušení řídicího centra může být zahájeno o
 The examples below show some of the customization and detail the E-601 is capable of.</Source>
       <Dest>Terminálový systém ROBCO Model E-601 je nový zjednodušený terminál pro obchodně smýšlející jednotlivce. Zaručeně budete stoupat po firemním žebříčku díky perfektní organizaci s naším nejmodernějším kalendářem, správcem kontaktů a systémem zpráv!&#xD;
 &#xD;
-Na následujících příkladech vám ukážeme některé z možností přizpůsobení a v detailu si představíme funkce, kterými E-601 disponuje.</Dest>
+Na následujících příkladech vám ukážeme některé z možností přizpůsobení a v detailu představíme funkce, kterými E-601 disponuje.</Dest>
     </String>
     <String List="0" sID="000C1E">
       <EDID>DLC01Lair_ENT_DeconElevatorTerminal</EDID>
@@ -681,7 +681,7 @@ Autorizace hlasového otisku byla uznána. Prosím, potvrďte ruční ovládán�
       <Source>Finally, a personalized home computer for the whole family to enjoy! Keep track of activities and tasks, and maintain privacy by adding passwords to logins.*&#xD;
 &#xD;
 *Passwords currently not applied.</Source>
-      <Dest>Konečně tu je personalizovaný domácí počítač, který si užije celá rodina! Mějte přehled o svých aktivitách a úkolech a díky přihlášovacímu heslu si zachovejte své soukromí*.&#xD;
+      <Dest>Konečně tu je personalizovaný domácí počítač pro celou rodinu! Mějte přehled o svých aktivitách a úkolech. Díky přihlášovacímu heslu si zachovejte své soukromí.*&#xD;
 &#xD;
 *Heslo není momentálně nastaveno.</Dest>
     </String>
@@ -846,7 +846,7 @@ Resolution:&#xD;
       <Dest>Status: OTEVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[T. Sanchez] Paní Blancheová tvrdí, že její terminál prostě „najednou přestal fungovat“. Ukazuje univerzální chybovou zprávu. Uvedla, že po čase začal padat a teď už ani nenajede. Asi tolik k tomu „najednou“. Když se tak na paní podívám, tipuju, že v tom terminále bude tolik chlupů, že bych z nich poskládal novou kočku. Pravděpodobně se přehřál. &#xD;
+[T. Sanchez] Paní Blancheová tvrdí, že její terminál prostě „najednou přestal fungovat“. Ukazuje univerzální chybovou zprávu. Uvedla, že po nějaké době se začal vypínat a teď už ani nenajede. Asi tolik k tomu „najednou“. Když se tak na paní podívám, tipuju, že v tom terminále bude tolik chlupů, že bych z nich poskládal novou kočku. Pravděpodobně půjde o přehřívání. &#xD;
 &#xD;
 Řešení:&#xD;
 [Zakázka se vyřizuje.]</Dest>
@@ -865,10 +865,10 @@ Evaluation:&#xD;
       <Dest>Status: UZAVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[K. O'Conner] Slečna Sullivanová tvrdí, že má svou E-601 připojenou ke své kancelářské síti, ale nedaří se jí z ní odeslat korespondenci. Taky říkala, že došlo k naprostému selhání systému oznámení, který jsme jí pří nákupu nastavili. Není si jistá, kde může být problém. Říká, že její IT oddělení počítač zkontrolovalo, ale také neví, proč nefunguje. Přinesla ho zpátky sem a vyhrožuje nám žalobou. Řekl bych, že jí to muselo pořádně podělat pár důležitých setkání...&#xD;
+[K. O'Conner] Slečna Sullivanová tvrdí, že má svou E-601 připojenou ke své kancelářské síti, ale nedaří se jí z ní odeslat korespondenci. Taky říkala, že došlo k naprostému selhání systému notifikací, který jsme jí pří nákupu nastavili. Netuší, kde může být problém. Říká, že její IT oddělení počítač zkontrolovalo, ale také neví, proč nefunguje. Přinesla ho zpátky sem a vyhrožuje žalobou. Tipuji, že díky tomu přišla o pár důležitých pracovních schůzek...&#xD;
 &#xD;
 Vyhodnocení:&#xD;
-[P. Benson] Vypadá to, že tenhle počítač sabotoval Carmike předtím, než odešel. Nevím, jestli k tomu měl osobní důvody nebo chtěl jen naposledy uškodit. Myslím, že vím, co s tím provedl, ale nechci nic slibovat. Doporučuji nahradit tento terminál úplně novým, abychom měli jistotu, že nebude kompromitován.</Dest>
+[P. Benson] Vypadá to, že tenhle počítač sabotoval Carmike předtím, než odešel. Nevím, jestli k tomu měl osobní důvody, nebo chtěl jen naposledy uškodit. Myslím, že vím, co s tím provedl, ale nechci nic slibovat. Doporučuji nahradit tento terminál úplně novým, abychom měli jistotu, že nebude kompromitován.</Dest>
     </String>
     <String List="0" sID="001007">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -880,7 +880,7 @@ Vyhodnocení:&#xD;
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>The potential for the robobrains seems limitless. I've managed to update a few of them to handle some of the menial tasks around here. I may have this facility fully functional for my own purposes faster than I thought.</Source>
-      <Dest>Potenciál robomozků se zdá být neomezený. Podařilo se mi pár z nich naprogramovat, aby prováděli některé z místních podřadných prací. Možná se mi nakonec podaří celý areál plně zprovoznit pro mé vlastní účely rychleji, než jsem si myslela.</Dest>
+      <Dest>Potenciál robomozků se zdá být neomezený. Podařilo se mi pár z nich naprogramovat, aby prováděli některé z místních podřadných prací. Možná se mi nakonec podaří celý areál plně zprovoznit pro své vlastní účely rychleji, než jsem si myslela.</Dest>
     </String>
     <String List="0" sID="001043">
       <EDID>DLC01Lair_RobCo_SalesTerminal_Service</EDID>
@@ -936,7 +936,7 @@ Vyhodnocení:&#xD;
       <Source>I've a new mission: the safety of the Commonwealth! I think I can program the robots here to safely police the surrounding area, possibly up to a 15 mile radius. I was laying in bed, staring at the posters I found and it occurred to me: I could really make a difference here.&#xD;
 &#xD;
 I'm going to start constructing the Mechanist suit in the drawing I found. </Source>
-      <Dest>Mám nové poslání: Bezpečnost Commonwealthu! Myslím, že dokážu naprogramovat místní roboty, aby hlídali okolní oblasti v okruhu až 15 mil. Jak jsem tak ležela v posteli a zírala na plakáty, které jsem našla, najednou mi to došlo. Vážně bych tu mohla něco změnit.&#xD;
+      <Dest>Mám nové poslání - bezpečnost Commonwealthu! Myslím, že dokážu roboty naprogramovat tak, aby hlídali zdejší oblast v okruhu až 15 mil. Válela jsem se v posteli, koukala na plakáty, co jsem našla a v tom mi to došlo - mám v rukách obrovský potenciál.&#xD;
 &#xD;
 Chystám se začít s výrobou Mechanikova obleku podle toho obrázku, co jsem našla.</Dest>
     </String>
@@ -979,10 +979,10 @@ Evaluation:&#xD;
       <Dest>Status: UZAVŘENO&#xD;
 &#xD;
 Popis:&#xD;
-[K. O'Conner] Crenshaw se vrátil s tím svým prastarým terminálem. Touhle dobou je už nejméně 7 let starý. Padá, když se snaží nahrát Rudou hrozbu.&#xD;
+[K. O'Conner] Crenshaw se vrátil s tím svým prastarým terminálem. Touhle dobou je už nejméně 7 let starý. Padá, když se snaží spustit Rudou hrozbu.&#xD;
 &#xD;
 Vyhodnocení:&#xD;
-[S. Lee] Calvin se bude muset cuknout a koupit nový terminál. Ta stará NX-12 dobrá leda tak na psaní dokumentů či hraní textových her. Bude potřebovat větší paměť, kterou tenhle terminál ani nepodporuje. V podstatě se buď úplně vymění vnitřnosti nebo koupí zbrusu nový terminál. Ať si vybere.</Dest>
+[S. Lee] Calvin bude muset sáhnout do kapsy a koupit nový terminál. Ta stará NX-12 je dobrá leda tak na psaní dokumentů a hraní textových her. Bude potřebovat větší paměť, kterou tenhle terminál ani nepodporuje. V podstatě se buď úplně vymění vnitřek, nebo koupí zbrusu nový terminál. Ať si vybere.</Dest>
     </String>
     <String List="0" sID="001248">
       <EDID>DLC01Lair_RobCo_ServiceTerminal</EDID>
@@ -996,7 +996,7 @@ If problems continue, contact your nearest RobCo Sales &amp; Service center for 
 &#xD;
 Prosím, zkontrolujte, zda je všechen potřebný hardware a software správně nainstalován.&#xD;
 &#xD;
-Pokud problémy přetrvávají, obraťte se na nejbližší Prodejní a servisní centrum RobCo.</Dest>
+Pokud problémy přetrvávají, obraťte se na nejbližší Prodejní a servisní středisko RobCo.</Dest>
     </String>
     <String List="0" sID="001251">
       <EDID>DLC01Lair_HolotapeMechanistTerminal</EDID>
@@ -1097,12 +1097,12 @@ Please contact a ROBCO Certified Technician for assistance.</Source>
 &#xD;
    STOP: Zjištěno více chyb.&#xD;
 ERR 0xFA770171: Chyba segmentace.&#xD;
-ERR 0x0D890102: Spouštěcí sektor neplatný/poškozený.&#xD;
+ERR 0x0D890102: Neplatný/poškozený spouštěcí sektor.&#xD;
 ERR 0xFFF11011: Chyba paměti.&#xD;
 ERR 0xC0001011: Kritická chyba.&#xD;
 ERR 0x00001001: Kritická chyba.&#xD;
 &#xD;
-Pro další podporu se prosím obraťte na certifikovaného technika firmy ROBCO.</Dest>
+Pro podporu se prosím obraťte na certifikovaného technika firmy ROBCO.</Dest>
     </String>
     <String List="0" sID="0013DE">
       <EDID>DLC01Lair_ENT_DeconOfficeTerminal_SubProcedures</EDID>
@@ -1180,7 +1180,7 @@ Sanchez, Julianna&#xD;
  Relation: Client&#xD;
  Notes:&#xD;
   Extremely professional. Dislikes small talk.</Source>
-      <Dest>Uchovávejte podrobné informace o svých kontaktech. Zapojte do svého podnikání trochu osobního kontaktu!&#xD;
+      <Dest>Uchovávejte podrobné informace o svých kontaktech. Zapojte do svého podnikání trochu osobního přístupu!&#xD;
 &#xD;
 --- A ---&#xD;
 Adams, Jerry&#xD;
@@ -1288,7 +1288,7 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
             - CFO&#xD;
             - COO&#xD;
             - CTO</Source>
-      <Dest>Náš denní itinerář bude získávat data přímo z vašich zpráv a kalendáře. V podstatě se generuje sám!&#xD;
+      <Dest>Denní itinerář získává data přímo z vašich zpráv a kalendáře. V podstatě se generuje sám!&#xD;
 &#xD;
 09:00: Schůzka ohledně rozpočtu&#xD;
             Shrnutí: Revize čtvrtého čtvrtletí&#xD;
@@ -1296,7 +1296,7 @@ Pojďme naplánovat schůzku k projednání letošní Halloweenské párty. Bude
             - Finanční ředitel&#xD;
             - Viceprezident účetního oddělení&#xD;
             - Viceprezident oddělení odbytu&#xD;
-12:00: Pracovní oběd se zástupci operačníjo řízení&#xD;
+12:00: Pracovní oběd se zástupci vedení provozu&#xD;
 15:00: Zasedání rady ohledně globálního slučování.&#xD;
             Shrnutí: Výhody globální expanze&#xD;
             Účastníci:&#xD;
@@ -1350,7 +1350,7 @@ Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008112-AB</Source>
-      <Dest>Problém při údržbě č. 09008112-AB</Dest>
+      <Dest>Problém 09008112-AB</Dest>
     </String>
     <String List="0" sID="001A87">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1362,7 +1362,7 @@ Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Maintenance Issue 09008777-AC</Source>
-      <Dest>Problém při údržbě č. 09008777-AC</Dest>
+      <Dest>Problém 09008777-AC</Dest>
     </String>
     <String List="0" sID="001A95">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1372,11 +1372,11 @@ Kritické selhání sítě. Pro další pomoc prosím kontaktujte technika.&#xD;
 After dome implantation, the brain on the above subject started exhibiting physical changes. The subject's dura turned some kind of a mottled brown color, and started to break down after only twelve hours in the solution.&#xD;
 &#xD;
 Turns out, the bio-gel was tainted with sulfuric acid runoff from the dome polishing compound and a reaction was occurring when they met. Unfortunately, this subject is a total loss. We'll have to just write it off as bad luck and switch polishing compounds immediately.</Source>
-      <Dest>Problém při údržbě č. 09007889-AB&#xD;
+      <Dest>Problém 09007889-AB&#xD;
 &#xD;
-Po implantaci kupole začal mozek výše zmíněný subjekt vykazovat fyzické změny. Mozková plena subjektu změnila barvu na víceméně strakatě hnědou a po pouhých dvanácti hodinách v roztoku se začala rozkládat.&#xD;
+Po implantaci kupole začal mozek subjektu vykazovat fyzické změny. Mozková plena subjektu změnila barvu na strakatě hnědou a po pouhých dvanácti hodinách v roztoku se začala rozkládat.&#xD;
 &#xD;
-Ukázalo se, že bio-gel byl znečištěný kyselinou sírovou, která je obsažená v leštící směsi na kopule a při vzájemném kontaktu došlo k chemické reakci. Bohužel jsme tím subjekt naprosto zničili. Budeme ho prostě muset odepsat a okamžitě vyměnit lešticí prostředky.</Dest>
+Ukázalo se, že bio-gel byl znečištěný kyselinou sírovou, která je obsažená v leštící směsi na kopule a při vzájemném kontaktu došlo k chemické reakci. Bohužel jsme tím o subjekt zcela přišli. Budeme ho muset odepsat jako nešťastnou náhodu a okamžitě vyměnit lešticí prostředky.</Dest>
     </String>
     <String List="0" sID="001AA8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1386,11 +1386,11 @@ Ukázalo se, že bio-gel byl znečištěný kyselinou sírovou, která je obsaž
 We're continuing to have issues maintaining cohesion between the neural interface and the spinal column nerve endings. The nerves reject the connections faster than we can rebind them. I know we were hoping to keep the spinal columns intact for the Robobrains, but it's obviously not going to happen.&#xD;
 &#xD;
 I'd suggest we revert back to the original plan - the good old brain in a jar prototype. It will reduce the amount of life support subsystems significantly, as well as cut production time almost by a third. I'll submit my findings to the brass in Washington tomorrow.</Source>
-      <Dest>Problém při údržbě č. 09008112-AB&#xD;
+      <Dest>Problém 09008112-AB&#xD;
 &#xD;
-Neustále máme problémy se zachováním soudržnosti mezi neurálním rozhraním a páteřním nervovým zakončením. Nervy se odpojí dřív, než je stihneme všechny připojit. Vím, že jsme doufali, že robomozkům páteř nebude třeba narušit, ale očividně to není možné.&#xD;
+Neustále máme problémy se zachováním soudržnosti neurálního rozhraní a páteřními nervovými zakončeními. Nervy se odpojují rychleji, než je dokážeme napojovat. Vím, že jsme doufali, že robomozkům nebude potřeba páteř narušovat, ale očividně to není možné.&#xD;
 &#xD;
-Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům mozků ve sklenici. Významně se tím sníží množství život-udržujících subsystémů a navíc se sníží výrobní čas téměř o třetinu. Zítra svá zjištění předložím pohlavárům ve Washingtonu.</Dest>
+Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům mozků ve sklenici. Významně se tím sníží množství život udržujících subsystémů a navíc se sníží výrobní čas téměř o třetinu. Zítra svá zjištění předložím pohlavárům ve Washingtonu.</Dest>
     </String>
     <String List="0" sID="001ABB">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1402,7 +1402,7 @@ Navrhuji vrátit se zpět k původnímu plánu - starým dobrým prototypům moz
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Maintenance Issue 09009113-AR</Source>
-      <Dest>Problém při údržbě č. 09009113-AR</Dest>
+      <Dest>Problém 09009113-AR</Dest>
     </String>
     <String List="0" sID="001AD8">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1414,11 +1414,11 @@ We got the first batch of Robobrains back from testing, and they're a mess. Crac
 This particular issue is troubling though. According to field users, some of the Robobrains are misinterpreting commands. The on-board brain seems to almost overthink these instructions and "decide" to rewrite them for efficiency purposes. Most of the time, this results in property damage or even a few civilian fatalities.&#xD;
 &#xD;
 I've gone over every square inch of the faulty units and I can't find a thing wrong with them. I'm going to have to send this issue over to research and see what they can shake out. At least our department is in the clear on this one.</Source>
-      <Dest>Problém při údržbě č. 09008777-AC&#xD;
+      <Dest>Problém 09008777-AC&#xD;
 &#xD;
 Tak se nám vrátila první várka robomozků z testování a jsou v žalostném stavu. Prasklé kopule, vyhozené pásy, přetížené fúzní články, usmažené obvody - a takhle bych mohl pokračovat dál a dál.&#xD;
 &#xD;
-Konkrétně tohle je znepokojující problém. Podle uživatelů někteří z robomozků špatně interpretují příkazy. Jak se zdá, palubní mozek nad těmito pokyny tak dlouho přemýšl, až se „rozhodne“ si je sám přeformulovat. To má většinou za následek poškození majetku nebo dokonce i pár civilních obětí.&#xD;
+Nicméně je tu jeden opravdu znepokojující problém. Podle uživatelů někteří z robomozků špatně interpretují příkazy. Jak se zdá, palubní mozek nad těmito pokyny tak dlouho přemýšlí, až se „rozhodne“ si je pro zefektivnění sám přeformulovat. Většinou to mělo za následek poškození na majetku, ale párkrát i nějaké civilní oběti.&#xD;
 &#xD;
 Projel jsem každý centimetr čtvereční vadných kusů a nenašel jsem na nich žádnou závadu. Budu tenhle problém muset předat na výzkumné oddělení a uvidíme, s čím přijdou. Aspoň že v tomhle případě jsme z obliga.</Dest>
     </String>
@@ -1426,7 +1426,7 @@ Projel jsem každý centimetr čtvereční vadných kusů a nenašel jsem na nic
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Chief Engineer's Terminal</Source>
-      <Dest>Terminál vedoucího inženýra</Dest>
+      <Dest>Terminál vedoucího technika</Dest>
     </String>
     <String List="0" sID="001AE2">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1444,7 +1444,7 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Maintenance Issue 09007889-AB</Source>
-      <Dest>Problém při údržbě č. 09007889-AB</Dest>
+      <Dest>Problém 09007889-AB</Dest>
     </String>
     <String List="0" sID="001AE4">
       <EDID>DLC01Lair_PW_ChiefEngineerTerminal</EDID>
@@ -1472,9 +1472,9 @@ Byl vyhlášen bezpečnostní poplach Epsilon-VI. Všechny systémy byly uzamče
 One of the Robobrains rolled off the line with a "faulty" voice module. When it speaks, it's speaking in reverse. This troubled me, so I had them shut down the line for almost eight hours while I checked the software for issues and then gave the audio output assembler a thorough diagnostic. I didn't find any issues, so I gave the all clear to resume assembly and marked it down as a glitch.&#xD;
 &#xD;
 I have no idea what would cause such a ridiculous issue, but if you ask me, I think one of the guys upstairs thought it would be funny.</Source>
-      <Dest>Problém při údržbě č. 09009113-AR&#xD;
+      <Dest>Problém 09009113-AR&#xD;
 &#xD;
-Jeden z robomozků vyjel z linky s „vadným“ hlasovým modulem. Když promluví, mluví pozpátku. To mě znepokojovalo, tak jsem nechal vypnout linku na téměř osm hodin, během kterých jsem kontroloval software a hledal závadu. Nakonec jsem provedl důslednou diagnostiku kompilátoru zvukového výstupu. Žádnou závadu jsem nenašel, tak jsem povolil pokračovat v montážích a zaznamenal to jako vadný kus.&#xD;
+Jeden z robomozků vyjel z linky s „vadným“ hlasovým modulem. Když promluví, mluví pozpátku. To mě znepokojovalo, tak jsem nechal vypnout linku na téměř osm hodin, během kterých jsem kontroloval software a hledal závadu. Nakonec jsem provedl důslednou diagnostiku kompilátoru zvukového výstupu. Žádnou závadu jsem nenašel, tak jsem povolil pokračovat v montážích a zaznamenal to jako ojedinělou závadu.&#xD;
 &#xD;
 Nemám tušení, co by mohlo způsobit tak šílenou závadu, ale řekl bych, že si prostě jen někdo z kluků nahoře myslel, že to bude k popukání.</Dest>
     </String>
@@ -1498,9 +1498,9 @@ Stick that in your pipe and smoke it, General Atomics.</Source>
 Záznam: 0D77-HR078&#xD;
 Status: Šifrováno&#xD;
 &#xD;
-S radostí oznamuji, že oddělení opět dosáhlo efektivitu sto procent. Teď, když se celá sekce skládá výhradně z vojáků, zvládáme plnit se stanoveným rozpočtem, včas a bezchybně. Takhle se sakra vede montážní linka.&#xD;
+S radostí oznamuji, že oddělení opět dosahuje stoprocentní efektivity. Teď, když se celá sekce skládá výhradně z vojáků, zvládáme plán plnit se stanoveným rozpočtem, včas a bezchybně. Takhle se, sakra, vede montážní linka.&#xD;
 &#xD;
-Takhle se to dělá vy cucáci z General Atomics.</Dest>
+Takhle se to dělá, vy cucáci z General Atomics.</Dest>
     </String>
     <String List="0" sID="001AF6">
       <EDID>DLC01Lair_PW_ProductionControlTerminal</EDID>
@@ -1556,7 +1556,7 @@ I'm going to start getting things back on track down here and show those civilia
 Záznam: 0D77-HR056&#xD;
 Status: Šifrováno&#xD;
 &#xD;
-Dnes mě sem převeleli, abych vedl oddělení Kontroly výroby. Toho idiota z General Atomics stáhli poté, co nechal klesnout efektivitu oddělení pod devadesát procent. Ti šašci v soukromým sektoru to mají tak jednoduchý... nechápu, jak mohl být spokojenej s tak mizerným hodnocením a jaktože se za to manko ani nemusel nikomu zodpovídat.&#xD;
+Dnes mě sem převeleli, abych vedl oddělení řízení výroby. Toho idiota z General Atomics stáhli poté, co nechal klesnout efektivitu oddělení pod devadesát procent. Ti šašci v soukromým sektoru to mají tak jednoduchý... nechápu, jak mohl být spokojenej s tak mizerným hodnocením a jaktože se za to manko ani nemusel nikomu zodpovídat.&#xD;
 &#xD;
 Ale já to tu začnu zase dávat zpátky do latě a ukážu těm civilistům, jak to vypadá, když se do věcí obuje Armáda Spojených států..</Dest>
     </String>
