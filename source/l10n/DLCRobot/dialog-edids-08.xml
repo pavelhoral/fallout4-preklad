@@ -211,13 +211,13 @@
       <Source>I'm not picking up a signal from any of my bots right now, but that doesn't necessarily mean you've found them all.</Source>
       <Dest>Momentálně nezachytávám signál od žádného z mých robotů, ale to ještě nemusí nutně znamenat že už byli nalezeni všichni.</Dest>
     </String>
-    <String List="2" sID="00064F" Partial="1">
+    <String List="2" sID="00064F">
       <EDID>DLC01MQPostQuestPlayerGreetingMechanist01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Isabel, are you tracking any more of your rogue bots?</Source>
       <Dest>Izabelo, nemáš pozici nějakého dalšího ze svých neovladatelných robotů?</Dest>
     </String>
-    <String List="2" sID="000650" Partial="1">
+    <String List="2" sID="000650">
       <EDID>DLC01MQPostQuestPlayerGreetingCodsworth01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ada, are you picking up a signal from any more of the rogue robots?</Source>
@@ -365,7 +365,7 @@
       <EDID>[0100F45C]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Human settlers report shortages of potable water.</Source>
-      <Dest>Osadníci hlásí nedostatek pitné vody.</Dest>
+      <Dest>Lidští osadníci hlásí nedostatek pitné vody.</Dest>
     </String>
     <String List="2" sID="000F76">
       <EDID>[0100F473]</EDID>
@@ -407,7 +407,7 @@
       <EDID>[0100F464]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Be advised: settler nutrition level is lower than minimum necessary for optimal human health.</Source>
-      <Dest>Upozornění: Výživa osadníků nedosahuje ani minimalní úrovně, nutné pro lidské zdraví.</Dest>
+      <Dest>Upozornění: Výživa osadníků nedosahuje minimalní úrovně nutné pro lidské zdraví.</Dest>
     </String>
     <String List="2" sID="000FD2">
       <EDID>[0100F479]</EDID>
@@ -467,7 +467,7 @@
       <EDID>[0100F458]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Affirmative.</Source>
-      <Dest>Souhlas.</Dest>
+      <Dest>Rozumím.</Dest>
     </String>
     <String List="2" sID="001092">
       <EDID>[0100D611]</EDID>
@@ -533,7 +533,7 @@
       <EDID>[0100F45B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Be advised: settlers lack minimum necessary supply of potable water.</Source>
-      <Dest>Upozornění:: Osadnící nemají ani minimální nezbytné množství pitné vody.</Dest>
+      <Dest>Upozornění: Osadníkům chybí minimální nezbytné množství pitné vody.</Dest>
     </String>
     <String List="2" sID="0011CA">
       <EDID>[01003EC4]</EDID>
@@ -587,7 +587,7 @@
       <EDID>[0100F46B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Institute synths were repulsed. Damage to our infrastructure falls within acceptable parameters.</Source>
-      <Dest>Syntetikové Institutu byli odraženi. Škody na naší infrastruktuře dosahují přijatelných hodnot.</Dest>
+      <Dest>Syntetikové Institutu byli odraženi. Poškození infrastruktury je v rámci přijatelných hodnot.</Dest>
     </String>
     <String List="2" sID="00120F">
       <EDID>[0100F46C]</EDID>
@@ -623,7 +623,7 @@
       <EDID>[0100F465]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Human settlers report nutritional shortfalls.</Source>
-      <Dest>Osadnící hlasí nedostatky ve výživě.</Dest>
+      <Dest>Lidští osadnící hlasí nedostatky ve výživě.</Dest>
     </String>
     <String List="2" sID="001237">
       <EDID>[0100D60C]</EDID>
@@ -689,7 +689,7 @@
       <EDID>[01000BA9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Human settlers report shortages of potable water.</Source>
-      <Dest>Osadníci hlásí nedostatek pitné vody.</Dest>
+      <Dest>Lidští osadníci hlásí nedostatek pitné vody.</Dest>
     </String>
     <String List="2" sID="001E22">
       <EDID>[01000C6F]</EDID>
@@ -701,7 +701,7 @@
       <EDID>[01000BC2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Human settlers report nutritional shortfalls.</Source>
-      <Dest>Osadnící hlasí nedostatky ve výživě.</Dest>
+      <Dest>Lidští osadnící hlasí nedostatky ve výživě.</Dest>
     </String>
     <String List="2" sID="001E26">
       <EDID>[01000C79]</EDID>
@@ -713,7 +713,7 @@
       <EDID>[01000C55]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Institute synths were repulsed. Damage to our infrastructure falls within acceptable parameters.</Source>
-      <Dest>Syntetikové Institutu byli odraženi. Škody na naší infrastruktuře dosahují přijatelných hodnot.</Dest>
+      <Dest>Syntetikové Institutu byli odraženi. Poškození infrastruktury je v rámci přijatelných hodnot.</Dest>
     </String>
     <String List="2" sID="001E29">
       <EDID>[01000C81]</EDID>
@@ -731,7 +731,7 @@
       <EDID>[01000BC1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Be advised: settler nutrition level is lower than minimum necessary for optimal human health.</Source>
-      <Dest>Upozornění: Výživa osadníků nedosahuje ani minimalní úrovně, nutné pro lidské zdraví.</Dest>
+      <Dest>Upozornění: Výživa osadníků nedosahuje minimalní úrovně nutné pro lidské zdraví.</Dest>
     </String>
     <String List="2" sID="001E30">
       <EDID>[01000C70]</EDID>
@@ -743,7 +743,7 @@
       <EDID>[01000BA8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Be advised: settlers lack minimum necessary supply of potable water.</Source>
-      <Dest>Upozornění:: Osadnící nemají ani minimální nezbytné množství pitné vody.</Dest>
+      <Dest>Upozornění: Osadníkům chybí minimální nezbytné množství pitné vody.</Dest>
     </String>
     <String List="2" sID="001E35">
       <EDID>[01000CBF]</EDID>
@@ -797,7 +797,7 @@
       <EDID>[01000B9E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Affirmative.</Source>
-      <Dest>Souhlas.</Dest>
+      <Dest>Rozumím.</Dest>
     </String>
     <String List="2" sID="001E70">
       <EDID>[01000C5E]</EDID>

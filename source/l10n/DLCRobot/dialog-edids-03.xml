@@ -347,7 +347,7 @@
       <EDID>[0100B278]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I fear the Commonwealth is still littered with those rogue robots.</Source>
-      <Dest>Obávám se, že Commonwealth je stále ještě plný těchto nebezpečných robotů.</Dest>
+      <Dest>Obávám se, že Commonwealth je ještě stále plný těchto neovladatelných robotů.</Dest>
     </String>
     <String List="2" sID="0003B6">
       <EDID>[0100AF0D]</EDID>
@@ -643,11 +643,11 @@
       <Source>Isabel?</Source>
       <Dest>Izabelo?</Dest>
     </String>
-    <String List="2" sID="000B8B">
+    <String List="2" sID="000B8B" Partial="1">
       <EDID>[0100B27B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Eliminating them would be "tying up loose ends" to use a common phrase.</Source>
-      <Dest>Jejich zničením, bychom tuto záležitost, jak se říká, "smetli ze stolu".</Dest>
+      <Dest>Jejich zničením, bychom tuto záležitost, jak se říká, „smetli ze stolu“.</Dest>
     </String>
     <String List="2" sID="000BFA">
       <EDID>[0100C324]</EDID>
@@ -803,7 +803,7 @@
       <EDID>[0100E3AA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Gotta keep going.</Source>
-      <Dest>Musím...pokračovat...dál.</Dest>
+      <Dest>Musím... pokračovat... dál.</Dest>
     </String>
     <String List="2" sID="000E99">
       <EDID>[0100F435]</EDID>
@@ -995,7 +995,7 @@
       <EDID>[0100E3A8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Do your worst.</Source>
-      <Dest>Ukaž co umíš.</Dest>
+      <Dest>Ukaž, co umíš.</Dest>
     </String>
     <String List="2" sID="001015">
       <EDID>[0100DE27]</EDID>
@@ -1607,7 +1607,7 @@
       <EDID>[01001DC7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Argh!</Source>
-      <Dest>AAAA!</Dest>
+      <Dest>Aaaa!</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
