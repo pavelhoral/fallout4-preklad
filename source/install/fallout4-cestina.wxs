@@ -125,6 +125,31 @@
                 <RemoveFile Id="DLCworkshop03_en.DLSTRINGS" Name="DLCworkshop03_en.DLSTRINGS" On="both" />
                 <File Id="DLCworkshop03_en.DLSTRINGS" KeyPath="yes" />
             </Component>
+            <Component Id="DLCRobot_en.STRINGS" Guid="FDE891F8-5A11-44FE-AA05-A27858BB304A">
+                <RemoveFile Id="DLCRobot_en.STRINGS" Name="DLCRobot_en.STRINGS" On="both" />
+                <File Id="DLCRobot_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCRobot_en.ILSTRINGS" Guid="BB79CB61-279F-4F39-BBC0-EA022B5512BC">
+                <RemoveFile Id="DLCRobot_en.ILSTRINGS" Name="DLCRobot_en.ILSTRINGS" On="both" />
+                <File Id="DLCRobot_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCRobot_en.DLSTRINGS" Guid="EEA64F83-6708-4806-B06B-4C23598E4D4B">
+                <RemoveFile Id="DLCRobot_en.DLSTRINGS" Name="DLCRobot_en.DLSTRINGS" On="both" />
+                <File Id="DLCRobot_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
+
+            <Component Id="DLCCoast_en.STRINGS" Guid="7F19C23E-B696-4B35-A05B-C07F313AF601">
+                <RemoveFile Id="DLCCoast_en.STRINGS" Name="DLCCoast_en.STRINGS" On="both" />
+                <File Id="DLCCoast_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCCoast_en.ILSTRINGS" Guid="74D422B3-ECD4-48A9-9BFC-ECB2F29554D7">
+                <RemoveFile Id="DLCCoast_en.ILSTRINGS" Name="DLCCoast_en.ILSTRINGS" On="both" />
+                <File Id="DLCCoast_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCCoast_en.DLSTRINGS" Guid="78175502-064B-404B-8155-F397E3C2FDD3">
+                <RemoveFile Id="DLCCoast_en.DLSTRINGS" Name="DLCCoast_en.DLSTRINGS" On="both" />
+                <File Id="DLCCoast_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
             <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
@@ -153,6 +178,12 @@
             <ComponentRef Id="DLCworkshop03_en.STRINGS" />
             <ComponentRef Id="DLCworkshop03_en.ILSTRINGS" />
             <ComponentRef Id="DLCworkshop03_en.DLSTRINGS" />
+            <ComponentRef Id="DLCRobot_en.STRINGS" />
+            <ComponentRef Id="DLCRobot_en.ILSTRINGS" />
+            <ComponentRef Id="DLCRobot_en.DLSTRINGS" />
+            <ComponentRef Id="DLCCoast_en.STRINGS" />
+            <ComponentRef Id="DLCCoast_en.ILSTRINGS" />
+            <ComponentRef Id="DLCCoast_en.DLSTRINGS" />
             <ComponentRef Id="Fallout4_Cestina.html" />
             <ComponentRef Id="Fallout4_Cestina.png" />
         </Feature>
