@@ -545,13 +545,13 @@
       <EDID>DLC01MQ02_PlayerStage400Response2</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time to operate! Let's see what this thing can do.</Source>
-      <Dest>Čas na operaci! Podíváme se, co tahle věcička zvládne.</Dest>
+      <Dest>Čas na operaci! Podíváme se, co tahle věc zvládne.</Dest>
     </String>
     <String List="2" sID="0008BD">
       <EDID>DLC01MQ02_PlayerStage400Response3</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Let's just hope this thing's safe.</Source>
-      <Dest>Jen doufám, že je ta věc bezpečná.</Dest>
+      <Dest>Doufejme, že je ta věc bezpečná.</Dest>
     </String>
     <String List="2" sID="00092C">
       <EDID>[0100A151]</EDID>
@@ -617,7 +617,7 @@
       <EDID>DLC01MQ02CodsworthStage400Companion</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Looks like everything's all set. The robot workbench is good to go.</Source>
-      <Dest>Vypadá to, že máme vše co potřebujeme. Robotická stanice je připravená.</Dest>
+      <Dest>Vypadá to, že máme vše, co potřebujeme. Robotická stanice je připravena.</Dest>
     </String>
     <String List="2" sID="000C0A">
       <EDID>DLC01MQ02CodsworthStage400</EDID>
@@ -641,7 +641,7 @@
       <EDID>DLC01MQ02_PlayerStage600Response2</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Well, that's useless. I did all this for nothing?</Source>
-      <Dest>No, ale to je nám k ničemu. Takže jsem to všechno dělal zbytečně?</Dest>
+      <Dest>No, ale to je nám k ničemu. Takže to všechno bylo zbytečné?</Dest>
     </String>
     <String List="2" sID="000EBD">
       <EDID>[0100F42C]</EDID>
@@ -659,19 +659,19 @@
       <EDID>DLC01MQ02_PlayerStage400Response2NoWorkbench</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time to operate! Let's get this sucker built and see what it can do.</Source>
-      <Dest>Čas na operaci! Pojďme tu mrchu postavit a zjistit co umí.</Dest>
+      <Dest>Čas na operaci! Pojďme tu mrchu postavit a zjistit, co umí.</Dest>
     </String>
     <String List="2" sID="00105A">
       <EDID>DLC01MQ02_PlayerStage400Response3NoWorkbench</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Let's get this thing built and hope it's safe.</Source>
-      <Dest>Pojďme to postavit a doufat že to bude bezpečné.</Dest>
+      <Dest>Pojďme to postavit a doufat, že to bude bezpečné.</Dest>
     </String>
     <String List="2" sID="0011C0">
       <EDID>DLC01MQ02CodsworthStage400NoWorkbench</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I found the schematics for the robot workbench.</Source>
-      <Dest>Našel jsem schémata k robotické stanici.</Dest>
+      <Dest>Podařilo se mi najít plány k robotické stanici.</Dest>
     </String>
     <String List="2" sID="001485">
       <EDID>[0100FF2F]</EDID>
@@ -1163,7 +1163,7 @@
       <EDID>DLC01MQ02_2400_AdaContinuePoint1</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>If my analysis is correct, this is a specialized Radar Beacon.</Source>
-      <Dest>Pokud je moje analýza správná, jedná se o specializovaný radiomaják.</Dest>
+      <Dest>Pokud je má analýza správná, jedná se o specializovaný radiomaják.</Dest>
     </String>
     <String List="2" sID="00171E">
       <EDID>[01010270]</EDID>
@@ -1217,13 +1217,13 @@
       <EDID>DLC01MQ02SharedInfo01</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>According to my data banks, it's called the "Robobrain."</Source>
-      <Dest>Podle údajů v mé databázi, se nazývají „robomozky“.</Dest>
+      <Dest>Podle údajů v mé databázi se nazývají „robomozky“.</Dest>
     </String>
     <String List="2" sID="001744">
       <EDID>DLC01MQ02_2400_AdaContinuePoint1</EDID>
       <REC id="3">INFO:NAM1</REC>
       <Source>As the next logical step, I need you to install this beacon within me so we can use it to our advantage.</Source>
-      <Dest>Jako další logický krok, by měl být radiomaják nainstalován na mé tělo, abychom jej mohli využít ve svůj prospěch.</Dest>
+      <Dest>Jako další logický krok by měl být radiomaják nainstalován do mého těla, abychom jej mohli využít ve svůj prospěch.</Dest>
     </String>
     <String List="2" sID="00174A">
       <EDID>[010102DA]</EDID>
@@ -1337,7 +1337,7 @@
       <EDID>DLC01MQ02_2400_AdaIntroNotCompanion</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'm relieved to see you've returned. Were you able to find anything at General Atomics?</Source>
-      <Dest>Ulevilo se mi, že jst se vrátil. Podařilo se vám v General Atomics něco najít?</Dest>
+      <Dest>Ulevilo se mi, že jste v pořádku zpátky. Podařilo se vám v General Atomics něco najít?</Dest>
     </String>
     <String List="2" sID="0017A6">
       <EDID>[01010380]</EDID>
@@ -1445,7 +1445,7 @@
       <EDID>DLC01MQ02_2400_AdaContinuePoint2</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You'll need to use a robot workbench to ensure proper installation, and my presence will be required.</Source>
-      <Dest>Budete muset použít robotickou stanici, aby byla zajištěna správná instalace, a bude k tomu potřebná má přítomnost.</Dest>
+      <Dest>Budete muset použít robotickou stanici, aby byla zajištěna správná instalace, a musí v ní být i má maličkost.</Dest>
     </String>
     <String List="2" sID="00180A">
       <EDID>[010102D6]</EDID>
@@ -1685,7 +1685,7 @@
       <EDID>[010102D9]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>It was considered one of the most technologically superior robots ever constructed, but the model never reached full production status.</Source>
-      <Dest>Byly považovány za jedny z technologicky nejvyspělejších robotů, kteří kdy byli vyrobeni. Ale tento model nikdy nedospěl do stádia plnohodnotné produkce.</Dest>
+      <Dest>Byly považovány za jedny z technologicky nejvyspělejších robotů, kteří kdy byli vyrobeni, ale nikdy nedospěly do stádia plnohodnotné produkce.</Dest>
     </String>
     <String List="2" sID="001A1C">
       <EDID>[0100A145]</EDID>
@@ -1715,19 +1715,19 @@
       <EDID>[01010C85]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.</Source>
-      <Dest>Jakmile budu v robotické stanici stačí nainstalovat radiomaják a zbytek už udělám.</Dest>
+      <Dest>Jakmile budu v robotické stanici, stačí nainstalovat radiomaják a zbytek zvládnu sama.</Dest>
     </String>
     <String List="2" sID="001A3B">
       <EDID>[01010C17]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I've never encountered such a robot, but my old caravan discovered records about them while we were scavenging military facilities.</Source>
-      <Dest>Nikdy jsem se s takovým robotem nesetkala, ale moje stará karavana o nich objevila záznamy, když jsme prohledávali vojenská zařízení.</Dest>
+      <Dest>S takovým robotem jsem se nikdy nesetkala, ale moje stará karavana o nich objevila záznamy, když jsme prohledávali vojenská zařízení.</Dest>
     </String>
     <String List="2" sID="001A3C">
       <EDID>[01010C17]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>According to my data banks, it's called the "Robobrain."</Source>
-      <Dest>Podle údajů v mé databázi, se nazývají „robomozky“.</Dest>
+      <Dest>Podle údajů v mé databázi se nazývají „robomozky“.</Dest>
     </String>
     <String List="2" sID="001A3D">
       <EDID>[01010C83]</EDID>
@@ -1739,7 +1739,7 @@
       <EDID>DLC01MQ02_2600_AdaOnInstallingBeacon</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.</Source>
-      <Dest>Jakmile budu v robotické stanici stačí nainstalovat radiomaják a zbytek už udělám.</Dest>
+      <Dest>Jakmile budu v robotické stanici, stačí nainstalovat radiomaják a zbytek zvládnu sama.</Dest>
     </String>
     <String List="2" sID="001A45">
       <EDID>[01010C8A]</EDID>
@@ -1769,7 +1769,7 @@
       <EDID>[010102D9]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>According to my data banks, it's called the "Robobrain."</Source>
-      <Dest>Podle údajů v mé databázi, se nazývají „robomozky“.</Dest>
+      <Dest>Podle údajů v mé databázi se nazývají „robomozky“.</Dest>
     </String>
     <String List="2" sID="001A57">
       <EDID>[01010270]</EDID>
@@ -1787,7 +1787,7 @@
       <EDID>DLC01MQ02SharedInfo01</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>It was considered one of the most technologically superior robots ever constructed, but the model never reached full production status.</Source>
-      <Dest>Byly považovány za jedny z technologicky nejvyspělejších robotů, kteří kdy byli vyrobeni. Ale tento model nikdy nedospěl do stádia plnohodnotné produkce.</Dest>
+      <Dest>Byly považovány za jedny z technologicky nejvyspělejších robotů, kteří kdy byli vyrobeni, ale nikdy nedospěly do stádia plnohodnotné produkce.</Dest>
     </String>
     <String List="2" sID="001A65">
       <EDID>[01010C8F]</EDID>
@@ -1817,7 +1817,7 @@
       <EDID>[010010A9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You'll need to use a robot workbench to ensure proper installation, and my presence will be required.</Source>
-      <Dest>Budete muset použít robotickou stanici, aby byla zajištěna správná instalace, a bude k tomu potřebná má přítomnost.</Dest>
+      <Dest>Budete muset použít robotickou stanici, aby byla zajištěna správná instalace, a musí v ní být i má maličkost.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
