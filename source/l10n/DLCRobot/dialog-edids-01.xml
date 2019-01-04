@@ -533,7 +533,7 @@
       <EDID>[01001050]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Warning: there will be an irreversible ten-second countdown followed by detonation. Recommend moving to a safe distance.</Source>
-      <Dest>Varování: Dojde k nevratnému desetisekundovému odpočtu, po kterém následuje výbuch. Doporučuji se přesunout do bezpečné vzdálenosti.</Dest>
+      <Dest>Varování: Dojde k nevratnému desetisekundovému odpočtu, po kterém následuje výbuch. Doporučuji vám přesun do bezpečné vzdálenosti.</Dest>
     </String>
     <String List="2" sID="0003D3">
       <EDID>[01000F71]</EDID>
@@ -557,7 +557,7 @@
       <EDID>[01000ECD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>It's time for you to go.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Je na čase se rozloučit.</Dest>
     </String>
     <String List="2" sID="000464">
       <EDID>[01000E66]</EDID>
@@ -605,7 +605,7 @@
       <EDID>[0100B1D6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Actually, I'll be back later.</Source>
-      <Dest>No vlastně, vrátím se později.</Dest>
+      <Dest>No vlastně... vrátím se později.</Dest>
     </String>
     <String List="2" sID="00050E">
       <EDID>[01000E50]</EDID>
@@ -623,13 +623,13 @@
       <EDID>[01000EC9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We should go our separate ways.</Source>
-      <Dest>Bude lepší, když půjdeme každý svou vlastní cestou.</Dest>
+      <Dest>Bude lepší, když půjdeme každý vlastní cestou.</Dest>
     </String>
     <String List="2" sID="000583">
       <EDID>[01000DB3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I hope I've done nothing to offend you, sir. Have a pleasant journey.</Source>
-      <Dest>Doufám, že se mi nepodařilo vás něčím urazit, pane. Přeji příjemnou cestu.</Dest>
+      <Dest>Doufám, že za to nemůže nějaké mé chování, pane. Přeji příjemnou cestu.</Dest>
     </String>
     <String List="2" sID="0005A8">
       <EDID>[01000F68]</EDID>
@@ -653,13 +653,13 @@
       <EDID>[01001051]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>That being said, do you wish to arm my self-destruct system?</Source>
-      <Dest>S ohledem na zmíněná fakta potřebuji druhé potvrzení. Přejete si zahájit moji autodestrukci?</Dest>
+      <Dest>S ohledem na zmíněná fakta, přejete si zahájit moji autodestrukci?</Dest>
     </String>
     <String List="2" sID="00069A">
       <EDID>[01000DB4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I hope I've done nothing to offend you, ma'am. Have a pleasant journey.</Source>
-      <Dest>Doufám, že se mi nepodařilo vás něčím urazit, madam. Přeji příjemnou cestu.</Dest>
+      <Dest>Doufám, že za to nemůže nějaké mé chování, paní. Přeji příjemnou cestu.</Dest>
     </String>
     <String List="2" sID="0006C6">
       <EDID>[0100B1CC]</EDID>
@@ -701,7 +701,7 @@
       <EDID>[01000DB1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I wouldn't recommend that course of action, but you're in charge.</Source>
-      <Dest>Takový postup nedoporučuji, ale vy jste tu šéf.</Dest>
+      <Dest>Takový postup nedoporučuji, ale velíte vy.</Dest>
     </String>
     <String List="2" sID="0007CD">
       <EDID>[0100B1B9]</EDID>
@@ -755,7 +755,7 @@
       <EDID>[01001032]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>That was it.</Source>
-      <Dest>Už nic.</Dest>
+      <Dest>To je vše.</Dest>
     </String>
     <String List="2" sID="0008D8">
       <EDID>[01000DD3]</EDID>
@@ -821,7 +821,7 @@
       <EDID>[01000ECF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time for you to leave.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Už tě nepotřebuji.</Dest>
     </String>
     <String List="2" sID="000AE2">
       <EDID>[01000D6B]</EDID>
@@ -875,7 +875,7 @@
       <EDID>[01000E5A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All right.</Source>
-      <Dest>Tak dobrá.</Dest>
+      <Dest>Dobře.</Dest>
     </String>
     <String List="2" sID="000BEA">
       <EDID>[01000E55]</EDID>
@@ -905,7 +905,7 @@
       <EDID>[01000DB2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'd prefer to remain by your side, but I'll abide by your command.</Source>
-      <Dest>Mnohem raději zůstanu po vašem boku, ale budu se řídit vašim příkazem.</Dest>
+      <Dest>Bylo by mi milejší zůstat po vašem boku, ale rozkar je rozkar.</Dest>
     </String>
     <String List="2" sID="000C45">
       <EDID>[0100102D]</EDID>
@@ -923,7 +923,7 @@
       <EDID>[01000ED0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I no longer require your services.</Source>
-      <Dest>Dále už tvé služby nevyžaduji.</Dest>
+      <Dest>Tvé služby už nepotřebuji.</Dest>
     </String>
     <String List="2" sID="000C4F">
       <EDID>[01000C17]</EDID>
@@ -1079,7 +1079,7 @@
       <EDID>[0100F5CF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Actually, I'll be back later.</Source>
-      <Dest>No vlastně, vrátím se později.</Dest>
+      <Dest>No vlastně... vrátím se později.</Dest>
     </String>
     <String List="2" sID="000EAB">
       <EDID>[0100F5D2]</EDID>
@@ -1235,19 +1235,19 @@
       <EDID>[0100F6B1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I no longer require your services.</Source>
-      <Dest>Dále už tvé služby nevyžaduji.</Dest>
+      <Dest>Tvé služby už nepotřebuji.</Dest>
     </String>
     <String List="2" sID="00126B">
       <EDID>[0100F6B0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time for you to leave.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Už tě nepotřebuji.</Dest>
     </String>
     <String List="2" sID="00126C">
       <EDID>[0100F6A5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Time for you to leave.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Už tě nepotřebuji.</Dest>
     </String>
     <String List="2" sID="001273">
       <EDID>[0100F6A3]</EDID>
@@ -1277,13 +1277,13 @@
       <EDID>[0100F6A2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We should go our separate ways.</Source>
-      <Dest>Bude lepší, když půjdeme každý svou vlastní cestou.</Dest>
+      <Dest>Bude lepší, když půjdeme každý vlastní cestou.</Dest>
     </String>
     <String List="2" sID="001283">
       <EDID>[0100F6AE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>It's time for you to go.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Je na čase se rozloučit.</Dest>
     </String>
     <String List="2" sID="00128B">
       <EDID>[0100F6AD]</EDID>
@@ -1301,7 +1301,7 @@
       <EDID>[0100F6AC]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We should go our separate ways.</Source>
-      <Dest>Bude lepší, když půjdeme každý svou vlastní cestou.</Dest>
+      <Dest>Bude lepší, když půjdeme každý vlastní cestou.</Dest>
     </String>
     <String List="2" sID="0012A0">
       <EDID>[0100F6C6]</EDID>
@@ -1361,7 +1361,7 @@
       <EDID>[0100F6A6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I no longer require your services.</Source>
-      <Dest>Dále už tvé služby nevyžaduji.</Dest>
+      <Dest>Tvé služby už nepotřebuji.</Dest>
     </String>
     <String List="2" sID="0012BC">
       <EDID>[0100F69D]</EDID>
@@ -1397,7 +1397,7 @@
       <EDID>[0100F6A4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>It's time for you to go.</Source>
-      <Dest>Je na čase odejít.</Dest>
+      <Dest>Je na čase se rozloučit.</Dest>
     </String>
     <String List="2" sID="0012CB">
       <EDID>[0100F695]</EDID>
@@ -1493,7 +1493,7 @@
       <EDID>[0100FFD1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Sorry, no can do. That switch was disabled when I was built. I'm afraid you're stuck with me this way.</Source>
-      <Dest>Je mi líto, ale to nelze. Tato možnost byla deaktivována když mě kounstruovali. Obávám se, že to se mnou budete muset vydržet v této podobě. </Dest>
+      <Dest>Je mi líto, ale to nelze. Tato možnost byla deaktivována při mé výrobě. Obávám se, že to se mnou budete muset vydržet v této podobě. </Dest>
     </String>
     <String List="2" sID="001D7B">
       <EDID>[010113A3]</EDID>
