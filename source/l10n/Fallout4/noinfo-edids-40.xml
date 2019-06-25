@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fallout4</Addon>
+    <Source>en</Source>
+    <Dest>cs</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0367D8">
+      <EDID>ap_WeaponMaterial</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>No Material</Source>
+      <Dest>Bez povrchové úpravy</Dest>
+    </String>
+    <String List="0" sID="0367D9">
+      <EDID>Weapon_Material_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Material</Source>
+      <Dest>Bez povrchové úpravy</Dest>
+    </String>
+    <String List="0" sID="0367DA">
+      <EDID>WorkshopRecipeFilterCreationClub02ccFSVFO4001</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Modern Furniture</Source>
+      <Dest>Moderní nábytek</Dest>
+    </String>
+    <String List="0" sID="0367DB">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04Grognak</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grognak</Source>
+      <Dest>Grognak</Dest>
+    </String>
+    <String List="0" sID="0367DC">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04RedMenace</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Red Menace</Source>
+      <Dest>Rudá hrozba</Dest>
+    </String>
+    <String List="0" sID="0367DD">
+      <EDID>WorkshopRecipeFilterCreationClub02ccFSVFO4003</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Slocum's Joe</Source>
+      <Dest>Slocumovy koblihy</Dest>
+    </String>
+    <String List="0" sID="0367DE">
+      <EDID>WorkshopRecipeFilterCreationClub</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Creation Club</Source>
+      <Dest>Creation Club</Dest>
+    </String>
+    <String List="0" sID="0367DF">
+      <EDID>WorkshopMenu01CreationClub</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Creation Club</Source>
+      <Dest>Creation Club</Dest>
+    </String>
+    <String List="0" sID="0367E0">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04Automatron</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Automatron</Source>
+      <Dest>Automatron</Dest>
+    </String>
+    <String List="0" sID="0367E1">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04ZetaInvaders</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Zeta Invaders</Source>
+      <Dest>Zeta Invaders</Dest>
+    </String>
+    <String List="0" sID="0367E2">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04Pipfall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Pipfall</Source>
+      <Dest>Pipfall</Dest>
+    </String>
+    <String List="0" sID="0367E3">
+      <EDID>WorkshopRecipeFilterCreationClub02ccEEJFO4001</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Home Decor</Source>
+      <Dest>Domácí dekorace</Dest>
+    </String>
+    <String List="0" sID="0367E4">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Arcade Cabinets</Source>
+      <Dest>Herní automaty</Dest>
+    </String>
+    <String List="0" sID="0367E5">
+      <EDID>WorkshopMenu01Power02ArcadeCabinets</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Arcade Cabinets</Source>
+      <Dest>Herní automaty</Dest>
+    </String>
+    <String List="0" sID="0367E6">
+      <EDID>WorkshopRecipeFilterCreationClub02ccBGSFO4045</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Arcade Cabinets</Source>
+      <Dest>Herní automaty</Dest>
+    </String>
+    <String List="0" sID="0367E7">
+      <EDID>WorkshopRecipeFilterResource02Power03ArcadeCabinets04AtomicCommand</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Atomic Command</Source>
+      <Dest>Atomic Command</Dest>
+    </String>
+    <String List="0" sID="0367E8">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Wall</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Walls</Source>
+      <Dest>Stěny</Dest>
+    </String>
+    <String List="0" sID="0367E9">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Prefabs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Prefabs</Source>
+      <Dest>Prefabrikované</Dest>
+    </String>
+    <String List="0" sID="0367EA">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Floor</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Floors</Source>
+      <Dest>Podlahy</Dest>
+    </String>
+    <String List="0" sID="0367EB">
+      <EDID>WorkshopRecipeFilterBuilding02Brick</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Brick</Source>
+      <Dest>Cihly</Dest>
+    </String>
+    <String List="0" sID="0367EC">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Misc</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Miscellaneous</Source>
+      <Dest>Různé</Dest>
+    </String>
+    <String List="0" sID="0367ED">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Roof</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Roofs</Source>
+      <Dest>Střechy</Dest>
+    </String>
+    <String List="0" sID="0367EE">
+      <EDID>WorkshopRecipeFilterBuilding02Brick03Stairs</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Stairs</Source>
+      <Dest>Schodiště</Dest>
+    </String>
+    <String List="0" sID="0367F0">
+      <EDID>WorkshopMenu01Build02Brick</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Building</Source>
+      <Dest>Stavba</Dest>
+    </String>
+    <String List="0" sID="0367F2">
+      <EDID>Armor_Material_Leather_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Paint</Source>
+      <Dest>Bez nátěru</Dest>
+    </String>
+    <String List="0" sID="0367F3">
+      <EDID>Armor_Material_Metal_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Paint</Source>
+      <Dest>Bez nátěru</Dest>
+    </String>
+    <String List="0" sID="0367F6">
+      <EDID>ap_armor_Paint</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Paint</Source>
+      <Dest>Nátěr</Dest>
+    </String>
+    <String List="0" sID="0367F8">
+      <EDID>Armor_Material_Combat_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Paint</Source>
+      <Dest>Bez nátěru</Dest>
+    </String>
+    <String List="0" sID="0367F9">
+      <EDID>Armor_Material_Synth_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Paint</Source>
+      <Dest>Bez nátěru</Dest>
+    </String>
+    <String List="0" sID="0367FA" Partial="1">
+      <EDID>CC_PetDogs_Name11</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Chompers</Source>
+      <Dest>Chompers</Dest>
+    </String>
+    <String List="0" sID="0367FB" Partial="1">
+      <EDID>CC_PetDogs_Name19</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ghost</Source>
+      <Dest>Ghost</Dest>
+    </String>
+    <String List="0" sID="0367FC">
+      <EDID>CC_PetDogs_RenamePerk</EDID>
+      <REC>PERK:EPF2</REC>
+      <Source>RENAME</Source>
+      <Dest>PŘEJMENOVAT</Dest>
+    </String>
+    <String List="0" sID="0367FD" Partial="1">
+      <EDID>CC_PetDogs_Name61</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Vesper</Source>
+      <Dest>Vesper</Dest>
+    </String>
+    <String List="0" sID="0367FE" Partial="1">
+      <EDID>CC_PetDogs_Name09</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Champ</Source>
+      <Dest>Champ</Dest>
+    </String>
+    <String List="0" sID="0367FF" Partial="1">
+      <EDID>CC_PetDogs_Name67</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Chubs</Source>
+      <Dest>Chubs</Dest>
+    </String>
+    <String List="0" sID="036800" Partial="1">
+      <EDID>CC_PetDogs_Name58</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Teddy</Source>
+      <Dest>Teddy</Dest>
+    </String>
+    <String List="0" sID="036801" Partial="1">
+      <EDID>CC_PetDogs_PetPerk</EDID>
+      <REC>PERK:EPF2</REC>
+      <Source>PET</Source>
+      <Dest>PET</Dest>
+    </String>
+    <String List="0" sID="036802" Partial="1">
+      <EDID>CC_PetDogs_Name12</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Cookie</Source>
+      <Dest>Cookie</Dest>
+    </String>
+    <String List="0" sID="036804">
+      <EDID>CC_PetDogs_Name17</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Fido</Source>
+      <Dest>Fido</Dest>
+    </String>
+    <String List="0" sID="036805">
+      <EDID>CC_PetDogs_AdoptMsg</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Adopt</Source>
+      <Dest>Adoptovat</Dest>
+    </String>
+    <String List="0" sID="036806" Partial="1">
+      <EDID>CC_PetDogs_Name49</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rover</Source>
+      <Dest>Rover</Dest>
+    </String>
+    <String List="0" sID="036807">
+      <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rename Dog?</Source>
+      <Dest>Přejmenovat psa?</Dest>
+    </String>
+    <String List="0" sID="036808">
+      <EDID>CC_PetDogs_Name55</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Shadow</Source>
+      <Dest>Shadow</Dest>
+    </String>
+    <String List="0" sID="036809">
+      <EDID>CC_PetDogs_Name66</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ruby</Source>
+      <Dest>Ruby</Dest>
+    </String>
+    <String List="0" sID="03680A">
+      <EDID>CC_PetDogs_Name48</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rocky</Source>
+      <Dest>Rocky</Dest>
+    </String>
+    <String List="0" sID="03680B">
+      <EDID>CC_PetDogs_Name47</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Riley</Source>
+      <Dest>Riley</Dest>
+    </String>
+    <String List="0" sID="03680C">
+      <EDID>CC_PetDogs_Name71</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ninette</Source>
+      <Dest>Ninette</Dest>
+    </String>
+    <String List="0" sID="03680D" Partial="1">
+      <EDID>CC_PetDogs_Name01</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ace</Source>
+      <Dest>Ace</Dest>
+    </String>
+    <String List="0" sID="03680F" Partial="1">
+      <EDID>CC_PetDogs_Name70</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Milou</Source>
+      <Dest>Milou</Dest>
+    </String>
+    <String List="0" sID="036810" Partial="1">
+      <EDID>CC_PetDogs_Name53</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Scout</Source>
+      <Dest>Scout</Dest>
+    </String>
+    <String List="0" sID="036811" Partial="1">
+      <EDID>CC_PetDogs_Name31</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Loki</Source>
+      <Dest>Loki</Dest>
+    </String>
+    <String List="0" sID="036812" Partial="1">
+      <EDID>CC_PetDogs_Name10</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Chase</Source>
+      <Dest>Chase</Dest>
+    </String>
+    <String List="0" sID="036813" Partial="1">
+      <EDID>CC_PetDogs_Name64</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Zippy</Source>
+      <Dest>Zippy</Dest>
+    </String>
+    <String List="0" sID="036814" Partial="1">
+      <EDID>CC_PetDogs_Name16</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Dusty</Source>
+      <Dest>Dusty</Dest>
+    </String>
+    <String List="0" sID="036815" Partial="1">
+      <EDID>CC_PetDogs_Name41</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Patches</Source>
+      <Dest>Patches</Dest>
+    </String>
+    <String List="0" sID="036816" Partial="1">
+      <EDID>CC_PetDogs_Name56</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Smoky</Source>
+      <Dest>Smoky</Dest>
+    </String>
+    <String List="0" sID="036817" Partial="1">
+      <EDID>CC_PetDogs_Name59</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Thor</Source>
+      <Dest>Thor</Dest>
+    </String>
+    <String List="0" sID="036818" Partial="1">
+      <EDID>CC_PetDogs_Name26</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Joey</Source>
+      <Dest>Joey</Dest>
+    </String>
+    <String List="0" sID="03681A" Partial="1">
+      <EDID>CC_PetDogs_Name68</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Astro</Source>
+      <Dest>Astro</Dest>
+    </String>
+    <String List="0" sID="03681B" Partial="1">
+      <EDID>CC_PetDogs_Name18</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Fuzzball</Source>
+      <Dest>Fuzzball</Dest>
+    </String>
+    <String List="0" sID="03681C" Partial="1">
+      <EDID>CC_PetDogs_Name32</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Lola</Source>
+      <Dest>Lola</Dest>
+    </String>
+    <String List="0" sID="03681D" Partial="1">
+      <EDID>CC_PetDogs_Name62</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Violet</Source>
+      <Dest>Violet</Dest>
+    </String>
+    <String List="0" sID="03681E" Partial="1">
+      <EDID>CC_PetDogs_Name74</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Fluffy</Source>
+      <Dest>Fluffy</Dest>
+    </String>
+    <String List="0" sID="03681F" Partial="1">
+      <EDID>CC_PetDogs_Name60</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Trixie</Source>
+      <Dest>Trixie</Dest>
+    </String>
+    <String List="0" sID="036820" Partial="1">
+      <EDID>CC_PetDogs_Name75</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Copper</Source>
+      <Dest>Copper</Dest>
+    </String>
+    <String List="0" sID="036821" Partial="1">
+      <EDID>CC_PetDogs_Name29</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>King</Source>
+      <Dest>King</Dest>
+    </String>
+    <String List="0" sID="036823" Partial="1">
+      <EDID>CC_PetDogs_Name05</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Bandit</Source>
+      <Dest>Bandit</Dest>
+    </String>
+    <String List="0" sID="036824" Partial="1">
+      <EDID>CC_PetDogs_Name69</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Kimbo</Source>
+      <Dest>Kimbo</Dest>
+    </String>
+    <String List="0" sID="036825" Partial="1">
+      <EDID>CC_PetDogs_Name42</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Prince</Source>
+      <Dest>Prince</Dest>
+    </String>
+    <String List="0" sID="036827" Partial="1">
+      <EDID>CC_PetDogs_Name30</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Lady</Source>
+      <Dest>Lady</Dest>
+    </String>
+    <String List="0" sID="036828" Partial="1">
+      <EDID>CC_PetDogs_Name20</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Hank</Source>
+      <Dest>Hank</Dest>
+    </String>
+    <String List="0" sID="03682A" Partial="1">
+      <EDID>CC_PetDogs_Name76</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Lana</Source>
+      <Dest>Lana</Dest>
+    </String>
+    <String List="0" sID="03682B" Partial="1">
+      <EDID>CC_PetDogs_Name50</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Roxy</Source>
+      <Dest>Roxy</Dest>
+    </String>
+    <String List="0" sID="03682C" Partial="1">
+      <EDID>CC_PetDogs_Name43</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Princess</Source>
+      <Dest>Princess</Dest>
+    </String>
+    <String List="0" sID="03682D" Partial="1">
+      <EDID>CC_PetDogs_Name54</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Scratchy</Source>
+      <Dest>Scratchy</Dest>
+    </String>
+    <String List="0" sID="03682E" Partial="1">
+      <EDID>CC_PetDogs_Name03</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ash</Source>
+      <Dest>Ash</Dest>
+    </String>
+    <String List="0" sID="03682F" Partial="1">
+      <EDID>CC_PetDogs_Name02</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Angel</Source>
+      <Dest>Angel</Dest>
+    </String>
+    <String List="0" sID="036830" Partial="1">
+      <EDID>CC_PetDogs_Name51</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rufus</Source>
+      <Dest>Rufus</Dest>
+    </String>
+    <String List="0" sID="036831" Partial="1">
+      <EDID>CC_PetDogs_Name25</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Jaws</Source>
+      <Dest>Jaws</Dest>
+    </String>
+    <String List="0" sID="036832" Partial="1">
+      <EDID>CC_PetDogs_Name06</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Bear</Source>
+      <Dest>Bear</Dest>
+    </String>
+    <String List="0" sID="036833" Partial="1">
+      <EDID>CC_PetDogs_Name07</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Buster</Source>
+      <Dest>Buster</Dest>
+    </String>
+    <String List="0" sID="036834" Partial="1">
+      <EDID>CC_PetDogs_Name34</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Maggy</Source>
+      <Dest>Maggy</Dest>
+    </String>
+    <String List="0" sID="036835" Partial="1">
+      <EDID>CC_PetDogs_Name38</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Milo</Source>
+      <Dest>Milo</Dest>
+    </String>
+    <String List="0" sID="036836" Partial="1">
+      <EDID>CC_PetDogs_Name08</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Buttercup</Source>
+      <Dest>Buttercup</Dest>
+    </String>
+    <String List="0" sID="036837" Partial="1">
+      <EDID>CC_PetDogs_Name13</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Cupcake</Source>
+      <Dest>Cupcake</Dest>
+    </String>
+    <String List="0" sID="036838" Partial="1">
+      <EDID>CC_PetDogs_Name14</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Daisy</Source>
+      <Dest>Daisy</Dest>
+    </String>
+    <String List="0" sID="036839" Partial="1">
+      <EDID>CC_PetDogs_Name15</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Duke</Source>
+      <Dest>Duke</Dest>
+    </String>
+    <String List="0" sID="03683A">
+      <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Cancel</Source>
+      <Dest>Zrušit</Dest>
+    </String>
+    <String List="0" sID="03683B" Partial="1">
+      <EDID>CC_PetDogs_Name40</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Munchkin</Source>
+      <Dest>Munchkin</Dest>
+    </String>
+    <String List="0" sID="03683C" Partial="1">
+      <EDID>CC_PetDogs_Name33</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Lucky</Source>
+      <Dest>Lucky</Dest>
+    </String>
+    <String List="0" sID="03683D" Partial="1">
+      <EDID>CC_PetDogs_Name35</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Maverick</Source>
+      <Dest>Maverick</Dest>
+    </String>
+    <String List="0" sID="03683F" Partial="1">
+      <EDID>CC_PetDogs_Name37</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Meeko</Source>
+      <Dest>Meeko</Dest>
+    </String>
+    <String List="0" sID="036840" Partial="1">
+      <EDID>CC_PetDogs_Name21</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Honey</Source>
+      <Dest>Honey</Dest>
+    </String>
+    <String List="0" sID="036841" Partial="1">
+      <EDID>CC_PetDogs_Name57</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>T-Bone</Source>
+      <Dest>T-Bone</Dest>
+    </String>
+    <String List="0" sID="036842" Partial="1">
+      <EDID>CC_PetDogs_Name23</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Itchy</Source>
+      <Dest>Itchy</Dest>
+    </String>
+    <String List="0" sID="036843" Partial="1">
+      <EDID>CC_PetDogs_Name24</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Jack</Source>
+      <Dest>Jack</Dest>
+    </String>
+    <String List="0" sID="036844" Partial="1">
+      <EDID>CC_PetDogs_Name73</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Ginger</Source>
+      <Dest>Ginger</Dest>
+    </String>
+    <String List="0" sID="036845" Partial="1">
+      <EDID>CC_PetDogs_Name04</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Bailey</Source>
+      <Dest>Bailey</Dest>
+    </String>
+    <String List="0" sID="036846" Partial="1">
+      <EDID>CC_PetDogs_Name27</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Jumbo</Source>
+      <Dest>Jumbo</Dest>
+    </String>
+    <String List="0" sID="036847" Partial="1">
+      <EDID>CC_PetDogs_Name28</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Killer</Source>
+      <Dest>Killer</Dest>
+    </String>
+    <String List="0" sID="036848" Partial="1">
+      <EDID>CC_PetDogs_Name63</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Zeus</Source>
+      <Dest>Zeus</Dest>
+    </String>
+    <String List="0" sID="03684A" Partial="1">
+      <EDID>CC_PetDogs_Name65</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Blondie</Source>
+      <Dest>Blondie</Dest>
+    </String>
+    <String List="0" sID="03684B" Partial="1">
+      <EDID>CC_PetDogs_Name22</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Hunter</Source>
+      <Dest>Hunter</Dest>
+    </String>
+    <String List="0" sID="03684C" Partial="1">
+      <EDID>CC_PetDogs_Name44</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Queen</Source>
+      <Dest>Queen</Dest>
+    </String>
+    <String List="0" sID="03684D">
+      <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Rename</Source>
+      <Dest>Přejmenovat</Dest>
+    </String>
+    <String List="0" sID="03684E" Partial="1">
+      <EDID>CC_PetDogs_Name72</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mocha</Source>
+      <Dest>Mocha</Dest>
+    </String>
+    <String List="0" sID="03684F" Partial="1">
+      <EDID>CC_PetDogs_Name52</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Sally</Source>
+      <Dest>Sally</Dest>
+    </String>
+    <String List="0" sID="036850" Partial="1">
+      <EDID>CC_PetDogs_Name46</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Rex</Source>
+      <Dest>Rex</Dest>
+    </String>
+    <String List="0" sID="036851">
+      <EDID>CC_PetDogs_Name36</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Max</Source>
+      <Dest>Max</Dest>
+    </String>
+    <String List="0" sID="036854" Partial="1">
+      <EDID>CC_PetDogs_Name39</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Mojo</Source>
+      <Dest>Mojo</Dest>
+    </String>
+    <String List="0" sID="036855" Partial="1">
+      <EDID>CC_PetDogs_Name45</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Raven</Source>
+      <Dest>Raven</Dest>
+    </String>
+    <String List="0" sID="036856" Partial="1">
+      <EDID>CC_PetDogs_Name81</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Benny</Source>
+      <Dest>Benny</Dest>
+    </String>
+    <String List="0" sID="036857" Partial="1">
+      <EDID>CC_PetDogs_Name83</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Sofia</Source>
+      <Dest>Sofia</Dest>
+    </String>
+    <String List="0" sID="036858" Partial="1">
+      <EDID>CC_PetDogs_Name90</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Vagabond</Source>
+      <Dest>Vagabond</Dest>
+    </String>
+    <String List="0" sID="036859" Partial="1">
+      <EDID>CC_PetDogs_Name84</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Pippin</Source>
+      <Dest>Pippin</Dest>
+    </String>
+    <String List="0" sID="03685A" Partial="1">
+      <EDID>CC_PetDogs_Name79</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Pericles</Source>
+      <Dest>Pericles</Dest>
+    </String>
+    <String List="0" sID="03685B" Partial="1">
+      <EDID>CC_PetDogs_Name94</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Kelsey</Source>
+      <Dest>Kelsey</Dest>
+    </String>
+    <String List="0" sID="03685C" Partial="1">
+      <EDID>CC_PetDogs_Name89</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Theodore E. Bear</Source>
+      <Dest>Theodore E. Bear</Dest>
+    </String>
+    <String List="0" sID="03685D" Partial="1">
+      <EDID>CC_PetDogs_Name92</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Scotty</Source>
+      <Dest>Scotty</Dest>
+    </String>
+    <String List="0" sID="03685E" Partial="1">
+      <EDID>CC_PetDogs_Name85</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Kiki</Source>
+      <Dest>Kiki</Dest>
+    </String>
+    <String List="0" sID="03685F" Partial="1">
+      <EDID>CC_PetDogs_Name93</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Kallie</Source>
+      <Dest>Kallie</Dest>
+    </String>
+    <String List="0" sID="036860" Partial="1">
+      <EDID>CC_PetDogs_Name80</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Gus</Source>
+      <Dest>Gus</Dest>
+    </String>
+    <String List="0" sID="036861" Partial="1">
+      <EDID>CC_PetDogs_Name95</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Allegra</Source>
+      <Dest>Allegra</Dest>
+    </String>
+    <String List="0" sID="036862" Partial="1">
+      <EDID>CC_PetDogs_Name86</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Odysseus</Source>
+      <Dest>Odysseus</Dest>
+    </String>
+    <String List="0" sID="036863" Partial="1">
+      <EDID>CC_PetDogs_Name88</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Peabody</Source>
+      <Dest>Peabody</Dest>
+    </String>
+    <String List="0" sID="036864" Partial="1">
+      <EDID>CC_PetDogs_Name82</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Warrior</Source>
+      <Dest>Warrior</Dest>
+    </String>
+    <String List="0" sID="036865" Partial="1">
+      <EDID>CC_PetDogs_Name78</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Buddy</Source>
+      <Dest>Buddy</Dest>
+    </String>
+    <String List="0" sID="036866" Partial="1">
+      <EDID>CC_PetDogs_Name91</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Charlie</Source>
+      <Dest>Charlie</Dest>
+    </String>
+    <String List="0" sID="036867" Partial="1">
+      <EDID>CC_PetDogs_Name96</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Nikita</Source>
+      <Dest>Nikita</Dest>
+    </String>
+    <String List="0" sID="036868" Partial="1">
+      <EDID>CC_PetDogs_Name87</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Quill</Source>
+      <Dest>Quill</Dest>
+    </String>
+    <String List="0" sID="036869" Partial="1">
+      <EDID>CC_PetDogs_Name77</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Merlin</Source>
+      <Dest>Merlin</Dest>
+    </String>
+    <String List="0" sID="03686A">
+      <EDID>WorkshopRecipeFilterCreationClub02ccEEJFO4002</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Nuka-Cola Collector</Source>
+      <Dest>Nuka-Cola sběratel</Dest>
+    </String>
+    <String List="0" sID="03686C">
+      <EDID>Vaultsuit_Color_4_Default</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>No Color</Source>
+      <Dest>Bez barvy</Dest>
+    </String>
+    <String List="0" sID="03686D">
+      <EDID>cc_ap_vaultsuits4_color</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault Jumpsuit Color</Source>
+      <Dest>Barva kombinézy vaultu</Dest>
+    </String>
+    <String List="0" sID="03686E">
+      <EDID>cc_ap_vaultsuits4_number</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault Jumpsuit Number</Source>
+      <Dest>Číslo kombinézy vaultu</Dest>
+    </String>
+    <String List="0" sID="03686F">
+      <EDID>WorkshopRecipeFilterCreationClub02ccTOSFO4001</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Art Deco</Source>
+      <Dest>Art deco</Dest>
+    </String>
+    <String List="0" sID="036870">
+      <EDID>cc_ap_vaultsuits3_color</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault Jumpsuit Color</Source>
+      <Dest>Barva kombinézy vaultu</Dest>
+    </String>
+    <String List="0" sID="036871" Partial="1">
+      <EDID>WorkshopRecipeFilterCreationClub02ccKGJFO4001</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Settlement Ambush Kit</Source>
+      <Dest>Settlement Ambush Kit</Dest>
+    </String>
+    <String List="0" sID="036872">
+      <EDID>cc_ap_vaultsuits3_number</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Vault Jumpsuit Number</Source>
+      <Dest>Číslo kombinézy vaultu</Dest>
+    </String>
+    <String List="0" sID="036873" Partial="1">
+      <EDID>ccTOSFO4001</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Noir Penthouse</Source>
+      <Dest>Noir Penthouse</Dest>
+    </String>
+    <String List="0" sID="036874">
+      <EDID>ccTOSFO4001_LoadElevatorDoorOutHiTech</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Elevator</Source>
+      <Dest>Výtah</Dest>
+    </String>
+    <String List="0" sID="036877" Partial="1">
+      <EDID>WorkshopMenu01CreationClub02ccKGJFO4001</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Bastion</Source>
+      <Dest>Bastion</Dest>
+    </String>
+    <String List="0" sID="036878">
+      <EDID>ccZSEFO4002Interior01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="03687A">
+      <EDID>ccTOSFO4002Interior01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Quick Test Cell</Source>
+      <Dest>Quick Test Cell</Dest>
+    </String>
+    <String List="0" sID="03687B">
+      <EDID>WorkshopMenu01CreationClub02Holiday</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Holiday</Source>
+      <Dest>Svátky</Dest>
+    </String>
+    <String List="0" sID="03687C">
+      <EDID>WorkshopRecipeFilterCreationClub02Holiday03ccJVDFO4001</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Christmas</Source>
+      <Dest>Vánoce</Dest>
+    </String>
+    <String List="0" sID="03687D">
+      <EDID>WorkshopRecipeFilterCreationClub02Holiday</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Holiday</Source>
+      <Dest>Svátky</Dest>
+    </String>
+    <String List="0" sID="03687E">
+      <EDID>WorkshopRecipeFilterCreationClub02HolidayChristmas</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Christmas</Source>
+      <Dest>Vánoce</Dest>
+    </String>
+    <String List="0" sID="03687F">
+      <EDID>WorkshopMenu01CreationClub02Holiday03ccJVDFO4001</EDID>
+      <REC>FLST:FULL</REC>
+      <Source>Christmas</Source>
+      <Dest>Vánoce</Dest>
+    </String>
+    <String List="0" sID="03690C">
+      <EDID>WorkshopRecipeFilterCreationClub02ccTOSFO4002</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Neon Flats</Source>
+      <Dest>Neonové interiéry</Dest>
+    </String>
+    <String List="1" sID="01D77D">
+      <EDID>SpeedMult</EDID>
+      <REC>AVIF:DESC</REC>
+      <Source> </Source>
+      <Dest> </Dest>
+    </String>
+    <String List="1" sID="0367D7">
+      <EDID>Weapon_Material_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+    <String List="1" sID="0367F1">
+      <EDID>Armor_Material_Synth_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+    <String List="1" sID="0367F4">
+      <EDID>Armor_Material_Leather_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+    <String List="1" sID="0367F5">
+      <EDID>Armor_Material_Combat_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+    <String List="1" sID="0367F7">
+      <EDID>Armor_Material_Metal_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+    <String List="1" sID="036829">
+      <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Rename Dog?</Source>
+      <Dest>Přejmenovat psa?</Dest>
+    </String>
+    <String List="1" sID="03686B">
+      <EDID>Vaultsuit_Color_4_Default</EDID>
+      <REC>OMOD:DESC</REC>
+      <Source>Standard.</Source>
+      <Dest>Standardní.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
