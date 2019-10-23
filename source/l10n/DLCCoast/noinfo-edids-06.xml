@@ -59,7 +59,7 @@
       <EDID>DLC03MQ06</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Locate the Nuclear Launch Key</Source>
-      <Dest>Zjisti kde se nachází klíč k odpálení jaderné hlavice</Dest>
+      <Dest>Zjisti, kde se nachází klíč k odpálení jaderné hlavice</Dest>
     </String>
     <String List="0" sID="00018F">
       <EDID>DLC03MQ05DiggingTrigger</EDID>
@@ -107,7 +107,7 @@
       <EDID>DLC03MQ06_WindFarmTerminalConsoleTallOn</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Run:// ") % T 3 M p e $ t {"</Source>
-      <Dest>Spustit:// „)% T 3 M p e t $ {“</Dest>
+      <Dest>Spustit:// „) % T 3 M p e $ t {“</Dest>
     </String>
     <String List="0" sID="000318">
       <EDID>DLC03MQ04VREnterTerminal</EDID>
@@ -294,7 +294,7 @@ SYSTEM_DATA_____________________________________&#xD;
 &#xD;
 - Most Recent User Log-In: &lt;DELETED&gt;&#xD;
 ________________________________________________</Source>
-      <Dest>DATA_TURBINY____________________________________&#xD;
+      <Dest>DATA_TURBÍNY____________________________________&#xD;
 &#xD;
 - Úroveň nabití: 88 %&#xD;
 &#xD;
@@ -302,7 +302,7 @@ ________________________________________________</Source>
 &#xD;
 - Aktuální práh otáčení : 18 ot./min&#xD;
 &#xD;
-DATA_SYSTEMU____________________________________&#xD;
+DATA_SYSTÉMU____________________________________&#xD;
 &#xD;
 - Poslední přihlášený uživatel:&lt;VYMAZÁNO&gt;&#xD;
 ________________________________________________</Dest>
@@ -347,7 +347,7 @@ K97 - 03: RAKETY AKTIVNÍ. VYŽADOVÁN ODPALOVACÍ KLÍČ.&#xD;
 K97 - 04: &lt;CHYBA!&gt; ZJIŠTĚNO PORUŠENÍ OCHRANNÉHO PLÁŠTĚ! UDRŽUJTE BEZPEČNÝ ODSTUP!&#xD;
 __________________________________________________</Dest>
     </String>
-    <String List="0" sID="000A15" Partial="1">
+    <String List="0" sID="000A15">
       <EDID>DLC03MQ06_WindFarmHandling</EDID>
       <REC>QUST:FULL</REC>
       <Source>Handler Quest for Far Harbor Wind Farm</Source>
@@ -365,7 +365,7 @@ __________________________________________________</Dest>
       <Source>Close to Home</Source>
       <Dest>Blízko domova</Dest>
     </String>
-    <String List="0" sID="000B2D" Partial="1">
+    <String List="0" sID="000B2D">
       <EDID>DLC03MQ06_NukeHandling</EDID>
       <REC>QUST:FULL</REC>
       <Source>Handler Quest for Nucleus Nuke</Source>
@@ -545,7 +545,7 @@ __________________________________________________</Source>
       <Dest>__________________________________________________&#xD;
          [TURBINA_003 STATUS] - AKTIVNÍ&#xD;
 &#xD;
-    [Připojení k síti] - &lt;MDI_0161_DÁLNÝ_PŘÍSTAV&gt;&#xD;
+    [Připojení k síti] - &lt;MDI_0161_DÁLEKÝ_PŘÍSTAV&gt;&#xD;
               Prosím, vyberte příkaz:&#xD;
 __________________________________________________</Dest>
     </String>
@@ -613,7 +613,7 @@ __________________________________________________</Dest>
       <EDID>DLC03MQ06_WindFarmTerminalConsoleTallOn</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>View Windmill Status</Source>
-      <Dest>Zobrazit stav větrného mlýnu</Dest>
+      <Dest>Zobrazit stav větrného mlýna</Dest>
     </String>
     <String List="0" sID="0018D2">
       <EDID>DLC03MQ04VREnterTerminal</EDID>
@@ -729,25 +729,25 @@ __________________________________________________</Dest>
       <EDID>DLC03PineCrestCavern01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Pine Crest Cavern</Source>
-      <Dest>Jeskyně borovicový vrch</Dest>
+      <Dest>Jeskyně Borovicový vrch</Dest>
     </String>
     <String List="0" sID="001E9A">
       <EDID>DLC03PineCrestCavernLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Pine Crest Cavern</Source>
-      <Dest>Jeskyně borovicový vrch</Dest>
+      <Dest>Jeskyně Borovicový vrch</Dest>
     </String>
     <String List="0" sID="001EC4">
       <EDID>DLC03NationalParkCampgroundMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>National Park Campground</Source>
-      <Dest>Tábořiště Národního parku</Dest>
+      <Dest>Tábořiště národního parku</Dest>
     </String>
     <String List="0" sID="001F1D">
       <EDID>DLC03NationalParkCampgroundLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>National Park Campground</Source>
-      <Dest>Tábořiště Národního parku</Dest>
+      <Dest>Tábořiště národního parku</Dest>
     </String>
     <String List="0" sID="0020BC">
       <EDID>DLC03POI10_MotherNote03</EDID>
@@ -779,391 +779,391 @@ __________________________________________________</Dest>
       <Source>ICE-Breaker Program Loaded...</Source>
       <Dest>Program Ledoborec načten...</Dest>
     </String>
-    <String List="0" sID="002167" Partial="1">
+    <String List="0" sID="002167">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="50">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
       <Dest>Nos - Kořen</Dest>
     </String>
-    <String List="0" sID="00216A" Partial="1">
+    <String List="0" sID="00216A">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="32">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
       <Dest>Obočí</Dest>
     </String>
-    <String List="0" sID="002175" Partial="1">
+    <String List="0" sID="002175">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="2">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
       <Dest>Obočí - Vnější</Dest>
     </String>
-    <String List="0" sID="002179" Partial="1">
+    <String List="0" sID="002179">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="47">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
       <Dest>Tloušťka krku</Dest>
     </String>
-    <String List="0" sID="002189" Partial="1">
+    <String List="0" sID="002189">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="62">RACE:FMRN</REC>
       <Source>Jowls - Lower</Source>
       <Dest>Čelisti - Spodní</Dest>
     </String>
-    <String List="0" sID="00218A" Partial="1">
+    <String List="0" sID="00218A">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="13">RACE:FMRN</REC>
       <Source>Temple</Source>
       <Dest>Spánky</Dest>
     </String>
-    <String List="0" sID="00218F" Partial="1">
+    <String List="0" sID="00218F">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="46">RACE:FMRN</REC>
       <Source>Chin</Source>
       <Dest>Brada</Dest>
     </String>
-    <String List="0" sID="002194" Partial="1">
+    <String List="0" sID="002194">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="33">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
       <Dest>Obočí - Vnitřní</Dest>
     </String>
-    <String List="0" sID="002196" Partial="1">
+    <String List="0" sID="002196">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="37">RACE:FMRN</REC>
       <Source>Ears Main</Source>
       <Dest>Uši - Celé</Dest>
     </String>
-    <String List="0" sID="0021A1" Partial="1">
+    <String List="0" sID="0021A1">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="55">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
       <Dest>Ústa - Vrchní</Dest>
     </String>
-    <String List="0" sID="0021A7" Partial="1">
+    <String List="0" sID="0021A7">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="40">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
       <Dest>Uši - Spodek</Dest>
     </String>
-    <String List="0" sID="0021BC" Partial="1">
+    <String List="0" sID="0021BC">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="36">RACE:FMRN</REC>
       <Source>Cheeks</Source>
       <Dest>Líce</Dest>
     </String>
-    <String List="0" sID="0021C9" Partial="1">
+    <String List="0" sID="0021C9">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="28">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
       <Dest>Oční víčka - Vrchní</Dest>
     </String>
-    <String List="0" sID="0021CB" Partial="1">
+    <String List="0" sID="0021CB">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="49">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
       <Dest>Lícní kosti - Zadní</Dest>
     </String>
-    <String List="0" sID="0021CF" Partial="1">
+    <String List="0" sID="0021CF">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="34">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
       <Dest>Obočí - Vnější</Dest>
     </String>
-    <String List="0" sID="0021E9" Partial="1">
+    <String List="0" sID="0021E9">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="53">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
       <Dest>Ústa - Celá</Dest>
     </String>
-    <String List="0" sID="0021EF" Partial="1">
+    <String List="0" sID="0021EF">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="26">RACE:FMRN</REC>
       <Source>Lower Face</Source>
       <Dest>Tvář - Spodní</Dest>
     </String>
-    <String List="0" sID="0021F7" Partial="1">
+    <String List="0" sID="0021F7">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC>RACE:FULL</REC>
       <Source>PowerArmor</Source>
       <Dest>PowerArmor</Dest>
     </String>
-    <String List="0" sID="0021FB" Partial="1">
+    <String List="0" sID="0021FB">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="44">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
       <Dest>Čelist - Střed</Dest>
     </String>
-    <String List="0" sID="00220B" Partial="1">
+    <String List="0" sID="00220B">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="45">RACE:FMRN</REC>
       <Source>Temple</Source>
       <Dest>Spánky</Dest>
     </String>
-    <String List="0" sID="00220C" Partial="1">
+    <String List="0" sID="00220C">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="60">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
       <Dest>Oční víčka - Vrchní</Dest>
     </String>
-    <String List="0" sID="002210" Partial="1">
+    <String List="0" sID="002210">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="7">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
       <Dest>Uši - Střed</Dest>
     </String>
-    <String List="0" sID="00221D" Partial="1">
+    <String List="0" sID="00221D">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="42">RACE:FMRN</REC>
       <Source>Nostrils</Source>
       <Dest>Nosní dírky</Dest>
     </String>
-    <String List="0" sID="00221E" Partial="1">
+    <String List="0" sID="00221E">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="22">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
       <Dest>Ústa - Koutky</Dest>
     </String>
-    <String List="0" sID="002221" Partial="1">
+    <String List="0" sID="002221">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="0">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
       <Dest>Obočí</Dest>
     </String>
-    <String List="0" sID="002232" Partial="1">
+    <String List="0" sID="002232">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="16">RACE:FMRN</REC>
       <Source>Eyes</Source>
       <Dest>Oči</Dest>
     </String>
-    <String List="0" sID="00223C" Partial="1">
+    <String List="0" sID="00223C">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="35">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
       <Dest>Lícní kosti</Dest>
     </String>
-    <String List="0" sID="002248" Partial="1">
+    <String List="0" sID="002248">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="57">RACE:FMRN</REC>
       <Source>Forehead</Source>
       <Dest>Čelo</Dest>
     </String>
-    <String List="0" sID="00224B" Partial="1">
+    <String List="0" sID="00224B">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="41">RACE:FMRN</REC>
       <Source>Nose Main</Source>
       <Dest>Nos - Celý</Dest>
     </String>
-    <String List="0" sID="00224E" Partial="1">
+    <String List="0" sID="00224E">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="3">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
       <Dest>Lícní kosti</Dest>
     </String>
-    <String List="0" sID="002253" Partial="1">
+    <String List="0" sID="002253">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="54">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
       <Dest>Ústa - Koutky</Dest>
     </String>
-    <String List="0" sID="002256" Partial="1">
+    <String List="0" sID="002256">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="48">RACE:FMRN</REC>
       <Source>Eyes</Source>
       <Dest>Oči</Dest>
     </String>
-    <String List="0" sID="00225D" Partial="1">
+    <String List="0" sID="00225D">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="38">RACE:FMRN</REC>
       <Source>Ears Top</Source>
       <Dest>Uši - Vrchol</Dest>
     </String>
-    <String List="0" sID="00227C" Partial="1">
+    <String List="0" sID="00227C">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="17">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
       <Dest>Lícní kosti - Zadní</Dest>
     </String>
-    <String List="0" sID="002296" Partial="1">
+    <String List="0" sID="002296">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="1">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
       <Dest>Obočí - Vnitřní</Dest>
     </String>
-    <String List="0" sID="00229A" Partial="1">
+    <String List="0" sID="00229A">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="23">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
       <Dest>Ústa - Vrchní</Dest>
     </String>
-    <String List="0" sID="0022A4" Partial="1">
+    <String List="0" sID="0022A4">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="56">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
       <Dest>Ústa - Spodní</Dest>
     </String>
-    <String List="0" sID="0022AC" Partial="1">
+    <String List="0" sID="0022AC">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="39">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
       <Dest>Uši - Střed</Dest>
     </String>
-    <String List="0" sID="0022C4" Partial="1">
+    <String List="0" sID="0022C4">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="58">RACE:FMRN</REC>
       <Source>Lower Face</Source>
       <Dest>Tvář - Spodní</Dest>
     </String>
-    <String List="0" sID="0022D3" Partial="1">
+    <String List="0" sID="0022D3">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="6">RACE:FMRN</REC>
       <Source>Ears Top</Source>
       <Dest>Uši - Vrchol</Dest>
     </String>
-    <String List="0" sID="0022D5" Partial="1">
+    <String List="0" sID="0022D5">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="29">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
       <Dest>Oční víčka - Spodní</Dest>
     </String>
-    <String List="0" sID="0022DA" Partial="1">
+    <String List="0" sID="0022DA">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="15">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
       <Dest>Tloušťka krku</Dest>
     </String>
-    <String List="0" sID="0022E1" Partial="1">
+    <String List="0" sID="0022E1">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="61">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
       <Dest>Oční víčka - Spodní</Dest>
     </String>
-    <String List="0" sID="0022E2" Partial="1">
+    <String List="0" sID="0022E2">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="4">RACE:FMRN</REC>
       <Source>Cheeks</Source>
       <Dest>Líce</Dest>
     </String>
-    <String List="0" sID="0022E5" Partial="1">
+    <String List="0" sID="0022E5">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="63">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
       <Dest>Nos - Hřbet</Dest>
     </String>
-    <String List="0" sID="0022FC" Partial="1">
+    <String List="0" sID="0022FC">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="20">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
       <Dest>Nos - Špička</Dest>
     </String>
-    <String List="0" sID="0022FD" Partial="1">
+    <String List="0" sID="0022FD">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="24">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
       <Dest>Ústa - Spodní</Dest>
     </String>
-    <String List="0" sID="0022FE" Partial="1">
+    <String List="0" sID="0022FE">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="8">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
       <Dest>Uši - Spodek</Dest>
     </String>
-    <String List="0" sID="0022FF" Partial="1">
+    <String List="0" sID="0022FF">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="51">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
       <Dest>Obočí - Střed</Dest>
     </String>
-    <String List="0" sID="002303" Partial="1">
+    <String List="0" sID="002303">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="25">RACE:FMRN</REC>
       <Source>Forehead</Source>
       <Dest>Čelo</Dest>
     </String>
-    <String List="0" sID="002305" Partial="1">
+    <String List="0" sID="002305">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="19">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
       <Dest>Obočí - Střed</Dest>
     </String>
-    <String List="0" sID="002308" Partial="1">
+    <String List="0" sID="002308">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="43">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
       <Dest>Čelist - Vnější</Dest>
     </String>
-    <String List="0" sID="00230F" Partial="1">
+    <String List="0" sID="00230F">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="18">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
       <Dest>Nos - Kořen</Dest>
     </String>
-    <String List="0" sID="002311" Partial="1">
+    <String List="0" sID="002311">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="11">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
       <Dest>Čelist - Vnější</Dest>
     </String>
-    <String List="0" sID="002315" Partial="1">
+    <String List="0" sID="002315">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="30">RACE:FMRN</REC>
       <Source>Jowls -  Lower</Source>
       <Dest>Čelisti - Spodní</Dest>
     </String>
-    <String List="0" sID="002317" Partial="1">
+    <String List="0" sID="002317">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="21">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
       <Dest>Ústa - Celá</Dest>
     </String>
-    <String List="0" sID="002319" Partial="1">
+    <String List="0" sID="002319">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="9">RACE:FMRN</REC>
       <Source>Nose Main</Source>
       <Dest>Nos - Celý</Dest>
     </String>
-    <String List="0" sID="00231D" Partial="1">
+    <String List="0" sID="00231D">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="27">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
       <Dest>Boční tloušťka nosu</Dest>
     </String>
-    <String List="0" sID="002321" Partial="1">
+    <String List="0" sID="002321">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="31">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
       <Dest>Nos - Hřbet</Dest>
     </String>
-    <String List="0" sID="00232D" Partial="1">
+    <String List="0" sID="00232D">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="12">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
       <Dest>Čelist - Střed</Dest>
     </String>
-    <String List="0" sID="002330" Partial="1">
+    <String List="0" sID="002330">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="5">RACE:FMRN</REC>
       <Source>Ears Main</Source>
       <Dest>Uši - Celé</Dest>
     </String>
-    <String List="0" sID="002333" Partial="1">
+    <String List="0" sID="002333">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="59">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
       <Dest>Boční tloušťka nosu</Dest>
     </String>
-    <String List="0" sID="002336" Partial="1">
+    <String List="0" sID="002336">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="10">RACE:FMRN</REC>
       <Source>Nostrils</Source>
       <Dest>Nosní dírky</Dest>
     </String>
-    <String List="0" sID="002340" Partial="1">
+    <String List="0" sID="002340">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="52">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
       <Dest>Nos - Špička</Dest>
     </String>
-    <String List="0" sID="002341" Partial="1">
+    <String List="0" sID="002341">
       <EDID>DLC03PowerArmorRaceAdditiveSubgraphData</EDID>
       <REC id="14">RACE:FMRN</REC>
       <Source>Chin</Source>
@@ -1305,7 +1305,7 @@ __________________________________________________</Dest>
       <EDID>DLC03SettlementFarHarbor03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Once home to a popular national park, the island surrounding Far Harbor is covered with the now dead woods and irradiated creeks that the prewar government originally sought to preserve.</Source>
-      <Dest>Dříve chráněn populárním národním parkem, dnes je ostrov obklopující Daleký Přístav pokryt už jen mrtvými lesy a ozářenými potoky, které se předválečná vláda snažila původně zachovat nedotčené.</Dest>
+      <Dest>Dříve chráněn populárním národním parkem, dnes je ostrov obklopující Daleký Přístav pokryt už jen mrtvými lesy a ozářenými potoky, které se předválečná vláda původně snažila zachovat nedotčené.</Dest>
     </String>
     <String List="0" sID="0025BF">
       <EDID>DLC03SettlementFarHarbor04</EDID>
@@ -1323,7 +1323,7 @@ __________________________________________________</Dest>
       <EDID>DLC03SettlementAcadia03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Although it is primarily a refuge for synths, Acadia outwardly expresses a desire for peace with all the other residents of the island.</Source>
-      <Dest>Přestože se jedná především o útočiště pro syntetiky, Acadie navenek vyjadřuje touhu po míru se všemi ostatními obyvateli ostrova.</Dest>
+      <Dest>Přestože se jedná především o útočiště pro syntetiky, Acadia navenek vyjadřuje touhu po míru se všemi ostatními obyvateli ostrova.</Dest>
     </String>
     <String List="0" sID="0025CA">
       <EDID>DLC03SettlementNucleus01</EDID>
@@ -1341,7 +1341,7 @@ __________________________________________________</Dest>
       <EDID>DLC03SettlementFarHarbor06</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Descended from sailors and fishermen, the leader of Far Harbor has always held the title of "Captain."</Source>
-      <Dest>Jako potomek námořníků a rybářů, nesl vůdce Dálného Přístavu vždy titul „kapitán“.</Dest>
+      <Dest>Jako potomek námořníků a rybářů nesl vůdce Dalekého Přístavu vždy titul „kapitán“.</Dest>
     </String>
     <String List="0" sID="0025D1">
       <EDID>DLC03SettlementNucleus03</EDID>
@@ -1379,7 +1379,7 @@ __________________________________________________</Dest>
       <Source>Franny</Source>
       <Dest>Franny</Dest>
     </String>
-    <String List="0" sID="0027AD" Partial="1">
+    <String List="0" sID="0027AD">
       <EDID>DLC03MQ06_NukeKeyHandler</EDID>
       <REC>QUST:FULL</REC>
       <Source>Handler quest for Nuke Key Alias</Source>
@@ -1420,7 +1420,7 @@ _________________________________________________</Source>
 &lt;SPOJENÍ ZTRACENO&gt;&#xD;
 &#xD;
 {DÉLKA POBYTU}&#xD;
-&lt;CHYBA:! INT_POBYT_MAX PŘEKROČEN&gt;&#xD;
+&lt;CHYBA: INT_POBYT_MAX PŘEKROČEN&gt;&#xD;
 &#xD;
 {DENNÍ SAZBA}&#xD;
 118,764.32 $ / den (včetně daní a poplatků)&#xD;
@@ -1443,7 +1443,7 @@ Thank you for your visit, &lt;CONNECTION LOST&gt;.&#xD;
 _______________________________________________</Source>
       <Dest>_______ {BEZPEČNOSTNÍ TERMINÁL HOTELU} ________&#xD;
 &#xD;
-Děkujeme za Vaši návštěvu, &lt;SPOJENÍ ZTRACENO&gt;.&#xD;
+Děkujeme za vaši návštěvu, &lt;SPOJENÍ ZTRACENO&gt;.&#xD;
 &#xD;
 {ZPRÁVY}&#xD;
 - Používáte pomocné napájení! Pro váš pokoj bude účtován dodatečný poplatek.&#xD;
@@ -1461,7 +1461,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ06_NukeKeyTerminal</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>... wait time for next associate: &lt;ERROR&gt;...</Source>
-      <Dest>... Doba čekání na dalšího kolegu:&lt;CHYBA&gt;...</Dest>
+      <Dest>... Doba čekání na dalšího kolegu: &lt;CHYBA&gt;...</Dest>
     </String>
     <String List="0" sID="00283F">
       <EDID>DLC03MQ06_SafeRoomSecurityTape</EDID>
@@ -1499,13 +1499,13 @@ _______________________________________________</Dest>
       <Source>       {-{-{-{-{HARBOR GRAND HOTEL}-}-}-}-}</Source>
       <Dest>     {-{-{-{-{GRANDHOTEL PŘÍSTAV}-}-}-}-}</Dest>
     </String>
-    <String List="0" sID="00288E" Partial="1">
+    <String List="0" sID="00288E">
       <EDID>DLC03MQ06_WindFarmCodeHandler</EDID>
       <REC>QUST:FULL</REC>
       <Source>Wind Farm Code Handler Quest</Source>
       <Dest>Wind Farm Code Handler Quest</Dest>
     </String>
-    <String List="0" sID="002893" Partial="1">
+    <String List="0" sID="002893">
       <EDID>DLC03MQ06_WindFarmBuildingQuest</EDID>
       <REC>QUST:FULL</REC>
       <Source>Quest for Wind Farm Maintenance Building</Source>
@@ -1533,7 +1533,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ06</EDID>
       <REC id="9">QUST:NNAM</REC>
       <Source>Bring Down Far Harbor's Defenses</Source>
-      <Dest>Znič obranu Dálného Přístavu</Dest>
+      <Dest>Znič obranu Dalekého Přístavu</Dest>
     </String>
     <String List="0" sID="0028C1">
       <EDID>DLC03MQ06_CaseDigTrigger</EDID>
@@ -1569,7 +1569,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ06</EDID>
       <REC id="11">QUST:NNAM</REC>
       <Source>Restore Power to the Wind Farm Security Door</Source>
-      <Dest>Obnov napájení bezpečnostních dveří Větrné farmy</Dest>
+      <Dest>Obnov napájení bezpečnostních dveří Větrné elektrárny</Dest>
     </String>
     <String List="0" sID="002906">
       <EDID>DLC03MQ06_PowerRelayCoil</EDID>
@@ -1587,7 +1587,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ06a</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Play "Martin's New Age" for the High Confessor</Source>
-      <Dest>Přehraj „Martinův Nový věk“ Velezpovědníkovi</Dest>
+      <Dest>Přehraj „Martinův nový věk“ Velezpovědníkovi</Dest>
     </String>
     <String List="0" sID="002911">
       <EDID>DLC03RoboBrainBodyPartData</EDID>
@@ -1701,7 +1701,7 @@ _______________________________________________</Dest>
       <EDID>DLC03MQ04VRLoadScreen</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Because DiMA is a prototype synth, his memories have more in common with advanced computer data than organic-based thoughts.</Source>
-      <Dest>Vzhledem k tomu, že je DiMA prototyp syntetika, jeho vzpomínky mají více společného s pokročilými počítačovými daty než s myšlenkami na organické bázi.</Dest>
+      <Dest>Vzhledem k tomu, že je DiMA prototyp syntetika, mají jeho vzpomínky více společného s pokročilými počítačovými daty než s myšlenkami na organické bázi.</Dest>
     </String>
     <String List="0" sID="002C3E">
       <EDID>DLC03SouthwestHarborLocation</EDID>
@@ -1825,7 +1825,7 @@ __________________________________________________</Dest>
       <EDID>DLC03MQ06_WabashTape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>To Franny</Source>
-      <Dest>Pro Frannu</Dest>
+      <Dest>Pro Franny</Dest>
     </String>
     <String List="0" sID="0030D7">
       <EDID>DLC03MQ06_WindFarmTerminalConsoleTallOn01</EDID>
@@ -1854,15 +1854,15 @@ SYSTEM_DATA_____________________________________&#xD;
 &#xD;
 - Most Recent User Log-In: &lt;DELETED&gt;&#xD;
 ________________________________________________</Source>
-      <Dest>DATA_TURBINY____________________________________&#xD;
+      <Dest>DATA_TURBÍNY____________________________________&#xD;
 &#xD;
 - Úroveň nabití: 84 %&#xD;
 &#xD;
 - Integrita obvodů: 81 %&#xD;
 &#xD;
-- Aktuální práh otáčení : 15 ot./min&#xD;
+- Aktuální práh otáčení: 15 ot./min&#xD;
 &#xD;
-DATA_SYSTEMU____________________________________&#xD;
+DATA_SYSTÉMU____________________________________&#xD;
 &#xD;
 - Poslední přihlášený uživatel:&lt;VYMAZÁNO&gt;&#xD;
 ________________________________________________</Dest>
@@ -1938,7 +1938,7 @@ SYSTEM_DATA_____________________________________&#xD;
 &#xD;
 - Most Recent User Log-In: &lt;DELETED&gt;&#xD;
 ________________________________________________</Source>
-      <Dest>!DATA_TURBINY____________________________________&#xD;
+      <Dest>DATA_TURBÍNY____________________________________&#xD;
 &#xD;
 - Úroveň nabití: 91 %&#xD;
 &#xD;
@@ -1946,7 +1946,7 @@ ________________________________________________</Source>
 &#xD;
 - Aktuální práh otáčení : 19 ot./min&#xD;
 &#xD;
-DATA_SYSTEMU____________________________________&#xD;
+DATA_SYSTÉMU____________________________________&#xD;
 &#xD;
 - Poslední přihlášený uživatel:&lt;VYMAZÁNO&gt;&#xD;
 ________________________________________________</Dest>
@@ -2035,7 +2035,7 @@ __________________________________________________</Dest>
       <Source>Hide Bundle</Source>
       <Dest>Balík kůží</Dest>
     </String>
-    <String List="0" sID="0032BA" Partial="1">
+    <String List="0" sID="0032BA">
       <EDID>DLC03MQ06_PlayerExitWindFarm</EDID>
       <REC>QUST:FULL</REC>
       <Source>Handler quest for when the player exits Wind Farm Building</Source>
@@ -2063,13 +2063,13 @@ __________________________________________________</Dest>
       <EDID>DLC03MQ06_FarHarborPostAttackMapMarker</EDID>
       <REC>REFR:FULL</REC>
       <Source>Far Harbor Ruins</Source>
-      <Dest>Ruiny Dálného Přístavu</Dest>
+      <Dest>Ruiny Dalekého Přístavu</Dest>
     </String>
     <String List="0" sID="00344E">
       <EDID>DLC03SapWareBrew01</EDID>
       <REC>MISC:FULL</REC>
       <Source>Ware's Brew</Source>
-      <Dest>Wareova várka</Dest>
+      <Dest>Wareův odvar</Dest>
     </String>
     <String List="0" sID="003495">
       <EDID>DLC03Survivor</EDID>
@@ -2189,7 +2189,7 @@ __________________________________________________</Dest>
       <Source>Mirelurk nest</Source>
       <Dest>Hnízdo plíživce</Dest>
     </String>
-    <String List="0" sID="004426" Partial="1">
+    <String List="0" sID="004426">
       <EDID>DLC03REHoldingCell</EDID>
       <REC>CELL:FULL</REC>
       <Source>Quick Test Cell</Source>
@@ -2199,7 +2199,7 @@ __________________________________________________</Dest>
       <EDID>DLC03REAssaultKMK02</EDID>
       <REC>QUST:FULL</REC>
       <Source>Trappers vs Atom</Source>
-      <Dest>Trapeři vs Atom</Dest>
+      <Dest>Trapeři vs. Atom</Dest>
     </String>
     <String List="0" sID="004436">
       <EDID>DLC03RESceneKMK01</EDID>
@@ -2229,7 +2229,7 @@ __________________________________________________</Dest>
       <EDID>DLC03RESceneKMK02</EDID>
       <REC>QUST:FULL</REC>
       <Source>Angler ambush</Source>
-      <Dest>Obklíčení rybolovky</Dest>
+      <Dest>Obklíčení ďasovce</Dest>
     </String>
     <String List="0" sID="0044DD">
       <EDID>DLC03RECampKMK01</EDID>
@@ -2247,7 +2247,7 @@ __________________________________________________</Dest>
       <EDID>DLC03REVertibirdKMK01</EDID>
       <REC>QUST:FULL</REC>
       <Source>Vertibird land troops</Source>
-      <Dest>Výsadkáři z vertibirdu</Dest>
+      <Dest>Výsadkáři z Vertibirdu</Dest>
     </String>
     <String List="0" sID="004533">
       <EDID>DLC03PostQuestTreasureDig</EDID>
@@ -2291,13 +2291,13 @@ __________________________________________________</Dest>
       <Source>Nathaniel Gibbons</Source>
       <Dest>Nathaniel Gibbons</Dest>
     </String>
-    <String List="0" sID="0045B1" Partial="1">
+    <String List="0" sID="0045B1">
       <EDID>DLC03POI04_LvlFeralGhoul02</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>SkinBase</Source>
       <Dest>SkinBase</Dest>
     </String>
-    <String List="0" sID="0045B5" Partial="1">
+    <String List="0" sID="0045B5">
       <EDID>DLC03POI04_LvlFeralGhoul01</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>SkinBase</Source>
@@ -2317,17 +2317,17 @@ __________________________________________________</Dest>
     ALL PERSONNEL REPORT TO DESIGNATED EVAC ZONES!&#xD;
 &#xD;
   &lt;ATTENTION!&gt;&lt;ATTENTION!&gt;&lt;ATTENTION!&gt;&lt;ATTENTION!&gt;</Source>
-      <Dest>  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
+      <Dest>  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
 &#xD;
            Z ROZKAZU KAPITÁNA WABASHE!&#xD;
 &#xD;
-     DETEKOVÁNO PORUŠENÍ OCHRANÉHO PLÁŠTĚ PONORKY!&#xD;
+     DETEKOVÁNO PORUŠENÍ OCHRANNÉHO PLÁŠTĚ PONORKY!&#xD;
 &#xD;
        JE SPUŠTĚN PROTOKOL CELKOVÉ EVAKUACE!&#xD;
 &#xD;
 VEŠKERÝ PERSONÁL AŤ SE HLÁSÍ V PŘÍSLUŠNÝCH EVAKUAČNÍCH ZÓNÁCH!&#xD;
 &#xD;
-  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;</Dest>
+  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;</Dest>
     </String>
     <String List="0" sID="0045E2">
       <EDID>DLC03POI04_ElizaMapNote</EDID>
@@ -2444,10 +2444,10 @@ We finally reestablished comms with Mount Desert today and now your XO tells me 
 This is on you, Arnold. Their deaths are on you. And if by some sick twist of fate you survived this mess, I'll personally make sure it's temporary.</Source>
       <Dest>PRO: WABASH, ARNOLD (kapitán)&#xD;
 OD: GRATH, EDWARD (kontradmirál)&#xD;
-Subj: Kde jste&#xD;
+Předmět: Kde jste&#xD;
 __________________________________&#xD;
 &#xD;
-Konečně se nám dnes podařilo obnovit komunikaci s Pouštní horou a teď mi vaše XO říká, že už jste se týden neohlásil. K nastartování nám chybí odpalovací klíč. Měl jsem vás dát zavřít, dokud jsem mohl. Východní pobřeží je pryč a pokud by tam Democracy byla, mohli jsme zachránit New York. Nebo Washington. Nebo Boston.&#xD;
+Konečně se nám dnes podařilo obnovit komunikaci s Pouštní horou, a teď mi vaše XO říká, že už jste se týden neohlásil. K nastartování nám chybí odpalovací klíč. Měl jsem vás dát zavřít, dokud jsem mohl. Východní pobřeží je pryč, a pokud by tam Democracy byla, mohli jsme zachránit New York. Nebo Washington. Nebo Boston.&#xD;
 &#xD;
 Tohle jde na vaši hlavu, Arnolde. Jejich smrt jde na vaši hlavu. A pokud jste nějákým nejapným žertem osudu tohle přežil, tak se postarám o to, aby to bylo jen dočasně.</Dest>
     </String>
@@ -2521,7 +2521,7 @@ Ale pokud Democracy nevyrazí do Jihočínského moře v plánovaném termínu, 
       <EDID>DLC03POI04_Pump02Message</EDID>
       <REC id="1">MESG:ITXT</REC>
       <Source>Repair the pipe (5 Steel)</Source>
-      <Dest>Opravit potrubí (5 oceli)</Dest>
+      <Dest>Opravit potrubí (5 ocelí)</Dest>
     </String>
     <String List="0" sID="004850">
       <EDID>DLC03POI04_ElizaJournal07</EDID>
@@ -2618,7 +2618,7 @@ A containment leak on the Democracy? Convenient, Arnold. Well, you got what you 
 For your sake, Arnold, I seriously hope this leak was an accident. Because if it wasn't, I'm going to file the court martial paperwork myself.&#xD;
 &#xD;
  - Grath</Source>
-      <Dest>!NA: WABASH, ARNOLD (CAPT)&#xD;
+      <Dest>PRO: WABASH, ARNOLD (CAPT)&#xD;
 OD: GRATH, EDWARD (RDML)&#xD;
 Předmět: Porušení ochranného pláště&#xD;
 __________________________________&#xD;
@@ -2673,15 +2673,15 @@ Pro vaše dobro doufám, že to porušení pláště byla opravdu nehoda. Proto�
   &lt;ATTENTION!&gt;&lt;ATTENTION!&gt;&lt;ATTENTION!&gt;&lt;ATTENTION!&gt;&#xD;
 &#xD;
 </Source>
-      <Dest>  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
+      <Dest>  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
 &#xD;
-   DETEKOVÁNO PORUŠENÍ OCHRANÉHO PLÁŠTĚ PONORKY!&#xD;
+   DETEKOVÁNO PORUŠENÍ OCHRANNÉHO PLÁŠTĚ PONORKY!&#xD;
 &#xD;
        JE SPUŠTĚN PROTOKOL CELKOVÉ EVAKUACE!&#xD;
 &#xD;
 VEŠKERÝ PERSONÁL AŤ SE HLÁSÍ V PŘÍSLUŠNÝCH EVAKUAČNÍCH ZÓNÁCH!&#xD;
 &#xD;
-  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
+  &lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&lt;POZOR!&gt;&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2691,7 +2691,7 @@ VEŠKERÝ PERSONÁL AŤ SE HLÁSÍ V PŘÍSLUŠNÝCH EVAKUAČNÍCH ZÓNÁCH!&#xD
       <Source>&lt;LOG IN: WABASH, ARNOLD (CAPT)&gt;&#xD;
 &#xD;
 [Current Messages]____________________________</Source>
-      <Dest>!&lt;LOG IN: Wabash, Arnold (CAPT)&gt;&#xD;
+      <Dest>&lt;LOG IN: Wabash, Arnold (CAPT)&gt;&#xD;
 &#xD;
 [Aktuální zprávy] ____________________________</Dest>
     </String>
@@ -2705,7 +2705,7 @@ VEŠKERÝ PERSONÁL AŤ SE HLÁSÍ V PŘÍSLUŠNÝCH EVAKUAČNÍCH ZÓNÁCH!&#xD
       <EDID>DLC03MQ06</EDID>
       <REC id="12">QUST:NNAM</REC>
       <Source>Search the Wind Farm Maintenance Building for Industrial-Grade Fuses</Source>
-      <Dest>Prozkoumej údržbářskou budovu větrné farmy kvůli průmyslovým pojistkám</Dest>
+      <Dest>Prozkoumej údržbářskou budovu Větrné elektrárny kvůli průmyslovým pojistkám</Dest>
     </String>
     <String List="0" sID="004951">
       <EDID>DLC03POI04FootLocker01</EDID>
@@ -2713,7 +2713,7 @@ VEŠKERÝ PERSONÁL AŤ SE HLÁSÍ V PŘÍSLUŠNÝCH EVAKUAČNÍCH ZÓNÁCH!&#xD
       <Source>Footlocker</Source>
       <Dest>Bedna na osobní věci</Dest>
     </String>
-    <String List="0" sID="00495E" Partial="1">
+    <String List="0" sID="00495E">
       <EDID>DLC03RabbitFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Rabbit Faction</Source>
@@ -2750,7 +2750,7 @@ _________________________________&#xD;
 &#xD;
 &lt;OBSAH ZPRÁVY VYMAZÁN&gt;&#xD;
 &lt;VYTVOŘEN ZÁZNAM O SMAZÁNÍ&gt;&#xD;
-&lt;ODSTRANĚNO UŽIVATELEM&gt;:&lt;NEZNAMY_UŽIVATEL&gt;&#xD;
+&lt;ODSTRANĚNO UŽIVATELEM&gt;: &lt;NEZNÁMÝ_UŽIVATEL&gt;&#xD;
 &#xD;
 &#xD;
  &#xD;
@@ -2781,7 +2781,7 @@ _________________________________&#xD;
       <EDID>DLC03POIBasementArmory</EDID>
       <REC>CELL:FULL</REC>
       <Source>Basement Armory</Source>
-      <Dest>Suterén - zbrojnice</Dest>
+      <Dest>Zbrojnice v suterénu</Dest>
     </String>
     <String List="0" sID="004B01">
       <EDID>DLC03TanneryHides</EDID>
@@ -2795,7 +2795,7 @@ _________________________________&#xD;
       <Source>Tannery Hides</Source>
       <Dest>Vyčiněné kůže</Dest>
     </String>
-    <String List="0" sID="004B83" Partial="1">
+    <String List="0" sID="004B83">
       <EDID>DLC03ServicesOgden</EDID>
       <REC>FACT:FULL</REC>
       <Source>Glowing Sea Crater Brother Ogden Vendor</Source>
@@ -2817,7 +2817,7 @@ _________________________________&#xD;
       <EDID>DLC03POI39MapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Radiant Crest Shrine</Source>
-      <Dest>Svatně Zářícího hřebene</Dest>
+      <Dest>Svatyně Zářícího hřebene</Dest>
     </String>
     <String List="0" sID="004B8F">
       <EDID>DLC03POI38MapMarkerRef</EDID>
@@ -2837,7 +2837,7 @@ _________________________________&#xD;
       <Source>Steamer Trunk</Source>
       <Dest>Lodní kufr</Dest>
     </String>
-    <String List="0" sID="03145C" Partial="1">
+    <String List="0" sID="03145C">
       <EDID>DLC03POI04_LvlFeralGhoul03</EDID>
       <REC id="0">NPC_:FULL</REC>
       <Source>SkinBase</Source>
@@ -2879,7 +2879,7 @@ dědeček, námořník, inženýr</Dest>
       <EDID>DLC03MQ06a_ProtectorofAcadiaMsg</EDID>
       <REC>MESG:DESC</REC>
       <Source>You've received the "Protector of Acadia" perk! When severely damaged, there's a chance you'll receive a massive - but temporary - bonus to damage and energy resistance!</Source>
-      <Dest>Získáváš perk „Ochránce Acadie“! V případě vážného poškození, je šance na získání obrovského bonusu k odolnosti proti fyzickému a energetickému poškození!</Dest>
+      <Dest>Získáváš perk „Ochránce Acadie“! V případě vážného poškození je šance na získání obrovského bonusu k odolnosti proti fyzickému a energetickému poškození!</Dest>
     </String>
     <String List="1" sID="001DDA">
       <EDID>DLC03MQ06_CrusaderOfAtomPerk</EDID>
@@ -2904,7 +2904,7 @@ dědeček, námořník, inženýr</Dest>
           aSTRANGERarrives&#xD;
   &#xD;
           aNewCHILDweSpy?&lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 &#xD;
 naOSTROVatoma&#xD;
@@ -2913,7 +2913,7 @@ PRICHAZIcizinec&#xD;
 &#xD;
 ŠPEHUJEMEnoveDÍTĚ?&#xD;
 &#xD;
-&lt;Font&gt;</Dest>
+&lt;font&gt;</Dest>
     </String>
     <String List="1" sID="0020E4">
       <EDID>DLC03POI10_MotherNote02</EDID>
@@ -2926,7 +2926,7 @@ PRICHAZIcizinec&#xD;
     theGoodCONFESSORaway&#xD;
   &#xD;
     andToQUESTIONhisPurpose&lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 &#xD;
 pomstychtivéSTVOŘENÍvyhání&#xD;
@@ -2950,7 +2950,7 @@ aZPOCHYBŇUJEjehoÚČEL&#xD;
            giftsNEVERcease&#xD;
 &#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 &#xD;
           díkyATOMOVIzískáváme&#xD;
@@ -2972,7 +2972,7 @@ aZPOCHYBŇUJEjehoÚČEL&#xD;
           inaCRUMBLINGhome&#xD;
   &#xD;
    motherWANTStoendTHEIRpain&lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 &#xD;
  dětiVpasti&#xD;
@@ -2997,7 +2997,7 @@ matkaCHCEukončitJEJICHtrápení&lt;font&gt;</Dest>
    Lives taken cannot be given back&#xD;
 &#xD;
 &lt;font size='36'&gt;  ) % T 3 M p e $ t {&lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>!&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 Zvažte důsledky&#xD;
 &#xD;
@@ -3013,11 +3013,11 @@ Ztráty na životech nelze vzít zpátky&#xD;
 We talked for the better part of two hours, discussing back and forth. I reminded her of the gifts of the island, of Atom's blessing, of the messengers SEEN by her brothers and sisters. Of the family that Atom has granted her. That seemed to calm her finally and she returned to bed.&#xD;
 &#xD;
 But now dawn comes and her questions still linger. Raise doubts that I have ignored for some time now. And I'm left with my own question - is perhaps Gwyneth wiser than she knows?&lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;Včera v noci za mnou přišla sestra Gwyneth. Říkala, že strávila další noc přemýšlením o tom, o čem jsme spolu mluvily, ale že nemůže přehlížet to, čemu věří - že Atom nemůže být skutečný.&#xD;
+      <Dest>!&lt;font face='$HandwrittenFont'&gt;Včera v noci za mnou přišla sestra Gwyneth. Říkala, že strávila další noc přemýšlením o tom, o čem jsme spolu mluvily, ale že nemůže přehlížet to, čemu věří - že Atom nemůže být skutečný.&#xD;
 &#xD;
-Povídaly jsme si dobré dvě hodiny, probíraly jsme tu věc ze všech stran. Připomněla jsem jí dary ostrova, Atomovo požehnání, posly, které VIDĚLI její bratři a sestry. Rodinu, kterou ji Atom poskytl. Zdá se, že to ji konečně uklidnilo a vrátila se do postele.&#xD;
+Povídaly jsme si dobré dvě hodiny, probíraly jsme tu věc ze všech stran. Připomněla jsem jí dary ostrova, Atomovo požehnání, posly, které VIDĚLI její bratři a sestry. Rodinu, kterou ji Atom poskytl. Zdá se, že to ji konečně uklidnilo, a vrátila se do postele.&#xD;
 &#xD;
-Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybnosti, které jsem už nějakou dobu potlačovala. A mě na mysli vyvstává má vlastní otázka - co když je sestra Gwyneth moudřejší, než sama ví?&lt;font&gt;</Dest>
+Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybnosti, které jsem už nějakou dobu potlačovala. A mně na mysli vyvstává má vlastní otázka - co když je sestra Gwyneth moudřejší, než sama ví?&lt;font&gt;</Dest>
     </String>
     <String List="1" sID="0029CE">
       <EDID>DLC03MQ06FuseBoxMessage</EDID>
@@ -3048,7 +3048,7 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06a</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>I've agreed to help DiMA replace the High Confessor. First, I'll need to recover a couple of Confessor Martin's holotapes from his old refuge.</Source>
-      <Dest>Souhlasil jsem, že pomůžu DiMA nahradit Velezpovědníka. Nejdříve musím získat holopásky Zpovědníka Martina z jeho starého úkrytu.</Dest>
+      <Dest>Souhlasil jsem, že pomůžu DiMA nahradit Velezpovědníka. Nejdříve musím získat holopásky zpovědníka Martina z jeho starého úkrytu.</Dest>
     </String>
     <String List="1" sID="002D14">
       <EDID>DLC03MQ06a</EDID>
@@ -3074,7 +3074,7 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <Source>The High Confessor has arrived. Time to end his reign... permanently.</Source>
       <Dest>Velezpovědník dorazil. Je čas ukončit jeho vládu... natrvalo.</Dest>
     </String>
-    <String List="1" sID="002DAE" Partial="1">
+    <String List="1" sID="002DAE">
       <EDID>DLC03StingwingRace</EDID>
       <REC>RACE:DESC</REC>
       <Source>injured bite back 180</Source>
@@ -3090,13 +3090,13 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06a</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>The High Confessor can't believe I found Confessor Martin's tape. He asked me to play it for him.</Source>
-      <Dest>Velezpovědník nemůže uvěřit, že se mi povedlo najít pásky Zpovědníka Martina. Požádal mě, jestli by je mohl slyšet.</Dest>
+      <Dest>Velezpovědník nemůže uvěřit, že se mi povedlo najít pásky zpovědníka Martina. Požádal mě, jestli by je mohl slyšet.</Dest>
     </String>
     <String List="1" sID="002E34">
       <EDID>DLC03MQ06a</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>I've got DiMA's fabricated holotape. Now I just need to present it to the High Confessor and convince him to join me... alone.</Source>
-      <Dest>Mám pásku, kterou vyrobil DiMA. Teď je třeba ji ukázat Velezpovědníkovi a přesvědčit ho, aby šel se mnou...sám.</Dest>
+      <Dest>Mám holopásku, kterou vyrobil DiMA. Teď je třeba ji ukázat Velezpovědníkovi a přesvědčit ho, aby šel se mnou...sám.</Dest>
     </String>
     <String List="1" sID="002E7B">
       <EDID>DLC03MQ06a</EDID>
@@ -3120,7 +3120,7 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ05</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>After confronting DiMA with the murder of Captain Avery, he's agreed to turn himself in to Far Harbor to face judgment. His only hope is that the town doesn't hurt Acadia, which he claims is innocent.</Source>
-      <Dest>Poté, co jsi jej konfrontoval s vraždou Averyové, DiMA souhlásil, že se odevzdá spravedlnosti Dalekého Přístavu a počká na rozsudek. Jeho edinou nadějí je to, že se obyvatelé města nerozhodnou zničit Acadii, která je podle něj nevinná.</Dest>
+      <Dest>Poté, co jsi jej konfrontoval s vraždou Averyové, DiMA souhlasil, že se odevzdá spravedlnosti Dalekého Přístavu a počká na rozsudek. Jeho jedinou nadějí je to, že se obyvatelé města nerozhodnou zničit Acadii, která je podle něj nevinná.</Dest>
     </String>
     <String List="1" sID="002F59">
       <EDID>DLC03MQ05</EDID>
@@ -3168,7 +3168,7 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06</EDID>
       <REC id="7">QUST:CNAM</REC>
       <Source>I handed the launch key over to the High Confessor. He seemed, very, very pleased. But there's still Far Harbor to deal with.</Source>
-      <Dest>Velekněz ode mě dostal odpalovací klíč. Zdá se že ho to velice potěšilo. Ale ještě se musíme vypořádat s Dalekým přístavem.</Dest>
+      <Dest>Velezpovědník ode mě dostal odpalovací klíč. Zdá se, že ho to velice potěšilo. Ale ještě se musíme vypořádat s Dalekým Přístavem.</Dest>
     </String>
     <String List="1" sID="00323A">
       <EDID>DLC03MQ05</EDID>
@@ -3192,13 +3192,13 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06</EDID>
       <REC id="8">QUST:CNAM</REC>
       <Source>I handed the launch key over to the High Confessor. He seemed, very, very pleased. But now I should see if there's anything else I can glean from DiMA's memories.</Source>
-      <Dest>Velekněz ode mě dostal odpalovací klíč. Zdá se že ho to velice potěšilo. Teď je třeba zjistit, co dalšího se ukrývá ve vzpomínkách DiMA.</Dest>
+      <Dest>Velezpovědník ode mě dostal odpalovací klíč. Zdá se, že ho to velice potěšilo. Teď je třeba zjistit, co dalšího se ukrývá ve vzpomínkách DiMA.</Dest>
     </String>
     <String List="1" sID="00326A">
       <EDID>DLC03MQ06</EDID>
       <REC id="14">QUST:CNAM</REC>
       <Source>The wind turbine powering Far Harbor is offline for good. I know the High Confessor would be interested to hear the news... or I could go see the fate of the town for myself...</Source>
-      <Dest>Větrná turbína napájející Daleký Přístav je nadobro vyřazena z provozu. Velekněz by o tom určitě rád slyšel... a nebo se můžu jít podívat na osud města na vlastní pěst...</Dest>
+      <Dest>Větrná turbína napájející Daleký Přístav je nadobro vyřazena z provozu. Velezpovědník by o tom určitě rád slyšel... a nebo se můžu jít podívat na osud města na vlastní pěst...</Dest>
     </String>
     <String List="1" sID="00326E">
       <EDID>DLC03MQ06</EDID>
@@ -3222,7 +3222,7 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06</EDID>
       <REC id="12">QUST:CNAM</REC>
       <Source>Hmm. Looks like the door to the wind farm terminals has been locked. I'll need to repair the fuse box to get in there. Must be some fuses around here somewhere...</Source>
-      <Dest>Hmm. Vypadá to, že dveře k terminálu větrné farmy jsou zamčené. Pokud chci dovnitř, musím opravit pojistky. Někde tady musí být...</Dest>
+      <Dest>Hmm. Vypadá to, že dveře k terminálu Větrné elektrárny jsou zamčené. Pokud chci dovnitř, musím opravit pojistky. Někde tady musí být...</Dest>
     </String>
     <String List="1" sID="00327D">
       <EDID>DLC03MQ06</EDID>
@@ -3234,31 +3234,31 @@ Ale nyní se blíží úsvit a její otázky přetrvávají. Probouzejí pochybn
       <EDID>DLC03MQ06</EDID>
       <REC id="16">QUST:CNAM</REC>
       <Source>The High Confessor was pleased with my work. Any why wouldn't he? After all, I've restored Atom's kingdom.</Source>
-      <Dest>Velekněze má práce potěšila. Jak by taky ne? Konec konců díky mně zase zavládlo království Atoma.</Dest>
+      <Dest>Velezpovědníka má práce potěšila. Jak by taky ne? Koneckonců díky mně zase zavládlo království Atoma.</Dest>
     </String>
     <String List="1" sID="0032AC">
       <EDID>DLC03MQ06</EDID>
       <REC id="17">QUST:CNAM</REC>
       <Source>The fate of the island's been decided. Far Harbor is no more.</Source>
-      <Dest>O osudu ostrova bylo rozhodnuto. Dálný Přístav už neexistuje.</Dest>
+      <Dest>O osudu ostrova bylo rozhodnuto. Daleký Přístav už neexistuje.</Dest>
     </String>
     <String List="1" sID="0032B4">
       <EDID>DLC03MQ06</EDID>
       <REC id="13">QUST:CNAM</REC>
       <Source>All right. Fuse box repaired. I have full access to the wind farm terminal containing the kill switch.</Source>
-      <Dest>Dobře. Pojistky jsou opravené. Mám plný přístup k terminálu větrné farmy, který umožňuje její nouzové zastavení.</Dest>
+      <Dest>Dobře. Pojistky jsou opravené. Mám plný přístup k terminálu Větrné elektrárny, který umožňuje její nouzové zastavení.</Dest>
     </String>
     <String List="1" sID="0032CE">
       <EDID>DLC03MQ06</EDID>
       <REC id="18">QUST:CNAM</REC>
       <Source>The fate of the island's been decided. Far Harbor is no more.</Source>
-      <Dest>O osudu ostrova bylo rozhodnuto. Dálný Přístav už neexistuje.</Dest>
+      <Dest>O osudu ostrova bylo rozhodnuto. Daleký Přístav už neexistuje.</Dest>
     </String>
     <String List="1" sID="003305">
       <EDID>DLC03MQ06</EDID>
       <REC id="9">QUST:CNAM</REC>
       <Source>I convinced the High Confessor that it's time for Division. All I need to do is activate the nuke.</Source>
-      <Dest>Velekněz je přesvědčen, že je čas pro Rozdělení. Vše co musím udělat, je aktivovat jadernou hlavici.</Dest>
+      <Dest>Velezpovědník je přesvědčen, že je čas pro Rozdělení. Vše co musím udělat, je aktivovat jadernou hlavici.</Dest>
     </String>
     <String List="1" sID="003309">
       <EDID>DLC03MQ06</EDID>
@@ -3375,14 +3375,14 @@ Remember to move all of the supplies from the shed on the East Dock to the stora
 P.S. &#xD;
 The key is in the footlocker, near the bunker entrance.&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>!&lt;font face='$HandwrittenFont'&gt;&#xD;
 Nathane,&#xD;
 &#xD;
-Nezapomeň přesunout všechny zásoby ze zásobárny na východě do skladiště tady v bunkru. Kromě generátorů, které musí být v provozuschopném stavu, jsou tyhle zásoby naším nejdůležitějším zdrojem. A ne, že to za tebe budě dělat bratr! Tohle je tvoje práce!&#xD;
+nezapomeň přesunout všechny zásoby ze zásobárny na východě do skladiště tady v bunkru. Kromě generátorů, které musí být v provozuschopném stavu, jsou tyhle zásoby naším nejdůležitějším zdrojem. A ne, že to za tebe budě dělat bratr! Tohle je tvoje práce!&#xD;
 &#xD;
 Táta&#xD;
 &#xD;
-P. S.:&#xD;
+P.S.:&#xD;
 Klíč je v  bedně blízko vchodu do bunkru.&#xD;
 &lt;font&gt;</Dest>
     </String>
@@ -3396,7 +3396,7 @@ Klíč je v  bedně blízko vchodu do bunkru.&#xD;
       <EDID>DLC03MQ05</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>DiMA killed the original Captain Avery and replaced her with a synth. After confronting him about it, I agreed to keep his secret and gave him the evidence.</Source>
-      <Dest>DiMA zabil kapitána Averyovou a nahradil ji syntetikem. Po konfrontaci, jsme se dohodli, že udržím jeho tajemství a předám mu důkazy.</Dest>
+      <Dest>DiMA zabil kapitána Averyovou a nahradil ji syntetikem. Po konfrontaci jsme se dohodli, že udržím jeho tajemství a předám mu důkazy.</Dest>
     </String>
     <String List="1" sID="0045CB">
       <EDID>DLC03MQPostQuest</EDID>
@@ -3411,7 +3411,7 @@ Klíč je v  bedně blízko vchodu do bunkru.&#xD;
 &#xD;
 &#xD;
 &lt;font&gt;</Source>
-      <Dest>&lt;Font face='$HandwrittenFont'&gt;&#xD;
+      <Dest>&lt;font face='$HandwrittenFont'&gt;&#xD;
 &#xD;
 &#xD;
 &lt;font&gt;</Dest>
@@ -3423,8 +3423,8 @@ Klíč je v  bedně blízko vchodu do bunkru.&#xD;
 July 23th, 2077&#xD;
 I wish Grandma was still around. Our family didn't argue as much and Grandpa... well. I miss her too. &#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-23.července 2077&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+23. července 2077&#xD;
 Přála bych si, aby tady stále byla babička. Naše rodina se tenkrát tolik nehádala a děda.... no. Taky se mi po ní stýská.&#xD;
 &lt;font&gt;</Dest>
     </String>
@@ -3435,9 +3435,9 @@ Přála bych si, aby tady stále byla babička. Naše rodina se tenkrát tolik n
 March 2nd, 2077&#xD;
 Nathan was out by the output pipes again, over by Grandpa's.  I was going to tell Mom but he saw me looking out at him when he came back to the house and told me to go back to bed. He always looks angry now. If I tell her about it he will only bully me more. &#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-2.března 2077&#xD;
-Nathan zase vylezl ven skrz trubky. Byl za dědou. Chtěla jsem to říct mámě, ale když se vracel, tak si všiml, že se na něj dívám a řekl mi ať jdu do postele. Vypadá teď pořád naštvaně. Pokud bych o tom mámě řekla, jen by mě šikanoval ještě víc.&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+2. března 2077&#xD;
+Nathan zase vylezl ven skrz trubky. Byl za dědou. Chtěla jsem to říct mámě, ale když se vracel, tak si všiml, že se na něj dívám, a řekl mi, ať jdu do postele. Vypadá teď pořád naštvaně. Pokud bych o tom mámě řekla, jen by mě šikanoval ještě víc.&#xD;
 &lt;font&gt;</Dest>
     </String>
     <String List="1" sID="004737">
@@ -3447,9 +3447,9 @@ Nathan zase vylezl ven skrz trubky. Byl za dědou. Chtěla jsem to říct mámě
 August 8th, 2077&#xD;
 We heard Grandpa talking about those "Damned Government Goons" again.  Dad tried to calm him down by telling him "The whole farm's insured.  Remember?  We wrote up the papers last month when we went in to finalize your Will."  I asked Nathan what it meant for the farm to be 'insured' and he said I shouldn't worry about it, it just means we're safe, and that I should be more excited about what's in Grandpa's Will.  I don't know what any of them are talking about...&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-8.srpna 2077&#xD;
-Zase jsme slyšeli dědu mluvit o těch „zatracených tupcích z vlády“. Táta se ho snažil uklidnit a říkal mu: „Celá farma je pojištěná. Pamatuješ? Sepsali jsme ty papíry minulý měsíc, když jsme šli dokončit tvou závěť.“ Zeptala jsem se Nathana, co to pro farmu znamená, když je „pojištěná“, ale řekl mi, že se o to nemám starat, že to prostě znamená, že jsme v bezpečí. A že by mě spíš mělo zajímat, co je v dědově závěti. Už vůbec nechápu o čem to všichni mluví...&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+8. srpna 2077&#xD;
+Zase jsme slyšeli dědu mluvit o těch „zatracených tupcích z vlády“. Táta se ho snažil uklidnit a říkal mu: „Celá farma je pojištěná. Pamatuješ? Sepsali jsme ty papíry minulý měsíc, když jsme šli dokončit tvou závěť.“ Zeptala jsem se Nathana, co to pro farmu znamená, když je „pojištěná“, ale řekl mi, že se o to nemám starat, že to prostě znamená, že jsme v bezpečí. A že by mě spíš mělo zajímat, co je v dědově závěti. Už vůbec nechápu, o čem to všichni mluví...&#xD;
 &lt;font&gt;</Dest>
     </String>
     <String List="1" sID="004772">
@@ -3459,8 +3459,8 @@ Zase jsme slyšeli dědu mluvit o těch „zatracených tupcích z vlády“. T�
 May 21st, 2077&#xD;
 I got home from stacking boxes at the dock and saw that Grandpa was sitting out on the porch yelling at the sky...  saying things like, "They're gonna take our farm!", "We gotta stop them from tempering with our Reels and Generators.  The harvest is comin' up!"  We knew something was wrong after grandma died when he started accusing Nathan of messing with the machines around the farm. But now he just complains about the government trying to shut us down.&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-21.května 2077&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+21. května 2077&#xD;
 Když jsem se vrátila domů, poté co jsem skládala bedny v přístavu, viděla jsem, jak děda sedí na verandě a křičí do nebe...říkal věci jako: „Vezmou nám naši farmu!“ a „Musíme jim zabránit v tom, aby si hráli s našimi cívkami a generátory, blíží se sklizeň!“. Věděli jsme, že je něco špatně, když po babiččině smrti začal obviňovat Nathana, že se vrtá ve strojích na farmě, ale teď už si jen stěžuje na vládu, která to tu podle něj chce zavřít.&#xD;
 &lt;font&gt;</Dest>
     </String>
@@ -3471,9 +3471,9 @@ Když jsem se vrátila domů, poté co jsem skládala bedny v přístavu, viděl
 February 15th, 2077&#xD;
 Grandpa Pat was yelling in his sleep tonight.  He's done it before, but this time it was so loud it woke me up.  I saw Mom head over to make sure he's okay.  Glad she remembered her coat, it looks like it's freezing out there.  I heard her talking to dad the other day about Grandpa moving in with us soon.  I don't think I want him to.&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-15.února 2077&#xD;
-Děda Pat dneska v noci křičel ze spaní. Nebylo to poprvé, ale tentokrát to bylo tak hlasité, že mě to probudilo. Viděla jsem mámu, jak vyrazila, aby se přesvědčila, že je v pořádku. Jsem ráda, že se nezapomněla vzít kabát, vypadá to, že venku pořádně mrzne. Jednou jsem slyšela jak mluvila s tátou o tom, že by se děda mohl brzy přestěhovat k nám. Asi nechci, aby s námi bydlel.&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+15. února 2077&#xD;
+Děda Pat dneska v noci křičel ze spaní. Nebylo to poprvé, ale tentokrát to bylo tak hlasité, že mě to probudilo. Viděla jsem mámu, jak vyrazila, aby se přesvědčila, že je v pořádku. Jsem ráda, že si nezapomněla vzít kabát, vypadá to, že venku pořádně mrzne. Jednou jsem slyšela, jak mluvila s tátou o tom, že by se děda mohl brzy přestěhovat k nám. Asi nechci, aby s námi bydlel.&#xD;
 &lt;font&gt;</Dest>
     </String>
     <String List="1" sID="004786">
@@ -3483,8 +3483,8 @@ Děda Pat dneska v noci křičel ze spaní. Nebylo to poprvé, ale tentokrát to
 March 19th, 2077&#xD;
 Dad and Steven were yelling at each other when they came home from morning chores.  I do not know why but I did hear Dad tell him that if he doesn't keep the pumps running "It'll mean more than just the pipes shuting down!"  I wish Steven would just do his chores.  I hate it when they fight.&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-19.března 2077&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+19. března 2077&#xD;
 Táta a Steven na sebe křičeli, když se dneska vrátili ze své ranní práce. Nevím proč, ale slyšela jsem tátu říkat, že pokud neudrží čerpadla v chodu „Bude to znamenat víc, než jen uzavřené trubky!“ Přála bych si, aby Steven dělal co má. Nesnáším, když se hádají.&#xD;
 &lt;font&gt;</Dest>
     </String>
@@ -3539,18 +3539,18 @@ We're just about to head to the mainland for a Halloween party!  It's at Hayley'
 &#xD;
 Nathan was supposed to take me but no one knows where he's at.  He's been gone a lot lately...  Mom's going to take me, I think.  I can't wait to write in my journal tomorrow about what happened at the party!&#xD;
 &lt;font&gt;</Source>
-      <Dest>!&lt;Font face='$HandwrittenFont' size='19'&gt;&#xD;
-22.října 2077&#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='19'&gt;&#xD;
+22. října 2077&#xD;
 Právě se chystáme vyrazit na pevninu na halloweenskou párty. Bude u Hayley doma v Bar Harboru. Budou tam úplně všichni! June, Elli, Emmi, Jade... a možná i Gregory!&#xD;
 &#xD;
-Měl mě odvézt Nathan, ale nikdo neví, kde je. Poslední dobou je hodně pryč... Nejspíš mě odveze máma. Už se nemůžu dočkat, až si zítra zapíšu do deníku, co se všechno stalo na párty!&#xD;
+Měl mě odvézt Nathan, ale nikdo neví, kde je. Poslední dobou je hodně pryč... Nejspíš mě odveze máma. Už se nemůžu dočkat, až si zítra zapíšu do deníku, co všechno se na párty stalo!&#xD;
 &lt;font&gt;</Dest>
     </String>
     <String List="1" sID="004839">
       <EDID>DLC03POI04_Pump02Message</EDID>
       <REC>MESG:DESC</REC>
       <Source>You see that the pipe has been seperated somehow, causing a massive leak.</Source>
-      <Dest>Vidíš, že trubka není na svém místě a proto netěsní...</Dest>
+      <Dest>Vidíš, že trubka není na svém místě, a proto netěsní...</Dest>
     </String>
     <String List="1" sID="00483B">
       <EDID>DLC03POI04_Pump03HitFail</EDID>
@@ -3570,7 +3570,7 @@ Měl mě odvézt Nathan, ale nikdo neví, kde je. Poslední dobou je hodně pry�
       <Source>&lt;font face='$HandwrittenFont' size='18'&gt;&#xD;
 &#xD;
 &lt;font&gt;</Source>
-      <Dest>&lt;Font face='$HandwrittenFont' size='18'&gt; &#xD;
+      <Dest>&lt;font face='$HandwrittenFont' size='18'&gt; &#xD;
 &#xD;
 &lt;font&gt;</Dest>
     </String>
@@ -3638,13 +3638,13 @@ Rozhraní počítačové simulace: NEPŘIPOJENO</Dest>
       <EDID>DLC03MQ06</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>I recovered the code to activate the kill-switch installed in Far Harbor's wind turbine. If I want to use it, I'm going to have to pay a visit to the farm's maintenance shed.</Source>
-      <Dest>Podařilo se mi získat kód pro aktivaci nouzového zastavení, které je instalované ve větrných turbínách Dalekého Přístavu. Pokud jej chci použít, budu muset navštívit místnost údržby Větrné farmy.</Dest>
+      <Dest>Podařilo se mi získat kód pro aktivaci nouzového zastavení, které je instalované ve větrných turbínách Dalekého Přístavu. Pokud jej chci použít, budu muset navštívit místnost údržby Větrné elektrárny.</Dest>
     </String>
     <String List="1" sID="00487B">
       <EDID>DLC03MQ06</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I recovered the code to activate the kill-switch installed in Far Harbor's wind turbine. I suppose I could either confront DiMA about this... or I could just pay the maintenance shed a visit.</Source>
-      <Dest>Podařilo se mi získat kód pro aktivaci nouzového zastavení, které je instalované ve větrných turbínách Dalekého Přístavu. Myslím, že o tom buď můžu informovat DiMA... nebo raději navštívit místnost údržby Větrné farmy.</Dest>
+      <Dest>Podařilo se mi získat kód pro aktivaci nouzového zastavení, které je instalované ve větrných turbínách Dalekého Přístavu. Myslím, že o tom buď můžu informovat DiMA... nebo raději navštívit místnost údržby Větrné elektrárny.</Dest>
     </String>
     <String List="1" sID="004880">
       <EDID>DLC03POI04_Pump02JuryRigSuccess</EDID>
