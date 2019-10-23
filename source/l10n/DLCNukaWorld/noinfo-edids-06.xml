@@ -47,7 +47,7 @@
       <EDID>DLC04DialogueHubologists</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Sit in alignment chair</Source>
-      <Dest>Sedni si do seřízeného křesla</Dest>
+      <Dest>Sedni si do seřizovacího křesla</Dest>
     </String>
     <String List="0" sID="0004D2">
       <EDID>DLC04DeathclawRaceQuantum</EDID>
@@ -71,7 +71,7 @@
       <EDID>DLC04EncBrahmiluff01Template</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Brahmiluff Shorthorn</Source>
-      <Dest>Krátkorohý brahmíňák</Dest>
+      <Dest>Krátkorohý brahmůl</Dest>
     </String>
     <String List="0" sID="000662">
       <EDID>DLC04DialogueRaiderFactionOperators</EDID>
@@ -89,7 +89,7 @@
       <EDID>DLC04EncBrahmiluff03</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Brahmiluff Longhorn</Source>
-      <Dest>Dlouhorohý brahmíňák</Dest>
+      <Dest>Dlouhorohý brahmůl</Dest>
     </String>
     <String List="0" sID="000998">
       <EDID>DLC04EncBrahmiluff02</EDID>
@@ -107,7 +107,7 @@
       <EDID>DLC04Coaster</EDID>
       <REC>FURN:FULL</REC>
       <Source>Nuka-Galaxy Rocket</Source>
-      <Dest>Nuka-Galaxy Rocket</Dest>
+      <Dest>Nuka-Galaxy raketa</Dest>
     </String>
     <String List="0" sID="000F0C">
       <EDID>DLC04CLownGhoulArmwrapsRndColor</EDID>
@@ -371,7 +371,7 @@
       <EDID>DLC04ElevatorAnnouncer</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Announcer</Source>
-      <Dest>Hlasatel</Dest>
+      <Dest>Hlásič</Dest>
     </String>
     <String List="0" sID="001396">
       <EDID>DLC04EncBrahmiluffPack</EDID>
@@ -395,13 +395,13 @@
       <EDID>DLC04EncBrahmiluffPack</EDID>
       <REC id="3">NPC_:FULL</REC>
       <Source>Pack Brahmiluff</Source>
-      <Dest>Brahmíňák Šelem</Dest>
+      <Dest>Smečky</Dest>
     </String>
     <String List="0" sID="0015F8">
       <EDID>DLC04CappysCafeLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Cappy's Cafe</Source>
-      <Dest>Cappy Cafe</Dest>
+      <Dest>Kavárna pana Zátky</Dest>
     </String>
     <String List="0" sID="001610">
       <EDID>DLC04CaravanKatelynBrahmin</EDID>
@@ -425,7 +425,7 @@
       <EDID>DLC04EncBrahmiluff02</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Brahmiluff</Source>
-      <Dest>Brahmíňák</Dest>
+      <Dest>brahmůl</Dest>
     </String>
     <String List="0" sID="00187E">
       <EDID>DLC04DialogueHarvey</EDID>
@@ -533,7 +533,7 @@
       <EDID>DLC04DialoguePlayerHellos</EDID>
       <REC>QUST:FULL</REC>
       <Source>Nuka-World Player Hello's</Source>
-      <Dest>Vítejte, hráči Nuka-Worldu</Dest>
+      <Dest>Nuka-World Player Hello's</Dest>
     </String>
     <String List="0" sID="002699">
       <EDID>DLC04CreatureDialogueBloodworm</EDID>
@@ -557,7 +557,7 @@
       <EDID>DLC04DialogueSettlement</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Investigate the Traders in Dry Rock Gulch</Source>
-      <Dest>Pátrej po obchodnících ve Vyprahlé Rokli</Dest>
+      <Dest>Pátrej po obchodnících ve Vyprahlé rokli</Dest>
     </String>
     <String List="0" sID="003279">
       <EDID>DLC04CreatureDialogueSwarm</EDID>
@@ -611,7 +611,7 @@
       <EDID>DLC04DryRockGulchMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Dry Rock Gulch</Source>
-      <Dest>Vyprahlá Rokle</Dest>
+      <Dest>Vyprahlá rokle</Dest>
     </String>
     <String List="0" sID="00385E">
       <EDID>DLC04ClothesRoundSunglasses</EDID>
@@ -641,19 +641,19 @@
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>(Optional) Drop a Giddyup Buttercup in the Corral</Source>
-      <Dest>(Nepovinné) Vezmi Poníka Toníka z ohrady</Dest>
+      <Dest>(Nepovinné) Vysaď Poníka Toníka v ohradě.</Dest>
     </String>
     <String List="0" sID="0038A9">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>(Optional) Serve the Drinks</Source>
-      <Dest>(Nepovinné) Obsluž se nápoji</Dest>
+      <Dest>(Nepovinné) Servíruj drinky</Dest>
     </String>
     <String List="0" sID="0038B0">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Investigate Dry Rock Gulch</Source>
-      <Dest>Prozkoumej Vyprahlou Rokli</Dest>
+      <Dest>Prozkoumej Vyprahlou rokli</Dest>
     </String>
     <String List="0" sID="0038C1">
       <EDID>DLC04Chipmunk_Holotape</EDID>
@@ -689,7 +689,7 @@
       <EDID>DLC04CompanionInfatuationPerkMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Gained "Lessons in Blood" Perk</Source>
-      <Dest>Získáváš perk „Krvavá lekce“</Dest>
+      <Dest>Získáváš perk „Krvavé lekce“</Dest>
     </String>
     <String List="0" sID="003ABD">
       <EDID>DLC04CeilingLight01On</EDID>
@@ -749,7 +749,7 @@
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="10">QUST:NNAM</REC>
       <Source>Kill all the Cowboy Protectrons</Source>
-      <Dest>Zabij všechny protektrony kovboje</Dest>
+      <Dest>Zabij všechny protektrony-kovboje</Dest>
     </String>
     <String List="0" sID="003D9A">
       <EDID>DLC04CorporalDowney_Holotape</EDID>
@@ -773,19 +773,19 @@
       <EDID>DLC04Dusty_Holotape</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>Dusty</Source>
-      <Dest>Zaprášenec</Dest>
+      <Dest>Dusty</Dest>
     </String>
     <String List="0" sID="003DE7">
       <EDID>DLC04CompGageAbility</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Lessons In Blood</Source>
-      <Dest>Krvavá lekce</Dest>
+      <Dest>Krvavé lekce</Dest>
     </String>
     <String List="0" sID="003E10">
       <EDID>DLC04CompGagePerk</EDID>
       <REC>PERK:FULL</REC>
       <Source>Lessons In Blood</Source>
-      <Dest>Krvavá lekce</Dest>
+      <Dest>Krvavé lekce</Dest>
     </String>
     <String List="0" sID="003E9D">
       <EDID>DLC04COMGageHandMadeGun</EDID>
@@ -797,7 +797,7 @@
       <EDID>DLC04COMGageHandMadeGun</EDID>
       <REC id="0">WEAP:FULL</REC>
       <Source>Handmade Rifle</Source>
-      <Dest>Ruční puška</Dest>
+      <Dest>Kutilská puška</Dest>
     </String>
     <String List="0" sID="003EE7">
       <EDID>DLC04COMGageHandMadeGun</EDID>
@@ -815,7 +815,7 @@
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="11">QUST:NNAM</REC>
       <Source>Assign a Gang to Dry Rock Gulch</Source>
-      <Dest>Přiřaď gang do Vyprahlé Rokle</Dest>
+      <Dest>Přiřaď gang do Vyprahlé rokle</Dest>
     </String>
     <String List="0" sID="0040C4">
       <EDID>DLC04DialogueMagsPostMQ05Quest01</EDID>
@@ -839,43 +839,43 @@
       <EDID>DLC04CappyWavingPoseClean</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="00425A">
       <EDID>DLC04CappyWavingPose</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="00425F">
       <EDID>DLC04CappyWavingRuined</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="004282">
       <EDID>DLC04CappySittingWavePose</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="0042A3">
       <EDID>DLC04CappyPointingLeft</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="0042DF">
       <EDID>DLC04CappyPointingRight</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="0042E9">
       <EDID>DLC04CappyPointingRightRuined</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="004326">
       <EDID>DLC04DialogueRaiderDiscipleScenes</EDID>
@@ -887,55 +887,55 @@
       <EDID>DLC04CappyPointingLeftClean</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="004388">
       <EDID>DLC04CappyPointingRightClean</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="00439D">
       <EDID>DLC04CappyPointingLeftRuined</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="0043AC">
       <EDID>DLC04CappySittingWavePoseClean</EDID>
       <REC>STAT:FULL</REC>
       <Source>Cappy Statue</Source>
-      <Dest>Socha zátky</Dest>
+      <Dest>Socha Zátky</Dest>
     </String>
     <String List="0" sID="0043F1">
       <EDID>DLC04DialogueSettlement</EDID>
       <REC id="4">QUST:NNAM</REC>
       <Source>Learn about the Hubologists</Source>
-      <Dest>Vyslechni informace o hubologistech</Dest>
+      <Dest>Zjisti informace o hubologistech</Dest>
     </String>
     <String List="0" sID="0044BD">
       <EDID>DLC04DisciplesMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Fizztop Mountain</Source>
-      <Dest>Šumící hora</Dest>
+      <Dest>Hora Šumák</Dest>
     </String>
     <String List="0" sID="0044D5">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Safety Inspection Results</Source>
-      <Dest>!Drážní inspekce Výsledky</Dest>
+      <Dest>Výsledky bezpečnostní prověrky</Dest>
     </String>
     <String List="0" sID="0044D8">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>On watch for a different reason. Kari has a bit of a conscience. Stopped going on raids, barely leaves Fizztop. Something's up with her. She's either realized this isn't the life for her, or she's been compromised... and if I find out she's turned traitor, I'm going to enjoy every moment I have tearing her apart.</Source>
-      <Dest>!Na hodinkách z jiného důvodu. Kari má trochu svědomí. Přestal chodit na nájezdy, sotva opustí Šumící horu. Něco se děje s ní. Ona je buď si uvědomil, že to není život pro ni, nebo ona byla ohrožena ... a když jsem zjistil, že je zrádce, jdu si vychutnat každý okamžik jsem ji Rozrušuje.</Dest>
+      <Dest>Musím si na ni dávat pozor, z různých důvodů. Kari má trošku svědomí. Přestala chodit na nájezdy, téměř nevychází z Šumáku. Něco s ní je. Buď si uvědomila, že tohle není život pro ni, anebo byla kompromitována... a pokud zjistím, že je to zrádce, užiju si každou vteřinu, kdy ji budu řezat na kousíčky.</Dest>
     </String>
     <String List="0" sID="0044DB">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Pack Traitors</Source>
-      <Dest>Zrádci Šelem</Dest>
+      <Dest>Smečka zrádců</Dest>
     </String>
     <String List="0" sID="0044DF">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -953,7 +953,7 @@
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Drop your messages, threats, ads, whatever here. Remember, if it doesn't violate the rule, it's cool.</Source>
-      <Dest>!Odhoďte zprávy, hrozby, inzeráty, ať zde. Nezapomeňte, že pokud to neporušuje pravidlo, je to v pohodě.</Dest>
+      <Dest>Tady nechte svoje zprávy, výhrůžky, reklamy atd. Pamatujte, pokud to neporušuje pravidlo, je to v pohodě.</Dest>
     </String>
     <String List="0" sID="0044F1">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
@@ -964,12 +964,12 @@
     <String List="0" sID="0044F5">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="3">TERM:UNAM</REC>
-      <Source>Don't trust Ruby. She's a backstabbing bitch that needs to be dealt with. I caught her stealing caps from my personal stash and she had the balls to deny it. Luckily, she can't read, so she doesn't know what she has coming. She doesn't deserve to be one of us.&#xD;
-&#xD;
+      <Source>Don't trust Ruby. She's a backstabbing bitch that needs to be dealt with. I caught her stealing caps from my personal stash and she had the balls to deny it. Luckily, she can't read, so she doesn't know what she has coming. She doesn't deserve to be one of us.
+
 - Paige</Source>
-      <Dest>!Nevěřte Ruby. Je to podrážející mrcha, který je třeba řešit. Chytil jsem ji krást zátky z mé osobní skrýše a ona musela koule to popírat. Naštěstí ona nemůže číst, takže se neví, co ona přijde. Ona si nezaslouží být jedním z nás.&#xD;
-&#xD;
-- Paige</Dest>
+      <Dest>Nevěřte Ruby. Je to podrazácká mrcha, se kterou je třeba se vypořádat. Nachytala jsem ji, jak z mý soukromý skrýše krade zátky a ještě měla tu drzost to popřít. Naštěstí neumí číst, takže netuší, o co se na ni chystá. Nezaslouží si být jednou z nás.
+
+- Paige </Dest>
     </String>
     <String List="0" sID="0044F6">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
@@ -980,53 +980,53 @@
     <String List="0" sID="0044F7">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="0">TERM:UNAM</REC>
-      <Source>Sledge is dead. Wasn't as hard as I thought. After he took me in as a kid, raised me, trained me... I would have thought I'd at least hesitate. But he was the one that "accidentally" had my parents killed to begin with. And then he made the fatal mistake of leaving me behind. Bastard probably thought I was as good as dead, but after all the times I stood by him, seeing that coward tuck tail and run erased any loyalty and respect I ever had for him.&#xD;
-&#xD;
+      <Source>Sledge is dead. Wasn't as hard as I thought. After he took me in as a kid, raised me, trained me... I would have thought I'd at least hesitate. But he was the one that "accidentally" had my parents killed to begin with. And then he made the fatal mistake of leaving me behind. Bastard probably thought I was as good as dead, but after all the times I stood by him, seeing that coward tuck tail and run erased any loyalty and respect I ever had for him.
+
 The best part was the look on his face when I came back. I still don't even know how I managed to escape, but with the amount of blood I had on me, I got a feeling it wasn't pretty for my enemies. After that, I realized just how much of what he said was pure bullshit. I gave him at least a month to listen to me which feels merciful looking back. But it's done now.</Source>
-      <Dest>!Sledge je mrtvý. Nebylo to tak těžké, jak jsem si myslel. Poté, co mě vzal do jako dítě, mě vychovala, trénoval mě ... Já bych si myslel, že bych alespoň váhat. Ale on byl ten, který „náhodou“ se mí rodiče zabili začít. A pak udělal fatální chybu, že za sebou nechal mě. Bastard pravděpodobně myslel, že jsem tak dobrý jako mrtvý, ale po všech těch dob jsem stál u něho, a když viděl, že Coward zastrčit ocas a spustit vymazal jakoukoliv loajalitu a úctu, jakou jsem kdy měl pro něj.&#xD;
-&#xD;
-Nejlepší část byla výraz v jeho tváři, když jsem se vrátil. I přesto ani nevím, jak se mi podařilo uniknout, ale s množstvím krve jsem měl na mě, mám pocit, že nebylo dost na mých nepřátel. Za to, že jsem si uvědomil, kolik z toho, co řekl, bylo čisté kecy. Dal jsem mu alespoň jeden měsíc mě poslouchat, které se cítí milosrdný ohlédnutí. Ale to dělá teď.</Dest>
+      <Dest>Sledge je po smrti. Nebyl tak tuhej, jak jsem si myslela. Potom, co mě přijal, když jsem byla dítě, vychoval mě, vycvičil... Řekla bych si, že alespoň zaváhám. Ale v prvé řadě to byl on, kdo „náhodou“ nechal mé rodiče zabít. A pak udělal fatální chybu: opustil mě. Ten bastard si pravděpodobně myslel, že jsem v podstatě mrtvá, ale potom, co jsem mu stála po boku a tolikrát viděl, jak stahuje ocas a utíká, byly veškerá má loajalita a respekt, co jsem k němu kdy měla, vymazány.
+
+Nejlepší byl ten jeho výraz, když jsem se vrátila. Pořád si nejsem jistá, jak se mi podařilo utéct, ale mám pocit, že podle množství krve, co jsem na sobě měla, to pro moje nepřátelé hezky nedopadlo. Potom jsem si uvědomila, jak velký pytel sraček byly všechny ty jeho kecy. Dala jsem mu minimálně měsíc na to, aby mě poslouchal, což mi teď zpětně připadá milosrdné. Ale už se stalo.</Dest>
     </String>
     <String List="0" sID="0044F8">
       <EDID>DLC04ColaCarsTerminal</EDID>
       <REC id="1">TERM:UNAM</REC>
-      <Source>SCHEDULE&#xD;
-Current shift schedule is posted below.  If you need unscheduled time off, CALL ME. The more advance notice, the better. If you fail to show up for a shift without notice, Bad Things Will Happen.&#xD;
-Thanks guys,&#xD;
-- Rob&#xD;
-&#xD;
-SAT	AM: Rob, Liz&#xD;
-	PM: Kevin, Mike&#xD;
-SUN	AM: Ryan, Rob&#xD;
-	PM: Maria, Nick&#xD;
-MON	AM: Maria, Liz&#xD;
-	PM: Kevin, Mike&#xD;
-TUE	AM: Kevin, Nick&#xD;
-	PM: Maria, Mike&#xD;
-WED	AM: Rob, Liz&#xD;
-	PM: Ryan, Nick&#xD;
-THU	AM: Rob, Liz&#xD;
-	PM: Maria, Mike&#xD;
-FRI	AM: Rob, Maria&#xD;
+      <Source>SCHEDULE
+Current shift schedule is posted below.  If you need unscheduled time off, CALL ME. The more advance notice, the better. If you fail to show up for a shift without notice, Bad Things Will Happen.
+Thanks guys,
+- Rob
+
+SAT	AM: Rob, Liz
+	PM: Kevin, Mike
+SUN	AM: Ryan, Rob
+	PM: Maria, Nick
+MON	AM: Maria, Liz
+	PM: Kevin, Mike
+TUE	AM: Kevin, Nick
+	PM: Maria, Mike
+WED	AM: Rob, Liz
+	PM: Ryan, Nick
+THU	AM: Rob, Liz
+	PM: Maria, Mike
+FRI	AM: Rob, Maria
 	PM: Mike, Ryan</Source>
-      <Dest>PLÁN&#xD;
-Aktuální posun plán je zveřejněn níže. Pokud potřebujete neplánované volno, zavolejte mi. Čím více předběžné oznámení, tím lépe. Pokud se vám nepodaří se ukázat pro změnu bez předchozího upozornění, špatné věci se stanou.&#xD;
-Díky hoši,&#xD;
-- Rob&#xD;
-&#xD;
-SO     R: Rob,   Liz&#xD;
-       O: Kevin, Mike&#xD;
-NE     R: Ryan,  Rob&#xD;
-       O: Maria, Nick&#xD;
-PO     R: Maria, Liz&#xD;
-       O: Kevin, Mike&#xD;
-ÚT     R: Kevin, Nick&#xD;
-       O: Maria, Mike&#xD;
-ST     R: Rob,   Liz&#xD;
-       O: Ryan,  Nick&#xD;
-ČT     R: Rob,   Liz&#xD;
-       O: Maria, Mike&#xD;
-PÁ     R: Rob,   Maria&#xD;
+      <Dest>ROZVRH
+Momentální rozvrh směn je vyvěšen níže. Pokud potřebujete neplánované volno, ZAVOLEJTE MI. Čím dřív dopředu dáte vědět, tím lépe. Pokud se nedostavíte na směnu, aniž byste dali vědět, Nastanou Vám Krušné Časy.
+Díky lidi,
+- Rob
+
+SO     R: Rob,   Liz
+       O: Kevin, Mike
+NE     R: Ryan,  Rob
+       O: Maria, Nick
+PO     R: Maria, Liz
+       O: Kevin, Mike
+ÚT     R: Kevin, Nick
+       O: Maria, Mike
+ST     R: Rob,   Liz
+       O: Ryan,  Nick
+ČT     R: Rob,   Liz
+       O: Maria, Mike
+PÁ     R: Rob,   Maria
        O: Mike,  Ryan</Dest>
     </String>
     <String List="0" sID="0044F9">
@@ -1039,13 +1039,13 @@ PÁ     R: Rob,   Maria&#xD;
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Savoy found the remains of what looks like Josie's handiwork. I have one rule here, people, why is it so damn hard to follow? When you hide a body, not only do you make sure it's hidden, you make sure it's really dead. Savoy said the Pack guy was halfway back to Nuka-Town when he found him. No solid proof that it was Josie besides the fact that she and this guy got into it the other day.</Source>
-      <Dest>!Savoy nalezeny pozůstatky, co vypadá jako Josiiny dílo. Mám jedno pravidlo tady, lidi, proč je tak zatraceně těžké sledovat? Když skrýt tělo, nejen že se ujistit, že to skryté, byste se ujistit, že je opravdu mrtvý. Savoy řekl, že chlap od Šelem byl v půli cesty zpátky k Nuka-Town když ho našel. Žádný pevný důkaz, že to bylo Josie kromě toho, že ona a ten chlápek dostal do něj druhý den.</Dest>
+      <Dest>Savoy našel pozůstatky něčeho, co vypadá jako práce Josie. U mě platí jen jedno pravidlo, lidi, proč je sakra tak těžké se jím řídit? Když ukrýváš tělo, ujisti se nejen, že je schované, ujisti se, že je opravdu mrtvé! Savoy říkal, že ten chlápek od Smečky byl napůl cesty zpátky do Nuka Townu, když ho našel. Není žádný pořádný důkaz, že to byla Josie, kromě faktu, že se do sebe ti dva nedávno pustili.</Dest>
     </String>
     <String List="0" sID="0044FE">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>It's done. Gage pulled it off. Not only did he get some fresh blood in here to replace Colter, but that fresh blood took out Colter at the same time. It's too early to be impressed, though. There's no way to beat Colter without Gage's help, so whether we got a shiny, new Overboss, or another piece of shit dud remains to be seen.</Source>
-      <Dest>!Je to hotovo. Gage to dokázal. Nejenže se mu trochu čerstvou krev tady nahradit Coltera, ale to čerstvá krev vytáhl Coltera ve stejnou dobu. Je příliš brzy na to dojem, ačkoli. Neexistuje žádný způsob, jak porazit Coltera bez Gage nápovědou, takže ať už máme lesklé, nový Overboss, nebo jiný kus hovna Dud zbývá být viděn.</Dest>
+      <Dest>Hotovo. Gage to zvládl. Nejenže sem dostal nějakou čerstvou krev, která by Coltera nahradila, ta čerstvá krev zároveň Coltera sejmula. Je ale příliš brzy na to být ohromená. Není možný, že by někdo porazil Coltera bez pomoci od Gage, takže jestli jsme dostali zbrusu nového Superšéfa, anebo dalšího nefunkční zmetek, to se ještě uvidí.</Dest>
     </String>
     <String List="0" sID="004500">
       <EDID>DLC04ColaCarsTerminal</EDID>
@@ -1080,18 +1080,18 @@ PÁ     R: Rob,   Maria&#xD;
     <String List="0" sID="00450D">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="2">TERM:UNAM</REC>
-      <Source>Looking for someone to upgrade my knife because I don't know jack about metal. I can repay in trade, caps, whatever. Hit me up if you're down. Jokers need not respond.&#xD;
-&#xD;
+      <Source>Looking for someone to upgrade my knife because I don't know jack about metal. I can repay in trade, caps, whatever. Hit me up if you're down. Jokers need not respond.
+
 - Zsu</Source>
-      <Dest>!Při pohledu na někoho, kdo aktualizovat svůj nůž, protože nevím jack o kov. Mohu vrátit v obchodě, zátek? cokoliv. Hit me up, pokud jste dole. Jokers nemusí reagovat.&#xD;
-&#xD;
-- ZSU</Dest>
+      <Dest>Sháním někoho, kdo by mi vylepšit nůž, protože o sám o kovu vím prd. Zaplatit můžou výměnou, zátkami, to je fuk. Dejte mi vědět, pokud jste pro. Vtipálci ať neodpovídají.
+
+- Zsu</Dest>
     </String>
     <String List="0" sID="00450E">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>To Bailey</Source>
-      <Dest>Bailey</Dest>
+      <Dest>Pra Baileyho</Dest>
     </String>
     <String List="0" sID="00450F">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
@@ -1102,12 +1102,10 @@ PÁ     R: Rob,   Maria&#xD;
     <String List="0" sID="004510">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="1">TERM:UNAM</REC>
-      <Source>I left a little surprise for you in the usual spot. Thought you could put it to good use against a certain asshole. Gotta head out to take care of some business, but I'll be back in a few days. Figured you wouldn't want to wait.&#xD;
-&#xD;
+      <Source>I left a little surprise for you in the usual spot. Thought you could put it to good use against a certain asshole. Gotta head out to take care of some business, but I'll be back in a few days. Figured you wouldn't want to wait.
+
 - Marie</Source>
-      <Dest>!Nechal jsem pro vás malé překvapení v obvyklém místě. Myslel jsem, že byste mohli dát ji dobře využít proti určitému kretén. Musím vyrazit postarat se o nějaké činnosti, ale budu zpátky za pár dní. Myslel byste nechtěli čekat.&#xD;
-&#xD;
-- Marie</Dest>
+      <Dest>Nechala jsem ti na obvyklým místě malý překvapení. Napadlo mě, že bys to mohl použít proti jistýmu kreténovi. Musím si teď něco zařídit, ale za pár dní se vrátím. Řekla jsem si, že nebudeš chtít čekat.</Dest>
     </String>
     <String List="0" sID="004511">
       <EDID>DLC04DisciplesGeneric</EDID>
@@ -1118,96 +1116,96 @@ PÁ     R: Rob,   Maria&#xD;
     <String List="0" sID="004514">
       <EDID>DLC04ColaCarsTerminal</EDID>
       <REC id="0">TERM:UNAM</REC>
-      <Source>Entry ID 087701 (Boone)&#xD;
-Replaced contact pole mounting in cab 6&#xD;
-&#xD;
-Entry ID 087702 (Boone)&#xD;
-All cabs cleaned&#xD;
-&#xD;
-Entry ID 087703 (Edgemont)&#xD;
-Belt replacement, cab 1&#xD;
-&#xD;
-Entry ID 097701 (Edgemont)&#xD;
-Replaced worn contact panel, cabs 3 and 8&#xD;
-&#xD;
-Entry ID 097702 (Boone)&#xD;
-Emergency floor cleaning (sick child)&#xD;
-&#xD;
-Entry ID 097703 (Edgemont)&#xD;
-Repalced steering wheels, cabs 1, 4, 6&#xD;
-&#xD;
-Entry ID 097704 (Boone)&#xD;
-Replace wiring in remote master switch panel&#xD;
-&#xD;
-Entry ID 107701 (Boone)&#xD;
-Damaged font bumper replaced, cab 7&#xD;
-&#xD;
-Entry ID 107702 (Boone)&#xD;
-Emergency cab cleaning (child bodily functions accident), cab2&#xD;
-&#xD;
-Entry ID 107703 (Edgemont)&#xD;
-Replaced motor unit, cab 3&#xD;
-&#xD;
-Entry ID 107704 (Boone)&#xD;
-Recalibrated accelerator (descreased sensitivity), cab 5&#xD;
+      <Source>Entry ID 087701 (Boone)
+Replaced contact pole mounting in cab 6
+
+Entry ID 087702 (Boone)
+All cabs cleaned
+
+Entry ID 087703 (Edgemont)
+Belt replacement, cab 1
+
+Entry ID 097701 (Edgemont)
+Replaced worn contact panel, cabs 3 and 8
+
+Entry ID 097702 (Boone)
+Emergency floor cleaning (sick child)
+
+Entry ID 097703 (Edgemont)
+Repalced steering wheels, cabs 1, 4, 6
+
+Entry ID 097704 (Boone)
+Replace wiring in remote master switch panel
+
+Entry ID 107701 (Boone)
+Damaged font bumper replaced, cab 7
+
+Entry ID 107702 (Boone)
+Emergency cab cleaning (child bodily functions accident), cab2
+
+Entry ID 107703 (Edgemont)
+Replaced motor unit, cab 3
+
+Entry ID 107704 (Boone)
+Recalibrated accelerator (descreased sensitivity), cab 5
 (Archived entries available in Adminsitration)</Source>
-      <Dest>!Vstup ID 087701 (Boone)&#xD;
-Nahradil kontakt tyč montáž do kabiny: 6&#xD;
-&#xD;
-ID položky 087702 (Boone)&#xD;
-všechny kabiny čištěné&#xD;
-&#xD;
-entry ID 087703 (Edgemont)&#xD;
-Výměna řemenu, kabina 1&#xD;
-&#xD;
-entry ID 097701 (Edgemont)&#xD;
-Nahrazeno opotřebované kontakt panel, kabiny 3 a čištění 8&#xD;
-&#xD;
-Entry ID 097702 (Boone)&#xD;
-Emergency podlaha (nemocné dítě)&#xD;
-&#xD;
-Entry ID 097703 (Edgemont)&#xD;
-Nahrazeny volanty, kabiny 1, 4, 6&#xD;
-&#xD;
-Entry ID 097704 (Boone )&#xD;
-Vyměňte kabeláž v panelu dálkového ovládání Hlavní vypínač&#xD;
-&#xD;
-Entry ID 107701 (Boone)&#xD;
-poškozené písmo nárazník nahrazen, cab 7&#xD;
-&#xD;
-Entry ID 107702 (čistící Boone)&#xD;
-Emergency kabina (dítě tělesné funkce nehoda), cab2&#xD;
-&#xD;
-Entry ID 107703 (Edgemont)&#xD;
-Nahradil motorovou jednotku, cab 3&#xD;
-&#xD;
-Entry ID 107704 (Boone)&#xD;
-rekalibrován urychlovač (descreased citlivost), cab 5&#xD;
-(archivované položky k dispozici v Adminsitration)</Dest>
+      <Dest>Záznam ID 087701 (Boone)
+Nahrazena podpěra kontaktní oje ve voze 6
+
+Záznam ID 087702 (Boone)
+Všechny vozy vyčištěny
+
+Záznam ID 087703 (Edgemont)
+Výměna řemenu, vůz 1
+
+Záznam ID 097701 (Edgemont)
+Nahrazen opotřebovaný kontaktní panel, vůz 1 a 8
+
+Záznam ID 097702 (Boone)
+Pohotovostní čištění podlahy (nevolnost dítěte)
+
+Záznam ID 097703 (Edgemont)
+Nahrazeny volanty, vozy 1, 4, 6
+
+Záznam ID 097704 (Boone)
+Výměna kabeláže v hlavním dálkovém ovládacím panelu
+
+Záznam ID 107701 (Boone)
+Poškozený přední nárazník vyměněn, vůz 7
+
+Záznam ID 107702 (Boone)
+Pohotovostní čištění vozu (nehoda tělních funkcí dítěte), vůz2
+
+Záznam ID 107703 (Edgemont)
+Nahrazena motorová jednotka, vůz 3
+
+Entry ID 107704 (Boone)
+Plynový pedál rekalibrován (snížena citlivot), vůz 5
+(Archivované záznamy jsou dostupné v Administraci)</Dest>
     </String>
     <String List="0" sID="004515">
       <EDID>DLC04ColaCarsTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Message Index</Source>
-      <Dest>!Index Zpráva</Dest>
+      <Dest>Index zpráv</Dest>
     </String>
     <String List="0" sID="004517">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Reminder to self, there are no warnings here. Anyone who violates the rule or betrays the Disciples deserves worse than death.</Source>
-      <Dest>!Připomínka pro tebe, existuje zde žádné varování. Každý, kdo poruší pravidla, nebo zradí Stoupence si zaslouží horší než smrt.</Dest>
+      <Dest>Připomínka pro sebe, žádná varování tady neplatí. Kdokoli, kdo poruší pravidlo nebo zradí Stoupence, si zaslouží něco horšího než smrt.</Dest>
     </String>
     <String List="0" sID="004519">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="6">TERM:UNAM</REC>
       <Source>Looks like our new Overboss is the real deal. Not only did we take all of Nuka-World, but the Pack are out. Bye bye Mason and his smelly herd of sheep. Sure, Mags is still around with her shit-for-brains brother, but whatever. If we need to deal with them, there'd be no contest. Let's just hope this new Overboss keeps it up, and doesn't get lazy like Colter. We allowed Gage one screw up. Never again.</Source>
-      <Dest>!Vypadá to, že náš nový Overboss je real deal. Nejen, že jsme se všichni Nuka-World, ale Šelmy jsou mimo. Bye bye, Masone a tvoje páchnoucí stádo ovcí. Jistě, Mags je stále kolem s ní hovno-for-mozky bratr, ale co. Chceme-li se s nimi vypořádat, by existovat žádná soutěž. Jen doufejme, že tento nový Overboss udržuje ji vzhůru, a nedostane líný jako Colter. Dovolili jsme Gage jeden zkazit. Nikdy znovu.</Dest>
+      <Dest>Zdá se, že náš nový Superšéf za něco stojí. Nejenže jsme zabrali celý Nuka-World, ale ještě k tomu je Smečka mimo hru. Dejme sbohem Masonovi a jeho smradlavé smečce ovcí. Jasně, Mags a její vymatlaný brácha tu pořád je, ale to je fuk. Pokud je budeme potřebovat vyřídit, bude to brnkačka. Doufejme jen, že si tenhle nový Superšéf udrží kvalitu a nezlenivý jako Colter. Jeden průser jsme Gageovi dovolili. Další už ne.</Dest>
     </String>
     <String List="0" sID="00451E">
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Slice and Dice</Source>
-      <Dest>!To dovolovalo</Dest>
+      <Dest>Nasekat a nakrájet</Dest>
     </String>
     <String List="0" sID="00451F">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
@@ -1230,44 +1228,44 @@ rekalibrován urychlovač (descreased citlivost), cab 5&#xD;
     <String List="0" sID="004530">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="2">TERM:UNAM</REC>
-      <Source>Over the past several days, we've received some troubling reports regarding the compliance of park employees with the rules for the Cappy scavenger hunt contest. &#xD;
-&#xD;
-In the event that these lapses are due to a lack of clarity regarding what is and is not acceptable behavior, please review this message carefully.&#xD;
-&#xD;
-Under no circumstances shall any park employee provide a hint, suggestion or other form of direction to any park guest regarding the location of any Hidden Cappy image. &#xD;
-&#xD;
-Should any such behavior be observed and reported, punitive measures will be swiftly taken, up to and including immediate termination.&#xD;
-&#xD;
-The proper way to respond to such inquiries is to encourage persistence. The contest is challenging by design, and the reward unique. &#xD;
-&#xD;
-That reward must be earned by diligence and observation on the part of our guests, not by cheating and favoritism on the part of our park employees.&#xD;
-&#xD;
-Thank you for your cooperation in this matter.&#xD;
-&#xD;
-T. O'Connor&#xD;
+      <Source>Over the past several days, we've received some troubling reports regarding the compliance of park employees with the rules for the Cappy scavenger hunt contest. 
+
+In the event that these lapses are due to a lack of clarity regarding what is and is not acceptable behavior, please review this message carefully.
+
+Under no circumstances shall any park employee provide a hint, suggestion or other form of direction to any park guest regarding the location of any Hidden Cappy image. 
+
+Should any such behavior be observed and reported, punitive measures will be swiftly taken, up to and including immediate termination.
+
+The proper way to respond to such inquiries is to encourage persistence. The contest is challenging by design, and the reward unique. 
+
+That reward must be earned by diligence and observation on the part of our guests, not by cheating and favoritism on the part of our park employees.
+
+Thank you for your cooperation in this matter.
+
+T. O'Connor
 Director, Human Resources</Source>
-      <Dest>!Během několika posledních dnech jsme obdrželi několik znepokojujících zpráv o dodržování zaměstnanců parku s pravidly pro Cappy lov soutěže.&#xD;
-&#xD;
-V případě, že tyto výpadky jsou způsobeny nedostatkem jasnosti, pokud jde o to, co je a co není přijatelné chování, přečtěte si prosím tuto zprávu pečlivě.&#xD;
-&#xD;
-Za žádných okolností nesmí kterýkoliv parku zaměstnanec poskytnout náznak, tip nebo jinou formu směrem k jakémukoli parku hostem, pokud jde o umístění libovolného obrázku Hidden Cappy.&#xD;
-&#xD;
-Měly by být sledovány a zaznamenávány jakékoliv takové chování, represivní opatření budou urychleně přijata, a to až to včetně okamžitého rozvázání.&#xD;
-&#xD;
-Správný způsob, jak reagovat na tyto dotazy je podpořit vytrvalost. Soutěž je náročná záměrné, a odměnou jedinečný.&#xD;
-&#xD;
-To odměna musí být vydělal pílí a pozorování ze strany našich hostů, ne podvádění a zvýhodňování ze strany našich zaměstnanců parku.&#xD;
-&#xD;
-Děkujeme vám za spolupráci v této záležitosti.&#xD;
-&#xD;
-T. O'Connor&#xD;
-ředitel pro lidské zdroje</Dest>
+      <Dest>Během posledních několika dní jsme obdrželi znepokojivé zprávy ohledně toho, jak zaměstnanci parku nedodržují pravidla soutěže ve sběru ukrytých pánů Zátek.
+
+V případě, že k těmto událostem dochází kvůli nejasnostem ohledně toho, co je a co není přípustné jednání, prosím, pečlivě prostudujte tuto zprávu.
+
+Zaměstnanec parku nesmí za žádných okolností poskytnout nápovědu, návrh nebo jinou formu instrukcí žádnému návštěvníkovi parku týkající se lokace kteréhokoli obrázku Schované Zátky.
+
+Pokud bude takové jednání pozorováno a nahlášeno, budou okamžitě přijata kárná opatření zahrnující i okamžité propuštění.
+
+Správný způsob, jak odpovídat na podobné dotazy, je vyzývat k vytrvalosti. Soutěž je navržena tak, aby se jednalo o výzvu, a odměna je jedinečná.
+
+Odměnu si musí naši hosté zasloužit skrze pečlivost a pozorovatelské dovednosti, nikoli podvádením nebo nadržováním od zaměstnanců parku.
+
+Děkuji vám za spolupráci v této záležitosti.
+
+T. O'Connor
+Ředitel, Lidské zdroje</Dest>
     </String>
     <String List="0" sID="004531">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Private Entries:</Source>
-      <Dest>!Soukromé Přihlášky:</Dest>
+      <Dest>Soukromé záznamy:</Dest>
     </String>
     <String List="0" sID="004535">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -1279,7 +1277,7 @@ T. O'Connor&#xD;
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Whoever pissed in my helmet, you're dead. That's some real Pack level shit right there.</Source>
-      <Dest>!Ten, kdo naštvaný na helmě, jsi mrtvý. To je nějaká úroveň skutečné Šelmy hovno právě tam.</Dest>
+      <Dest>Ty, který jsi mi nachcal do helmy, seš mrtvej. To je teda řádná smečkařovina.</Dest>
     </String>
     <String List="0" sID="00453D">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -1309,13 +1307,13 @@ T. O'Connor&#xD;
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="3">TERM:UNAM</REC>
       <Source>The Pack have officially lost their shit and turned traitor. Kill on site.</Source>
-      <Dest>!Šelmy oficiálně ztratily hovno a zrádce. Zabít na místě.</Dest>
+      <Dest>Smečce oficiálně přeskočilo a jsou z nich zrádci. Zabíjet na místě.</Dest>
     </String>
     <String List="0" sID="004559">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC>TERM:BTXT</REC>
       <Source>All announcements posted by Nisha, so spread the word.</Source>
-      <Dest>!Všechna hlášení vyslán Nisha, takže šířit slovo.</Dest>
+      <Dest>Všechna oznámení postovaná Nishou, takže to šiřte.</Dest>
     </String>
     <String List="0" sID="00455D">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -1326,11 +1324,11 @@ T. O'Connor&#xD;
     <String List="0" sID="004560">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="0">TERM:UNAM</REC>
-      <Source>Just a reminder, we have one rule here at Nuka-World: you kill someone from another gang, don't get caught. If I see evidence of ANYONE here violating this rule, I'll take care of you personally.&#xD;
-&#xD;
+      <Source>Just a reminder, we have one rule here at Nuka-World: you kill someone from another gang, don't get caught. If I see evidence of ANYONE here violating this rule, I'll take care of you personally.
+
 - Nisha</Source>
-      <Dest>!Jen připomínka, máme jedno pravidlo zde v Nuka-World: zabijete někoho z jiného gangu, ne se chytit. Když vidím důkaz tady někdo poruší toto pravidlo, postarám se o tebe osobně.&#xD;
-&#xD;
+      <Dest>Pouze připomínám, že tady v Nuka-Worldu máme jedno pravidlo: když zabiješ někoho z jinýho gangu, nenech se chytit. Pokud uvidím důkazy, že KDOKOLI tohle pravidlo porušuje, osobně se o tebe postarám.
+
 - Nisha</Dest>
     </String>
     <String List="0" sID="004563">
@@ -1343,57 +1341,57 @@ T. O'Connor&#xD;
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Night Raid - Who's In?</Source>
-      <Dest>!Noční Raid - Kdo to?</Dest>
+      <Dest>Noční nájezd – kdo je pro?</Dest>
     </String>
     <String List="0" sID="004566">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>New Overboss</Source>
-      <Dest>Nový Overboss</Dest>
+      <Dest>Nový Superšéf</Dest>
     </String>
     <String List="0" sID="00456E">
       <EDID>DLC04DisciplesGeneric</EDID>
       <REC>TERM:BTXT</REC>
-      <Source>This terminal is open to ALL Disciples that want to use it. If you don't want it seen, fuck off. Most importantly, don't forget THE RULE. &#xD;
-&#xD;
+      <Source>This terminal is open to ALL Disciples that want to use it. If you don't want it seen, fuck off. Most importantly, don't forget THE RULE. 
+
 P.S. If you can't read this, you're an asshole.</Source>
-      <Dest>!Tento terminál je otevřen všem Stoupencům, kteří chtějí používat. Pokud nechcete, aby to viděli, do prdele. A co je nejdůležitější, nezapomeňte pravidlem.&#xD;
-&#xD;
-P. S. Pokud nemůžete přečíst, jsi idiot.</Dest>
+      <Dest>Tento terminál je otevřen VŠEM stoupencům, kteří ho chtějí využívat. Pokud nechcete, aby to někdo viděl, běžte do prdele. A hlavně, nezapomínejte na PRAVIDLO.
+
+P. S. Pokud nemůžeš přečíst, jsi kretén.</Dest>
     </String>
     <String List="0" sID="004570">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="1">TERM:UNAM</REC>
-      <Source>With Sledge dead, along with any other asshole who didn't want to follow me, there's been a lot of changes around here. I've been calling ourselves the Disciples. We follow the natural way of the world: kill or be killed, survival of the fittest, that kinda stuff. In times like these, it's the only thing that makes sense. I watch these farmers, much like my own parents, struggle for some sense of civilization, only to be crushed by Super Mutants, radscorps, or, of course, Raiders. There's nothing friendly about this world, and the only way to beat it is to be better. &#xD;
-&#xD;
+      <Source>With Sledge dead, along with any other asshole who didn't want to follow me, there's been a lot of changes around here. I've been calling ourselves the Disciples. We follow the natural way of the world: kill or be killed, survival of the fittest, that kinda stuff. In times like these, it's the only thing that makes sense. I watch these farmers, much like my own parents, struggle for some sense of civilization, only to be crushed by Super Mutants, radscorps, or, of course, Raiders. There's nothing friendly about this world, and the only way to beat it is to be better. 
+
 We've already managed to get a pretty good rep around here. Word spreads fast and apparently way further than I thought. I got some message from a guy named Gage. Says he wants to talk, make a deal. Seems interesting. I almost felt guilty cutting the messenger's throat.</Source>
-      <Dest>!S Sledge mrtvých, spolu s jakýmkoli jiným kretén, který nechtěl, aby mě následovali, je tam mnoho změn tady. Byl jsem volat sami Stoupenci. Sledujeme přirozenou cestou světa: zabít nebo být zabit, přežití nejvhodnější, že trochu věci. V dobách, jako jsou tyto, je to jediná věc, která dává smysl. Dívám se tito zemědělci, stejně jako mých vlastních rodičů, boj o jistém smyslu civilizace, jen aby byl rozdrcený supermutanty, radškorpiony nebo samozřejmě nájezdníky. Na tom není nic přátelský o tomto světě, a jediný způsob, jak porazit to je být lepší.&#xD;
-&#xD;
-Už jsme se podařilo získat velmi dobrou reputaci tady. Slovo šíří rychle a zřejmě způsob, jak dál, než jsem si myslel. Dostal jsem nějakou zprávu od chlápka jménem Gage. Říká, že chce mluvit, uzavřít dohodu. Vypadá zajímavě. Skoro jsem se cítil provinile řezání hrdlo posla.</Dest>
+      <Dest>Když je teď Sledge mrtvý (spolu se všemi ostatními sráči, kteří mě nechtěl následovat), nastalo tu dost změn. Začala jsem nám říkat Stoupenci. Uznáváme přirozený zákon tohohle světa: zabij nebo buď zabit, přežití nejschopnějších a tak podobně. V době, jako je tahle, jenom tohle dává smysl. Vídám tyhle farmáře, jsou jako moji rodiče, jak se lopotí pro špetku civilizace... jenom aby byli ve výsledku rozdrceni supermutanty, radškorpiony nebo, samozřejmě, nájezdníky. Na tomhle světě není nic přátelského a jediný způsob, jak ho porazit, je být lepší.
+
+Už teď se mi tu povedlo získat slušnou reputaci. Zvěsti se šíří rychle a zdá se, že i dál, než jsem si myslela. Dostala jsem zprávu od chlápka jménem Gage. Říká, že si chce promluvit, uzavřít dohodu. Zní to zajímavě. Skoro jsem se cítila blbě, když jsem tomu poslíčkovi podřízla krk.</Dest>
     </String>
     <String List="0" sID="004580">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="4">TERM:UNAM</REC>
-      <Source>Everyone,&#xD;
-&#xD;
-Remember that we're shut down on Monday and Tuesday of next week for the electrical work. Those of you who weren't re-assigned can stay home. And before you ask, no, it's not paid leave. Sorry folks. &#xD;
-&#xD;
-Hope you can at least enjoy the downtime. See you back on Wednesday.&#xD;
-&#xD;
+      <Source>Everyone,
+
+Remember that we're shut down on Monday and Tuesday of next week for the electrical work. Those of you who weren't re-assigned can stay home. And before you ask, no, it's not paid leave. Sorry folks. 
+
+Hope you can at least enjoy the downtime. See you back on Wednesday.
+
 - Rob</Source>
-      <Dest>!Každý,&#xD;
-&#xD;
-Nezapomeňte, že jsme vypnout v pondělí a úterý příštího týdne pro elektrické práce. Ti z vás, kteří nebyli znovu přidělen mohou zůstat doma. A než se zeptáš, ne, to není placenou dovolenou. Promiňte lidi.&#xD;
-&#xD;
-Doufám, že si můžete alespoň nyní prostoje. Nashledanou zpátky ve středu.&#xD;
-&#xD;
+      <Dest>Pro všechny,
+
+Nezapomeňte, že máme příští týden v pondělí a úterý zavřeno kvůli práci na elektrice. Ti z vás, kteří nebyli přeřazeni, mohou zůstat doma. A než se zeptáte, ne, nejde o placené volno. Sorry, lidi.
+
+Doufám, že si tu pauzu alespoň užijete. Uvidíme se zase ve středu.
+
 - Rob</Dest>
     </String>
     <String List="0" sID="004598">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Rumors are saying Ruby's stealing from our own. Not sure what pisses me off more, that she's stealing from us or that she got caught. Either way, I don't have any proof besides Paige's claim, and Paige was probably too high on jet to trust. Going to let this sit for now and see how it goes. </Source>
-      <Dest>!Pověsti říkají Ruby okrádat naše vlastní. Nejste si jisti, co sere mě to víc, že se krade od nás, nebo že se chytli. Ať tak či onak, nemám žádný důkaz kromě nároku Paigea a Paige byl pravděpodobně příliš vysoko na jet důvěřovat. Nechám to sedět a uvidíte, jak to chodí.</Dest>
+      <Dest>Říká se, že Ruby krade od našich. Nevím, co mě sere víc, jestli to, že nás okrádá, anebo že se nechala chytit. Ať je to jak chce, kromě tvrzení od Paige nemám žádné důkazy a Paige byla pravděpodobně příliš sjetá jetem na to, aby se jí dalo věřit. Zatím to nechám být a uvidíme, jak se to vyvrbí.</Dest>
     </String>
     <String List="0" sID="00459C">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
@@ -1405,17 +1403,17 @@ Doufám, že si můžete alespoň nyní prostoje. Nashledanou zpátky ve středu
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Anyone bored as shit can meet up at the main gates at dusk. Heard there's a caravan passing nearby. Gonna find some live ones to run the Gauntlet. Whatever supplies they got are just icing on the cake.</Source>
-      <Dest>!Každý, kdo nudí jako hovno lze setkat u hlavní brány za soumraku. Slyšel tu karavana prochází v blízkosti. Najde nějaké ty živé ke spuštění rukavici. Ať zásoby se dostali právě třešničkou na dortu.</Dest>
+      <Dest>Pro všechny, kdo se už nudí jak sfiňa, sejdeme se u hlavní brány za soumraku. Slyšel jsem, že poblíž projíždí karavana. Najdeme si nějaké živé, co poběží Uličkou. Jejich zásoby, pokud nějaké mají, budou už jen třešničkou na dortu.</Dest>
     </String>
     <String List="0" sID="0045B2">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="3">TERM:UNAM</REC>
-      <Source>It's been almost a year at Nuka-World with no movement from Colter. The only bonus was building the Gauntlet. It's at least mildly entertaining and helps keep us... calm. But it's time for a change. I can tell the other leaders aren't happy. If Colter doesn't make a move soon, both him and Gage are going to find themselves at the other end of my knife.&#xD;
-&#xD;
+      <Source>It's been almost a year at Nuka-World with no movement from Colter. The only bonus was building the Gauntlet. It's at least mildly entertaining and helps keep us... calm. But it's time for a change. I can tell the other leaders aren't happy. If Colter doesn't make a move soon, both him and Gage are going to find themselves at the other end of my knife.
+
 Updated: Apparently, Mags, Mason, and I aren't the only ones getting anxious. Gage stopped by, which I gotta admit, took some balls. He's got a plan to get rid of Colter and get a new Overboss to replace him. Also known as a plan to save his own ass. Might as well throw Colter under the bus, and let him take the fall. He knows he can't promote me, Mason, or Mags without all hell breaking loose, so he better know what he's doing. </Source>
-      <Dest>!Je to už téměř rok na Nuka-World bez pohybu z Colter. Jedinou bonus stavěl rukavici. Je to alespoň mírně zábavné a pomáhá udržovat nás ... v klidu. Ale je čas na změnu. Mohu vám říci, že jiní vůdcové nejsou spokojeni. Pokud Colter nedělá tah brzy, jak on a Gage budou ocitnou na druhém konci mého nože.&#xD;
-&#xD;
-Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost. Gage zastavil, což musím přiznat, že udělal několik míčů. Má plán, jak se zbavit Colter a získat nové Overboss nahradit jej. Také známý jako plán zachránit svůj vlastní zadek. Možná i hodit Coltera pod autobus, a nabeř pád. Ví, že může mi, zedník nebo Mags nepropaguje bez peklo lámání volné, takže se lépe poznat, co dělá.</Dest>
+      <Dest>Už je to skoro rok v Nuka-Worldu a Colter zatím nic nepodnikl. Jediným bonusem bylo postavení Uličky. Je to alespoň trošku zábava a udržuje nás to... v klidu. Ale je čas na změnu. Vím, že i ostatní vůdci nejsou spokojení. Pokud se Colter brzo nerozhoupe, on i Gage se hezky zblízka seznámí s mým nožem.
+
+Aktualizováno: Zdá se, že to začíná lézt na nervy nejen mně, Mags a Masonovi. Zastavil se tu Gage, což, musím uznat, chtělo docela odvahu. Má plán, jak se zbavit Coltera a nahradit ho novým Superšéfem. Plán, který je taky znám jako „jak si zachránit vlastní prdel“. Obětovat Coltera a udělat to tak, aby to schytal on... proč ne. Ví, že nemůže povýšit mě, Masona nebo Mags, aniž bychom se do sebe všichni nepustili. Doufám teda, že ví, co dělá.</Dest>
     </String>
     <String List="0" sID="0045B8">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
@@ -1427,7 +1425,7 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Gimme Upgrades</Source>
-      <Dest>!Dejte mi Aktualizace</Dest>
+      <Dest>Dejte mi upgrady</Dest>
     </String>
     <String List="0" sID="0045C3">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -1439,7 +1437,7 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
       <EDID>DLC04ColaCarsTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Employee Schedule</Source>
-      <Dest>!Plán zaměstnanec</Dest>
+      <Dest>Rozvrh zaměstnanců</Dest>
     </String>
     <String List="0" sID="0045CD">
       <EDID>DLC04DisciplesGeneric</EDID>
@@ -1451,13 +1449,13 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Operators have officially lost their shit and turned traitor. Kill on site.</Source>
-      <Dest>!Provozáci oficiálně ztratily hovno a zrádce. Zabít na místě.</Dest>
+      <Dest>Provozákům oficiálně přeskočilo a jsou z nich zrádci. Zabíjet na místě.</Dest>
     </String>
     <String List="0" sID="0045D2">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="4">TERM:UNAM</REC>
       <Source>Believe or not, the Overboss pulled through. Nuka-World is officially up and running. We may still share it with the Pack, and THE RULE still applies, but we're one step closer to where we need to be. With the Operators out of the picture, the Pack would be no match for us should we decide this arrangement is no longer beneficial. </Source>
-      <Dest>!Věřte nebo ne, Overboss protahován. Nuka-World je oficiálně nahoru a běh. Můžeme i nadále sdílet s Šelmami a stále platí pravidlem, ale my jsme o krok blíže k místu, kde potřebujeme být. S Provozáky mimo obraz, Šelmy by žádný zápas pro nás bychom se měli rozhodnout, toto uspořádání je už ne prospěšné.</Dest>
+      <Dest>Věřte tomu, nebo ne, ale Superšéf je co k čemu. Nuka-World je oficiálně zprovozněn. Sice ho stále musíme sdílet se Smečkou a PRAVIDLO pořád platí, ale jsme o krok blíže, abychom dosáhli svého. Když jsou teď Provozáci mimo hru, nebude se Smečkou žádný problém, pokud se rozhodneme, že nám současná dohoda nevyhovuje. </Dest>
     </String>
     <String List="0" sID="0045D4">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
@@ -1468,30 +1466,30 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
     <String List="0" sID="0045D7">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="1">TERM:UNAM</REC>
-      <Source>So we just got ourselves a new Overboss. Our one rule still applies. Anyone has a problem, they can take it up with me.&#xD;
-&#xD;
+      <Source>So we just got ourselves a new Overboss. Our one rule still applies. Anyone has a problem, they can take it up with me.
+
 - Nisha</Source>
-      <Dest>!Tak jsme právě dostali sami novou Overboss. Naše jedno pravidlo stále platí. Každý, kdo má nějaký problém, mohou si ji se mnou.&#xD;
-&#xD;
+      <Dest>Tak máme nového Superšéfa. Naše jedno pravidlo stále platí. Pokud s tím má někdo problém, může si to vyřídit se mnou.
+
 - Nisha</Dest>
     </String>
     <String List="0" sID="0045D8">
       <EDID>DLC04DisciplesGeneric</EDID>
       <REC>TERM:NAM0</REC>
       <Source>RobCo Industries can SUCK IT</Source>
-      <Dest>RobCo Industries mi můžou vykouřit</Dest>
+      <Dest>RobCo Industries mi můžou nasrat</Dest>
     </String>
     <String List="0" sID="0045DF">
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>Believe or not, the Overboss pulled through. Nuka-World is officially up and running. We may still share it with the Operators, and THE RULE still applies, but we're one step closer to where we need to be. With the Pack out of the picture, the Operators would be no match for us should we decide this arrangement is no longer beneficial. </Source>
-      <Dest>!Věřte nebo ne, Overboss protahován. Nuka-World je oficiálně nahoru a běh. Můžeme i nadále sdílet s Provozáky, a stále platí pravidlem, ale my jsme o krok blíže k místu, kde potřebujeme být. S Šelmami mimo obraz, Provozáci by žádný zápas pro nás bychom se měli rozhodnout, toto uspořádání je už ne prospěšné.</Dest>
+      <Dest>Věřte tomu, nebo ne, ale Superšéf je co k čemu. Nuka-World je oficiálně zprovozněn. Sice ho stále musíme sdílet s Provozáky a PRAVIDLO pořád platí, ale jsme o krok blíže, abychom dosáhli svého. Když je teď Smečka mimo hru, nebude s Provozáky žádný problém, pokud se rozhodneme, že nám současná dohoda nevyhovuje. </Dest>
     </String>
     <String List="0" sID="0045E6">
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Anyone interested in a night raid, meet up at the monorail station at midnight.</Source>
-      <Dest>!Zájemci v nočním náletu, setkat se na stanici jednokolejky o půlnoci.</Dest>
+      <Dest>Pro ty, co mají zájem o noční nájezd, sejdeme se o půlnoci u jednokolejky.</Dest>
     </String>
     <String List="0" sID="0045E8">
       <EDID>DLC04DisciplesGeneric_Messages</EDID>
@@ -1503,7 +1501,7 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
       <EDID>DLC04DisciplesGeneric_Announcements</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Operator Traitors</Source>
-      <Dest>Provozák zrádce</Dest>
+      <Dest>Zrádci Provozáci</Dest>
     </String>
     <String List="0" sID="0045F4">
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
@@ -1526,50 +1524,50 @@ Aktualizováno: Zdá se, že Mags, zedník, a já nejsme jediní dostat úzkost.
     <String List="0" sID="0045FF">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="3">TERM:UNAM</REC>
-      <Source>This is an exciting time for all of us. Nuka-Cola Quantum has made its public debut, featuring one of the most unique flavors we've ever produced, not to mention a visually striking appearance. It is truly a time for celebration.&#xD;
-&#xD;
-I encourage everyone to get into the spirit of this landmark event by promoting Nuka-Cola Quantum at every opportunity. Let all of our guests know just how amazing and irresistible you find the flavor of Nuka-Cola Quantum to be. Suggest that our patrons try some at their next available opportunity, if not right away. &#xD;
-&#xD;
-We have a considerable inventory to move, but more importantly, we want to make the best first impression possible, and we'll only have that opportunity once, right now.&#xD;
-&#xD;
-Those employees who are seen to demonstrate particular enthusiasm toward Nuka-Cola Quantum will be awarded a discretionary bonus. Let's get out there and earn it! &#xD;
-&#xD;
-With your help, I believe we can make this the greatest product launch in the history of the Nuka-Cola Corporation.&#xD;
-&#xD;
+      <Source>This is an exciting time for all of us. Nuka-Cola Quantum has made its public debut, featuring one of the most unique flavors we've ever produced, not to mention a visually striking appearance. It is truly a time for celebration.
+
+I encourage everyone to get into the spirit of this landmark event by promoting Nuka-Cola Quantum at every opportunity. Let all of our guests know just how amazing and irresistible you find the flavor of Nuka-Cola Quantum to be. Suggest that our patrons try some at their next available opportunity, if not right away. 
+
+We have a considerable inventory to move, but more importantly, we want to make the best first impression possible, and we'll only have that opportunity once, right now.
+
+Those employees who are seen to demonstrate particular enthusiasm toward Nuka-Cola Quantum will be awarded a discretionary bonus. Let's get out there and earn it! 
+
+With your help, I believe we can make this the greatest product launch in the history of the Nuka-Cola Corporation.
+
 JCB</Source>
-      <Dest>!Je to vzrušující doba pro nás všechny. Nuka-Cola Quantum učinil svou veřejnou premiéru, představovat jeden z nejvíce jedinečných chutí, jaké jsme kdy vyrobených, nemluvě o vizuálně nápadný vzhled. Je to opravdu čas k oslavě.&#xD;
-&#xD;
-Chtěl bych vyzvat všechny, aby dostat se do ducha této přelomové události podporou Nuka-Cola Quantum při každé příležitosti. Nechť všichni naši hosté jen vědět, jak úžasné a neodolatelné najít chuť Nuka-Cola Quantum být. Naznačují, že naši patroni vyzkoušet některé na své nejbližší vhodné příležitosti, pokud ne hned.&#xD;
-&#xD;
-Máme značný inventář pohybovat, ale co je důležitější, chceme, aby to nejlepší první dojem je to možné, a budeme mít jen tu příležitost jednou, právě teď.&#xD;
-&#xD;
-Ti zaměstnanci, kteří jsou vidět demonstrovat zvláštní nadšení směrem Nuka-Cola Quantum bude udělena diskreční bonus. Pojďme ven a vydělávat to!&#xD;
-&#xD;
-S vaší pomocí věřím, že můžeme dělat to největší produkt na trh v historii společnosti Nuka-Cola.&#xD;
-&#xD;
+      <Dest>Tohle je pro nás všechny vzrušující doba. Nuka-Cola Quantum byla poprvé představena veřejnosti a obsahuje jednu z nejunikátnějších příchutí, s jakou jsme kdy přišli, nemluvě o vizuálně působivém zevnějšku.
+
+Všem doporučuju, aby se skutečně nechali pohltit duchem této klíčové události a propagovali Nuka-Colu Quantum při každé příležitosti. Dejte všem našim návštěvníkům najevo, jak neuvěřitelná a neodolatelná vám chuť Nuka-Coly Quantum připadá. Navrhujte, aby ji naši hosté vyzkoušeli při první příležitosti, která se namane, popřípadě hned teď.
+
+Máme značnou zásobu, kterou musíme prodat, hlavně ale chceme udělat ten nejlepší možný první dojem – a šanci budemem mít jen jednou, právě teď.
+
+Ti zaměstnanci, u kterých bude pozorován mimořádný entuziasmus ve vztahu k Nuka-Cole Quantum, budou odměněni osobním bonusem. Tak si ho pojďme zasloužit!
+
+Věřím, že s vaší pomocí z toho můžeme udělat nejlepší uvedení výrobku na trh v historii Nuka-Cola Corporation.
+
 JCB</Dest>
     </String>
     <String List="0" sID="004604">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>The Hidden Cappy Contest and You</Source>
-      <Dest>!Skrytý Cappy soutěž a vy</Dest>
+      <Dest>Soutěž Ukrytá Zátka a vy</Dest>
     </String>
     <String List="0" sID="004607">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Closed Monday &amp; Tuesday</Source>
-      <Dest>Zavřeno pondělí &amp; úterý</Dest>
+      <Dest>Zavřeno v pondělí a úterý</Dest>
     </String>
     <String List="0" sID="004610">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="2">TERM:UNAM</REC>
-      <Source>So Gage had a proposition for us. We help him and another guy named Colter take a trading hub called Nuka-World, and make it our own so we're set for life. Drawbacks are we gotta do this with two other gangs... and holy shit, you should see these guys. Plus they expect all of us to get along, so no killing... that they can prove.&#xD;
-&#xD;
+      <Source>So Gage had a proposition for us. We help him and another guy named Colter take a trading hub called Nuka-World, and make it our own so we're set for life. Drawbacks are we gotta do this with two other gangs... and holy shit, you should see these guys. Plus they expect all of us to get along, so no killing... that they can prove.
+
 No one's going to be a fan of the "no kill" policy, but I think it's doable with a "don't get caught" clause in there. And admittedly, we're running out of bodies to drain anyway. People are wising up and moving on. If we get ourselves a major outpost and can stick to this one teeny tiny rule, I think we could have it made.</Source>
-      <Dest>!Takže Gage měl návrh pro nás. My mu pomoct a další chlapík jménem Colter se obchodování rozbočovač s názvem Nuka-World, a aby to naše vlastní, takže jsme na celý život. Nevýhody jsou musíme to udělat s dalšími dvěma gangy ... a Doprdele, měli byste vidět ty chlapy. Plus očekávají všichni vyjít, takže žádné zabíjení ... že mohou dokázat.&#xD;
-&#xD;
-Nikdo to bude fanoušek s politikou „žádné kill“, ale myslím, že je uskutečnitelný s „Nenechte se chytit“ klauzule tam. A sice, nám dochází těl do kanalizace tak jako tak. Lidé jsou wising a dál. Dostaneme-li sami velkou základnu a mohou držet tohoto jeden malinký malé pravidlo, myslím, že bychom mohli mít to dělalo.</Dest>
+      <Dest>Takže Gage měl pro nás návrh. Pomůžeme mu a chlápkovi jménem Colter převzít obchodní centrum jménem Nuka-World, uděláme si z toho svou základnu a máme vystaráno. Nevýhodou je, že to musíme provést s dalšími dvěma gangy... no a ty krávo, měli byste ty trouby vidět. Navíc očekávají, že spolu budeme vycházet, takže žádné zabíjení... které by nám mohli dokázat.
+
+Nikdo nebude z té politiky o „žádném zabíjení“ nadšený, ale s klauzulí „nenech se chytit“ si myslím, že je to proveditelné. A je fakt, že už nám stejně docházejí lidi. Zdá se, že všichni dostávaj rozum a chtěj se pohnout. Pokud pro sebe získáme velkou základnu a budeme se držet tohohle jednoho malého pravidla, pak myslím, že to zvládneme.</Dest>
     </String>
     <String List="0" sID="004612">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
@@ -1580,26 +1578,26 @@ Nikdo to bude fanoušek s politikou „žádné kill“, ale myslím, že je usk
     <String List="0" sID="004613">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="1">TERM:UNAM</REC>
-      <Source>When approached by guests who have questions about the park, make sure you direct them to N.I.R.A.! N.I.R.A. is not only our park's proud mascot, she's a valuable source of information. &#xD;
-&#xD;
-Moreover, we want as many guests as possible participating in our fun and exciting Park Medallion collection challenge. Our surveys have shown time and again that it's one of our visitors' favorite activities, not only because it steers them toward our most exciting attractions, but because it rewards them for completing the activity. &#xD;
-&#xD;
-Guests who participate in the Park Medallion search tend to score several points higher in overall satisfaction, so let's give everyone the chance to make the most of their Nuka-World adventure! &#xD;
-&#xD;
+      <Source>When approached by guests who have questions about the park, make sure you direct them to N.I.R.A.! N.I.R.A. is not only our park's proud mascot, she's a valuable source of information. 
+
+Moreover, we want as many guests as possible participating in our fun and exciting Park Medallion collection challenge. Our surveys have shown time and again that it's one of our visitors' favorite activities, not only because it steers them toward our most exciting attractions, but because it rewards them for completing the activity. 
+
+Guests who participate in the Park Medallion search tend to score several points higher in overall satisfaction, so let's give everyone the chance to make the most of their Nuka-World adventure! 
+
 JCB</Source>
-      <Dest>!Když se přiblížil hosty, kteří mají nejasnosti kolem parku, ujistěte se, že je přímo na N.I.R.A.! N.I.R.A. je nejen hrdý maskot našem parku, ona je cenným zdrojem informací.&#xD;
-&#xD;
-Kromě toho chceme co nejvíce návštěvníkům co nejvíce podílejí na naší zábavné a vzrušující Park Medallion sběrného výzvu. Naše průzkumy ukázaly znovu a znovu, že je to jedna z nejoblíbenějších činností našich návštěvníků, a to nejen proto, že řídí jejich směrem našich nejzajímavějších atrakcí, ale proto, že jim odměňuje pro dokončení aktivity.&#xD;
-&#xD;
-Hosté, kteří se podílejí na Park Medallion hledání mají tendenci skóre několik bodů vyšší v celkové spokojenosti, takže pojďme dát každému šanci, aby co nejvíce z jejich Nuka-World dobrodružství!&#xD;
-&#xD;
+      <Dest>Když za vámi přijdou hosté s otázkami ohledně parku, pošlete je k N.I.R.A.! N.I.R.A. není jen hrdým maskotem našeho parku, je také cenným zdrojem informací.
+
+Kromě toho chceme, aby se co nejvíce návštěvníků účastnilo naší zábavné a vzrušující soutěže Kolekce parkových medailonků. Naše průzkumy mnohokrát ukázaly, že jde o jednu z nejoblíbenějších aktivit našich hostů, a to nejen proto, že je navádí k našim nejzábavnějším atraktcím, ale protože je i odměňuje za dokončení této aktivity.
+
+Návštěvníci, kteří se účastní pátrání po medailoncích dosahují vyššího skóre v hodnocení spokojenosti, dejme tedy všem šanci odnést si z jejich dobrodružství v Nuka-Worldu maximum.
+
 JCB</Dest>
     </String>
     <String List="0" sID="004615">
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Got a hankering for blood? Need to kick back and let loose? Dixie's monthly Slice and Dice is back! So sharpen those knives and ditch those chems because it's time to feed the one addiction that we all share. </Source>
-      <Dest>!Dostal touží po krvi? Muset kick zpět a nechat ztratit? Dixie měsíčník a nakrájíme na kostky je zpět! Takže brousit ty nože a příkop ty Chems, protože to je čas nakrmit jednu návyk, že všichni sdílíme.</Dest>
+      <Dest>Zatoužili jste po krvi? Potřebujete si orazit? Dixiino měsíční Nasekat a Nakrájet je zpět! Takže nabruste nože a zahoďte ty chemikálie, protože je načase oddat se oné závislosti, kterou sdílíme všichni.</Dest>
     </String>
     <String List="0" sID="004617">
       <EDID>DLC04ColaCarsTerminal</EDID>
@@ -1611,7 +1609,7 @@ JCB</Dest>
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Kicking ass? Don't hog all the fun. The more the merrier!</Source>
-      <Dest>!Kope do zadku? Nenechte prase všechnu zábavu. Čím víc, tím líp!</Dest>
+      <Dest>Bitka? Nenechávejte si všechu srandu pro sebe. Čím víc, tím líp!</Dest>
     </String>
     <String List="0" sID="004621">
       <EDID>DLC04DisciplesNote_DailyAffirmations</EDID>
@@ -1623,45 +1621,44 @@ JCB</Dest>
       <EDID>DLC04DisciplesNisha_WatchList</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Samuel seems to forget who's in charge here and likes to question my decisions. He's smart enough to not challenge me directly, and I'm sure he knows if he tried to take me out, Savoy and Dixie would never follow him. He's trouble, though. Reminds me of Sledge, and he's new, so he doesn't know what went down back then. But if he keeps it up, he can learn the hard way, just like Sledge did.</Source>
-      <Dest>!Samuel Zdá se, že zapomínáme, kdo tady velí a rád zpochybňovat mé rozhodnutí. Je dost chytrý, aby mě nenapadá přímo, a jsem si jistý, že ví, že kdyby se snažil, aby mě ven, Savoy a Dixie nikdy za ním. Je to problém, ačkoli. Připomíná mi Sledge, a on je nový, takže neví, co šel zpátky. Ale jestli udržuje ji vzhůru, může se naučit tvrdě, stejně jako Sledge udělal.</Dest>
+      <Dest>Zdá se, že Samuel zapomíná, kdo tady tomu velí a rád zpochybňuje moje rozhodnutí. Je dost chytrý na to, aby proti mě nešel přímo, a jsem si jistá, že vím, že kdyby se mě pokusil odstranit, Savoy a Dixie ho nikdy následovat nebudou. Jsou s ním ale problémy. Připomíná mi Sledge a je nový, takže se neví, co se tehdy stalo. Ale pokud bude pokračovat, dopadne stejně blbě jako Sledge.</Dest>
     </String>
     <String List="0" sID="00462C">
       <EDID>DLC04DisciplesNisha_Entries</EDID>
       <REC id="5">TERM:UNAM</REC>
       <Source>Looks like our new Overboss is the real deal. Not only did we take all of Nuka-World, but the Operators are out. Bye bye spoiled little Magsy and her shit-for-brains brother, William. Sure, Mason is still around with his herd of sheep, but whatever. If we need to deal with them, there'd be no contest. Let's just hope this new Overboss keeps it up, and doesn't get lazy like Colter. We allowed Gage one screw up. Never again.</Source>
-      <Dest>!Vypadá to, že náš nový Overboss je real deal. Nejen, že jsme se všichni Nuka-World, ale Provozáci jsou mimo. Bye bye zkažené trochu Magsy a její hovno-pro-mozku bratra Williama. Jistě, Mason je stále kolem se svým stádem ovcí, ale co. Chceme-li se s nimi vypořádat, by existovat žádná soutěž. Jen doufejme, že tento nový Overboss udržuje ji vzhůru, a nedostane líný jako Colter. Dovolili jsme Gage jeden zkazit. Nikdy znovu.</Dest>
+      <Dest>Zdá se, že náš nový Superšéf za něco stojí. Nejenže jsme zabrali celý Nuka-World, ale ještě k tomu jsou Provozáci mimo hru. Dejme sbohem rozmazlené Magsy a jejímu vymatlanýmu bráchovi Williamovi. Jasný, Mason a jeho stádo ovcí tu pořád je, ale to je fuk. Pokud je budeme potřebovat vyřídit, bude to brnkačka. Doufejme jen, že si tenhle nový Superšéf udrží kvalitu a nezlenivý jako Colter. Jeden průser jsme Gageovi dovolili. Další už ne.</Dest>
     </String>
     <String List="0" sID="004634">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
       <REC id="0">TERM:UNAM</REC>
-      <Source>Guys,&#xD;
-&#xD;
-We need to be a lot more diligent when we do our end-of-day walkthroughs. Goodwin found three loose belts on his inspection last week. One of them was half torn out. The last thing we need is some kid getting knocked out onto the arena floor while the cars are running.&#xD;
-&#xD;
-Shit rolls downhill, people. Goodwin dumps it on me, I dump it on you. If this keeps up, I'm going to need to make an example of someone. Let's get our act together and make sure that doesn't happen.&#xD;
-&#xD;
-- Rob&#xD;
+      <Source>Guys,
+
+We need to be a lot more diligent when we do our end-of-day walkthroughs. Goodwin found three loose belts on his inspection last week. One of them was half torn out. The last thing we need is some kid getting knocked out onto the arena floor while the cars are running.
+
+Shit rolls downhill, people. Goodwin dumps it on me, I dump it on you. If this keeps up, I'm going to need to make an example of someone. Let's get our act together and make sure that doesn't happen.
+
+- Rob
 </Source>
-      <Dest>!Lidi,&#xD;
-&#xD;
-Musíme být mnohem větší úsilí, když děláme end-of-denní průchody. Goodwin zjistili, že tři volné pásy na jeho kontrole minulý týden. Jeden z nich byl poloviny vytržené. To poslední, co potřebujeme, je nějaký kluk dostat vyřazeni na podlaze arény, zatímco vozy jsou v provozu.&#xD;
-&#xD;
-Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. Pokud se to drží krok, budu muset provést příklad někoho. Pojďme si naše jednat společně, a ujistěte se, že se tak nestane.&#xD;
-&#xD;
-- Rob&#xD;
-</Dest>
+      <Dest>Lidi,
+
+Musíme být při kontrolách před zavíračkou mnohem pečlivější. Goodwin během prověrky minulý týden našel tři uvolněné řemeny. Jeden z nich byl napůl utržený. Poslední věc, co potřebujeme, je, aby nějaké děcko vyletělo na podlahu arény mezi rozjetá auta.
+
+Zákon padajícího hovna, přátelé. Goodwin to hodí na mě, já to hodím na vás. Pokud to bude pokračovat, budu muset z někoho udělat exemplární příklad. Dejme se dohromady a postarejme se, aby k tomu nedošlo.
+
+- Rob</Dest>
     </String>
     <String List="0" sID="004635">
       <EDID>DLC04DisciplesGeneric_Events</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Gauntlet Runners</Source>
-      <Dest>!Gauntlet běžci</Dest>
+      <Dest>Běžci do Uličky</Dest>
     </String>
     <String List="0" sID="004637">
       <EDID>DLC04DisciplesNisha</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Anyone caught using this terminal that isn't Nisha will be dealt with.</Source>
-      <Dest>!Každý, kdo zachytil pomocí tohoto terminálu, který není Nisha bude řešena.</Dest>
+      <Dest>Každý, kdo bude přistižen při užívání tohoto terminálu a není Nisha, bude čelit následkům.</Dest>
     </String>
     <String List="0" sID="004662">
       <EDID>DLC04DisciplesNisha</EDID>
@@ -1673,19 +1670,19 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04DisciplesNisha</EDID>
       <REC>TERM:WNAM</REC>
       <Source>If you're not Nisha, you're dead.</Source>
-      <Dest>Pokud nejsi Nisha, seš mrtvá!</Dest>
+      <Dest>Pokud nejsi Nisha, chcípneš.</Dest>
     </String>
     <String List="0" sID="00469A">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Town Remains</Source>
-      <Dest>!Město Zůstává</Dest>
+      <Dest>Pozůstatky města</Dest>
     </String>
     <String List="0" sID="00469E">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
       <REC>TERM:BTXT</REC>
       <Source>Collected reports from members:</Source>
-      <Dest>Shromážděné zprávy od členů:</Dest>
+      <Dest>Sebraná hlášení od členů:</Dest>
     </String>
     <String List="0" sID="0046A5">
       <EDID>DLC04DisciplesNisha</EDID>
@@ -1721,13 +1718,13 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04DialogueSettlement</EDID>
       <REC id="5">QUST:NNAM</REC>
       <Source>Investigate Grandchester Mystery Mansion</Source>
-      <Dest>Prozkoumej Tajemné sídlo Grandchesterů</Dest>
+      <Dest>Prozkoumej Strašidelné sídlo Grandchesterů</Dest>
     </String>
     <String List="0" sID="004770">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
       <REC id="1">TERM:UNAM</REC>
       <Source>Val said some crazies calling themselves Hubologists have taken over the old cafe by the giant fire hydrant. I gotta admit, I'm inclined to leave them be. Fanatics are always destructive in their own ways. They could be good entertainment from a distance.</Source>
-      <Dest>!Val uvedl, že někteří pomatenci sami sebe nazývající hubologisté, převzali staré kavárně obří požární hydrant. Musím přiznat, že jsem nakloněn nechat je být. Fanatici jsou vždy destruktivní v jejich vlastních cestách. Mohly by být dobrou zábavu z dálky.</Dest>
+      <Dest>Val říkala, že nějací šílenci, kteří si říkají hubologisté, zabrali starou kavárnu u toho obřího hydrantu. Musím říct... uvažuju o tom, že je nechám na pokoji. Fanatici jsou vždycky svým způsobem destruktivní. Z jisté vzdálenosti by mohli poskytnout dobrou zábavu.</Dest>
     </String>
     <String List="0" sID="004776">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
@@ -1739,19 +1736,19 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04DisciplesNisha</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Watch List</Source>
-      <Dest>Seznam</Dest>
+      <Dest>Seznam sledovaných</Dest>
     </String>
     <String List="0" sID="00477B">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
       <REC id="2">TERM:UNAM</REC>
       <Source>Dixie found an old, road-side attraction called the Grandchester Mystery Mansion. She said it looks to be in decent condition, complete with an annoying ticket-taking protectron, so it's worth looking into. She had a few slaves in tow, so didn't investigate further. We'll need to put a team together to check it out at some point.</Source>
-      <Dest>!Dixie našla starou, road-boční atrakci nazvanou Tajemné sídlo Grandchesterů. Řekla, že to vypadá, že je ve slušném stavu, kompletní s otravné jízdenky beroucí protektron, takže to stojí za to díval do. Měla několik otroků v závěsu, takže nevyšetřila dále. Budeme muset dát dohromady tým podívat se na to v určitém okamžiku.</Dest>
+      <Dest>Dixie našla starou atrakci u silnice jménem Strašidelné sídlo Grandchesterů. Říkala, že se zdálo být v obstojném stavu, kompletní i s otravným protektronem vybírajícím vstupenky, takže stojí za to se tam podívat. Zrovna s sebou táhla pár otroků, takže už to dále nezkoumala. Bude třeba sestavit tým, aby se na to někdy podíval.</Dest>
     </String>
     <String List="0" sID="00478A">
       <EDID>DLC04DisciplesNisha_Reports</EDID>
       <REC id="0">TERM:UNAM</REC>
       <Source>Remains of an old, abandoned town south of Nuka-World called Bradberton. Should be good for standard supplies, but nothing of real interest.</Source>
-      <Dest>!Pozůstatky staré, opuštěné město jižně od Nuka-World zvané Bradberton. By měla být dobrá pro standardní dodávky, ale nic skutečného zájmu.</Dest>
+      <Dest>Pozůstatky starého, opuštěného města zvaného Bradberton na jih od Nuka Wordlu. Mělo by být dobré pro standardní zásoby, ale nic skutečně zajímavého.</Dest>
     </String>
     <String List="0" sID="0047BF">
       <EDID>DLC04ColaCarsTerminalSub1Messages</EDID>
@@ -1805,7 +1802,7 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04EncBrahmiluffMarket</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Brahmiluff</Source>
-      <Dest>Brahmíňák</Dest>
+      <Dest>brahmůl</Dest>
     </String>
     <String List="1" sID="001ACB">
       <EDID>DLC04DisciplesFrenzyGrenade</EDID>
@@ -1817,31 +1814,31 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Dry Rock Gulch is infested with Bloodworms. I should look around and see if I can find some way to get rid of them.</Source>
-      <Dest>Vyprahlá Rokle je zamořena krvočervy. Mám prohledat okolí a zjistit, jestli by se nenašel nějaký způsob, jak se jich zbavit.</Dest>
+      <Dest>Vyprahlá rokle je zamořena krvočervy. Mám se prohledat okolí a zjistit, jestli by se nenašel způsob, jak se jich zbavit.</Dest>
     </String>
     <String List="1" sID="0038B5">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>The Bloodworms are nesting inside of Mad Mulligan's Mine. The door is locked, and the only key is in a safe. I need to get the combination from the other Protectron cowboys.</Source>
-      <Dest>Tihle krvočervi hnízdí uvnitř dolu Šílenýho Mulligana. Dveře jsou zamčené a jediný klíč je v trezoru. Musím dostat kombinaci z nějakých protektronů kovbojů.</Dest>
+      <Dest>Krvočervi hnízdí v dole Šílenýho Mulligana. Dveře jsou zamčené a jediné klíče jsou v sejfu. Musím získat kombinaci od ostatních protektronů-kovbojů.</Dest>
     </String>
     <String List="1" sID="0038F6">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>I've made it inside Mad Mulligan's Mine. Now to exterminate the Bloodworms.</Source>
-      <Dest>A jsem uvnitř dolu Šílenýho Mulligana. Nyní vyhladím krvočervy.</Dest>
+      <Dest>A jsem uvnitř dolu Šílenýho Mulligana. Nyní je třeba vyhladit krvočervy.</Dest>
     </String>
     <String List="1" sID="003A5A">
       <EDID>DLC04CompanionInfatuationPerkMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Having reached the highest level of affinity with Gage, you have gained the "Lessons in Blood" perk.</Source>
-      <Dest>Za dosažení nejvyššího stupně náklonnosti s Gagem získáváš perk „Krvavá lekce“.</Dest>
+      <Dest>Za dosažení nejvyššího stupně náklonnosti s Gagem získáváš perk „Krvavé lekce“.</Dest>
     </String>
     <String List="1" sID="003C4B">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>The Bloodworms have been eradicated. I should check in with the Sheriff.</Source>
-      <Dest>Krvočervi byli vymýceni. Musím se poradit se šerifem.</Dest>
+      <Dest>Krvočervi byli vymýceni. Musím to ohlásit šerifovi.</Dest>
     </String>
     <String List="1" sID="003C8E">
       <EDID>DLC04DryRockGulch</EDID>
@@ -1853,50 +1850,50 @@ Shit valí z kopce, lidi. Goodwin ji skládek na mě, já skládka je na vás. P
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="6">QUST:CNAM</REC>
       <Source>Dry Rock Gulch is now under my control.</Source>
-      <Dest>Vyprahlá Rokle je nyní pod mou kontrolou.</Dest>
+      <Dest>Vyprahlá rokle je nyní pod mou kontrolou.</Dest>
     </String>
     <String List="1" sID="003D6D">
       <EDID>DLC04DryRockGulch</EDID>
       <REC id="5">QUST:CNAM</REC>
       <Source>I've decided to wipe out all the Cowboy Protectrons in Dry Rock Gulch.</Source>
-      <Dest>!Rozhodl jsem se vyhladit všechny protektrony kovboje ve Vyprahlé Rokli.</Dest>
+      <Dest>Všichni protektroni-kovbojové byli ve Vyprahlé rokli mou zásluhou vyhlazeni.</Dest>
     </String>
     <String List="1" sID="003E14">
       <EDID>DLC04CompGagePerk</EDID>
       <REC>PERK:DESC</REC>
-      <Source>Thanks to your relationship with Gage, you gain +5% more XP per kill and +10 Damage Resistance.&#xD;
+      <Source>Thanks to your relationship with Gage, you gain +5% more XP per kill and +10 Damage Resistance.
 </Source>
-      <Dest>Díky vztahu s Gagem, získáváš o 5 % více ZK za zabití a +10 k odolnosti proti poškození.</Dest>
+      <Dest>Díky tvému vztahu s Gagem získáváš o 5 % více ZK za zabití a +10 k odolnosti proti poškození.</Dest>
     </String>
     <String List="1" sID="00455C">
       <EDID>DLC04DisciplesNote_DailyAffirmations</EDID>
       <REC>BOOK:DESC</REC>
-      <Source>I am a badass.&#xD;
-I don't take no shit from nobody.&#xD;
-No matter what obstacles I find...&#xD;
-I will kill them all dead.&#xD;
-Ain't nobody better than me.&#xD;
-I am strong.&#xD;
-I am deadly.&#xD;
-I am in control.&#xD;
-And if I see something I want...&#xD;
+      <Source>I am a badass.
+I don't take no shit from nobody.
+No matter what obstacles I find...
+I will kill them all dead.
+Ain't nobody better than me.
+I am strong.
+I am deadly.
+I am in control.
+And if I see something I want...
 I'll damn well take it.</Source>
-      <Dest>!Jsem pořádné.&#xD;
-Neberu žádné hovno od nikoho.&#xD;
-Nezáleží na tom, jaké překážky najdu ...&#xD;
-zabiji jim všichni mrtví.&#xD;
-Není nikdo lepší než já.&#xD;
-Jsem silná.&#xD;
-Jsem smrtící.&#xD;
-Jsem pod kontrolou.&#xD;
-A když vidím něco, co chci ...&#xD;
-budu sakra dobře vzít.</Dest>
+      <Dest>Jsem drsňák.
+Od nikoho si nenechám srát na hlavu.
+Ať už na narazím na jakýkoli překážky...
+všechny je zabiju.
+Nikdo není lepší než já.
+Jsem silný.
+Jsem smrtící.
+Mám to pod kontrolou.
+A pokud uvidím něco, co chci...
+tak si to sakra vezmu.</Dest>
     </String>
     <String List="1" sID="0045B4">
       <EDID>DLC04DisciplesNote_Dreams</EDID>
       <REC>BOOK:DESC</REC>
       <Source>I had another crazy, fucked up dream again last night about the unicorn. It was chasing me like last time, and I could see it staring me down, judging me, like it knew where I buried the bodies. And then its head split in two and more legs burst through its chest like a radicorn or something. I was so terrified I woke up and had to write this shit down. Last time I eat squirrel on a stick before bed.</Source>
-      <Dest>!Měl jsem další bláznivý, posral snu opět v noci o jednorožci. Bylo mi honí jako minule, a viděl jsem, že mě zíral, mě soudit, jako by věděl, kde jsem pochovávali těla. A pak se jeho hlava rozdělené do dvou a více nohou prorazil jeho hrudi jako radicorn nebo tak něco. Byl jsem tak vyděšený jsem se probudila a musel napsat tento hovno dolů. Minule jsem jíst veverky na hůl předfontím.</Dest>
+      <Dest>V noci jsem měl další pošahaný sen o tom jednorožcovi. Naháněl mě stejně jako minule a viděl jsem, jak si mě prohlíží, soudí mě, jako by věděl, kde jsem zakopal ta těla. A pak se mu rozpůlila hlava a z jeho těla vyrazily další nohy, jako by to byl nějaký mutorožec. Tak mě to vyděsilo, že jsem se probudil a musel celou tu kravinu hodit na papír. Tohle je naposled, co jsem před spaním jedl veverku na špejli.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
