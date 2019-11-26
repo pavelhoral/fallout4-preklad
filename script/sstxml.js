@@ -126,6 +126,29 @@ program.
         });
     });
 
+program.
+    command('diff <first> <second>').
+    description('Compare two SST XML files and find differences in source strings.').
+    action((first, second) => {
+        var firstStrings = {};
+        readXml(first).Content.String.forEach(string => firstStrings[string.$.sID] = string);
+        var secondStrings = {};
+        readXml(second).Content.String.forEach(string => secondStrings[string.$.sID] = string);
+        Object.values(firstStrings).forEach(firstString => {
+            if (secondStrings[firstString.$.sID] === undefined) {
+                output.write(`-${firstString.$.sID} ${firstString.EDID}\n`);
+            }
+        });
+        Object.values(secondStrings).forEach(secondString => {
+            var firstString = firstStrings[secondString.$.sID];
+            if (firstString === undefined) {
+                output.write(`+${secondString.$.sID} ${secondString.EDID}\n`);
+            } else if (firstString.Source !== secondString.Source) {
+                output.write(`~${secondString.$.sID} ${secondString.EDID}\n`);
+            }
+        });
+    });
+
 /**
  * Fallback command.
  */
