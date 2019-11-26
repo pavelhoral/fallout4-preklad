@@ -4,6 +4,7 @@
 #
 # Supported variables:
 #
+# - CLEAN = Whether to remove previous build artefacts.
 # - FILTER = Build only a subset of translation with the given prefix.
 # - PLUGIN = Name of the plugin to exclusively build.
 # - UNACCENT = Whether to remove accents from the translation.
@@ -14,6 +15,21 @@ set -e
 
 # Plugins to be built by default
 DEFAULT_PLUGINS='Fallout4 DLCworkshop01 DLCworkshop02 DLCworkshop03 DLCRobot DLCCoast Fallout4_VR'
+
+# Modfile names for baked plugins
+declare -A BAKED_PLUGINS
+BAKED_PLUGINS[Fallout4]=f4
+BAKED_PLUGINS[DLCworkshop01]=d1
+BAKED_PLUGINS[DLCworkshop02]=d2
+BAKED_PLUGINS[DLCworkshop03]=d3
+BAKED_PLUGINS[DLCRobot]=d4
+BAKED_PLUGINS[DLCCoast]=d5
+BAKED_PLUGINS[DLCNukaWorld]=d6
+
+# Clean previous builds if requested
+if [[ -v CLEAN ]]; then
+    rm -rf build target/*
+fi
 
 # Make sure we have a working directory
 WORKDIR="build/.tmp";
@@ -34,18 +50,29 @@ function run_compile {
     script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
 }
 
+# Bake translations into a plugin modfile
+function bake_modfile {
+    echo "Baking $PLUGIN..."
+    BAKED_NAME="${BAKED_PLUGINS[$PLUGIN]}czep.esp"
+    BAKE_OPTS="-m shadow/$PLUGIN.esm -s target/Strings -o target/$BAKED_NAME"
+    script/modfile.js bake $BAKE_OPTS
+}
+
 # Build base distribution files
 function run_build {
     echo "Building $PLUGIN..."
     run_combine
     run_compile
+    if [[ -v BAKE ]] && [[ ! -z "${BAKED_PLUGINS[$PLUGIN]}" ]]; then
+        bake_modfile
+    fi
 }
 
 if [[ -v PLUGIN ]]; then
     run_build
 else
-    for PLUGIN_DIR in $DEFAULT_PLUGINS; do
-        PLUGIN=$(basename $PLUGIN_DIR) run_build
+    for PLUGIN in $DEFAULT_PLUGINS; do
+        PLUGIN=$PLUGIN run_build
     done
 fi
 

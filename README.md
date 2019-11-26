@@ -55,3 +55,17 @@ Pro vytvoření instalátoru je potřeba mít nainstalovaný WiX Toolset. MSI ar
     candle.exe -dProductVersion=0.0.1 fallout4-cestina.wxs
     light.exe fallout4-cestina.wixobj -ext WixUIExtension -ext WixUtilExtension -cultures:cs-cz
 
+
+## Sestavení
+
+Verzi pro PC je možné sestavit příkazem:
+
+    CLEAN= PACKAGE= ./build.sh
+
+Verzi pro XB1 je možné sestavit příkazem:
+
+    CLEAN= UNACCENT= ./build.sh
+
+Verzi pro PS4 je možné sestavit příkazem:
+
+    CLEAN= UNACCENT= BAKE= ./build.sh
