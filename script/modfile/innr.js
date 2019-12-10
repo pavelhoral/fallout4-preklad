@@ -18,6 +18,9 @@ class InnrExtractor {
         this.context = null;
     }
 
+    handleHeader() {
+    }
+
     handleGroup(type, label, parse) {
         MODFILE_TYPES[label] && parse(this);
     }
@@ -59,7 +62,8 @@ class InnrExtractor {
         }
         if (type === MODFILE_TYPES.KWDA) {
             for (; size > 0; size -= 4, offset += 4) {
-                this.context.choice.conditions.push(this.keywords[buffer.readUInt32LE(offset)]);
+                // TODO Add support for keywords from MAST file
+                this.context.choice.conditions.push(this.keywords[buffer.readUInt32LE(offset)] || '???');
             }
         }
     }

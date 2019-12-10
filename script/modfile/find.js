@@ -32,6 +32,9 @@ class MatchExtractor {
         this.result = [];
     }
 
+    handleHeader() {
+    }
+
     handleGroup(type, label, parse) {
         if (type === 0 && this.type && this.type !== label) {
             return; // Unwanted top-level group

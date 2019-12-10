@@ -59,7 +59,7 @@ class RecordBaker {
         // Current plugin strings (reset before each plugin)
         this.strings = strings;
         // Parent plugin names
-        this.parents = [];
+        this.parents = [plugin + '.esm'];
         // Baking context stack
         this.context = {
             _: ROOT_CONTEXT,
@@ -88,6 +88,10 @@ class RecordBaker {
         }
     }
 
+    handleHeader(header) {
+        this.parents.push(...header.parents);
+    }
+
     handleGroup(type, label, parse) {
         if (type === 0 && !BAKED_TYPES[label]) {
             return; // No need to bake this top-level group
@@ -113,11 +117,6 @@ class RecordBaker {
     }
 
     handleRecord(type, size, flags, formId, parse) {
-        // Parse plugin header
-        if (MODFILE_TYPES.TES4 === type) {
-            this.parents = new HeaderHandler().parseParents(this.plugin, parse);
-            return;
-        }
         // Check if the record needs to be processed
         if (!BAKED_TYPES[type] && !MODFILE_TYPES[type]) {
             return; // Not a baked or parent record

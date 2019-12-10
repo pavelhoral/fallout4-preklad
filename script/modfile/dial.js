@@ -17,6 +17,9 @@ class DialExtractor {
         this.context = null;
     }
 
+    handleHeader() {
+    }
+
     handleGroup(type, label, parse) {
         if (type === 0 && label === MODFILE_TYPES.QUST) {
             this.context = {};

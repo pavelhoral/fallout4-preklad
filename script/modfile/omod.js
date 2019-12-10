@@ -17,6 +17,9 @@ class OmodExtractor {
         this.context = null;
     }
 
+    handleHeader() {
+    }
+
     handleGroup(type, label, parse) {
         MODFILE_TYPES[label] && parse(this);
     }

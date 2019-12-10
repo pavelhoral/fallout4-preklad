@@ -1,5 +1,5 @@
 'use strict';
-var zlib = require('zlib');
+const zlib = require('zlib');
 
 /**
  * Modfile entry type constant pool.
@@ -9,7 +9,7 @@ class ModfileType {
 
     constructor(types) {
         types.forEach((type) => {
-            var encoded = this.encode(type);
+            const encoded = this.encode(type);
             this[type] = encoded;
             this[encoded] = type;
         });
@@ -37,8 +37,8 @@ module.exports.ModfileType = ModfileType;
 /**
  * Create basic MODFILE_TYPE pool.
  */
-var MODFILE_TYPES = new ModfileType([
-    'GRUP', 'EDID', 'OFST', 'XXXX'
+const MODFILE_TYPES = new ModfileType([
+    'TES4', 'GRUP', 'EDID', 'OFST', 'CNAM', 'SNAM', 'MAST', 'XXXX'
 ]);
 module.exports.MODFILE_TYPES = MODFILE_TYPES;
 
@@ -56,10 +56,17 @@ class ModfileHandler {
     }
 
     /**
+     * Handle modfile header entry.
+     */
+    handleHeader(header) {
+        Object.assign(this.parsingStack[0], header);
+    }
+
+    /**
      * Handle group based entry.
      */
     handleGroup(type, label, parse) {
-        var head = this.parsingStack[this.parsingStack.length - 1];
+        const head = this.parsingStack[this.parsingStack.length - 1];
         // Push group on the stack
         this.parsingStack.push({
             label: label,
@@ -75,7 +82,7 @@ class ModfileHandler {
      * Handle record based entry.
      */
     handleRecord(type, size, flags, formId, parse) {
-        var head = this.parsingStack[this.parsingStack.length - 1];
+        const head = this.parsingStack[this.parsingStack.length - 1];
         // Push record on the stack
         this.parsingStack.push({
             type: type,
@@ -93,7 +100,7 @@ class ModfileHandler {
      * Handle field based entry.
      */
     handleField(type, size, buffer, offset) {
-        var head = this.parsingStack[this.parsingStack.length - 1];
+        const head = this.parsingStack[this.parsingStack.length - 1];
         // Add editor identifier
         if (type == MODFILE_TYPES.EDID) {
             head.editorId = buffer.toString('ascii', offset, offset + size - 1);
@@ -104,15 +111,46 @@ class ModfileHandler {
 module.exports.ModfileHandler = ModfileHandler;
 
 /**
+ * TES4 record mapper.
+ */
+class HeaderMapper {
+
+    constructor() {
+        this.header = { parents: [] };
+    }
+
+    handleRecord(type, size, flags, formId, parse) {
+        if (type !== MODFILE_TYPES.TES4) {
+            throw new Error(`Invalid header type ${type}.`);
+        }
+        parse(this);
+    }
+
+    handleField(type, size, buffer, offset) {
+        if (type === MODFILE_TYPES.CNAM) {
+            this.header.author = buffer.toString('ascii', offset, offset + size - 1);
+        } else if (type === MODFILE_TYPES.SNAM) {
+            this.header.description = buffer.toString('ascii', offset, offset + size - 1);
+        } else if (type === MODFILE_TYPES.MAST) {
+            this.header.parents.push(buffer.toString('ascii', offset, offset + size - 1));
+        }
+    }
+
+}
+
+
+/**
  * Simple parser for Bethesda's ESM/ESP modfiles.
  * Parser reads provided data source and processes entries via provided entry handler.
  */
 class ModfileParser {
 
-    constructor(source) {
-        // Set source
+    constructor(source, loader) {
+        // Set modfile source
         this.source = source;
-        // Freeze ourselves
+        // Set resource loader
+        this.loader = loader;
+        // Freeze ourself
         Object.freeze(this);
     }
 
@@ -120,6 +158,7 @@ class ModfileParser {
      * Start modfile parsing with the given handler.
      */
     parse(handler) {
+        this.parseHeader(handler);
         while (this.parseNext(handler)) { /* no-op */ }
     }
 
@@ -127,8 +166,8 @@ class ModfileParser {
      * Parse next entry and return its size in bytes.
      */
     parseNext(handler, assert) {
-        var buffer = this.source.read(24),
-            type = buffer.length === 24 ? buffer.readUInt32LE(0) : null;
+        const buffer = this.source.read(24);
+        const type = buffer.length === 24 ? buffer.readUInt32LE(0) : null;
         if (assert && !type) {
             throw new Error("Unexpected end of source reached.");
         } else if (type === MODFILE_TYPES.GRUP) {
@@ -140,13 +179,22 @@ class ModfileParser {
     }
 
     /**
+     * Parse modfile header field.
+     */
+    parseHeader(handler) {
+        const mapper = new HeaderMapper();
+        this.parseNext(mapper, true);
+        handler.handleHeader(mapper.header);
+    }
+
+    /**
      * Parse group based entry and return its size (including header).
      */
     parseGroup(buffer, handler) {
-        var size = buffer.readUInt32LE(4),
-            label = buffer.readUInt32LE(8),
-            type = buffer.readInt32LE(12),
-            skip = size - 24;
+        const size = buffer.readUInt32LE(4);
+        const label = buffer.readUInt32LE(8);
+        const type = buffer.readInt32LE(12);
+        let skip = size - 24;
         handler.handleGroup(type, label, (handler) => {
             while (skip > 0) {
                 skip -= this.parseNext(handler, true);
@@ -160,12 +208,12 @@ class ModfileParser {
      * Parse record based entry and return size of its data.
      */
     parseRecord(type, buffer, handler) {
-        var size = buffer.readUInt32LE(4),
-            flags = buffer.readUInt32LE(8),
-            formId = buffer.readUInt32LE(12),
-            skip = size;
+        const size = buffer.readUInt32LE(4);
+        const flags = buffer.readUInt32LE(8);
+        const formId = buffer.readUInt32LE(12);
+        let skip = size;
         handler.handleRecord(type, size, flags, formId, (handler) => {
-            var buffer = this.source.read(size);
+            const buffer = this.source.read(size);
             if (flags & 0x00040000) {
                 buffer = zlib.inflateSync(buffer.slice(4));
             }
@@ -180,7 +228,7 @@ class ModfileParser {
      * Parse field based entries.
      */
     parseFields(buffer, handler) {
-        var offset = 0;
+        let offset = 0;
         while (offset < buffer.length) {
             offset += this.parseField(buffer, offset, buffer.readUInt16LE(offset + 4), handler);
         }
@@ -191,7 +239,7 @@ class ModfileParser {
      * Parse field at the specified offset.
      */
     parseField(buffer, offset, size, handler) {
-        var type = buffer.readUInt32LE(offset);
+        const type = buffer.readUInt32LE(offset);
         if (type === MODFILE_TYPES.OFST) {
             return buffer.length - offset;
         } else if (type === MODFILE_TYPES.XXXX) {

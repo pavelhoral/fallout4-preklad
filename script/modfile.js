@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 'use strict';
-var parseSource = require('./parse/parse-source'),
-    parseModfile = require('./parse/parse-modfile'),
-    parseStrings = require('./parse/parse-strings'),
-    renderFormId = require('./utils/render-formId'),
-    program = require('commander'),
-    output = require('./utils/program-output')(program),
-    util = require('util'),
-    path = require('path');
+const parseSource = require('./parse/parse-source');
+const parseModfile = require('./parse/parse-modfile');
+const parseStrings = require('./parse/parse-strings');
+const renderFormId = require('./utils/render-formId');
+const program = require('commander');
+const output = require('./utils/program-output')(program);
+const util = require('util');
+const path = require('path');
 
 program.
     option('-m, --modfile <file>', 'specify modfile to use').
@@ -16,7 +16,7 @@ program.
     option('-o, --output <file>', 'write output to the specified file');
 
 function readStrings() {
-    var modfilePath = program.modfile;
+    let modfilePath = program.modfile;
     if (program.strings) {
         modfilePath = path.resolve(path.dirname(program.strings), path.basename(program.modfile));
     }
@@ -24,16 +24,16 @@ function readStrings() {
 }
 
 function readModfile(handler) {
-    var modfileSource = new parseSource.FileSource(program.modfile),
-        modfileParser = new parseModfile.ModfileParser(modfileSource);
+    const modfileSource = new parseSource.FileSource(program.modfile);
+    const modfileParser = new parseModfile.ModfileParser(modfileSource);
     modfileParser.parse(handler);
     modfileSource.close();
     return handler;
 }
 
 function renderInnrs(innrs) {
-    var rowCount = Math.max.apply(null, innrs.map(part => part.choices.length)),
-        rows = [];
+    const rowCount = Math.max.apply(null, innrs.map(part => part.choices.length));
+    const rows = [];
     innrs.forEach((part) => {
         for (let i = 0; i < part.choices.length; i++) {
             rows[i] = (rows[i] || '') + (part.choices[i].name || '') + '\t"' +
@@ -53,9 +53,8 @@ program.
     command('innrs').
     description('Extract INNR records as tab separated values.').
     action(() => {
-        var modfileInnr = require('./modfile/innr'),
-            innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings())),
-            resultData = [];
+        const modfileInnr = require('./modfile/innr');
+        const innrExtractor = readModfile(new modfileInnr.InnrExtractor(readStrings()));
         Object.keys(innrExtractor.innrs).forEach(key =>  {
             output.write(`[INNR] ${key}\n`);
             output.write(renderInnrs(innrExtractor.innrs[key]) + '\n');
@@ -70,9 +69,9 @@ program.
     description('Extract DIAL identifiers with their respective INFOs.').
     option('-q, --quest', 'include quest reference').
     action((options) => {
-        var modfileDial = require('./modfile/dial'),
-            dialExtractor = readModfile(new modfileDial.DialExtractor()),
-            dials = dialExtractor.dials;
+        const modfileDial = require('./modfile/dial');
+        const dialExtractor = readModfile(new modfileDial.DialExtractor());
+        const dials = dialExtractor.dials;
         Object.keys(dials).filter(id => dials[id].length).sort().forEach((id) => {
             output.write((options.quest ? `[QUST] ${dials[id].questId} ` : '') +
                     `[DIAL] ${id} [INFO] ${dials[id].join(' ')}\n`);
