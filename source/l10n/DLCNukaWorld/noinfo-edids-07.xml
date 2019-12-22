@@ -29,13 +29,13 @@
       <EDID>DLC04FlagpoleMessageKiddie</EDID>
       <REC>MESG:FULL</REC>
       <Source>Kiddie Gang Choice</Source>
-      <Dest>Výběr Kiddie gangu</Dest>
+      <Dest>Výběr Dětského gangu</Dest>
     </String>
     <String List="0" sID="000135">
       <EDID>DLC04FlagpoleMessageGalaxy</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Pack</Source>
-      <Dest>Šelmy</Dest>
+      <Dest>Smečka</Dest>
     </String>
     <String List="0" sID="000136">
       <EDID>DLC04FlagpoleMessageGalaxy</EDID>
@@ -77,7 +77,7 @@
       <EDID>DLC04FlagpoleMessageKiddie</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Pack</Source>
-      <Dest>Šelmy</Dest>
+      <Dest>Smečka</Dest>
     </String>
     <String List="0" sID="000143">
       <EDID>DLC04FlagpoleMessageWildWest</EDID>
@@ -107,7 +107,7 @@
       <EDID>DLC04FlagpoleMessageWildWest</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Pack</Source>
-      <Dest>Šelmy</Dest>
+      <Dest>Smečka</Dest>
     </String>
     <String List="0" sID="00014F">
       <EDID>DLC04FlagpoleMessageSafari</EDID>
@@ -131,13 +131,13 @@
       <EDID>DLC04FlagpoleNotReclaimedMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Area Not Reclaimed</Source>
-      <Dest>Oblast není zúrodněná</Dest>
+      <Dest>Nezabraná oblast</Dest>
     </String>
     <String List="0" sID="000156">
       <EDID>DLC04FlagpoleMessageSafari</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Pack</Source>
-      <Dest>Šelmy</Dest>
+      <Dest>Smečka</Dest>
     </String>
     <String List="0" sID="000157">
       <EDID>DLC04FlagpoleMessageGalaxy</EDID>
@@ -149,7 +149,7 @@
       <EDID>DLC04FlagpoleMessageBottling</EDID>
       <REC id="2">MESG:ITXT</REC>
       <Source>Pack</Source>
-      <Dest>Šelmy</Dest>
+      <Dest>Smečka</Dest>
     </String>
     <String List="0" sID="000348">
       <EDID>DLC04Gauntlet01</EDID>
@@ -185,7 +185,7 @@
       <EDID>DLC04GangOperatorsFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Raider - Operators Faction</Source>
-      <Dest>Raider - Operators Faction</Dest>
+      <Dest>Nájezdník - frakce Provozáků</Dest>
     </String>
     <String List="0" sID="0007BA">
       <EDID>DLC04EncNukatron01Template</EDID>
@@ -197,19 +197,19 @@
       <EDID>DLC04GangDisciplesFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Raider - Disciples Faction</Source>
-      <Dest>Raider - Disciples Faction</Dest>
+      <Dest>Nájezdník - frakce Stoupenců</Dest>
     </String>
     <String List="0" sID="000981">
       <EDID>DLC04GangPackFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Raider - Pack Faction</Source>
-      <Dest>Raider - Pack Faction</Dest>
+      <Dest>Nájezdník - frakce Smečka</Dest>
     </String>
     <String List="0" sID="0009E5">
       <EDID>DLC04GZBattlezone01</EDID>
       <REC>CELL:FULL</REC>
       <Source>RobCo Battlezone</Source>
-      <Dest>RobCo bojová zóna</Dest>
+      <Dest>Bojová zóna RobCo</Dest>
     </String>
     <String List="0" sID="000A32">
       <EDID>DLC04GalacticZone_NukaGalaxyLocation</EDID>
@@ -221,7 +221,7 @@
       <EDID>DLC04GalacticZone_StarlightInterstellarTheaterLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Starlight Interstellar Theater</Source>
-      <Dest>Divadlo Starlight Interstellar</Dest>
+      <Dest>Divadlo Mezihvězdný třpyt</Dest>
     </String>
     <String List="0" sID="000A3B">
       <EDID>DLC04GalacticZone_VaultTecAmongTheStarsLocation</EDID>
@@ -233,7 +233,7 @@
       <EDID>DLC04GalacticZone_RobCoBattlezoneLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>RobCo Battlezone</Source>
-      <Dest>RobCo bojová zóna</Dest>
+      <Dest>Bojová zóna RobCo</Dest>
     </String>
     <String List="0" sID="000A89">
       <EDID>DLC04EncMisterHandy01Mister</EDID>
@@ -251,49 +251,49 @@
       <EDID>DLC04EncNukalurkKing01</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk King</Source>
-      <Dest>Král nukalurků</Dest>
+      <Dest>Král nukaplíživců</Dest>
     </String>
     <String List="0" sID="000B04">
       <EDID>DLC04EncNukalurkQueen</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk Queen</Source>
-      <Dest>Královna nukalurků</Dest>
+      <Dest>Královna nukaplíživců</Dest>
     </String>
     <String List="0" sID="000B06">
       <EDID>DLC04EncNukalurk01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk</Source>
-      <Dest>Nukalurk</Dest>
+      <Dest>Nukaplíživec</Dest>
     </String>
     <String List="0" sID="000B07">
       <EDID>DLC04EncNukalurkHunter01</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk Hunter</Source>
-      <Dest>Nukalurk lovec</Dest>
+      <Dest>Nukaplíživec lovec</Dest>
     </String>
     <String List="0" sID="000B0A">
       <EDID>DLC04EncNukalurkSpawn01</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk Spawn</Source>
-      <Dest>Mládě nukalurka</Dest>
+      <Dest>Mládě nukaplíživce</Dest>
     </String>
     <String List="0" sID="000B7A">
       <EDID>DLC04GrandchesterMansion01</EDID>
       <REC>CELL:FULL</REC>
       <Source>Grandchester Mystery Mansion</Source>
-      <Dest>Tajemné sídlo Grandchesterů</Dest>
+      <Dest>Strašidelné sídlo Grandchesterů</Dest>
     </String>
     <String List="0" sID="000C13">
       <EDID>DLC04Grandchester</EDID>
       <REC>QUST:FULL</REC>
       <Source>Grandchester Mansion Controller Quest</Source>
-      <Dest>Grandchester Mansion Controller Quest</Dest>
+      <Dest>Strašidelné sídlo Grandchesterů kontrolní úkol</Dest>
     </String>
     <String List="0" sID="000D49">
       <EDID>DLC04EncSpaceSentryBot01Template</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry</Source>
-      <Dest>Předválečný strážní robot</Dest>
+      <Dest>Vesmírný strážní robot</Dest>
     </String>
     <String List="0" sID="000D8D">
       <EDID>DLC04EncSpaceAssaultron01Template</EDID>
@@ -305,7 +305,7 @@
       <EDID>DLC04FunhouseLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Fun House</Source>
-      <Dest>Dům zábavy</Dest>
+      <Dest>Panoptikum</Dest>
     </String>
     <String List="0" sID="000F88">
       <EDID>DLC04EncNira</EDID>
@@ -323,7 +323,7 @@
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="0012B7">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -341,25 +341,25 @@ MOUNT Mounting STAR Cores... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/
 CONNECT Connecting to linked robotics... [FAIL]&#xD;
 &#xD;
 Insufficient Star Cores to assert control over linked robotic systems. Emergency Operations Mode may provide limited functionality.</Source>
-      <Dest>!****** MAINLINK(R) systému BIOS - V10.2.1.1 ******&#xD;
+      <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
 EXEC VERZE 57.09&#xD;
-LOAD ROM (1): STAR_CONTROL&#xD;
+LOAD ROM (1): STAR_OVLÁDÁNÍ&#xD;
 &#xD;
-************* STAR_CONTROL - v1.1.7 *************&#xD;
-INIT RobCo data Exchange Protocol v3.11 ... [OK]&#xD;
-LINK Zřízení Mainframe interlink ... [OK]&#xD;
-rozvaděče Montáž hlavních jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
-CONNECT Připojení k propojených robotice ... [FAIL]&#xD;
+************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
+INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
+LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
+ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
+PŘIPOJENÍ Připojování k napojené robotice ... [SELHALO]&#xD;
 &#xD;
-Nedostatek hlavních jader prosadit kontrolu nad tím spojených robotických systémů. Režim Emergency Operations může poskytnout omezenou funkčnost.</Dest>
+Nedostatek STAR jader pro získání kontroly nad propojenými robotickými systémy. Funkce nouzového režimu mohou být omezené.</Dest>
     </String>
     <String List="0" sID="0012D4">
       <EDID>DLC04GrandchesterMansionLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Grandchester Mystery Mansion</Source>
-      <Dest>Tajemné sídlo Grandchesterů</Dest>
+      <Dest>Strašidelné sídlo Grandchesterů</Dest>
     </String>
     <String List="0" sID="0012E5">
       <EDID>DLC04GZCoreHoldingContainer</EDID>
@@ -382,24 +382,24 @@ LINK Establishing Mainframe Interlink... [OK]&#xD;
 MOUNT Mounting STAR Cores... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;] [FAIL]&#xD;
 &#xD;
 No Star Cores detected. A minimum of one (1) control core is required to initialize Emergency Operations Mode. Boot sequence aborted.</Source>
-      <Dest>!****** MAINLINK(R) systému BIOS - V10.2.1.1 ******&#xD;
+      <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
 EXEC VERZE 57.09&#xD;
-LOAD ROM (1): STAR_CONTROL&#xD;
+LOAD ROM(1): STAR_OVLADÁNÍ&#xD;
 &#xD;
-************* STAR_CONTROL - v1.1.7 *************&#xD;
-INIT RobCo data Exchange Protocol v3.11 ... [OK]&#xD;
-LINK Zřízení Mainframe interlink ... [OK]&#xD;
-rozvaděče Montáž hlavních jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [FAIL]&#xD;
+************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
+INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
+LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
+ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [SELHALO]&#xD;
 &#xD;
-Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je zapotřebí k inicializaci režimu záchranné operace. Zaváděcí sekvence přerušena.</Dest>
+Nebyla detekována žádná STAR jádra. Pro spuštění protokolu Nouzového režimu je vyžadováno alespoň jedno (1) jádro. Bootovací sekvence přerušena.</Dest>
     </String>
     <String List="0" sID="001337">
       <EDID>DLC04GZ_StarCore</EDID>
       <REC>MISC:FULL</REC>
       <Source>Star Core</Source>
-      <Dest>Hlavní jádro</Dest>
+      <Dest>STAR jádro</Dest>
     </String>
     <String List="0" sID="00134E">
       <EDID>DLC04GZ_StarCoreActivator</EDID>
@@ -417,13 +417,13 @@ Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je z
       <EDID>DLC04EncSpaceMrGutsy01Template</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Cadet Astro-Gutsy</Source>
-      <Dest>Kadet Odvážný Astro</Dest>
+      <Dest>Kadet Astro-Odvážný</Dest>
     </String>
     <String List="0" sID="0013BF">
       <EDID>DLC04GZ_StarCoreActivator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Star Core</Source>
-      <Dest>Hlavní jádro</Dest>
+      <Dest>STAR jádro</Dest>
     </String>
     <String List="0" sID="0013D3">
       <EDID>DLC04GZ_ConsolePanelStarCore</EDID>
@@ -447,19 +447,19 @@ Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je z
       <EDID>DLC04EncSpaceSentryBot03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry Annihilator</Source>
-      <Dest>Předválečný strážní robot annihilátor</Dest>
+      <Dest>Vesmírný strážní robot ničitel</Dest>
     </String>
     <String List="0" sID="001464">
       <EDID>DLC04GZ_ConsolePanelStarCore</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Star Core</Source>
-      <Dest>Hlavní jádro</Dest>
+      <Dest>STAR jádro</Dest>
     </String>
     <String List="0" sID="00147A">
       <EDID>DLC04EncNukatron02</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Nukatron Watcher</Source>
-      <Dest>Nukatron hlídač</Dest>
+      <Dest>Nukatron pozorovatel</Dest>
     </String>
     <String List="0" sID="00148F">
       <EDID>DLC04FakeAlienBlasterTurret</EDID>
@@ -471,13 +471,13 @@ Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je z
       <EDID>DLC04EncSpaceSentryBot04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry Obliterator</Source>
-      <Dest>Předválečný strážní robot hubitel</Dest>
+      <Dest>Vesmírný strážní robot vyhlazovač</Dest>
     </String>
     <String List="0" sID="0014A3">
       <EDID>DLC04EncSpaceSentryBot02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry Breaker</Source>
-      <Dest>Předválečný strážní robot lamač</Dest>
+      <Dest>Vesmírný strážní robot bořitel</Dest>
     </String>
     <String List="0" sID="0014C0">
       <EDID>DLC04EncSpaceProtectron01Template</EDID>
@@ -489,25 +489,25 @@ Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je z
       <EDID>DLC04EncSpaceMrGutsy04</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Captain Astro-Gutsy</Source>
-      <Dest>Kapitán Odvážný Astro</Dest>
+      <Dest>Kapitán Astro-Odvážný</Dest>
     </String>
     <String List="0" sID="0014EE">
       <EDID>DLC04EncSpaceAssaultron02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Novatron Invader</Source>
-      <Dest>Novatron vetřelec</Dest>
+      <Dest>Invazní novatron</Dest>
     </String>
     <String List="0" sID="0014F6">
       <EDID>DLC04EncSpaceMrGutsy02</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Lieutenant Astro-Gutsy</Source>
-      <Dest>Poručík Odvážný Astro</Dest>
+      <Dest>Poručík Astro-Odvážný</Dest>
     </String>
     <String List="0" sID="0014F7">
       <EDID>DLC04EncSpaceMrGutsy03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Commander Astro-Gutsy</Source>
-      <Dest>Velitel Odvážný Astro</Dest>
+      <Dest>Velitel Astro-Odvážný</Dest>
     </String>
     <String List="0" sID="001510">
       <EDID>DLC04GZ_StarCoreActivateTextInstall</EDID>
@@ -531,7 +531,7 @@ Nedetekována žádná hlavní jádra. Minimálně jedno (1) hlavní jádro je z
       <EDID>DLC04EncSpaceAssaultron03</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Novatron Dominator</Source>
-      <Dest>Novatron dominátor</Dest>
+      <Dest>Novatron dominus</Dest>
     </String>
     <String List="0" sID="001578">
       <EDID>DLC04EncNukatron02</EDID>
@@ -573,13 +573,13 @@ Status: INACTIVE&#xD;
 Description: Connects to all linked robotic systems with the specified firmware and issues an emergency shutdown order, overriding all other commands. Once selected, the target cannot be changed.&#xD;
 &#xD;
 Select target:</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Selektivní vypnutí I&#xD;
-Status: neaktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Selektivní vypnutí I&#xD;
+Status: NEAKTIVNÍ&#xD;
 &#xD;
-Popis: Připojuje se všechny propojené robotických systémů se specifikovaným firmware a otázky nouzové zastavení objednávky, nadřazené všem ostatním příkazy. Po výběru cílové nelze změnit.&#xD;
+Popis: připojí se na všechny propojené robotické systémy se specifickým firmwarem, vydá nouzový příkaz k vypnutí a anuluje tak všechny ostatní příkazy. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
 &#xD;
-Vybrat cíl:</Dest>
+Zvolte cíl:</Dest>
     </String>
     <String List="0" sID="001646">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -592,12 +592,12 @@ STAR CORES:&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores required for full functionality.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Nedostatek hlavních jader prosadit kontrolu nad tím spojených robotických systémů. Nouzové protokoly budou k dispozici jako jsou nainstalovány další hlavní jádra.&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nedostatek STAR jader pro získání kontroly nad propojenými robotickými systémy. Nouzové protokoly budou k dispozici, jakmile budou nainstalována další STAR jádra.&#xD;
 &#xD;
-HLAVNÍ JÁDRA:&#xD;
-&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresClearTotal&gt; hlavních jader potřebných pro základní provoz.&#xD;
-&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; hlavních jader potřebných pro plnou funkčnost.&#xD;
+STAR JÁDRA:&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresClearTotal&gt; STAR jader potřebných pro základní funkce.&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader potřebných pro plnou funkčnost.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -617,7 +617,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="9">TERM:ITXT</REC>
       <Source>Protocol: Defensive Mode</Source>
-      <Dest>!Protokol: Defensive Mode</Dest>
+      <Dest>Protokol: Obranný mód</Dest>
     </String>
     <String List="0" sID="001651">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -665,13 +665,13 @@ Status: INACTIVE&#xD;
 Description: Connects to all linked robotic systems with the specified firmware and issues an emergency shutdown order, overriding all other commands. Once selected, the target cannot be changed.&#xD;
 &#xD;
 Select target:</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Selektivní vypínání II&#xD;
-Status: neaktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Selektivní vypnutí II&#xD;
+Status: NEAKTIVNÍ&#xD;
 &#xD;
-Popis: Připojuje se všechny propojené robotických systémů se specifikovaným firmware a otázky nouzové zastavení objednávky, nadřazené všem ostatním příkazy. Po výběru cílové nelze změnit.&#xD;
+Popis: připojí se na všechny propojené robotické systémy se specifickým firmwarem, vydá nouzový příkaz k vypnutí a anuluje tak všechny ostatní příkazy. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
 &#xD;
-Vybrat cíl:</Dest>
+Zvolte cíl:</Dest>
     </String>
     <String List="0" sID="001663">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -683,13 +683,13 @@ Status: INACTIVE&#xD;
 Description: Asserts control over linked robotic systems with the specified firmware, causing them to recognize and aid the designated user. Once selected, the target cannot be changed.&#xD;
 &#xD;
 Select target:</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Limited Control&#xD;
-Status: neaktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Omezená kontrola&#xD;
+Status: NEAKTIVNÍ&#xD;
 &#xD;
-Popis: tvrdí kontrolu nad propojených robotických systémů se specifikovaným firmware, přimět je, aby rozpoznat a pomoci určené uživatele. Po výběru cílové nelze změnit.&#xD;
+Popis: získá kontrolu nad propojenými robotickými systémy se specifickým firmwarem a způsobí, že tyto budou schopny rozpoznat a pohámat vybranému uživateli. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
 &#xD;
-Vybrat cíl:</Dest>
+Zvolte cíl:</Dest>
     </String>
     <String List="0" sID="001666">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -707,25 +707,25 @@ MOUNT Mounting STAR Cores... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/
 CONNECT Connecting to linked robotics... [OK]&#xD;
 &#xD;
 Completing boot sequence. Please wait...</Source>
-      <Dest>!****** MAINLINK(R) systému BIOS - V10.2.1.1 ******&#xD;
+      <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
 EXEC VERZE 57.09&#xD;
-LOAD ROM (1): STAR_CONTROL&#xD;
+LOAD ROM (1): STAR_OVLÁDÁNÍ&#xD;
 &#xD;
-************* STAR_CONTROL - v1.1.7 *************&#xD;
-INIT RobCo data Exchange Protocol v3.11 ... [OK]&#xD;
-LINK Zřízení Mainframe interlink ... [OK]&#xD;
-rozvaděče Montáž hlavních jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
-CONNECT Připojení k propojených robotice ... [OK]&#xD;
+************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
+INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
+LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
+ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
+PŘIPOJENÍ Připojování k napojené robotice ... [OK]&#xD;
 &#xD;
-Dokončení bootovací sekvence. Prosím, čekejte...</Dest>
+Dokončování bootovací sekvence. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="001669">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="00166C">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -746,22 +746,22 @@ Star Control technology is built on a series of highly redundant, interchangable
 Individual Star Cores may be safely replaced during normal operation. In the event of a major failure, Star Control can still boot into a limited-functionality Emergency Mode if at least one Star Core is present. While the system is in Emergency Mode, all robots and defenses will continue to act on their prior operating instructions. As Cores are replaced, a series of emergency protocols will be progressively unlocked as computing resources permit, allowing the user to react to urgent problems until full functionality can be restored.&#xD;
 &#xD;
 For additional sales, service, or technical support, please contact the RobCo Enterprise Solutions division. Thank you for choosing RobCo.</Source>
-      <Dest>PROVOZNÍ MANUÁL&#xD;
+      <Dest>PROVOZNÍ POKYNY&#xD;
 S.T.A.R. Ovládání, Build v.1.1.7&#xD;
 &#xD;
-Systematizovaná Telemetrie Automatizovaného Robotického Ovládání (S.T.A.R. Ovládání) systému, vyvinutá RobCo Industries (TM), je kompletní řešení pro firemní zákazníky, kteří potřebují administraci velkého počtu robotů a obranných systémů.&#xD;
+Systém „Systematizovaná Telemetrie Automatizovaného Robotického Ovládání“ (S.T.A.R. Ovládání) vyvinutý společností RobCo Industries (TM), je kompletní řešení pro firemní zákazníky, kteří potřebují spravovat velký počet robotů a obranných systémů.&#xD;
 &#xD;
-Technologie S.T.A.R. Ovládání je postavena na řadě vysoce redundantních, zaměnitelných telemetrických modulů (hlavních jader). V provozu jsou tato jádra mezičlánkem pro rádiovou komunikaci mezi serverem S.T.A.R. Ovládání a propojenými robotickými systémy, umožňujícími serveru koordinaci své činnosti a vydávání příkazů bez ohledu na jejich operativní protokoly.&#xD;
+Technologie STAR ovládání je založena na řadě vysoce nahraditelných, zaměnitelných telemetrických modulů (tzv. STAR jádrech). Při provozu tato jádra vytvoří mezičlánek pro rádiovou komunikaci mezi centrálním počítačem ovládání STAR a připojenými robotickými systémy, čímž umožní centrálnímu počítači koordinovat jejich činnosti a zadávat příkazy bez ohledu na jejich základní operativní protokoly.&#xD;
 &#xD;
-Jednotlivá hlavní jádra mohou být bezpečně nahrazena během normálního provozu. V případě závažné poruchy S.T.A.R. Ovládání se může stále zavést do nouzového režimu s omezenou funkčností, pokud je přítomno alespoň jedno hlavní jádro. I když je systém v nouzovém režimu, budou všichni roboti a obrana i nadále působit dle svého původního návodu k obsluze. Jakmile jsou jádra postupně nahrazována, bude postupně odemčena řada mimořádných protokolů k umožnění výpočetních prostředků, které uživateli dovolí reagovat na naléhavé problémy, dokud nebude obnovena plná funkčnost.&#xD;
+Jednotlivá STAR jádra mohou být bezpečně vyměněna i při běžném provozu. V případě závažné poruchy je stále možné STAR ovládání nabootovat v nouzovém režimu s omezenou funkčností, pokud je přítomno alespoň jedno STAR jádro. Zatímco je systém v nouzovém režimu, jednají všichni roboti v souladu s jejich předchozími provozními pokyny. S tím, jak budou jednotlivá jádra nahrazována, se začně postupně odemykat série nouzových protokolů umožňujících díky vzrůstajícímu výpočetnímu výkonu uživateli reagovat na urgentní problémy do okamžiku, než bude obnovena plná funkčnost systému.&#xD;
 &#xD;
-Pro další prodej, servis nebo technickou podporu, se obraťte na RobCo Enterprise Solutions Division. Děkujeme, že jste si vybrali RobCo.</Dest>
+Pro doplňková prodej, servis a technickou podporu prosím kontaktujte oddělení RobCo Enterprise Solutions. Děkujeme, že jste si vybrali RobCo.</Dest>
     </String>
     <String List="0" sID="001671">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***** STAR CONTROL SYSTEM LOGS *****</Source>
-      <Dest>!*****ZÁZNAMY ŘÍZENÍ HLAVNÍHO SYSTÉMU*****</Dest>
+      <Dest>*****S.T.A.R. OVLÁDÁNÍ SYSTÉMOVÉ ZÁZNAMY*****</Dest>
     </String>
     <String List="0" sID="001672">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -773,7 +773,7 @@ Pro další prodej, servis nebo technickou podporu, se obraťte na RobCo Enterpr
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Initialize Emergency Operations Mode</Source>
-      <Dest>!Inicializace režimu záchranné operace</Dest>
+      <Dest>Spouštění nouzového režimu</Dest>
     </String>
     <String List="0" sID="001676">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -791,7 +791,7 @@ Pro další prodej, servis nebo technickou podporu, se obraťte na RobCo Enterpr
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="00167C">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -803,19 +803,19 @@ Colter's gangs took Nuka-Town. We got survivors incoming. I had the boys throw u
 I told Tiana to turn on that Defensive Mode she told me about. She panicked-- said we'd taken too many Cores from this thing; it couldn't handle the reboot. Sent everyone she could find to go strip Cores from the other rides.&#xD;
 &#xD;
 The girl means well, but with the gangs breathing down our necks, I gotta do something. What's the worst that could happen?</Source>
-      <Dest>!Kendell deník - 11.04.2286&#xD;
+      <Dest>Kendellův deník: 11. 4. 2286&#xD;
 &#xD;
-Colter své gangy trvalo Nuka-město. Máme přeživší příchozí. Měl jsem chlapci hodit nějaké obranu, ale je nebude trvat dlouho.&#xD;
+Colterovy gangy zabraly Nuka-Town. Přicházejí mi sem přeživší. Nechal jsem kluky nahodit nějaký obranný prostředky, ale ty dlouho nevydrží.&#xD;
 &#xD;
-jsem řekl, Tiana zapnout, že blokační režim Řekla mi o. Ona panicked--, že bychom si vzal příliš mnoho Jádra z této věci; to nemohlo zvládnout restart. Poslal každý si mohl najít jít proužkem Jádra od ostatních jízd.&#xD;
+Řekl jsem Tianě, aby zapnula ten Obranný režim, co mi o něm povídala. Na to zpanikařila – řekla, že jsme z té věci vzali příliš mnoho jader a že to ten restart nemuselo zvládnout. Každého, koho našla, poslala sbírat jádra do ostatních atrakcí.&#xD;
 &#xD;
-Ta dívka myslí dobře, ale s gangy dýchá na záda, musím něco udělat. Co je nejhorší by se mohlo stát?</Dest>
+Holka to myslí dobře, ale já musím něco udělat, když mi ty gangy už pomalu dejchaj na záda. Co nejhoršího by se mohlo stát?</Dest>
     </String>
     <String List="0" sID="00167F">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Kendell's Log: 2/29/2284</Source>
-      <Dest>Kendellův deník: 29.02.2284</Dest>
+      <Dest>Kendellův deník: 29. 2. 2284</Dest>
     </String>
     <String List="0" sID="001680">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
@@ -830,8 +830,8 @@ Ta dívka myslí dobře, ale s gangy dýchá na záda, musím něco udělat. Co 
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores installed.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>!HLAVNÍ JÁDRA:&#xD;
-Nainstalováno jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;&#xD;
+      <Dest>STAR jádra:&#xD;
+Počet nainstalovaných STAR jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -857,7 +857,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="10">TERM:ITXT</REC>
       <Source>Protocol: Display Case Access</Source>
-      <Dest>Protokol: přístup k vitríně</Dest>
+      <Dest>Protokol: Přístup k vitríně</Dest>
     </String>
     <String List="0" sID="00168C">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -893,19 +893,19 @@ Status: INACTIVE&#xD;
 Description: Establishes a weak connection to linked robotic systems in the target area, allowing them to be detected and tracked by the user. Once a target has been selected, it cannot be changed.&#xD;
 &#xD;
 Select target:</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: bug tracking&#xD;
-Status: neaktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Vyhledání bugu&#xD;
+Status: NEAKTIVNÍ&#xD;
 &#xD;
-Popis: Naváže slabé připojení k propojené robotických systémů v cílové oblasti, což jim umožňuje být detekovány a sledována uživatelem , Poté, co byl vybrán cíl, nemůže být změněna.&#xD;
+Popis: naváže slabé spojení s propojenými robotickými systémy v cílové oblasti, čímž umožní jejich odhalení a nalezení uživatelem. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
 &#xD;
-Vybrat cíl:</Dest>
+Zvolte cíl:</Dest>
     </String>
     <String List="0" sID="00169D">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="00169E">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
@@ -945,17 +945,17 @@ Emergency Protocol: Limited Control&#xD;
 Status: ACTIVE&#xD;
 &#xD;
 The Limited Control Order was issued successfully.</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Limited Control&#xD;
-Status: aktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Omezená kontrola&#xD;
+Status: AKTIVNÍ&#xD;
 &#xD;
-Omezená Control Řád byl úspěšně vydán.</Dest>
+Příkaz Omezené kontroly byl úspěšně zadán.</Dest>
     </String>
     <String List="0" sID="0016AB">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Galactic Zone Grounds</Source>
-      <Dest>!Galaktická zóna Důvody</Dest>
+      <Dest>Pozemky Galaktické zóny</Dest>
     </String>
     <String List="0" sID="0016AE">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
@@ -976,16 +976,16 @@ ERROR: Insufficient Cores for software bypass. &#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; required.&#xD;
 &#xD;
 Please install additional Star Cores to proceed.</Source>
-      <Dest>!Přístup k ovládání vitríny... hotovo.&#xD;
+      <Dest>Přistupování k ovládání vitríny... hotovo.&#xD;
 &#xD;
 CHYBA: Detekován poškozený řídicí software.&#xD;
-Inicializace dalších hlavních jader k zabránění poškození bloků...&#xD;
+Inicializace dalších STAR jader k obejití poškozených bloků...&#xD;
 &#xD;
-Chyba: Nedostatek jader pro přemostění softwaru.&#xD;
-Zjištěno &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt; hlavních jader&#xD;
-Vyžadováno &lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; hlavních jader&#xD;
+CHYBA: Nedostatek jader pro softwarové přemostění. &#xD;
+Zjištěno &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt; STAR jader;&#xD;
+Vyžadováno &lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader;&#xD;
 &#xD;
-Prosím, pokračujte v instalaci dalších hlavních jader.</Dest>
+Prosím, pro pokračování nainstalujte další STAR jádra.</Dest>
     </String>
     <String List="0" sID="0016B0">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
@@ -996,12 +996,12 @@ Initiating System Reset... done.&#xD;
 &#xD;
 WARNING:&#xD;
 A critical fault has been detected in the [Defensive Mode] protocol. [Defensive Mode] will be disabled until the fault has been repaired.</Source>
-      <Dest>!Deaktivace obranný režim ... hotovo.&#xD;
+      <Dest>Deaktivace Obranného režimu... hotovo.&#xD;
 &#xD;
-Zahájení Reset systému ... hotovo.&#xD;
+Zahájení resetu systému... hotovo.&#xD;
 &#xD;
 POZOR:&#xD;
-kritická byla zjištěna závada v protokolu [Defensive režim]. [Defensive Mode] bude zakázán, dokud nebude opravena chyba.</Dest>
+V protokolu [Obranný režim] byla zjištěna kritická chyba. [Obranný režim] bude vypnut, dokud nebude chyba opravena.</Dest>
     </String>
     <String List="0" sID="0016B2">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -1018,12 +1018,12 @@ ERROR: Corrupted control software detected.&#xD;
 Initializing additional Star Cores to bypass corrupted blocks... done.&#xD;
 &#xD;
 Security lock released. Opening...</Source>
-      <Dest>!Přístup k ovládání vitríny... hotovo.&#xD;
+      <Dest>Přistupování k ovládání vitríny... hotovo.&#xD;
 &#xD;
 CHYBA: Detekován poškozený řídicí software.&#xD;
-Inicializace dalších hlavních jader k zabránění poškození bloků... hotovo.&#xD;
+Inicializace dalších STAR jader k obejití poškozených bloků...&#xD;
 &#xD;
-Bezpečnostní zámek uvolněn. Otevírání...</Dest>
+Bezpečnostní zámky odpojeny. Otevírání...</Dest>
     </String>
     <String List="0" sID="0016BE">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
@@ -1035,7 +1035,7 @@ Bezpečnostní zámek uvolněn. Otevírání...</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="0016C5">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1045,11 +1045,11 @@ Bezpečnostní zámek uvolněn. Otevírání...</Dest>
 Took us three days, but we finally broke through the rubble around the north gate. Walked right in. No turrets, no combat bots, nothing. The only robot I had to put down was that damned Nukatron that kept trying to sell me a ten-dollar bottle of Nuka-Cherry. Stupid thing wouldn't even take caps.&#xD;
 &#xD;
 This here's the real prize, though-- top-of-the-line pre-war tech, still humming along. My girl Tiana says these glowy things are 'redundant', which I guess means we can take 'em. Oughta fetch a good price back in town.</Source>
-      <Dest>!Kendell deník - 2/29/2284&#xD;
+      <Dest>Kendellův deník: 29. 2. 2284&#xD;
 &#xD;
-nám trvalo tři dny, ale nakonec jsme prorazili trosek kolem severní brány. Vešel dovnitř. Bez věže, žádné bojové roboty, nic. Jediný robot jsem musel dát dolů byla ta zatracená Nukatron, že stále snaží prodat mi láhev deset dolarů z Nuka-třešeň. Hloupost by ani brát zátek?&#xD;
+Trvalo nám to tři dny, ale konečně jsem se prokopali sutinami kolem severní brány. Nakráčeli jsme přímo dovnitř. Žádné věže, žádní bojoví roboti, nic. Jediný robot, kterého jsem musel sejmout, byl ten zatracený nukatron, co se mi snažil prodat láhev Nuka-Cherry za deset dolarů. Ta zatracený krám mi ani nechtěl vzít zátky.&#xD;
 &#xD;
-Tohle je skutečná cena, though-- top-of-the-line předválečný tech, stále hučení spolu. Moje dívka Tiana říká, že tyto věci jsou Glowy „nadbytečné", což myslím znamená, že můžeme vzít 'em. Oughta přinesla dobrou cenu zpátky ve městě.</Dest>
+Hlavní cenou je ale tady tohle – špičková předválečná technologie, stále funkční. Moje holčička, Tiana, říká, že ty svítící věcičky jsou „nahraditelné“, což asi znamená, že je můžeme vzít. Za ty bychom měli ve městě dostat dobrou cenu.</Dest>
     </String>
     <String List="0" sID="0016CA">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
@@ -1069,9 +1069,9 @@ Tohle je skutečná cena, though-- top-of-the-line předválečný tech, stále 
       <Source>Technician's Log - 8/31/2077&#xD;
 &#xD;
 Finished the install job for the new mainframe today. Mark and I fired it up for a test run after hours. Seemed to go pretty well. RobCo's communications interlink doesn't play nice with older-model Handys we've got working concessions-- big surprise there-- but I'm still glad we went with their bid over the one from General Atomics. Their 'Director' system is a mess-- single point of failure and all. Star Control may be overkill, but at least it has some redundancy if something does go wrong.</Source>
-      <Dest>!Technikův deník - 8/31/2077&#xD;
+      <Dest>Technikův deník: 31. 8. 2077&#xD;
 &#xD;
-dokončil instalaci práci pro nový server dnes. Mark a já vypálil to pro zkušebním provozu po několika hodinách. Zdálo se, že jít docela dobře. RobCo je komunikace propojit nehraje pěkný s starších modelů Šikulků máme pracovat concessions-- velké there-- překvapení, ale pořád jsem rád, že jsme šli s jejich nabídky nad jedním z General Atomics. Jejich systém „ředitel“ je mess-- jediný bod selhání a všechny. S.T.A.R. Ovládání může být zbytečné, ale alespoň to má nějaký nadbytečnost, pokud se něco pokazí.</Dest>
+Dneska jsem dodělal instalaci nového centrálního počítače. Po šichtě jsme ho s Markem na zkoušku zapli a nechali jet. Zdá se, že funguje celkem dobře. Komunikační mezičlánek od RobCa si moc nerozumí se staršími modely Šikulků, na které máme licence – to je ale překvapení – ale stejně jsem rád, že jsem kývli na jejich nabídku a ne na tu z General Atomics. Ten jejich systém „Řídící“ je šílený – stačí, aby to selhalo na jednom místě a konečná. STAR ovládání je v tomto ohledu možná až přehání, ale alespoň tam jsou nějaké nahraditelné prvky, když se něco zvrtne.</Dest>
     </String>
     <String List="0" sID="0016D1">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -1083,7 +1083,7 @@ dokončil instalaci práci pro nový server dnes. Mark a já vypálil to pro zku
       <EDID>DLC04GangOperatorsNukaWorldNPCFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Raider - Operators Generic NPC Faction</Source>
-      <Dest>Raider - Operators Generic NPC Faction</Dest>
+      <Dest>Nájezdník - frakce obyčejných NPC Provozáků</Dest>
     </String>
     <String List="0" sID="0016D3">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -1098,8 +1098,8 @@ dokončil instalaci práci pro nový server dnes. Mark a já vypálil to pro zku
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores required for full functionality.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>!HLAVNÍ JÁDRA:&#xD;
-Počet jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;&#xD;
+      <Dest>STAR jádra:&#xD;
+Počet STAR jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -1119,7 +1119,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Kendell's Log: 4/11/2286</Source>
-      <Dest>Kendellův deník: 11.04.2286</Dest>
+      <Dest>Kendellův deník: 11. 4. 2286</Dest>
     </String>
     <String List="0" sID="0016D9">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
@@ -1130,12 +1130,12 @@ ERROR: Corrupted control software detected.&#xD;
 Initializing additional Star Cores to bypass corrupted blocks... done.&#xD;
 &#xD;
 Security lock engaged. Closing...</Source>
-      <Dest>!Přístup k ovládání vitríny... hotovo.&#xD;
+      <Dest>Přistupování k ovládání vitríny... hotovo.&#xD;
 &#xD;
 CHYBA: Detekován poškozený řídicí software.&#xD;
-Inicializace dalších hlavních jader k zabránění poškození bloků... hotovo.&#xD;
+Inicializace dalších STAR jader k obejití poškozených bloků...&#xD;
 &#xD;
-Bezpečnostní zámek aktivován. Uzavírání...</Dest>
+Bezpečnostní zámky zapojeny. Uzavírání...</Dest>
     </String>
     <String List="0" sID="0016DD">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -1145,11 +1145,11 @@ Emergency Protocol: Selective Shutdown II&#xD;
 Status: ACTIVE&#xD;
 &#xD;
 The Selective Shutdown was issued successfully.</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Selektivní vypínání II&#xD;
-Status: aktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Selektivní vypnutí Ii&#xD;
+Status: AKTIVNÍ&#xD;
 &#xD;
-Selektivní vypínání byla úspěšně vydán.</Dest>
+Příkaz Selektivního vypnutí byl úspěšně zadán.</Dest>
     </String>
     <String List="0" sID="0016DE">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -1162,10 +1162,10 @@ STAR CORES:&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
       <Dest>VAROVÁNÍ:&#xD;
-Byla zjištěna závada v protokolu [Obranný režim]. Zakažte tento protokol a obraťte se na inženýra RobCo Enterprise Systems s žádostí o pomoc.&#xD;
+V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
-HLAVNÍ JÁDRA:&#xD;
-Počet hlavních jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;.&#xD;
+STAR JÁDRA:&#xD;
+Počet STAR jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -1183,17 +1183,17 @@ Emergency Protocol: Tracking Bug&#xD;
 Status: ACTIVE&#xD;
 &#xD;
 The Tracking Bug was set successfully.</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: bug tracking&#xD;
-Status: aktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Vyhledání bugu&#xD;
+Status: AKTIVNÍ&#xD;
 &#xD;
-bug tracking byla úspěšně nastavena.</Dest>
+Příkaz Vyhledání bugu byl úspěšně zadán.</Dest>
     </String>
     <String List="0" sID="0016E2">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Deactivate Defensive Mode</Source>
-      <Dest>!Deaktivovat obranný režim</Dest>
+      <Dest>Deaktivovat Obranný režim</Dest>
     </String>
     <String List="0" sID="0016E3">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
@@ -1213,12 +1213,12 @@ Description: Engages live-fire defensive mode for all linked robots and turrets.
 &#xD;
 NOTE: A critical fault has been detected. Please disable this Protocol and contact a RobCo Enterprise Systems Engineer for assistance.&#xD;
 </Source>
-      <Dest>!Protokol: Defensive Mode&#xD;
-Status: aktivní&#xD;
+      <Dest>Protokol: Obranný režim&#xD;
+Status: AKTIVNÍ&#xD;
 &#xD;
-Popis: Zabývá live-požární obranný režim pro všechny propojené roboty a věžiček. Aktivace tohoto protokolu bude vyžadovat restart systému.&#xD;
+Popis: spustí obranný režim s ostrou municí pro všechny propojené roboty a věže. Aktivace tohoto protokolu bude vyžadovat reset systému.&#xD;
 &#xD;
-vzkaz: Byla zjištěna kritická chyba. Zakažte tento protokol a obrať se na RobCo Enterprise Systems Engineer žádostí o pomoc.&#xD;
+POZNÁMKA: Byla odhalena kritická chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc. &#xD;
 </Dest>
     </String>
     <String List="0" sID="0016E7">
@@ -1239,25 +1239,25 @@ Stav: OTEVŘENO</Dest>
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Technician's Log: 8/31/2077</Source>
-      <Dest>Technikův deník: 31.08.2077</Dest>
+      <Dest>Technikův deník: 31. 8. 2077</Dest>
     </String>
     <String List="0" sID="0016ED">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>View System Logs</Source>
-      <Dest>!Pohled Systémové protokoly</Dest>
+      <Dest>Zobrazit systémové záznamy</Dest>
     </String>
     <String List="0" sID="0016EE">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="0016F1">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="0016F2">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -1267,11 +1267,11 @@ Emergency Protocol: Selective Shutdown I&#xD;
 Status: ACTIVE&#xD;
 &#xD;
 The Selective Shutdown was issued successfully.</Source>
-      <Dest>!***** Záchranné operace MODE *****&#xD;
-Emergency Protokol: Selektivní vypnutí I&#xD;
-Status: aktivní&#xD;
+      <Dest>***** NOUZOVÝ REŽIM *****&#xD;
+Nouzový protokol: Selektivní vypnutí I&#xD;
+Status: AKTIVNÍ&#xD;
 &#xD;
-Selektivní vypínání byla úspěšně vydán.</Dest>
+Příkaz Selektivního vypnutí byl úspěšně zadán.</Dest>
     </String>
     <String List="0" sID="0016F3">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -1289,13 +1289,13 @@ Selektivní vypínání byla úspěšně vydán.</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Starlight Interstellar Theater</Source>
-      <Dest>Divadlo Starlight Interstellar</Dest>
+      <Dest>Divadlo Mezihvězdný třpyt</Dest>
     </String>
     <String List="0" sID="0016F9">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="6">TERM:ITXT</REC>
       <Source>Emergency Protocol: Selective Shutdown I</Source>
-      <Dest>!Nouzový protokol: Selektivní vypnutí I</Dest>
+      <Dest>Nouzový protokol: Selektivní vypnutí I</Dest>
     </String>
     <String List="0" sID="0016FA">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
@@ -1315,19 +1315,19 @@ Selektivní vypínání byla úspěšně vydán.</Dest>
       <Source>Protocol: Display Case Access&#xD;
 Status: BUSY</Source>
       <Dest>Protokol: přístup k vitríně&#xD;
-Stav: OBSAZENO</Dest>
+Stav: V ČINNOSTI</Dest>
     </String>
     <String List="0" sID="0016FE">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="8">TERM:ITXT</REC>
       <Source>Emergency Protocol: Limited Control</Source>
-      <Dest>!Nouzový protokol: Limited Control</Dest>
+      <Dest>Nouzový protokol: Omezená kontrola</Dest>
     </String>
     <String List="0" sID="0016FF">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Server S.T.A.R. Ovládání</Dest>
+      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
     </String>
     <String List="0" sID="001700">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -1357,15 +1357,15 @@ Stav: OBSAZENO</Dest>
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>RobCo Robot Diagnostics System</Source>
-      <Dest>RobCo robotický diagnostický systém</Dest>
+      <Dest>RobCo diagnostický systém robotů</Dest>
     </String>
     <String List="0" sID="001CD2">
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
       <REC id="2">TERM:BTXT</REC>
       <Source>Connecting to robot...&#xD;
 ...ERROR: Unable to establish a connection. Please ensure the robot is correctly seated on the Diagnostic Pad and retry.</Source>
-      <Dest>!Připojení k robotu ...&#xD;
-... Chyba: Nelze navázat spojení. Prosím, ujistěte se, že robot je správně usazena na diagnostickém Pad a zkuste to znovu.</Dest>
+      <Dest>Připojování k robotovi...&#xD;
+... CHYBA: Nebylo možné navázat spojení. Prosím, ujistěte se, že je robot správně usazen v diagnostickém podu a pokus opakujte.</Dest>
     </String>
     <String List="0" sID="001CDF">
       <EDID>DLC04GalacticZoneOnly_LvlMrHandy_WaiterHandy</EDID>
@@ -1386,14 +1386,14 @@ ERR 0x281: Critical damage to targeting system. While in combat, unit will attac
 ANALYSIS: Repairs impossible. The immediate and safe disposal of this unit is recommended.&#xD;
 &#xD;
 Available Operations:</Source>
-      <Dest>Připojení k robotu...&#xD;
-... Model X9000 předválečný strážní robot nalezen.&#xD;
+      <Dest>Připojování k robotovi...&#xD;
+... Model X9000 vesmírný strážní robot nalezen.&#xD;
 &#xD;
-Analýza jednotky. Čekejte prosím...&#xD;
-ERR 0x117: Kritické poškození systému mobility. Přístroj je schopen se pohybovat.&#xD;
-ERR 0x281: Kritické poškození cílení systému. V boji bude jednotka útočit na náhodné cíle.&#xD;
+Analýza jednotky. Čekejte, prosím...&#xD;
+ERR 0x117: Kritické poškození systému mobility. Jednotak není schopna pohybu.&#xD;
+ERR 0x281: Kritické poškození systému zaměřování. V boji bude jednotka útočit na náhodné cíle.&#xD;
 &#xD;
-ANALÝZA: Opravy nemožné. Doporučuje se okamžitá a bezpečná likvidace tohoto stroje.&#xD;
+ANALÝZA: Opravy nemožné. Doporučuje se okamžitá a bezpečná likvidace této jednotky.&#xD;
 &#xD;
 Dostupné operace:</Dest>
     </String>
@@ -1401,7 +1401,7 @@ Dostupné operace:</Dest>
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Robot Diagnostics Terminal</Source>
-      <Dest>Terminál robotické diagnostiky</Dest>
+      <Dest>Terminál diagnostiky robotů</Dest>
     </String>
     <String List="0" sID="001D16">
       <EDID>DLC04GalacticZoneOnly_LvlProtectron_Usherbot</EDID>
@@ -1419,8 +1419,8 @@ Reactivating...&#xD;
 ...done.&#xD;
 &#xD;
 Please wait 10 seconds for the robot to reboot.</Source>
-      <Dest>Připojení k robotu...&#xD;
-... Model X9000 předválečný strážní robot nalezen.&#xD;
+      <Dest>Připojování k robotovi...&#xD;
+... Model X9000 vesmírný strážní robot nalezen.&#xD;
 &#xD;
 Reaktivace...&#xD;
 ... hotovo.&#xD;
@@ -1431,19 +1431,19 @@ Prosím, vyčkejte 10 sekund na restart robota.</Dest>
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Reactivate Unit</Source>
-      <Dest>!Reaktivovat jednotka</Dest>
+      <Dest>Reaktivovat jednotku</Dest>
     </String>
     <String List="0" sID="001D3D">
       <EDID>DLC04GalacticZoneOnly_Theater_Startender</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Startender</Source>
-      <Dest>Počátek konce</Dest>
+      <Dest>Starman</Dest>
     </String>
     <String List="0" sID="001D4A">
       <EDID>DLC04GalacticZoneOnly_LvlMrHandy_ChefHandy</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Mr Frothy Chef</Source>
-      <Dest>Pan Pěnivka kuchař</Dest>
+      <Dest>Pan Pěnivka šéfkuchař</Dest>
     </String>
     <String List="0" sID="001D85">
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
@@ -1452,10 +1452,10 @@ Prosím, vyčkejte 10 sekund na restart robota.</Dest>
 ...Model X9000 Space Sentry found.&#xD;
 &#xD;
 An operation is in progress. Please wait.</Source>
-      <Dest>Připojení k robotu...&#xD;
-... Model X9000 předválečný strážní robot nalezen.&#xD;
+      <Dest>Připojování k robotovi...&#xD;
+... Model X9000 vesmírný strážní robot nalezen.&#xD;
 &#xD;
-Operace právě probíhá. Prosím, čekejte.</Dest>
+Operace právě probíhá. Čekejte, prosím.</Dest>
     </String>
     <String List="0" sID="001D8C">
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
@@ -1467,13 +1467,13 @@ Initiating Emergency Self-Destruct sequence...&#xD;
 ...done.&#xD;
 &#xD;
 A 10-second countdown has begun. Please evacuate the area.</Source>
-      <Dest>Připojení k robotu...&#xD;
-... Model X9000 předválečný strážní robot nalezen.&#xD;
+      <Dest>Připojování k robotovi...&#xD;
+... Model X9000 vesmírný strážní robot nalezen.&#xD;
 &#xD;
-Zahájení nouzové autodestrukční sekvence...&#xD;
+Zahájení nouzové autodestrukce...&#xD;
 ... hotovo.&#xD;
 &#xD;
-Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
+Začalo 10vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
     </String>
     <String List="0" sID="001D91">
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
@@ -1509,7 +1509,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_TrapIEDCigarCarton</EDID>
       <REC>ACTI:ATTX</REC>
       <Source>Disarm</Source>
-      <Dest>Odzbrojit</Dest>
+      <Dest>Zneškodnit</Dest>
     </String>
     <String List="0" sID="0021C1">
       <EDID>DLC04Gauntlet_WalkwayKey</EDID>
@@ -1527,7 +1527,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_GasHazard1024</EDID>
       <REC>HAZD:FULL</REC>
       <Source>Gas Hazard</Source>
-      <Dest>Nebezpečí plynu</Dest>
+      <Dest>Pozor, plyn</Dest>
     </String>
     <String List="0" sID="0021CB">
       <EDID>DLC04Gauntlet_GasHazardInitialEffect</EDID>
@@ -1557,7 +1557,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_UtilityKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Nuka-World Utility Substation Key</Source>
-      <Dest>Klíč k rozhraní rozvodny Nuka-Worldu</Dest>
+      <Dest>Klíč k rozvodně Nuka-Worldu</Dest>
     </String>
     <String List="0" sID="0021E8">
       <EDID>DLC04Gauntlet_FakeKey02</EDID>
@@ -1581,7 +1581,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Nuka-Town U.S.A. - Utility Substation 4</Source>
-      <Dest>Nuka-Town U.S.A. - služební rozvodna 4</Dest>
+      <Dest>Nuka-Town U.S.A. - rozvodna 4</Dest>
     </String>
     <String List="0" sID="0021EF">
       <EDID>DLC04GauntletCorpse_Argus</EDID>
@@ -1593,19 +1593,19 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Utility Substation Terminal</Source>
-      <Dest>Terminál služební rozvodny</Dest>
+      <Dest>Terminál rozvodny</Dest>
     </String>
     <String List="0" sID="0021F1">
       <EDID>DLC04Gauntlet_NorthExitDoorNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Nuka-World Maintenance Shed</Source>
-      <Dest>Údržbářská místnost Nuka-Worldu</Dest>
+      <Dest>Údržbářské depo Nuka-Worldu</Dest>
     </String>
     <String List="0" sID="0021F2">
       <EDID>DLC04Gauntlet_UtilityPassword</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Utility Substation Password</Source>
-      <Dest>Heslo k rozhraní rozvodny</Dest>
+      <Dest>Heslo k rozvodně</Dest>
     </String>
     <String List="0" sID="002234">
       <EDID>DLC04Gauntlet_RadiationHazardStrong256</EDID>
@@ -1635,13 +1635,13 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04GangMinutemenEnemyFaction</EDID>
       <REC>FACT:FULL</REC>
       <Source>Raider - Minutemen Enemy Faction</Source>
-      <Dest>Raider - Minutemen Enemy Faction</Dest>
+      <Dest>Nájezdník - frakce nepřátelských Minutemanů</Dest>
     </String>
     <String List="0" sID="00268B">
       <EDID>DLC04GatorclawNest01_Container</EDID>
       <REC>CONT:FULL</REC>
       <Source>Gatorclaw Nest</Source>
-      <Dest>Hnízdo gatorclawa</Dest>
+      <Dest>Hnízdo gátora</Dest>
     </String>
     <String List="0" sID="002709">
       <EDID>DLC04EncMisterHandy01Laser</EDID>
@@ -1665,7 +1665,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04EncSpaceSentryBot02Shoulder</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry Breaker</Source>
-      <Dest>Předválečný strážní robot lamač</Dest>
+      <Dest>Vesmírný strážní robot bořitel</Dest>
     </String>
     <String List="0" sID="002730">
       <EDID>DLC04EncSpaceProtectron03</EDID>
@@ -1677,7 +1677,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04EncSpaceSentryBot01Shoulder</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry</Source>
-      <Dest>Předválečný strážní robot</Dest>
+      <Dest>Vesmírný strážní robot</Dest>
     </String>
     <String List="0" sID="002747">
       <EDID>DLC04EncMisterHandy01Saw</EDID>
@@ -1707,7 +1707,7 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04EncSpaceProtectron02</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Galactron Watcher</Source>
-      <Dest>Galaktron hlídač</Dest>
+      <Dest>Galaktron pozorovatel</Dest>
     </String>
     <String List="0" sID="00279F">
       <EDID>DLC04EncSpaceProtectron02</EDID>
@@ -1725,13 +1725,13 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
       <EDID>DLC04EncSpaceSentryBot03Shoulder</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Space Sentry Annihilator</Source>
-      <Dest>Předválečný strážní robot annihilátor</Dest>
+      <Dest>Vesmírný strážní robot ničitel</Dest>
     </String>
     <String List="0" sID="0027BB">
       <EDID>DLC04EncSpaceMrHandy01Template</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Mr Handy Greeter</Source>
-      <Dest>Pan Šikulka průvodce</Dest>
+      <Dest>Pan Šikulka vítač</Dest>
     </String>
     <String List="0" sID="0027BE">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1741,11 +1741,11 @@ Začalo 10ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
 It's been almost a month, and Star Control is still working perfectly. That never happens-- big install jobs like this are always a disaster. And we've got military-grade robots running around with live weapons. This thing seems like an accident waiting to happen. But so far, it works as advertised. Color me impressed.&#xD;
 &#xD;
 Mark and I have been digging through the control code, and we've verified that the Defensive Mode protocol Admin wanted seems to be in place. If there is a major emergency of some kind, we flip the system into Defensive Mode and use the robots to secure the park. There's no real way to test it; let's just hope it never comes to that.</Source>
-      <Dest>!Technikův deník - 9/29/2077&#xD;
+      <Dest>Technikův deník: 29. 9. 2077&#xD;
 &#xD;
-Je to už skoro měsíc, a S.T.A.R. Ovládání stále pracuje perfektně. Která nikdy happens-- velké instalace pracovních míst tohoto typu jsou vždy katastrofa. A máme vojensko-grade roboty pobíhat s živými zbraněmi. Tato věc se zdá jako nehoda jednou dojde. Ale zatím to funguje, jak inzeroval. Obarvit mě dojem.&#xD;
+Už je to skoro měsíc a ovládání STAR stále funguje perfektně. To se běžně nestává – takové velké instalace vždycky končí katastrofou. A nám tu pobíhají roboti armádní třídy s odjištěnými zbraněmi. Vypadá to, že je jen otázka času, kdy se stane nějaká nehoda. Ale zatím vše funguje tak, jak bylo slibováno. Jsem ohromen.&#xD;
 &#xD;
-Mark a já jsme byli kopání přes řídicí kód a ověříme, že obranný protokol správce chtěl se zdá být na svém místě. Dojde-li k závažné mimořádné události nějakého druhu, prohodíme systém do obranné režimu a používat roboty k zajištění park. Neexistuje žádný skutečný způsob, jak otestovat; Jen doufejme, že to nikdy přijde na to.</Dest>
+S Markem jsme se prohrabávali řídícím kódem a potvrdili jsme, že ten protokol Obranný režim, který chtěl Admin, je funkční. V případě závažné mimořádné události přepneme systém do Obranného režimu a použijeme roboty k zajištění parku. Prakticky otestovat se to ale nedá – doufejme jen, že to nebude nikdy nutné.</Dest>
     </String>
     <String List="0" sID="0027C0">
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
@@ -1763,13 +1763,13 @@ Mark a já jsme byli kopání přes řídicí kód a ověříme, že obranný pr
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Technician's Log: 10/22/77</Source>
-      <Dest>Technikův deník: 22.10.2077</Dest>
+      <Dest>Technikův deník: 22. 10. 2077</Dest>
     </String>
     <String List="0" sID="0027C4">
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>4/8/2286</Source>
-      <Dest>08.04.2286</Dest>
+      <Dest>8. 4. 2286</Dest>
     </String>
     <String List="0" sID="0027C6">
       <EDID>DLC04GZMain_TradersLogHolotape</EDID>
@@ -1781,7 +1781,7 @@ Mark a já jsme byli kopání přes řídicí kód a ověříme, že obranný pr
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>4/12/2286</Source>
-      <Dest>12.04.2286</Dest>
+      <Dest>12. 4. 2286</Dest>
     </String>
     <String List="0" sID="0027CC">
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
@@ -1793,13 +1793,13 @@ Dad said we're heading out to the Galactic Zone again tomorrow.&#xD;
 I'm still not sure how I feel about these salvage runs. It's amazing to see how much of the old tech still works-- I wish I could stay and study it all. But Dad's crew is just there to rip it apart and haul it back for scrap. As if the world didn't have enough rusted metal and broken circuit boards already.&#xD;
 &#xD;
 At least I only have to take half shifts. I'm looking forward to getting back to my work on Star Control. I just hope the old mainframe is still running.</Source>
-      <Dest>!08.04.2286&#xD;
+      <Dest>8. 4. 2286&#xD;
 &#xD;
-Táta říkal, my jsme znovu vydáte na galaktické zóny zítra.&#xD;
+Táta říkal, že se zítra zase vydáme do Galaktické zóny.&#xD;
 &#xD;
-Stále si nejsem jistý, jak se cítím o těchto záchranných běhů. Je úžasné vidět, kolik starých tech stále works-- Kéž bych mohl zůstat a studovat to všechno. Ale táta posádka je prostě tam, aby ji strhnou od sebe a vytáhnout ji zpět do šrotu. Jako by se svět neměl dost zrezivělý kov a rozbité desky s plošnými spoji již.&#xD;
+Pořád si nejsem jistá, co si o těch sběrných výpravách myslet. Je úžasné, kolik té staré techniky stále funguje – kéž bych se mohla zdržet a všechnu ji studovat. Ale tátův tým tam jde s jediným cílem: rozebrat ji a přinést zpátky na šrot. Jako kdyby ve světě nebylo dost zrezivělého kovu a rozbitých plošných spojů.&#xD;
 &#xD;
-Alespoň mám jen vzít půl směny. Těším se na dostat se zpátky ke své práci na S.T.A.R. Ovládání. Jen doufám, že ten starý server stále běží.</Dest>
+Aspoň že můžu dělat jen poloviční směny. Už se těším, až se vrátím k práci na ovládání STAR. Jen doufám, že ten starý centrální počítač stále funguje.</Dest>
     </String>
     <String List="0" sID="0027CD">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1809,11 +1809,11 @@ Alespoň mám jen vzít půl směny. Těším se na dostat se zpátky ke své pr
 The mainframe tours have been a big hit. Lucky us. First we lose our workspace to that ridiculous diorama, and now we have to babysit a bunch of snotty six-year-olds who can't resist pushing all the big glowy buttons.&#xD;
 &#xD;
 We're going to start integrating the robots at the junkyard into the system this weekend. I'm not sure if Star Control's interlink will work at that range, but it's worth a shot. This thing keeps surprising me.</Source>
-      <Dest>!Technikův deník - 10/22/2077&#xD;
+      <Dest>Technikův deník: 22. 10. 2077&#xD;
 &#xD;
-Prohlídka serveru byla velkým hitem. Naštěstí nás. Nejprve jsme ztratili svou pracovní plochu na tento absurdní dioráma, a teď musíme hlídat spoustu arogantní šestiletých, kteří nemohou odolat mačkání veškerých velkých lesklých tlačítek.&#xD;
+Exkurze k centrálnímu počítači zabodovaly. To se máme. Nejdříve nám seberou pracovní prostor kvůli tomu směšnému dioramatu a teď musíme dělat chůvy usopleným šestiletým děckám, které prostě musí všechna ta velká zářící tlačítka zmáčknout.&#xD;
 &#xD;
-Chystáme se začít integrovat roboty na smetiště do systému tento víkend. Nejsem si jistý, jestli S.T.A.R. Ovládání mezičlánkem bude pracovat na takovou vzdálenost, ale je to stojí za pokus. Ta věc mě pořád překvapuje.</Dest>
+O víkendu začneme do systému integrovat roboty na smetišti. Nejsem si jistý, jestli bude mezičlánek STAR ovládání fungovat na takovou vzdálenost, ale za pokus to stojí. Tahle věc mě nepřestává překvapovat.</Dest>
     </String>
     <String List="0" sID="0027CF">
       <EDID>DLC04EncSpaceMrHandy01Template</EDID>
@@ -1831,19 +1831,19 @@ It's all my fault.&#xD;
 I told him. I told him there weren't enough cores left to turn it on. If he had waited an hour, we could have pulled them from around the Zone, gotten Star Control back up and running. I already had people looking. I could have made it work. But he wouldn't listen. He wouldn't listen. And now-- God, I hope he's all right.&#xD;
 &#xD;
 I can hear the screams. We're going to wait for nightfall, then make a run for the gate.</Source>
-      <Dest>!12.04.2286&#xD;
+      <Dest>12. 4. 2286&#xD;
 &#xD;
-Je to všechno moje vina.&#xD;
+Všechno je to moje vina.&#xD;
 &#xD;
-řekl jsem mu. Řekl jsem mu, že nebyly ponechány zapnout dost jádra. Kdyby čekal hodinu, mohli bychom si je stáhl z celého zóny, dostal S.T.A.R. Ovládání zpět nahoru a běh. Už jsem měl lidé, kteří hledají. Mohl jsem dělal to fungovat. Ale nechtěl poslouchat. Nechtěl poslouchat. A now-- Bohu, doufám, že je v pořádku.&#xD;
+Říkala jsem mu to. Říkala jsem mu, že tam není dost jader, abych to zapnuli. Pokud bychom hodinku počkali, mohli jsme je posbírat ze Zóny a pak ovládání STAR zase nahodit. Už jsem někoho poslala, aby se po nich podívali. Určitě by se mi povedlo to zprovoznit. Ale neposlouchal mě. Neposlouchal. A teď... Bože, doufám, že je v pořádku.&#xD;
 &#xD;
-slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
+Slyším křik. Budeme muset počkat, až se setmí, a pak se pokusit utéct branou.</Dest>
     </String>
     <String List="0" sID="0027D4">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Technician's Log: 9/29/2077</Source>
-      <Dest>Technikův deník: 29.09.2077</Dest>
+      <Dest>Technikův deník: 29. 9. 2077</Dest>
     </String>
     <String List="0" sID="0027D5">
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
@@ -1851,7 +1851,7 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <Source>Welcome, Tiana. Please select an entry.&#xD;
 &#xD;
 </Source>
-      <Dest>!Vítej, Tiana. Prosím, vyberte položku.&#xD;
+      <Dest>Vítej, Tiano. Prosím, vyber položku.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -1865,7 +1865,7 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <EDID>DLC04EncNukalurkKingAmbushWater</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Nukalurk King</Source>
-      <Dest>Král nukalurků</Dest>
+      <Dest>Král nukaplíživců</Dest>
     </String>
     <String List="0" sID="002A0C">
       <EDID>DLC04FootLockerDontUseInGame</EDID>
@@ -1883,13 +1883,13 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <EDID>DLC04FF02_Activator_WoR</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Park Medallion Dispenser</Source>
-      <Dest>Výdejní automat medailonů parku</Dest>
+      <Dest>Výdejní automat parkových medailonků</Dest>
     </String>
     <String List="0" sID="002F41">
       <EDID>DLC04FF02_DispenserActivator</EDID>
       <REC>ACTI:FULL</REC>
       <Source>Park Medallion Dispenser</Source>
-      <Dest>Výdejní automat pamětních medailí</Dest>
+      <Dest>Výdejní automat parkových medailonků</Dest>
     </String>
     <String List="0" sID="002F4C">
       <EDID>DLC04FF02_DispenserActivator</EDID>
@@ -1907,7 +1907,7 @@ slyším křik. Budeme čekat na setmění, pak utéct k bráně.</Dest>
       <EDID>DLC04FF01MiscObjectiveHolder</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Ask a raider guard in Nuka-Town U.S.A. about the alarm</Source>
-      <Dest>Zeptej se stráží nájezdníků v Nuka-Town U.S.A. na poplach</Dest>
+      <Dest>Zeptej se strážného nájezdníka v Nuka-Town U.S.A. na poplach</Dest>
     </String>
     <String List="0" sID="00319A">
       <EDID>DLC04Gauntlet_StorageKey</EDID>
@@ -1932,10 +1932,10 @@ STAR CORES:&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
       <Dest>VAROVÁNÍ:&#xD;
-Byla zjištěna závada v protokolu [Obranný režim]. Zakažte tento protokol a obraťte se na inženýra RobCo Enterprise Systems s žádostí o pomoc.&#xD;
+V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
-HLAVNÍ JÁDRA:&#xD;
-Počet nainstalovaných hlavních jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;.&#xD;
+STAR JÁDRA:&#xD;
+Počet nainstalovaných STAR jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -1967,7 +1967,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GalacticZone_LuisHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Project Consumer Guidance</Source>
-      <Dest>Projekt Spotřebitelské pokyny</Dest>
+      <Dest>Projekt Spotřebitelské směrování</Dest>
     </String>
     <String List="0" sID="003CF1">
       <EDID>DLC04GalacticZone_EmersonHolotape</EDID>
@@ -2021,7 +2021,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GalacticZone_StarportNukaLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Starport Nuka</Source>
-      <Dest>StarPort Nuka</Dest>
+      <Dest>Hvězdný přístav Nuka</Dest>
     </String>
     <String List="0" sID="0040E5">
       <EDID>DLC04Evan</EDID>
@@ -2039,7 +2039,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="7">TERM:ITXT</REC>
       <Source>Emergency Protocol: Selective Shutdown II</Source>
-      <Dest>!Nouzový protokol: Selektivní vypnutí II</Dest>
+      <Dest>Nouzový protokol: Selektivní vypnutí II</Dest>
     </String>
     <String List="0" sID="00412F">
       <EDID>DLC04Evan</EDID>
@@ -2135,7 +2135,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GrandchesterMapMarkerRef</EDID>
       <REC>REFR:FULL</REC>
       <Source>Grandchester Mystery Mansion</Source>
-      <Dest>Tajemné sídlo Grandchesterů</Dest>
+      <Dest>Strašidelné sídlo Grandchesterů</Dest>
     </String>
     <String List="0" sID="0043B9">
       <EDID>DLC04Gauntlet_NukaStationTerminal</EDID>
@@ -2152,10 +2152,10 @@ Arena Operations Mode: AUTOMATIC&#xD;
 Arena Status: ACTIVE&#xD;
 &#xD;
 </Source>
-      <Dest>!***** SYSTEM-OVERRIDE *****&#xD;
+      <Dest>***** ZMĚNIT NASTAVENÍ SYSTÉMU *****&#xD;
 &#xD;
-Arena Mode Operations: AUTOMATICKÁ&#xD;
-Arena Status: aktivní&#xD;
+Provozní režim arény: AUTOMATICKÁ&#xD;
+Stav arény: ZAPNUTÁ&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2175,13 +2175,13 @@ Arena Status: aktivní&#xD;
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>View Star Core Network</Source>
-      <Dest>Přehled sítě hlavních jader</Dest>
+      <Dest>Zobrazit síť STAR jader</Dest>
     </String>
     <String List="0" sID="0043D5">
       <EDID>DLC04GZ_StarportNukaManagersTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Manager's Terminal</Source>
-      <Dest>Terminál ředitele</Dest>
+      <Dest>Terminál vedoucího</Dest>
     </String>
     <String List="0" sID="0043DB">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -2191,11 +2191,11 @@ Arena Status: aktivní&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;] Star Core(s) are currently installed.&#xD;
 &#xD;
 No other Star Cores were detected within range.</Source>
-      <Dest>Navazování spojení s hlavním jádrem... hotovo.&#xD;
+      <Dest>Přistupování k mezičlánku STAR jader... hotovo.&#xD;
 &#xD;
-Počet nainstalovaných hlavních jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
+Počet nainstalovaných STAR jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
 &#xD;
-V okolí nebyla detekována žádná další hlavní jádra.</Dest>
+V okolí nebyla detekována žádná další STAR jádra.</Dest>
     </String>
     <String List="0" sID="0043DC">
       <EDID>DLC04Gauntlet_ArenaControlTerminal</EDID>
@@ -2212,10 +2212,10 @@ Arena Operations Mode: AUTOMATIC&#xD;
 Arena Status: INACTIVE&#xD;
 &#xD;
 </Source>
-      <Dest>!***** SYSTEM-OVERRIDE *****&#xD;
+      <Dest>***** ZMĚNIT NASTAVENÍ SYSTÉMU *****&#xD;
 &#xD;
-Arena Mode Operations: AUTOMATICKÁ&#xD;
-Arena Status: neaktivní&#xD;
+Provozní režim arény: AUTOMATICKÁ&#xD;
+Stav arény: VYPNUTÁ&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2241,19 +2241,19 @@ A total of [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt;] other Star Cor
 [&lt;Token.ValueInt=DLC04GZ_StarCoresVaultTecLeft&gt;]: In Vault-Tec: Among the Stars&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresBattlezoneLeft&gt;]: In RobCo Battlezone&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresOutsideLeft&gt;]: Outside the Galactic Zone</Source>
-      <Dest>Navazování spojení s hlavním jádrem... hotovo.&#xD;
+      <Dest>Přistupování k mezičlánku STAR jader... hotovo.&#xD;
 &#xD;
-Počet nainstalovaných hlavních jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
+Počet nainstalovaných STAR jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
 &#xD;
-V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt;] jiných hlavních jader. Upřesňování lokací...&#xD;
+V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt;] dalších STAR jader. Upřesňování lokací...&#xD;
 &#xD;
-[&lt;Token.ValueInt=DLC04GZ_StarCoresPlayer&gt;]: v hlavní řídicí místnosti&#xD;
-[&lt;Token.ValueInt=DLC04GZ_StarCoresExteriorLeft&gt;]: v oblasti Galaktické zóny&#xD;
+[&lt;Token.ValueInt=DLC04GZ_StarCoresPlayer&gt;]: ve místnosti se STAR Ovládáním&#xD;
+[&lt;Token.ValueInt=DLC04GZ_StarCoresExteriorLeft&gt;]: na pozemcích Galaktické zóny&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresNukaGalaxyLeft&gt;]: v Nuka-Galaxy&#xD;
-[&lt;Token.ValueInt=DLC04GZ_StarCoresTheaterLeft&gt;]: v divadle Starlight Interstellar&#xD;
+[&lt;Token.ValueInt=DLC04GZ_StarCoresTheaterLeft&gt;]: v divadle Mezihvězdný třpyt&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresVaultTecLeft&gt;]: ve Vault-Tec: Mezi hvězdami&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresBattlezoneLeft&gt;]: v Bojové zóně RobCo&#xD;
-[&lt;Token.ValueInt=DLC04GZ_StarCoresOutsideLeft&gt;]: mimo oblast Galaktické zóny</Dest>
+[&lt;Token.ValueInt=DLC04GZ_StarCoresOutsideLeft&gt;]: mimo Galaktickou zónu</Dest>
     </String>
     <String List="0" sID="0043E6">
       <EDID>DLC04Gauntlet_ArenaControlTerminal</EDID>
@@ -2271,31 +2271,31 @@ V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>View Star Core Network</Source>
-      <Dest>Přehled sítě hlavních jader</Dest>
+      <Dest>Zobrazit síť STAR jader</Dest>
     </String>
     <String List="0" sID="0043EB">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Emergency Protocol: Tracking Bug</Source>
-      <Dest>!Nouzový protokol: bug tracking</Dest>
+      <Dest>Nouzový protokol: Vyhledání bugu</Dest>
     </String>
     <String List="0" sID="0043ED">
       <EDID>DLC04Gauntlet_TurretControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Turret Control Terminal</Source>
-      <Dest>Terminál ovládání věže</Dest>
+      <Dest>Terminál ovládání věží</Dest>
     </String>
     <String List="0" sID="0043F0">
       <EDID>DLC04Gauntlet_TurretControlTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>TuRReT ConTRoL</Source>
-      <Dest>Ovládání věže</Dest>
+      <Dest>Ovládání věží</Dest>
     </String>
     <String List="0" sID="0043F2">
       <EDID>DLC04Gauntlet_ArenaControlTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source> &gt; Change Operations Mode</Source>
-      <Dest> &gt; Změnit obslužný režim</Dest>
+      <Dest> &gt; Změnit provozní režim</Dest>
     </String>
     <String List="0" sID="0043F3">
       <EDID>DLC04Gauntlet_ArenaControlTerminal</EDID>
@@ -2306,12 +2306,12 @@ V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt
 ** ERR 0x097: Custom Error Message:&#xD;
 &#xD;
 Don't fuck with the Arena, idiots. --Gage</Source>
-      <Dest>!Přístup Arena Mode Operations ... selhal.&#xD;
+      <Dest>Přistupování k Provoznímu režimu arény... Arena Mode Operations ... selhalo.&#xD;
 &#xD;
-** ERR 0x097: System Lockout&#xD;
-** ERR 0x097: Custom Chybová zpráva:&#xD;
+** CHYB 0x097: Uzamčení systému&#xD;
+** CHYB 0X097: Zpráva pro uživatelskou chybu:&#xD;
 &#xD;
-Neser se aréně, idioty. --Gage</Dest>
+Nevrtejte se v aréně, idioti. --Gage</Dest>
     </String>
     <String List="0" sID="0043F4">
       <EDID>DLC04GZBattlezone_ControlRoomTerminal</EDID>
@@ -2325,15 +2325,15 @@ Neser se aréně, idioty. --Gage</Dest>
       <Source>Accessing Security Door Controls... failed.&#xD;
 &#xD;
 ** ERR 0x104: Manual controls are disabled while the Arena is in AUTOMATIC Operations Mode. Select a different mode and try again. </Source>
-      <Dest>!Přístup k bezpečnostní dveře Controls ... se nezdařilo.&#xD;
+      <Dest>Přistupování k ovládání bezpečnostních dveří... selhalo.&#xD;
 &#xD;
-** ERR 0x104: Manuální ovládací prvky jsou zakázány, zatímco Arena je v automatickém režimu Operations. Vyberte jiný režim a zkuste to znovu.</Dest>
+** CHYB 0x104: dokud je Aréna v provozním režimu AUTOMATICKÁ, je manuální ovládání vypnuto. Vyberte jiný režim a pokus opakujte.</Dest>
     </String>
     <String List="0" sID="0043FA">
       <EDID>DLC04GZ_StarportNukaManagersTerminal</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Starport Nuka - Management Office</Source>
-      <Dest>StarPort Nuka - kanceláře vedení</Dest>
+      <Dest>Hvězdný přístav Nuka - Kancelář managementu</Dest>
     </String>
     <String List="0" sID="0044BC">
       <EDID>DLC04FizztopGrilleMapMarker</EDID>
@@ -2345,7 +2345,7 @@ Neser se aréně, idioty. --Gage</Dest>
       <EDID>DLC04Grandchester01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Grandchester Mystery Mansion was an opportunistic tourist trap that was built near Nuka-World purely to take advantage of the amount of traffic the huge parks were generating.</Source>
-      <Dest>Tajemné sídlo Grandchesterů byla oportunistická past na turisty, která byla postavena v blízkosti Nuka-Worldu, z kterého jen čistě využívala generovaný velký provoz z těchto obrovských parků.</Dest>
+      <Dest>Strašidelné sídlo Grandsteru byla oportunistická past na turisty. Postavena byla poblíž Nuka-Worldu čistě proto, aby využila obrovského byznysu, který tyto obří zábavní parky generovaly.</Dest>
     </String>
     <String List="0" sID="0044E2">
       <EDID>DLC04Gauntlet_NukaStationTerminal</EDID>
@@ -2361,13 +2361,13 @@ Please contact technical support for further assistance.</Source>
 &#xD;
 Chyba systému. Výběr „Čas zemřít“ neodkazuje na platný soubor.&#xD;
 &#xD;
-Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
+Prosím, pro další pomoc se obraťte na technickou podporu.</Dest>
     </String>
     <String List="0" sID="0044F0">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Check Condenser Status (!!)</Source>
-      <Dest>Zkontrolovat stav kondenzátoru (!!)</Dest>
+      <Dest>Zkontrolovat stav kondenzátorů (!!)</Dest>
     </String>
     <String List="0" sID="004520">
       <EDID>DLC04Gauntlet_NukaStationTerminal</EDID>
@@ -2389,7 +2389,7 @@ Please contact technical support for further assistance.</Source>
 &#xD;
 Chyba systému. Výběr „Seš mrtvej“ neodkazuje na platný soubor.&#xD;
 &#xD;
-Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
+Prosím, pro další pomoc se obraťte na technickou podporu.</Dest>
     </String>
     <String List="0" sID="004551">
       <EDID>DLC04Gauntlet_NukaStationTerminal</EDID>
@@ -2405,7 +2405,7 @@ Please contact technical support for further assistance.</Source>
 &#xD;
 Chyba systému. Výběr „Užij si umírání“ neodkazuje na platný soubor.&#xD;
 &#xD;
-Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
+Prosím, pro další pomoc se obraťte na technickou podporu.</Dest>
     </String>
     <String List="0" sID="004585">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
@@ -2418,13 +2418,12 @@ Warning:&#xD;
 ! Turbine Unit 427-A is not detected. Please contact maintenance immediately to avoid substation shut down.&#xD;
 &#xD;
 </Source>
-      <Dest>Jednotka turbíny 345-A: *** OFFLINE ***&#xD;
-Jednotka turbíny 345-B: *** OFFLINE ***&#xD;
-Jednotka turbíny 427-A: *** OFFLINE ***&#xD;
+      <Dest>Turbína jednotka 345-A: *** VYPNUTA ***&#xD;
+Turbína jednotka 345-B: *** VYPNUTA ***&#xD;
+Turbína jednotka 427-A: *** VYPNUTA ***&#xD;
 &#xD;
 Varování:&#xD;
-! Jednotka turbíny 427-A není detekována. Prosím, obraťte se okamžitě na údržbu, aby se zabránilo vypnutí rozvodny.&#xD;
-&#xD;
+! Turbína jednotka 427–A nenalezena. Prosím, okamžitě kontaktujte údržbu, aby bylo se zabránilo vypnutí rozvodny.&#xD;
 </Dest>
     </String>
     <String List="0" sID="00459F">
@@ -2433,7 +2432,7 @@ Varování:&#xD;
       <Source>Welcome to the Gauntlet! We hope you enjoy your stay. Please choose from any of the helpful options below:&#xD;
 &#xD;
 </Source>
-      <Dest>Vítejte v Rukavici! Doufáme, že si zde svůj pobyt užijete. Vyberte si z některých níže uvedených užitečných možností:&#xD;
+      <Dest>Vítejte v Uličce! Věříme, že si svůj pobyt zde užijete. Prosím, vyberte si kteroukoli z níže uvedených užitečných možností:&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2445,11 +2444,11 @@ Varování:&#xD;
 It's been brought to our attention that certain late night shift employees have been entering the park after hours for entertainment purposes. This is strictly forbidden and will result in immediate termination if it happens again. Any employees that enter the park after hours for work purposes must submit the required paperwork and are expected to be fully clothed and sober.&#xD;
 &#xD;
 - Management</Source>
-      <Dest>Všem zaměstnancům stanice:&#xD;
+      <Dest>Všem zaměstnancům rozvodny:&#xD;
 &#xD;
-Doneslo se nám, že někteří zaměstnanci noční směny vstoupili do parku po zavírací době kvůli zábavným účelům. Toto je přísně zakázáno a pokud se to bude opakovat, bude to mít za následek okamžité ukončení smlouvy. Kteříkoliv zaměstnanci, vstupující do parku z pracovních důvodů po zavírací době musí předložit požadovanou dokumentaci a očekává se, že budou zcela oblečeni a střízliví.&#xD;
+Doneslo se nám, že někteří zaměstnanci z noční směny vstupovali do areálu parku po zavírací době za účelem svého pobavení. Toto chování je striktně zakázáno a vyústí v okamžité propuštění, pokud k němu dojde opakovaně. Všichni zaměstnanci, kteří do parku vstupují po zavírací době musí předložit požadovanou dokumentaci a očekává se od nich, že budou zcela oblečení a střízliví.&#xD;
 &#xD;
-- Vedení</Dest>
+- Management</Dest>
     </String>
     <String List="0" sID="0045A1">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
@@ -2465,7 +2464,7 @@ Doneslo se nám, že někteří zaměstnanci noční směny vstoupili do parku p
 Warning:&#xD;
 ! Water levels are below safe standards.&#xD;
 ! Temperature control not detected. Please contact maintenance immediately.</Source>
-      <Dest>Kondenzační jednotka A: ***VYPNUTA***&#xD;
+      <Dest>Kondenzátor jednotka A: *** VYPNUTA ***&#xD;
 &#xD;
 Varování:&#xD;
 ! Hladina vody je pod bezpečnou úrovní.&#xD;
@@ -2478,16 +2477,16 @@ Varování:&#xD;
 Generator Unit SE019: *** OFFLINE ***&#xD;
 &#xD;
 All generators are currently offline.</Source>
-      <Dest>Jednotka generátoru SW019: ***VYPNUTA***&#xD;
-Jednotka generátoru SE019: ***VYPNUTA***&#xD;
+      <Dest>Generátor jednotka SW019: *** VYPNUTA ***&#xD;
+Generátor jednotka SE019: *** VYPNUTA ***&#xD;
 &#xD;
-Všechny generátory jsou v současné době v režimu offline.</Dest>
+Všechny generátory jsou v současné době vypnuty.</Dest>
     </String>
     <String List="0" sID="0045AA">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Check Turbine Status(!)</Source>
-      <Dest>Zkontrolovat stav turbíny(!)</Dest>
+      <Dest>Zkontrolovat stav turbín(!)</Dest>
     </String>
     <String List="0" sID="0045AB">
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
@@ -2497,9 +2496,9 @@ Všechny generátory jsou v současné době v režimu offline.</Dest>
 *** NOTICE: Your station is #%7 days past inspection. Failure to pass inspection may result in immediate shutdown and fines.&#xD;
 &#xD;
 </Source>
-      <Dest>Vítejte ve služební rozvodně 4. Vaše stanice je 0 dní bez incidentů.&#xD;
+      <Dest>Vítejte v rozvodně 4. Vaše stanice má za sebou 0 dní bez incidentů.&#xD;
 &#xD;
-*** UPOZORNĚNÍ: Vaše stanice je #%7 dnů po platnosti inspekce. Bez schválené inspekce může dojít k okamžitému vypnutí a pokutám.&#xD;
+*** UPOZORNĚNÍ: Od poslední inspekce na vaší stanici uběhlo #%7 dnů. Následkem nesplnění požadavků inspekce může být okamžité vypnutí a pokuty.&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2511,7 +2510,7 @@ Všechny generátory jsou v současné době v režimu offline.</Dest>
 Please contact maintenance.&#xD;
 &#xD;
 </Source>
-      <Dest>****VAROVÁNÍ: ZJIŠTĚN ÚNIK PLYNU****&#xD;
+      <Dest>**** VAROVÁNÍ: ZJIŠTĚN ÚNIK PLYNU ****&#xD;
 &#xD;
 Prosím, obraťte se na údržbu.&#xD;
 &#xD;
@@ -2549,7 +2548,7 @@ Please contact technical support for further assistance.</Source>
 &#xD;
 Chyba systému. Výběr „Seš FAKT mrtvej“ neodkazuje na platný soubor.&#xD;
 &#xD;
-Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
+Prosím, pro další pomoc se obraťte na technickou podporu.</Dest>
     </String>
     <String List="0" sID="0045BF">
       <EDID>DLC04Gauntlet_NukaStationTerminal</EDID>
@@ -2567,7 +2566,7 @@ Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
       <EDID>DLC04Gauntlet_UtilityRoomTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Check Generator Status</Source>
-      <Dest>Zkontrolovat stav generátoru</Dest>
+      <Dest>Zkontrolovat stav generátorů</Dest>
     </String>
     <String List="0" sID="004645">
       <EDID>DLC04GZBattlezone_ControlRoomTerminal</EDID>
@@ -2576,10 +2575,10 @@ Prosím, obraťte se na technickou podporu pro další pomoc.</Dest>
 To: All Staff&#xD;
 &#xD;
 Recently, we've been receiving complaints from Nuka-World visitors regarding our Novatron and Galactron robotic performers. Namely, that these models of robot are extremely similar to RobCo's Protectron and Assaultron models, and they feel that we aren't bringing them the "spectacular feats of mechanized combat featuring never-before-seen RobCo prototypes" that we've advertised. I've spoken to our RobCo representatives, and we're all in agreement that we have no comment on the matter at this time. If you personally  receive such a complaint, do NOT refund the ticket price, simply tell them to fill out a complaint form, and we'll mail them their refund in 12-18 weeks.</Source>
-      <Dest>!Od: H. Karrol, vedoucí Public Relations&#xD;
-na: Všichni personál&#xD;
+      <Dest>Od: H. Karrol, vedoucí Public Relations&#xD;
+Komu: Veškerému personálu&#xD;
 &#xD;
-V poslední době jsme byli přijímání stížností od Nuka-World návštěvníků týkající se našich novatronů a galaktronů robotických účinkujících. A to, že tyto modely robota jsou velmi podobné modelům protektronů a anihilatronů RobCo, a oni mají pocit, že nejsme jim přinášet „velkolepé výkony mechanizované boje představovat nikdy předtím neviděl RobCo prototypy“, které jsme inzerované. Mluvil jsem s našimi zástupci RobCo, a my všichni se shodují, že nemáme žádný komentář na toto téma v tomto okamžiku. Pokud vy osobně obdrží takovou stížnost, nevracíme cenu vstupenek, prostě řekněte jim, aby vyplnit reklamační formulář a my pošleme jim jejich vrácení do 12-18 týdnů.</Dest>
+V poslední době dostáváme stížnosti od návštěvníků Nuka-Worldu týkající se výkonu našich novatronů a galaktronů. Konkrétně jde o to, že tyto modely robotů jsou extrémně podobné protektronům a anihilatronům od RobCa. Tito návštěvníci mají pocit, že jim nepřinášíme „úžasná představení mechanizovaného boje, kde v hlavních rolích účinkují dosud nevídané RobCo prototypy“, která slibujeme v reklamách. Mluvila jsem se zástupci RobCa a všichni jsme se shodli na tom, že k věci nemáme momentálně komentář. Pokud osobně obdržíte podobnou stížnost, NEVRACEJTE peníze za lístek, prostě jim řekněte, ať vyplní formulář pro stížnosti a že jim peníze odešleme za 12–18 týdnů.</Dest>
     </String>
     <String List="0" sID="004670">
       <EDID>DLC04GZ_StarportNukaManagersTerminal</EDID>
@@ -2589,11 +2588,11 @@ V poslední době jsme byli přijímání stížností od Nuka-World návštěvn
 This is Penning over at Starport Nuka. We're experiencing all sorts of minor control malfunctions with the older-model robots in the Galactic Zone. I'm sending over some of the incident reports. Nothing serious yet, but if Star Control ever loses its connection with these robots, I'm not sure what they'll do.&#xD;
 &#xD;
 Personally, I think our hardware is too far behind the software to have Star Control run the whole show right now. I know you don't want to hear it, but we really need to shut down the Galactic Zone and do a major overhaul before we have a catastrophic failure.</Source>
-      <Dest>!Komu: Peyton Huxley, výkonný asistent pan Bradberton&#xD;
+      <Dest>Komu: Peyton Huxley, výkonný asistent pana Bradbertona&#xD;
 &#xD;
-To je Penning více než u StarPort Nuka. Jsme zažívá nejrůznější drobné poruchám ovládání s starších modelů robotů v galaktické zóny. Posílám přes některé zprávy incidentu. Nic vážného ještě, ale pokud S.T.A.R. Ovládání někdy ztratí spojení s těmito roboty, nejsem si jistý, co udělají.&#xD;
+Tady Penning z hvězdného přístavu Nuka. Dochází nám tu k hromadě menších závad, co se ovládání starších modelů robotů týče. Posílám vám tam některá z hlášení o poruchách. Zatím nejde o nic vážného, ale pokud by Ovládání STAR nad těmi roboty ztratilo kontrolu, nedokážu říct, co provedou.&#xD;
 &#xD;
-Osobně si myslím, že náš hardware je příliš daleko za software, který má S.T.A.R. Ovládání spustit celou show právě teď. Vím, že nechcete slyšet, ale opravdu musíme vypnout Galaktickou zónu a udělat významnou změnu, než budeme mít katastrofální selhání.</Dest>
+Osobně si myslím, že náš hardware je oproti našemu softwaru příliš zastaralý na to, aby to celé řídil. Vím, že to nechcete slyšet, ale opravdu potřebujeme Galaktickou zónu zavřít a provést zásadní úpravy předtím, než dojde ke katastrofickému selhání.</Dest>
     </String>
     <String List="0" sID="004684">
       <EDID>DLC04GZ_StarportNukaManagersTerminal</EDID>
@@ -2601,9 +2600,9 @@ Osobně si myslím, že náš hardware je příliš daleko za software, který m
       <Source>From: Ingrid Suvenstein, Starport Nuka Technician&#xD;
 &#xD;
 Ryan, Mark and I are tired of fixing these robots and getting them to play nice with Star Control. The new system has put a strain on their control modules, and some of the older models just can't take the extra load. We're behind schedule as it is, and now you want us to chaperone tour groups through Star Control? If you want this stuff fixed quicker, you need to hire more staff or get to the bottom of why our purchase orders keep getting held up.</Source>
-      <Dest>!Od: Ingrid Suvenstein StarPort Nuka technik&#xD;
+      <Dest>Od: Ingrid Suvenstein, technik hvězdného přístavu Nuka&#xD;
 &#xD;
-Ryan, Mark a já jsme unaveni stanovení těchto robotů a dostat je hrát pěkný s hvězda Control. Nový systém zatěžuje jejich řídicích modulů, a některé starší modely prostě nemůže vzít další zátěž. Jsme pozadu, jak to je, a teď chcete, abychom gardedáma skupiny turistů přes S.T.A.R. Ovládání? Chcete-li tento materiál pevný rychleji, budete muset najmout více zaměstnanců, nebo si na dno, proč se držíme objednávky dostat zvedl.</Dest>
+Ryane, Mark i já už máme plné zuby opravování těch robotů a snahou je sladit s Ovládáním STAR. Nový systém přetěžuje jejich ovládací moduly a některé starší modely robotů tuhle zátěž navíc prostě nezvládají. Už tak nestíháme a teď po nás chceš, abychom vodili skupinky přes Ovládání STAR. Pokud chceš, aby se to vše dalo do pořádku rychleji, musíš najmout další lidi nebo přijít na to, proč jsou naše objednávky pořád zdržovány.</Dest>
     </String>
     <String List="0" sID="004685">
       <EDID>DLC04GangOperatorsLizziePlayerOwnershipFaction</EDID>
@@ -2635,9 +2634,9 @@ Ryan, Mark a já jsme unaveni stanovení těchto robotů a dostat je hrát pěkn
       <Source>From: Mark Reisman, Starport Nuka Technician&#xD;
 &#xD;
 Look, Penning. I'm about one day away from quitting if you don't get us some real help around here. We've got six units offline again today, and fixing each one takes almost our entire shift. Ingrid and I have been putting in sixty-hour weeks just to keep things from falling apart around here. Look, get it together or I'm walking. </Source>
-      <Dest>!Od: Mark Reisman StarPort Nuka technik&#xD;
+      <Dest>Od: Mark Reisman, technik hvězdného přístavu Nuka&#xD;
 &#xD;
-tvářit, Penning. Jsem asi jeden den od odvykání, pokud nechcete dostat nám nějakou opravdovou pomoc tady. Máme šest jednotek opět v režimu offline dnes, a kterým se každý z nich trvá téměř celý náš posun. Ingrid a já jsme byli uvedení v šedesát hodinových týdnů, jen aby věci z rozpadá tady. Podívejte se, dostat to společně nebo jdu.</Dest>
+Podívej, Penningu. Pokud nám sem neseženeš nějakou skutečnou pomoc, zůstanu maximálně den a padám odsud. Dneska tu máme šest jednotek mimo provoz a opravit každou z nich nám trvá skoro celou směnu. Ingrid a já makáme 60 hodin týdně, jen aby se to tady celé nezhroutilo. Hele, dej to do pořádku, nebo jdu pryč.</Dest>
     </String>
     <String List="0" sID="0046FE">
       <EDID>DLC04GZBattlezone_ControlRoomTerminal</EDID>
@@ -2646,10 +2645,10 @@ tvářit, Penning. Jsem asi jeden den od odvykání, pokud nechcete dostat nám 
 To: All Staff&#xD;
 &#xD;
 We were all saddened by the sudden and rather violent loss of Tim Wittingstone, a technician who's been with us since the attraction opened in 2072. The official investigation by the Bradberton Police has determined the cause of death to be accidental, and has released the Battlezone and RobCo from liability. Please remember that our robotic performers are equipped with live ammunition and are using a modified form of their original combat A.I. to function in our arena. This means the performers are strictly off limits to all personnel unless a repair or maintenance has been authorized and the performer's power source has been completely removed. Thank you.</Source>
-      <Dest>!Od: srovnejte Gainsborough, vedoucí Programování&#xD;
-na: Všichni personál&#xD;
+      <Dest>Od: C. F. Gainsborough, Vedoucí programátor&#xD;
+Komu: Veškerému personálu&#xD;
 &#xD;
-jsme byli všichni smutný náhlou a dosti prudké ztráty Tim Wittingstone, technikem, kdo byl s námi, protože přitažlivost otevřen v roce 2072. Oficiální vyšetřování podle Bradberton policie byla stanovena příčinou smrti bylo náhodné, a vydala Battlezone a RobCo z odpovědnosti. Mějte na paměti, že naše robotické umělci jsou vybaveny ostrými náboji a používáte upravenou formu svého původního boje A.I. fungovat v naší aréně. To znamená, že umělci jsou přísně tabu veškerému personálu, pokud oprava nebo údržba byla schválena a hercova zdroj byl zcela odstraněn. Děkuji.</Dest>
+Všichni jsme zarmoucení náhlou a poměrně násilnou ztrátou Tima Wittingstona, technika, který tu s námi byl od otevření atrakce v roce 2072. Oficiální vyšetřování vedené Bradbertonovou policií určila, že příčinou smrti byla nehoda a zbavila Bojovou zónu a RobCo zodpovědnosti. Prosím, pamatujte na to, že naši robotičtí účinkující jsou vybaveni ostrou municí a používají modifikovanou verzi původní bojové umělé inteligence. To znamená, že k těmto robotům je přístup přísně zakázán všemu personálu s výjimkou situace, kdy byla povolena oprava či údržba a robotův zdroj energie byl kompletně odstraněn. Děkuji vám.</Dest>
     </String>
     <String List="0" sID="004704">
       <EDID>DLC04GZ_StarportNukaManagersTerminal</EDID>
@@ -2659,11 +2658,11 @@ jsme byli všichni smutný náhlou a dosti prudké ztráty Tim Wittingstone, tec
 This is Penning over at Starport Nuka. Sorry to disturb you directly Mr. Bradberton, but we have a bit of a crisis on our hands over here. I'm certain your assistant can fill you in on the details if he hasn't already.&#xD;
 &#xD;
 I realize that Project Cobalt has put a lot of our resources on hold, but if we don't get some help soon, this could get out of control. Star Control was never meant to handle this many robots at one time, and we keep being asked to add more and older models to system. Please approve my requisition for new staff and maintenance requests as soon as possible.</Source>
-      <Dest>!Komu: J. C. Bradberton, ředitel společnosti Nuka-Cola&#xD;
+      <Dest>Komu: John–Caleb Bradberton, ředitel společnosti Nuka-Cola&#xD;
 &#xD;
-To je Penning více než u StarPort Nuka. Omlouvám se, že ruším přímo pana Bradberton, ale máme trochu krize na našich rukách tady. Jsem si jistý, váš asistent vás může vyplnit na detaily, jestli má tak již neučinili.&#xD;
+Tady Penning z hvězdného přístavu Nuka. Omlouvám se, že vás kontaktuji přímo, pane Bradbertone, ale potýkáme se tady tak trochu s menší krizí. Váš asistent vás jistě zasvětí do detailů, pokud to tedy ještě neudělal.&#xD;
 &#xD;
-Uvědomuji si, že projekt Kobalt má dát hodně našich zdrojů v pořadí, ale pokud se nám nepodaří získat nějakou pomoc brzy, mohlo by to vymknout kontrole. S.T.A.R. Ovládání byla nikdy chtěl zvládnout tolik robotů najednou, a my jsme stále žádán, aby přidávat další a starší modely do systému. Prosím schválit mou žádanku pro nové žádosti o zaměstnance a údržbu co nejdříve.</Dest>
+Uvědomuji si, že projekt Kobalt vyžaduje značnou část našich zdrojů, ale pokud zde brzo neobdržíme nějakou pomoc, může se to vymknout kontrole. Ovládání STAR není stavěno na to, aby ovládalo současně tolik robotů, a přesto nás stále žádají, abychom jich do systému přidali více a dokonce i starší modely. Prosím, schvalte můj požadavek pro nový personál a žádosti o údržbu co nejdříve to bude možné.</Dest>
     </String>
     <String List="0" sID="004720">
       <EDID>DLC04GZBattlezone_ControlRoomTerminal</EDID>
@@ -2671,7 +2670,7 @@ Uvědomuji si, že projekt Kobalt má dát hodně našich zdrojů v pořadí, al
       <Source>Remember to answer all internal communications in a timely manner!&#xD;
 &#xD;
 </Source>
-      <Dest>!Nezapomeňte odpovědět na všechny interní komunikace včas!&#xD;
+      <Dest>Nezapomínejte odpovídat na veškerou interní komunikaci odpovídat včas!&#xD;
 &#xD;
 </Dest>
     </String>
@@ -2706,10 +2705,10 @@ Uvědomuji si, že projekt Kobalt má dát hodně našich zdrojů v pořadí, al
 To: All Staff&#xD;
 &#xD;
 As you're all well aware, there was an unfortunate incident a few days ago involving an overworked Novatron exploding at the 3:00 matinee performance. Fortunately, the safety glass we had in place held back the fusion explosion, but the subsequent clean-up was costly and could have caused a loss of life. As the head of programming, I can't allow this to continue in good conscience. After speaking to our RobCo representatives, I've decided to cut down the number of shows from eight to six per day. Hopefully, this change will alleviate the strain these robots are under and allow us to continue presenting the best robotic entertainment possible.</Source>
-      <Dest>!Od: srovnejte Gainsborough, vedoucí Programování&#xD;
-na: Všichni útvarů&#xD;
+      <Dest>Od: C. F. Gainsborough, Vedoucí programátor&#xD;
+Komu: Veškerému personálu&#xD;
 &#xD;
-Jak jste si všichni dobře vědomi, došlo k nešťastné události před několika dny, jejichž následkem je přepracovaný Novatron explodující při představení 03:00 matiné. Naštěstí bezpečnostní sklo jsme měli v místě brzdí explozi fúze, ale následné čištění bylo nákladné a mohly způsobit ztráty na životech. Jako hlava programování, nemohu dovolit tento vývoj bude pokračovat s čistým svědomím. Po rozhovoru s našimi zástupci RobCo, jsem se rozhodl snížit počet pořadů z osmi na šest denně. Doufejme, že tato změna bude zmírnit napětí jsou tyto roboty jsou pod a umožní nám pokračovat v prezentaci nejlepší robotické zábavy je to možné.</Dest>
+Jak všichni dobře víte, před pár dny došlo k nehodě, během níž přepracovaný novatron explodoval při odpoledním představení v 15:00. Fúzní exploze byla naštěstí zadržena bezpečnostním sklem, které jsme měli na místě nainstalované, nicméně následný úklid byl dosti nákladný a celé to mohlo skončit ztrátou na životech. Coby vedoucí programátor nemohu s čistým svědomím dovolit, aby toto pokračovalo. Po domluvě s našimi zástupci z RobCo jsem se rozhodl snížit počet představení z osmi na šest denně. Doufejme, že tato změna zmírní zátěž, pod níž naši roboti jsou a umožná nám nadále nabízet tu nejlepší robotickou zábavu.</Dest>
     </String>
     <String List="0" sID="004915">
       <EDID>DLC04Gauntlet_ArenaControlTerminal</EDID>
@@ -2721,13 +2720,13 @@ Jak jste si všichni dobře vědomi, došlo k nešťastné události před něko
       <EDID>DLC04FizztopGrilleNameOverride</EDID>
       <REC>MESG:FULL</REC>
       <Source>Fizztop Grille Patio</Source>
-      <Dest>Dvůr grill baru Šumák</Dest>
+      <Dest>Terasa grill baru Šumák</Dest>
     </String>
     <String List="0" sID="004A7E">
       <EDID>DLC04GrandchesterProtectronChef</EDID>
       <REC id="1">NPC_:FULL</REC>
       <Source>Gunner Protectron Chef</Source>
-      <Dest>Protektron šéf Ranař</Dest>
+      <Dest>Protektron šéfkuchař Ranař</Dest>
     </String>
     <String List="0" sID="004A7F">
       <EDID>DLC04GrandchesterHandy</EDID>
@@ -2757,31 +2756,31 @@ Jak jste si všichni dobře vědomi, došlo k nešťastné události před něko
       <EDID>DLC04FlagpoleMessageBottling</EDID>
       <REC>MESG:DESC</REC>
       <Source>Which gang did you want to assign to Nuka-World's Bottling Plant? The more territories assigned to a gang, the more tolerant of you they'll become.</Source>
-      <Dest>!Který gang jste chtěli přiřadit Nuka-World stáčírny? Čím více území přiřazené k gangu, tím více tolerantní z vás budou stát.</Dest>
+      <Dest>Který gang chceš přiřadit ke stáčírně Nuka-Worldu? Čím více teritorií gangu přiřadíš, tím více tě bude tolerovat.</Dest>
     </String>
     <String List="1" sID="000132">
       <EDID>DLC04FlagpoleMessageGalaxy</EDID>
       <REC>MESG:DESC</REC>
       <Source>Which gang did you want to assign to Nuka-World's Galactic Zone? The more territories assigned to a gang, the more tolerant of you they'll become.</Source>
-      <Dest>!Který gang jste chtěli přiřadit ke Galaktické zóně Nuka-Worldu? Čím více území přiřazené k gangu, tím více tolerantní z vás budou stát.</Dest>
+      <Dest>Který gang chceš přiřadit ke Galaktické zóně Nuka-Worldu? Čím více teritorií gangu přiřadíš, tím více tě bude tolerovat.</Dest>
     </String>
     <String List="1" sID="000138">
       <EDID>DLC04FlagpoleMessageKiddie</EDID>
       <REC>MESG:DESC</REC>
       <Source>Which gang did you want to assign to Nuka-World's Kiddie Kingdom? The more territories assigned to a gang, the more tolerant of you they'll become.</Source>
-      <Dest>!Který gang jste chtěli přiřadit v Nuka-Worldu k Dětskému království? Čím více území přiřazené k gangu, tím více tolerantní z vás budou stát.</Dest>
+      <Dest>Který gang chceš přiřadit k Dětskému království Nuka-Worldu? Čím více teritorií gangu přiřadíš, tím více tě bude tolerovat.</Dest>
     </String>
     <String List="1" sID="00013E">
       <EDID>DLC04FlagpoleMessageWildWest</EDID>
       <REC>MESG:DESC</REC>
       <Source>Which gang did you want to assign to Nuka-World's Wild West? The more territories assigned to a gang, the more tolerant of you they'll become.</Source>
-      <Dest>!Který gang jste chtěli přiřadit v Nuka-Worldu k Divokému západu? Čím více území přiřazené k gangu, tím více tolerantní z vás budou stát.</Dest>
+      <Dest>Který gang chceš přiřadit k Divokému západu Nuka-Worldu? Čím více teritorií gangu přiřadíš, tím více tě bude tolerovat.</Dest>
     </String>
     <String List="1" sID="00014A">
       <EDID>DLC04FlagpoleMessageSafari</EDID>
       <REC>MESG:DESC</REC>
       <Source>Which gang did you want to assign to Nuka-World's Safari Adventure? The more territories assigned to a gang, the more tolerant of you they'll become.</Source>
-      <Dest>!Který gang jste chtěli přiřadit Nuka-World Safari dobrodružství? Čím více území přiřazené k gangu, tím více tolerantní z vás budou stát.</Dest>
+      <Dest>Který gang chceš přiřadit k Safari dobrodružství Nuka-Worldu? Čím více teritorií gangu přiřadíš, tím více tě bude tolerovat.</Dest>
     </String>
     <String List="1" sID="00014D">
       <EDID>DLC04FlagpoleNotReclaimedMessage</EDID>
@@ -2793,7 +2792,7 @@ Jak jste si všichni dobře vědomi, došlo k nešťastné události před něko
       <EDID>DLC04GZ_NoStarCoresMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You have no Star Cores.</Source>
-      <Dest>Nemáš žádné hvězdné jádro.</Dest>
+      <Dest>Nemáš žádná STAR jádra.</Dest>
     </String>
     <String List="1" sID="00196E">
       <EDID>DLC04FrenzyGrenadeRecipe</EDID>
@@ -2812,7 +2811,7 @@ POLOŽKY&#xD;
 - 1 láhev nemrznoucí směsi&#xD;
 - 1 láhev vody&#xD;
 - 2 zdroje lepidla (páska, lepidlo, cokoliv)&#xD;
-- hliníkové kladivo (2x)&#xD;
+- kovaný hliník(2x)&#xD;
 - 1 pružina</Dest>
     </String>
     <String List="1" sID="003E0B">
@@ -2820,56 +2819,56 @@ POLOŽKY&#xD;
       <REC>MESG:DESC</REC>
       <Source>Morticia Grandchester ordered this stairway to nowhere built in an effort to confuse the evil spirits possessing her daughter Lucy.&#xD;
 </Source>
-      <Dest>!Morticia Grandchester objednal tento schodiště do neznáma postavený ve snaze zmást zlé duchy vlastnící její dcerou Lucy.</Dest>
+      <Dest>Morticia Grandchester nechala toto nikam nevedoucí schodiště postavit ve snaže zmást zlé duchy, jež posedli její dceru Lucy.</Dest>
     </String>
     <String List="1" sID="0043EF">
       <EDID>DLC04GorillaRace</EDID>
       <REC>RACE:DESC</REC>
       <Source>standing left attack</Source>
-      <Dest>standing left attack</Dest>
+      <Dest>Levý útok, ve stoje</Dest>
     </String>
     <String List="1" sID="0044E5">
       <EDID>DLC04GrandchesterPlaqueMsq05</EDID>
       <REC>MESG:DESC</REC>
       <Source>After creating this upside down room, the Grandchesters stopped receiving visitors. Most of their high society friends had begun to shun them by then anyway.</Source>
-      <Dest>!Po vytvoření této vzhůru nohama místnosti, Grandchesters zastavil přijímání návštěv. Většina z jejich přátel lepší společnosti začal jim vyhýbat do té doby tak jako tak.</Dest>
+      <Dest>Poté, co Grandchesterové vytvořili tuto „vzhůra nohama“ místo, přestali přijímat návštěvy. Většina jejich přátel z vyšší společnosti se jich tou dobou už stejně začala stranit.</Dest>
     </String>
     <String List="1" sID="0044E8">
       <EDID>DLC04GrandchesterPlaqueMsq02</EDID>
       <REC>MESG:DESC</REC>
       <Source>Throughout the mansion you'll find doors like this one that open to blanks walls in an attempt to confuse the spirits possessing Lucy, the Grandchester's daughter.&#xD;
 </Source>
-      <Dest>!V celém sídle najdete dveře, jako je tento, které se otevírají polotovarů zdí ve snaze zmást duchy vlastnící Lucy, Grandchesterovu dceru.</Dest>
+      <Dest>V celém sídle najdete dveře jako tyto – vedou pouze do holých stěn. Jedná se o pokus zmást duchy, kteří posedli Lucy, Grandchesterovu dceru.</Dest>
     </String>
     <String List="1" sID="0044EE">
       <EDID>DLC04GrandchesterPlaqueMsq08</EDID>
       <REC>MESG:DESC</REC>
       <Source>After the gruesome murders of Lucy's parents, the police confiscated dozens of items from this room. There were assorted knives, makeshift weapons, animal bones and toxic substances. Strangest of all was a journal written in some sort of code that was never deciphered. Unfortunately all of those items remain in police evidence lockers to this day.</Source>
-      <Dest>!Po hrůzných vražd Lucy rodičů, zabavila policie desítky kusů z této místnosti. Tam byly rozmanité nože, provizorní zbraně, zvířecí kosti a toxické látky. Nejpodivnější ze všeho byl časopis napsaný v nějakém kódu, který nebyl nikdy dešifrované. Bohužel všechny tyto položky zůstávají v policejní důkazy skříněk k tomuto dni.</Dest>
+      <Dest>Po hrůzných vraždách Lucyiných rodičů policie z této místnosti zabavila desítky předmětů. Šlo o nejrůznější nože, podomácku vyrobené zbraně, zvířecí kosti a toxické látky. Nejpodivnější z toho všeho byl deníček napsaný nějakou šifrou, která nebyla nikdy rozluštěna. Bohužel, do dnešního dne všechny tyto věci u sebe drží policie coby důkazy.</Dest>
     </String>
     <String List="1" sID="004579">
       <EDID>DLC04GrandchesterPlaqueMsq03</EDID>
       <REC>MESG:DESC</REC>
       <Source>Portrait of Morticia Grandchester. Photographs suggest that the artist took many liberties to make her look more youthful and attractive.</Source>
-      <Dest>!Portrét Morticia Grandchester. Fotografie ukazují, že umělec vzal mnoho svobody, aby vypadala mladě a atraktivnější.</Dest>
+      <Dest>Portrét Morticie Grandchester. Podle fotografií je patrné, že autor k práci přistupoval volně a v jeho podání vypadá Morticia mlaději a atraktivněji.</Dest>
     </String>
     <String List="1" sID="00457A">
       <EDID>DLC04GrandchesterPlaqueMsq04</EDID>
       <REC>MESG:DESC</REC>
       <Source>Throughout her short life, Lucy was fascinated with fire. She liked to throw insects into the flames and watch them burn.</Source>
-      <Dest>!Po celou dobu svého krátkého života, Lucy byl fascinován s ohněm. Líbilo se jí hodit hmyzu do plamenů a dívat se na ně hořet.</Dest>
+      <Dest>Po celý svůj krátký život byla Lucy fascinována ohněm. Ráda do plamenů házela hmyz a koukala, jak hoří.</Dest>
     </String>
     <String List="1" sID="00457B">
       <EDID>DLC04GrandchesterPlaqueMsq06</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Grandchesters had trouble keeping staff, especially cooks, once Lucy was old enough to roam the mansion. The longest serving cook was "Granny" Ratchet whom they hired away from a prison. She quit after 5 months declaring Lucy to be Satan's spawn.</Source>
-      <Dest>!V sídle Grandchesterů měl potíže udržet zaměstnance, zejména kuchaři, jakmile Lucy byl dost starý, aby toulat zámek. Nejdéle sloužícím Kuchař byl „Granny“ Ratchet koho najali pryč od vězení. Ona skončila po 5 měsících kteří prohlašují Lucy být Satanovým potěr.</Dest>
+      <Dest>Od chvíle, kdy byla Lucy dost stará na to, aby se toulala po sídle, měli Grandchesterové problém udržet si personál, zejména kuchaře. Nejdéle sloužící kuchařkou byla „Stará“ Hrkna, kterou si najali přímo z věznice. Odešla po pěti měsících a prohlašovala, že Lucy je dítětem Satana.</Dest>
     </String>
     <String List="1" sID="00457C">
       <EDID>DLC04GrandchesterPlaqueMsq07</EDID>
       <REC>MESG:DESC</REC>
       <Source>When curators investigated this room, they found a variety of hidden speakers, trip wires, fog machines and other devices clearly used to stage false seances.</Source>
-      <Dest>!Když kurátoři zkoumali tuto místnost, našli celou řadu skrytých reproduktorů, výlet dráty, mlhové strojů a dalších zařízení jasně používají pro falešné fázi seance.</Dest>
+      <Dest>Když kurátoři prohledávali tuto místnost, našli nejrůznější skryté reproduktory, nástražné dráty, stroje na výrobu kouře a další zařízení, která byla zjevně používáná k inscenování falešných seancí.</Dest>
     </String>
     <String List="1" sID="004A6E">
       <EDID>DLC04EndgamePackDeadPerkMessage</EDID>
@@ -2881,13 +2880,13 @@ POLOŽKY&#xD;
       <EDID>DLC04EndgameDisciplesDeadPerkMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Having favored the Operators and the Pack, you have gained the "Ace Operator" and "Pack Alpha" perks.</Source>
-      <Dest>Díky tvé podpoře Provozáků a Šelem získáváš perky „Eso provozák“ a „Alfa šelma“.</Dest>
+      <Dest>Díky tvé podpoře Provozáků a Smečky získáváš perky „Eso provozák“ a „Alfa šelma“.</Dest>
     </String>
     <String List="1" sID="004A70">
       <EDID>DLC04EndgameOperatorsDeadPerkMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Having favored the Disciples and the Pack, you have gained the "Chosen Disciple" and "Pack Alpha" perks.</Source>
-      <Dest>Díky tvé podpoře Stoupenců a Šelem získáváš perky „Vyvolený stoupenec“ a „Alfa šelma“.</Dest>
+      <Dest>Díky tvé podpoře Stoupenců a Smečky získáváš perky „Vyvolený stoupenec“ a „Alfa šelma“.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
