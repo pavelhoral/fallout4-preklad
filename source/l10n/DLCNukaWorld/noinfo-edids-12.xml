@@ -17,19 +17,19 @@
       <EDID>DLC04RaiderOverbossPassword</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Overboss' Password</Source>
-      <Dest>Overbossovo heslo</Dest>
+      <Dest>Superšéfovo heslo</Dest>
     </String>
     <String List="0" sID="000284">
       <EDID>DLC04RaiderOverbossKey</EDID>
       <REC>KEYM:FULL</REC>
       <Source>Overboss' Key</Source>
-      <Dest>Overbossův klíč</Dest>
+      <Dest>Superšéfův klíč</Dest>
     </String>
     <String List="0" sID="0002A7">
       <EDID>DLC04RaiderRadioAnnouncer</EDID>
       <REC>NPC_:FULL</REC>
       <Source>RedEye</Source>
-      <Dest>Červené oko</Dest>
+      <Dest>Spojivka</Dest>
     </String>
     <String List="0" sID="000531">
       <EDID>DLC04RaidWipeOut</EDID>
@@ -53,7 +53,7 @@
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Meet your Gang outside &lt;Alias=myLocation&gt;</Source>
-      <Dest>Setkej se se svým gangem mimo lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Setkej se se svým gangem u lokace &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="000550">
       <EDID>DLC04RaidWipeOutAttackerFaction</EDID>
@@ -143,7 +143,7 @@
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Convince the Settlers at &lt;Alias=MyLocation&gt; to Leave</Source>
-      <Dest>Přesvědči osadníky k opuštění lokace &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Přesvědč osadníky k opuštění lokace &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="000C16">
       <EDID>DLC04REChokepointCT03</EDID>
@@ -155,7 +155,7 @@
       <EDID>DLC04RECampCT04Peter</EDID>
       <REC>NPC_:FULL</REC>
       <Source>Peter</Source>
-      <Dest>Peter</Dest>
+      <Dest>Petr</Dest>
     </String>
     <String List="0" sID="000C40">
       <EDID>DLC04REAssaultCT05</EDID>
@@ -209,7 +209,7 @@
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Meet your Gang outside &lt;Alias=myLocation&gt;</Source>
-      <Dest>Setkej se se svým gangem mimo lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Setkej se se svým gangem u lokace &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="000D9A">
       <EDID>DLC04RaidSubdue</EDID>
@@ -239,13 +239,13 @@
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>Cripple the Settlers at &lt;Alias=myLocation&gt;</Source>
-      <Dest>Ochrom osadníky v lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Zmrzač osadníky v lokaci &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="000DC9">
       <EDID>DLC04RaidSubdue</EDID>
       <REC>QUST:FULL</REC>
       <Source>Subdue &lt;Alias=MyLocation&gt;</Source>
-      <Dest>Podmaň si lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Podrob si lokaci &lt;Alias=MyLocation&gt;</Dest>
     </String>
     <String List="0" sID="000DCF">
       <EDID>DLC04RaidSubdueDisable</EDID>
@@ -263,7 +263,7 @@
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="0">QUST:NNAM</REC>
       <Source>Convince the Settlers at &lt;Alias=MyLocation&gt; to Supply your Gang</Source>
-      <Dest>Přesvědči osadníky v lokaci &lt;Alias=MyLocation&gt;, aby zásobovali tvůj gang</Dest>
+      <Dest>Přesvědč osadníky v lokaci &lt;Alias=MyLocation&gt;, aby zásobovali tvůj gang</Dest>
     </String>
     <String List="0" sID="000EFC">
       <EDID>DLC04RaidCoerce</EDID>
@@ -275,31 +275,31 @@
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="50">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
-      <Dest>Nos - Kořen</Dest>
+      <Dest>Nose Bridge</Dest>
     </String>
     <String List="0" sID="000F0F">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="16">RACE:FMRN</REC>
       <Source>Eyes</Source>
-      <Dest>Oči</Dest>
+      <Dest>Eyes</Dest>
     </String>
     <String List="0" sID="000F13">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="58">RACE:FMRN</REC>
       <Source>Lower Face</Source>
-      <Dest>Tvář - Spodní</Dest>
+      <Dest>Lower Face</Dest>
     </String>
     <String List="0" sID="000F16">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="38">RACE:FMRN</REC>
       <Source>Ears Top</Source>
-      <Dest>Uši - Vrchol</Dest>
+      <Dest>Ears Top</Dest>
     </String>
     <String List="0" sID="000F17">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="22">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
-      <Dest>Ústa - Koutky</Dest>
+      <Dest>Mouth Corners</Dest>
     </String>
     <String List="0" sID="000F18">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
@@ -311,355 +311,355 @@
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="20">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
-      <Dest>Nos - Špička</Dest>
+      <Dest>Nose Tip</Dest>
     </String>
     <String List="0" sID="000F1B">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="9">RACE:FMRN</REC>
       <Source>Nose Main</Source>
-      <Dest>Nos - Celý</Dest>
+      <Dest>Nose Main</Dest>
     </String>
     <String List="0" sID="000F1D">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="45">RACE:FMRN</REC>
       <Source>Temple</Source>
-      <Dest>Spánky</Dest>
+      <Dest>Temple</Dest>
     </String>
     <String List="0" sID="000F1E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="28">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
-      <Dest>Oční víčka - Vrchní</Dest>
+      <Dest>Eyelids - Top</Dest>
     </String>
     <String List="0" sID="000F22">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="34">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
-      <Dest>Obočí - Vnější</Dest>
+      <Dest>Eyebrow Outer</Dest>
     </String>
     <String List="0" sID="000F25">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="19">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
-      <Dest>Obočí - Střed</Dest>
+      <Dest>Eyebrows Mid</Dest>
     </String>
     <String List="0" sID="000F26">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="4">RACE:FMRN</REC>
       <Source>Cheeks</Source>
-      <Dest>Líce</Dest>
+      <Dest>Cheeks</Dest>
     </String>
     <String List="0" sID="000F28">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="43">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
-      <Dest>Čelist - Vnější</Dest>
+      <Dest>Jaw Outer</Dest>
     </String>
     <String List="0" sID="000F2A">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="12">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
-      <Dest>Čelist - Střed</Dest>
+      <Dest>Jaw Mid</Dest>
     </String>
     <String List="0" sID="000F2B">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="44">RACE:FMRN</REC>
       <Source>Jaw Mid</Source>
-      <Dest>Čelist - Střed</Dest>
+      <Dest>Jaw Mid</Dest>
     </String>
     <String List="0" sID="000F2D">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="25">RACE:FMRN</REC>
       <Source>Forehead</Source>
-      <Dest>Čelo</Dest>
+      <Dest>Forehead</Dest>
     </String>
     <String List="0" sID="000F35">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="46">RACE:FMRN</REC>
       <Source>Chin</Source>
-      <Dest>Brada</Dest>
+      <Dest>Chin</Dest>
     </String>
     <String List="0" sID="000F3A">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="31">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
-      <Dest>Nos - Hřbet</Dest>
+      <Dest>Nose - Ridge</Dest>
     </String>
     <String List="0" sID="000F3E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="23">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
-      <Dest>Ústa - Vrchní</Dest>
+      <Dest>Mouth Top</Dest>
     </String>
     <String List="0" sID="000F3F">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="17">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
-      <Dest>Lícní kosti - Zadní</Dest>
+      <Dest>Cheek Bones Back</Dest>
     </String>
     <String List="0" sID="000F42">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="5">RACE:FMRN</REC>
       <Source>Ears Main</Source>
-      <Dest>Uši - Celé</Dest>
+      <Dest>Ears Main</Dest>
     </String>
     <String List="0" sID="000F43">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="57">RACE:FMRN</REC>
       <Source>Forehead</Source>
-      <Dest>Čelo</Dest>
+      <Dest>Forehead</Dest>
     </String>
     <String List="0" sID="000F47">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="37">RACE:FMRN</REC>
       <Source>Ears Main</Source>
-      <Dest>Uši - Celé</Dest>
+      <Dest>Ears Main</Dest>
     </String>
     <String List="0" sID="000F49">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="24">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
-      <Dest>Ústa - Spodní</Dest>
+      <Dest>Mouth Bot</Dest>
     </String>
     <String List="0" sID="000F4C">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="3">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
-      <Dest>Lícní kosti</Dest>
+      <Dest>Cheek Bones</Dest>
     </String>
     <String List="0" sID="000F4E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="49">RACE:FMRN</REC>
       <Source>Cheek Bones Back</Source>
-      <Dest>Lícní kosti - Zadní</Dest>
+      <Dest>Cheek Bones Back</Dest>
     </String>
     <String List="0" sID="000F51">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="21">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
-      <Dest>Ústa - Celá</Dest>
+      <Dest>Mouth Main</Dest>
     </String>
     <String List="0" sID="000F55">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="56">RACE:FMRN</REC>
       <Source>Mouth Bot</Source>
-      <Dest>Ústa - Spodní</Dest>
+      <Dest>Mouth Bot</Dest>
     </String>
     <String List="0" sID="000F57">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="14">RACE:FMRN</REC>
       <Source>Chin</Source>
-      <Dest>Brada</Dest>
+      <Dest>Chin</Dest>
     </String>
     <String List="0" sID="000F59">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="18">RACE:FMRN</REC>
       <Source>Nose Bridge</Source>
-      <Dest>Nos - Kořen</Dest>
+      <Dest>Nose Bridge</Dest>
     </String>
     <String List="0" sID="000F5E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="36">RACE:FMRN</REC>
       <Source>Cheeks</Source>
-      <Dest>Líce</Dest>
+      <Dest>Cheeks</Dest>
     </String>
     <String List="0" sID="000F6E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="0">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
-      <Dest>Obočí</Dest>
+      <Dest>Eyebrow Main</Dest>
     </String>
     <String List="0" sID="000F76">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="10">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nosní dírky</Dest>
+      <Dest>Nostrils</Dest>
     </String>
     <String List="0" sID="000F79">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="27">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
-      <Dest>Boční tloušťka nosu</Dest>
+      <Dest>Side Nose Fat</Dest>
     </String>
     <String List="0" sID="000F85">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="29">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
-      <Dest>Oční víčka - Spodní</Dest>
+      <Dest>Eyelids - Bottom</Dest>
     </String>
     <String List="0" sID="000F96">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="42">RACE:FMRN</REC>
       <Source>Nostrils</Source>
-      <Dest>Nosní dírky</Dest>
+      <Dest>Nostrils</Dest>
     </String>
     <String List="0" sID="000F9A">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="62">RACE:FMRN</REC>
       <Source>Jowls - Lower</Source>
-      <Dest>Čelisti - Spodní</Dest>
+      <Dest>Jowls - Lower</Dest>
     </String>
     <String List="0" sID="000F9C">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="51">RACE:FMRN</REC>
       <Source>Eyebrows Mid</Source>
-      <Dest>Obočí - Střed</Dest>
+      <Dest>Eyebrows Mid</Dest>
     </String>
     <String List="0" sID="000F9D">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="26">RACE:FMRN</REC>
       <Source>Lower Face</Source>
-      <Dest>Tvář - Spodní</Dest>
+      <Dest>Lower Face</Dest>
     </String>
     <String List="0" sID="000F9E">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="7">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
-      <Dest>Uši - Střed</Dest>
+      <Dest>Ears Mid</Dest>
     </String>
     <String List="0" sID="000FA3">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="39">RACE:FMRN</REC>
       <Source>Ears Mid</Source>
-      <Dest>Uši - Střed</Dest>
+      <Dest>Ears Mid</Dest>
     </String>
     <String List="0" sID="000FA8">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="63">RACE:FMRN</REC>
       <Source>Nose - Ridge</Source>
-      <Dest>Nos - Hřbet</Dest>
+      <Dest>Nose - Ridge</Dest>
     </String>
     <String List="0" sID="000FAA">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="8">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
-      <Dest>Uši - Spodek</Dest>
+      <Dest>Ears Bottom</Dest>
     </String>
     <String List="0" sID="000FAD">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="53">RACE:FMRN</REC>
       <Source>Mouth Main</Source>
-      <Dest>Ústa - Celá</Dest>
+      <Dest>Mouth Main</Dest>
     </String>
     <String List="0" sID="000FB3">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="2">RACE:FMRN</REC>
       <Source>Eyebrow Outer</Source>
-      <Dest>Obočí - Vnější</Dest>
+      <Dest>Eyebrow Outer</Dest>
     </String>
     <String List="0" sID="000FB6">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="35">RACE:FMRN</REC>
       <Source>Cheek Bones</Source>
-      <Dest>Lícní kosti</Dest>
+      <Dest>Cheek Bones</Dest>
     </String>
     <String List="0" sID="000FBA">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="11">RACE:FMRN</REC>
       <Source>Jaw Outer</Source>
-      <Dest>Čelist - Vnější</Dest>
+      <Dest>Jaw Outer</Dest>
     </String>
     <String List="0" sID="000FBB">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="33">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
-      <Dest>Obočí - Vnitřní</Dest>
+      <Dest>Eyebrow In</Dest>
     </String>
     <String List="0" sID="000FBF">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="41">RACE:FMRN</REC>
       <Source>Nose Main</Source>
-      <Dest>Nos - Celý</Dest>
+      <Dest>Nose Main</Dest>
     </String>
     <String List="0" sID="000FC3">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="61">RACE:FMRN</REC>
       <Source>Eyelids - Bottom</Source>
-      <Dest>Oční víčka - Spodní</Dest>
+      <Dest>Eyelids - Bottom</Dest>
     </String>
     <String List="0" sID="000FCB">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="30">RACE:FMRN</REC>
       <Source>Jowls -  Lower</Source>
-      <Dest>Čelisti - Spodní</Dest>
+      <Dest>Jowls -  Lower</Dest>
     </String>
     <String List="0" sID="000FCC">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="32">RACE:FMRN</REC>
       <Source>Eyebrow Main</Source>
-      <Dest>Obočí</Dest>
+      <Dest>Eyebrow Main</Dest>
     </String>
     <String List="0" sID="000FD1">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="60">RACE:FMRN</REC>
       <Source>Eyelids - Top</Source>
-      <Dest>Oční víčka - Vrchní</Dest>
+      <Dest>Eyelids - Top</Dest>
     </String>
     <String List="0" sID="000FD4">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="47">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
-      <Dest>Tloušťka krku</Dest>
+      <Dest>Neck Fat</Dest>
     </String>
     <String List="0" sID="000FD5">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="40">RACE:FMRN</REC>
       <Source>Ears Bottom</Source>
-      <Dest>Uši - Spodek</Dest>
+      <Dest>Ears Bottom</Dest>
     </String>
     <String List="0" sID="000FD6">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="15">RACE:FMRN</REC>
       <Source>Neck Fat</Source>
-      <Dest>Tloušťka krku</Dest>
+      <Dest>Neck Fat</Dest>
     </String>
     <String List="0" sID="000FD7">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="6">RACE:FMRN</REC>
       <Source>Ears Top</Source>
-      <Dest>Uši - Vrchol</Dest>
+      <Dest>Ears Top</Dest>
     </String>
     <String List="0" sID="000FD8">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="13">RACE:FMRN</REC>
       <Source>Temple</Source>
-      <Dest>Spánky</Dest>
+      <Dest>Temple</Dest>
     </String>
     <String List="0" sID="000FDA">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="1">RACE:FMRN</REC>
       <Source>Eyebrow In</Source>
-      <Dest>Obočí - Vnitřní</Dest>
+      <Dest>Eyebrow In</Dest>
     </String>
     <String List="0" sID="000FDB">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="59">RACE:FMRN</REC>
       <Source>Side Nose Fat</Source>
-      <Dest>Boční tloušťka nosu</Dest>
+      <Dest>Side Nose Fat</Dest>
     </String>
     <String List="0" sID="000FDD">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="52">RACE:FMRN</REC>
       <Source>Nose Tip</Source>
-      <Dest>Nos - Špička</Dest>
+      <Dest>Nose Tip</Dest>
     </String>
     <String List="0" sID="000FDE">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="55">RACE:FMRN</REC>
       <Source>Mouth Top</Source>
-      <Dest>Ústa - Vrchní</Dest>
+      <Dest>Mouth Top</Dest>
     </String>
     <String List="0" sID="000FE0">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="48">RACE:FMRN</REC>
       <Source>Eyes</Source>
-      <Dest>Oči</Dest>
+      <Dest>Eyes</Dest>
     </String>
     <String List="0" sID="000FE2">
       <EDID>DLC04PowerArmorRaceAdditiveSubGraphData</EDID>
       <REC id="54">RACE:FMRN</REC>
       <Source>Mouth Corners</Source>
-      <Dest>Ústa - Koutky</Dest>
+      <Dest>Mouth Corners</Dest>
     </String>
     <String List="0" sID="0010F5">
       <EDID>DLC04RaidSelectQuest</EDID>
@@ -689,37 +689,37 @@
       <EDID>DLC04RaiderRadioAnnouncer</EDID>
       <REC>NPC_:SHRT</REC>
       <Source>RedEye</Source>
-      <Dest>Červené oko</Dest>
+      <Dest>Spojivka</Dest>
     </String>
     <String List="0" sID="00186D">
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>(Optional) Power a Nuka-World Radio Transmitter at &lt;Alias=NearbyRaiderSettlement&gt;</Source>
-      <Dest>(Nepovinné) Zapoj Nuka-World rádiový vysílač v osadě &lt;Alias=NearbyRaiderSettlement&gt;</Dest>
+      <Dest>(Nepovinné) Zapoj rádiový vysílač Nuka Worldu v osadě &lt;Alias=NearbyRaiderSettlement&gt;</Dest>
     </String>
     <String List="0" sID="00186E">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="3">QUST:NNAM</REC>
       <Source>Build your Gang's Signal Flag using the Workshop at &lt;Alias=myLocation&gt;</Source>
-      <Dest>Postav svojí signální vlajku gangu pomocí dílny v lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Pomocí dílny v lokaci &lt;Alias=MyLocation&gt; postav signální vlajku gangu </Dest>
     </String>
     <String List="0" sID="001880">
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>(Optional) Target the Settlement Leader with a Persuasion Grenade</Source>
-      <Dest>(Nepovinné) Zaměř vůdce osady přesvědčovacím granátem</Dest>
+      <Dest>(Nepovinné) Použij na vůdce osady přesvědčovací granát</Dest>
     </String>
     <String List="0" sID="0018E9">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="1">QUST:NNAM</REC>
       <Source>(Optional) Target the Settlement Leader with a Persuasion Grenade </Source>
-      <Dest>(Nepovinné) Zaměř vůdce osady přesvědčovacím granátem</Dest>
+      <Dest>(Nepovinné) Použij na vůdce osady přesvědčovací granát</Dest>
     </String>
     <String List="0" sID="0018FA">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>(Optional) Power a Nuka-World Radio Transmitter at &lt;Alias=NearbyRaiderSettlement&gt;</Source>
-      <Dest>(Nepovinné) Zapoj Nuka-World rádiový vysílač v osadě &lt;Alias=NearbyRaiderSettlement&gt;</Dest>
+      <Dest>(Nepovinné) Zapoj rádiový vysílač Nuka Worldu v osadě &lt;Alias=NearbyRaiderSettlement&gt;</Dest>
     </String>
     <String List="0" sID="001903">
       <EDID>DLC04RaiderRadioReceiver</EDID>
@@ -731,13 +731,13 @@
       <EDID>DLC04RadioDisplayMessage</EDID>
       <REC>MESG:FULL</REC>
       <Source>Nuka-World Radio</Source>
-      <Dest>Nuka-World rádio</Dest>
+      <Dest>Nuka World rádio</Dest>
     </String>
     <String List="0" sID="001937">
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="2">QUST:NNAM</REC>
       <Source>Build your Gang's Signal Flag using the Workshop at &lt;Alias=myLocation&gt;</Source>
-      <Dest>Postav svojí signální vlajku gangu pomocí dílny v lokaci &lt;Alias=MyLocation&gt;</Dest>
+      <Dest>Pomocí dílny v lokaci &lt;Alias=MyLocation&gt; postav signální vlajku gangu </Dest>
     </String>
     <String List="0" sID="001B04">
       <EDID>DLC04RaiderKickout</EDID>
@@ -785,67 +785,67 @@
       <EDID>DLC04PrestonWipeOutRaiders</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Wipe out the Nuka-World Raiders</Source>
-      <Dest>Zlikviduj nájezdníky v Nuka-Worldu</Dest>
+      <Dest>Zlikviduj nájezdníky z Nuka Worldu</Dest>
     </String>
     <String List="0" sID="0029F2">
       <EDID>DLC04RadioAnnouncements</EDID>
       <REC>QUST:FULL</REC>
       <Source>Nuka-World Announcements</Source>
-      <Dest>Nuka-World oznámení</Dest>
+      <Dest>Nuka-World Announcements</Dest>
     </String>
     <String List="0" sID="003045">
       <EDID>DLC04QAJunk</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Misc Items</Source>
-      <Dest>DLC04 různé předměty</Dest>
+      <Dest>DLC04 Misc Items</Dest>
     </String>
     <String List="0" sID="00304E">
       <EDID>DLC04QAArmorChest</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Armor</Source>
-      <Dest>DLC04 zbroj</Dest>
+      <Dest>DLC04 Armor</Dest>
     </String>
     <String List="0" sID="003067">
       <EDID>DLC04QAHolotapesChest</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Holotapes</Source>
-      <Dest>DLC04 holopásky</Dest>
+      <Dest>DLC04 Holotapes</Dest>
     </String>
     <String List="0" sID="003093">
       <EDID>DLC04QAWeaponMods</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Weapon Mods</Source>
-      <Dest>DLC04 modifikace zbraní</Dest>
+      <Dest>DLC04 Weapon Mods</Dest>
     </String>
     <String List="0" sID="003098">
       <EDID>DLC04QABookChest</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Books</Source>
-      <Dest>DLC04 knihy</Dest>
+      <Dest>DLC04 Books</Dest>
     </String>
     <String List="0" sID="00309E">
       <EDID>DLC04PowerTracker</EDID>
       <REC>QUST:NNAM</REC>
       <Source>Restore Power to Nuka-World at Power Plant</Source>
-      <Dest>Obnov napájení Nuka-Worldu v elektrárně</Dest>
+      <Dest>Obnov v elektrárně napájení Nuka Worldu</Dest>
     </String>
     <String List="0" sID="0030A0">
       <EDID>DLC04QAArmorMods</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Armor Mods</Source>
-      <Dest>DLC04 modifikace zbrojí</Dest>
+      <Dest>DLC04 Armor Mods</Dest>
     </String>
     <String List="0" sID="0030B6">
       <EDID>DLC04QAConsumableChest</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Consumables</Source>
-      <Dest>DLC04 spotřební předměty</Dest>
+      <Dest>DLC04 Consumables</Dest>
     </String>
     <String List="0" sID="0030D2">
       <EDID>DLC04QAWeaponChest</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Weapons</Source>
-      <Dest>DLC04 zbraně</Dest>
+      <Dest>DLC04 Weapons</Dest>
     </String>
     <String List="0" sID="0030DF">
       <EDID>DLC04PowerTracker</EDID>
@@ -857,13 +857,13 @@
       <EDID>DLC04QARobotMods</EDID>
       <REC>CONT:FULL</REC>
       <Source>DLC04 Robot Mods</Source>
-      <Dest>DLC04 modifikace robotů</Dest>
+      <Dest>DLC04 Robot Mods</Dest>
     </String>
     <String List="0" sID="00326B">
       <EDID>DLC04raiderClass</EDID>
       <REC>CLAS:FULL</REC>
       <Source>Nuka-World Raider</Source>
-      <Dest>Nájezdník z Nuka-Worldu</Dest>
+      <Dest>Nájezdník z Nuka Worldu</Dest>
     </String>
     <String List="0" sID="00378B">
       <EDID>DLC04RaiderKickout</EDID>
@@ -881,25 +881,25 @@
       <EDID>DLC04Recipe_Stage010NukaCide</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nuka-Cide Recipe</Source>
-      <Dest>Nuka-Cide recept</Dest>
+      <Dest>Recept na Nuka-Vraždu</Dest>
     </String>
     <String List="0" sID="00396C">
       <EDID>DLC04Recipe_Stage050NukaLove</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nuka-Love Recipe</Source>
-      <Dest>Nuka-Love recept</Dest>
+      <Dest>Recept na Nuka-Lásku</Dest>
     </String>
     <String List="0" sID="003999">
       <EDID>DLC04Recipe_Stage030NukaRush</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nuka-Rush Recipe</Source>
-      <Dest>Nuka-Rush recept</Dest>
+      <Dest>Recept na Nuka-Fofr</Dest>
     </String>
     <String List="0" sID="0039C8">
       <EDID>DLC04Recipe_Stage020NukaPunch</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nuka-Punch Recipe</Source>
-      <Dest>Nuka-Punch recept</Dest>
+      <Dest>Recept na Nuka-Ránu</Dest>
     </String>
     <String List="0" sID="0039F9">
       <EDID>DLC04RadioRaiderStation</EDID>
@@ -911,7 +911,7 @@
       <EDID>DLC04Recipe_Stage040NukaXtreme</EDID>
       <REC>MISC:FULL</REC>
       <Source>Nuka-Xtreme Recipe</Source>
-      <Dest>Nuka-Xtreme recept</Dest>
+      <Dest>Recept na Nuka-eXtrém</Dest>
     </String>
     <String List="0" sID="003B20">
       <EDID>DLC04PQFlagpoleMessageOperators</EDID>
@@ -971,13 +971,13 @@
       <EDID>DLC04PowerPlant_MajaHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Maja's Message</Source>
-      <Dest>Majino poselství</Dest>
+      <Dest>Zpráva od Majy</Dest>
     </String>
     <String List="0" sID="003CA3">
       <EDID>DLC04PowerPlant_DustyHolotape</EDID>
       <REC>NOTE:FULL</REC>
       <Source>Dusty's Message</Source>
-      <Dest>Dustyho zpráva</Dest>
+      <Dest>Zpráva od Dustyho</Dest>
     </String>
     <String List="0" sID="003FE6">
       <EDID>DLC04RaiderOverboss_FragGrenadeSingleNP</EDID>
@@ -1007,7 +1007,7 @@
       <EDID>DLC04RadiationHazardMedium</EDID>
       <REC>SPEL:FULL</REC>
       <Source>Medium Radiation</Source>
-      <Dest>Střední záření</Dest>
+      <Dest>Střední radiace</Dest>
     </String>
     <String List="0" sID="0040D1">
       <EDID>DLC04RadiationHazardMed1536</EDID>
@@ -1019,97 +1019,97 @@
       <EDID>DLC04RaiderOperators02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Mags and William Black run the Operators from The Parlor, their sanctuary in Nuka-World's former theater.</Source>
-      <Dest>Mags a William Blackovi založili Provozáky v Salónku, jejich útočišti v bývalém divadle Nuka-Worldu.</Dest>
+      <Dest>Mags a William Blackovi řídí Provozáky ze Salónku, hlavního sídla gangu umístěného v bývalém divadle Nuka Worldu.</Dest>
     </String>
     <String List="0" sID="00446F">
       <EDID>DLC04RaidSystem04</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Building a Nuka-World Radio Transmitter at an outpost will make intimidating any settlements within its range easier.</Source>
-      <Dest>!Budování Nuka-World rádiový vysílač při základna bude zastrašující veškeré osady v jeho dosahu jednodušší.</Dest>
+      <Dest>Vybudování vysílače rádia Nuka Worldu v základně ti zjednoduší zastrašování všech osad v dosahu.</Dest>
     </String>
     <String List="0" sID="004471">
       <EDID>DLC04RaiderDisciples01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Disciples prefer the use of knives in combat, but will resort to firearms when they're clearly outgunned.</Source>
-      <Dest>Stoupenci preferují v boji použití nožů, ale uchýlí se i ke střelným zbraním, pokud tím budou mít jasně navrch.</Dest>
+      <Dest>Stoupenci preferují boj s noži, ale uchýlí se i ke střelným zbraním, pokud čelí přesile.</Dest>
     </String>
     <String List="0" sID="004472">
       <EDID>DLC04RaiderOperators03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Operators like to get their way... by any means necessary. Utilizing their tools can make intimidating settlements significantly easier.</Source>
-      <Dest>Provozáci mají rádi svou vlastní cestu... všemi nezbytnými prostředky. S využitím svých nástrojů je pro ně zastrašování osad podstatně jednodušší.</Dest>
+      <Dest>Provozáci rádi prosazují svůj názor... všemi dostupnými prostředky. S využitím svých nástrojů je pro ně zastrašování osad podstatně jednodušší.</Dest>
     </String>
     <String List="0" sID="00447F">
       <EDID>DLC04RaidSystem05</EDID>
       <REC>LSCR:DESC</REC>
       <Source>All Raider Outposts have a range of influence. Visit the Map tab in your Pip-Boy to see which settlements are within your outpost's range.</Source>
-      <Dest>!Všechny nájezdnické základny mají rozsah vlivu. Přejděte na kartu mapy ve svém Pip-Boy zjistit, které osady jsou v dosahu tvé základny.</Dest>
+      <Dest>Všechny základny nájezdníků mají určitou sféru vlivu. Zkontrolovat, které osady se nachází v dosahu působnosti, můžeš na záložce Mapa uvnitř svého Pip-Boye.</Dest>
     </String>
     <String List="0" sID="004482">
       <EDID>DLC04RaiderDisciples02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>In the past, the Disciples never left a victim alive. After the alliance of gangs at Nuka-World, they've learned to curb their appetite for blood.</Source>
-      <Dest>V minulosti Stoupenci nikdy nedopustili, aby jejich oběť zůstala naživu. Po alianci gangů v Nuka-Worldu se naučili omezit svou chuť po krvi.</Dest>
+      <Dest>V minulosti Stoupenci zásadně nenechávali své oběti naživu. Po vstupu do alience s ostatními gangy Nuka Worldu se naučili svoji lačnost po krvi krotit.</Dest>
     </String>
     <String List="0" sID="004493">
       <EDID>DLC04RaiderOperators01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Skill. Discretion. Caps. The Raider gang known as the "Operators" hold all three in highest regard.</Source>
-      <Dest>Dovednost. Rozvaha. Zátky. Nájezdnický gang známý jako „Provozáci“ drží všechny tři v nejvyšší úctě.</Dest>
+      <Dest>Dovednost. Rozvážnost. Zátky. Tyto tři hodnoty vyznává nájezdnický gang známý jako „Provozáci“.</Dest>
     </String>
     <String List="0" sID="004494">
       <EDID>DLC04RaidSystem07</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Caps acquired by your Raider Outposts and intimidated settlements will be deposited in your quarters in Nuka-World.</Source>
-      <Dest>Zátky získané z tvých nájezdnických základen za zastrašování osad budou uloženy ve tvé kajutě v Nuka-Worldu.</Dest>
+      <Dest>Zátky získané tvými základnami nájezdníků a zátky ze zastrašených osad jsou ukládány do tvého obydlí v Nuka Worldu.</Dest>
     </String>
     <String List="0" sID="004497">
       <EDID>DLC04RaiderPack02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The use of elaborate pranks and public humiliation is the primary source of establishing dominance within the Pack.</Source>
-      <Dest>Použití propracovaných žertů a veřejného ponížení je primárním zdrojem, kterým se stanovuje převaha v rámci Šelem.</Dest>
+      <Dest>Hlavním způsobem, kterým mezi sebou členové Šelem demostrují svoji nadřazenost, jsou propracované žerty a veřejné ponížení.</Dest>
     </String>
     <String List="0" sID="0044A2">
       <EDID>DLC04RaidSystem02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>When attacking a settlement during a raid, you can change out your gang's gear by speaking to them.</Source>
-      <Dest>!Když napadne dohodu při nájezdu, můžete změnit z rychlostní stupeň svůj gang tím, že mluví k nim.</Dest>
+      <Dest>Při útocích na osadu v rámci nájezdu můžeš členům svého gangu měnit výzbroj tím, že s nimi promluvíš.</Dest>
     </String>
     <String List="0" sID="0044A5">
       <EDID>DLC04RaidSystem06</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Forcing Raiders at your outposts to farm is a quick way to reduce their happiness.</Source>
-      <Dest>Nutit nájezdníky na svých základnách farmařit, je rychlý způsob, jak snížit jejich spokojenost.</Dest>
+      <Dest>Nutit své nájezdníky na základnách farmařit je rychlý způsob, jak snížit jejich spokojenost.</Dest>
     </String>
     <String List="0" sID="0044A7">
       <EDID>DLC04RaiderPack03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Mason is currently the Pack's "alpha," but small power struggles constantly flare up as old and new members attempt to assert their dominance and take his place.</Source>
-      <Dest>!Mason je v současné době Alfa šelma, ale malé boje o moc neustále vzplanout stejně staré a nové členy pokoušet se prosadit svůj vliv i na jeho místo.</Dest>
+      <Dest>Současným „alfou“ Šelem je Mason, nicméně neustále probíhá boj o moc, kdy se noví členové pokoušejí předvést svou převahu a zaujmout tak jeho místo.</Dest>
     </String>
     <String List="0" sID="0044C0">
       <EDID>DLC04RaiderPack01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Over the years, the Pack has embraced the social structure of the animal kingdom. They see strength in the pack and great power in its cruel, brutal efficiency.</Source>
-      <Dest>V průběhu let Šelmy vsadily na sociální strukturu království zvířat. Vidí sílu ve smečce a velkou sílu ve své kruté, brutální efektivitě.</Dest>
+      <Dest>Mezi členy Šelem platí obdobná hierarchie, jakou je možné pozorovat ve světě zvířat. Svou sílu vidí ve smečce a její kruté a nemilosrdné efektivitě.</Dest>
     </String>
     <String List="0" sID="0044C2">
       <EDID>DLC04RaidSystem03</EDID>
       <REC>LSCR:DESC</REC>
       <Source>When choosing a raid, you'll have more options available if you choose to attack your target rather than speak to them.</Source>
-      <Dest>U zvoleného nájezdu budeš mít k dispozici více možností, pokud se rozhodneš na svůj cíl zaútočit, než když s nimi budeš chtít mluvit.</Dest>
+      <Dest>Při volbě nájezdu budeš mít k dispozici více možností, pokud se rozhodneš místo slovního přesvědčování na svůj cíl zaútočit.</Dest>
     </String>
     <String List="0" sID="0044C3">
       <EDID>DLC04RaidSystem01</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The more Raider Outposts you have within range of a settlement, the easier it'll be to intimidate.</Source>
-      <Dest>Čím více máš nájezdnických základen v dosahu osad, tím snazší je bude zastrašit.</Dest>
+      <Dest>Čím více máš nájezdnických základen v dosahu nějaké osady, tím snažší je její obyvatele zastrašit.</Dest>
     </String>
     <String List="0" sID="00463A">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Upgrades?</Source>
-      <Dest>Aktualizace?</Dest>
+      <Dest>Modernizace?</Dest>
     </String>
     <String List="0" sID="00463C">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
@@ -1120,18 +1120,18 @@ Filing Employee: A. Buckley&#xD;
 Notes: Critical Failure of [REDACTED] due to series of events starting with [REDACTED] blockage in secondary pump system, followed by PORV in [REDACATED] stuck in OPEN position. This resulted in loss of [REDACTED] m3 of coolant, and possible leakage of [REDACTED] into park river.&#xD;
 &#xD;
 UPDATE: Corporate review of this incident has determined that no major faults can be found, incident was mis-characterized as a Class 1 Failure when in fact it was merely a Class 7 event. Park operation can continue as normal, and this should not affect the upcoming season opening.</Source>
-      <Dest>!Datum: 4/28/77&#xD;
-Incident Typ: nucené vypnutí - [redigován]&#xD;
-podání Zaměstnanec: A. Buckley&#xD;
-Poznámky: Kritický Selhání [redigovány] kvůli sérii událostí, počínaje [redigován] ucpání v sekundárním čerpadlem , následovaný PORV v [REDACATED] uvízl v otevřené poloze. To mělo za následek ztrátu [redigován] m3 chladicí kapaliny a možnému úniku [redigován] do parku řeky.&#xD;
+      <Dest>Datum: 28.04.2077&#xD;
+Typ incidentu: Nucené vypnutí -- [redigováno] &#xD;
+Ohlášeno zaměstnancem: A. Buckley&#xD;
+Poznámky: Kritické selhání [redigováno] způsobené sérii událostí, počínaje ucpáním [redigováno] sekundárního čerpadla, následováno zaseknutím přetlakového ventilu [redigováno] v otevřené poloze. To vše vedlo k úniku [redigováno] m3 chladicí kapaliny a potenciální kontaminaci říčky v parku [redigováno].&#xD;
 &#xD;
-UPDATE: Corporate revize tomto incidentu rozhodl, že žádné zásadní závady lze nalézt, incident byl mis-charakterizovat jako Class 1 selhání, když ve skutečnosti to bylo pouze 7 Class událost. Provoz Park může pokračovat obvyklým způsobem, a to by nemělo mít vliv na nadcházející Zahájení sezóny.</Dest>
+AKTUALIZACE: Vedení společnosti se po prozkoumání incidentu usneslo, že nelze identifikovat žádné významené selhání, incident byl chybně klasifikován jako selhání 1. stupně, nicméně šlo nanejvýše o 7. stupeň. Provoz parku může pokračovat ve standardním režimu a událost nemá žádný dopad na zahájení nadcházející sezóny.</Dest>
     </String>
     <String List="0" sID="004648">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Employee Snack Breaks</Source>
-      <Dest>!Zaměstnanec Snack přestávky</Dest>
+      <Dest>Polední přestávky</Dest>
     </String>
     <String List="0" sID="00464F">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
@@ -1147,15 +1147,15 @@ They'd like everyone to please consider buying their break-time snacks from the 
 Let me know if you have any issues.&#xD;
 &#xD;
 A. Buckley</Source>
-      <Dest>!Ahoj kluci,&#xD;
+      <Dest>Ahoj,&#xD;
 &#xD;
- jsem byl požádán, aby předat zprávu z příjmu právnických osob.&#xD;
+byl jsem požádán, abych vám předal zprávu z vedení.&#xD;
 &#xD;
-Jsou to obavy, že lidé jsou přinášejí a jíst příliš mnoho venku, non-Nuka značkové jídlo a pití pro své přestávky.&#xD;
+Mají obavu, že si příliš mnoho lidí nosí vlastní jídlo a pití, které nepochází z místních zařízení.  &#xD;
 &#xD;
-Oni chtěli všichni potěšit uvažovat o nákupu jejich break-time občerstvení ze samotného parku. Není to pověřila právě teď, jen návrh.&#xD;
+Rádi by všechny poprosili, zda by nezvážili častější využití stravovacích provozoven zde v parku. V tuto chvíli nejde o příkaz, ale pouze jen návrh.&#xD;
 &#xD;
-Dejte mi vědět, pokud máte nějaké problémy.&#xD;
+Dejte vědět, pokud s tím máte nějaký problém.&#xD;
 &#xD;
 A. Buckley</Dest>
     </String>
@@ -1163,25 +1163,25 @@ A. Buckley</Dest>
       <EDID>DLC04PowerPlantTerminal01</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Nuka-World Power: Employee Station 003</Source>
-      <Dest>Energie Nuka-Worldu: Zaměstnanecká stanice 003</Dest>
+      <Dest>Elektrárna Nuka Worldu: Zaměstnanecká stanice 003</Dest>
     </String>
     <String List="0" sID="004676">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Report #0672</Source>
-      <Dest>Zpráva #0672</Dest>
+      <Dest>Hlášení #0672</Dest>
     </String>
     <String List="0" sID="004679">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Additional Shifts Available</Source>
-      <Dest>!Dodatečné Posuny k dispozici</Dest>
+      <Dest>Volné směny</Dest>
     </String>
     <String List="0" sID="00467B">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>4/28 Meltdown</Source>
-      <Dest>28.04. Zhroucení</Dest>
+      <Dest>28.04. Roztavení jádra</Dest>
     </String>
     <String List="0" sID="004680">
       <EDID>DLC04PowerPlantTerminal02</EDID>
@@ -1202,40 +1202,40 @@ A. Buckley</Dest>
 Incident Type: Main Power Failure&#xD;
 Filing Employee: A. Buckley&#xD;
 Notes: Lighting test for upcoming "Halloween Spooktacular" event tripped main breakers. Employees would like to note that repeated complaints have been entered regarding the power load of said event on an aging system that has not been updated in at least the last 7 years.</Source>
-      <Dest>!Datum: 10/20/77&#xD;
-Incident Typ: Main Power Failure&#xD;
-podání Zaměstnanec: A. Buckley&#xD;
-Poznámky: Test Osvětlení pro nadcházející Halloween „Spooktacular“ událost zareagoval hlavní jističe. Zaměstnanci by chtěl poznamenat, že opakované stížnosti byly zadány, pokud jde o elektrické zatížení zmíněné události na stárnoucí systému, který nebyl aktualizován alespoň v posledních 7 let.</Dest>
+      <Dest>Datum: 20.10.2077&#xD;
+Typ incidentu: Selhání hlavního napájení&#xD;
+Ohlášeno zaměstnancem: A. Buckley&#xD;
+Poznámky: Test osvětlení pro plánovanou oslavu „Hrůzostrašný Haloween“ vyhodil hlavní jističe. Zaměstnanci chtějí zdůraznit, že ve spojení se zmiňovanou oslavou několikrát upozorňovali na přetížení již zastaralé sítě, u které neproběhlo za posledních 7 let žádné rozšíření.</Dest>
     </String>
     <String List="0" sID="00468F">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Report #0673</Source>
-      <Dest>Zpráva #0673</Dest>
+      <Dest>Hlášení #0673</Dest>
     </String>
     <String List="0" sID="00469F">
       <EDID>DLC04PowerPlantTerminal01</EDID>
       <REC>TERM:BTXT</REC>
       <Source>All internal communication may be monitored for training/evaluation purposes</Source>
-      <Dest>!Všechny interní komunikace mohou být monitorovány pro účely školení / hodnotících</Dest>
+      <Dest>Veškerá interní komunikace může být monitorována pro účely školení / hodnocení</Dest>
     </String>
     <String List="0" sID="0046AF">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC>TERM:BTXT</REC>
       <Source>All internal communication may be monitored for training/evaluation purposes</Source>
-      <Dest>!Všechny interní komunikace mohou být monitorovány pro účely školení / hodnotících</Dest>
+      <Dest>Veškerá interní komunikace může být monitorována pro účely školení / hodnocení</Dest>
     </String>
     <String List="0" sID="0046B4">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Report #0674</Source>
-      <Dest>Zpráva #0674</Dest>
+      <Dest>Hlášení #0674</Dest>
     </String>
     <String List="0" sID="0046C6">
       <EDID>DLC04PowerPlantTerminal02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Nuka-World Power: Oversight Terminal</Source>
-      <Dest>Energie Nuka-Worldu: Dozorcovský terminál</Dest>
+      <Dest>Elektrárna Nuka Worldu: Dohledový terminál</Dest>
     </String>
     <String List="0" sID="0046C8">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
@@ -1249,13 +1249,13 @@ Saunders says the last inspection was a joke, that the guy never even really too
 We're gonna have some massive problems really soon. Wouldn't the company rather spend a little money now on upgrades than a ton of money on fixes and PR later???&#xD;
 &#xD;
 T. Larson</Source>
-      <Dest>!Co to bude trvat?&#xD;
+      <Dest>Co pro to máme udělat?&#xD;
 &#xD;
-8 let od posledního závodu generální opravy. To je před Galactickou zónou ještě otevřen, a všichni víme, co napájecí prase, které je.&#xD;
+8 let od poslední modernizace elektrárny. To bylo ještě před otevřením Galaktické zóny a všichni víme, kolik toho tam všechny ty atrakce baští.&#xD;
 &#xD;
-Saunders říká, že poslední inspekce byl vtip, že ten chlap nikdy opravdu vzal dobré podívat se na zařízení. Jen seděl ve velínu jawing s manažery, pak podepsal papíry a pokračoval v cestě.&#xD;
+Saunders říkal, že poslední inspekce byla k smíchu a že si ten člověk ani jednou naše vybavení pořádně neprohlédl. Jen seděl ve velíně a klábosil s vedením, pak podepsal lejstra a vypařil se. &#xD;
 &#xD;
-Budeme mít nějaké obrovské problémy opravdu brzy. Nebylo by společnost raději strávit trochu peněz nyní na upgrady, než tunu peněz na opravy a PR pozdějších ???&#xD;
+Nebude trvat dlouho a budeme mít opravdu velké problémy. Nebylo by pro společnost jednodušší utratit pár šupů na modernizaci, než později kopu peněz za opravy a narovnávání mediálního obrazu?&#xD;
 &#xD;
 T. Larson</Dest>
     </String>
@@ -1263,13 +1263,13 @@ T. Larson</Dest>
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC>TERM:FULL</REC>
       <Source>Nuka-World Power: Oversight Terminal</Source>
-      <Dest>Energie Nuka-Worldu: Dozorcovský terminál</Dest>
+      <Dest>Elektrárna Nuka Worldu: Dohledový terminál</Dest>
     </String>
     <String List="0" sID="0046CD">
       <EDID>DLC04PowerPlantTerminal02</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>File New Report</Source>
-      <Dest>!Nový soubor zpráva</Dest>
+      <Dest>Zadat nové hlášení</Dest>
     </String>
     <String List="0" sID="0046CE">
       <EDID>DLC04PowerPlantTerminal01</EDID>
@@ -1287,13 +1287,13 @@ T. Larson</Dest>
       <EDID>DLC04PowerPlantTerminal01</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Employee Communications</Source>
-      <Dest>!Zaměstnanecké Communications</Dest>
+      <Dest>Zaměstnanecká komunikace</Dest>
     </String>
     <String List="0" sID="0046F2">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Nuka-World Power: Incident Reporting</Source>
-      <Dest>Energie Nuka-Worldu: Hlášení události</Dest>
+      <Dest>Elektrárna Nuka-Worldu: Hlášení událostí</Dest>
     </String>
     <String List="0" sID="0046FF">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
@@ -1307,13 +1307,19 @@ We're doubling staff here at the plant for the last 4 weeks of the season, leadi
 If you'd like to sign up, the forms are in the office. We'll be offering time-and-a-fifth for pay, so it's a pretty great deal.&#xD;
 &#xD;
 A. Buckley</Source>
-      <Dest>!Ahoj, všichni.&#xD;
+      <Dest>Ahoj všichni,&#xD;
 &#xD;
-Vzhledem k tomu, že jdeme až na konci sezony, a my jsme trochu personální nouzi už, co s Carlson byl vyhozen a všechno, jen jsem chtěl, aby to tam, že máme další posuny k dispozici pro každého, kdo hledá, aby se pár dolarů navíc.&#xD;
+vzhledem k tomu, že se blíží konec sezóny a (po vyhazovu Carlsona atp.) máme mírný podstav, bych vás rád upozornil na skutečnost, že jsou k dispozici volné směny, pokud byste si někdo chtěli přividělat. &#xD;
+&#xD;
+Jelikož se blíží oslava „Hrůzostrašného Haloweenu“, která je pro vedení velmi důležitá, tak na poslední 4 týdny sezóny zvyšujeme dvojnásobně obsluhu elektrárny.&#xD;
+&#xD;
+Pokud se chcete zapsat, jsou příslušné formuláře k dispozici v kanceláři.  &#xD;
+&#xD;
+konci sezony, a my jsme trochu personální nouzi už, co s Carlson byl vyhozen a všechno, jen jsem chtěl, aby to tam, že máme další posuny k dispozici pro každého, kdo hledá, aby se pár dolarů navíc.&#xD;
 &#xD;
 Jsme tady zdvojnásobení pracovníky v závodě za poslední 4 týdny sezóny, která vede až do parků „Halloween Spooktacular“ událostí, které, jak všichni víme, je jeden velký pro firemní.&#xD;
 &#xD;
-Chcete-li se zaregistrovat, formuláře jsou v kanceláři. Budeme nabízet time-and-a-pětinu za odměnu, takže je to docela hodně.&#xD;
+Chcete-li se zaregistrovat, formuláře jsou v kanceláři. Ocenění bude za odpracovaný čas plus pětinový bonus, takže jde o vcelku lákavou nabídku.&#xD;
 &#xD;
 A. Buckley</Dest>
     </String>
@@ -1321,7 +1327,7 @@ A. Buckley</Dest>
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Report #0670+</Source>
-      <Dest>Zpráva #0670</Dest>
+      <Dest>Hlášení #0670</Dest>
     </String>
     <String List="0" sID="00470C">
       <EDID>DLC04PowerPlantTerminal01</EDID>
@@ -1339,9 +1345,9 @@ CONTACT PARK MAINTENANCE IMMEDIATELY</Source>
 &#xD;
 PORUCHA SENZORU&#xD;
 &#xD;
-SNÍMAČE 0001- 0905 VYPNUTY&#xD;
+SENZORY 0001 - 0905 NEDOSTUPNÉ&#xD;
 &#xD;
-SPUŠTĚNÍ STANICE NENÍ MOMENTÁLNĚ DOPORUČENO&#xD;
+SPUŠTĚNÍ ELEKTRÁRNY SE NEDOPORUČUJE&#xD;
 &#xD;
 KONTAKTUJTE IHNED ÚDRŽBU PARKU</Dest>
     </String>
@@ -1349,7 +1355,7 @@ KONTAKTUJTE IHNED ÚDRŽBU PARKU</Dest>
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>RE: 4/28 Meltdown</Source>
-      <Dest>RE: 4/28 zhroucení</Dest>
+      <Dest>RE: 28.04. Roztavení jádra</Dest>
     </String>
     <String List="0" sID="004728">
       <EDID>DLC04PowerPlantTerminal02</EDID>
@@ -1367,7 +1373,7 @@ KONTAKTUJTE IHNED ÚDRŽBU PARKU</Dest>
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC>TERM:BTXT</REC>
       <Source>As per management direction, all incidents require proper documentation to minimize liability in the event of a civil/criminal suit. Please consult your supervisor to ensure that all necessary steps are taken.</Source>
-      <Dest>!Podle směru řízení, všechny případy vyžadují řádnou dokumentaci, aby se minimalizovalo odpovědnost v případě civilní / trestním obleku. Obrať se na svého nadřízeného, aby zajistily, že budou přijata všechna nezbytná opatření.</Dest>
+      <Dest>Dle firemního nařízení je u všech incidentů vyžadována řádná dokumentace pro minimalizaci odpovědnosti v případném občanském nebo trestním řízení. Pro ujištění, že byly dodrženy všechny potřebné kroky, se obraťte na svého nadřízeného.</Dest>
     </String>
     <String List="0" sID="004734">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
@@ -1382,28 +1388,28 @@ Thanks all - let's have a great year!&#xD;
 &#xD;
 T. O'Connor&#xD;
 Director, Human Resources</Source>
-      <Dest>!Pro všechny zaměstnance:&#xD;
+      <Dest>Pro všechny zaměstnance:&#xD;
 &#xD;
-po konzultaci naše firemní kanceláře, a pečlivé vyšetření události, bylo zjištěno, že hodnocení na místě události třídy 7. byla provedena nesprávně, a že incident nebyl zdaleka tak závažné, jak se původně obávali.&#xD;
+Po konzultaci s naší firemní kanceláří a pečlivým prozkoumáním nastalé situace bylo rozhodnuto, že prošetření události 7. kategorie nebylo provedeno správně a incident nebyl zdaleka tak závažný, jak se zpočátku mohlo zdát.&#xD;
 &#xD;
-Dobré lidi na Corporate nás ujistila, že všechno je skvělé, budeme mít velkou sezonu, a požádat, abyste si přečtěte prostřednictvím stránek 94-107 vaší dohody zaměstnanců, zejména s ohledem na šíření jakýchkoli informací o vaše práce zde v parcích. Oni bych vám připomenout, že diskuse o případných akcí na park důvodů je porušením této dohody a může vést k správním řízení.&#xD;
+Dobří lidé z vedení nás ujistili, že vše je v naprostém pořádku, čeká nás skvělá sezóna a měli bychom si znovu přečíst stránky 94-107 naší zaměstnanecké smlouvy, zejména s ohledem na šíření jakýchkoliv informací týkajících se práce zde v parku. Rádi by vám připomněli, že diskuze o vnitřních událostech parku znamenají porušení vašeho smluvního vztahu a mohou vést ke správnímu řízení.   &#xD;
 &#xD;
-Díky všem - pojďme mají skvělý rok!&#xD;
+Děkuji všem za spolupráci a pojďme si užít skvělý rok!&#xD;
 &#xD;
 T. O'Connor&#xD;
-ředitel pro lidské zdroje</Dest>
+personální ředitel</Dest>
     </String>
     <String List="0" sID="00473D">
       <EDID>DLC04PowerPlantTerminal02</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Nuka-World Power: Incident Reporting</Source>
-      <Dest>Energie Nuka-Worldu: Hlášení události</Dest>
+      <Dest>Elektrárna Nuka-Worldu: Hlášení událostí</Dest>
     </String>
     <String List="0" sID="004741">
       <EDID>DLC04PowerPlantTerminal01</EDID>
       <REC>TERM:FULL</REC>
       <Source>Nuka-World Power: Employee Terminal</Source>
-      <Dest>Energie Nuka-Worldu: Zaměstnanecký terminál</Dest>
+      <Dest>Elektrárna Nuka Worldu: Zaměstnanecký terminál</Dest>
     </String>
     <String List="0" sID="004751">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
@@ -1411,15 +1417,15 @@ T. O'Connor&#xD;
       <Source>ALL PRIOR REPORT DATA SENT TO CORPORATE HEADQUARTERS&#xD;
 &#xD;
 RETAIN LOCAL COPIES PURSUANT TO PROCEDURE O-23.C</Source>
-      <Dest>!ALL předcházející zprávy data posílána na firemním sídle&#xD;
+      <Dest>VEŠKERÁ PŘEDCHOZÍ HLÁŠENÍ BYLA ODESLÁNA VEDENÍ SPOLEČNOSTI&#xD;
 &#xD;
-RETAIN lokální kopie v souladu s postupem Ö-23.C</Dest>
+UCHOVEJTE LOKÁLNÍ KOPIE V SOULADU S NAŘÍZENÍM O-23.C</Dest>
     </String>
     <String List="0" sID="00475B">
       <EDID>DLC04PowerPlantTerminal02</EDID>
       <REC>TERM:BTXT</REC>
       <Source>As per management direction, all incidents require proper documentation to minimize liability in the event of a civil/criminal suit. Please consult your supervisor to ensure that all necessary steps are taken.</Source>
-      <Dest>!Podle směru řízení, všechny případy vyžadují řádnou dokumentaci, aby se minimalizovalo odpovědnost v případě civilní / trestním obleku. Obrať se na svého nadřízeného, aby zajistily, že budou přijata všechna nezbytná opatření.</Dest>
+      <Dest>Dle firemního nařízení je u všech incidentů vyžadována řádná dokumentace pro minimalizaci odpovědnosti v případném občanském nebo trestním řízení. Pro ujištění, že byly dodrženy všechny potřebné kroky, se obraťte na svého nadřízeného.</Dest>
     </String>
     <String List="0" sID="00475D">
       <EDID>DLC04PowerPlantTerminal01</EDID>
@@ -1435,7 +1441,7 @@ RETAIN lokální kopie v souladu s postupem Ö-23.C</Dest>
 Network Offline. Please check all cables and verify connection...</Source>
       <Dest>:::CHYBA SYSTÉMU:::&#xD;
 &#xD;
-Síť je vypnutá. Prosím, zkontrolujte všechny kabely a ověřte připojení...</Dest>
+Síť je nedostupná. Prosím, zkontrolujte všechny kabely a ověřte připojení...</Dest>
     </String>
     <String List="0" sID="004765">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
@@ -1445,9 +1451,9 @@ Síť je vypnutá. Prosím, zkontrolujte všechny kabely a ověřte připojení.
 We submitted a full report last week, explaining the whole series of failures that resulted in who knows how much contamination. WHY WASN'T THE PARK OPENING DELAYED?&#xD;
 &#xD;
 -C. Carlson</Source>
-      <Dest>!Co se sakra stalo?&#xD;
+      <Dest>Co se K ČERTU stalo?&#xD;
 &#xD;
-Podali jsme úplnou zprávu minulý týden, vysvětlovat celou řadu nedostatků, které vedly kdo ví, kolik kontaminaci. PROČ nebyl PARK ZAHÁJENÍ ZPOŽDĚN?&#xD;
+Před týdnem jsme odevzdali celkovou analýzu s vysvětlením série událostí, které vedly k bůhví jak velké kontaminaci. PROČ NEDOŠLO K ODLOŽENÍ OTEVŘENÍ PARKU? &#xD;
 &#xD;
 -C. Carlson</Dest>
     </String>
@@ -1463,13 +1469,13 @@ The thing needs reprogramming, or something. Does anyone understand how much hav
 I don't know about you guys, but I think that thing is creepy as hell.&#xD;
 &#xD;
 T. Reynolds</Source>
-      <Dest>!Buckley,&#xD;
+      <Dest>Buckley,&#xD;
 &#xD;
-prosím poslat další zprávu do řetězu. Že sakra robot bylo zjištěno, 3 krát týdně to bouchání do vnějších bezpečnostních dveří na elektrárny.&#xD;
+pošli prosím na vedení další zprávu. Toho zatracenýho robota jsme už potřetí za tenhle týden přistihli mlátit do vnějších bezpečnostních dveří elektrárny. &#xD;
 &#xD;
-To, co potřebuje změnu plánu, nebo tak něco. Má někdo pochopit, jak moc by to mohlo způsobit zmatek, pokud se dostal dovnitř a začal kolem potácející se v blízkosti ovládacích prvků?&#xD;
+Ta věc chce přeprogramovat, nebo něco takovýho. Chápe vůbec někdo, kolik škody může napáchat, když by se to dostalo dovnitř a začalo takhle blbnout u řízení?&#xD;
 &#xD;
-Nevím, jak vy kluci, ale myslím, že to je strašidelný jako peklo.&#xD;
+Nevím, jak vám, ale za mě ta věc nahání hrůzu.&#xD;
 &#xD;
 T. Reynolds</Dest>
     </String>
@@ -1477,7 +1483,7 @@ T. Reynolds</Dest>
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC>TERM:FULL</REC>
       <Source>Nuka-World Power: Employee Terminal</Source>
-      <Dest>Energie Nuka-Worldu: Zaměstnanecký terminál</Dest>
+      <Dest>Elektrárna Nuka Worldu: Zaměstnanecký terminál</Dest>
     </String>
     <String List="0" sID="00476C">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
@@ -1486,10 +1492,10 @@ T. Reynolds</Dest>
 Incident Type: Unexpected Full Reboot&#xD;
 Filing Employee: N. Otto&#xD;
 Notes: After-hours system failure resulting in full reboot of all power relays. Employee error cited as primary cause - C. Carlson has received 2nd reprimand in his file.</Source>
-      <Dest>!Datum: 8/18/77&#xD;
-Incident Typ: Neočekávaná Full Reboot&#xD;
-Podání zaměstnanců: N. Otto&#xD;
-Poznámky: Po-hodin selhání systému vede k úplné restartování všech výkonových relé. Chyba zaměstnanec citován jako primární příčiny - C. Carlson získal 2. důtku ve svém spisu.</Dest>
+      <Dest>Datum: 18.08.2077&#xD;
+Typ incidentu: Neočekávaný kompletní restart&#xD;
+Ohlášeno zaměstnancem: N. Otto&#xD;
+Poznámky: Selhání systému v nočních hodinách, které vedlo k plnému restartu přenosné sítě. Primární příčinou byla chyba zaměstnance - C. Carlson dostal druhé napomenutí.</Dest>
     </String>
     <String List="0" sID="00476D">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
@@ -1500,24 +1506,25 @@ Filing Employee: A. Buckley&#xD;
 Notes: 90-second sag resulting in electrical/mechanical malfunctions across Galactic Zone.&#xD;
 &#xD;
 Fault traced to vomit on exposed wiring on "Handy Scrambler." Recommend that splash guards be installed on all critical systems to prevent future incidents.</Source>
-      <Dest>!Datum: 12/06/77&#xD;
-Incident Typ: Trvalá poklesu napětí - Galactic Zone&#xD;
-podání Zaměstnanec: A. Buckley&#xD;
-Poznámky: 90-druhé průhyb což má za následek elektrických / mechanických závad po celé galaktické zóny.&#xD;
+      <Dest>Datum: 06.12.2077&#xD;
+Typ incidentu: Pokles napětí - Galaktická zóna&#xD;
+Ohlášeno zaměstnancem: A. Buckley&#xD;
+Poznámky: 90vteřinový pokles napětí, který způsobil selhání elektromechanickcých zařízení zapříč Galaktickou zónou.  &#xD;
 &#xD;
-Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scrambler“. Doporučujeme, aby ochranné kryty být instalován na všech kritických systémů s cílem zabránit budoucím nehodám.</Dest>
+Chyba způsobena zvratky v nechráněných rozvodech robotické stanice. Doporučujeme instalaci ochranných krytů na veškerou kritickou infrastrukturu, abychom předešli budoucím incidentům.&#xD;
+</Dest>
     </String>
     <String List="0" sID="00476E">
       <EDID>DLC04PowerPlantTerminal02_Reports</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Report #0671</Source>
-      <Dest>Zpráva #0671</Dest>
+      <Dest>Hlášení #0671</Dest>
     </String>
     <String List="0" sID="004772">
       <EDID>DLC04PowerPlantTerminal01_Coms</EDID>
       <REC>TERM:WNAM</REC>
       <Source>Nuka-World Power: Incident Reporting</Source>
-      <Dest>Energie Nuka-Worldu: Hlášení události</Dest>
+      <Dest>Elektrárna Nuka-Worldu: Hlášení událostí</Dest>
     </String>
     <String List="0" sID="004A77">
       <EDID>DLC04RadioRaiderAmplifierCafeOn</EDID>
@@ -1535,25 +1542,25 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04ProjectCobaltSchematics</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Project Cobalt Schematics</Source>
-      <Dest>Schémata projektu Kobalt</Dest>
+      <Dest>Plány projektu Kobalt</Dest>
     </String>
     <String List="1" sID="00054F">
       <EDID>DLC04RaidFailCompanionMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You cannot target a companion's home settlement. Assign companions to a new settlement before targeting this location.</Source>
-      <Dest>!Nelze cílit na domácí osada společníka. Přiřazení společníky do nové osady před cílení toto umístění.</Dest>
+      <Dest>Nelze cílit na domovskou osadu společníka. Před výběvem této lokace musíš poslat společníky do nové lokace.</Dest>
     </String>
     <String List="1" sID="00057D">
       <EDID>DLC04RaidFailEssentialNPCMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Quest-important characters must be moved before this settlement can be targeted.</Source>
-      <Dest>!Quest nejdůležitější znaky musí být přesunuty dříve, než toto vypořádání mohou být zaměřeny.</Dest>
+      <Dest>Quest-important characters must be moved before this settlement can be targeted.</Dest>
     </String>
     <String List="1" sID="000A99">
       <EDID>DLC04RaidFailRequiresUnlockMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You must find and unlock the workshop at this location before you can target it.</Source>
-      <Dest>!Musíte najít a odemknout dílnu na tomto místě před můžete cílit.</Dest>
+      <Dest>Před zacílením této lokace v ní musíš nejdříve nalézt a odemknout dílnu.</Dest>
     </String>
     <String List="1" sID="000AB9">
       <EDID>DLC04RaidTargetSettlementMessage</EDID>
@@ -1565,19 +1572,19 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04RaidFailNoPopulationMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>There are no settlers at this location.</Source>
-      <Dest>V této oblasti nejsou žádní osadníci.</Dest>
+      <Dest>V této lokaci nejsou žádní osadníci.</Dest>
     </String>
     <String List="1" sID="0011A6">
       <EDID>DLC04RaidFailTeleporterPresentMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You cannot target an active teleporter site.</Source>
-      <Dest>Nelze cílit na místo aktivního teleportu.</Dest>
+      <Dest>Nelze cílit na lokaci s aktivním přenašečem.</Dest>
     </String>
     <String List="1" sID="00189E">
       <EDID>DLC04RaidCoerceIntimidationSuccessfulMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Intimidation succeeded! Settlers at &lt;Alias=myLocation&gt; are easier to convince!</Source>
-      <Dest>Zastrašování uspělo! Osadníky v lokaci &lt;Alias=MyLocation&gt; je teď snazší přesvědčit!</Dest>
+      <Dest>Zastrašování bylo úspěšné! Osadníky v lokaci &lt;Alias=MyLocation&gt; je teď snazší přesvědčit!</Dest>
     </String>
     <String List="1" sID="0018B6">
       <EDID>DLC04RaidChaseOffIntimidationHarderMessage</EDID>
@@ -1589,7 +1596,7 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04RaidChaseOffIntimidationSuccessfulMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Intimidation succeeded! Settlers at &lt;Alias=myLocation&gt; are easier to convince!</Source>
-      <Dest>Zastrašování uspělo! Osadníky v lokaci &lt;Alias=MyLocation&gt; je teď snazší přesvědčit!</Dest>
+      <Dest>Zastrašování bylo úspěšné! Osadníky v lokaci &lt;Alias=MyLocation&gt; je teď snazší přesvědčit!</Dest>
     </String>
     <String List="1" sID="0018F9">
       <EDID>DLC04RaidCoerceIntimidationHarderMessage</EDID>
@@ -1601,31 +1608,31 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04RadioDisplayMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Raider Radio</Source>
-      <Dest>Nájezdnické rádio</Dest>
+      <Dest>Rádio nájezdníků</Dest>
     </String>
     <String List="1" sID="001CCB">
       <EDID>DLC04RaiderKickout</EDID>
       <REC id="4">QUST:CNAM</REC>
       <Source>I've spoken to McKenzie Bridgeman and assured her the traders are no longer prisoners, but can continue to live their lives as free men and women at Nuka-World.</Source>
-      <Dest>Promluvili jsme si s McKenzie Bridgemanovou a byla ujištěna, že obchodníci již nejsou vězni, ale že mohou i nadále žít své životy jako svobodní muži a ženy v Nuka-Worldu.</Dest>
+      <Dest>McKenzie Bridgemanová byla ujištěna, že obchodníci již nejsou vězni a mohou žít své životy jako svobodní muži a ženy Nuka Worldu.</Dest>
     </String>
     <String List="1" sID="001DA3">
       <EDID>DLC04RaidFailWorkshopReservedMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>The location is involved in a quest. You can target it once the quest is complete.</Source>
-      <Dest>!Místo je zapojena do pátrání. Můžete ji zacílit jakmile je úkol dokončen.</Dest>
+      <Dest>Tato lokace je zapojena do herního úkolu. Zacílit ji můžeš až po jeho dokončení.</Dest>
     </String>
     <String List="1" sID="001DA5">
       <EDID>DLC04RaidFailNoSpokespersonMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>There is no one you can intimidate at this location.</Source>
-      <Dest>Není zde nikdo, koho můžeš dohnat.</Dest>
+      <Dest>V této lokaci není nikdo, koho můžeš zastrašit.</Dest>
     </String>
     <String List="1" sID="001DE1">
       <EDID>DLC04RaiderKickout</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>After killing a gang leader at Nuka-World, I've decided to finish the job by hunting down and killing the rest.</Source>
-      <Dest>!Po zabití vůdce gangu v Nuka-Worldu, jsem se rozhodl dokončit práci lovem dole a zabíjení zbytek.</Dest>
+      <Dest>Po zabití vůdce gangu v Nuka Worldu, je jasné, že musím práci dokončit a zlikvidovat i ostatní.</Dest>
     </String>
     <String List="1" sID="001EF0">
       <EDID>DLC04PowerArmorShockFX</EDID>
@@ -1637,193 +1644,193 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04RaiderKickout</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>I promised Preston Garvey that I would wipe out the Raiders at Nuka-World.</Source>
-      <Dest>Preston Garvey má můj slib, že vyhladím nájezdníky z Nuka-Worldu.</Dest>
+      <Dest>Preston Garvey má můj příslib, že zlikviduji nájezdníky z Nuka Worldu.</Dest>
     </String>
     <String List="1" sID="003029">
       <EDID>DLC04RaidNoTargetsAvailable_WipeOut</EDID>
       <REC>MESG:DESC</REC>
       <Source>There are no settlements available to claim.</Source>
-      <Dest>V této oblasti nejsou osady k zabrání.</Dest>
+      <Dest>Nejsou k dispozici žádné osady k zabrání.</Dest>
     </String>
     <String List="1" sID="0032C3">
       <EDID>DLC04RaidCoerceIntimidationPositiveProgressMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Settlers at &lt;Alias=myLocation&gt; are becoming more intimidated.</Source>
-      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; jsou stále zastrašeni.</Dest>
+      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; začínají být více zastrašeni.</Dest>
     </String>
     <String List="1" sID="0032D8">
       <EDID>DLC04RaidChaseOffIntimidationNegativeProgressMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Settlers at &lt;Alias=myLocation&gt; are becoming less intimidated.</Source>
-      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; jsou již méně zastrašeni.</Dest>
+      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; začínají být méně zastrašeni.</Dest>
     </String>
     <String List="1" sID="003347">
       <EDID>DLC04RaidChaseOffIntimidationPositiveProgressMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Settlers at &lt;Alias=myLocation&gt; are becoming more intimidated.</Source>
-      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; jsou stále zastrašeni.</Dest>
+      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; začínají být více zastrašeni.</Dest>
     </String>
     <String List="1" sID="00335A">
       <EDID>DLC04RaidCoerceIntimidationNegativeProgressMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Settlers at &lt;Alias=myLocation&gt; are becoming less intimidated.</Source>
-      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; jsou již méně zastrašeni.</Dest>
+      <Dest>Osadníci v lokaci &lt;Alias=MyLocation&gt; začínají být méně zastrašeni.</Dest>
     </String>
     <String List="1" sID="00353F">
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>Success! One more settlement providing Nuka-World with supplies.</Source>
-      <Dest>!Úspěch! A ještě jedna osada poskytuje Nuka-World se zásobami.</Dest>
+      <Dest>Úspěch! Další osada předává Nuka Worldu své zásoby.</Dest>
     </String>
     <String List="1" sID="00358E">
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Job's all wrapped up. This settlement now belongs to Nuka-World.</Source>
-      <Dest>!Job to vše zabalené. Tato osada nyní patří Nuka-Worldu.</Dest>
+      <Dest>Práce je komplet. Tato osada nyní spadá pod Nuka World.</Dest>
     </String>
     <String List="1" sID="0035B8">
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>The local settlers are all pushing up daisies. Now I just need to plant a signal flag using the local workshop and this place will be all ours.</Source>
-      <Dest>!Zdejší osadníci jsou všichni tlačí nahoru sedmikrásky. Teď už stačí zasadit vlajku signálu pomocí místní dílnu a toto místo bude všechna naše.</Dest>
+      <Dest>Všichni zdejší osadníci jsou pod drnem. Teď ještě musím s využitím místní dílny umístit signální vlajku a práce bude hotová.</Dest>
     </String>
     <String List="1" sID="0035E1">
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>We've begun our attack on the settlement! Leave no survivors!</Source>
-      <Dest>Začali jsme náš útok na osadu! Nikdo nesmí přežít!</Dest>
+      <Dest>Zahájili jsme náš útok na osadu! Nikdo nesmí přežít!</Dest>
     </String>
     <String List="1" sID="0035E7">
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>My crew is waiting for me near the job location. I guess I shouldn't keep them waiting. Shank also suggested I take along some extra gear to arm up our people.</Source>
-      <Dest>!Má posádka na mě čeká v blízkosti místa práce. Myslím, že by se neměla držet je čeká. Shank také navrhl jsem vzít s sebou některé další zařízení, které se vyzbrojit naše lidi.</Dest>
+      <Dest>Můj tým na mě čeká nedalo místa práce. Není vhodné je nechat zbytečně dlouho čekat. Shank mi doporučil vzít nějakou výzbroj navíc, ať můžu své lidi trošku vybavit.</Dest>
     </String>
     <String List="1" sID="00361D">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>I'll need to convince the local settlers to leave their land. Shank said I could use tools from the Operators to make convincing them easier or that I could just pay them to hit the road.</Source>
-      <Dest>Budu muset přesvědčit místní osadníky, aby opustili svou půdu. Shank povídal, že mám použít nástroje od Provozáků, aby bylo přesvědčování jednodušší. Pokud by to nefungovalo, vždy je ještě můžu k odchodu uplatit.</Dest>
+      <Dest>Budu muset přesvědčit místní osadníky, aby opustili svou půdu. Shank říkal, že mohu využít nástroje od Provozáků, aby bylo přesvědčování jednodušší, nebo je se je můžu pokusit k odchodu uplatit.</Dest>
     </String>
     <String List="1" sID="003642">
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>Time to put these settlers under the thumb and put any back-up they've got in shallow graves.</Source>
-      <Dest>!Čas, aby tyto osadníky pod palcem a dát žádnou zálohu, že mám v mělkých hrobech.</Dest>
+      <Dest>Je na čase si na tyhle osadníky trošku došlápnout a ty, co budou odporovat, poslat pod drn.</Dest>
     </String>
     <String List="1" sID="003657">
       <EDID>DLC04RaidWipeOut</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>Shank said there'd be a crew waiting for me near the job location. They'll back me up when I'm ready to start the attack. He also mentioned I could swap out their gear, if need be.</Source>
-      <Dest>!Shank řekl, že by posádka na mě čeká v blízkosti místa práce. Oni mě zálohovat, když jsem připraven ke spuštění útoku. Zmínil také bych mohl vyměnit svou výstroj, pokud to bude nutné.</Dest>
+      <Dest>Shank řekl, že můj tým na mě čeká nedaleko místa práce. Pomůžou mi, až se rozhodnu zaútočit. Rovněž zmínil, že pokud budu chtít, tak je můžu přezbrojit.</Dest>
     </String>
     <String List="1" sID="00366D">
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="0">QUST:CNAM</REC>
       <Source>I need to get a local settlement to provide us with supplies. Shank said using tools from the Operators or powering a Nuka-World transmitter should make things easier. And there's always the option of bribing them.</Source>
-      <Dest>!Musím se dostat místní vyrovnání a poskytli nám zásoby. Shank uvedl pomocí nástrojů od Provozáků nebo pohánět Nuka-World vysílač by měl dělat věci lépe. A je tu vždy možnost jejich uplácení.</Dest>
+      <Dest>Musím přinutit obyvatele místní osady, aby nám dávali zásoby. Shank říkal, že mi v tom mohou pomoct nástroje od Provozáků, nebo zprovoznění vysílače Nuka Worldu. Rovněž je tu vždy jejich uplácení.</Dest>
     </String>
     <String List="1" sID="003670">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>This settlement is now property of Nuka-World.</Source>
-      <Dest>Tato osada je nyní majetkem Nuka-Worldu.</Dest>
+      <Dest>Tato osada je ve vlastnictví Nuka Worldu.</Dest>
     </String>
     <String List="1" sID="003699">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>It's done. I've managed to convince the locals to scram. Now I need to plant a signal flag using the local workshop and the job will be done.</Source>
-      <Dest>!Je to hotovo. Podařilo se mi přesvědčit místní obyvatele k odstavení. Teď musím zasadit vlajku signálu pomocí místní dílnu a úloha bude hotovo.</Dest>
+      <Dest>Podařilo se mi přesvědčit místní obyvatele, aby vypadli. Teď ještě musím s využitím místní dílny umístit signální vlajku a práce bude hotová.</Dest>
     </String>
     <String List="1" sID="0036A3">
       <EDID>DLC04RaidChaseOff</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I'll need to convince the local settlers to leave their land. Shank said I could power a Nuka-World transmitter at a nearby outpost or use tools from the Operators to make convincing them easier. If that doesn't work, I could always pay them to hit the road.</Source>
-      <Dest>Budu muset přesvědčit místní osadníky, aby opustili svou půdu. Shank povídal, že mohu zprovoznit vysílač Nuka-Worldu v nedaleké základně nebo mám použít nástroje od Provozáků, aby bylo přesvědčování jednodušší. Pokud by nic z toho nefungovalo, vždy je ještě můžu k odchodu uplatit.</Dest>
+      <Dest>Budu muset přesvědčit místní osadníky, aby opustili svou půdu. Shank říkal, že mohu zprovoznit vysílač Nuka Worldu v nedaleké základně, nebo mám použít nástroje od Provozáků, aby bylo přesvědčování jednodušší. Pokud by nic z toho nefungovalo, vždy je ještě můžu k odchodu uplatit.</Dest>
     </String>
     <String List="1" sID="0036BC">
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>Bingo. A new settlement is now supplying Nuka-World with provisions. Caps and grub all around!</Source>
-      <Dest>!Bingo. Nová osada je nyní dodává Nuka-World s ustanoveními. Zátky a grub všude kolem!</Dest>
+      <Dest>Bingo. Nová osada odevzdává zásoby Nuka World. Zátky a gáblík se valí proudem!</Dest>
     </String>
     <String List="1" sID="0036C1">
       <EDID>DLC04RaidSubdue</EDID>
       <REC id="2">QUST:CNAM</REC>
       <Source>The locals have all been dealt with. Time for me to inform the local leader of our new arrangement.</Source>
-      <Dest>!Místní obyvatelé byli všichni řešeny. Čas pro mě informovat místní vůdce naší nové uspořádání.</Dest>
+      <Dest>S obyvateli je to vyřízené. Je na čase si s místním vůdcem promluvit o nových pravidlech.</Dest>
     </String>
     <String List="1" sID="0036C4">
       <EDID>DLC04RaidCoerce</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>I need to get a local settlement to provide us with supplies. Shank said using tools from the Operators should make things easier. He also said I could try bribing them.</Source>
-      <Dest>!Musím se dostat místní vyrovnání a poskytli nám zásoby. Shank uvedl pomocí nástrojů od Provozáků by měli dělat věci lépe. On také řekl bych mohl zkusit jim uplácení.</Dest>
+      <Dest>Musím přinutit obyvatele místní osady, aby nám dávali zásoby. Shank říkal, že mi v tom mohou pomoct nástroje od Provozáků. Rovněž říkal, že je mohu zkusit uplatit.</Dest>
     </String>
     <String List="1" sID="003B33">
       <EDID>DLC04PQFlagpoleMessageOperators</EDID>
       <REC>MESG:DESC</REC>
       <Source>This area of Nuka-World was previously occupied by the Operators. Who did you want to replace them with?</Source>
-      <Dest>Tato oblast Nuka-Worldu již byla obsazena Provozáky. Chceš je nahradit?</Dest>
+      <Dest>Tato oblast Nuka Worldu bývala obsazena Provozáky. Kdo by je měl nahradit?</Dest>
     </String>
     <String List="1" sID="003B6E">
       <EDID>DLC04PQFlagpoleMessagePack</EDID>
       <REC>MESG:DESC</REC>
       <Source>This area of Nuka-World was previously occupied by the Pack. Who did you want to replace them with?</Source>
-      <Dest>Tato oblast Nuka-Worldu již byla obsazena Šelmami. Chceš je nahradit?</Dest>
+      <Dest>Tato oblast Nuka Worldu bývala obsazena Šelmami. Kdo by je měl nahradit?</Dest>
     </String>
     <String List="1" sID="003BB5">
       <EDID>DLC04PQFlagpoleMessageDisciples</EDID>
       <REC>MESG:DESC</REC>
       <Source>This area of Nuka-World was previously occupied by the Disciples. Who did you want to replace them with?</Source>
-      <Dest>Tato oblast Nuka-Worldu již byla obsazena Stoupenci. Chceš je nahradit?</Dest>
+      <Dest>Tato oblast Nuka Worldu bývala obsazena Stoupenci. Kdo by je měl nahradit?</Dest>
     </String>
     <String List="1" sID="003ECD">
       <EDID>DLC04RaiderKickout</EDID>
       <REC id="3">QUST:CNAM</REC>
       <Source>All of the gang bosses at Nuka-World have been slain. I should go talk to McKenzie Bridgeman and her know the traders are free.</Source>
-      <Dest>Všichni vůdci gangů v Nuka-Worldu byli zabiti. Musím si promluvit s McKenzie Bridgemanovou, aby věděla, že obchodníci jsou volní.</Dest>
+      <Dest>Všichni vůdci gangů v Nuka Worldu byli zabiti. Musím si promluvit s McKenzie Bridgemanovou a dát ji vědět, že obchodníci jsou volní.</Dest>
     </String>
     <String List="1" sID="0040C6">
       <EDID>DLC04RaidSubdueNoFastTravelMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can no longer fast travel to &lt;Alias=myLocation&gt;.</Source>
-      <Dest>Již nemůžeš rychle cestovat do lokace &lt;Alias=MyLocation&gt;.</Dest>
+      <Dest>Do lokace &lt;Alias=MyLocation&gt; již nemůžeš rychle cestovat.</Dest>
     </String>
     <String List="1" sID="00412E">
       <EDID>DLC04RaidWipeOutNoFastTravelMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can no longer fast travel to &lt;Alias=myLocation&gt;.</Source>
-      <Dest>Již nemůžeš rychle cestovat do lokace &lt;Alias=MyLocation&gt;.</Dest>
+      <Dest>Do lokace &lt;Alias=MyLocation&gt; již nemůžeš rychle cestovat.</Dest>
     </String>
     <String List="1" sID="0044BF">
       <EDID>DLC04RaiderKickout</EDID>
       <REC id="1">QUST:CNAM</REC>
       <Source>McKenzie Bridgeman suggested that I should wipe out the Raiders at Nuka-World. I will consider her proposal.</Source>
-      <Dest>McKenzie Bridgemanová navrhla, že mám vyhladit nájezdníky v Nuka-Worldu. Zvážím její návrh.</Dest>
+      <Dest>McKenzie Bridgemanová navrhla, že mám zlikvidovat nájezdníky v Nuka Worldu. Zvážím její návrh.</Dest>
     </String>
     <String List="1" sID="004A5F">
       <EDID>DLC04RaidChaseOffMaxIntimidationMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Maximum intimidation level reached at &lt;Alias=myLocation&gt;!</Source>
-      <Dest>V lokaci &lt;Alias=MyLocation&gt; dosažena maximální úroveň zastrašování!</Dest>
+      <Dest>V lokaci &lt;Alias=MyLocation&gt; byla dosažena maximální úroveň zastrašení!</Dest>
     </String>
     <String List="1" sID="004A60">
       <EDID>DLC04RaidCoerceMaxIntimidationMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>Maximum intimidation level reached at &lt;Alias=myLocation&gt;!</Source>
-      <Dest>V lokaci &lt;Alias=MyLocation&gt; dosažena maximální úroveň zastrašování!</Dest>
+      <Dest>V lokaci &lt;Alias=MyLocation&gt; byla dosažena maximální úroveň zastrašení!</Dest>
     </String>
     <String List="1" sID="004AB4">
       <EDID>DLC04RaidCoerceSettlementSpokespersonUnavailable</EDID>
       <REC>MESG:DESC</REC>
       <Source>The spokesperson at &lt;Alias=myLocation&gt; has left that location.</Source>
-      <Dest>Mluvčí v lokaci &lt;Alias=MyLocation&gt; opustil toto místo.</Dest>
+      <Dest>Mluvčí z lokace &lt;Alias=MyLocation&gt; není k nalezení.</Dest>
     </String>
     <String List="1" sID="004AB5">
       <EDID>DLC04RaidChaseOffSettlementSpokespersonUnavailable</EDID>
       <REC>MESG:DESC</REC>
       <Source>The spokesperson at &lt;Alias=myLocation&gt; has left that location.</Source>
-      <Dest>Mluvčí v lokaci &lt;Alias=MyLocation&gt; opustil toto místo.</Dest>
+      <Dest>Mluvčí z lokace &lt;Alias=MyLocation&gt; není k nalezení.</Dest>
     </String>
     <String List="1" sID="004AC7">
       <EDID>DLC04RaidSubdueSettlementSpokespersonUnavailable</EDID>
@@ -1835,7 +1842,7 @@ Vysledovat závadu na vrácené neizolované kabeláži na téma „Handy Scramb
       <EDID>DLC04ProjectCobaltMessage</EDID>
       <REC>MESG:DESC</REC>
       <Source>You can now build Quantum Grenades and Thirst Zapper modifications.</Source>
-      <Dest>Nyní můžeš vytvářet quantum granáty a modifikace generátoru touhy.</Dest>
+      <Dest>Nyní můžeš vytvářet Nuka-Quantum granáty a modifikace pro stříkací pistolku.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
