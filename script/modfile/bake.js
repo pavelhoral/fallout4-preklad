@@ -34,7 +34,7 @@ class RecordBaker {
         // Current plugin strings (reset before each plugin)
         this.strings = strings;
         // Parent plugin names
-        this.parents = [];
+        this.parents = [plugin + '.esm'];
         // Baking context stack
         this.context = {
             _: ROOT_CONTEXT,
@@ -64,7 +64,7 @@ class RecordBaker {
     }
 
     handleHeader(header) {
-        this.parents = [...header.parents, this.plugin + '.esm'];
+        this.parents.unshift(...header.parents);
     }
 
     handleGroup(type, label, parse) {
