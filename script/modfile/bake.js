@@ -23,31 +23,6 @@ var ROOT_CONTEXT = 0,
 var STATIC_REVISION = 0xFFFF,
     STATIC_VERSION = 0x83;
 
-
-/**
- * HEDR field handler.
- */
-class HeaderHandler {
-
-    constructor() {
-        this.parents = [];
-    }
-
-    handleField(type, size, buffer, offset) {
-        if (MODFILE_TYPES.MAST !== type) {
-            return;
-        }
-        this.parents.push(buffer.toString('ascii', offset, offset + size - 1));
-    }
-
-    parseParents(plugin, parse) {
-        parse(this);
-        this.parents.push(plugin + '.esm');
-        return this.parents;
-    }
-
-}
-
 /**
  * ModfileHandler implementation for baking translations.
  */
@@ -59,7 +34,7 @@ class RecordBaker {
         // Current plugin strings (reset before each plugin)
         this.strings = strings;
         // Parent plugin names
-        this.parents = [plugin + '.esm'];
+        this.parents = [];
         // Baking context stack
         this.context = {
             _: ROOT_CONTEXT,
@@ -89,7 +64,7 @@ class RecordBaker {
     }
 
     handleHeader(header) {
-        this.parents.push(...header.parents);
+        this.parents = [...header.parents, this.plugin + '.esm'];
     }
 
     handleGroup(type, label, parse) {

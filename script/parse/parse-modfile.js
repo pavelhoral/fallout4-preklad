@@ -213,7 +213,7 @@ class ModfileParser {
         const formId = buffer.readUInt32LE(12);
         let skip = size;
         handler.handleRecord(type, size, flags, formId, (handler) => {
-            const buffer = this.source.read(size);
+            let buffer = this.source.read(size);
             if (flags & 0x00040000) {
                 buffer = zlib.inflateSync(buffer.slice(4));
             }
