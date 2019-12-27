@@ -150,6 +150,19 @@
                 <RemoveFile Id="DLCCoast_en.DLSTRINGS" Name="DLCCoast_en.DLSTRINGS" On="both" />
                 <File Id="DLCCoast_en.DLSTRINGS" KeyPath="yes" />
             </Component>
+
+            <Component Id="DLCNukaWorld_en.STRINGS" Guid="32F41D12-8805-467B-B7A4-78D6B9BD76A3">
+                <RemoveFile Id="DLCNukaWorld_en.STRINGS" Name="DLCNukaWorld_en.STRINGS" On="both" />
+                <File Id="DLCNukaWorld_en.STRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCNukaWorld_en.ILSTRINGS" Guid="BD766B80-E2A1-40C1-886E-FF5C7C8F3A48">
+                <RemoveFile Id="DLCNukaWorld_en.ILSTRINGS" Name="DLCNukaWorld_en.ILSTRINGS" On="both" />
+                <File Id="DLCNukaWorld_en.ILSTRINGS" KeyPath="yes" />
+            </Component>
+            <Component Id="DLCNukaWorld_en.DLSTRINGS" Guid="3F9DA69D-7679-43EA-9768-7D3C161ACB30">
+                <RemoveFile Id="DLCNukaWorld_en.DLSTRINGS" Name="DLCNukaWorld_en.DLSTRINGS" On="both" />
+                <File Id="DLCNukaWorld_en.DLSTRINGS" KeyPath="yes" />
+            </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
             <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
@@ -184,6 +197,9 @@
             <ComponentRef Id="DLCCoast_en.STRINGS" />
             <ComponentRef Id="DLCCoast_en.ILSTRINGS" />
             <ComponentRef Id="DLCCoast_en.DLSTRINGS" />
+            <ComponentRef Id="DLCNukaWorld_en.STRINGS" />
+            <ComponentRef Id="DLCNukaWorld_en.ILSTRINGS" />
+            <ComponentRef Id="DLCNukaWorld_en.DLSTRINGS" />
             <ComponentRef Id="Fallout4_Cestina.html" />
             <ComponentRef Id="Fallout4_Cestina.png" />
         </Feature>

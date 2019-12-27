@@ -14,7 +14,7 @@
 set -e
 
 # Plugins to be built by default
-DEFAULT_PLUGINS='Fallout4 DLCworkshop01 DLCworkshop02 DLCworkshop03 DLCRobot DLCCoast Fallout4_VR'
+DEFAULT_PLUGINS='Fallout4 DLCworkshop01 DLCworkshop02 DLCworkshop03 DLCRobot DLCCoast DLCNukaWorld Fallout4_VR'
 
 # Modfile names for baked plugins
 declare -A BAKED_PLUGINS
