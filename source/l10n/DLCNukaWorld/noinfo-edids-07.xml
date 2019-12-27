@@ -323,7 +323,7 @@
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="0012B7">
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
@@ -344,16 +344,16 @@ Insufficient Star Cores to assert control over linked robotic systems. Emergency
       <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
-EXEC VERZE 57.09&#xD;
-LOAD ROM (1): STAR_OVLÁDÁNÍ&#xD;
+EXEC VERSION 57.09&#xD;
+LOAD ROM(1): ŘÍZENÍ_STAR&#xD;
 &#xD;
-************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
-INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
-LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
-ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
-PŘIPOJENÍ Připojování k napojené robotice ... [SELHALO]&#xD;
+************* ŘÍZENÍ_STAR - v1.1.7 *************&#xD;
+INIT RobCo protokol pro výměnu dat v3.11 ... [OK]&#xD;
+LINK Navazování spojení s centrálním počítačem ... [OK]&#xD;
+MOUNT Připojování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
+CONNECT Navazování spojení s robotickými systémy ... [SELHALO]&#xD;
 &#xD;
-Nedostatek STAR jader pro získání kontroly nad propojenými robotickými systémy. Funkce nouzového režimu mohou být omezené.</Dest>
+Nedostatek STAR jader pro získání kontroly nad připojenými robotickými systémy. Omezená funkcionalita je dostupná skrze protokol nouzového režimu.</Dest>
     </String>
     <String List="0" sID="0012D4">
       <EDID>DLC04GrandchesterMansionLocation</EDID>
@@ -385,15 +385,15 @@ No Star Cores detected. A minimum of one (1) control core is required to initial
       <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
-EXEC VERZE 57.09&#xD;
-LOAD ROM(1): STAR_OVLADÁNÍ&#xD;
+EXEC VERSION 57.09&#xD;
+LOAD ROM(1): ŘÍZENÍ_STAR&#xD;
 &#xD;
-************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
-INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
-LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
-ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [SELHALO]&#xD;
+************* ŘÍZENÍ_STAR - v1.1.7 *************&#xD;
+INIT RobCo protokol pro výměnu dat v3.11 ... [OK]&#xD;
+LINK Navazování spojení s centrálním počítačem ... [OK]&#xD;
+MOUNT Připojování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [SELHALO]&#xD;
 &#xD;
-Nebyla detekována žádná STAR jádra. Pro spuštění protokolu Nouzového režimu je vyžadováno alespoň jedno (1) jádro. Bootovací sekvence přerušena.</Dest>
+Nebyla detekována žádná STAR jádra. Pro spuštění protokolu nouzového režimu je vyžadováno alespoň jedno (1) řídicí jádro. Startovací sekvence přerušena.</Dest>
     </String>
     <String List="0" sID="001337">
       <EDID>DLC04GZ_StarCore</EDID>
@@ -549,13 +549,13 @@ Nebyla detekována žádná STAR jádra. Pro spuštění protokolu Nouzového re
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001641">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001644">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -593,7 +593,7 @@ STAR CORES:&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
       <Dest>***** NOUZOVÝ REŽIM *****&#xD;
-Nedostatek STAR jader pro získání kontroly nad propojenými robotickými systémy. Nouzové protokoly budou k dispozici, jakmile budou nainstalována další STAR jádra.&#xD;
+Nedostatek STAR jader pro získání kontroly nad připojenými robotickými systémy. Nouzové protokoly budou k dispozici, jakmile budou nainstalována další STAR jádra.&#xD;
 &#xD;
 STAR JÁDRA:&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresClearTotal&gt; STAR jader potřebných pro základní funkce.&#xD;
@@ -653,7 +653,7 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001659">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -710,28 +710,28 @@ Completing boot sequence. Please wait...</Source>
       <Dest>****** MAINLINK(R) SYSTEM BIOS - V10.2.1.1 ******&#xD;
 COPYRIGHT 2076 ROBCO(R)&#xD;
 LOADER v2.05&#xD;
-EXEC VERZE 57.09&#xD;
-LOAD ROM (1): STAR_OVLÁDÁNÍ&#xD;
+EXEC VERSION 57.09&#xD;
+LOAD ROM(1): ŘÍZENÍ_STAR&#xD;
 &#xD;
-************* STAR_OVLÁDÁNÍ - v1.1.7 *************&#xD;
-INIC RobCo protokol pro el. výměnu dat v3.11 ... [OK]&#xD;
-LINK Zřizování mezičlánku centrálního počítače ... [OK]&#xD;
-ZASAZENÍ Zasazování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
-PŘIPOJENÍ Připojování k napojené robotice ... [OK]&#xD;
+************* ŘÍZENÍ_STAR - v1.1.7 *************&#xD;
+INIT RobCo protokol pro výměnu dat v3.11 ... [OK]&#xD;
+LINK Navazování spojení s centrálním počítačem ... [OK]&#xD;
+MOUNT Připojování STAR jader... [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;] [OK]&#xD;
+CONNECT Navazování spojení s robotickými systémy ... [OK]&#xD;
 &#xD;
-Dokončování bootovací sekvence. Prosím, čekejte...</Dest>
+Dokončování spouštěcí sekvence. Prosím, čekejte...</Dest>
     </String>
     <String List="0" sID="001669">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="00166C">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="00166E">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -747,13 +747,13 @@ Individual Star Cores may be safely replaced during normal operation. In the eve
 &#xD;
 For additional sales, service, or technical support, please contact the RobCo Enterprise Solutions division. Thank you for choosing RobCo.</Source>
       <Dest>PROVOZNÍ POKYNY&#xD;
-S.T.A.R. Ovládání, Build v.1.1.7&#xD;
+Řízení STAR, Build v.1.1.7&#xD;
 &#xD;
-Systém „Systematizovaná Telemetrie Automatizovaného Robotického Ovládání“ (S.T.A.R. Ovládání) vyvinutý společností RobCo Industries (TM), je kompletní řešení pro firemní zákazníky, kteří potřebují spravovat velký počet robotů a obranných systémů.&#xD;
+Systém „Řízení Systematizované Telemetrie pro Automatizaci Robotů“ (Řízení STAR) vyvinutý společností RobCo Industries (TM), je komplexní řešení pro firemní zákazníky, kteří potřebují spravovat velký počet robotů a obranných systémů.&#xD;
 &#xD;
-Technologie STAR ovládání je založena na řadě vysoce nahraditelných, zaměnitelných telemetrických modulů (tzv. STAR jádrech). Při provozu tato jádra vytvoří mezičlánek pro rádiovou komunikaci mezi centrálním počítačem ovládání STAR a připojenými robotickými systémy, čímž umožní centrálnímu počítači koordinovat jejich činnosti a zadávat příkazy bez ohledu na jejich základní operativní protokoly.&#xD;
+Technologie řízení STAR je založena na sérii redundantních vyměnitelných telemetrických modulů (tzv. STAR jádrech). Při provozu tato jádra vytváří pomocí rádiové komunikace spojení mezi řídícím systémem STAR a připojenými robotickými systémy, čímž umožňuje centrálnímu počítači koordinovat prováděné činnosti a zadávat příkazy bez ohledu na základní provozní protokoly.&#xD;
 &#xD;
-Jednotlivá STAR jádra mohou být bezpečně vyměněna i při běžném provozu. V případě závažné poruchy je stále možné STAR ovládání nabootovat v nouzovém režimu s omezenou funkčností, pokud je přítomno alespoň jedno STAR jádro. Zatímco je systém v nouzovém režimu, jednají všichni roboti v souladu s jejich předchozími provozními pokyny. S tím, jak budou jednotlivá jádra nahrazována, se začně postupně odemykat série nouzových protokolů umožňujících díky vzrůstajícímu výpočetnímu výkonu uživateli reagovat na urgentní problémy do okamžiku, než bude obnovena plná funkčnost systému.&#xD;
+Jednotlivá STAR jádra mohou být bezpečně vyměněna i při běžném provozu. V případě závažné poruchy je stále možné řízení STAR nastartovat v nouzovém režimu s omezenou funkčností, pokud je přítomno alespoň jedno STAR jádro. Zatímco je systém v nouzovém režimu, jednají všichni roboti v souladu s jejich předchozími provozními pokyny. S tím, jak jsou jednotlivá jádra nahrazována, se začně postupně odemykat série nouzových protokolů umožňujících díky vzrůstajícímu výpočetnímu výkonu uživateli reagovat na urgentní problémy do okamžiku, než bude obnovena plná funkčnost systému.&#xD;
 &#xD;
 Pro doplňková prodej, servis a technickou podporu prosím kontaktujte oddělení RobCo Enterprise Solutions. Děkujeme, že jste si vybrali RobCo.</Dest>
     </String>
@@ -761,7 +761,7 @@ Pro doplňková prodej, servis a technickou podporu prosím kontaktujte oddělen
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC>TERM:BTXT</REC>
       <Source>***** STAR CONTROL SYSTEM LOGS *****</Source>
-      <Dest>*****S.T.A.R. OVLÁDÁNÍ SYSTÉMOVÉ ZÁZNAMY*****</Dest>
+      <Dest>***** PROVOZNÍ ZÁZNAMY ŘÍZENÍ STAR *****</Dest>
     </String>
     <String List="0" sID="001672">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -791,7 +791,7 @@ Pro doplňková prodej, servis a technickou podporu prosím kontaktujte oddělen
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="00167C">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -807,9 +807,9 @@ The girl means well, but with the gangs breathing down our necks, I gotta do som
 &#xD;
 Colterovy gangy zabraly Nuka Town. Přicházejí mi sem přeživší. Nechal jsem kluky nahodit nějaký obranný prostředky, ale ty dlouho nevydrží.&#xD;
 &#xD;
-Řekl jsem Tianě, aby zapnula ten Obranný režim, co mi o něm povídala. Na to zpanikařila – řekla, že jsme z té věci vzali příliš mnoho jader a že to ten restart nemuselo zvládnout. Každého, koho našla, poslala sbírat jádra do ostatních atrakcí.&#xD;
+Řekl jsem Tianě, aby zapnula ten obranný režim, co mi o něm povídala. Na to zpanikařila – řekla, že jsme z té věci vzali příliš mnoho jader a že by to ten restart nezvládlo. Každého, koho našla, poslala sbírat jádra z ostatních atrakcí.&#xD;
 &#xD;
-Holka to myslí dobře, ale já musím něco udělat, když mi ty gangy už pomalu dejchaj na záda. Co nejhoršího by se mohlo stát?</Dest>
+Holka to myslí dobře, ale já musím něco udělat, když mi ty gangy už pomalu dejchaj za krk. Co nejhoršího by se mohlo stát?</Dest>
     </String>
     <String List="0" sID="00167F">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -830,8 +830,8 @@ Holka to myslí dobře, ale já musím něco udělat, když mi ty gangy už poma
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores installed.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>STAR jádra:&#xD;
-Počet nainstalovaných STAR jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;.&#xD;
+      <Dest>STAR JÁDRA&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt; nainstalovaných STAR jader.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -869,13 +869,13 @@ Dostupné příkazy:</Dest>
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001690">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001693">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -905,7 +905,7 @@ Zvolte cíl:</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="00169E">
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
@@ -983,7 +983,7 @@ Inicializace dalších STAR jader k obejití poškozených bloků...&#xD;
 &#xD;
 CHYBA: Nedostatek jader pro softwarové přemostění. &#xD;
 Zjištěno &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt; STAR jader;&#xD;
-Vyžadováno &lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader;&#xD;
+Vyžadováno &lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader.&#xD;
 &#xD;
 Prosím, pro pokračování nainstalujte další STAR jádra.</Dest>
     </String>
@@ -1035,7 +1035,7 @@ Bezpečnostní zámky odpojeny. Otevírání...</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="0016C5">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1071,7 +1071,7 @@ Hlavní cenou je ale tady tohle – špičková předválečná technologie, st�
 Finished the install job for the new mainframe today. Mark and I fired it up for a test run after hours. Seemed to go pretty well. RobCo's communications interlink doesn't play nice with older-model Handys we've got working concessions-- big surprise there-- but I'm still glad we went with their bid over the one from General Atomics. Their 'Director' system is a mess-- single point of failure and all. Star Control may be overkill, but at least it has some redundancy if something does go wrong.</Source>
       <Dest>Technikův deník: 31. 8. 2077&#xD;
 &#xD;
-Dneska jsem dodělal instalaci nového centrálního počítače. Po šichtě jsme ho s Markem na zkoušku zapli a nechali jet. Zdá se, že funguje celkem dobře. Komunikační mezičlánek od RobCa si moc nerozumí se staršími modely Šikulků, na které máme licence – to je ale překvapení – ale stejně jsem rád, že jsem kývli na jejich nabídku a ne na tu z General Atomics. Ten jejich systém „Řídící“ je šílený – stačí, aby to selhalo na jednom místě a konečná. STAR ovládání je v tomto ohledu možná až přehání, ale alespoň tam jsou nějaké nahraditelné prvky, když se něco zvrtne.</Dest>
+Dneska jsme dokončili instalaci nového centrálního počítače. Po šichtě jsme ho s Markem na zkoušku zapli a nechali jet. Zdá se, že funguje celkem dobře. V rámci navazování spojení má trošku problém se staršími modely Šikulků, na které máme licence – to je ale překvapení – ale stejně jsem rád, že jsme kývli na nabídku RobCo a ne na tu od General Atomics. Ten jejich „Řídící“ je šílený – stačí, aby to selhalo na jednom místě a konečná. Řízení STAR je v tomhle ohledu možná až přehnané, ale má v sobě dost redundance pro případ, když by se něco zvrtlo.</Dest>
     </String>
     <String List="0" sID="0016D1">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -1098,8 +1098,8 @@ Dneska jsem dodělal instalaci nového centrálního počítače. Po šichtě js
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores required for full functionality.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>STAR jádra:&#xD;
-Počet STAR jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;&#xD;
+      <Dest>STAR JÁDRA&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader potřebných pro plnou funkčnost.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -1161,11 +1161,11 @@ STAR CORES:&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores required for full functionality.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>VAROVÁNÍ:&#xD;
+      <Dest>VAROVÁNÍ&#xD;
 V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
-STAR JÁDRA:&#xD;
-Počet STAR jader potřebných pro plnou funkčnost: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt;.&#xD;
+STAR JÁDRA&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader potřebných pro plnou funkčnost.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -1251,13 +1251,13 @@ Stav: OTEVŘENO</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_TrackingBug</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="0016F1">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="0016F2">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
@@ -1307,7 +1307,7 @@ Příkaz Selektivního vypnutí byl úspěšně zadán.</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="0016FC">
       <EDID>DLC04GZMain_StarControl_DisplayAccess</EDID>
@@ -1327,7 +1327,7 @@ Stav: V ČINNOSTI</Dest>
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown01</EDID>
       <REC>TERM:FULL</REC>
       <Source>Star Control Mainframe</Source>
-      <Dest>Centrální počítač ovládání S.T.A.R.</Dest>
+      <Dest>Řídicí systém STAR</Dest>
     </String>
     <String List="0" sID="001700">
       <EDID>DLC04GZMain_StarControl_Protocol_SelectiveShutdown02</EDID>
@@ -1339,7 +1339,7 @@ Stav: V ČINNOSTI</Dest>
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
       <REC>TERM:NAM0</REC>
       <Source>            |--==[ STAR CONTROL ]==--|</Source>
-      <Dest>          |--==[ S.T.A.R. OVLÁDÁNÍ ]==--|</Dest>
+      <Dest>            |--==[ ŘÍZENÍ STAR ]==--|</Dest>
     </String>
     <String List="0" sID="001A1E">
       <EDID>DLC04FrenzyGrenadeRecipe</EDID>
@@ -1743,9 +1743,9 @@ It's been almost a month, and Star Control is still working perfectly. That neve
 Mark and I have been digging through the control code, and we've verified that the Defensive Mode protocol Admin wanted seems to be in place. If there is a major emergency of some kind, we flip the system into Defensive Mode and use the robots to secure the park. There's no real way to test it; let's just hope it never comes to that.</Source>
       <Dest>Technikův deník: 29. 9. 2077&#xD;
 &#xD;
-Už je to skoro měsíc a ovládání STAR stále funguje perfektně. To se běžně nestává – takové velké instalace vždycky končí katastrofou. A nám tu pobíhají roboti armádní třídy s odjištěnými zbraněmi. Vypadá to, že je jen otázka času, kdy se stane nějaká nehoda. Ale zatím vše funguje tak, jak bylo slibováno. Jsem ohromen.&#xD;
+Už je to skoro měsíc a řízení STAR stále funguje perfektně. To se běžně nestává – takové velké instalace vždycky končí katastrofou. A nám tu pobíhají roboti armádní třídy s odjištěnými zbraněmi. Mám z toho pocit, že je jen otázka času, kdy dojde k nějaké nehodě. Ale zatím vše funguje tak, jak bylo slibováno. Jsem ohromen.&#xD;
 &#xD;
-S Markem jsme se prohrabávali řídícím kódem a potvrdili jsme, že ten protokol Obranný režim, který chtěl Admin, je funkční. V případě závažné mimořádné události přepneme systém do Obranného režimu a použijeme roboty k zajištění parku. Prakticky otestovat se to ale nedá – doufejme jen, že to nebude nikdy nutné.</Dest>
+S Markem jsme se prohrabávali řídicím kódem a potvrdili jsme, že protokol obranného režimu, který požadoval správce, je k dispozici. V případě mimořádné závažné události přepneme systém do obranného režimu a použijeme roboty k zajištění parku. Prakticky otestovat se to ale nedá – doufejme jen, že to nebude nikdy nutné.</Dest>
     </String>
     <String List="0" sID="0027C0">
       <EDID>DLC04GZMain_TradersLogTerminal</EDID>
@@ -1797,9 +1797,9 @@ At least I only have to take half shifts. I'm looking forward to getting back to
 &#xD;
 Táta říkal, že se zítra zase vydáme do Galaktické zóny.&#xD;
 &#xD;
-Pořád si nejsem jistá, co si o těch sběrných výpravách myslet. Je úžasné, kolik té staré techniky stále funguje – kéž bych se mohla zdržet a všechnu ji studovat. Ale tátův tým tam jde s jediným cílem: rozebrat ji a přinést zpátky na šrot. Jako kdyby ve světě nebylo dost zrezivělého kovu a rozbitých plošných spojů.&#xD;
+Pořád si nejsem jistá, co si o těch sběrných výpravách myslet. Je úžasné, kolik té staré techniky stále funguje – kéž bych se mohla zdržet a všechnu ji studovat. Ale tátův tým tam jde s jediným cílem - rozebrat ji a přinést zpátky na šrot. Jako kdyby ve světě nebylo dost zrezivělého kovu a rozbitých plošných spojů.&#xD;
 &#xD;
-Aspoň že můžu dělat jen poloviční směny. Už se těším, až se vrátím k práci na ovládání STAR. Jen doufám, že ten starý centrální počítač stále funguje.</Dest>
+Alespoň že můžu dělat jen poloviční směny. Už se těším, až se vrátím ke své práci na řídicím systému STAR. Doufám, že je ten starý centrální počítač stále funkční.</Dest>
     </String>
     <String List="0" sID="0027CD">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1811,9 +1811,9 @@ The mainframe tours have been a big hit. Lucky us. First we lose our workspace t
 We're going to start integrating the robots at the junkyard into the system this weekend. I'm not sure if Star Control's interlink will work at that range, but it's worth a shot. This thing keeps surprising me.</Source>
       <Dest>Technikův deník: 22. 10. 2077&#xD;
 &#xD;
-Exkurze k centrálnímu počítači zabodovaly. To se máme. Nejdříve nám seberou pracovní prostor kvůli tomu směšnému dioramatu a teď musíme dělat chůvy usopleným šestiletým děckám, které prostě musí všechna ta velká zářící tlačítka zmáčknout.&#xD;
+Exkurze k centrálnímu počítači jsou obrovský hit. To se teda máme. Nejdříve nám seberou pracovní prostor kvůli tomu směšnému dioramatu a teď musíme navíc dělat chůvy usopleným šestiletým děckám, které prostě musí všechna ta velká zářící tlačítka zmáčknout.&#xD;
 &#xD;
-O víkendu začneme do systému integrovat roboty na smetišti. Nejsem si jistý, jestli bude mezičlánek STAR ovládání fungovat na takovou vzdálenost, ale za pokus to stojí. Tahle věc mě nepřestává překvapovat.</Dest>
+O víkendu začneme do systému integrovat roboty na skládce. Nejsem si jistý, jestli bude mít na takovou vzdálenost řízení STAR dosah, ale za pokus to stojí. Tahle věc mě nepřestává překvapovat.</Dest>
     </String>
     <String List="0" sID="0027CF">
       <EDID>DLC04EncSpaceMrHandy01Template</EDID>
@@ -1835,9 +1835,9 @@ I can hear the screams. We're going to wait for nightfall, then make a run for t
 &#xD;
 Všechno je to moje vina.&#xD;
 &#xD;
-Říkala jsem mu to. Říkala jsem mu, že tam není dost jader, abych to zapnuli. Pokud bychom hodinku počkali, mohli jsme je posbírat ze Zóny a pak ovládání STAR zase nahodit. Už jsem někoho poslala, aby se po nich podívali. Určitě by se mi povedlo to zprovoznit. Ale neposlouchal mě. Neposlouchal. A teď... Bože, doufám, že je v pořádku.&#xD;
+Říkala jsem mu to. Říkala jsem mu, že tam není dost jader, abychom to zapnuli. Pokud by hodinku počkal, mohli jsme je posbírat ze zóny, a pak řízení STAR v klidu nahodit. Na moji prosbu už několik lidí jádra dávno hledalo. Určitě by se mi povedlo to zprovoznit. Ale neposlouchal mě. Neposlouchal. A teď... Bože, doufám, že je v pořádku.&#xD;
 &#xD;
-Slyším křik. Budeme muset počkat, až se setmí, a pak se pokusit utéct branou.</Dest>
+Slyším křik. Musíme počkat, až se setmí, a pak se pokusit utéct hlavní branou.</Dest>
     </String>
     <String List="0" sID="0027D4">
       <EDID>DLC04GZMain_StarControl_SystemLogs</EDID>
@@ -1931,11 +1931,11 @@ STAR CORES:&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; Star Cores installed.&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
-      <Dest>VAROVÁNÍ:&#xD;
+      <Dest>VAROVÁNÍ&#xD;
 V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
-STAR JÁDRA:&#xD;
-Počet nainstalovaných STAR jader: &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt;.&#xD;
+STAR JÁDRA&#xD;
+&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt; nainstalovaných STAR jader.&#xD;
 &#xD;
 Dostupné příkazy:</Dest>
     </String>
@@ -2191,7 +2191,7 @@ Stav arény: ZAPNUTÁ&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;] Star Core(s) are currently installed.&#xD;
 &#xD;
 No other Star Cores were detected within range.</Source>
-      <Dest>Přistupování k mezičlánku STAR jader... hotovo.&#xD;
+      <Dest>Přistupování k síti STAR jader... hotovo.&#xD;
 &#xD;
 Počet nainstalovaných STAR jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
 &#xD;
@@ -2241,13 +2241,13 @@ A total of [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt;] other Star Cor
 [&lt;Token.ValueInt=DLC04GZ_StarCoresVaultTecLeft&gt;]: In Vault-Tec: Among the Stars&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresBattlezoneLeft&gt;]: In RobCo Battlezone&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresOutsideLeft&gt;]: Outside the Galactic Zone</Source>
-      <Dest>Přistupování k mezičlánku STAR jader... hotovo.&#xD;
+      <Dest>Přistupování k síti STAR jader... hotovo.&#xD;
 &#xD;
 Počet nainstalovaných STAR jader: [&lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;]&#xD;
 &#xD;
 V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt;] dalších STAR jader. Upřesňování lokací...&#xD;
 &#xD;
-[&lt;Token.ValueInt=DLC04GZ_StarCoresPlayer&gt;]: ve místnosti se STAR Ovládáním&#xD;
+[&lt;Token.ValueInt=DLC04GZ_StarCoresPlayer&gt;]: v místnosti řídicího systému STAR&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresExteriorLeft&gt;]: na pozemcích Galaktické zóny&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresNukaGalaxyLeft&gt;]: v Nuka-Galaxy&#xD;
 [&lt;Token.ValueInt=DLC04GZ_StarCoresTheaterLeft&gt;]: v divadle Mezihvězdný třpyt&#xD;
@@ -2590,7 +2590,7 @@ This is Penning over at Starport Nuka. We're experiencing all sorts of minor con
 Personally, I think our hardware is too far behind the software to have Star Control run the whole show right now. I know you don't want to hear it, but we really need to shut down the Galactic Zone and do a major overhaul before we have a catastrophic failure.</Source>
       <Dest>Komu: Peyton Huxley, výkonný asistent pana Bradbertona&#xD;
 &#xD;
-Tady Penning z hvězdného přístavu Nuka. Dochází nám tu k hromadě menších závad, co se ovládání starších modelů robotů týče. Posílám vám tam některá z hlášení o poruchách. Zatím nejde o nic vážného, ale pokud by Ovládání STAR nad těmi roboty ztratilo kontrolu, nedokážu říct, co provedou.&#xD;
+Tady Penning z hvězdného přístavu Nuka. Dochází nám tu k hromadě menších závad, co se ovládání starších modelů robotů týče. Posílám vám tam některá z hlášení o poruchách. Zatím nejde o nic vážného, ale pokud by řídicí systém STAR nad těmi roboty ztratil kontrolu, nedokážu říct, co provedou.&#xD;
 &#xD;
 Osobně si myslím, že náš hardware je oproti našemu softwaru příliš zastaralý na to, aby to celé řídil. Vím, že to nechcete slyšet, ale opravdu potřebujeme Galaktickou zónu zavřít a provést zásadní úpravy předtím, než dojde ke katastrofickému selhání.</Dest>
     </String>
@@ -2602,7 +2602,7 @@ Osobně si myslím, že náš hardware je oproti našemu softwaru příliš zast
 Ryan, Mark and I are tired of fixing these robots and getting them to play nice with Star Control. The new system has put a strain on their control modules, and some of the older models just can't take the extra load. We're behind schedule as it is, and now you want us to chaperone tour groups through Star Control? If you want this stuff fixed quicker, you need to hire more staff or get to the bottom of why our purchase orders keep getting held up.</Source>
       <Dest>Od: Ingrid Suvenstein, technik hvězdného přístavu Nuka&#xD;
 &#xD;
-Ryane, Mark i já už máme plné zuby opravování těch robotů a snahou je sladit s Ovládáním STAR. Nový systém přetěžuje jejich ovládací moduly a některé starší modely robotů tuhle zátěž navíc prostě nezvládají. Už tak nestíháme a teď po nás chceš, abychom vodili skupinky přes Ovládání STAR. Pokud chceš, aby se to vše dalo do pořádku rychleji, musíš najmout další lidi nebo přijít na to, proč jsou naše objednávky pořád zdržovány.</Dest>
+Ryane, Mark i já už máme plné zuby opravování těch robotů a snahou je sladit s řízením STAR. Nový systém přetěžuje jejich ovládací moduly a některé starší modely robotů tuhle zátěž navíc prostě nezvládají. Už tak nestíháme a teď po nás chceš, abychom vodili skupinky přes Řídicí systém STAR. Pokud chceš, aby se to vše dalo do pořádku rychleji, musíš najmout další lidi nebo přijít na to, proč jsou naše objednávky pořád zdržovány.</Dest>
     </String>
     <String List="0" sID="004685">
       <EDID>DLC04GangOperatorsLizziePlayerOwnershipFaction</EDID>
@@ -2662,7 +2662,7 @@ I realize that Project Cobalt has put a lot of our resources on hold, but if we 
 &#xD;
 Tady Penning z hvězdného přístavu Nuka. Omlouvám se, že vás kontaktuji přímo, pane Bradbertone, ale potýkáme se tady tak trochu s menší krizí. Váš asistent vás jistě zasvětí do detailů, pokud to tedy ještě neudělal.&#xD;
 &#xD;
-Uvědomuji si, že projekt Kobalt vyžaduje značnou část našich zdrojů, ale pokud zde brzo neobdržíme nějakou pomoc, může se to vymknout kontrole. Ovládání STAR není stavěno na to, aby ovládalo současně tolik robotů, a přesto nás stále žádají, abychom jich do systému přidali více a dokonce i starší modely. Prosím, schvalte můj požadavek pro nový personál a žádosti o údržbu co nejdříve to bude možné.</Dest>
+Uvědomuji si, že projekt Kobalt vyžaduje značnou část našich zdrojů, ale pokud zde brzo neobdržíme nějakou pomoc, může se to vymknout kontrole. Řídicí systém STAR není stavěn na to, aby ovládal současně tolik robotů, a přesto nás stále žádají, abychom jich do systému přidali více a dokonce i starší modely. Prosím, schvalte můj požadavek na dodatečný personál a žádosti o údržbu co nejdříve to bude možné.</Dest>
     </String>
     <String List="0" sID="004720">
       <EDID>DLC04GZBattlezone_ControlRoomTerminal</EDID>
