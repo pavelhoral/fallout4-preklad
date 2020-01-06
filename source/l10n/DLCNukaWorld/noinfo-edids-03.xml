@@ -589,7 +589,7 @@
       <Source>Ice Cold Nuka-Cola Wild</Source>
       <Dest>Ledově vychlazená Nuka-Cola Wild</Dest>
     </String>
-    <String List="0" sID="002221" Partial="2">
+    <String List="0" sID="002221">
       <EDID>DLC04_PaddleBall_OnHitEffect_Stagger</EDID>
       <REC>MGEF:FULL</REC>
       <Source>ModLegendaryOnHitEffect_Stagger</Source>
@@ -1365,7 +1365,7 @@
       <Source>Insert</Source>
       <Dest>Vložit</Dest>
     </String>
-    <String List="0" sID="0041DB" Partial="2">
+    <String List="0" sID="0041DB">
       <EDID>DLC04_RQ_TroubleMaker</EDID>
       <REC>FACT:FULL</REC>
       <Source>used for dialogue conditions on greeting DLC04_RQ_Manager to start scene</Source>
@@ -2201,7 +2201,7 @@ Fizzy provozuje lékárnu, kde se svou asistentkou paní Loveitovou podává vý
       <Source>ACID SOAKER AMMO</Source>
       <Dest>Munice do kyselinové stříkačky</Dest>
     </String>
-    <String List="1" sID="000365" Partial="2">
+    <String List="1" sID="000365">
       <EDID>DLC04_RadRatRace</EDID>
       <REC>RACE:DESC</REC>
       <Source>Attack 180 Right</Source>
@@ -2225,13 +2225,13 @@ Fizzy provozuje lékárnu, kde se svou asistentkou paní Loveitovou podává vý
       <Source>&lt;Alias=QuestGiver&gt; has asked me to kill &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
       <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala, ať zabiji osobu jménem &lt;Alias=target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
-    <String List="1" sID="000EC5" Partial="2">
+    <String List="1" sID="000EC5">
       <EDID>DLC04_RQ_CountActiveQuests</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Used to control the number of active quests that Radiant Quest givers give (they are allowed 1 active and 1 ready to go, for a total of 2)</Source>
       <Dest>Used to control the number of active quests that Radiant Quest givers give (they are allowed 1 active and 1 ready to go, for a total of 2)</Dest>
     </String>
-    <String List="1" sID="000F54" Partial="2">
+    <String List="1" sID="000F54">
       <EDID>DLC04_RQ_ReasonForQuest</EDID>
       <REC>AVIF:DESC</REC>
       <Source>The rationale for quest. See globals:&#xD;
@@ -2243,7 +2243,7 @@ DLC04_RQ_Reason_General&#xD;
 DLC04_RQ_Reason_HelpSettlement&#xD;
 DLC04_RQ_Reason_Mischief</Dest>
     </String>
-    <String List="1" sID="000FB9" Partial="2">
+    <String List="1" sID="000FB9">
       <EDID>DLC04_RQ_MischiefTarget</EDID>
       <REC>AVIF:DESC</REC>
       <Source>The enemy in quest. See globals:&#xD;
@@ -2255,7 +2255,7 @@ DLC04_RQ_MischiefTarget_Pack&#xD;
 DLC04_RQ_MischiefTarget_Operators&#xD;
 DLC04_RQ_MischiefTarget_Disciples</Dest>
     </String>
-    <String List="1" sID="0011DC" Partial="2">
+    <String List="1" sID="0011DC">
       <EDID>DLC04_RQ_TargetOfQuest</EDID>
       <REC>AVIF:DESC</REC>
       <Source>The target for quest. See globals:&#xD;
@@ -2777,7 +2777,7 @@ Něco se děje.</Dest>
       <Source>&lt;Alias=QuestGiver&gt; has asked me to collar &lt;Alias=Target&gt; at &lt;Alias=Location&gt;.</Source>
       <Dest>&lt;Alias=QuestGiver&gt; je osoba, která mě požádala o nasazení obojku osobě jménem &lt;Alias=Target&gt; v lokaci &lt;Alias=Location&gt;.</Dest>
     </String>
-    <String List="1" sID="0042AE" Partial="2">
+    <String List="1" sID="0042AE">
       <EDID>DLC04_RQ_QuestGiver</EDID>
       <REC>AVIF:DESC</REC>
       <Source>Value corresponding to the Quest Giver for player to say who the "owner" is when collaring someone&#xD;
@@ -2823,7 +2823,7 @@ Pokud tohle čteš a víš o nějakém bezpečném úkrytu, prosím dej Luně a 
       <Source>Standard.</Source>
       <Dest>Standardní.</Dest>
     </String>
-    <String List="1" sID="004A62" Partial="2">
+    <String List="1" sID="004A62">
       <EDID>DLC04_RQ_Charmed</EDID>
       <REC>AVIF:DESC</REC>
       <Source>0 = uncharmed, 1 = charmed by player (used by condition on a followplayer package)</Source>
