@@ -29,31 +29,31 @@
       <EDID>[010145D5]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Here You Go (Give Ticket)</Source>
-      <Dest>Here You Go (Give Ticket)</Dest>
+      <Dest>Tady máte (dát lístek)</Dest>
     </String>
     <String List="0" sID="000C8C">
       <EDID>[010145D3]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Employee discount</Source>
-      <Dest>Employee discount</Dest>
+      <Dest>Zaměstnanecká sleva</Dest>
     </String>
     <String List="0" sID="000C92">
       <EDID>[010145CE]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Rip-Off</Source>
-      <Dest>Odpárat</Dest>
+      <Dest>Moc drahé</Dest>
     </String>
     <String List="0" sID="000C93">
       <EDID>[010145BB]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Pay With Anything Else?</Source>
-      <Dest>Pay With Anything Else?</Dest>
+      <Dest>Platit něčím jiným?</Dest>
     </String>
     <String List="0" sID="000C95">
       <EDID>[010145BA]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Don't Have Ticket</Source>
-      <Dest>Don't Have Ticket</Dest>
+      <Dest>Nemám lístek.</Dest>
     </String>
     <String List="0" sID="001618">
       <EDID>[01020A34]</EDID>
@@ -65,11 +65,11 @@
       <EDID>[01022DBE]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Buy A Ticket</Source>
-      <Dest>Buy A Ticket</Dest>
+      <Dest>Koupit lístek</Dest>
     </String>
     <String List="2" sID="000C14">
       <EDID>DLC04_MS03_EnterHouse</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Enjoy your visit to the Grandchester Mystery Mansion.</Source>
       <Dest>Užijte si návštěvu Tajemného sídla Grandchesterů.</Dest>
     </String>
@@ -77,41 +77,41 @@
       <EDID>[010145BA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I don't have a ticket.</Source>
-      <Dest>I don't have a ticket.</Dest>
+      <Dest>Nemám lístek.</Dest>
     </String>
     <String List="2" sID="000C2A">
       <EDID>[010145D5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I have a ticket. Here you go.</Source>
-      <Dest>I have a ticket. Here you go.</Dest>
+      <Dest>Mám lístek. tady máte.</Dest>
     </String>
     <String List="2" sID="000C3D">
       <EDID>[010145D7]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Invalid credentials. Employee status not confirmed.</Source>
-      <Dest>Invalid credentials. Employee status not confirmed.</Dest>
+      <Dest>Neplatný průkaz. Zaměstnanecký status nepotvrzen.</Dest>
     </String>
     <String List="2" sID="000C41">
       <EDID>[0104BF2D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Understood. Please exit the line.</Source>
-      <Dest>Understood. Please exit the line.</Dest>
+      <Dest>Rozumím. Prosím opusťte frontu.</Dest>
     </String>
     <String List="2" sID="000C45">
       <EDID>[010145CA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Here's some caps.</Source>
-      <Dest>Here's some caps.</Dest>
+      <Dest>Tady je pár zátek.</Dest>
     </String>
     <String List="2" sID="000C49">
       <EDID>DLC04_MS03_LegalTender</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="2">INFO:NAM1</REC>
       <Source>Please move to the back of the line.</Source>
-      <Dest>Please move to the back of the line.</Dest>
+      <Dest>Prosím běžte na konec řady.</Dest>
     </String>
     <String List="2" sID="000C4E">
       <EDID>DLC04_MS03_LegalTender</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="2">INFO:NAM1</REC>
       <Source>The Grandchester Mystery Mansion only accepts legal tender.</Source>
       <Dest>Tajemné sídlo Grandchesterů přijímá pouze zákonná platidla.</Dest>
     </String>
@@ -119,49 +119,49 @@
       <EDID>[010145C2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>No admission without a ticket.</Source>
-      <Dest>No admission without a ticket.</Dest>
+      <Dest>Bez lístku nemůžete na prohlídku.</Dest>
     </String>
     <String List="2" sID="000C53">
       <EDID>[010145CC]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Tickets please.</Source>
-      <Dest>Tickets please.</Dest>
+      <Dest>Lístky, prosím.</Dest>
     </String>
     <String List="2" sID="000C58">
       <EDID>[010145D9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I think I'll just come back later.</Source>
-      <Dest>I think I'll just come back later.</Dest>
+      <Dest>Myslím, že přijdu později.</Dest>
     </String>
     <String List="2" sID="000C5F">
       <EDID>[010145BB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Is there anything else besides "dollars" I can pay with?</Source>
-      <Dest>Is there anything else besides "dollars" I can pay with?</Dest>
+      <Dest>Mohu platit i něčím jiným, než dolary?</Dest>
     </String>
     <String List="2" sID="000C72">
       <EDID>[010145D7]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>You must purchase admission to the Grandchester Mystery Mansion.</Source>
-      <Dest>Je nutné zakoupit vstupenku do Tajemného sídla Grandchesterů.</Dest>
+      <Dest>Musíte si zakoupit vstupenku do Tajemného sídla Grandchesterů.</Dest>
     </String>
     <String List="2" sID="000C78">
       <EDID>[010145D3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'm an employee. I get in for free.</Source>
-      <Dest>I'm an employee. I get in for free.</Dest>
+      <Dest>Jsem zaměstnanec. Mám to zdarma.</Dest>
     </String>
     <String List="2" sID="000C7B">
       <EDID>DLC04_MS03_LegalTender</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="2">INFO:NAM1</REC>
       <Source>If you do not have exact change, you can buy your ticket from the cashier.</Source>
-      <Dest>If you do not have exact change, you can buy your ticket from the cashier.</Dest>
+      <Dest>Pokud nedisponujete přesnou částkou, můžete zakoupit lístky u pokladny.</Dest>
     </String>
     <String List="2" sID="000C9A">
       <EDID>[010145CE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Sixty-five? Sounds like a rip-off to me.</Source>
-      <Dest>Sixty-five? Sounds like a rip-off to me.</Dest>
+      <Dest>Šedesát pět? To zní, jako byste mě chtěli oškubat.</Dest>
     </String>
     <String List="2" sID="000CAD">
       <EDID>[010145C9]</EDID>
@@ -171,37 +171,37 @@
     </String>
     <String List="2" sID="000D4C">
       <EDID>[01016161]</EDID>
-      <REC id="5">INFO:NAM1</REC>
+      <REC id="5" idMax="5">INFO:NAM1</REC>
       <Source>All for only sixty-five dollars.</Source>
-      <Dest>All for only sixty-five dollars.</Dest>
+      <Dest>To vše jen za šedesát pět dolarů.</Dest>
     </String>
     <String List="2" sID="000D67">
       <EDID>[01016161]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="5">INFO:NAM1</REC>
       <Source>Inside you will learn the story of Lucy and how she gruesomely murdered her parents.</Source>
-      <Dest>Inside you will learn the story of Lucy and how she gruesomely murdered her parents.</Dest>
+      <Dest>Uvnitř se dozvíte Luciin příběh a to, jak hrůzostrašně zabila své rodiče.</Dest>
     </String>
     <String List="2" sID="000D6C">
       <EDID>[01016161]</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="5">INFO:NAM1</REC>
       <Source>See where she ate breakfast.</Source>
-      <Dest>See where she ate breakfast.</Dest>
+      <Dest>Uvidíte místo, kde snídala.</Dest>
     </String>
     <String List="2" sID="000D87">
       <EDID>[01016161]</EDID>
-      <REC id="3">INFO:NAM1</REC>
+      <REC id="3" idMax="5">INFO:NAM1</REC>
       <Source>See bed she slept in.</Source>
-      <Dest>See bed she slept in.</Dest>
+      <Dest>Postel, ve které spala.</Dest>
     </String>
     <String List="2" sID="000D90">
       <EDID>[01016161]</EDID>
-      <REC id="4">INFO:NAM1</REC>
+      <REC id="4" idMax="5">INFO:NAM1</REC>
       <Source>View the actual floors she walked on.</Source>
-      <Dest>View the actual floors she walked on.</Dest>
+      <Dest>Podívejte se na podlahy, po kterých skutečně chodila.</Dest>
     </String>
     <String List="2" sID="000DA1">
       <EDID>[01016161]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="5">INFO:NAM1</REC>
       <Source>Welcome to the Grandchester Mystery Mansion.</Source>
       <Dest>Vítejte v Tajemném sídle Grandchesterů.</Dest>
     </String>
@@ -209,43 +209,43 @@
       <EDID>[0101EE65]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>The colony on Cola-V is under attack!</Source>
-      <Dest>The colony on Cola-V is under attack!</Dest>
+      <Dest>Kolonie na Cola 5 je pod útokem!</Dest>
     </String>
     <String List="2" sID="0012B5">
       <EDID>[0101EE22]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Nice work, cadets! Let's head home.</Source>
-      <Dest>Nice work, cadets! Let's head home.</Dest>
+      <Dest>Skvělá práce, kadeti! Vydejme se zpět na základnu.</Dest>
     </String>
     <String List="2" sID="0012BE">
       <EDID>[0101EE26]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Go cool off with a refreshing Ice-Cold Nuka-Cola. Then come again for another thrilling adventure in the Nuka-Galaxy!</Source>
-      <Dest>Go cool off with a refreshing Ice-Cold Nuka-Cola. Then come again for another thrilling adventure in the Nuka-Galaxy!</Dest>
+      <Dest>Běž se zchladit osvěžujícní ledově vychlazenou Nuka-Colou. Pak se vrať a zažij další napínavé dobrodružství v Nuka-Galaxy!</Dest>
     </String>
     <String List="2" sID="0012C2">
       <EDID>[0101EE27]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Fuel up with Nuka-Cola Quantum and prepare to Blast Off for Adventure in the Nuka-Galaxy!</Source>
-      <Dest>Fuel up with Nuka-Cola Quantum and prepare to Blast Off for Adventure in the Nuka-Galaxy!</Dest>
+      <Dest>Natankuj se Nuka-Colou Quantum a připrav se odstartovat vztříc dobrodružství v Nuka-Galaxy.</Dest>
     </String>
     <String List="2" sID="0012C6">
       <EDID>[0101EE28]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ready...</Source>
-      <Dest>Já můžu...</Dest>
+      <Dest>Připravit!...</Dest>
     </String>
     <String List="2" sID="0012C9">
       <EDID>[0101EE25]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please remain seated until the ride comes to a full and complete stop. Collect your belongings and watch your step as you exit the ride.</Source>
-      <Dest>Please remain seated until the ride comes to a full and complete stop. Collect your belongings and watch your step as you exit the ride.</Dest>
+      <Dest>Prosím zůstaňte na svým sedladlech, dokud atrakce zcela nezastaví. Vezměte si své věci a dávejte pozor kam šlapete při opouštění prostoru.</Dest>
     </String>
     <String List="2" sID="0012ED">
       <EDID>DLC04GZNukaGalaxy_NukaGirl_MoveOut</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All right, cadets. Move out!</Source>
-      <Dest>All right, cadets. Move out!</Dest>
+      <Dest>Dobrá, kadeti. Vyrážíme!</Dest>
     </String>
     <String List="2" sID="0012F0">
       <EDID>[0104A07E]</EDID>
@@ -257,13 +257,13 @@
       <EDID>[0101EE23]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Asteroids! Look out!</Source>
-      <Dest>Asteroids! Look out!</Dest>
+      <Dest>Asteroidy! Dávej pozor!</Dest>
     </String>
     <String List="2" sID="0012F7">
       <EDID>[0101EE21]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Nice flying, cadets.</Source>
-      <Dest>Nice flying, cadets.</Dest>
+      <Dest>Skvělý let, kadeti!</Dest>
     </String>
     <String List="2" sID="0012F8">
       <EDID>DLC04GZNukaGalaxyShared_QuantumSpeedDUPLICATE000DUPLICATE001</EDID>
@@ -281,25 +281,25 @@
       <EDID>[0101EE1A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ambush! Dive, dive, dive!</Source>
-      <Dest>Ambush! Dive, dive, dive!</Dest>
+      <Dest>Přepadení! Klesnout! Klesnout! Klesnout!</Dest>
     </String>
     <String List="2" sID="0012FB">
       <EDID>[0101EE1C]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Open fire! Defend the colony!</Source>
-      <Dest>Open fire! Defend the colony!</Dest>
+      <Dest>Zahajte palbu! Braňte kolonii!</Dest>
     </String>
     <String List="2" sID="0012FC">
       <EDID>[0101EE18]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Keep going! Push them back!</Source>
-      <Dest>Keep going! Push them back!</Dest>
+      <Dest>Nepřestávejte! Zatlačte je zpátky!</Dest>
     </String>
     <String List="2" sID="0012FE">
       <EDID>[0101EE20]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>They're retreating! We did it!</Source>
-      <Dest>They're retreating! We did it!</Dest>
+      <Dest>Ustupují! Zvládli jsme to!</Dest>
     </String>
     <String List="2" sID="0012FF">
       <EDID>[0101EE1E]</EDID>
@@ -317,41 +317,41 @@
       <EDID>[0101EE19]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Fire!</Source>
-      <Dest>Oheň!</Dest>
+      <Dest>Palte!</Dest>
     </String>
     <String List="2" sID="001305">
       <EDID>[0101EE1B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Welcome back, cadets.</Source>
-      <Dest>Welcome back, cadets.</Dest>
+      <Dest>Vítejte zpět, kadeti.</Dest>
     </String>
     <String List="2" sID="001310">
       <EDID>[0101EE14]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please remain seated with your seat belt fastened. Keep hands and feet inside the car at all times. Nuka-World is not responsible for lost change, items, and/or limbs.</Source>
-      <Dest>Prosím, zůstaňte sedět s připnutým bezpečnostním pásem. Mějte ruce a nohy za všech okolností ve vozidle. Nuka-World není odpovědný za ztracené mince, předměty, nebo končetiny.</Dest>
+      <Dest>Prosím, zůstaňte sedět s připnutým bezpečnostním pásem. Mějte ruce a nohy za všech okolností ve vozidle. Nuka World není odpovědný za ztracené mince, předměty, nebo končetiny.</Dest>
     </String>
     <String List="2" sID="00133C">
       <EDID>[0101EE66]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>All pilots, get to your ships! Prepare for takeoff!</Source>
-      <Dest>All pilots, get to your ships! Prepare for takeoff!</Dest>
+      <Dest>Všichni piloti, do svých lodí! Připravte se odstartovat!</Dest>
     </String>
     <String List="2" sID="00133D">
       <EDID>[0101EE17]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Lock in for pursuit! Blast off!</Source>
-      <Dest>Lock in for pursuit! Blast off!</Dest>
+      <Dest>Zaměřuji cíl pronásledování! Zážeh!</Dest>
     </String>
     <String List="2" sID="00133F">
       <EDID>[0101EE15]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>This is Airlock 3. Cadets, you are clear for departure.</Source>
-      <Dest>This is Airlock 3. Cadets, you are clear for departure.</Dest>
+      <Dest>Tady je komora 3. Kadeti, jste připraveni na odlet.</Dest>
     </String>
     <String List="2" sID="001352">
       <EDID>[0101F5DC]</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="3">INFO:NAM1</REC>
       <Source>Grandchester Mystery Mansion Inc. is not responsible for health risks of this attraction.</Source>
       <Dest>Tajemné sídlo Grandchesterů Inc. není zodpovědná za zdravotní rizika způsobená touto atrakcí.</Dest>
     </String>
@@ -365,61 +365,61 @@
       <EDID>[0101F4A4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please watch your step as you enter the boarding area.</Source>
-      <Dest>Please watch your step as you enter the boarding area.</Dest>
+      <Dest>Porsím, dávejte si pozor kam šlapete, až vstoupíte do naloďovací prostor.</Dest>
     </String>
     <String List="2" sID="00136C">
       <EDID>[0101F5E2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source> </Source>
-      <Dest> </Dest>
+      <Dest> Stop!</Dest>
     </String>
     <String List="2" sID="001370">
       <EDID>[0101F4B2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We have confirmed reports of multiple hostiles!</Source>
-      <Dest>We have confirmed reports of multiple hostiles!</Dest>
+      <Dest>Máme potvrzená hlášení o několika útočnících.</Dest>
     </String>
     <String List="2" sID="001377">
       <EDID>[0101F5DC]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="3">INFO:NAM1</REC>
       <Source>Not suitable for children under 5.</Source>
-      <Dest>Not suitable for children under 5.</Dest>
+      <Dest>Nevhodné pro děti pod 5 let.</Dest>
     </String>
     <String List="2" sID="00137D">
       <EDID>[0101F5DC]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="3">INFO:NAM1</REC>
       <Source>No animals were harmed in the making of this attraction.</Source>
-      <Dest>No animals were harmed in the making of this attraction.</Dest>
+      <Dest>Při budování atrakce nebylo ublíženo žádnému zvířeti.</Dest>
     </String>
     <String List="2" sID="001380">
       <EDID>[0101F4AE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Squads 3, 4, 5: you are go for launch.</Source>
-      <Dest>Squads 3, 4, 5: you are go for launch.</Dest>
+      <Dest>Oddíl 3, 4, 5: Jste připraveni odstartovat.</Dest>
     </String>
     <String List="2" sID="001390">
       <EDID>[0101F4AA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Cadets! I'm Nuka-Girl, ace pilot. You ready for your first combat mission?</Source>
-      <Dest>Cadets! I'm Nuka-Girl, ace pilot. You ready for your first combat mission?</Dest>
+      <Dest>Kadeti! Já jsem Nuka-dívka, letecké eso. Jste připraveni na svojí první bojovou misi?</Dest>
     </String>
     <String List="2" sID="001393">
       <EDID>[0101F5DE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>See the bloodstains that can't be washed out.</Source>
-      <Dest>See the bloodstains that can't be washed out.</Dest>
+      <Dest>Podívejte se na krvavé skvrny, které se nedají vydrhnout.</Dest>
     </String>
     <String List="2" sID="0013A0">
       <EDID>[0101F4A5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>The Flight Coordinator will direct you to your Nuka-Fighter.</Source>
-      <Dest>The Flight Coordinator will direct you to your Nuka-Fighter.</Dest>
+      <Dest>Letecký dispečer vás dovede k vaší Nuka stíhačce.</Dest>
     </String>
     <String List="2" sID="0013A3">
       <EDID>[0101F4A9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>While you wait, enjoy a refreshing, ice-cold Nuka-Cola. Our Mr. Handy waiters will be coming through the line to take your order.</Source>
-      <Dest>While you wait, enjoy a refreshing, ice-cold Nuka-Cola. Our Mr. Handy waiters will be coming through the line to take your order.</Dest>
+      <Dest>Užijte si během čekání naši ledově osvěžující Nuka-Colu. Naši Roboti číšníci budou procházet fronty a přijímat vaše objednávky.</Dest>
     </String>
     <String List="2" sID="0013AD">
       <EDID>[0101F4AF]</EDID>
@@ -431,91 +431,91 @@
       <EDID>[0101F4A6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please make sure all loose objects are secured before boarding the ride.</Source>
-      <Dest>Please make sure all loose objects are secured before boarding the ride.</Dest>
+      <Dest>Před nástupem do vozu se ujistěte, že máte zabezpečené všchny volné předměty.</Dest>
     </String>
     <String List="2" sID="0013C6">
       <EDID>[0101F4B1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We're getting reports of orbital strikes. They can't hold out much longer!</Source>
-      <Dest>We're getting reports of orbital strikes. They can't hold out much longer!</Dest>
+      <Dest>Dostáváme hlášení o útocích z oběžné dráhy. Už moc dlouho nvydrží.</Dest>
     </String>
     <String List="2" sID="0013D1">
       <EDID>[0101F5DD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Why did little Lucy gruesomely kill her parents?</Source>
-      <Dest>Why did little Lucy gruesomely kill her parents?</Dest>
+      <Dest>Proč malá Lucy příšerně zabila své rodiče?</Dest>
     </String>
     <String List="2" sID="0013F5">
       <EDID>[0101F4B0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Enemy forces are moving to attack the colony!</Source>
-      <Dest>Enemy forces are moving to attack the colony!</Dest>
+      <Dest>Nepřátelské jednotky se připravují napadnout kolonii!</Dest>
     </String>
     <String List="2" sID="00141E">
       <EDID>[0101F5DC]</EDID>
-      <REC id="3">INFO:NAM1</REC>
+      <REC id="3" idMax="3">INFO:NAM1</REC>
       <Source>This includes but is not limited to: heart attack, stroke, fainting or severe cuts and bruises.</Source>
-      <Dest>This includes but is not limited to: heart attack, stroke, fainting or severe cuts and bruises.</Dest>
+      <Dest>A to včetně: Infarktu, mrtvici, ztrátě vědomí, nebo těžké rány a pohmožděniny.</Dest>
     </String>
     <String List="2" sID="00143E">
       <EDID>[0101F4AD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>The Launch Bay is just up ahead. Get to your ships!</Source>
-      <Dest>The Launch Bay is just up ahead. Get to your ships!</Dest>
+      <Dest>Nástupní prostor je kousíček před vami. Nastupte do vašich raket!</Dest>
     </String>
     <String List="2" sID="001446">
       <EDID>[0101F4A8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>The current wait time is six hours and forty-three minutes.</Source>
-      <Dest>The current wait time is six hours and forty-three minutes.</Dest>
+      <Dest>Aktuální čekací doba je šest hodin a čtyřicet tři minut.</Dest>
     </String>
     <String List="2" sID="001461">
       <EDID>[0101F4A7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Get ready to Blast Off for Adventure in the Nuka-Galaxy!</Source>
-      <Dest>Get ready to Blast Off for Adventure in the Nuka-Galaxy!</Dest>
+      <Dest>Připrav se odpálit za dobrodružstvím v Nuka-Galaxy!</Dest>
     </String>
     <String List="2" sID="001466">
       <EDID>[0101F4AC]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Sounds like we've got a colony to defend. Let's go!</Source>
-      <Dest>Sounds like we've got a colony to defend. Let's go!</Dest>
+      <Dest>Vypadá to, že máme bránit kolonii. Pojďme na to!</Dest>
     </String>
     <String List="2" sID="001467">
       <EDID>[0101F4AB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Stick with me, and we can take on the galaxy.</Source>
-      <Dest>Stick with me, and we can take on the galaxy.</Dest>
+      <Dest>Pojď se mnou a zabereme si galaxii.</Dest>
     </String>
     <String List="2" sID="001473">
       <EDID>[0101F5E9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Repeat: The colony on Cola-V is under attack!</Source>
-      <Dest>Repeat: The colony on Cola-V is under attack!</Dest>
+      <Dest>Opakuji: Kolonie na Cola 5 je pod útokem!</Dest>
     </String>
     <String List="2" sID="0014A4">
       <EDID>[0101F4B3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Cadets, report to the Launch Bay. Cadets to the Launch Bay.</Source>
-      <Dest>Cadets, report to the Launch Bay. Cadets to the Launch Bay.</Dest>
+      <Dest>Kadeti, hlašte se na odpalovací plošinu. Kadeti na odpalovací plošinu.</Dest>
     </String>
     <String List="2" sID="0014AF">
       <EDID>[0101F5E1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>It's a mystery!</Source>
-      <Dest>It's a mystery!</Dest>
+      <Dest>To je tajemství!</Dest>
     </String>
     <String List="2" sID="0014BE">
       <EDID>[0101F5E0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>See the actual kitchen where her mother loving prepared her meals.</Source>
-      <Dest>See the actual kitchen where her mother loving prepared her meals.</Dest>
+      <Dest>Podívejte se na kuchyň, ve které jí její matka láskyplně připravovala jídlo.</Dest>
     </String>
     <String List="2" sID="0014C3">
       <EDID>[0101F5DB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>See where she committed the bloody deed.</Source>
-      <Dest>See where she committed the bloody deed.</Dest>
+      <Dest>Podívejte se, kde spáchala svůj krvavý čin.</Dest>
     </String>
     <String List="2" sID="0015A7">
       <EDID>[01020A34]</EDID>
@@ -527,215 +527,215 @@
       <EDID>[01022DBE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I'll buy a ticket. How much?</Source>
-      <Dest>I'll buy a ticket. How much?</Dest>
+      <Dest>Koupím si lístek. Kolik stojí?</Dest>
     </String>
     <String List="2" sID="001722">
       <EDID>DLC04MS03GrandchesterBuyTicket</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Tickets may be purchased for sixty-five dollars.</Source>
-      <Dest>Tickets may be purchased for sixty-five dollars.</Dest>
+      <Dest>Lístek může být zakoupen za šedesát pět dolarů.</Dest>
     </String>
     <String List="2" sID="001817">
       <EDID>DLC04MS03GrandchesterBuyTicket</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Those without exact change can purchase a ticket from the cashier.</Source>
-      <Dest>Those without exact change can purchase a ticket from the cashier.</Dest>
+      <Dest>Ti, kteří nedisponují přesnou částkou, si mohou koupit lístky u pokladny.</Dest>
     </String>
     <String List="2" sID="001E20">
       <EDID>[010295EA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Enjoy a rich, varied diet, locally-sourced from your colony's own hydroponic gardens. Just smell the freshness!</Source>
-      <Dest>Enjoy a rich, varied diet, locally-sourced from your colony's own hydroponic gardens. Just smell the freshness!</Dest>
+      <Dest>Užívejte si bohatou a pestrou stravu. Zásobovanou přímo z hydrophonické zahrady vaší kolonie. Jen přivoňte k té čerstvosti.</Dest>
     </String>
     <String List="2" sID="001E29">
       <EDID>[010295E3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Baked by the unrelenting sun, life on the surface of this remote, desolate world is all but impossible.</Source>
-      <Dest>Baked by the unrelenting sun, life on the surface of this remote, desolate world is all but impossible.</Dest>
+      <Dest>Spalována nepolevujícím sluncem. Život na povrchu tohoto vzdáleného světa je zkrátka nemožný.</Dest>
     </String>
     <String List="2" sID="001E32">
       <EDID>[010295E6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Join us on a journey into the future, where humanity has set out on a new voyage of discovery, seeking adventure among the stars.</Source>
-      <Dest>Join us on a journey into the future, where humanity has set out on a new voyage of discovery, seeking adventure among the stars.</Dest>
+      <Dest>Připojte se k nám, na cestě do budoucnosti, kde se lidstvo vydalo na novou objevitelskou výpravu, hledat dobrodružství, mezi hvězdami.</Dest>
     </String>
     <String List="2" sID="001E70">
       <EDID>[010295E8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Arcturus Prime, a frontier colony in the year 2291.</Source>
-      <Dest>Arcturus Prime, a frontier colony in the year 2291.</Dest>
+      <Dest>Arcturus Prime, pohraniční kolonie v roce 2291.</Dest>
     </String>
     <String List="2" sID="001E73">
       <EDID>[010295E4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>But life is possible... underground. Welcome to Vault-Tec's Colony Arcturus. Welcome Home.</Source>
-      <Dest>But life is possible... underground. Welcome to Vault-Tec's Colony Arcturus. Welcome Home.</Dest>
+      <Dest>Ale život možný je...a to podzemí. Vítejte do Vault-Tec kolinie Arcturus. Vítejte doma.</Dest>
     </String>
     <String List="2" sID="001E75">
       <EDID>[010295E2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>And these are no dark bunkers. Your colony will feature beautiful, expansive common areas, where you can relax in an Earth-like setting.</Source>
-      <Dest>And these are no dark bunkers. Your colony will feature beautiful, expansive common areas, where you can relax in an Earth-like setting.</Dest>
+      <Dest>A tohle nejsou žádné temné bunkry. Vaše kolonie nabídne nádherné, vybavené prostory, kde můžete relaxovat jako za podmínek na zemi.</Dest>
     </String>
     <String List="2" sID="001E77">
       <EDID>[010295E7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Step into your spacious private suite, equipped with all the comforts of home.</Source>
-      <Dest>Step into your spacious private suite, equipped with all the comforts of home.</Dest>
+      <Dest>Vejděte do vaší prostorné ubikace, vybavenou všemi komforty domova. </Dest>
     </String>
     <String List="2" sID="001E7C">
       <EDID>[010295EC]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Imagine a future Among the Stars. Imagine... Vault-Tec.</Source>
-      <Dest>Imagine a future Among the Stars. Imagine... Vault-Tec.</Dest>
+      <Dest>Představte si budoucnost mezi hvězdami. Představte si... Vault-Tec.</Dest>
     </String>
     <String List="2" sID="001E7E">
       <EDID>[010295EB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>And with Vault-Tec's cutting-edge science and technology, you can rest assured that your colony will have the resources to face any challenge.</Source>
-      <Dest>And with Vault-Tec's cutting-edge science and technology, you can rest assured that your colony will have the resources to face any challenge.</Dest>
+      <Dest>A se špičkovou vědou a technologií Vault-Tecu, si můžete být jisti, že vaše kolonie bude mít dostatek zásob, aby mohla čelit téměř jakémukoliv problému.</Dest>
     </String>
     <String List="2" sID="001E81">
       <EDID>[010295E9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>With Vault-Tec's modular construction techniques, new colonies can be established on almost any world in a matter of weeks.</Source>
-      <Dest>With Vault-Tec's modular construction techniques, new colonies can be established on almost any world in a matter of weeks.</Dest>
+      <Dest>S modulárními konstrukčními technologiemi Vault-Tecu, mohou být nové kolonie zřízeny na téměř jakékoliv planetě během pár týdnů.</Dest>
     </String>
     <String List="2" sID="001EB3">
       <EDID>[010295E5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>A thrilling new adventure awaits. Imagine hundreds of colonies, spread throughout the galaxy... and beyond.</Source>
-      <Dest>A thrilling new adventure awaits. Imagine hundreds of colonies, spread throughout the galaxy... and beyond.</Dest>
+      <Dest>Vzrušující nové dobrodružství čeká. Představte si stovky kolonií rozprostřených po celé galaxii... a ještě dál.</Dest>
     </String>
     <String List="2" sID="0021F8">
       <EDID>[0102EB58]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="2">INFO:NAM1</REC>
       <Source>Lucy was committed to an asylum.</Source>
-      <Dest>Lucy was committed to an asylum.</Dest>
+      <Dest>Lucy byla vzata do izolace.</Dest>
     </String>
     <String List="2" sID="0021F9">
       <EDID>[0102EB63]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>This is also where Lucy first attempted to kill her parents by poisoning the dessert.</Source>
-      <Dest>This is also where Lucy first attempted to kill her parents by poisoning the dessert.</Dest>
+      <Dest>Luci se zde také pokusila zabít své rodiče, tím, že jim otrávila dezert.</Dest>
     </String>
     <String List="2" sID="002200">
       <EDID>[0102EB50]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>We are not responsible for injuries of any guests attempting to crawl into the fireplaces.</Source>
-      <Dest>We are not responsible for injuries of any guests attempting to crawl into the fireplaces.</Dest>
+      <Dest>Neneseme žádnou zodpovědnost za zranění hostů, kteří se pokusí vlezt do ohniště.</Dest>
     </String>
     <String List="2" sID="002205">
       <EDID>[0102EB61]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Climbing on the ceiling furniture is strictly prohibited.</Source>
-      <Dest>Climbing on the ceiling furniture is strictly prohibited.</Dest>
+      <Dest>Lezení na stropní nábytek je přísně zakázané.</Dest>
     </String>
     <String List="2" sID="002208">
       <EDID>[0102EB53]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Their skins were found nailed to the undersides of the furniture.</Source>
-      <Dest>Their skins were found nailed to the undersides of the furniture.</Dest>
+      <Dest>Jejich kůže byly nalezeny napíchnuté ze spodní strany nábytku.</Dest>
     </String>
     <String List="2" sID="00220A">
       <EDID>[0102EB53]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>With no friends to speak of, she would capture small animals to play with.</Source>
-      <Dest>With no friends to speak of, she would capture small animals to play with.</Dest>
+      <Dest>Protože neměla žádné kamrády, chytala malá zvířata, aby si s nima hrála.</Dest>
     </String>
     <String List="2" sID="002213">
       <EDID>[0102EB64]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>As we pass back through the parlor, notice the stairway going nowhere.</Source>
-      <Dest>As we pass back through the parlor, notice the stairway going nowhere.</Dest>
+      <Dest>Jak jsme procházíme zpět přes salónek, všiměte si schodiště, které nikam nevede.</Dest>
     </String>
     <String List="2" sID="00221A">
       <EDID>[0102EB4D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Taking the advice of her psychic, she persuaded Hannibal to build fireplaces to drive the spirits from it.</Source>
-      <Dest>Taking the advice of her psychic, she persuaded Hannibal to build fireplaces to drive the spirits from it.</Dest>
+      <Dest>Na radu své psycholožky, přesvědčila Hannibala, aby postavil ohniště, které bude odhánět zlé duchy.</Dest>
     </String>
     <String List="2" sID="00221E">
       <EDID>[0102EB6D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hannibal's favorite cook quit when Lucy put mice in the stew.</Source>
-      <Dest>Hannibal's favorite cook quit when Lucy put mice in the stew.</Dest>
+      <Dest>Hannibalův oblíbený kuchař dal výpověď potom, co Luci dala myš do ragů.</Dest>
     </String>
     <String List="2" sID="002223">
       <EDID>[0102EB4F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Rooms such as this one were built to confuse the spirits, making it more difficult for them to find Lucy.</Source>
-      <Dest>Rooms such as this one were built to confuse the spirits, making it more difficult for them to find Lucy.</Dest>
+      <Dest>Místnosti jako tato, byly postaveny, aby zmátly démody a ztížily jim hledání Luci.</Dest>
     </String>
     <String List="2" sID="002229">
       <EDID>[0102EB50]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="00223A">
       <EDID>[0102EB60]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="2">INFO:NAM1</REC>
       <Source>Lucy's mother was found dead in the master bedroom with a cloth doll stuffed in her mouth.</Source>
-      <Dest>Lucy's mother was found dead in the master bedroom with a cloth doll stuffed in her mouth.</Dest>
+      <Dest>Luciina matka byla nalezena mrtvá v ložnici, s látkovou panenkou zastrčenou v puse.</Dest>
     </String>
     <String List="2" sID="00223C">
       <EDID>[0102EB60]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="2">INFO:NAM1</REC>
       <Source>Her wrists had rope burns, but no ropes were ever found.</Source>
-      <Dest>Her wrists had rope burns, but no ropes were ever found.</Dest>
+      <Dest>Na zápěstích měla popáleniny od provazu, ale žádný provaz se nikdy nenašel.</Dest>
     </String>
     <String List="2" sID="00223F">
       <EDID>[0102EB56]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>We'll never know for sure how it happened, but he was found with a pair of scissors driven through his eye and into his brain.</Source>
-      <Dest>We'll never know for sure how it happened, but he was found with a pair of scissors driven through his eye and into his brain.</Dest>
+      <Dest>Nikdy se nepodařilo zjistit, jak se to stalo, ale byl nalezený s nůžkami zabodnutými v zkrz oko do mozku.</Dest>
     </String>
     <String List="2" sID="002242">
       <EDID>[0102EB4E]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>She said he tripped and fell onto the scissors.</Source>
-      <Dest>She said he tripped and fell onto the scissors.</Dest>
+      <Dest>Říkala, že zakopl a spadl na ně.</Dest>
     </String>
     <String List="2" sID="00224F">
       <EDID>[0102EB5C]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>As a young child, Lucy proves difficult for her elderly parents.</Source>
-      <Dest>As a young child, Lucy proves difficult for her elderly parents.</Dest>
+      <Dest>Jako mladá, se Luci stala velice náročnou pro její postarší rodiče.</Dest>
     </String>
     <String List="2" sID="002259">
       <EDID>[0102EB5F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>After impaling his foot on a rusty spike that was mysteriously driven into his shoe, Hannibal came to Lucy's room to punish her for the prank.</Source>
-      <Dest>After impaling his foot on a rusty spike that was mysteriously driven into his shoe, Hannibal came to Lucy's room to punish her for the prank.</Dest>
+      <Dest>Po té, co si probodl chodilo o rezavý hřebík, který byl záhadně zastrčen v jeho botě, Šel Hannibal do Luciina pokoje, aby ji za ten žert potrestal.</Dest>
     </String>
     <String List="2" sID="002261">
       <EDID>[0102EB65]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="002269">
       <EDID>[0102EB73]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>There is no need to be scared. Modern science has proven that ghosts are not real and seances are fake.</Source>
-      <Dest>There is no need to be scared. Modern science has proven that ghosts are not real and seances are fake.</Dest>
+      <Dest>Není se čeho bát. Moderní věda dokázala, že duchové neexistují a seance jsou podvod.</Dest>
     </String>
     <String List="2" sID="00226A">
       <EDID>[0102EB5D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Lucy would sit in the room above this one and knock on the ceiling during seances.</Source>
-      <Dest>Lucy would sit in the room above this one and knock on the ceiling during seances.</Dest>
+      <Dest>Luci sedávala v místnosti nad nimi a během seancí klepala do stropu.</Dest>
     </String>
     <String List="2" sID="00227A">
       <EDID>[0102EB52]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>It is not permitted to dangle small children over the railing as you proceed to the next room.</Source>
-      <Dest>It is not permitted to dangle small children over the railing as you proceed to the next room.</Dest>
+      <Dest>Během přesunu do další místnosti, je dětem zakázáno houpat se na zábradlí.</Dest>
     </String>
     <String List="2" sID="00227D">
       <EDID>[0102EB65]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>No shoving or pushing. Disruptive behavior will result in being removed from the Grandchester Mystery Mansion.</Source>
       <Dest>Bez strkání nebo tlačení. Rušivé chování bude mít za následek vykázání z Tajemného sídla Grandchesterů.</Dest>
     </String>
@@ -743,67 +743,67 @@
       <EDID>[0102EB67]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Morticia was soon convinced her daughter was possessed.</Source>
-      <Dest>Morticia was soon convinced her daughter was possessed.</Dest>
+      <Dest>Mortyša byla brzy přesvědčená, že její dcera byla posedlá.</Dest>
     </String>
     <String List="2" sID="002286">
       <EDID>[0102EB5E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hannibal was certain he could beat the evil out of her.</Source>
-      <Dest>Hannibal was certain he could beat the evil out of her.</Dest>
+      <Dest>Hannibal si byl jistý, že z ní to zlo dokáže vymlátit.</Dest>
     </String>
     <String List="2" sID="002292">
       <EDID>[0102EB51]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Morticia nearly dies giving birth to their only child, Lucy.</Source>
-      <Dest>Morticia nearly dies giving birth to their only child, Lucy.</Dest>
+      <Dest>Morticia během Luciina porodu málem zemřela.</Dest>
     </String>
     <String List="2" sID="002296">
       <EDID>[0102EB72]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>In this very room her mother read her stories by Shelley and Poe, and histories of the Borgias.</Source>
-      <Dest>In this very room her mother read her stories by Shelley and Poe, and histories of the Borgias.</Dest>
+      <Dest>Přesně v této místnosti, si její matka čítavala příběhy Shelleyho, Poa a histirii o Borgiasovi.</Dest>
     </String>
     <String List="2" sID="00229D">
       <EDID>[0102EB69]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Guests are not allowed to remove items as souvenirs.</Source>
-      <Dest>Guests are not allowed to remove items as souvenirs.</Dest>
+      <Dest>Návštěvníci nejsou oprávněni odnášet si předměty, jako suvenýry.</Dest>
     </String>
     <String List="2" sID="0022A0">
       <EDID>[0102EB58]</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="2">INFO:NAM1</REC>
       <Source>Nine days later she was found hanging in the attic, dead from an apparent suicide.</Source>
-      <Dest>Nine days later she was found hanging in the attic, dead from an apparent suicide.</Dest>
+      <Dest>O devět dní později, byla nalezena na půdě, houpající se na oprátce. Očividně spáchala sebevraždu.</Dest>
     </String>
     <String List="2" sID="0022A1">
       <EDID>[0102EB68]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="0022A5">
       <EDID>[0102EB59]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hannibal walked with a cane after that. Lucy quickly learned to stay out of range of his swing.</Source>
-      <Dest>Hannibal walked with a cane after that. Lucy quickly learned to stay out of range of his swing.</Dest>
+      <Dest>Hannibal potom chodil s holí. Luci se rychle naučila být z dosahu jeho ran.</Dest>
     </String>
     <String List="2" sID="0022A7">
       <EDID>[0102EB6C]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>One morning Hannibal came in here to find a doll that looked suspiciously like him swinging from a noose.</Source>
-      <Dest>One morning Hannibal came in here to find a doll that looked suspiciously like him swinging from a noose.</Dest>
+      <Dest>Jednoho rána našel Hannibal v jejím pokoji panenku, která vypadala přesně jako on, jak se houpe na oprátce.</Dest>
     </String>
     <String List="2" sID="0022A9">
       <EDID>[0102EB71]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Madam Scarlotta conducted seances in this room for Morticia in an attempt to drive the evil spirits from her daughter.</Source>
-      <Dest>Madam Scarlotta conducted seances in this room for Morticia in an attempt to drive the evil spirits from her daughter.</Dest>
+      <Dest>Madam Scarlotta prováděla v této místnosti pro Mortyšu seance, ve snaze odehnat zlé duchy od její dcery.</Dest>
     </String>
     <String List="2" sID="0022AC">
       <EDID>[0102EB58]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="2">INFO:NAM1</REC>
       <Source>On her eighteenth birthday she escaped.</Source>
-      <Dest>On her eighteenth birthday she escaped.</Dest>
+      <Dest>Ale na své osmnácté narozeniny utekla.</Dest>
     </String>
     <String List="2" sID="0022AF">
       <EDID>[0102EB5A]</EDID>
@@ -813,195 +813,195 @@
     </String>
     <String List="2" sID="0022B1">
       <EDID>[0102EB60]</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="2">INFO:NAM1</REC>
       <Source>Lucy insisted that the doll was solely responsible because Morticia wouldn't give her a kiss goodnight.</Source>
-      <Dest>Lucy insisted that the doll was solely responsible because Morticia wouldn't give her a kiss goodnight.</Dest>
+      <Dest>Luci trvala na tom, že za to může panenka, protože ji Mortyša nedala pusu na dobrou noc.</Dest>
     </String>
     <String List="2" sID="0022B2">
       <EDID>[0102EB5B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>This was yet another attempt by Morticia to confuse the evil spirits possessing her daughter.</Source>
-      <Dest>This was yet another attempt by Morticia to confuse the evil spirits possessing her daughter.</Dest>
+      <Dest>Tohle byl jen další Mortyššin pokus zmást zlé duchy ovládající její dceru.</Dest>
     </String>
     <String List="2" sID="0022B9">
       <EDID>[0102EB66]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>When the Grandchester Mystery Mansion was sold at auction, several trick candles where found here.</Source>
-      <Dest>When the Grandchester Mystery Mansion was sold at auction, several trick candles where found here.</Dest>
+      <Dest>Když bylo Tajemné sídlo Grandchesterů prodáno v aukci, bylo zde nalezeno několik falešných svíček.</Dest>
     </String>
     <String List="2" sID="0022C1">
       <EDID>[0102EB57]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Morticia's psychic insisted that Lucy could be saved by driving out her evil spirts.</Source>
-      <Dest>Morticia's psychic insisted that Lucy could be saved by driving out her evil spirts.</Dest>
+      <Dest>Mortyšina psycholožka trvala na tom, že Lucy může být zachráněna zbavením jí zlých důchů.</Dest>
     </String>
     <String List="2" sID="0022C4">
       <EDID>[0102EB4E]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Lucy claimed she was holding them in self defense as he tried to beat her with his cane.</Source>
-      <Dest>Lucy claimed she was holding them in self defense as he tried to beat her with his cane.</Dest>
+      <Dest>Luci tvrdila, že je držela v sebeobraně, když se jí pokoušel být holí.</Dest>
     </String>
     <String List="2" sID="0022CE">
       <EDID>[0102EB54]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Madam Scarlotta once accused the little girl of trying to push her down the stairs.</Source>
-      <Dest>Madam Scarlotta once accused the little girl of trying to push her down the stairs.</Dest>
+      <Dest>Madam Scarlotta jednou obvinila mladou dívku, že se jí pokoušela schodit ze schodů.</Dest>
     </String>
     <String List="2" sID="0022D4">
       <EDID>[0102EB70]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Hannibal never wanted a child, and resents the young girl for the near death of his wife.</Source>
-      <Dest>Hannibal never wanted a child, and resents the young girl for the near death of his wife.</Dest>
+      <Dest>Hannibal dítě nikdy něchtěl a když jeho žena málem zemřela při porodu, začal k ní cítit odpor.</Dest>
     </String>
     <String List="2" sID="0022D6">
       <EDID>[0102EB6B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>When asked why his fingers had all been cut off, she replied that it was so he couldn't hold the cane again.</Source>
-      <Dest>When asked why his fingers had all been cut off, she replied that it was so he couldn't hold the cane again.</Dest>
+      <Dest>Když se jí zeptali, proč má uříznuté všechny prsty, odpověděla, že proto, aby už nikdy nemohl držet hůl.</Dest>
     </String>
     <String List="2" sID="0022D9">
       <EDID>[0102EB6E]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Guests are asked to refrain from using the kitchen spoons as swords and dueling with them.</Source>
-      <Dest>Guests are asked to refrain from using the kitchen spoons as swords and dueling with them.</Dest>
+      <Dest>Prosíme návštěvníky, aby se zdrželi používání kuchyňských lžiček jako meče a šermovali s nimi.</Dest>
     </String>
     <String List="2" sID="0022DA">
       <EDID>[0102EB55]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Moritica complained every morning of ghostly chills afflicting her in this very hall.</Source>
-      <Dest>Moritica complained every morning of ghostly chills afflicting her in this very hall.</Dest>
+      <Dest>Mortyša si stěžovala na podivné mrazení, které ji postihovalo přesně v této hale.</Dest>
     </String>
     <String List="2" sID="0022E3">
       <EDID>[0102FE2C]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>For adults, functional replicas are available.</Source>
-      <Dest>For adults, functional replicas are available.</Dest>
+      <Dest>Pro dospělé, je k dispozici funkční replika.</Dest>
     </String>
     <String List="2" sID="00234B">
       <EDID>[0102FE2C]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>What child would not want to play with a toy boning knife like the one Lucy used to skin small animals?</Source>
-      <Dest>What child would not want to play with a toy boning knife like the one Lucy used to skin small animals?</Dest>
+      <Dest>Které dítě, by si nechtělo hrát s nožem, jako byl ten, který Luci používala na stahování malých zvířátek z kůže.</Dest>
     </String>
     <String List="2" sID="002353">
       <EDID>[0102FE2F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>When you are done browsing, please proceed to the next room.</Source>
-      <Dest>When you are done browsing, please proceed to the next room.</Dest>
+      <Dest>Až se dostatečně vynadíváte, prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="00235F">
       <EDID>[0102EB6E]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="00236E">
       <EDID>[0102FE2E]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>In this room you will see the collected artifacts from Lucy Grandchester's short time on this earth.</Source>
-      <Dest>In this room you will see the collected artifacts from Lucy Grandchester's short time on this earth.</Dest>
+      <Dest>V této místnosti uvidíte kolekci památek z Luciina krátkeho života na tomto světě.</Dest>
     </String>
     <String List="2" sID="002370">
       <EDID>[0102EB69]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="0023AE">
       <EDID>[0102FE2D]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Replicas of these items may be purchased in the souvenir shop.</Source>
-      <Dest>Replicas of these items may be purchased in the souvenir shop.</Dest>
+      <Dest>Repliky těchto věcí mouhou být zakoupeny v obchodě se suvenýry.</Dest>
     </String>
     <String List="2" sID="0023CF">
       <EDID>[0102EB61]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="0027B9">
       <EDID>[01032F79]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Are you ready... for thrilling battles?</Source>
-      <Dest>Are you ready... for thrilling battles?</Dest>
+      <Dest>Jste připraveni... na vzrušující souboje?</Dest>
     </String>
     <String List="2" sID="0027BD">
       <EDID>[01032F7A]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Welcome to the RobCo Battlezone! Please find a seat. Our next show begins in just *static* minutes.</Source>
-      <Dest>Welcome to the RobCo Battlezone! Please find a seat. Our next show begins in just *static* minutes.</Dest>
+      <Dest>Vítejte v Bojové zóně RobCo! prosím posaďte se. Naše další šou začne už za pět minut.</Dest>
     </String>
     <String List="2" sID="0027BF">
       <EDID>[01032F76]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ladies and gentlemen!</Source>
-      <Dest>Ladies and gentlemen!</Dest>
+      <Dest>Dámy a pánové!</Dest>
     </String>
     <String List="2" sID="0027C5">
       <EDID>[01032F7B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Are you ready... to see the latest robots fight it out in the ultimate showcase?</Source>
-      <Dest>Are you ready... to see the latest robots fight it out in the ultimate showcase?</Dest>
+      <Dest>Jste připravení... vidět nejnovější roboty, bojovat v ultimátní aréně?</Dest>
     </String>
     <String List="2" sID="0027C7">
       <EDID>[01032F73]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>What a fight! What a fight! We hope you enjoyed the show.</Source>
-      <Dest>What a fight! What a fight! We hope you enjoyed the show.</Dest>
+      <Dest>Jaká to bitva! Jaká to bitva! Doufáme, že jste si užili šou.</Dest>
     </String>
     <String List="2" sID="0027C8">
       <EDID>[01032F74]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Are you ready... for incredible action?</Source>
-      <Dest>Are you ready... for incredible action?</Dest>
+      <Dest>Jste připraveni... na fantastickou podívanou?</Dest>
     </String>
     <String List="2" sID="0027C9">
       <EDID>[01032F78]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please exit through the doors on the lower level. Don't forget to stop by the RobCo Gift Shop to pick up your very own souvenir from today's fight.</Source>
-      <Dest>Please exit through the doors on the lower level. Don't forget to stop by the RobCo Gift Shop to pick up your very own souvenir from today's fight.</Dest>
+      <Dest>Prosím, odcházejte přes dveře v přízemí. Nezapomeňte se stavit v RobCo ochodu se suvenýry a vybrat si nějaký pěkný suvenýr z dnešního boje.</Dest>
     </String>
     <String List="2" sID="0027CA">
       <EDID>[01032F75]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Then it's time... for the RobCo Battlezone!</Source>
-      <Dest>Then it's time... for the RobCo Battlezone!</Dest>
+      <Dest>Pak je čas, pro bojovou zónu RobCo! </Dest>
     </String>
     <String List="2" sID="0027D1">
       <EDID>[01032F77]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Thank you for visiting the RobCo Battlezone!</Source>
-      <Dest>Thank you for visiting the RobCo Battlezone!</Dest>
+      <Dest>Děkujeme, že jste navštívili Bojovou zónu RobCo.</Dest>
     </String>
     <String List="2" sID="0027D8">
       <EDID>[010330E3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>For more information, or to sign up for the Vault program, please see a sales associate. Thank you, and enjoy your day here at Nuka-World.</Source>
-      <Dest>For more information, or to sign up for the Vault program, please see a sales associate. Thank you, and enjoy your day here at Nuka-World.</Dest>
+      <Dest>Pro více informací, nebo pro možnost přihlásit se do Vault-Tec programu, prosím navštivte našeho obchodního zástupce. Děkujeme vám a užijte si váš den, zde v Nuka Worldu.</Dest>
     </String>
     <String List="2" sID="002BE4">
       <EDID>[010379A1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please proceed to the next room.</Source>
-      <Dest>Please proceed to the next room.</Dest>
+      <Dest>Prosím pokračujte do další místnosti.</Dest>
     </String>
     <String List="2" sID="002C51">
       <EDID>[010383D2]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please remain seated with your seat belt fastened. Keep hands and feet inside the car at all times. Nuka-World is not responsible for lost change, items, and/or limbs.</Source>
-      <Dest>Prosím, zůstaňte sedět s připnutým bezpečnostním pásem. Mějte ruce a nohy za všech okolností ve vozidle. Nuka-World není odpovědný za ztracené mince, předměty, nebo končetiny.</Dest>
+      <Dest>Prosím, zůstaňte sedět s připnutým bezpečnostním pásem. Mějte ruce a nohy za všech okolností ve vozidle. Nuka World není odpovědný za ztracené mince, předměty, nebo končetiny.</Dest>
     </String>
     <String List="2" sID="002C54">
       <EDID>[010383D3]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Go cool off with a refreshing Ice-Cold Nuka-Cola. Then come again for another thrilling adventure in the Nuka-Galaxy!</Source>
-      <Dest>Go cool off with a refreshing Ice-Cold Nuka-Cola. Then come again for another thrilling adventure in the Nuka-Galaxy!</Dest>
+      <Dest>Běž se zchladit osvěžujícní ledově vychlazenou Nuka-Colou. Pak se vrať a zažij další napínavé dobrodružství v Nuka-Galaxy!</Dest>
     </String>
     <String List="2" sID="002C64">
       <EDID>[010383CB]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Ambush! Dive, dive, dive!</Source>
-      <Dest>Ambush! Dive, dive, dive!</Dest>
+      <Dest>Přepadení! Klesnout! Klesnout! Klesnout!</Dest>
     </String>
     <String List="2" sID="002C68">
       <EDID>[010383CC]</EDID>
@@ -1013,49 +1013,49 @@
       <EDID>[010383CE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Nice flying, cadets.</Source>
-      <Dest>Nice flying, cadets.</Dest>
+      <Dest>Skvělý let, kadeti!</Dest>
     </String>
     <String List="2" sID="002C72">
       <EDID>[010383CF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Quantum Speed!</Source>
-      <Dest>Quantum rychlost!</Dest>
+      <Dest>Kvantová rychlost!</Dest>
     </String>
     <String List="2" sID="002C7E">
       <EDID>[010383D4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Please remain seated until the ride comes to a full and complete stop. Collect your belongings and watch your step as you exit the ride.</Source>
-      <Dest>Please remain seated until the ride comes to a full and complete stop. Collect your belongings and watch your step as you exit the ride.</Dest>
+      <Dest>Prosím zůstaňte na svým sedladlech, dokud atrakce zcela nezastaví. Vezměte si své věci a dávejte pozor kam šlapete při opouštění prostoru.</Dest>
     </String>
     <String List="2" sID="002C7F">
       <EDID>[010383D1]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Fuel up with Nuka-Cola Quantum and prepare to Blast Off for Adventure in the Nuka-Galaxy!</Source>
-      <Dest>Fuel up with Nuka-Cola Quantum and prepare to Blast Off for Adventure in the Nuka-Galaxy!</Dest>
+      <Dest>Natankuj se Nuka-Colou Quantum a připrav se odstartovat vztříc dobrodružství v Nuka-Galaxy.</Dest>
     </String>
     <String List="2" sID="002C82">
       <EDID>[010383C4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Welcome back, cadets.</Source>
-      <Dest>Welcome back, cadets.</Dest>
+      <Dest>Vítejte zpět, kadeti.</Dest>
     </String>
     <String List="2" sID="002C85">
       <EDID>[010383D0]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>This is Airlock 3. Cadets, you are clear for departure.</Source>
-      <Dest>This is Airlock 3. Cadets, you are clear for departure.</Dest>
+      <Dest>Tady je komora 3. Kadeti, jste připraveni na odlet.</Dest>
     </String>
     <String List="2" sID="002C92">
       <EDID>[010383C5]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Nice work, cadets! Let's head home.</Source>
-      <Dest>Nice work, cadets! Let's head home.</Dest>
+      <Dest>Skvělá práce, kadeti! Vydejme se zpět na základnu.</Dest>
     </String>
     <String List="2" sID="002CA2">
       <EDID>[010383C6]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Fire!</Source>
-      <Dest>Oheň!</Dest>
+      <Dest>Palte!</Dest>
     </String>
     <String List="2" sID="002CA3">
       <EDID>[010383C7]</EDID>
@@ -1067,37 +1067,37 @@
       <EDID>[010383C8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Lock in for pursuit! Blast off!</Source>
-      <Dest>Lock in for pursuit! Blast off!</Dest>
+      <Dest>Zaměřuji cíl pronásledování! Zážeh!</Dest>
     </String>
     <String List="2" sID="002CB5">
       <EDID>[010383CD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Asteroids! Look out!</Source>
-      <Dest>Asteroids! Look out!</Dest>
+      <Dest>Asteroidy! Dávej pozor!</Dest>
     </String>
     <String List="2" sID="002CB7">
       <EDID>[010383C9]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Keep going! Push them back!</Source>
-      <Dest>Keep going! Push them back!</Dest>
+      <Dest>Nepřestávejte! Zatlačte je zpátky!</Dest>
     </String>
     <String List="2" sID="002CCF">
       <EDID>[010383CA]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Open fire! Defend the colony!</Source>
-      <Dest>Open fire! Defend the colony!</Dest>
+      <Dest>Zahajte palbu! Braňte kolonii!</Dest>
     </String>
     <String List="2" sID="00331A">
       <EDID>DLC04_MS03_EnterHouse</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Kicking or spray painting the animatronic models is prohibited.</Source>
-      <Dest>Kicking or spray painting the animatronic models is prohibited.</Dest>
+      <Dest>Kopání, nebo sprejování na animatronické modely je zakázáno.</Dest>
     </String>
     <String List="2" sID="003327">
       <EDID>[0103F989]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Marvel at the animatronic models.</Source>
-      <Dest>Marvel at the animatronic models.</Dest>
+      <Dest>Obdivujte animatronické modely.</Dest>
     </String>
     <String List="2" sID="0034F6">
       <EDID>DLC04MS03_LucyLaughs</EDID>
@@ -1109,7 +1109,7 @@
       <EDID>DLC04GZNukaGalaxyShared_QuantumSpeedDUPLICATE000DUPLICATE000</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Steady!</Source>
-      <Dest>Připravit!</Dest>
+      <Dest>Opatrně!</Dest>
     </String>
     <String List="2" sID="003F9A">
       <EDID>[0104A182]</EDID>
@@ -1121,31 +1121,31 @@
       <EDID>[0104A183]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>What a show! Can anything challenge the Galactron? Get ready to find out. It's time for a head-to-head matchup with the mighty Novatron!</Source>
-      <Dest>Jaká to šou! Může něco soupeřit s galaktronem? Připravte se to zjistit. Je čas boje hlava na hlavu s mohutným novatronem!</Dest>
+      <Dest>Jaká to šou! Může něco soupeřit s galaktronem? Připravte se to zjistit. Je čas boje hlava na hlavu s mocným novatronem!</Dest>
     </String>
     <String List="2" sID="003FA1">
       <EDID>[0104A181]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Incredible! Do you want more? Well, we'll give you more! Here they come-- two state-of-the-art Novatrons!</Source>
-      <Dest>Incredible! Do you want more? Well, we'll give you more! Here they come-- two state-of-the-art Novatrons!</Dest>
+      <Dest>Úžasnsné! Chtěli byste víc? To totiž není všecho! A tady je máme, dva supermoderní Novatroni!</Dest>
     </String>
     <String List="2" sID="003FA2">
       <EDID>[0104A180]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>And now... the fight you've all been waiting for. The ultimate in high-end robotic engineering. The one... The only...</Source>
-      <Dest>And now... the fight you've all been waiting for. The ultimate in high-end robotic engineering. The one... The only...</Dest>
+      <Dest>A nyní... Boj na který jste všichni čekali. Naprostá špička robotického inženýrství. Ten... Jedinečný...</Dest>
     </String>
     <String List="2" sID="003FA3">
       <EDID>[0104A17F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>RobCo Space Sentry!</Source>
-      <Dest>RobCo předváleční strážní roboti!</Dest>
+      <Dest>RobCo vesmírní strážní roboti!</Dest>
     </String>
     <String List="2" sID="003FA5">
       <EDID>[0104A07F]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Quantum Speed!</Source>
-      <Dest>Quantum rychlost!</Dest>
+      <Dest>Kvantová rychlost!</Dest>
     </String>
     <String List="2" sID="003FA8">
       <EDID>DLC04GZNukaGalaxyShared_QuantumSpeedDUPLICATE000</EDID>
@@ -1157,7 +1157,7 @@
       <EDID>DLC04GZNukaGalaxyShared_QuantumSpeed</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Quantum Speed!</Source>
-      <Dest>Quantum rychlost!</Dest>
+      <Dest>Kvantová rychlost!</Dest>
     </String>
     <String List="2" sID="003FAC">
       <EDID>DLC04GZNukaGalaxyShared_FireThrusters</EDID>
@@ -1169,7 +1169,7 @@
       <EDID>[0104BF30]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Remember to purchase a memento of your visit at the gift shop.</Source>
-      <Dest>Remember to purchase a memento of your visit at the gift shop.</Dest>
+      <Dest>Nezapomeňte si koupit památku v obchodě se suvenýry.</Dest>
     </String>
     <String List="2" sID="0042BF">
       <EDID>[0104BF32]</EDID>
@@ -1181,7 +1181,7 @@
       <EDID>DLC04GrandchesterSharedInfo01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Understood. Please exit the line.</Source>
-      <Dest>Understood. Please exit the line.</Dest>
+      <Dest>Rozumím. Prosím opusťte frontu.</Dest>
     </String>
     <String List="2" sID="0042CC">
       <EDID>[0104BF31]</EDID>
@@ -1199,13 +1199,13 @@
       <EDID>[0104C7EF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Grandchester is mine!</Source>
-      <Dest>Grandchester is mine!</Dest>
+      <Dest>Sídlo Grandchesterů je moje!</Dest>
     </String>
     <String List="2" sID="0043D9">
       <EDID>[0104C7EE]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>How the hell did you survive all my traps?</Source>
-      <Dest>How the hell did you survive all my traps?</Dest>
+      <Dest>Jak se ti sakra podařilo dostat přes všechny moje pasti?</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
