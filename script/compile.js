@@ -12,9 +12,10 @@ program.
     description('Compile translations into final STRINGS files.').
     option('-t, --target <directory>', 'target output directory [target/Strings]').
     option('-s, --shadow <directory>', 'shadow translation source directory').
-    option('-u, --unaccent', 'remove all accents from translation strings').
+    option('-u, --unaccent', 'remove accents from translation strings').
     option('-p, --partial', 'include partial translations').
     option('-d, --debug', 'prepend string identifiers to translations').
+    option('-r, --review', 'create strings suitable for Creation Kit review').
     parse(process.argv);
 
 if (program.args.length < 1) {
@@ -70,6 +71,10 @@ function renderString(string) {
                 UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType)) ||
                 UNACCENT_EDIDS.indexOf(string.EDID[0]) > -1
             );
+    if (program.review) {
+        result = string.Source[0] + '|' + result;
+        unaccent = true;
+    }
     return unaccent ? latinize(result) : result;
 }
 

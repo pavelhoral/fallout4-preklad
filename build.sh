@@ -47,6 +47,9 @@ function run_compile {
     if [[ -v UNACCENT ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -u"
     fi
+    if [[ -v REVIEW ]]; then
+        COMPILE_OPTS="$COMPILE_OPTS -r"
+    fi
     script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
 }
 
