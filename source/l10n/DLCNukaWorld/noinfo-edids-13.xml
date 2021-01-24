@@ -677,7 +677,7 @@
       <EDID>DLC04WorkshopRaiderPickMeUpStation</EDID>
       <REC>CONT:FULL</REC>
       <Source>Pick-Me-Up Station</Source>
-      <Dest>Stanoviště povzbuzováků</Dest>
+      <Dest>Automat na povzbuzováky</Dest>
     </String>
     <String List="0" sID="0027FD">
       <EDID>DLC04SafariAdventure_ReptileHouseLocation</EDID>
@@ -2473,8 +2473,7 @@ Takže si vezměte svačinu, ledově vychlazenou Nuka-Colu, posaďte se a relaxu
       <EDID>DLC04TutorialRaiderMap01</EDID>
       <REC>MESG:DESC</REC>
       <Source>All Raider outposts have a range of influence. To see an outpost's range, move your cursor over it on your map. Settlements that swap their icons are within range.</Source>
-      <Dest>Každá základna nájezdníků má oblast vlivu. Pro zjištění dosahu přesuň na mapě kurzor nad základnu. Osady, které změní ikonu jsou v dosahu.&#xD;
-</Dest>
+      <Dest>Každá základna nájezdníků má sféru vlivu. Pro zjištění dosahu přesuň na mapě kurzor nad základnu. Osady, které změní ikonu jsou v dosahu.</Dest>
     </String>
     <String List="1" sID="003275">
       <EDID>DLC04TutorialClearRaiderOutpost01</EDID>
@@ -2492,13 +2491,13 @@ Takže si vezměte svačinu, ledově vychlazenou Nuka-Colu, posaďte se a relaxu
       <EDID>DLC04WorkshopPickMeUpMessageEmptyProducing</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Pick-Me-Up Station needs time to produce chems.</Source>
-      <Dest>Stanoviště povzbuzováků potřebuje pro produkci drog čas.</Dest>
+      <Dest>Automat na povzbuzováky potřebuje pro produkci drog čas.</Dest>
     </String>
     <String List="1" sID="0037DD">
       <EDID>DLC04WorkshopPickMeUpMessageEmptyNotProducing</EDID>
       <REC>MESG:DESC</REC>
       <Source>The Pick-Me-Up Station needs power to produce chems.</Source>
-      <Dest>Stanoviště povzbuzováků potřebuje pro produkci drog energii.</Dest>
+      <Dest>Automat na povzbuzováky potřebuje pro produkci drog energii.</Dest>
     </String>
     <String List="1" sID="003E0D">
       <EDID>DLC04WorkshopRedRocketUnownedMessage</EDID>
