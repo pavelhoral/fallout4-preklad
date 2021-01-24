@@ -1439,13 +1439,13 @@
       <EDID>[01025AF8]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>So, these sorts of jobs are pretty straightforward. Move in, kill everything in sight.</Source>
-      <Dest>No, tenhle druh práce je docela přímočarý. Vejdeš, vše pozabíjíš, odejdeš.</Dest>
+      <Dest>No, tenhle druh práce je docela přímočarý. Dorazíš na místo a vše pozabíjíš.</Dest>
     </String>
     <String List="2" sID="00195E">
       <EDID>[01025AF7]</EDID>
       <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Now, if you're looking for something to give you an extra edge, might be worth checking in with some of the gang bosses.</Source>
-      <Dest>Pokud sháníš něco, co by ti poskytlo výhodu, možná stojí za to promluvit si s šéfy ostatních gangů.</Dest>
+      <Dest>Pokud hledáš něco, co by ti poskytlo dodatečnou výhodu, možná stojí za to promluvit si s šéfy jednotlivých gangů.</Dest>
     </String>
     <String List="2" sID="001AFC">
       <EDID>DLC04RaidOwndershipShankNeutralShared01</EDID>
@@ -1475,13 +1475,13 @@
       <EDID>[010276FD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Oh. That place. Aren't they your chums or something? Sure that's the one?</Source>
-      <Dest>Oh. Tamto místo. Nejsou to náhodou tví kámoši nebo podobně? Skutečně tohle místo?</Dest>
+      <Dest>Oh. Tamto místo. Nejsou to náhodou tví kámoši nebo tak něco? Opravdu tohle místo?</Dest>
     </String>
     <String List="2" sID="001B54">
       <EDID>DLC04RaidOwndershipShankQuestionShared01</EDID>
       <REC id="0" idMax="2">INFO:NAM1</REC>
       <Source>Only if you want to keep control of it.</Source>
-      <Dest>Jedině, pokud si chceš udržet kontrolu nad tím místem.</Dest>
+      <Dest>Jedině, pokud si chceš nad tím místem udržet kontrolu.</Dest>
     </String>
     <String List="2" sID="001B95">
       <EDID>DLC04RaidOwndershipPlayerConfirmAShared01</EDID>
@@ -1559,7 +1559,7 @@
       <EDID>DLC04RaidOwndershipShankQuestionShared01</EDID>
       <REC id="1" idMax="2">INFO:NAM1</REC>
       <Source>Targeting a settlement for a job is going to break whatever connections you might've had to the place.</Source>
-      <Dest>Vybráním osady jako cíl mise přerušíš veškeré vazby, které s tímto místem můžeš mít.</Dest>
+      <Dest>Vybráním osady za cíl práce přerušíš veškeré vazby, které s tím místem případně máš.</Dest>
     </String>
     <String List="2" sID="001C90">
       <EDID>DLC04RaidOwndershipShankNeutralShared02</EDID>
@@ -1577,7 +1577,7 @@
       <EDID>[01028840]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Place is infested. Was hoping to get some real blood on my hands, but I don't mind a little exterminating.</Source>
-      <Dest>Místo je zamořené. Chtěla jsem si pořádně zakrvavit ruce, ale trocha deratizace mi nevadí.</Dest>
+      <Dest>Místo je zamořené. Těšila jsem se na pořádnou krvavou řežbu, ale malinkou deratizací taky nepohrdnu.</Dest>    
     </String>
     <String List="2" sID="001E1A">
       <EDID>[01029D2E]</EDID>
@@ -2357,7 +2357,7 @@
       <EDID>[01041E1B]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Preparations are all set. You just let us know when you want us to get started crippling some settlers and putting holes in their friends.</Source>
-      <Dest>Vše je připraveno. Dej nám vědět, kdy můžem začít mrzačit osadníky a proděravět jejich kamarády.</Dest>
+      <Dest>Vše je připraveno. Dej nám vědět, kdy můžem začít mrzačit osadníky a dělat z jejich kamarádů cedníky.</Dest>
     </String>
     <String List="2" sID="00367B">
       <EDID>DLC04MQ04ShankWaitingForInputSharedInfo01</EDID>
@@ -2928,7 +2928,7 @@
       <EDID>[01056914]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Lot of gangs have trouble with the whole "don't kill the hand that feeds you" thing. Rather just loot and pillage until they starve.</Source>
-      <Dest>Spousta gangů nechápe věc jako „nezabíjej ruku, která tě krmí“. Raději budou drancovat a plundrovat než sami vyhladoví.</Dest>
+      <Dest>Spousta gangů nechápe, že „nesmíš zabíjet ruku, která tě krmí“. Raději budou drancovat a plundrovat, až sami vyhladoví.</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
