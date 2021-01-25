@@ -29,7 +29,7 @@
       <EDID>[01013A2C]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>I Don't Like Nuka-Cola</Source>
-      <Dest>Nuka-Cola mi nechutná.</Dest>
+      <Dest>Nuka-Cola mi nechutná</Dest>
     </String>
     <String List="0" sID="000BA8">
       <EDID>[01013A2A]</EDID>
@@ -323,13 +323,13 @@
       <EDID>[0102B070]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Fellow Nuka-Cola Fan</Source>
-      <Dest>Taky jsem Nuka-Cola fanda</Dest>
+      <Dest>Taky jsem fanda Nuka-Coly</Dest>
     </String>
     <String List="0" sID="002335">
       <EDID>[01030098]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>Purpose of Your Visit?</Source>
-      <Dest>Důvod tvé návštěvy zde</Dest>
+      <Dest>Důvod tvé návštěvy?</Dest>
     </String>
     <String List="0" sID="002396">
       <EDID>[01030094]</EDID>
@@ -407,7 +407,7 @@
       <EDID>[0103F855]</EDID>
       <REC>INFO:RNAM</REC>
       <Source>That Sounds Extreme</Source>
-      <Dest>To zní extrémně</Dest>
+      <Dest>To zní přehnaně</Dest>
     </String>
     <String List="0" sID="00330B">
       <EDID>[0103F856]</EDID>
@@ -479,7 +479,7 @@
       <EDID>[01013A2E]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>What?! Really?</Source>
-      <Dest>Cože?! To fakt?</Dest>
+      <Dest>Cože?! Fakt?</Dest>
     </String>
     <String List="2" sID="000B57">
       <EDID>[01013A1B]</EDID>
@@ -491,7 +491,7 @@
       <EDID>[01013A13]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>You've just made my day. Here, let me return the favor. It's not really cold any more, but I'm sure it still tastes great!</Source>
-      <Dest>To mi udělalo fakt radost Tady, dovol mi oplatit ti laskavost. Už popravdě není vychlazená, ale jsem si jistá, že stále chutná skvěle!</Dest>
+      <Dest>To mi udělalo fakt radost. Dovol mi oplatit ti laskavost. Už popravdě není vychlazená, ale jsem si jistá, že stále chutná skvěle!</Dest>
     </String>
     <String List="2" sID="000B63">
       <EDID>[01013A3E]</EDID>
@@ -557,7 +557,7 @@
       <EDID>[01013A1B]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Absolutely! I've spent years collecting all the Nuka-Cola merchandise I could find.</Source>
-      <Dest>Jasně! Sbíráním všeho možného Nuka-Cola merche jsem strávila roky.</Dest>
+      <Dest>Jasně! Sbíráním všech možných Nuka-Cola předmětů jsem strávila roky.</Dest>
     </String>
     <String List="2" sID="000BDA">
       <EDID>[01013A12]</EDID>
@@ -725,7 +725,7 @@
       <EDID>DLC04MS01SharedInfo05</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>That was before I became this monster. Before I was trapped here for centuries to suffer in solitude.</Source>
-      <Dest>To bylo než se ze mě stala tahle... zrůda. Předtím, než jsem zde byl po staletí uvězněn, abych trpěl v osamění.</Dest>
+      <Dest>To bylo předtím, než se ze mě stala tahle zrůda. Než jsem tu byl po staletí uvězněn, abych trpěl v osamění.</Dest>
     </String>
     <String List="2" sID="000F3C">
       <EDID>[01019EC5]</EDID>
@@ -737,25 +737,25 @@
       <EDID>[01019EB4]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Smart enough to invent Nuka-Cola, but you still fell for that?</Source>
-      <Dest>Dost chytrý na vynález Nuka-Coly, a přesto jste skočil něco takového?</Dest>
+      <Dest>Dost chytrý pro vymyšlení Nuka-Coly, a přesto jste na to skočil?</Dest>
     </String>
     <String List="2" sID="000F61">
       <EDID>[01019EBD]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Who was General Braxton?</Source>
-      <Dest>Kdo to byl generál Braxton?</Dest>
+      <Dest>Kdo byl generál Braxton?</Dest>
     </String>
     <String List="2" sID="000F62">
       <EDID>[01019EB5]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>It was going to be a quantum-enhanced variant of the standard portable tactical warhead.</Source>
-      <Dest>Měla to být kvantově-vylepšená verze standardní přenosné taktické bojové hlavice.</Dest>
+      <Dest>Měla to být kvantově zesílená verze standardní přenosné taktické bojové hlavice.</Dest>
     </String>
     <String List="2" sID="000F65">
       <EDID>[01019EB6]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>It's... simpler than I was expecting.</Source>
-      <Dest>Je to... jednodušší než jsem čekala.</Dest>
+      <Dest>Je to... jednodušší, než jsem čekala.</Dest>
     </String>
     <String List="2" sID="000F67">
       <EDID>[01019EBE]</EDID>
@@ -803,7 +803,7 @@
       <EDID>[01019ECC]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>You trespass in my private vault in my office in my amusement park, and you have the gall to treat me like some joke?</Source>
-      <Dest>Bez povolení vstupuješ do mého soukromého vaultu, do mé kanceláře v mém zábavním parku, a máš tu drzost jednat se mnou jako s nějakým žertem?</Dest>
+      <Dest>Vnikneš do mého soukromého vaultu v mé kanceláři v mém zábavním parku, a máš tu drzost dělat si ze mě srandičky?</Dest>
     </String>
     <String List="2" sID="000F7D">
       <EDID>[01019EC1]</EDID>
@@ -869,7 +869,7 @@
       <EDID>[01019ECE]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>You don't think I know that? You don't think I've contemplated my folly for decades on end?</Source>
-      <Dest>Myslíš si, že to nevím? Mysliš si, že jsem nad svou pošetilostí nedumal celá desetiletí?</Dest>
+      <Dest>Myslíš si, že to nevím? Myslíš si, že jsem nad svou pošetilostí nedumal celá desetiletí?</Dest>
     </String>
     <String List="2" sID="000FAC">
       <EDID>[01019ED1]</EDID>
@@ -971,7 +971,7 @@
       <EDID>DLC04MS01SharedInfo01</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Well, I do have one thing that might interest you.</Source>
-      <Dest>No, jednu věc, která by tě mohla zaujmout, vážně mám.</Dest>
+      <Dest>No, mám jednu věc, která by tě mohla zajímat.</Dest>
     </String>
     <String List="2" sID="0010AA">
       <EDID>[0101B14B]</EDID>
@@ -1109,7 +1109,7 @@
       <EDID>[0101C043]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>I'm not a chemist, but I might try to brew some up, just for fun.</Source>
-      <Dest>Nejsem žádná chemička, ale možná nějakou zkusím nějakou namíchat, jen tak pro srandu.</Dest>
+      <Dest>Nejsem žádná chemička, ale možná zkusím nějakou namíchat, jen tak pro srandu.</Dest>
     </String>
     <String List="2" sID="00118E">
       <EDID>[0101C04C]</EDID>
@@ -1121,7 +1121,7 @@
       <EDID>[01013A1B]</EDID>
       <REC id="2">INFO:NAM1</REC>
       <Source>And I can promise you this - you won't find another collection like mine in the Capital Wasteland, the Commonwealth, or any place else!</Source>
-      <Dest>A můžu ti můžu garantovat – sbírku, jako je ta moje, nenajdeš nikde ve Velké pustině, v Commonwealthu, ani nikde jinde!</Dest>
+      <Dest>A můžu ti garantovat – sbírku, jako je ta moje, nenajdeš nikde ve Velké pustině, v Commonwealthu, ani nikde jinde!</Dest>
     </String>
     <String List="2" sID="001E2F">
       <EDID>[01029BC5]</EDID>
@@ -1139,7 +1139,7 @@
       <EDID>[01029BC7]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>I don't suppose you came here for a bullet in the brain either, so if you want to live, I suggest you stay where you belong.</Source>
-      <Dest>A předpokládám, že sis tu nepřišla ani pro kulku do mozku, takže pokud chceš žít, doporučuju ti zůstat tam, kde máš.</Dest>
+      <Dest>A předpokládám, že sis tu nepřišla ani pro kulku do hlavy, takže pokud chceš žít, doporučuju ti zůstat tam, kde máš.</Dest>
     </String>
     <String List="2" sID="001E6D">
       <EDID>[01029BC4]</EDID>
@@ -1175,7 +1175,7 @@
       <EDID>[0102B089]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Well, okay. To be honest I'm so excited I can barely keep it in! It'll be a relief to finally tell someone.</Source>
-      <Dest>No... dobře. Popravdě, jsem tak nadšená, že se sama sotva držím! Bude úleva to konečně někomu prozradit.</Dest>
+      <Dest>No dobře. Popravdě, jsem tak nadšená, že se sama sotva držím! Bude úleva to konečně někomu prozradit.</Dest>
     </String>
     <String List="2" sID="001EEB">
       <EDID>[0102B088]</EDID>
@@ -1205,7 +1205,7 @@
       <EDID>[0102B064]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Just track down the clues and then come back to me once you've found them all.</Source>
-      <Dest>Vypátrej ty klíče a pak se za mnou vrať, až je najdeš všechny.</Dest>
+      <Dest>Vypátrej ty klíče a vrať se, až je najdeš všechny.</Dest>
     </String>
     <String List="2" sID="001F0F">
       <EDID>[0102B093]</EDID>
@@ -1421,7 +1421,7 @@
       <EDID>[0102B05B]</EDID>
       <REC id="0">INFO:NAM1</REC>
       <Source>Fizztop Mountain here provides a commanding view of Nuka-Town U.S.A. and the other areas of the park.</Source>
-      <Dest>Tady hora Šumák nabízí skvělý výhled na Nuka-Town a další části parku.</Dest>
+      <Dest>Tady hora Šumák nabízí skvělý výhled na Nuka Town a další části parku.</Dest>
     </String>
     <String List="2" sID="002088">
       <EDID>[0102B084]</EDID>
@@ -1739,7 +1739,7 @@
       <EDID>[0102B05B]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>Some of the finest -- and most expensive -- dining in the park was found at Fizztop Grille, which you can see up on the mountain's slope.</Source>
-      <Dest>Jedna z nejlepších – a nejdražších – restaurací v parku je grill bar Šumák, který můžeš vidět na ubočí hory.</Dest>
+      <Dest>Jedna z nejlepších – a nejdražších – restaurací v parku je grill bar Šumák, který můžeš vidět na úbočí hory.</Dest>
     </String>
     <String List="2" sID="002334">
       <EDID>[01030095]</EDID>
@@ -2321,7 +2321,7 @@
       <EDID>[0102B092]</EDID>
       <REC id="1">INFO:NAM1</REC>
       <Source>I'll take you to some of the best spots right here in Nuka-Town U.S.A. and show you just how amazing this place really is.</Source>
-      <Dest>Vezme tě na ta nejlepší místa zde v Nuka-Townu a ukážu ti, jak úžasné tohle místo doopravdy je.</Dest>
+      <Dest>Vezmu tě na ta nejlepší místa zde v Nuka Townu a ukážu ti, jak úžasné tohle místo doopravdy je.</Dest>
     </String>
     <String List="2" sID="00327C">
       <EDID>DLC04MS01SharedInfo06</EDID>
@@ -2417,13 +2417,13 @@
       <EDID>[0103F857]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Then I trust you will honor my wish.</Source>
-      <Dest>Tedy budou věřit, že splníš mé přání.</Dest>
+      <Dest>Tedy budu věřit, že splníš mé přání.</Dest>
     </String>
     <String List="2" sID="0032ED">
       <EDID>[0103F854]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Come on, you're a disembodied head trapped in a vault. You've got so much to live for!</Source>
-      <Dest>Ale no tak, jste hlava bez těla uvězněná v vaultu. Máte toho tolik, pro co stojí za to žít!</Dest>
+      <Dest>Ale no tak, jste hlava bez těla uvězněná ve vaultu. Máte toho tolik, pro co stojí za to žít!</Dest>
     </String>
     <String List="2" sID="0032F4">
       <EDID>[0101C044]</EDID>
@@ -2453,7 +2453,7 @@
       <EDID>[0103F852]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>Despite your obvious sarcasm, you clearly recognize my situation for the living hell that it is.</Source>
-      <Dest>Navzdory tvému zjevnému sarkamu evidentně chápeš mou situaci a jaká noční můra to je.</Dest>
+      <Dest>Navzdory tvému zjevnému sarkasmu evidentně chápeš mou situaci a jaká noční můra to je.</Dest>
     </String>
     <String List="2" sID="003321">
       <EDID>[0103F6D2]</EDID>
@@ -2519,13 +2519,13 @@
       <EDID>[0103F6CF]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>You're being selfish, Sierra. This wasn't about what you wanted, it was about what he needed.</Source>
-      <Dest>Chováš se sobecky, Sierra. Nebylo to o tom, co ty chceš, ale o tom, co on potřeboval.</Dest>
+      <Dest>Chováš se sobecky, Sierro. Nebylo to o tom, co ty chceš, ale o tom, co on potřeboval.</Dest>
     </String>
     <String List="2" sID="003399">
       <EDID>[0103F858]</EDID>
       <REC>INFO:NAM1</REC>
       <Source>This trip was totally worth it. I'm so glad I came here.</Source>
-      <Dest>Tenhle výlet jednoznačně stál za to. Dobře, že jsem tu přišla.</Dest>
+      <Dest>Tenhle výlet jednoznačně stál za to. Dobře, že jsem sem přišla.</Dest>
     </String>
     <String List="2" sID="0033A4">
       <EDID>[010311AD]</EDID>
