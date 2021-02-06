@@ -1833,7 +1833,7 @@ Za pár týdnů je podnikové výjezdní zasedání. Pan Feld říkal, že úča
       <EDID>LoreCommonwealth02</EDID>
       <REC>LSCR:DESC</REC>
       <Source>Originally "The Commonwealth of Massachusetts," the state became known only as the "The Commonwealth" after the Great War of 2077.</Source>
-      <Dest>Původnímu státu „Massachusettský Commonwealth“ se po Velké válce roku 2077 začalo zkráceně říkat „Commonwealth“.</Dest>
+      <Dest>Původnímu státu „Massachusettský Commonwealth“ se po Velké válce roku 2077 začalo říkat zkráceně „Commonwealth“.</Dest>
     </String>
     <String List="0" sID="03177C">
       <EDID>MagazineRack02_Workshop</EDID>
@@ -3555,7 +3555,7 @@ Za pár týdnů je podnikové výjezdní zasedání. Pan Feld říkal, že úča
       <EDID>LocalLeader01</EDID>
       <REC>PERK:DESC</REC>
       <Source>As the ruler everyone turns to, you are able to establish supply lines between your workshop settlements.</Source>
-      <Dest>Jako vůdce, na kterého se všichni obracejí, můžeš tvořit zásobovací trasy mezi tvými dílenskými osadami.</Dest>
+      <Dest>Jako vůdce, na kterého se všichni obracejí, můžeš mezi ovládanými dílenskými osadami tvořit zásobovací trasy.</Dest>
     </String>
     <String List="1" sID="01DA6B">
       <EDID>Locksmith01</EDID>
@@ -3616,7 +3616,7 @@ Za pár týdnů je podnikové výjezdní zasedání. Pan Feld říkal, že úča
       <EDID>LocalLeader02</EDID>
       <REC>PERK:DESC</REC>
       <Source>You can build stores and workstations at workshop settlements.</Source>
-      <Dest>Můžeš stavět obchody a ponky v dílenských osadách.</Dest>
+      <Dest>V dílenských osadách můžeš stavět obchody a ponky.</Dest>
     </String>
     <String List="1" sID="031957">
       <EDID>LoneWanderer01</EDID>
@@ -3648,7 +3648,7 @@ Získáváš +5 k odolnosti vůči jedu.</Dest>
 Take 5% less damage from robots.</Source>
       <Dest>Získáváš vydání časopisu Neuvěřitelně úžasné příběhy!&#xD;
 &#xD;
-Zranění, která ti jsou způsobena roboty, jsou o 5 % menší.</Dest>
+Natrvalo snižuje o 5 % velikost zranění způsobeného roboty.</Dest>
     </String>
     <String List="1" sID="031B44">
       <EDID>MagTotalHack03</EDID>
@@ -3904,7 +3904,7 @@ Proti supermutantům působíš o 5 % větší poškození.</Dest>
       <EDID>MagWastelandSurvivalGuide01</EDID>
       <REC>MESG:DESC</REC>
       <Source>Heal 50% more from fruits and vegetables.</Source>
-      <Dest>Ovoce a zelenina léčí o 50 % více.</Dest>
+      <Dest>Ovoce a zelenina léčí o 50 % více bodů zdraví.</Dest>
     </String>
     <String List="1" sID="031D6C">
       <EDID>MagLiveNLove08</EDID>
@@ -4014,7 +4014,7 @@ Obsahuje zdrojové kódy pro hackování bezpečnostních reflektorů.</Dest>
 Permanently take 5% less damage from insects.</Source>
       <Dest>Získáváš vydání Příručky přežití v Pustině!&#xD;
 &#xD;
-Natrvalo snižuje o 5 % velikost zranění, která jsou způsobená hmyzem.</Dest>
+Natrvalo snižuje o 5 % velikost zranění způsobených hmyzem.</Dest>
     </String>
     <String List="1" sID="031D8E">
       <EDID>MagTumblersToday</EDID>
@@ -4184,7 +4184,7 @@ Natrvalo získáváš lepší ceny při nákupech u obchodníků.</Dest>
 Permanently take 5% less damage from melee attacks.</Source>
       <Dest>Získáváš vydání Příručky přežití v Pustině!&#xD;
 &#xD;
-Velikost zranění utrženého při útoku zblízka je trvale o 5 % menší.</Dest>
+Natrvalo snižuje o 5 % velikost zranění způsobených útokem zblízka.</Dest>
     </String>
     <String List="1" sID="031F98">
       <EDID>MagAwesomeTales12</EDID>

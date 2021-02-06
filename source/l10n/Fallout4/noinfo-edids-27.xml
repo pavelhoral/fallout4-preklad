@@ -2895,7 +2895,7 @@ Systémy normální.</Dest>
       <EDID>PerkGunNut</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Gun Nut perk grants access to more effective gun mods.</Source>
-      <Dest>Perk Pošuk do zbraní poskytuje přístup k efektivnějším modifikacím palných zbraní.</Dest>
+      <Dest>Perk Pošuk do zbraní poskytuje přístup k efektivnějším modifikacím střelných zbraní.</Dest>
     </String>
     <String List="0" sID="031D4C">
       <EDID>PerkLifeGiver</EDID>
@@ -3003,7 +3003,7 @@ Zjištěn neoprávněný přístup.</Dest>
       <EDID>PerkBasher</EDID>
       <REC>LSCR:DESC</REC>
       <Source>The Basher perk improves the effectiveness of gun bashing by adding extra damage, and possibly crippling a limb or causing a Critical Hit.</Source>
-      <Dest>Perk Mlátička zvyšuje efektivitu úderů s palnými zbraněmi tak, že přidává dodatečné poškození, šanci ochromit končetiny či šanci způsobit kritický zásah.</Dest>
+      <Dest>Perk Mlátička zvyšuje efektivitu úderů pažbou zbraně zvýšením způsobeného poškození, šancí zmrzačit končetinu a šancí způsobit kritický zásah.</Dest>
     </String>
     <String List="0" sID="031DFD">
       <EDID>PerkChemResistant</EDID>
@@ -4363,7 +4363,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagAwesomeTales08</EDID>
       <REC>PERK:DESC</REC>
       <Source>Take 5% less damage from robots.</Source>
-      <Dest>Jsi o 5 % odolnější vůči poškození způsobovaném roboty.</Dest>
+      <Dest>Zranění způsobené roboty je o 5 % menší.</Dest>
     </String>
     <String List="1" sID="01A5C2">
       <EDID>PA_X01_Torso_Misc_Tesla</EDID>
@@ -4381,7 +4381,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagWastelandSurvival09</EDID>
       <REC>PERK:DESC</REC>
       <Source>Collect extra meat from animal kills.</Source>
-      <Dest>Ze zabitých zvířat vybíráš maso navíc.</Dest>
+      <Dest>Ze zabitých zvířat získáváš maso navíc.</Dest>
     </String>
     <String List="1" sID="01CDA7">
       <EDID>PA_X01_Torso_Lining_E</EDID>
@@ -4435,7 +4435,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagJunktownJerkyVendor</EDID>
       <REC>PERK:DESC</REC>
       <Source>Get better prices when buying from vendors.</Source>
-      <Dest>Při nakupování od obchodníků získáváš lepší ceny.</Dest>
+      <Dest>Při nakupování od obchodníků máš lepší ceny.</Dest>
     </String>
     <String List="1" sID="01DAEF">
       <EDID>PerkMagTumblersToday</EDID>
@@ -4471,13 +4471,13 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagAwesomeTales09</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your canine companion permanently takes 10% less damage.</Source>
-      <Dest>Tvůj psí společník je trvale o 10 % odolnější vůči poškození.</Dest>
+      <Dest>Tvůj psí společník je trvale o 10 % odolnější vůči zranění.</Dest>
     </String>
     <String List="1" sID="01DC61">
       <EDID>PerkMagAwesomeTalesDogmeat</EDID>
       <REC>PERK:DESC</REC>
       <Source>You canine companion takes 10% less damage.</Source>
-      <Dest>Tvůj psí společník je o 10 % odolnější vůči poškození.</Dest>
+      <Dest>Tvůj psí společník je o 10 % odolnější vůči zranění.</Dest>
     </String>
     <String List="1" sID="01DC63">
       <EDID>PerkMagAwesomeTales10</EDID>
@@ -4537,7 +4537,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagAwesomeTales07</EDID>
       <REC>PERK:DESC</REC>
       <Source>Gain +5 Action Points.</Source>
-      <Dest>Získáváš 5 akčních bodů.</Dest>
+      <Dest>Získáváš +5 k akčním bodům.</Dest>
     </String>
     <String List="1" sID="0221BF">
       <EDID>PainTrain01</EDID>
@@ -4633,7 +4633,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkBobbleheadScience</EDID>
       <REC>PERK:DESC</REC>
       <Source>Get one extra guess when hacking terminals.</Source>
-      <Dest>Získáváš jeden odhad navíc při hackování terminálů.</Dest>
+      <Dest>Máš jeden pokus navíc při hackování terminálů.</Dest>
     </String>
     <String List="1" sID="02B495">
       <EDID>PerkBobbleheadRepair</EDID>
@@ -4669,7 +4669,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagWastelandSurvival03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Heal +50% from irradiated packaged food and drink.</Source>
-      <Dest>Ozářené balené jídlo a pití léčí o 50 % více.</Dest>
+      <Dest>Ozářené balené jídlo a pití léčí o 50 % více bodů zdraví.</Dest>
     </String>
     <String List="1" sID="030F75">
       <EDID>PerkMagWastelandSurvival06</EDID>
@@ -4687,7 +4687,7 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagWastelandSurvival02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Take 5% less damage from insects.</Source>
-      <Dest>Jsi o 5 % odolnější vůči útokům hmyzu.</Dest>
+      <Dest>Zranění způsobené hmyzem je o 5 % menší.</Dest>
     </String>
     <String List="1" sID="031171">
       <EDID>PerkMagAwesomeTales06</EDID>
@@ -4699,13 +4699,13 @@ POZNÁMKY:&#xD;
       <EDID>PerkMagWastelandSurvival01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Heal 50% more from fruits and vegetables.</Source>
-      <Dest>Ovoce a zelenina léčí o 50 % více.</Dest>
+      <Dest>Ovoce a zelenina léčí o 50 % více bodů zdraví.</Dest>
     </String>
     <String List="1" sID="0311DE">
       <EDID>PerkMagWastelandSurvival08</EDID>
       <REC>PERK:DESC</REC>
       <Source>Take 5% less damage from melee attacks.</Source>
-      <Dest>Jsi o 5 % odolnější vůči útokům zblízka.</Dest>
+      <Dest>Zranění způsobené útokem zblízka je o 5 % menší.</Dest>
     </String>
     <String List="1" sID="031750">
       <EDID>PartyGirl03</EDID>

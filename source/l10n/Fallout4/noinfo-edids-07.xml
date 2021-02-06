@@ -3526,25 +3526,25 @@ Nemůžeš každému věřit.&#xD;
       <EDID>Commando03</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your automatic weapons now do 60% more damage. Hip fire accuracy is improved even more.</Source>
-      <Dest>Tvoje automatické zbraně působí o 60 % větší zranění. Přesnost střelby bez zaměřování je ještě zvýšena.</Dest>
+      <Dest>Tvoje automatické zbraně působí o 60 % větší poškození. Přesnost střelby bez míření je ještě lepší.</Dest>
     </String>
     <String List="1" sID="014E5B">
       <EDID>Commando01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Rigorous combat training means automatic weapons do 20% more damage.</Source>
-      <Dest>Důkladný bojový výcvik znamená, že s automatickými zbraněmi působíš o 20 % větší zranění.</Dest>
+      <Dest>Důkladný bojový výcvik znamená, že s automatickými zbraněmi působíš o 20 % větší poškození.</Dest>
     </String>
     <String List="1" sID="01760D">
       <EDID>crDeathclaw_rage_perk</EDID>
       <REC>PERK:DESC</REC>
       <Source>The deathclaw does increased damage when fighting multiple enemies.</Source>
-      <Dest>Párač působí vyšší zranění, pokud bojuje s více nepřáteli.</Dest>
+      <Dest>Párač působí vyšší poškození, pokud bojuje s více nepřáteli.</Dest>
     </String>
     <String List="1" sID="018B97">
       <EDID>crDeathclaw_NerfPlz_perk</EDID>
       <REC>PERK:DESC</REC>
       <Source>The deathclaw does increased damage when fighting anybody who isn't the player.</Source>
-      <Dest>Párač v boji působí větší zranění všem, kromě hráčovy postavy.</Dest>
+      <Dest>Párač v boji působí větší poškození všem, kromě hráčovy postavy.</Dest>
     </String>
     <String List="1" sID="01BD7A">
       <EDID>crDeathclaw_toughness_perk</EDID>
@@ -3556,7 +3556,7 @@ Nemůžeš každému věřit.&#xD;
       <EDID>ConcentratedFire01</EDID>
       <REC>PERK:DESC</REC>
       <Source>Stay focused! In V.A.T.S. every attack on the same body part gains +10% accuracy.</Source>
-      <Dest>Soustřeď se! Ve V.A.T.S. získává každý další útok na stejnou část těla +10 % k přesnosti.</Dest>
+      <Dest>Pořádně zamiř! Ve V.A.T.S. získává každý další útok na stejnou část těla +10 % k přesnosti.</Dest>
     </String>
     <String List="1" sID="01D39F">
       <EDID>Companion_PrestonHero_msg</EDID>
@@ -3568,7 +3568,7 @@ Nemůžeš každému věřit.&#xD;
       <EDID>Commando02</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your automatic weapons now do 40% more damage, with improved hip fire accuracy.</Source>
-      <Dest>Tvoje automatické zbraně působí o 40 % větší zranění a mají větší přesnost bez zaměřování.</Dest>
+      <Dest>Tvoje automatické zbraně působí o 40 % větší poškození. Přesnost střelby bez míření je lepší.</Dest>
     </String>
     <String List="1" sID="01D9EF">
       <EDID>CriticalBanker01</EDID>
@@ -3612,13 +3612,13 @@ Nechť nám jejich oběti připomenou, že svoboda je privilegium poskytnuté mn
       <EDID>Commando04</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your automatic weapons now do 80% more damage and gain a chance to stagger opponents.</Source>
-      <Dest>Tvoje automatické zbraně nyní působí o 80 % větší zranění a mají šanci ochromit nepřátele.</Dest>
+      <Dest>Tvoje automatické zbraně nyní působí o 80 % větší poškození s šancí vyvést nepřátele z rovnováhy.</Dest>
     </String>
     <String List="1" sID="02B512">
       <EDID>Commando05</EDID>
       <REC>PERK:DESC</REC>
       <Source>Your automatic weapons now do double damage and have a greater chance to stagger opponents.</Source>
-      <Dest>Tvoje automatické zbraně nyní působí dvakrát větší zranění a mají větší šanci ochromit nepřátele.</Dest>
+      <Dest>Tvoje automatické zbraně nyní působí dvakrát větší poškození s větší šancí vyvést nepřátele z rovnováhy.</Dest>
     </String>
     <String List="1" sID="02BB5A">
       <EDID>crSetRangedDmgPerk</EDID>
@@ -3828,7 +3828,7 @@ Nechť nám jejich oběti připomenou, že svoboda je privilegium poskytnuté mn
       <EDID>CompanionPreventLimbDamage</EDID>
       <REC>PERK:DESC</REC>
       <Source>Limb damage is reduced by 100%.</Source>
-      <Dest>Poškození končetin je sníženo o 100 %.</Dest>
+      <Dest>Zranění končetin je sníženo o 100 %.</Dest>
     </String>
     <String List="1" sID="032439">
       <EDID>CompCodsworthPerk</EDID>
@@ -3840,13 +3840,13 @@ Nechť nám jejich oběti připomenou, že svoboda je privilegium poskytnuté mn
       <EDID>CompCuriePerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Thanks to your relationship with Curie, once per day you heal 100 Hit Points if your health falls below 10%.</Source>
-      <Dest>Díky tvému vztahu s Curie si jednou za den vyléčíš 100 bodů zdraví, pokud tvůj život klesne pod 10 %.</Dest>
+      <Dest>Díky tvému vztahu s Curie si jednou za den vyléčíš 100 bodů zdraví, pokud tvé celkové zdraví klesne pod 10 %.</Dest>
     </String>
     <String List="1" sID="032614">
       <EDID>CompNickPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Thanks to your relationship with Nick Valentine, you get one extra guess and 50% faster terminal cooldown when hacking.</Source>
-      <Dest>Díky svému vztahu s Nickem Valentinem získáváš jeden pokus navíc při hádání hesla a doba blokace terminálu je snížena o 50 %.</Dest>
+      <Dest>Díky svému vztahu s Nickem Valentinem získáváš při hádání hesla jeden pokus navíc a doba blokace terminálu je snížena o 50 %.</Dest>
     </String>
     <String List="1" sID="032F91">
       <EDID>CompCaitPerk</EDID>
@@ -3870,7 +3870,7 @@ Nechť nám jejich oběti připomenou, že svoboda je privilegium poskytnuté mn
       <EDID>CompStrongPerk</EDID>
       <REC>PERK:DESC</REC>
       <Source>Thanks to your relationship with Strong, when you fall below 25% health you deal +20% more melee weapon damage.</Source>
-      <Dest>Díky tvému vztahu se Silákem působíš o 20 % větší zranění v boji zblízka, pokud ti život klesne pod 25 %.</Dest>
+      <Dest>Díky tvému vztahu se Silákem působíš o 20 % větší zranění v boji zblízka, pokud ti zdraví klesne pod 25 %.</Dest>
     </String>
     <String List="1" sID="033A7A">
       <EDID>CompPrestonPerk</EDID>
