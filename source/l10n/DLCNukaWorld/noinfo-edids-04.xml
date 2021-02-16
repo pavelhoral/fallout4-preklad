@@ -425,7 +425,7 @@
       <EDID>DLC04_Safari_CloningTerminalMain</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Disable Current Replication Procedure</Source>
-      <Dest>Vypnout stávající postup replikace</Dest>
+      <Dest>Vypnout stávající proces replikace</Dest>
     </String>
     <String List="0" sID="003030">
       <EDID>DLC04_WWTerminalPassword</EDID>
@@ -521,7 +521,7 @@ Snažili jsme se být milí a vy jste nespolupracoval. Dokonce jste zašel tak d
 &#xD;
 No, pane, tohle je svobodná země, bez ohledu na to, co si vy korporátní zvířata myslíte. POZ vám ukáže, že nemáte takovou kontrolu, jakou si myslíte, že vám vaše peníze zaručují.&#xD;
 &#xD;
-Držíme vašeho předního vědce dr. Heina jako rukojmí přesně tam, kde plánujete postavit važi Zuřivou Anakondu. Přijďte sám a můžeme projednat podmínky jeho propuštění. Přiveďte policii a ztratíte svého elitního zaměstnance.&#xD;
+Držíme vašeho předního vědce dr. Heina jako rukojmí přesně tam, kde plánujete postavit vaši Zuřivou Anakondu. Přijďte sám a můžeme projednat podmínky jeho propuštění. Přiveďte policii a ztratíte svého elitního zaměstnance.&#xD;
 &#xD;
 Rozhodněte se správně pane Bradbertone.&#xD;
 &#xD;
@@ -1265,7 +1265,7 @@ R.</Dest>
       <Source>Procedure McDermot987GC114 "Gatorclaw" terminated.&#xD;
 &#xD;
 Please input new command.</Source>
-      <Dest>Postup McDermot987GC114 „gátor“ ukončen.&#xD;
+      <Dest>Proces McDermot987GC114 „gátor“ ukončen.&#xD;
 &#xD;
 Prosím vložte nový povel.</Dest>
     </String>
@@ -1283,7 +1283,7 @@ Prosím vložte nový povel.</Dest>
 Please wait until Incubation is complete before selecting a new command.&#xD;
 &#xD;
 </Source>
-      <Dest>CHYBA: Postup Hein442GZ012 „Gazelle“ Probíhá&#xD;
+      <Dest>CHYBA: Proces Hein442GZ012 „Gazela“ probíhá&#xD;
 &#xD;
 Počkejte prosím na dokončení inkubace, před výběrem nového příkazu.&#xD;
 &#xD;
@@ -1293,7 +1293,7 @@ Počkejte prosím na dokončení inkubace, před výběrem nového příkazu.&#x
       <EDID>DLC04_Safari_CloningTerminalMain</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Disable Current Replication Procedure</Source>
-      <Dest>Vypnout stávající postup replikace</Dest>
+      <Dest>Vypnout stávající proces replikace</Dest>
     </String>
     <String List="0" sID="0046CA">
       <EDID>DLC04_workshopScrapRecipe_Debris03Lg</EDID>
@@ -1319,7 +1319,7 @@ Počkejte prosím na dokončení inkubace, před výběrem nového příkazu.&#x
       <Source>Procedure Hein442GZ012 "Gazelle" Resumed.&#xD;
 &#xD;
 Incubation Commencing.</Source>
-      <Dest>Postup Hein442GZ012 „Gazelle“ znovu zahájen.&#xD;
+      <Dest>Proces Hein442GZ012 „Gazela“ znovu zahájen.&#xD;
 &#xD;
 Zahajování inkubace.</Dest>
     </String>
@@ -1355,7 +1355,7 @@ Zahajování inkubace.</Dest>
 It's been two weeks since Ross asked me about Cobalt. I told that idiot to drop it, but he wouldn't listen. All of a sudden, our department gets notice that Ross is taking an unscheduled vacation and no one seems to know where he's gone. Now they want me to purge his terminal before the end of October. I hate to wipe all of this out, but I can't refuse. If I don't do what the Security Department says, I may end up on "vacation" too.</Source>
       <Dest>T. Fremke 05524MDK&#xD;
 &#xD;
-Už je to dva týdny, co se mě Ross ptal na Kobalt. Říkal jsem tomu idiotovi ať se do toho neplete, ale neposlouchal mě. Najednou přišla na naše oddělení zpráva, že si Ross bere neplánovanou dovolenou a vypadá to, že nikdo neví, kde je. Teď po mě chtějí, abych do konce října promazal jeho terminál. Nechci tohle všechno mazat, ale nemůžu odmítnout. Jestli neudělám co po mě chce bezpečnostní oddělení, mohl bych taky skončit na „dovolené“.</Dest>
+Už je to dva týdny, co se mě Ross ptal na Kobalt. Říkal jsem tomu idiotovi, ať se do toho neplete, ale neposlouchal mě. Najednou přišla na naše oddělení zpráva, že si Ross bere neplánovanou dovolenou a vypadá to, že nikdo neví, kde je. Teď po mě chtějí, abych do konce října promazal jeho terminál. Nechci tohle všechno mazat, ale nemůžu odmítnout. Jestli neudělám, co po mě chce bezpečnostní oddělení, mohl bych taky skončit na „dovolené“.</Dest>
     </String>
     <String List="0" sID="004792">
       <EDID>DLC04_Safari_WelcomeCenterTerminal</EDID>
@@ -1389,7 +1389,7 @@ Toto zařízení je v plném bezpečnostním uzamčení. Laboratoř je přístup
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Journal Entry 09-19-2077</Source>
-      <Dest>Záznam deníku z 19.09.2077</Dest>
+      <Dest>Záznam deníku z 19-09-2077</Dest>
     </String>
     <String List="0" sID="0047A0">
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
@@ -1397,9 +1397,9 @@ Toto zařízení je v plném bezpečnostním uzamčení. Laboratoř je přístup
       <Source>Journal Entry 09-19-2077&#xD;
 &#xD;
 I've had my third request for a budget increase denied due to resources being diverted to this "Project Cobalt" I am hearing so much about. I hope Bradberton realizes that Safari Adventure isn't just an amusement park, it's also home to several hundred living and breathing organisms which have unique food, water and environmental requirements. I've asked for more information on Project Cobalt, but I am continually met with denials. For all the trouble it's worth, this project better produce something big.</Source>
-      <Dest>Záznam deníku z 09-19-2077&#xD;
+      <Dest>Záznam deníku z 19-09-2077&#xD;
 &#xD;
-Už potřetí byla zamítnuta má žádost o navýšení rozpočtu s odůvodněním, že jsou prostředky odkláněny na „Projekt Kobalt“ o kterém jsem tolik slyšel. Doufám, že si Bradberton uvědomuje, že Safari dobrodružství není jen zábavní park, ale také domov několika stovek živých a dýchajících organismů, které mají specifické požadavky na stravu, vodu a prostředí. Zkoušel jsem získat více informací o Projektu Kobalt, ale stále se setkávám se zamítavými reakcemi. Kvůli všem těm problémům, které s tím jsou, doufám, že z toho bude něco velkého.</Dest>
+Už potřetí byla zamítnuta má žádost o navýšení rozpočtu s odůvodněním, že jsou prostředky odkláněny na „Projekt Kobalt“, o kterém jsem tolik slyšel. Doufám, že si Bradberton uvědomuje, že Safari dobrodružství není jen zábavní park, ale také domov několika stovek živých a dýchajících organismů, které mají specifické požadavky na stravu, vodu a prostředí. Zkoušel jsem získat více informací o Projektu Kobalt, ale stále se setkávám se zamítavými reakcemi. Kvůli všem těm problémům, které s tím jsou, doufám, že z toho bude něco velkého.</Dest>
     </String>
     <String List="0" sID="0047A1">
       <EDID>DLC04_Safari_MaintenanceTerminal</EDID>
@@ -1409,7 +1409,7 @@ Už potřetí byla zamítnuta má žádost o navýšení rozpočtu s odůvodněn
 I decided to put a holotape recorder in the empty locker next to Fremke's. I didn't get anything for days, but finally I scored big when I picked up a conversation between Fremke and Thomalson. They were talking about something called "Project Cobalt." I have no idea what that is, they never tell the Janitorial staff anything important. Why am I being left out?</Source>
       <Dest>B. Ross 07224DSM&#xD;
 &#xD;
-Rozhodl jsem se dát do prázdné skřínky vedle té Frenkeho holopáskový rekordér. Dlouho jsem nic nezachytil, ale nakonec se to vyplatilo, když jsem zachytil rozhovor mezi Fremkem a Thomalsonem. Mluvili o něčem co se jmenuje „Projekt Kobalt“. Nemám tušení o co jde. Uklízečům nikdy neřeknou nic důležitého. Proč mě nechávají stranou?</Dest>
+Rozhodl jsem se dát do prázdné skřínky vedle té Fremkeho holopáskový rekordér. Dlouho jsem nic nezachytil, ale nakonec se to vyplatilo, když jsem zachytil rozhovor mezi Fremkem a Thomalsonem. Mluvili o něčem, co se jmenuje „Projekt Kobalt“. Nemám tušení o co jde. Uklízečům nikdy neřeknou nic důležitého. Proč mě nechávají stranou?</Dest>
     </String>
     <String List="0" sID="0047A6">
       <EDID>DLC04_Safari_MaintenanceTerminal</EDID>
@@ -1433,9 +1433,9 @@ Pracovní příkazy se hromadí, ale už nevydržím déle čekat. Konečně jse
       <Source>Journal Entry XX-09-999 (Date Out of Range)&#xD;
 &#xD;
 How long has it been since the bombs fell and transformed me into this withered-up husk of a man? I can't even remember how much time has passed. I've started talking to myself aloud now. I think this loneliness is finally getting to me. I haven't seen a friendly human in such a long time, I've almost forgotten what it's like. Trying to concentrate on work is getting more and more difficult. Maybe it would be better if I ended it all now. But then I ask myself who would protect this laboratory from those that would seek to misuse its gifts. I suppose I have no choice.</Source>
-      <Dest>Záznam deníku z 09.XX.999 (datum mimo rozsah)&#xD;
+      <Dest>Záznam deníku z 09-XX-999 (datum mimo rozsah)&#xD;
 &#xD;
-Jak už je to dlouho co dopadly bomby a proměnily mě v tuto zuboženou slupku člověka? Už si ani nepamatuju, kolik času uteklo. Začal jsem nahlas mluvit sám se sebou. Myslím, že mě ta samota konečně doběhla. Tak dlouho jsem nepotkal přátelskou lidskou bytost, že už ani nevím, jaké to je. Dělá mi čím dál větší problémy soustředit se na práci. Možná by bylo lepší, kdybych to celé hned skončil. Ale pak si říkám, kdo by jen chránil tuto laboratoř před těmi, kteří by chtěli zneužít její dary. Asi nemám na vybranou.</Dest>
+Jak už je to dlouho, co dopadly bomby a proměnily mě v tuto zuboženou slupku člověka? Už si ani nepamatuju, kolik času uteklo. Začal jsem nahlas mluvit sám se sebou. Myslím, že mě ta samota konečně doběhla. Tak dlouho jsem nepotkal přátelskou lidskou bytost, že už ani nevím, jaké to je. Dělá mi čím dál větší problémy soustředit se na práci. Možná by bylo lepší, kdybych to celé hned skončil. Ale pak si říkám, kdo by jen chránil tuto laboratoř před těmi, kteří by chtěli zneužít její dary. Asi nemám na vybranou.</Dest>
     </String>
     <String List="0" sID="0047AD">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
@@ -1443,9 +1443,9 @@ Jak už je to dlouho co dopadly bomby a proměnily mě v tuto zuboženou slupku 
       <Source>Journal Entry XX-21-999 (Date Out of Range)&#xD;
 &#xD;
 While foraging for food and supplies today, I stumbled across the remains of an astonishing biological specimen. It was humanoid in appearance, but much larger. It had greenish-colored skin and roughly human features. It appeared to be wearing clothing, and had been recently killed by what looked like bullet wounds. After dragging it back to the laboratory, I began an extensive examination. My conclusion was that this was the genetic mutation of a human. I can only hope that whatever caused this remarkable mutation can be extracted and used for my own experimentation. I'm entering it into the record at Sample Q334.</Source>
-      <Dest>Záznam deníku z 21.XX.999 (datum mimo rozsah)&#xD;
+      <Dest>Záznam deníku z 21-XX-999 (datum mimo rozsah)&#xD;
 &#xD;
-Zatímco jsem dnes hledal jídlo a zásoby, narazil na pozůstatky fascinujícího biologického exempláře. Vzhledem byl humanoidní, ale mnohem větší. Měl dozelena zbarvenou kůži a přibližně lidské rysy. Zdá se, že to nosilo oblečení a také že to nedávno zemřelo na poranění způsobené kulkami. Poté co jsem to odtáhnul zpátky do laboratoře, zahájil jsem detailnější průzkum. Došel jsem k závěru, že se jednalo o genetickou mutaci člověka. Mohu jen doufat, že se mi podaří získat původce této obdivuhodné mutace a využít jej pro své vlastní experimenty. Ukládám to do záznamu jako vzorek Q334.</Dest>
+Zatímco jsem dnes hledal jídlo a zásoby, narazil na pozůstatky fascinujícího biologického exempláře. Vzhledem byl humanoidní, ale mnohem větší. Měl dozelena zbarvenou kůži a přibližně lidské rysy. Zdá se, že to nosilo oblečení a také že to nedávno zemřelo na poranění způsobené kulkami. Poté, co jsem to odtáhnul zpátky do laboratoře, zahájil jsem detailnější průzkum. Došel jsem k závěru, že se jednalo o genetickou mutaci člověka. Mohu jen doufat, že se mi podaří získat původce této obdivuhodné mutace a využít jej pro své vlastní experimenty. Ukládám to do záznamu jako vzorek Q334.</Dest>
     </String>
     <String List="0" sID="0047AF">
       <EDID>DLC04_Safari_WelcomeCenterTerminal</EDID>
@@ -1477,7 +1477,7 @@ Jakákoliv zásilka označená jako Projekt Kobalt by měla být přesměrována
       <Source>Journal Entry XX-17-999 (Date Out of Range)&#xD;
 &#xD;
 One of the two backup reactors for the laboratory died today. That leaves a single generator to run the facility's power. If that last reactor goes down, I may have to consider destroying the Nuka-Gen Replicator and abandoning the laboratory. Even though I could have already done this a long time ago, I realize that this machine could possibly be the last of its kind on earth. Meaning, this could be mankind's only hope for repopulating the earth with animals and returning the ecosystem to normal once conditions on the surface are suitable for habitation.</Source>
-      <Dest>Záznam deníku z 17.XX.999 (datum mimo rozsah)&#xD;
+      <Dest>Záznam deníku z 17-XX-999 (datum mimo rozsah)&#xD;
 &#xD;
 Jeden ze dvou záložních reaktorů pro laboratoř dnes odešel. Takže zbývá jen jeden reaktor, který dodává tomuto zařízení energii. Pokud selže i ten poslední generátor, budu muset zvážit jestli nezničit Nuka-Gen replikátor a opustit laboratoř. I když jsem to mohl udělat už dávno, uvědomuji si, že tento přístroj může být jediný svého druhu na celé planetě. Což znamená, že to pro lidstvo může být jediná naděje, jak znovu zaplnit zemi zvířaty a navrátit do normálu jednotlivé ekosystémy, až bude povrch znovu obyvatelný.</Dest>
     </String>
@@ -1499,9 +1499,9 @@ Jeden ze dvou záložních reaktorů pro laboratoř dnes odešel. Takže zbývá
       <Source>Journal Entry 02-27-2077&#xD;
 &#xD;
 Those damn A.F.A.D. idiots are at it again. It's only been a few weeks since they vandalized my Corvega by filling it with manure, and the Security Department assured me that would be the last time they were allowed anywhere near Nuka-World. However, I arrived at the facility today to find "Stop the torture!" painted across the security door. I don't know why these morons think we're torturing animals. Anything that we need to dispose of in the laboratory is dealt with in a swift and rather humane manner.</Source>
-      <Dest>Záznam deníku z 02-27-2077&#xD;
+      <Dest>Záznam deníku z 27-02-2077&#xD;
 &#xD;
-Ti zatracení POZ jsou zase v akci. Je to jen pár týdnů, co mi poničili moji Corvegu tím, že jí naplnili hnojem. Z oddělení bezpečnosti mě ujišťovali, že to bylo naposledy, co se dostali někam poblíž Nuka Worldu. Ale když jsem dnes přišel do práce, našel jsem na bezpečnostních dveřích namalovaný nápis „Zastavte to mučení!“. Nevím, proč si ti omezenci myslí, že mučíme zvířata. Se vším, čeho v laboratoři potřebujeme zbavit, je zacházeno velice účelně, rychle a poměrně humánně.</Dest>
+Ti zatracení POZ jsou zase v akci. Je to jen pár týdnů, co mi poničili moji Corvegu tím, že jí naplnili hnojem. Z oddělení bezpečnosti mě ujišťovali, že to bylo naposledy, co se dostali někam poblíž Nuka Worldu. Ale když jsem dnes přišel do práce, našel jsem na bezpečnostních dveřích namalovaný nápis „Zastavte to mučení!“. Nevím, proč si ti omezenci myslí, že mučíme zvířata. Se vším, čeho se v laboratoři potřebujeme zbavit, je zacházeno velice účelně, rychle a poměrně humánně.</Dest>
     </String>
     <String List="0" sID="0047CC">
       <EDID>DLC04_Safari_ReptileHouseTerminal</EDID>
@@ -1525,7 +1525,7 @@ This month, Safari Adventure will be continuing to host school field trips to ou
       <Dest>SD-Poznámka 051577&#xD;
 Od: Oddělení pro komunikaci s návštěvníky&#xD;
 &#xD;
-Tento měsíc bude Safari dobrodružství pokračovat v pořádání školních exkurzí do našeho parku. Vzhledem k politováníhodné nehodě a následnému čištění v oddělení velkých koček, žádáme, aby každá škola zajistila alespoň jeden plnoletý doprovod na každých šest dětí. Kromě toho se prosím ujistěte, že všichni návštěníci podepsali převzetí zodpovědnosti za úrazy a úmrtí. Pokud budou nějaké dotazy, odkazujte je na oddělení pro komunikaci s návštěvníky.</Dest>
+Tento měsíc bude Safari dobrodružství pokračovat v pořádání školních exkurzí do našeho parku. Vzhledem k politováníhodné nehodě a následnému čištění v oddělení velkých koček, žádáme, aby každá škola zajistila alespoň jeden plnoletý doprovod na každých šest dětí. Kromě toho se prosím ujistěte, že všichni návštěvníci podepsali převzetí zodpovědnosti za úrazy a úmrtí. Pokud budou nějaké dotazy, odkazujte je na oddělení pro komunikaci s návštěvníky.</Dest>
     </String>
     <String List="0" sID="0047D4">
       <EDID>DLC04_Safari_WelcomeCenterTerminal</EDID>
@@ -1547,7 +1547,7 @@ Tento měsíc bude Safari dobrodružství pokračovat v pořádání školních 
 Guides, please refrain from telling visitors that snake eggs should make "a heck of a delicious omelet." This fact is wildly incorrect.</Source>
       <Dest>Dům plazů - Připomenutí #0792&#xD;
 &#xD;
-Žádáme průvodce, aby neříkali návštěvníkům, že z hadívh vajíček by byla „zatraceně dobrá omeleta“. Tato informace je zcela mylná.</Dest>
+Žádáme průvodce, aby neříkali návštěvníkům, že z hadích vajíček by byla „zatraceně dobrá omeleta“. Tato informace je zcela mylná.</Dest>
     </String>
     <String List="0" sID="0047D8">
       <EDID>DLC04_Safari_ReptileHouseTerminal</EDID>
@@ -1565,7 +1565,7 @@ Guides, please refrain from telling visitors that snake eggs should make "a heck
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Journal Entry 06-02-2077</Source>
-      <Dest>Záznam deníku z 02.06.2077</Dest>
+      <Dest>Záznam deníku z 02-06-2077</Dest>
     </String>
     <String List="0" sID="0047E1">
       <EDID>DLC04_Safari_CloningTerminalMain</EDID>
@@ -1579,7 +1579,7 @@ Guides, please refrain from telling visitors that snake eggs should make "a heck
       <Source>Journal Entry 01-01-2077&#xD;
 &#xD;
 I think I drank a little too much last night when ringing in the New Year. Woke up right next to the Nuka-Gen Replicator's main terminal and a program was running. It looks like I was trying to sequence an anteater with sixteen giraffe-type legs, scales, four eyes and two tails. Amusingly, even in my inebriated state, I've created a fairly viable specimen sequence that could possibly work. I don't think the animal would live very long, but my scientific curiosity says I should give it a try. I'll have to consult Dr. McDermot.</Source>
-      <Dest>Záznam deníku z  01.01.2077&#xD;
+      <Dest>Záznam deníku z 01-01-2077&#xD;
 &#xD;
 Myslím, že jsem to včera trochu přehnal s pitím, když odbíjeli půlnoc. Vzbudil jsem se přímo vedle hlavního terminálu Nuka-Gen repikátoru a program běžel. Vypadá to, že jsem se snažil vytvořit genetický kód mravenečníka se šestnácti žirafími nohami, šupinami, čtyřma očima a dvěmi ocasy. Překvapivě jsem i ve svém indisponovaném stavu zvládnul vytvořit kód poměrně životaschopného exempláře, který by mohl fungovat. Nemyslím si, že by takové zvíře přežilo dlouho, ale moje vědecká zvídavost mi říká, že bych to měl zkusit. Musím se o tom pobavit s dr. McDermotem.</Dest>
     </String>
@@ -1595,7 +1595,7 @@ Běží program: žádný</Dest>
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
       <REC id="2">TERM:ITXT</REC>
       <Source>Journal Entry XX-17-999 (Date Out of Range)</Source>
-      <Dest>Záznam deníku z 17.XX.999 (datum mimo rozsah)</Dest>
+      <Dest>Záznam deníku z 17-XX-999 (datum mimo rozsah)</Dest>
     </String>
     <String List="0" sID="0047F8">
       <EDID>DLC04_Safari_MaintenanceTerminal</EDID>
@@ -1613,7 +1613,7 @@ We're continuing to have security issues with the misguided and radical "A.F.A.D
       <Dest>SD-Poznámka 082077&#xD;
 Od: Oddělení bezpečnosti&#xD;
 &#xD;
-Nadále máme problémy se skupinou pomýlených radikálů z POZ (Přátelé a ochránci zvířat). Tito jedinci mohou být identifikováni podle zvířecích masek, různých zvířecích tetování a občas i celých zvířecích overallů. Pokud zaznamenáte jakéhokoliv z těchto jedinců, NEpokoušejte se k němu přibližovat. Kontaktujte kancelář ochranky nebo aktivujte nejbližšího protektrona.</Dest>
+Nadále máme problémy se skupinou pomýlených radikálů z POZ (Přátelé a ochránci zvířat). Tito jedinci mohou být identifikováni podle zvířecích masek, různých zvířecích tetování a občas i celých zvířecích overalů. Pokud zaznamenáte jakéhokoliv z těchto jedinců, NEpokoušejte se k němu přibližovat. Kontaktujte kancelář ochranky nebo aktivujte nejbližšího protektrona.</Dest>
     </String>
     <String List="0" sID="0047FE">
       <EDID>DLC04_Safari_ReptileHouseTerminal</EDID>
@@ -1635,9 +1635,9 @@ Aktuální čas: CHYBA-MIMO ROZSAH</Dest>
       <Source>Journal Entry 10-23-2077&#xD;
 &#xD;
 It's about 1am, and I've just received a strange message via phone that I'm needed at the Angry Anaconda Construction Site to assist with an escaped animal that's been injured. I swear, those security guys need to be more careful with our specimens. Last time this happened, not only did one of the escaped buffalo end up with a broken leg, but the other died when security had the wrong dosage in the tranquilizer darts. I'll report my findings in my next entry.</Source>
-      <Dest>Záznam deníku z  23.10.2077&#xD;
+      <Dest>Záznam deníku z 23-10-2077&#xD;
 &#xD;
-Je asi 1 hodina v noci a zrovna mi přišla na mobil zvláštní zpráva, že mě potřebují na stavěništi Rozzlobené anakondy, abych pomohl se zvířetem, které bylo zraněno, když uteklo. Sakra, ti kluci z bezpečnosti musí být opatrnější, když zacházejí s našimi exempláři. Když se to stalo naposled, tak nejen že jeden z uprchlých bůvolů skončil se zlomenou nohou, ale ten druhý dokonce zemřel, když dala ochranka do uspávacích šipek špatnou dávku. V příštím zápise popíšu, co jsem zjistil.</Dest>
+Je asi 1 hodina v noci a zrovna mi přišla na mobil zvláštní zpráva, že mě potřebují na staveništi Rozzlobené anakondy, abych pomohl se zvířetem, které bylo zraněno, když uteklo. Sakra, ti kluci z bezpečnosti musí být opatrnější, když zacházejí s našimi exempláři. Když se to stalo naposled, tak nejen že jeden z uprchlých buvolů skončil se zlomenou nohou, ale ten druhý dokonce zemřel, když dala ochranka do uspávacích šipek špatnou dávku. V příštím zápise popíšu, co jsem zjistil.</Dest>
     </String>
     <String List="0" sID="00480B">
       <EDID>DLC04_Safari_ReptileHouseTerminal</EDID>
@@ -1655,15 +1655,15 @@ Vzhledem k nedávným incidentům byli z dětské plazí mazlící zóny odstran
       <Source>Journal Entry XX-32-999 (Date Out of Range)&#xD;
 &#xD;
 My attempts at creating the Gatorclaw continue. I have the correct samples of Jackson Chameleon and American Alligator in the mix, but keeping Sample Q334 stable continues to elude me. If I intend to create a guardian creature for Safari Adventure, it has to be able to listen to and comprehend my commands. I was hoping the brain cells from Q334 would do the trick, but I've seen failure after failure. I hesitate to throw the switch and see what happens. What if I can't control it? What if it ends up attracting more attention to the park? I think I'll check the sequence a few more times just to be sure.</Source>
-      <Dest>Záznam deníku z 32.XX.999 (datum mimo rozsah)&#xD;
+      <Dest>Záznam deníku z 32-XX-999 (datum mimo rozsah)&#xD;
 &#xD;
-Mé pokusy o vytvoření gátora pokračují. Mám ve směsi vhodné vzorky chameleona třírohého a aligátora severoamerického, ale stále se mi nedaří stabilizovat vzorek Q334. Pokud chci vytvořit hlídací zvíře pro safari dobrodružství, musí být schopné mě poslouchat a porozumět příkazům. Doufal, jsem, že by k tomu účelu mohly posložit mozkové buňky z Q334, ale další a další pokusy selhávají. Zatím se nechce zmáčknout spínač a čekat jak to dopadne. Co když to nebudu moci kontrolovat? Co když to k parku přitáhne nežádoucí pozornost? Myslím, že radši ještě několikrát zkontroluji sekvenci, abych měl jistotu.</Dest>
+Mé pokusy o vytvoření gátora pokračují. Mám ve směsi vhodné vzorky chameleona třírohého a aligátora severoamerického, ale stále se mi nedaří stabilizovat vzorek Q334. Pokud chci vytvořit hlídací zvíře pro safari dobrodružství, musí být schopné mě poslouchat a porozumět příkazům. Doufal, jsem, že by k tomu účelu mohly posloužit mozkové buňky z Q334, ale další a další pokusy selhávají. Zatím se mi nechce zmáčknout spínač a čekat, jak to dopadne. Co když to nebudu moci kontrolovat? Co když to k parku přitáhne nežádoucí pozornost? Myslím, že radši ještě několikrát zkontroluji sekvenci, abych měl jistotu.</Dest>
     </String>
     <String List="0" sID="004812">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
       <REC id="1">TERM:ITXT</REC>
       <Source>Journal Entry XX-21-999 (Date Out of Range)</Source>
-      <Dest>Záznam deníku z 21.XX.999 (datum mimo rozsah)</Dest>
+      <Dest>Záznam deníku z 21-XX-999 (datum mimo rozsah)</Dest>
     </String>
     <String List="0" sID="004815">
       <EDID>DLC04_workshopRecipe_NW_SignsClutterAll</EDID>
@@ -1683,7 +1683,7 @@ Běží program: McDermot987GC114 „gátor“</Dest>
       <EDID>DLC04_Safari_CloningTerminalMain</EDID>
       <REC id="0">TERM:RNAM</REC>
       <Source>Disabling McDermot987GC114 Procedure</Source>
-      <Dest>Ukončuji postup McDermot987GC114</Dest>
+      <Dest>Ukončuji proces McDermot987GC114</Dest>
     </String>
     <String List="0" sID="00481D">
       <EDID>DLC04_workshopRecipe_GZ_SupportBeams</EDID>
@@ -1873,9 +1873,9 @@ Status parku: KÓD GRIZZLY</Dest>
       <Source>Journal Entry XX-02-999 (Date Out of Range)&#xD;
 &#xD;
 It's been decades now and my metamorphosis continues. My body is changing... adapting to the radioactive fallout in the air. Instead of my organs shutting down and my life being slowly drained away, my body is fighting back. My skin has thickened and become heavily wrinkled as if it's attempting to resist the radiation rather than allow it to penetrate my body. Rather than be horrified by the changes, I've decided to study them... to learn more about the effect this is having on the human body. Perhaps I'll use the data from these studies to find a cure one day, but for now, I'm just happy to be alive.</Source>
-      <Dest>Záznam deníku z 02.XX.999 (datum mimo rozsah)&#xD;
+      <Dest>Záznam deníku z 02-XX-999 (datum mimo rozsah)&#xD;
 &#xD;
-Už je to několik desetiletí a má proměna stále pokračuje. Mé tělo se mění... adaptuje se na radiaktivní spad ve vzduchu. Místo toho, aby mé orgány postupně selhávaly a můj život pomalu vyprchával, se mé tělo snaží bojovat. Má kůže zduřela a zvrásnila se, jakoby se pokoušela odolat radiaci, místo toho aby ji nechala proniknout do mého těla. Místo abych se nechal těmito změnami vystrašit jsem se je rozhodl studovat... naučit se více o důsledcích, jaké to má na lidské tělo. Možná jednoho dne využiji poznatky z této studie k vynalezení léku, ale prozatím jsem prostě šťastný, že jsem naživu.</Dest>
+Už je to několik desetiletí a má proměna stále pokračuje. Mé tělo se mění... adaptuje se na radioaktivní spad ve vzduchu. Místo toho, aby mé orgány postupně selhávaly a můj život pomalu vyprchával, se mé tělo snaží bojovat. Má kůže zduřela a zvrásnila se, jakoby se pokoušela odolat radiaci, místo toho aby ji nechala proniknout do mého těla. Místo abych se nechal těmito změnami vystrašit jsem se je rozhodl studovat... naučit se více o důsledcích, jaké to má na lidské tělo. Možná jednoho dne využiji poznatky z této studie k vynalezení léku, ale prozatím jsem prostě šťastný, že jsem naživu.</Dest>
     </String>
     <String List="0" sID="004860">
       <EDID>DLC04_workshopRecipe_GZ_Cutout</EDID>
@@ -1889,7 +1889,7 @@ Už je to několik desetiletí a má proměna stále pokračuje. Mé tělo se m�
       <Source>Journal Entry 06-02-2077&#xD;
 &#xD;
 Thanks to Dr. McDermot's help, I've been able to isolate the segmentation issues I've been having with PB041. The Polar Bears on the last segment kept coming out of the Nuka-Gen Replicator inside out and then exploding. I assume this was due to an incorrect sequence, but I've never seen such a violent reaction from a specimen before. It was actually a rather spectacular result, strictly from a scientific point of view.</Source>
-      <Dest>Záznam deníku z 06-02-2077&#xD;
+      <Dest>Záznam deníku z 02-06-2077&#xD;
 &#xD;
 Díky pomoci dr. McDermota jsem byl schopen izolovat segmentační problémy, které máme se vzorkem PB041. Lední medvědi z posledního segmentu stále vycházeli z Nuka-Gen replikátoru převrácení naruby a následně explodovali. Předpokládám, že to bylo způsobeno chybou v sekvenci, ale ještě nikdy jsem u žádného druhu neviděl tak bouřlivou reakci. Vlastně to byl poměrně pozoruhodný výsledek. Tedy čistě z vědeckého hlediska.</Dest>
     </String>
@@ -1975,11 +1975,11 @@ In the event that a visitor has been bitten or stung by any one of our specimens
 &#xD;
 V případě, že byl některý z návštěvníku pokousán nebo bodnut některým z našich exemplářů, nepropadejte panice a postupujte podle následujících kroků:&#xD;
 &#xD;
-1. Ujistite se, že má host platnou vstupenku, včetně přijetí zodpovědnosti na zadní straně.&#xD;
+1. Ujistěte se, že má host platnou vstupenku, včetně přijetí zodpovědnosti na zadní straně.&#xD;
 &#xD;
 2. Pokud má platnou vstupenku do parku, musí okamžitě vyplnit Záznam o nehodě v Safari dobrodružství. Formuláře jsou k dispozici v Nuka Townu v hlavní kanceláři. Pokud je návštěvník paralyzován nebo jinak neschopen samostatného pohybu, informujte jej, že mu můžeme zapůjčit Nuka World pohotovostní nosítka za cenu čtyř set dolarů.&#xD;
 &#xD;
-3. Jakmile bude vyplněn záznam o nehodě v Safari dobrodružství, bude poskytnuta první pomoc. Cena materiálu a práce záchranáře bude návštěvníkovi vyúčtována.&#xD;
+3. Jakmile bude vyplněn záznam o nehodě v Safari dobrodružství, bude poskytnuta první pomoc. Cena materiálu a práce záchranáře bude návštěvníkovi naúčtována.&#xD;
 &#xD;
 4. Pokud návštěvník nemá platnou vstupenku, zavolejte prosím co nejdříve ochranku.</Dest>
     </String>
@@ -1987,7 +1987,7 @@ V případě, že byl některý z návštěvníku pokousán nebo bodnut někter�
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
       <REC id="0">TERM:ITXT</REC>
       <Source>Journal Entry 10-23-2077</Source>
-      <Dest>Záznam deníku z 23.10.2077</Dest>
+      <Dest>Záznam deníku z 23-10-2077</Dest>
     </String>
     <String List="0" sID="004882">
       <EDID>DLC04_Safari_ReptileHouseTerminal</EDID>
@@ -1999,7 +1999,7 @@ V případě, že byl některý z návštěvníku pokousán nebo bodnut někter�
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Journal Entry 01-01-2077</Source>
-      <Dest>Záznam deníku z  01.01.2077</Dest>
+      <Dest>Záznam deníku z 01-01-2077</Dest>
     </String>
     <String List="0" sID="004890">
       <EDID>DLC04_workshopRecipe_NW_StatueBottleCappy</EDID>
@@ -2017,7 +2017,7 @@ V případě, že byl některý z návštěvníku pokousán nebo bodnut někter�
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Journal Entry XX-09-999 (Date Out of Range)</Source>
-      <Dest>Záznam deníku z 09.XX.999 (datum mimo rozsah)</Dest>
+      <Dest>Záznam deníku z 09-XX-999 (datum mimo rozsah)</Dest>
     </String>
     <String List="0" sID="004898">
       <EDID>DLC04_Safari_MaintenanceTerminal</EDID>
@@ -2029,7 +2029,7 @@ V případě, že byl některý z návštěvníku pokousán nebo bodnut někter�
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
       <REC id="4">TERM:ITXT</REC>
       <Source>Journal Entry XX-02-999 (Date Out of Range)</Source>
-      <Dest>Záznam deníku z 02.XX.999 (datum mimo rozsah)</Dest>
+      <Dest>Záznam deníku z 02-XX-999 (datum mimo rozsah)</Dest>
     </String>
     <String List="0" sID="0048AD">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
@@ -2063,7 +2063,7 @@ Vzhledem k nedávným incidentům, ve kterých sehrála roli organizace působí
       <EDID>DLC04_Safari_DrHeinTerminal</EDID>
       <REC id="3">TERM:ITXT</REC>
       <Source>Journal Entry 02-27-2077</Source>
-      <Dest>Záznam deníku z  27.02.2077</Dest>
+      <Dest>Záznam deníku z 27-02-2077</Dest>
     </String>
     <String List="0" sID="0048C5">
       <EDID>DLC04_Safari_DrMcDermotTerminal</EDID>
@@ -2264,7 +2264,7 @@ Vzhledem k nedávným incidentům, ve kterých sehrála roli organizace působí
 &#xD;
 Cito's Mother,&#xD;
 Imelda</Source>
-      <Dest>Pokud, čtete tento vzkaz, pak jste potkali Marcosita. Jeho otec, Marcos, byl zabit při útoku supermutantů na naši osadu a obavám se, že i já podlehnu svým zraněním. Nemám mnoho času a děsí mne možnost, že bych ho vyslala do tohoto světa samotného, ale nemám jinou možnost. Prosím tě, aby ses o něj postaral a zajistil pro něj jídlo a přístřešek, aby přežil. Řekni našemu malému Citovi, že jeho rodiče jej milují a že pokud by nás hledal, budeme vždy v jeho srdci.&#xD;
+      <Dest>Poku, čtete tento vzkaz, pak jste potkali Marcosita. Jeho otec, Marcos, byl zabit při útoku supermutantů na naši osadu a obavám se, že i já podlehnu svým zraněním. Nemám mnoho času a děsí mne možnost, že bych ho vyslala do tohoto světa samotného, ale nemám jinou možnost. Prosím tě, aby ses o něj postaral a zajistil pro něj jídlo a přístřešek, aby přežil. Řekni našemu malému Citovi, že jeho rodiče jej milují a že pokud by nás hledal, budeme vždy v jeho srdci.&#xD;
 &#xD;
 Citova matka,&#xD;
 Imelda</Dest>
