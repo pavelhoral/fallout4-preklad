@@ -687,7 +687,7 @@ Select target:</Source>
 Nouzový protokol: Omezená kontrola&#xD;
 Status: NEAKTIVNÍ&#xD;
 &#xD;
-Popis: získá kontrolu nad propojenými robotickými systémy se specifickým firmwarem a způsobí, že tyto budou schopny rozpoznat a pohámat vybranému uživateli. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
+Popis: získá kontrolu nad propojenými robotickými systémy se specifickým firmwarem a způsobí, že tyto budou schopny rozpoznat a pomáhat vybranému uživateli. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
 &#xD;
 Zvolte cíl:</Dest>
     </String>
@@ -753,7 +753,7 @@ Systém „Řízení Systematizované Telemetrie pro Automatizaci Robotů“ (Ř
 &#xD;
 Technologie řízení STAR je založena na sérii redundantních vyměnitelných telemetrických modulů (tzv. STAR jádrech). Při provozu tato jádra vytváří pomocí rádiové komunikace spojení mezi řídícím systémem STAR a připojenými robotickými systémy, čímž umožňuje centrálnímu počítači koordinovat prováděné činnosti a zadávat příkazy bez ohledu na základní provozní protokoly.&#xD;
 &#xD;
-Jednotlivá STAR jádra mohou být bezpečně vyměněna i při běžném provozu. V případě závažné poruchy je stále možné řízení STAR nastartovat v nouzovém režimu s omezenou funkčností, pokud je přítomno alespoň jedno STAR jádro. Zatímco je systém v nouzovém režimu, jednají všichni roboti v souladu s jejich předchozími provozními pokyny. S tím, jak jsou jednotlivá jádra nahrazována, se začně postupně odemykat série nouzových protokolů umožňujících díky vzrůstajícímu výpočetnímu výkonu uživateli reagovat na urgentní problémy do okamžiku, než bude obnovena plná funkčnost systému.&#xD;
+Jednotlivá STAR jádra mohou být bezpečně vyměněna i při běžném provozu. V případě závažné poruchy je stále možné řízení STAR nastartovat v nouzovém režimu s omezenou funkčností, pokud je přítomno alespoň jedno STAR jádro. Zatímco je systém v nouzovém režimu, jednají všichni roboti v souladu s jejich předchozími provozními pokyny. S tím, jak jsou jednotlivá jádra nahrazována, se začne postupně odemykat série nouzových protokolů umožňujících díky vzrůstajícímu výpočetnímu výkonu uživateli reagovat na urgentní problémy do okamžiku, než bude obnovena plná funkčnost systému.&#xD;
 &#xD;
 Pro doplňkový prodej, servis a technickou podporu prosím kontaktujte oddělení RobCo Enterprise Solutions. Děkujeme, že jste si vybrali RobCo.</Dest>
     </String>
@@ -894,7 +894,7 @@ Description: Establishes a weak connection to linked robotic systems in the targ
 &#xD;
 Select target:</Source>
       <Dest>***** NOUZOVÝ REŽIM *****&#xD;
-Nouzový protokol: Vyhledání bugu&#xD;
+Nouzový protokol: Vyhledávání robota&#xD;
 Status: NEAKTIVNÍ&#xD;
 &#xD;
 Popis: naváže slabé spojení s propojenými robotickými systémy v cílové oblasti, čímž umožní jejich odhalení a nalezení uživatelem. Jakmile je cíl vybrán, není možné jej měnit.&#xD;
@@ -1047,7 +1047,7 @@ Took us three days, but we finally broke through the rubble around the north gat
 This here's the real prize, though-- top-of-the-line pre-war tech, still humming along. My girl Tiana says these glowy things are 'redundant', which I guess means we can take 'em. Oughta fetch a good price back in town.</Source>
       <Dest>Kendellův deník: 29. 2. 2284&#xD;
 &#xD;
-Trvalo nám to tři dny, ale konečně jsem se prokopali sutinami kolem severní brány. Nakráčeli jsme přímo dovnitř. Žádné věže, žádní bojoví roboti, nic. Jediný robot, kterého jsem musel sejmout, byl ten zatracený nukatron, co se mi snažil prodat láhev Nuka-Cherry za deset dolarů. Ta zatracený krám mi ani nechtěl vzít zátky.&#xD;
+Trvalo nám to tři dny, ale konečně jsem se prokopali sutinami kolem severní brány. Nakráčeli jsme přímo dovnitř. Žádné věže, žádní bojoví roboti, nic. Jediný robot, kterého jsem musel sejmout, byl ten zatracený nukatron, co se mi snažil prodat láhev Nuka-Cherry za deset dolarů. Ten zatracený krám mi ani nechtěl vzít zátky.&#xD;
 &#xD;
 Hlavní cenou je ale tady tohle – špičková předválečná technologie, stále funkční. Moje holčička, Tiana, říká, že ty svítící věcičky jsou „nahraditelné“, což asi znamená, že je můžeme vzít. Za ty bychom měli ve městě dostat dobrou cenu.</Dest>
     </String>
@@ -1071,7 +1071,7 @@ Hlavní cenou je ale tady tohle – špičková předválečná technologie, st�
 Finished the install job for the new mainframe today. Mark and I fired it up for a test run after hours. Seemed to go pretty well. RobCo's communications interlink doesn't play nice with older-model Handys we've got working concessions-- big surprise there-- but I'm still glad we went with their bid over the one from General Atomics. Their 'Director' system is a mess-- single point of failure and all. Star Control may be overkill, but at least it has some redundancy if something does go wrong.</Source>
       <Dest>Technikův deník: 31. 8. 2077&#xD;
 &#xD;
-Dneska jsme dokončili instalaci nového centrálního počítače. Po šichtě jsme ho s Markem na zkoušku zapli a nechali jet. Zdá se, že funguje celkem dobře. V rámci navazování spojení má trošku problém se staršími modely Šikulků, na které máme licence – to je ale překvapení – ale stejně jsem rád, že jsme kývli na nabídku RobCo a ne na tu od General Atomics. Ten jejich „Řídící“ je šílený – stačí, aby to selhalo na jednom místě a konečná. Řízení STAR je v tomhle ohledu možná až přehnané, ale má v sobě dost redundance pro případ, když by se něco zvrtlo.</Dest>
+Dneska jsme dokončili instalaci nového centrálního počítače. Po šichtě jsme ho s Markem na zkoušku zapnuli a nechali jet. Zdá se, že funguje celkem dobře. V rámci navazování spojení má trošku problém se staršími modely Šikulků, na které máme licence – to je ale překvapení – ale stejně jsem rád, že jsme kývli na nabídku RobCo a ne na tu od General Atomics. Ten jejich „Řídící“ je šílený – stačí, aby to selhalo na jednom místě a konečná. Řízení STAR je v tomhle ohledu možná až přehnané, ale má v sobě dost redundance pro případ, když by se něco zvrtlo.</Dest>
     </String>
     <String List="0" sID="0016D1">
       <EDID>DLC04GZMain_StarControl_Protocol_LimitedControl</EDID>
@@ -1146,7 +1146,7 @@ Status: ACTIVE&#xD;
 &#xD;
 The Selective Shutdown was issued successfully.</Source>
       <Dest>***** NOUZOVÝ REŽIM *****&#xD;
-Nouzový protokol: Selektivní vypnutí Ii&#xD;
+Nouzový protokol: Selektivní vypnutí II&#xD;
 Status: AKTIVNÍ&#xD;
 &#xD;
 Příkaz Selektivního vypnutí byl úspěšně zadán.</Dest>
@@ -1162,7 +1162,7 @@ STAR CORES:&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
       <Dest>VAROVÁNÍ&#xD;
-V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
+V protokolu [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
 STAR JÁDRA&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt=DLC04GZ_StarCoresTotal&gt; STAR jader potřebných pro plnou funkčnost.&#xD;
@@ -1184,10 +1184,10 @@ Status: ACTIVE&#xD;
 &#xD;
 The Tracking Bug was set successfully.</Source>
       <Dest>***** NOUZOVÝ REŽIM *****&#xD;
-Nouzový protokol: Vyhledání bugu&#xD;
+Nouzový protokol: Vyhledávání robota&#xD;
 Status: AKTIVNÍ&#xD;
 &#xD;
-Příkaz Vyhledání bugu byl úspěšně zadán.</Dest>
+Příkaz Vyhledávání robota byl úspěšně zadán.</Dest>
     </String>
     <String List="0" sID="0016E2">
       <EDID>DLC04GZMain_StarControl_DefensiveMode</EDID>
@@ -1390,7 +1390,7 @@ Available Operations:</Source>
 ... Model X9000 vesmírný strážní robot nalezen.&#xD;
 &#xD;
 Analýza jednotky. Čekejte, prosím...&#xD;
-ERR 0x117: Kritické poškození systému mobility. Jednotak není schopna pohybu.&#xD;
+ERR 0x117: Kritické poškození systému mobility. Jednotka není schopna pohybu.&#xD;
 ERR 0x281: Kritické poškození systému zaměřování. V boji bude jednotka útočit na náhodné cíle.&#xD;
 &#xD;
 ANALÝZA: Opravy nemožné. Doporučuje se okamžitá a bezpečná likvidace této jednotky.&#xD;
@@ -1473,7 +1473,7 @@ A 10-second countdown has begun. Please evacuate the area.</Source>
 Zahájení nouzové autodestrukce...&#xD;
 ... hotovo.&#xD;
 &#xD;
-Začalo 10vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
+Začalo 10-ti vteřinové odpočítávání. Prosím, evakuujte oblast.</Dest>
     </String>
     <String List="0" sID="001D91">
       <EDID>DLC04GZBattlezone_RobotRepairTerminal</EDID>
@@ -1932,7 +1932,7 @@ STAR CORES:&#xD;
 &#xD;
 AVAILABLE COMMANDS:</Source>
       <Dest>VAROVÁNÍ&#xD;
-V protoku [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
+V protokolu [Obranný režim] byla zjištěna chyba. Prosím, vypněte tento protokol a obraťte se na technika z RobCo Enterprise Systems s žádostí o pomoc.&#xD;
 &#xD;
 STAR JÁDRA&#xD;
 &lt;Token.ValueInt=DLC04GZ_StarCoresInstalled&gt;/&lt;Token.ValueInt DLC04GZ_StarCoresTotal&gt; nainstalovaných STAR jader.&#xD;
@@ -2277,7 +2277,7 @@ V okolí detekováno celkem [&lt;Token.ValueInt=DLC04GZ_StarCoresNotInstalled&gt
       <EDID>DLC04GZMain_StarControlTerminal</EDID>
       <REC id="5">TERM:ITXT</REC>
       <Source>Emergency Protocol: Tracking Bug</Source>
-      <Dest>Nouzový protokol: Vyhledání bugu</Dest>
+      <Dest>Nouzový protokol: Vyhledávání robota</Dest>
     </String>
     <String List="0" sID="0043ED">
       <EDID>DLC04Gauntlet_TurretControlTerminal</EDID>
@@ -2423,7 +2423,7 @@ Turbína jednotka 345-B: *** VYPNUTA ***&#xD;
 Turbína jednotka 427-A: *** VYPNUTA ***&#xD;
 &#xD;
 Varování:&#xD;
-! Turbína jednotka 427–A nenalezena. Prosím, okamžitě kontaktujte údržbu, aby bylo se zabránilo vypnutí rozvodny.&#xD;
+! Turbína jednotka 427–A nenalezena. Prosím, okamžitě kontaktujte údržbu, aby se zabránilo vypnutí rozvodny.&#xD;
 </Dest>
     </String>
     <String List="0" sID="00459F">
@@ -2831,7 +2831,7 @@ POLOŽKY&#xD;
       <EDID>DLC04GrandchesterPlaqueMsq05</EDID>
       <REC>MESG:DESC</REC>
       <Source>After creating this upside down room, the Grandchesters stopped receiving visitors. Most of their high society friends had begun to shun them by then anyway.</Source>
-      <Dest>Poté, co Grandchesterové vytvořili tuto „vzhůra nohama“ místo, přestali přijímat návštěvy. Většina jejich přátel z vyšší společnosti se jich tou dobou už stejně začala stranit.</Dest>
+      <Dest>Poté, co Grandchesterové vytvořili tuto místnost „vzhůra nohama“, přestali přijímat návštěvy. Většina jejich přátel z vyšší společnosti se jich tou dobou už stejně začala stranit.</Dest>
     </String>
     <String List="1" sID="0044E8">
       <EDID>DLC04GrandchesterPlaqueMsq02</EDID>
@@ -2868,7 +2868,7 @@ POLOŽKY&#xD;
       <EDID>DLC04GrandchesterPlaqueMsq07</EDID>
       <REC>MESG:DESC</REC>
       <Source>When curators investigated this room, they found a variety of hidden speakers, trip wires, fog machines and other devices clearly used to stage false seances.</Source>
-      <Dest>Když kurátoři prohledávali tuto místnost, našli nejrůznější skryté reproduktory, nástražné dráty, stroje na výrobu kouře a další zařízení, která byla zjevně používáná k inscenování falešných seancí.</Dest>
+      <Dest>Když kurátoři prohledávali tuto místnost, našli nejrůznější skryté reproduktory, nástražné dráty, stroje na výrobu kouře a další zařízení, která byla zjevně používána k inscenování falešných seancí.</Dest>
     </String>
     <String List="1" sID="004A6E">
       <EDID>DLC04EndgamePackDeadPerkMessage</EDID>
