@@ -99,7 +99,7 @@ program.
 program.
     command('find <pattern>').
     description('Find items with the defined pattern in their body.').
-    option('-g, --group <group>', 'specify entry type to find').
+    option('-p, --path <GROUP[:RECORD[:FIELD]]>', 'specify type path to check').
     option('-t, --text', 'do a text based search').
     option('-r, --reverse', 'use reversed hex pattern').
     action((pattern, options) => {
@@ -109,7 +109,13 @@ program.
         } else if (options.reverse) {
             pattern = pattern.match(/../g).reverse().join('');
         }
-        readModfile(new modfileFind.MatchExtractor(options.type, pattern)).result.forEach((match) => {
+        let typePath = options.path ? options.path.split(':') : [];
+        let matchExtractor = new modfileFind.MatchExtractor(
+                typePath.length >= 0 ? (typePath[0] || null) : null,
+                typePath.length >= 1 ? (typePath[1] || null) : null,
+                typePath.length >= 2 ? (typePath[2] || null) : null,
+                pattern);
+        readModfile(matchExtractor).result.forEach((match) => {
             output.write(`${renderFormId(match.formId)} [${parseModfile.MODFILE_TYPES.decode(match.type)}] ${match.editorId}\n`);
         });
     });

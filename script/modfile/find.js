@@ -5,10 +5,9 @@ var MODFILE_TYPES = new parseModfile.ModfileType(['EDID']);
 
 class FieldMatcher {
 
-    constructor(pattern) {
-        pattern = pattern.split(':');
-        this.type = pattern.length > 1 ? MODFILE_TYPES.encode(pattern[0]) : null;
-        this.pattern = new RegExp(pattern[pattern.length - 1], 'i');
+    constructor(field, pattern) {
+        this.type = field ? MODFILE_TYPES.encode(field) : null;
+        this.pattern = new RegExp(pattern, 'i');
     }
 
     matches(type, size, buffer, offset) {
@@ -25,9 +24,10 @@ class FieldMatcher {
  */
 class MatchExtractor {
 
-    constructor(type, pattern) {
-        this.type = type ? MODFILE_TYPES.encode(type) : null;
-        this.matcher = new FieldMatcher(pattern);
+    constructor(group, record, field, pattern) {
+        this.group = group ? MODFILE_TYPES.encode(group) : null;
+        this.record = record ? MODFILE_TYPES.encode(record) : null;
+        this.matcher = new FieldMatcher(field, pattern);
         this.context = null;
         this.result = [];
     }
@@ -36,13 +36,16 @@ class MatchExtractor {
     }
 
     handleGroup(type, label, parse) {
-        if (type === 0 && this.type && this.type !== label) {
+        if (type === 0 && this.group && this.group !== label) {
             return; // Unwanted top-level group
         }
         parse(this);
     }
 
     handleRecord(type, size, flags, formId, parse) {
+        if (this.record && this.record !== type) {
+            return; // Unwanted record type
+        }
         this.context = {
             type: type,
             formId: formId
@@ -56,9 +59,6 @@ class MatchExtractor {
     handleField(type, size, buffer, offset) {
         if (type === MODFILE_TYPES.EDID) {
             this.context.editorId = buffer.toString('ascii', offset, offset + size - 1);
-            if (this.context.type == MODFILE_TYPES.KYWD && this.keyword === this.context.editorId) {
-                this.pattern = this.context.formId;
-            }
         }
         if (this.matcher.matches(type, size, buffer, offset)) {
             this.context.match = true;
