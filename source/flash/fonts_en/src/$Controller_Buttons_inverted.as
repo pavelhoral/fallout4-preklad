@@ -1,4 +1,4 @@
-package {	
+package {
     import flash.text.Font;
 
     [Embed(source='../lib/ControllerButtons-Inverted.ttf', fontName='Controller Buttons Inverted', embedAsCFF='false')]
