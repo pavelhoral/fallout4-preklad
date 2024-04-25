@@ -59,6 +59,10 @@
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="InterfaceDir" FileSource="$(var.SourceBase)/interface">
+            <Component Id="FontConfig.txt" Guid="AB180B8A-B118-4A62-9F5F-E408994A2C8A">
+                <RemoveFile Id="FontConfig.txt" Name="FontConfig.txt" On="both" />
+                <File Id="FontConfig.txt" KeyPath="yes" />
+            </Component>
             <Component Id="FalloutDict.txt" Guid="12EFF6F4-D4B3-46DE-B19D-8ECC9C14E2FD">
                 <RemoveFile Id="FalloutDict.txt" Name="FalloutDict.txt" On="both" />
                 <File Id="FalloutDict.txt" KeyPath="yes" />
@@ -174,6 +178,7 @@
             </Component>
         </DirectoryRef>
         <Feature Id="DefaultFeature" Level="1">
+            <ComponentRef Id="FontConfig.txt" />
             <ComponentRef Id="FalloutDict.txt" />
             <ComponentRef Id="fonts_console.swf" />
             <ComponentRef Id="fonts_en.swf" />

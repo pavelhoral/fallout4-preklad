@@ -15,6 +15,7 @@ program.
     option('-u, --unaccent', 'remove accents from translation strings').
     option('-p, --partial', 'include partial translations').
     option('-d, --debug', 'prepend string identifiers to translations').
+    option('-m, --missing', 'print missing translations').
     option('-r, --review', 'create strings suitable for Creation Kit review').
     parse(process.argv);
 
@@ -31,7 +32,12 @@ function loadXml(xmlPath) {
     return xmlObject;
 }
 
-function applyShadow(strings, shadowPath) {
+function renderStringId(stringId) {
+    var hexId = (stringId | 0).toString(16).toUpperCase();
+    return '000000'.substring(0, 6 - hexId.length) + hexId;
+}
+
+function applyShadow(strings, shadowPath, missing = false) {
     var shadow = new parseStrings.StringsReader().readFile(shadowPath);
     Object.keys(shadow).forEach((stringId) => {
         var shadowString = shadow[stringId];
@@ -39,6 +45,9 @@ function applyShadow(strings, shadowPath) {
             return;
         }
         if (shadowString && shadowString != ' ' && shadowString != '  ') {
+            if (missing) {
+                console.log(`${path.basename(shadowPath)} [${renderStringId(stringId) }] ${JSON.stringify(shadowString)}`);
+            }
             shadowString = '!' + shadowString;
         }
         strings[stringId] = shadowString;
@@ -47,10 +56,9 @@ function applyShadow(strings, shadowPath) {
 
 function applyDebug(strings) {
     Object.keys(strings).forEach((stringId) => {
-        var string = strings[stringId],
-            hexId = (stringId | 0).toString(16).toUpperCase();
+        var string = strings[stringId];
         if (string && string != ' ' && string != '  ' && string != '*') {
-            strings[stringId] = '[' + '000000'.substring(0, 6 - hexId.length) + hexId + ']' + string;
+            strings[stringId] = '[' + renderStringId(stringId) + ']' + string;
         }
     });
 }
@@ -96,7 +104,11 @@ fs.ensureDirSync(targetDirectory);
                 return result;
             }, {});
     if (program.shadow) {
-        applyShadow(strings, path.join(program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type));
+        applyShadow(
+            strings,
+            path.join(program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type),
+            program.missing
+        );
     }
     if (program.debug) {
         applyDebug(strings);
