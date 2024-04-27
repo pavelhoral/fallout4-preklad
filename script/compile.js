@@ -38,10 +38,13 @@ function renderStringId(stringId) {
 }
 
 function applyShadow(strings, shadowPath, missing = false) {
-    var shadow = new parseStrings.StringsReader().readFile(shadowPath);
+    var shadow = new parseStrings.StringsReader().readFile(shadowPath, 'latin1');
     Object.keys(shadow).forEach((stringId) => {
         var shadowString = shadow[stringId];
         if (strings[stringId] !== undefined) {
+            if (strings[stringId].source !== shadowString) {
+                console.log(`Source string mismatch for ${renderStringId(stringId)}: ${JSON.stringify(shadowString).substring(0, 50)}`);
+            }
             return;
         }
         if (shadowString && shadowString != ' ' && shadowString != '  ') {
@@ -50,15 +53,15 @@ function applyShadow(strings, shadowPath, missing = false) {
             }
             shadowString = '!' + shadowString;
         }
-        strings[stringId] = shadowString;
+        strings[stringId] = { target: shadowString };
     });
 }
 
 function applyDebug(strings) {
     Object.keys(strings).forEach((stringId) => {
-        var string = strings[stringId];
+        var string = strings[stringId].target;
         if (string && string != ' ' && string != '  ' && string != '*') {
-            strings[stringId] = '[' + renderStringId(stringId) + ']' + string;
+            strings[stringId].target = '[' + renderStringId(stringId) + ']' + string;
         }
     });
 }
@@ -100,7 +103,10 @@ fs.ensureDirSync(targetDirectory);
             filter(string => string.$.List == index).
             filter(string => program.partial || !string.$.Partial).
             reduce((result, string) => {
-                result[parseInt(string.$.sID, 16)] =  renderString(string);
+                result[parseInt(string.$.sID, 16)] = {
+                    source: string.Source[0],
+                    target: renderString(string)
+                };
                 return result;
             }, {});
     if (program.shadow) {
@@ -113,5 +119,7 @@ fs.ensureDirSync(targetDirectory);
     if (program.debug) {
         applyDebug(strings);
     }
-    new parseStrings.StringsWriter().writeFile(strings, targetPrefix + type);
+    new parseStrings.StringsWriter().writeFile(
+            Object.fromEntries(Object.entries(strings).map(([key, value]) => [key, value.target])),
+            targetPrefix + type);
 });
