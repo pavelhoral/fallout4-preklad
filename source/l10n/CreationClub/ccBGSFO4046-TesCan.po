@@ -2,7 +2,13 @@ msgid ""
 msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: en"
+"PO-Revision-Date: 2024-04-28 17:01+0200\n"
+"Project-Id-Version: \n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.08.0\n"
 
 #. FormID=01000F9A
 #. EDID=CCBGSFO4046_mod_TesCan_Barrel_Standarda
@@ -11,6 +17,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000006"
 msgid "Standard."
 msgstr ""
+"Standardní."
 
 #. FormID=01000809
 #. EDID=CCBGSFO4046_mod_Tesla_CannonA_Mode
@@ -19,6 +26,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00002c"
 msgid "Fires an explosive Tesla shot, distributing damage via an area of effect."
 msgstr ""
+"Produkuje výbušnou tesla střelu, které způsobí poškození v oblasti účinku."
 
 #. FormID=01000808
 #. EDID=CCBGSFO4046_mod_Tesla_CannonB_Mode
@@ -27,6 +35,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000033"
 msgid "Fires a Tesla effect, that distributes through nearby enemies like a chain."
 msgstr ""
+"Produkuje tesla efekt, který se řetězově šíří mezi blízkými nepřáteli."
 
 #. FormID=01000873
 #. EDID=CCBGSFO4046_mod_Tesla_Cannon_Receiver_standard
@@ -35,6 +44,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000059"
 msgid "Standard."
 msgstr ""
+"Standardní."
 
 #. FormID=01000856
 #. EDID=ccBGSFO4046_GunnerSignalMessage
@@ -43,6 +53,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000062"
 msgid "Gunner Signal Remnant - %10.2f%%"
 msgstr ""
+"Neurčitý signál Ranařů - %10.2f%%"
 
 #. FormID=01000870
 #. EDID=ccBGSFO4046_mod_TesCan_Barrel_Automatic
@@ -51,6 +62,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00006c"
 msgid "Improved rate of fire and sighted accuracy. Poor hip-fire accuracy."
 msgstr ""
+"Lepší kadence a přesnost při míření. Špatná přesnost bez míření."
 
 #. FormID=0100086D
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_BetterCriticals1
@@ -59,6 +71,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000072"
 msgid "Improved critical shot damage and accuracy."
 msgstr ""
+"Lepší poškození kritickým zásahem a lepší přesnost."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -67,6 +80,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000078"
 msgid "The person who made the distress call was a Gunner from Vault 95. I arrived too late to save them. However, I've received a similar call from deep within the Glowing Sea. If I journey there, I might be able to find out more."
 msgstr ""
+"Člověk, který vyslal nouzový signál, byl Ranař z Vaultu 95. Nepodařilo se mi je včas zachránit. Nicméně se objevil podobný signál z hloubi Zářícího moře. Možná zjistím více, když se tam vydám."
 
 #. FormID=01000867
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1_ArmorPiercing2
@@ -75,6 +89,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000087"
 msgid "Better Tesla damage. Better range. Improved damage."
 msgstr ""
+"Lepší elektrické poškození. Zvýšený dostřel. Lepší poškození."
 
 #. FormID=0100086E
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_ArmorPiercing1
@@ -83,6 +98,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00008a"
 msgid "Improved Tesla damage and range."
 msgstr ""
+"Lepší elektrické poškození a dostřel."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -91,6 +107,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000a0"
 msgid "I've received a Vault-Tec Distress Signal on my Pip-Boy. Listening to it will reveal more."
 msgstr ""
+"Podařilo se mi na Pip-Boyovi zachytit nouzový signál Vault-Tecu. Jeho poslechem zjistím více."
 
 #. FormID=0100086C
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_ArmorPiercing2
@@ -99,6 +116,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000b3"
 msgid "Better Tesla damage and range."
 msgstr ""
+"Lepší elektrické poškození a dostřel."
 
 #. FormID=01000883
 #. EDID=ccBGSFO4046_SignalMessage
@@ -107,6 +125,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000b9"
 msgid "Downloading signal..."
 msgstr ""
+"Stahování signálu..."
 
 #. FormID=0100086B
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_BetterCriticals2
@@ -115,6 +134,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000bd"
 msgid "Superior critical shot damage. Better accuracy."
 msgstr ""
+"Mimořádné poškození kritickým zásahem. Lepší přesnost."
 
 #. FormID=01000866
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1_BetterCriticals2
@@ -123,6 +143,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000c0"
 msgid "Superior critical shot damage. Better accuracy. Improved damage."
 msgstr ""
+"Mimořádné poškození kritickým zásahem. Lepší přesnost. Lepší poškození."
 
 #. FormID=01000857
 #. EDID=ccBGSFO4046_VaultTecDistressMessage
@@ -131,6 +152,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000d7"
 msgid "Vault-Tec Distress Signal"
 msgstr ""
+"Nouzový signál Vault-Tecu..."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -139,6 +161,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000f3"
 msgid "I've found two Gunners who were part of an expedition deep into the Glowing Sea. I'm not sure what they were after, but it looks like the mission hasn't gone as planned. Following the next signal might tell me more."
 msgstr ""
+"Podařilo se mi objevit další dva Ranaře, kteří byli součástí expedice do Zářícího moře. Není zřejmé jaká byla jejich mise, ale očividně nešlo vše podle plánu. Možná zjistím více, když budu sledovat další signál."
 
 #. FormID=01000868
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1
@@ -147,6 +170,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000f5"
 msgid "Improved damage."
 msgstr ""
+"Lepší poškození."
 
 #. FormID=01000865
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage2
@@ -155,6 +179,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0000fa"
 msgid "Better damage."
 msgstr ""
+"Lepší poškození."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -163,6 +188,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00011b"
 msgid "I've heard through a distress signal that someone is in danger, and received coordinates to their location. Perhaps if I reach there, I can save them."
 msgstr ""
+"Z poslechu nouzového signálu je zřejmé, že je někdo v nesnázích a na jakých souřadnicích se nachází. Možná, když se tam vydám, tak se mi je podaří zachránit."
 
 #. FormID=01000864
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage3
@@ -171,6 +197,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00011c"
 msgid "Superior damage."
 msgstr ""
+"Mimořádné poškození."
 
 #. FormID=01000884
 #. EDID=ccBGSFO4046_SignalInturruptedMessage
@@ -179,6 +206,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000122"
 msgid "Download interrupted..."
 msgstr ""
+"Stahování přerušeno..."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -187,6 +215,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00012b"
 msgid "Caroni is dead, and the Tesla Cannon is now free to pick up."
 msgstr ""
+"Caroni je mrtvý a elektrokanón je volně k vyzvednutí."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -195,6 +224,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000132"
 msgid "The Gunners were trying to acquire a Pre-War weapon known as the Tesla Cannon. They managed to acquire it, but inner turmoil amongst the mercenaries led to much of the squad either being killed by the creatures of the Glowing Sea or separating. A Gunner known as Caroni had the Tesla Cannon last. I wasn't able to download the next signal, but the remnant of something has appeared on my Pip-Boy."
 msgstr ""
+"Ranaři se snažili získat předválečnou zbraň známou pod označením elektrokanón. Podařilo se jim ji získat, ale vnitřní rozbroje mezi žoldáky vedly k tomu, že většina z nich podlehla tvorům Zářícího moře, nebo se rozdělili. Ranař se jménem Caroni měl elektrokanón jako poslední. Další signál se mi nepodařilo stáhnout, ale na mém Pip-Boyovi se objevil zbytek čehosi."
 
 #. FormID=01000869
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_TeslaBeaton
@@ -203,6 +233,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00013e"
 msgid "Better damage. Worse accuracy and recoil."
 msgstr ""
+"Lepší poškození. Horší přesnost a zpětný ráz."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -211,6 +242,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00014e"
 msgid "The signal is weak, but it grows stronger depending on my position. Perhaps as it strengthens, it will lead me to the Tesla Cannon - and Caroni."
 msgstr ""
+"Signál je slabý, ale jeho síla roste v závislosti na mé poloze. Možná mě jeho zvyšující se intenzita dovede k elektrokanónu... a Caronimu."
 
 #. FormID=0100086A
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_JuryRigged
@@ -219,6 +251,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000156"
 msgid "Increased accuracy and recoil. Inferior damage."
 msgstr ""
+"Zvýšená přesnost a ovladatelnost zpětného rázu. Špatné poškození."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -227,6 +260,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000161"
 msgid "The Sergeant and the remnants of the Gunner squad managed to restrain Caroni. However, he broke free of his restraints, and finished off the rest of the squad. "
 msgstr ""
+"Seržantovi a pozůstatku jednotky Ranařů se podařilo Caroniho zadržet. Tomu se ale podařilo zbavit pout a povraždit zbylé členy jednotky."
 
 #. FormID=01000025
 #. EDID=ccBGSFO4046_NoValuableDataMessage
@@ -235,6 +269,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00016d"
 msgid "No valuable data."
 msgstr ""
+"Žádná hodnotná data."
 
 #. FormID=0100001D
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_ImprovedTeslaBeaton
@@ -243,6 +278,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000177"
 msgid "Exceptional damage. Inferior accuracy and recoil."
 msgstr ""
+"Výjimečné poškození. Špatná přesnost a velký zpětný ráz."
 
 #. FormID=0100001C
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_ImprovedJuryRigged
@@ -251,6 +287,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000189"
 msgid "Exceptional accuracy and recoil. Inferior damage."
 msgstr ""
+"Mimořádná přesnost a ovladatelnost zpětného rázu. Špatné poškození."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -259,6 +296,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:000190"
 msgid "There was a holotape on his person, revealing that Gunners can now access Pip-Boys. Perhaps if I access this Gunner's Pip-Boy I can find out more."
 msgstr ""
+"Mrtvola měla u sebe holopásku, ze které plyne, že Ranaři se umějí nabourat do Pip-Boyů. Možná zjistím více, když získám přístup do Ranařova Pip-Boye."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -267,6 +305,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:00019f"
 msgid "I've found a dead Gunner, but I don't know who attacked him or why. Maybe if I search his body, I can find out what happened to him."
 msgstr ""
+"Na místě byl mrtvý Ranař, ale není jasné, kdo nebo proč na něj zaútočil. Možná, když prohledám jeho tělo, tak zjistím, co se mu přihodilo."
 
 #. FormID=0100003D
 #. EDID=CCBGSFO4046_mod_TesCan_FavouriteMod
@@ -275,6 +314,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:dlstrings:0001a1"
 msgid "Favourite mod."
 msgstr ""
+"Oblíbená modifikace."
 
 #. FormID=01000F99
 #. EDID=CCBGSFO4046_Tesla_Cannon
@@ -283,6 +323,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000001"
 msgid "Default"
 msgstr ""
+"Výchozí"
 
 #. FormID=01000F99
 #. EDID=CCBGSFO4046_Tesla_Cannon
@@ -291,6 +332,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000002"
 msgid "Tesla Cannon"
 msgstr ""
+"Elektrokanón"
 
 #. FormID=01000F9A
 #. EDID=CCBGSFO4046_mod_TesCan_Barrel_Standarda
@@ -299,6 +341,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000003"
 msgid "Standard Barrel"
 msgstr ""
+"Standardní hlaveň"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -307,6 +350,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000007"
 msgid "Nostrils"
 msgstr ""
+"Nostrils"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -315,6 +359,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000008"
 msgid "Nose - Ridge"
 msgstr ""
+"Nose - Ridge"
 
 #. FormID=01000805
 #. EDID=cc_BGSFO4_4046_HumanRaceSubGraphDataAdditive
@@ -323,6 +368,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000009"
 msgid "Human"
 msgstr ""
+"Human"
 
 #. FormID=01000808
 #. EDID=CCBGSFO4046_mod_Tesla_CannonB_Mode
@@ -331,6 +377,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000a"
 msgid "Tesla-Beaton Assembly"
 msgstr ""
+"Beatonova elektrokanónová sada"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -339,6 +386,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000b"
 msgid "Jowls - Lower"
 msgstr ""
+"Jowls - Lower"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -347,6 +395,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000c"
 msgid "Eyelids - Top"
 msgstr ""
+"Eyelids - Top"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -355,6 +404,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000d"
 msgid "Eyelids - Bottom"
 msgstr ""
+"Eyelids - Bottom"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -363,6 +413,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000e"
 msgid "Forehead"
 msgstr ""
+"Forehead"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -371,6 +422,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00000f"
 msgid "Nose - Ridge"
 msgstr ""
+"Nose - Ridge"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -379,6 +431,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000010"
 msgid "Temple"
 msgstr ""
+"Temple"
 
 #. FormID=01000800
 #. EDID=ccBGSFO4046_miscmod_mod_Tesla_Cannon_Barrel_Standard
@@ -387,6 +440,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000011"
 msgid "Tesla Cannon Standard Barrel"
 msgstr ""
+"Elektrokanón - standardní hlaveň"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -395,6 +449,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000012"
 msgid "Jowls -  Lower"
 msgstr ""
+"Jowls -  Lower"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -403,6 +458,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000013"
 msgid "Ears Bottom"
 msgstr ""
+"Ears Bottom"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -411,6 +467,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000014"
 msgid "Eyebrow In"
 msgstr ""
+"Eyebrow In"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -419,6 +476,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000015"
 msgid "Ears Main"
 msgstr ""
+"Ears Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -427,6 +485,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000016"
 msgid "Chin"
 msgstr ""
+"Chin"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -435,6 +494,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000017"
 msgid "Ears Mid"
 msgstr ""
+"Ears Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -443,6 +503,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000018"
 msgid "Mouth Bot"
 msgstr ""
+"Mouth Bot"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -451,6 +512,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000019"
 msgid "Eyelids - Top"
 msgstr ""
+"Eyelids - Top"
 
 #. FormID=01000817
 #. EDID=ccBGSFO4046_TeslaBlueHitEffect
@@ -459,6 +521,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001a"
 msgid "Tesla Shock Damage"
 msgstr ""
+"Poškození elektrickým šokem"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -467,6 +530,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001b"
 msgid "Mouth Main"
 msgstr ""
+"Mouth Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -475,6 +539,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001c"
 msgid "Nose Tip"
 msgstr ""
+"Nose Tip"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -483,6 +548,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001d"
 msgid "Eyebrows Mid"
 msgstr ""
+"Eyebrows Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -491,6 +557,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001e"
 msgid "Cheek Bones"
 msgstr ""
+"Cheek Bones"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -499,6 +566,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00001f"
 msgid "Cheek Bones Back"
 msgstr ""
+"Cheek Bones Back"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -507,6 +575,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000020"
 msgid "Ears Bottom"
 msgstr ""
+"Ears Bottom"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -515,6 +584,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000021"
 msgid "Mouth Corners"
 msgstr ""
+"Mouth Corners"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -523,6 +593,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000022"
 msgid "Jaw Mid"
 msgstr ""
+"Jaw Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -531,6 +602,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000023"
 msgid "Ears Main"
 msgstr ""
+"Ears Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -539,6 +611,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000024"
 msgid "Lower Face"
 msgstr ""
+"Lower Face"
 
 #. FormID=01000809
 #. EDID=CCBGSFO4046_mod_Tesla_CannonA_Mode
@@ -547,6 +620,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000025"
 msgid "Tesla Cannon Assembly"
 msgstr ""
+"Elektrokanónová sada"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -555,6 +629,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000026"
 msgid "Mouth Top"
 msgstr ""
+"Mouth Top"
 
 #. FormID=01000816
 #. EDID=ccBGSFO4046_CritTeslaEffect
@@ -563,6 +638,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000027"
 msgid "Critical Tesla Cannon Hit"
 msgstr ""
+"Kritický zásah elektrokanónem"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -571,6 +647,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000028"
 msgid "Eyelids - Bottom"
 msgstr ""
+"Eyelids - Bottom"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -579,6 +656,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000029"
 msgid "Eyebrows Mid"
 msgstr ""
+"Eyebrows Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -587,6 +665,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00002a"
 msgid "Eyebrow Main"
 msgstr ""
+"Eyebrow Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -595,6 +674,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00002b"
 msgid "Nose Main"
 msgstr ""
+"Nose Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -603,6 +683,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00002d"
 msgid "Mouth Main"
 msgstr ""
+"Mouth Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -611,6 +692,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00002e"
 msgid "Eyes"
 msgstr ""
+"Eyes"
 
 #. FormID=01000825
 #. EDID=ccBGSFO4046_EnchTeslaShock
@@ -619,6 +701,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00002f"
 msgid "Electrical Damage"
 msgstr ""
+"Poškození elektřinou"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -627,6 +710,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000030"
 msgid "Jaw Outer"
 msgstr ""
+"Jaw Outer"
 
 #. FormID=01000826
 #. EDID=ccBGSFO4046_EnchTeslaYellowShock
@@ -635,6 +719,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000031"
 msgid "Electrical Damage"
 msgstr ""
+"Poškození elektřinou"
 
 #. FormID=01000814
 #. EDID=ccBGSFO4046_CritTeslaBEffect
@@ -643,6 +728,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000032"
 msgid "Charred to a crisp"
 msgstr ""
+"Spáleno na uhel"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -651,6 +737,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000034"
 msgid "Lower Face"
 msgstr ""
+"Lower Face"
 
 #. FormID=01000822
 #. EDID=ccBGSFO4046_TeslaHazardEffectB
@@ -659,6 +746,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000035"
 msgid "Tesla Shock Damage B"
 msgstr ""
+"Poškození elektrickým šokem B"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -667,6 +755,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000036"
 msgid "Nose Bridge"
 msgstr ""
+"Nose Bridge"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -675,6 +764,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000037"
 msgid "Nostrils"
 msgstr ""
+"Nostrils"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -683,6 +773,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000038"
 msgid "Cheek Bones Back"
 msgstr ""
+"Cheek Bones Back"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -691,6 +782,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000039"
 msgid "Nose Bridge"
 msgstr ""
+"Nose Bridge"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -699,6 +791,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003a"
 msgid "Jaw Mid"
 msgstr ""
+"Jaw Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -707,6 +800,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003b"
 msgid "Jaw Outer"
 msgstr ""
+"Jaw Outer"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -715,6 +809,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003c"
 msgid "Eyebrow Main"
 msgstr ""
+"Eyebrow Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -723,6 +818,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003d"
 msgid "Mouth Corners"
 msgstr ""
+"Mouth Corners"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -731,6 +827,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003e"
 msgid "Neck Fat"
 msgstr ""
+"Neck Fat"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -739,6 +836,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00003f"
 msgid "Mouth Bot"
 msgstr ""
+"Mouth Bot"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -747,6 +845,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000040"
 msgid "Forehead"
 msgstr ""
+"Forehead"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -755,6 +854,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000041"
 msgid "Eyebrow Outer"
 msgstr ""
+"Eyebrow Outer"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -763,6 +863,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000042"
 msgid "Eyebrow Outer"
 msgstr ""
+"Eyebrow Outer"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -771,6 +872,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000043"
 msgid "Cheeks"
 msgstr ""
+"Cheeks"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -779,6 +881,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000044"
 msgid "Chin"
 msgstr ""
+"Chin"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -787,6 +890,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000045"
 msgid "Ears Top"
 msgstr ""
+"Ears Top"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -795,6 +899,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000046"
 msgid "Nose Tip"
 msgstr ""
+"Nose Tip"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -803,6 +908,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000047"
 msgid "Mouth Top"
 msgstr ""
+"Mouth Top"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -811,6 +917,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000048"
 msgid "Ears Top"
 msgstr ""
+"Ears Top"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -819,6 +926,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000049"
 msgid "Eyebrow In"
 msgstr ""
+"Eyebrow In"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -827,6 +935,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004a"
 msgid "Cheek Bones"
 msgstr ""
+"Cheek Bones"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -835,6 +944,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004b"
 msgid "Cheeks"
 msgstr ""
+"Cheeks"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -843,6 +953,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004c"
 msgid "Side Nose Fat"
 msgstr ""
+"Side Nose Fat"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -851,6 +962,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004d"
 msgid "PowerArmor"
 msgstr ""
+"PowerArmor"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -859,6 +971,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004e"
 msgid "Ears Mid"
 msgstr ""
+"Ears Mid"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -867,6 +980,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00004f"
 msgid "Eyes"
 msgstr ""
+"Eyes"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -875,6 +989,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000050"
 msgid "Neck Fat"
 msgstr ""
+"Neck Fat"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -883,6 +998,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000051"
 msgid "Side Nose Fat"
 msgstr ""
+"Side Nose Fat"
 
 #. FormID=01000823
 #. EDID=ccBGSFO4046_TeslaYellowHitEffect
@@ -891,6 +1007,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000052"
 msgid "Tesla Shock Damage"
 msgstr ""
+"Poškození elektrickým šokem"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -899,6 +1016,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000053"
 msgid "Nose Main"
 msgstr ""
+"Nose Main"
 
 #. FormID=01000804
 #. EDID=cc_BGSFO4_4046_PowerArmorRaceSubGraphDataAdditive
@@ -907,6 +1025,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000054"
 msgid "Temple"
 msgstr ""
+"Temple"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -915,6 +1034,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000055"
 msgid "Oscillated"
 msgstr ""
+"[Oscilující]"
 
 #. FormID=0100084A
 #. EDID=ccBGSFO4046_VaultTecDistressSignalRadio
@@ -923,6 +1043,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000056"
 msgid "Vault Tec Distress Signal Radio"
 msgstr ""
+"Nouzový rádiový signál Vault-Tecu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -931,6 +1052,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000057"
 msgid "Quick"
 msgstr ""
+"[Rychlopřebíjecí]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -939,6 +1061,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000058"
 msgid "VATS Enhanced"
 msgstr ""
+"[VATS+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -947,6 +1070,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005a"
 msgid "Quick High Capacity"
 msgstr ""
+"[Rychlopřebíjecí+]"
 
 #. FormID=01000835
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_MoreDamage2
@@ -955,6 +1079,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005b"
 msgid "Tesla Cannon Magnified Wave Oscillator"
 msgstr ""
+"Elektrokanón - zvětšovací vlnový oscilátor"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -963,6 +1088,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005c"
 msgid "Listen to Vault-Tec Distress Signal"
 msgstr ""
+"Poslechni si nouzový signál Vault-Tecu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -971,6 +1097,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005d"
 msgid "Pistol"
 msgstr ""
+"[Pistole]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -979,6 +1106,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005e"
 msgid "Steady"
 msgstr ""
+"[Stabilní]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -987,6 +1115,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00005f"
 msgid "Huge"
 msgstr ""
+"[Nádrž++]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -995,6 +1124,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000060"
 msgid "Armor Piercing"
 msgstr ""
+"[Průbojné tělo]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1003,6 +1133,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000061"
 msgid "Rifle"
 msgstr ""
+"[Puška]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1011,6 +1142,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000063"
 msgid "Improved"
 msgstr ""
+"[Hlaveň+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1019,6 +1151,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000064"
 msgid "Sawed-Off"
 msgstr ""
+"[Upilovaná]"
 
 #. FormID=0100086E
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_ArmorPiercing1
@@ -1027,6 +1160,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000065"
 msgid "Solid State Tesla Coil"
 msgstr ""
+"Pevná tesla cívka"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -1035,6 +1169,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000066"
 msgid "Follow the Gunner Signal Remnant"
 msgstr ""
+"Následuj neurčitý signál Ranařů"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1043,6 +1178,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000067"
 msgid "Scattergun"
 msgstr ""
+"[Brokovnice]"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -1051,6 +1187,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000068"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam z Pip-Boye"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1059,6 +1196,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000069"
 msgid "Never Ending"
 msgstr ""
+"[Nekonečno]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1067,6 +1205,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00006a"
 msgid "Quick Maximum Capacity"
 msgstr ""
+"[Rychlopřebíjecí++]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1075,6 +1214,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00006b"
 msgid "Zeta Gun"
 msgstr ""
+"Zeta zbraň"
 
 #. FormID=01000883
 #. EDID=ccBGSFO4046_SignalMessage
@@ -1083,6 +1223,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00006d"
 msgid "Downloading signal..."
 msgstr ""
+"Stahování signálu..."
 
 #. FormID=01000878
 #. EDID=ccBGSFO4046_EnchTeslaShockExtra2
@@ -1091,6 +1232,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00006e"
 msgid "Electrical Damage"
 msgstr ""
+"Poškození elektřinou"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1099,6 +1241,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00006f"
 msgid "Exterminator's"
 msgstr ""
+"[Deratizátor]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1107,6 +1250,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000070"
 msgid "Bloodied"
 msgstr ""
+"[Zkrvavenec]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1115,6 +1259,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000071"
 msgid "Heavy"
 msgstr ""
+"[Těžké tělo]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1123,6 +1268,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000073"
 msgid "Targeting"
 msgstr ""
+"[Gyroskop]"
 
 #. FormID=01000857
 #. EDID=ccBGSFO4046_VaultTecDistressMessage
@@ -1131,6 +1277,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000074"
 msgid "Vault-Tec Distress Signal"
 msgstr ""
+"Nouzový signál Vault-Tecu..."
 
 #. FormID=01000856
 #. EDID=ccBGSFO4046_GunnerSignalMessage
@@ -1139,6 +1286,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000075"
 msgid "Gunner Signal Remnant"
 msgstr ""
+"Neurčitý signál Ranařů"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -1147,6 +1295,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000076"
 msgid "Property of Vault-Tec"
 msgstr ""
+"Majetek Vault-Tecu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1155,6 +1304,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000077"
 msgid "Light"
 msgstr ""
+"[Lehké tělo]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1163,6 +1313,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000079"
 msgid "Sentinel's"
 msgstr ""
+"[Ochránce]"
 
 #. FormID=01000864
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage3
@@ -1171,6 +1322,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007a"
 msgid "Triple-Resonant Wave Oscillator"
 msgstr ""
+"Trojitě rezonují vlnový oscilátor"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -1179,6 +1331,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007b"
 msgid "Corrupted Image File"
 msgstr ""
+"Poškozený grafický soubor"
 
 #. FormID=01000830
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_BetterCriticals1
@@ -1187,6 +1340,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007c"
 msgid "Tesla Cannon Spark-Gap Tesla Coil"
 msgstr ""
+"Elektrokanón - jiskřicí tesla cívka"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -1195,6 +1349,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007d"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000873
 #. EDID=CCBGSFO4046_mod_Tesla_Cannon_Receiver_standard
@@ -1203,6 +1358,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007e"
 msgid "Standard Receiver"
 msgstr ""
+"Standardní tělo"
 
 #. FormID=01000838
 #. EDID=ccBGSFO4046_GunnerOne
@@ -1211,6 +1367,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00007f"
 msgid "Vault 95 Gunner"
 msgstr ""
+"Ranař z Vaultu 95"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -1219,6 +1376,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000081"
 msgid "21/10/87"
 msgstr ""
+"21. 10. 2287"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1227,6 +1385,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000082"
 msgid "Rifle"
 msgstr ""
+"[Puška]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1235,6 +1394,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000083"
 msgid "Combat Sniper Rifle"
 msgstr ""
+"Taktická odstřelovací puška"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -1243,6 +1403,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000084"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1251,6 +1412,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000085"
 msgid "Repeating"
 msgstr ""
+"[Víceranný]"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -1259,6 +1421,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000086"
 msgid "22/10/87"
 msgstr ""
+"22. 10. 2287"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1267,6 +1430,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000088"
 msgid "Rifle"
 msgstr ""
+"[Puška]"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -1275,6 +1439,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000089"
 msgid "Defeat Caroni"
 msgstr ""
+"Poraž Caroniho"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1283,6 +1448,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00008b"
 msgid "Plasma Infused"
 msgstr ""
+"[Plazmička]"
 
 #. FormID=0100086C
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_ArmorPiercing2
@@ -1291,6 +1457,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00008c"
 msgid "Magnified Solid State Tesla Coil"
 msgstr ""
+"Zvětšovací pevná tesla cívka"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1299,6 +1466,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00008d"
 msgid "Ported"
 msgstr ""
+"[Porty]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1307,6 +1475,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00008e"
 msgid "Electrified"
 msgstr ""
+"[Elektro]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1315,6 +1484,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00008f"
 msgid "Mutant Slayer's"
 msgstr ""
+"[Zabiják mutantů]"
 
 #. FormID=01000883
 #. EDID=ccBGSFO4046_SignalMessage
@@ -1323,6 +1493,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000090"
 msgid "Downloading signal..."
 msgstr ""
+"Stahování signálu..."
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1331,6 +1502,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000091"
 msgid "Crystallized"
 msgstr ""
+"[Krystalizovaný]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1339,6 +1511,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000092"
 msgid "Sharpshooter's"
 msgstr ""
+"[Střelecká]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1347,6 +1520,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000093"
 msgid "Instigating"
 msgstr ""
+"[Štváč]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1355,6 +1529,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000094"
 msgid "High Powered"
 msgstr ""
+"[Výkonný]"
 
 #. FormID=01000831
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_BetterCriticals2
@@ -1363,6 +1538,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000095"
 msgid "Tesla Cannon Magnified Spark-Gap Tesla Coil"
 msgstr ""
+"Elektrokanón - zvětšovací jiskřicí tesla cívka"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1371,6 +1547,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000096"
 msgid "Junkie's"
 msgstr ""
+"[Feťák]"
 
 #. FormID=01000881
 #. EDID=ccBGSFO4046_GunnerAshpileContainer
@@ -1379,6 +1556,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000097"
 msgid "Burning Ash Pile"
 msgstr ""
+"Žhnoucí hromádka popela"
 
 #. FormID=01000839
 #. EDID=ccBGSFO4046_GunnerThree
@@ -1387,6 +1565,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000098"
 msgid "Vault 95 Gunner"
 msgstr ""
+"Ranař z Vaultu 95"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1395,6 +1574,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000099"
 msgid "Large"
 msgstr ""
+"[Nádrž+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1403,6 +1583,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009a"
 msgid "Hair Trigger"
 msgstr ""
+"[Jemná spoušť]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1411,6 +1592,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009b"
 msgid "Incendiary"
 msgstr ""
+"[Žhář]"
 
 #. FormID=01000856
 #. EDID=ccBGSFO4046_GunnerSignalMessage
@@ -1419,6 +1601,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009c"
 msgid "Gunner Signal Remnant"
 msgstr ""
+"Neurčitý signál Ranařů"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1427,6 +1610,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009d"
 msgid "Rapid"
 msgstr ""
+"[Rychlík]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1435,6 +1619,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009e"
 msgid "Calibrated"
 msgstr ""
+"[Kalibrované tělo]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1443,6 +1628,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00009f"
 msgid "Improved"
 msgstr ""
+"[Hlaveň+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1451,6 +1637,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a1"
 msgid "Scoped"
 msgstr ""
+"[Optika]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1459,6 +1646,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a2"
 msgid "Sighted"
 msgstr ""
+"[Muška]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1467,6 +1655,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a3"
 msgid "Recon"
 msgstr ""
+"[Průzkumník]"
 
 #. FormID=01000837
 #. EDID=ccBGSFO4046_GunnerTwo
@@ -1475,6 +1664,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a4"
 msgid "Vault 95 Gunner"
 msgstr ""
+"Ranař z Vaultu 95"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1483,6 +1673,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a5"
 msgid "Targeting"
 msgstr ""
+"[Zaměřovací]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1491,6 +1682,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a6"
 msgid "Triple Barrel"
 msgstr ""
+"[Trojhlaveň]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1499,6 +1691,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a7"
 msgid "Focused"
 msgstr ""
+"[Zaostřovač]"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -1507,6 +1700,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a8"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam z Pip-Boye"
 
 #. FormID=0100086B
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_BetterCriticals2
@@ -1515,6 +1709,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000a9"
 msgid "Magnified Spark-Gap Tesla Coil"
 msgstr ""
+"Zvětšovací jiskřicí tesla cívka"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1523,6 +1718,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000aa"
 msgid "Shredding"
 msgstr ""
+"[Trhač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1531,6 +1727,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ab"
 msgid "Tuned"
 msgstr ""
+"[Seřízené tělo]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1539,6 +1736,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ac"
 msgid "Target Seeking Fat Man"
 msgstr ""
+"Zaměřovací Tlusťoch"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1547,6 +1745,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ad"
 msgid "Quad Barrel"
 msgstr ""
+"[Čtyřhlaveň]"
 
 #. FormID=0100082E
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_ArmorPiercing1
@@ -1555,6 +1754,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ae"
 msgid "Tesla Cannon Solid State Tesla Coil"
 msgstr ""
+"Elektrokanón - pevná tesla cívka"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -1563,6 +1763,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000af"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1571,6 +1772,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b0"
 msgid "Scoped"
 msgstr ""
+"[Optika]"
 
 #. FormID=0100082C
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Barrel_JuryRigged
@@ -1579,6 +1781,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b1"
 msgid "Tesla Cannon Jury Rigged Barrel"
 msgstr ""
+"Elektrokanón - improvizovaná hlaveň"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -1587,6 +1790,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b2"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1595,6 +1799,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b4"
 msgid ".308"
 msgstr ""
+"[.308]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1603,6 +1808,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b5"
 msgid "Solid-Magnified"
 msgstr ""
+"[Pevně-zvětšující]"
 
 #. FormID=01000832
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_MoreDamage1
@@ -1611,6 +1817,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b6"
 msgid "Tesla Cannon Wave Oscillator"
 msgstr ""
+"Elektrokanón - vlnový oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1619,6 +1826,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b7"
 msgid "Improved Short"
 msgstr ""
+"[Krátká hlaveň+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1627,6 +1835,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000b8"
 msgid "Freezing"
 msgstr ""
+"[Mrazík]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1635,6 +1844,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ba"
 msgid "Auto Pistol"
 msgstr ""
+"[Automat]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1643,6 +1853,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000bc"
 msgid "Tactical"
 msgstr ""
+"[Reflex.]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1651,6 +1862,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000be"
 msgid "Charging"
 msgstr ""
+"[Nabíjecí]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1659,6 +1871,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000bf"
 msgid "Rifle"
 msgstr ""
+"[Puška]"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -1667,6 +1880,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c1"
 msgid "Investigate the next signal's coordinates"
 msgstr ""
+"Prozkoumej souřadnice z nového signálu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1675,6 +1889,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c2"
 msgid "Crippling"
 msgstr ""
+"[Mrzák]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1683,6 +1898,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c3"
 msgid "Triple-Resonant"
 msgstr ""
+"[Trojitě rezonující]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1691,6 +1907,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c4"
 msgid "High Capacity"
 msgstr ""
+"[Zásobník+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1699,6 +1916,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c5"
 msgid "Nimble"
 msgstr ""
+"[Pohotovost]"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -1707,6 +1925,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c6"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000879
 #. EDID=ccBGSFO4046_GunnerCaroni
@@ -1715,6 +1934,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c7"
 msgid "Caroni"
 msgstr ""
+"Caroni"
 
 #. FormID=0100082A
 #. EDID=ccBGSFO4046_GunnerPerkEffect
@@ -1723,6 +1943,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c8"
 msgid "Gunner Perk Effect"
 msgstr ""
+"Gunner Perk Effect"
 
 #. FormID=01000833
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_MoreDamage1_ArmorPiercing2
@@ -1731,6 +1952,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000c9"
 msgid "Tesla Cannon Solid State Oscillator"
 msgstr ""
+"Elektrokanón - pevný oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1739,6 +1961,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ca"
 msgid "Automatic"
 msgstr ""
+"[Automat]"
 
 #. FormID=01000872
 #. EDID=ccBGSFO4046_ap_TesCan_mode
@@ -1747,6 +1970,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000cb"
 msgid "Mode"
 msgstr ""
+"Režim"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1755,6 +1979,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000cc"
 msgid "Four-Crank"
 msgstr ""
+"[Čtyři natočení]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1763,6 +1988,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000cd"
 msgid "Long"
 msgstr ""
+"[Dlouhý]"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -1771,6 +1997,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ce"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1779,6 +2006,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000cf"
 msgid "Poisoner's"
 msgstr ""
+"[Travič]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1787,6 +2015,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d0"
 msgid "Long"
 msgstr ""
+"[Dlouhá hlaveň]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1795,6 +2024,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d1"
 msgid "Two Shot"
 msgstr ""
+"[Dvouranka]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1803,6 +2033,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d2"
 msgid "Scattered"
 msgstr ""
+"[Rozdělovač]"
 
 #. FormID=01000884
 #. EDID=ccBGSFO4046_SignalInturruptedMessage
@@ -1811,6 +2042,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d3"
 msgid "Download interrupted..."
 msgstr ""
+"Stahování přerušeno..."
 
 #. FormID=0100082F
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_ArmorPiercing2
@@ -1819,6 +2051,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d4"
 msgid "Tesla Cannon Magnified Solid State Tesla Coil"
 msgstr ""
+"Elektrokanón - zvětšovací pevná tesla cívka"
 
 #. FormID=01000865
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage2
@@ -1827,6 +2060,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d5"
 msgid "Magnified Wave Oscillator"
 msgstr ""
+"Zvětšovací vlnový oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1835,6 +2069,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d6"
 msgid "Lucky"
 msgstr ""
+"[Štístko]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1843,6 +2078,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d8"
 msgid "Long"
 msgstr ""
+"[Dlouhý]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1851,6 +2087,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000d9"
 msgid "Enraging"
 msgstr ""
+"[Naštvávač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1859,6 +2096,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000da"
 msgid "Cavalier's"
 msgstr ""
+"[Kavalír]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1867,6 +2105,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000db"
 msgid "Long"
 msgstr ""
+"[Dlouhá]"
 
 #. FormID=01000877
 #. EDID=ccBGSFO4046_EnchTeslaShockExtra
@@ -1875,6 +2114,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000dc"
 msgid "Electrical Damage"
 msgstr ""
+"Poškození elektřinou"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1883,6 +2123,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000dd"
 msgid "Sniper Rifle"
 msgstr ""
+"[Odstřelovací]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1891,6 +2132,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000de"
 msgid "Suppressed"
 msgstr ""
+"[Tlumič]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1899,6 +2141,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000df"
 msgid "Scoped"
 msgstr ""
+"[Optika]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1907,6 +2150,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e0"
 msgid "Wounding"
 msgstr ""
+"[Ubližovač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1915,6 +2159,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e1"
 msgid "Hardened"
 msgstr ""
+"[Tělo+]"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -1923,6 +2168,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e3"
 msgid "Listen to the Gunner Signal Remnant "
 msgstr ""
+"Poslechni si neurčitý signál Ranařů"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -1931,6 +2177,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e4"
 msgid "22/10/87"
 msgstr ""
+"22. 10. 2287"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1939,6 +2186,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e5"
 msgid "Muzzled"
 msgstr ""
+"[Úsťová brzda]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1947,6 +2195,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e6"
 msgid "Flaming"
 msgstr ""
+"[Plamen]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1955,6 +2204,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e7"
 msgid "Sniper Rifle"
 msgstr ""
+"Odstřelovací puška"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -1963,6 +2213,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e8"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000870
 #. EDID=ccBGSFO4046_mod_TesCan_Barrel_Automatic
@@ -1971,6 +2222,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000e9"
 msgid "Automatic Barrel"
 msgstr ""
+"Automatická hlaveň"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1979,6 +2231,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ea"
 msgid "Spark-Magnified"
 msgstr ""
+"[Zážeh-zvětšující]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1987,6 +2240,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000eb"
 msgid ".50"
 msgstr ""
+"[.50]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -1995,6 +2249,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ec"
 msgid "Powerful"
 msgstr ""
+"[Tělo++]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2003,6 +2258,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ed"
 msgid "Solid State"
 msgstr ""
+"[Pevný]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2011,6 +2267,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ef"
 msgid "Short"
 msgstr ""
+"[Zkrácená hlaveň]"
 
 #. FormID=01000834
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_MoreDamage1_BetterCriticals2
@@ -2019,6 +2276,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f0"
 msgid "Tesla Cannon Magnified Spark Gap Oscillator"
 msgstr ""
+"Elektrokanón - zvětšovací jiskřicí oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2027,6 +2285,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f1"
 msgid "Hunter's"
 msgstr ""
+"[Lovec]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2035,6 +2294,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f2"
 msgid "Medic's"
 msgstr ""
+"[Medik]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2043,6 +2303,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f4"
 msgid "Sparked"
 msgstr ""
+"[Zážehový]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2051,6 +2312,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f6"
 msgid "Irradiated"
 msgstr ""
+"[Radiáček]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2059,6 +2321,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f7"
 msgid "Automatic"
 msgstr ""
+"[Automat]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2067,6 +2330,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f8"
 msgid "Thrower"
 msgstr ""
+"[Vrhač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2075,6 +2339,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000f9"
 msgid "Improved Automatic"
 msgstr ""
+"[Automat+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2083,6 +2348,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000fb"
 msgid "Five-Crank"
 msgstr ""
+"[Pět natočení]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2091,6 +2357,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000fc"
 msgid "Shielded"
 msgstr ""
+"[Stíněná]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2099,6 +2366,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000fd"
 msgid "Staggering"
 msgstr ""
+"[Cloumák]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2107,6 +2375,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000fe"
 msgid "Extended"
 msgstr ""
+"[Prodloužený]"
 
 #. FormID=01000882
 #. EDID=ccBGSFO4046_GlowingSeaRadroach
@@ -2115,6 +2384,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0000ff"
 msgid "Radroach"
 msgstr ""
+"Radioaktivní šváb"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2123,6 +2393,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000100"
 msgid "Submachine Gun"
 msgstr ""
+"[Samopal]"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -2131,6 +2402,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000101"
 msgid "Best of Three"
 msgstr ""
+"Do třetice všeho dobrého"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2139,6 +2411,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000102"
 msgid "Automatic"
 msgstr ""
+"[Automat]"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -2162,6 +2435,21 @@ msgid ""
 "\r\n"
 "His face was a fucking picture! I swear he was about to cry. Haven't seen him since. And to think Sarge wanted to use these things to track us for the mission tomorrow."
 msgstr ""
+"Do prdele, kde začít? Jsem rád, že tuhle věc mám, a že do ní můžu všecho zapsat!\r\n"
+"\r\n"
+"Už několik týdnů jsme zavření ve vaultu. Je tu nuda k chcípnutí a \"hry\" na téhle věcičce mě velmi rychle přestaly bavit. Chvíli mě bavilo lepit na Caroniho záda lístečky s nápisem \"Kopni mě\", ale dostal jsem pojeb od velitele, že máme \"nedostatek papíru\".\r\n"
+"\r\n"
+"Navíc není úplně nejsnažší si dělat legraci z někoho, kdo tráví veškerý čas ve svém pokoji. S klukama jsme se snažili přeprogramovat anihilatrona, aby mu zaříznul trenky... ale o tomhle bych měl asi pomlčet.\r\n"
+"\r\n"
+"Nicméně v ten moment jsem si vzpomněl na Lazanskiho oznámení, že nám na rozkaz Seržy přeprogramoval Pip-Boye, abychom mohli snáze sledovat naše lidi při výsadcích do Zářícího moře. Zírej na to, Lazanski, přišel jsem na mnohem lepší využití toho tvýho stupidního programu!\r\n"
+"\r\n"
+"Sehnal jsem pár lidí z jednotky, se kterými se mi podařilo vloupat do kuchyně. Tam jsme čajzli týden starou plíživčí polévku, jejíž smrad už několik dnů táhnul z jídelny. Pak jsme ji na laně zavěsili do hlavní haly.\r\n"
+"\r\n"
+"No a pak už jen stačilo sledovat jak po tom, co všichni ostatní šli spát, si Caroni kráčí po schodišti dolů pro něco k večeři. Šmarja, to se nedá popsat to napětí, které jsem cítil při sledování Caroniho tečky, jak se posouvá po obrazovce mého Pip-Boye.\r\n"
+"\r\n"
+"Když se tečka objevila v hlavní hale, zvedl jsem hlavu a byl tam - naprosto netušící, že co nevidět bude smrdět jako mrtvý pliživec na sluníčku. Houkl jsem na Jonese, aby zatáhl a v zápětí se Caronimu po hlavě roztekla ta nechutná kejda.\r\n"
+"\r\n"
+"Jeho obličej byl k nezaplacení! Přísahám, že se málem rozbrečel. Od té doby jsem ho neviděl. A to chtěl Serža tyhle věci využít jenom na to, aby nás mohl sledovat při zítřejší misi."
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2170,6 +2458,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000104"
 msgid "Hardened Piercing"
 msgstr ""
+"[Průbojné tělo+]"
 
 #. FormID=01000867
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1_ArmorPiercing2
@@ -2178,6 +2467,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000105"
 msgid "Magnified Solid State Oscillator"
 msgstr ""
+"Zvětšovací pevný oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2186,6 +2476,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000106"
 msgid "Assassin's"
 msgstr ""
+"[Atentátník]"
 
 #. FormID=0100082B
 #. EDID=ccBGSFO4046_GunnerPerkSpell
@@ -2194,6 +2485,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000107"
 msgid "Gunner Perk Spell"
 msgstr ""
+"Gunner Perk Spell"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2202,6 +2494,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000108"
 msgid ".45"
 msgstr ""
+"[.45]"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -2210,6 +2503,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000109"
 msgid "Property of Vault-Tec"
 msgstr ""
+"Majetek Vault-Tecu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2218,6 +2512,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00010a"
 msgid "Solid-Oscillated"
 msgstr ""
+"[Pevně-oscilující]"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -2226,6 +2521,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00010b"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2234,6 +2530,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00010d"
 msgid "Sniper Rifle"
 msgstr ""
+"[Odstřelovací]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2242,6 +2539,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00010e"
 msgid "Sniper Rifle"
 msgstr ""
+"[Odstřelovací]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2250,6 +2548,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00010f"
 msgid "*"
 msgstr ""
+"*"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2258,6 +2557,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000110"
 msgid "Lorenzo's Artifact Gun"
 msgstr ""
+"Lorenzova artefaktová zbraň"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2266,6 +2566,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000111"
 msgid "Experimental MIRV"
 msgstr ""
+"Experimentální MIRV"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2274,6 +2575,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000112"
 msgid "Combat Rifle"
 msgstr ""
+"Taktická puška"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2282,6 +2584,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000113"
 msgid "Napalmer"
 msgstr ""
+"Napalmomet"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -2290,6 +2593,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000114"
 msgid "22/10/87"
 msgstr ""
+"22. 10. 20287"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2298,6 +2602,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000115"
 msgid "Explosive"
 msgstr ""
+"[Trhač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2306,6 +2611,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000116"
 msgid "Advanced"
 msgstr ""
+"[Tělo+++]"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -2314,6 +2620,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000117"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=0100082D
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Barrel_TeslaBeaton
@@ -2322,6 +2629,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000118"
 msgid "Tesla Cannon Tesla Beaton Barrel"
 msgstr ""
+"Elektrokanón - Beatonova hlaveň"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2330,6 +2638,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00011a"
 msgid "Improved Charging"
 msgstr ""
+"[Nabíjecí+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2338,6 +2647,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00011d"
 msgid "Nocturnal"
 msgstr ""
+"[Soumrak]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2346,6 +2656,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00011e"
 msgid "Magnified"
 msgstr ""
+"[Zvětšující]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2354,6 +2665,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00011f"
 msgid "Spark-Oscillated"
 msgstr ""
+"[Zážeh-oscilující]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2362,6 +2674,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000120"
 msgid "Calibrated Powerful"
 msgstr ""
+"[Kalibrované tělo+]"
 
 #. FormID=0100086D
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_BetterCriticals1
@@ -2370,6 +2683,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000121"
 msgid "Spark-Gap Tesla Coil"
 msgstr ""
+"Jiskřicí tesla cívka"
 
 #. FormID=01000857
 #. EDID=ccBGSFO4046_VaultTecDistressMessage
@@ -2378,6 +2692,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000123"
 msgid "Vault-Tec Distress Signal"
 msgstr ""
+"Nouzový signál Vault-Tecu..."
 
 #. FormID=01000836
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Receiver_MoreDamage3
@@ -2386,6 +2701,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000124"
 msgid "Tesla Cannon Triple-Resonant Wave Oscillator"
 msgstr ""
+"Elektrokanón - trojitě rezonující vlnový oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2394,6 +2710,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000125"
 msgid "Improved Focused"
 msgstr ""
+"[Zaostřovač+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2402,6 +2719,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000126"
 msgid "Quickdraw"
 msgstr ""
+"[Tasič]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2410,6 +2728,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000127"
 msgid "Improved Scattered"
 msgstr ""
+"[Rozdělovač+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2418,6 +2737,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000128"
 msgid "Rapid"
 msgstr ""
+"[Automat+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2426,6 +2746,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000129"
 msgid "Recoil Compensated"
 msgstr ""
+"[Tlumení rázu]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2434,6 +2755,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00012a"
 msgid "Finned"
 msgstr ""
+"[Žebrování]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2442,6 +2764,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00012c"
 msgid "Scoped"
 msgstr ""
+"[Optika]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2450,6 +2773,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00012d"
 msgid "Compensated"
 msgstr ""
+"[Kompenzátor]"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -2458,6 +2782,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00012e"
 msgid "Corrupted Image File"
 msgstr ""
+"Poškozený grafický soubor"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -2466,6 +2791,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00012f"
 msgid "Property of Vault-Tec"
 msgstr ""
+"Majetek Vault-Tecu"
 
 #. FormID=0100086A
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_JuryRigged
@@ -2474,6 +2800,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000130"
 msgid "Jury-Rigged Beam Focuser"
 msgstr ""
+"Improvizovaný zaostřovač paprsku"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -2503,6 +2830,27 @@ msgid ""
 "\r\n"
 "This Vault is filled with chems - and it's not like they are going to miss a few shots of Psycho."
 msgstr ""
+"Měl bych tuhle věcičku k něčemu využít. Možná jako zpovědníček, abych se cítil lépe po tom, co jsem udělal. Pojďme na to.\r\n"
+"\r\n"
+"Caroni. Nikdy to nebyl zrovna ideální žoldák, ale jako tým jsme fungovali dobře. Byl dobrý ve všech technických věcech. Hackování terminálů, otevírání automatických dveří, vyřazování věží, ...\r\n"
+"\r\n"
+"A já? No, já pak práci dotahoval do konce.\r\n"
+"\r\n"
+"Všechno se ale změnilo, když jsme se přidali k Ranařům. Nabízeli mnohem víc, než jsme mohli vydělat sami, takže jsme se nemuseli dvakrát rozmýšlet. Netušil jsem, co se stane, když bude Caroni donucen pracovat i s jinými lidmi než se mnou.\r\n"
+"\r\n"
+"Když jsem byl přiřazen k mé jednotce, bylo to, jako bych je znal už léta. Dobře se nám spolupracovalo a ostatní si mě vážili pro mé střelecké schopnosti. Ale u Caroniho to byl jiný příběh. Vždycky byl na obtíž a jeho plachost Seržu rozčilovala.\r\n"
+"\r\n"
+"Bylo chybou mu vrazit do rukou laserovou pušku, když jsem věděl, že jeho nejlepší schopnosti jsou jinde. Myslel jsem, že se věci změní, když jsme se nastěhovali do vaultu... že se trošku osmělí. Ale místo toho se stal pravý opak.\r\n"
+"\r\n"
+"Můžou za to tihle zatracení Pip-Boyové. Je jimi posedlý. Veškerý čas tráví ve svém pokoji a hraje na nich hry.\r\n"
+"\r\n"
+"Snažil jsem se ho přesvědčit, aby se nad sebou zamyslel. Říkal jsem, že ho za to Serža z Ranařů vyhodí... nebo hůř. Ale vždy mě odbyl.\r\n"
+"\r\n"
+"Je srandovní, že ho v těch hrách stále porážím, i když on je hraje o dost déle než já. Jestli ještě jednou uslyším \"na dva vítězné\", asi mi rupnou nervy. Možná se sám jednoho dne vzpamatuje. Ale tak dlouho čekat nemůžu. Musím něco rychle udělat.\r\n"
+"\r\n"
+"Vděčím mu za záchranu života.\r\n"
+"\r\n"
+"Vault je napěchovaný chemikáliemi... a nemám pocit, že bude někdo postrádat pár dávek psycha."
 
 #. FormID=01000884
 #. EDID=ccBGSFO4046_SignalInturruptedMessage
@@ -2511,6 +2859,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000134"
 msgid "Download interrupted..."
 msgstr ""
+"Stahování přerušeno..."
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -2519,6 +2868,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000135"
 msgid "Investigate the Gunner Pip-Boy coordinates"
 msgstr ""
+"Prozkoumej lokaci na souřadnicích z Ranařova Pip-Boye"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2527,6 +2877,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000136"
 msgid "Marksman's"
 msgstr ""
+"[Střelec]"
 
 #. FormID=01000854
 #. EDID=ccBGSFO4046_GunnerPipboyPerk
@@ -2535,6 +2886,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000137"
 msgid "DOWNLOAD PIP-BOY DATA"
 msgstr ""
+"STÁHNOUT PIP-BOY DATA"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2543,6 +2895,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000138"
 msgid "Improved Targeting"
 msgstr ""
+"[Gyroskop+]"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -2551,6 +2904,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000139"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam z Pip-Boye"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2559,6 +2913,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00013a"
 msgid "Vented"
 msgstr ""
+"[Porty+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2567,6 +2922,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00013b"
 msgid "Troubleshooter's"
 msgstr ""
+"[Opravář]"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -2575,6 +2931,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00013c"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000868
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1
@@ -2583,6 +2940,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00013d"
 msgid "Wave Oscillator"
 msgstr ""
+"Vlnový oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2591,6 +2949,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00013f"
 msgid "Berserker's"
 msgstr ""
+"[Zuřivec]"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -2599,6 +2958,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000140"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -2607,6 +2967,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000141"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam Pip-Boy"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2615,6 +2976,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000142"
 msgid "Vaporizing"
 msgstr ""
+"[Vaporizace]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2623,6 +2985,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000143"
 msgid "Ghoul Slayer's"
 msgstr ""
+"[Zabiják ghúlů]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2631,6 +2994,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000144"
 msgid "Kneecapper"
 msgstr ""
+"[Kolínkovač]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2639,6 +3003,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000145"
 msgid "Short"
 msgstr ""
+"[Krátká hlaveň]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2647,6 +3012,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000146"
 msgid "Comfort Grip"
 msgstr ""
+"[Komfortní]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2655,6 +3021,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000147"
 msgid "Furious"
 msgstr ""
+"[Vztekloun]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2663,6 +3030,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000148"
 msgid "Stalker's"
 msgstr ""
+"[Stopař]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2671,6 +3039,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000149"
 msgid "Converted"
 msgstr ""
+"[Konverze]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2679,6 +3048,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00014a"
 msgid "Violent"
 msgstr ""
+"[Divočák]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2687,6 +3057,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00014b"
 msgid "Relentless"
 msgstr ""
+"[Bezlítostná]"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -2720,6 +3091,31 @@ msgid ""
 "\r\n"
 "But it's only a matter of time now."
 msgstr ""
+"Píšu sem hlášení o misi, kdyby někdo našel moje tělo. Pokud mé tělo nedokážete identifikovat, jsem poručík Lazanski. Technický specialista z 20. sběračského týmu. \r\n"
+"\r\n"
+"Podařilo se nám lokalizovat vrak. Pravděpodobně neporušený a přežil havárii. Nicméně jsme podcenili počet nepřátel, na které při naší misi narazíme a výsledkem je, že dvě třetiny lidí z čety jsou mrtví nebo nezvěstní.\r\n"
+"\r\n"
+"Je více než pravděpodobné, že bych mezi nimi byl i já, kdyby nebylo Caroniho. Nebyl jsem si jistý, proč Serža vybral zrovna vojína, aby s námi šel na misi, ale chvilku jsem byl rád, že tak rozhodl.\r\n"
+"\r\n"
+"Můj dobrý pocit neměl ale dlouhého trvání. Přestože nás Caroni zachránil, nereagoval na rozkazy. Jediný případ, kdy ze sebe vydal alespoň hlásku, byl ten, kdy někdo z naší palebné skupiny zabil nepřítele. Pokaždé, když se tak stalo, se Caroni snažil najít nějakou jinou zmutovanou stvůru, kterou by mohl zabít.\r\n"
+"\r\n"
+"Snažili jsme se mu vysvětlit, že každý další zabitý nepřítel znamená riziko, že se na nás znovu seběhnou. Nechtěl nás poslouchat. Vypadalo to, jako by byl odhodlaný mít z nás všech co největší počet zabitých. Myslel si snad, že je to nějaká hra?\r\n"
+"\r\n"
+"Naši pozici jsme neudrželi moc dlouho. Ani Caronimu se nelíbilo, když nás z druhé strany obešli dva párači. Alespoň na něčem jsme se shodli. Utekli jsme do nedaleké jeskyně a zdálo se, že bestie ztratily naši stopu. A tehdy jsme objevili tu předválečnou zbraň.\r\n"
+"\r\n"
+"V životě jsem už několikrát rozebíral a skládal plazmovou pušku, ale tohle bylo něco, co jsem ještě neviděl. Chtěli jsme to přinést zpátky na základnu, ale nejdříve jsme si potřebovali na chvíli odpočinout.\r\n"
+"\r\n"
+"Když jsem se probudil, zjistil jsem, že nejnže zmizely všechny naše mentaty, ale že o kousek dál sedí Caroni shrbený nad zbraní a její součástky jsou rozesety po okolí.\r\n"
+"\r\n"
+"Myslel jsem na možné povýšení, které mě díky zbrani mohlo čekat, i když jsme měli mizivou šanci na přežití. Skočil jsem po Caronim. Bránil se. Naše bitka probudila ostatní, kteří se přidali. Všichni jsme se prali o zbraň.\r\n"
+"\r\n"
+"Hluk přilákal zbytek obyvatel Zářícího moře na naši pozici a brzy jsme opět utíkali za záchranu života. Říct, že tentokrát jsme neměli tolik štěstí, bylo slabé slovo. Sledoval jsem, jak ostatní trhají na kusy. A ta zbraň? Fungovala. Caroni z ní bezmyšlenkovitě vystřelil do bouře. Její účinnost byla zřejmá, ale nestačilo to.\r\n"
+"\r\n"
+"Naposledy jsem ho spatřil, jak utíká do moře a paprsky elektřiny z jeho zbraně se v mlze pomalu tenčily a mizely.\r\n"
+"\r\n"
+"Znovu jsem vyvázl. Nebo alespoň moje větší část. Pokusím se vysílačkou přivolat pomoc.\r\n"
+"\r\n"
+"Ale moc času už mi nezbývá."
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -2728,6 +3124,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00014d"
 msgid "Property of Vault-Tec"
 msgstr ""
+"Majetek Vault-Tecu"
 
 #. FormID=01000869
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_TeslaBeaton
@@ -2736,6 +3133,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00014f"
 msgid "Beaton Amplified Lens"
 msgstr ""
+"Beatonova zesilující optika"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -2759,6 +3157,21 @@ msgid ""
 "\r\n"
 "Bastard may have put up a good fight, but people like that? Even with every advantage - they always lose.\r\n"
 msgstr ""
+"Mise splněna. \r\n"
+"\r\n"
+"Letadlo je na kusy. Ale ty kusy jsou neporušené. Chystali jsme se zkontrolovat inventář, zjistit zda zvládneme odnést část vybavení zpátky do Vaultu 95, když jsme zahlédli v mlze modré světlo. Jak se blížilo, pozvedli jsme zbraně. A já nemohl uvěřit svým očím. Byl to ten packal Caroni. \r\n"
+"\r\n"
+"Nedalo moc práce uhodnout, díky čemu ten zbabělec přežil. Měl něco zvednutého přes rameno. Jasně to zářilo. Ten hajzl se chystal prozradit naši pozici.\r\n"
+"\r\n"
+"Řekl jsem mu, aby to položil. Neposlechl. Řekl jsem, že je to rozkaz. Nereagoval. Znovu jsme pozvedli zbraně a já zopakoval rozkaz. Jen tam stál, tak jsem chlapům řekl, aby šli blíž. \r\n"
+"\r\n"
+"Hned jak ho obklíčili, vyšlehl z té věci na ramenou něco jako blesk. Feldta to proměnilo v popel. Zasypali jsme oblast kulkami, ale když se usadil prach, ten zkurvysyn byl pryč. Běžně nedokázal ujít ani jeden hlídkový okruh, aniž by si několikrát nepřišlápl tkaničky, ale teď se v okamžiku vypaří?\r\n"
+"\r\n"
+"Vrhli jsme se do trupu letadla, abychom měli krytí, jenže on za námi vtrhl dovnitř. Ani se u toho vůbec nesnažil krýt a sejmul další dva moje muže. Moc možností mi nezbývalo, tak jsem po něm skočil a dal mu ránu do zátylku. Padnul na podlahu kabiny. Přidal se zbytek chlapů a drželi jsme ho na zemi.\r\n"
+"\r\n"
+"Nenáviděli jsme skutečnost, že ho potřebujeme živého. Ale velení musí vědět, co se tady venku stalo. Jinak bych toho šmejda zastřelil sám.\r\n"
+"\r\n"
+"Ten bastard se možná dobře bránil, ale lidi jako on? I přes všechny možné výhody... vždycky prohrají.\r\n"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2767,6 +3180,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000151"
 msgid "Improved Long"
 msgstr ""
+"[Dlouhá hlaveň+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2775,6 +3189,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000152"
 msgid "Fluted"
 msgstr ""
+"[Odlehčený]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2783,6 +3198,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000153"
 msgid "Glow-Sighted"
 msgstr ""
+"[Trit.]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2791,6 +3207,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000154"
 msgid "High Speed"
 msgstr ""
+"[Zrychlený]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2799,6 +3216,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000155"
 msgid "Mighty"
 msgstr ""
+"[Mocnář]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2807,6 +3225,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000157"
 msgid "Bayoneted"
 msgstr ""
+"[Bajonet]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2815,6 +3234,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000158"
 msgid "Snubnosed"
 msgstr ""
+"[Krátká]"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -2823,6 +3243,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000159"
 msgid "Corrupted Data"
 msgstr ""
+"Poškozená data"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2831,6 +3252,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015a"
 msgid "Electrified"
 msgstr ""
+"[Nabíjecí]"
 
 #. FormID=01000875
 #. EDID=ccBGSFO4046_miscmod_mod_Tesla_Cannon_Receiver_Standard
@@ -2839,6 +3261,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015b"
 msgid "Tesla Cannon Standard Receiver"
 msgstr ""
+"Elektrokanón - standardní tělo"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2847,6 +3270,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015c"
 msgid "Maximum Capacity"
 msgstr ""
+"[Zásobník++]"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -2855,6 +3279,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015d"
 msgid "Investigate the distress signal coordinates"
 msgstr ""
+"Prozkoumej souřadnice nouzového signálu"
 
 #. FormID=0100083A
 #. EDID=ccBGSFO4046_GunnerFour
@@ -2863,6 +3288,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015e"
 msgid "Vault 95 Gunner"
 msgstr ""
+"Ranař z Vaultu 95"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2871,6 +3297,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00015f"
 msgid "Night-Vision"
 msgstr ""
+"[Noční vidění]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2879,6 +3306,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000160"
 msgid "Survivor's"
 msgstr ""
+"[Přeživší]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2887,6 +3315,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000162"
 msgid "Bull Barrel"
 msgstr ""
+"[Těžká]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2895,6 +3324,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000163"
 msgid ".38"
 msgstr ""
+"[.38]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2903,6 +3333,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000164"
 msgid "Six-Crank"
 msgstr ""
+"[Šest natočení]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2911,6 +3342,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000165"
 msgid "Three-Crank"
 msgstr ""
+"[Tři natočení]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2919,6 +3351,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000166"
 msgid "High Capacity"
 msgstr ""
+"[Kondenzátor+]"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2927,6 +3360,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000167"
 msgid "Compressed"
 msgstr ""
+"[Komprese]"
 
 #. FormID=01000866
 #. EDID=ccBGSFO4046_mod_TesCan_Receiver_MoreDamage1_BetterCriticals2
@@ -2935,6 +3369,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000168"
 msgid "Magnified Spark-Gap Oscillator"
 msgstr ""
+"Zvětšovací jiskřicí oscilátor"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -2943,6 +3378,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000169"
 msgid "Penetrating"
 msgstr ""
+"[Průrazník]"
 
 #. FormID=01000031
 #. EDID=ccBGSFO4046_Bloatfly
@@ -2951,6 +3387,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00016a"
 msgid "Bloatfly"
 msgstr ""
+"Megamoucha"
 
 #. FormID=0100083B
 #. EDID=ccBGSFO4046_GunnerLog03
@@ -2968,6 +3405,15 @@ msgid ""
 "\r\n"
 "\r\n"
 msgstr ""
+"          ..// VAU7T T3C H8CK v1.2 \\\\..\r\n"
+"                    |R|n|ř|O|S|\r\n"
+"\r\n"
+"*./admin.holopaska_cil_ovladani\r\n"
+"..\r\n"
+"..\r\n"
+">>Přístup pro zadní vrátka povolen.\r\n"
+"\r\n"
+"\r\n"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -2976,6 +3422,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00016c"
 msgid "Pick up Caroni's Tesla Cannon"
 msgstr ""
+"Vezmi Caroniho elektrokanón"
 
 #. FormID=0100083D
 #. EDID=ccBGSFO4046_GunnerLog01
@@ -2992,6 +3439,14 @@ msgid ""
 ">>Access to backdoor granted.\r\n"
 "\r\n"
 msgstr ""
+"          ..// VAU7T T3C H8CK v1.2 \\\\..\r\n"
+"                    |R|n|ř|O|S|\r\n"
+"\r\n"
+"*./admin.holopaska_cil_ovladani\r\n"
+"..\r\n"
+"..\r\n"
+">>Přístup pro zadní vrátka povolen.\r\n"
+"\r\n"
 
 #. FormID=01000016
 #. EDID=ccBGSFO4046_miscmod_mod_Tesla_Cannon_Barrel_Automatic
@@ -3000,6 +3455,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00016f"
 msgid "Tesla Cannon Automatic Barrel"
 msgstr ""
+"Elektrokanón - automatická hlaveň"
 
 #. FormID=0100002F
 #. EDID=ccBGSFO4046_MCloak
@@ -3008,6 +3464,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000170"
 msgid "Radiation Cloak"
 msgstr ""
+"Radiation Cloak"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -3016,6 +3473,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000171"
 msgid "Access the Gunner's Pip-Boy"
 msgstr ""
+"Připoj se k Ranařově Pip-Boyovi"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3024,6 +3482,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000172"
 msgid "Experimental"
 msgstr ""
+"[Experiment]"
 
 #. FormID=01000019
 #. EDID=ccBGSFO4046_GunnerLogCaroni
@@ -3032,6 +3491,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000173"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam z Pip-Boye"
 
 #. FormID=01000025
 #. EDID=ccBGSFO4046_NoValuableDataMessage
@@ -3040,6 +3500,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000174"
 msgid "No valuable data."
 msgstr ""
+"Žádná hodnotná data."
 
 #. FormID=01000030
 #. EDID=ccBGSFO4046_PipboyPickUpCloakSpell
@@ -3048,6 +3509,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000175"
 msgid "Pipboy Pick up Spell"
 msgstr ""
+"Pipboy Pick up Spell"
 
 #. FormID=01000028
 #. EDID=ccBGSFO4046_PioBoyInstructionsB
@@ -3069,6 +3531,19 @@ msgid ""
 "\r\n"
 "I hope Sarge knows what he is doing."
 msgstr ""
+"Crane, navzdory mým protestům Serža chce, abych ti nasdílel kopii programu zadních vrátek do Pip-Boye. Místo interakce s operačním systémem rovnou pracuje s kódem nižší úrovně zařízení. \r\n"
+"\r\n"
+"S takovým přístupem se otevírá hned několik zajímavých možností... ech, jen ztrácím čas. Jediné, co MUSÍŠ udělat, je vytáhnout záslepku na zadní straně Pip-Boye. \r\n"
+"\r\n"
+"Hlavně opatrně.\r\n"
+"\r\n"
+"Jak bude záslepka odstraněna, vložíš pásku do Pip-Boye a vše ostatní by měl program už obstarat sám. Jak se dostaneš dovnitř, budeš moct z Pip-Boye stahovat libovolná data. Souřadnice, záznamy... prostě všechno. \r\n"
+"\r\n"
+"Serža doufá, že pokud v terénu narazíme na nějaké obyvatele vaultu, budeme schopni s využitím jejich Pip-Boyů lokalizovat více vaultů. A to víš, co by znamenalo. \r\n"
+"\r\n"
+"Do háje... Jak tě znám, nejspíš přivedeš obyvatele vaultu k nám, spíš než naopak. \r\n"
+"\r\n"
+"Doufám, že Serža ví, co dělá."
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3077,6 +3552,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000178"
 msgid "Improved Jury-Rigged"
 msgstr ""
+"[Improvizovaný+]"
 
 #. FormID=01000033
 #. EDID=ccBGSFO4046_WeapBloatfly
@@ -3085,6 +3561,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000179"
 msgid "Larva Spit"
 msgstr ""
+"Larví sekret"
 
 #. FormID=0100002C
 #. EDID=ccBGSFO4046_MCloakEffect
@@ -3093,6 +3570,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00017a"
 msgid "R Cloak"
 msgstr ""
+"R plášť"
 
 #. FormID=0100083E
 #. EDID=ccBGSFO4046_GunnerLog04
@@ -3110,6 +3588,15 @@ msgid ""
 "\r\n"
 "\r\n"
 msgstr ""
+"          ..// VAU7T T3C H8CK v1.2 \\\\..\r\n"
+"                    |R|n|ř|O|S|\r\n"
+"\r\n"
+"*./admin.holopaska_cil_ovladani\r\n"
+"..\r\n"
+"..\r\n"
+">>Přístup pro zadní vrátka povolen.\r\n"
+"\r\n"
+"\r\n"
 
 #. FormID=01000018
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Barrel_ImprovedJuryRigged
@@ -3118,6 +3605,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00017c"
 msgid "Tesla Cannon Improved Jury Rigged Barrel"
 msgstr ""
+"Elektrokanón - vylepšená improvizovaná hlaveň"
 
 #. FormID=01000019
 #. EDID=ccBGSFO4046_GunnerLogCaroni
@@ -3126,6 +3614,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00017d"
 msgid "Property of Vault-Tec"
 msgstr ""
+"Majetek Vault-Tecu"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3134,6 +3623,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00017e"
 msgid "Cannon"
 msgstr ""
+"Elektrokanón"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3142,6 +3632,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00017f"
 msgid "Tesla"
 msgstr ""
+"[Tesla]"
 
 #. FormID=01000027
 #. EDID=ccBGSFO4046_PipBoyInstructions
@@ -3150,6 +3641,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000180"
 msgid "Instructions for data transfer for Pip-Boy."
 msgstr ""
+"Instrukce pro přenos dat z Pip-Boye."
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3158,6 +3650,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000181"
 msgid "Very Experimental"
 msgstr ""
+"[Velký experiment]"
 
 #. FormID=01000879
 #. EDID=ccBGSFO4046_GunnerCaroni
@@ -3166,6 +3659,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000182"
 msgid "Caroni"
 msgstr ""
+"Caroni"
 
 #. FormID=01000019
 #. EDID=ccBGSFO4046_GunnerLogCaroni
@@ -3174,6 +3668,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000183"
 msgid "23/10/87"
 msgstr ""
+"23. 10. 2287"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3182,6 +3677,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000184"
 msgid "Tesla-Beaton"
 msgstr ""
+"[Tesla-Beaton]"
 
 #. FormID=0100001C
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_ImprovedJuryRigged
@@ -3190,6 +3686,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000185"
 msgid "Improved Jury-Rigged Beam Focuser"
 msgstr ""
+"Vylepšený improvizovaný zaostřovač paprsku"
 
 #. FormID=01000876
 #. EDID=ccBGSFO4046_dn_TesCan_Nams
@@ -3198,6 +3695,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000186"
 msgid "Jury-Rigged"
 msgstr ""
+"[Improvizovaný]"
 
 #. FormID=01000025
 #. EDID=ccBGSFO4046_NoValuableDataMessage
@@ -3206,6 +3704,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000187"
 msgid "No valuable data."
 msgstr ""
+"Žádná hodnotná data."
 
 #. FormID=0100001D
 #. EDID=ccBGSFO4046_mod_TeslaCannon_Barrel_ImprovedTeslaBeaton
@@ -3214,6 +3713,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000188"
 msgid "Improved Beaton Amplified Lens"
 msgstr ""
+"Vylepšená Beatonova zesilující optika"
 
 #. FormID=01000019
 #. EDID=ccBGSFO4046_GunnerLogCaroni
@@ -3231,6 +3731,15 @@ msgid ""
 "\r\n"
 "\r\n"
 msgstr ""
+"          ..// VAU7T T3C H8CK v1.2 \\\\..\r\n"
+"                    |R|n|ř|O|S|\r\n"
+"\r\n"
+"*./admin.holopaska_cil_ovladani\r\n"
+"..\r\n"
+"..\r\n"
+">>Přístup pro zadní vrátka povolen.\r\n"
+"\r\n"
+"\r\n"
 
 #. FormID=01000017
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Barrel_ImprovedTeslaBeaton
@@ -3239,6 +3748,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00018b"
 msgid "Tesla Cannon Improved Tesla Beaton Barrel"
 msgstr ""
+"Elektrokanón - vylepšená Beatonova hlaveň"
 
 #. FormID=01000029
 #. EDID=ccBGSFO4046_PipboyPickUpCloak
@@ -3247,6 +3757,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00018c"
 msgid "Pipboy PickUp Cloak"
 msgstr ""
+"Pipboy PickUp Cloak"
 
 #. FormID=0100002B
 #. EDID=ccBGSFO4046_RHazardEffect
@@ -3255,6 +3766,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00018d"
 msgid "Pipboy AV Apply"
 msgstr ""
+"Pipboy AV Apply"
 
 #. FormID=0100083C
 #. EDID=ccBGSFO4046_GunnerLog02
@@ -3272,6 +3784,15 @@ msgid ""
 "\r\n"
 "\r\n"
 msgstr ""
+"          ..// VAU7T T3C H8CK v1.2 \\\\..\r\n"
+"                    |R|n|ř|O|S|\r\n"
+"\r\n"
+"*./admin.holopaska_cil_ovladani\r\n"
+"..\r\n"
+"..\r\n"
+">>Přístup pro zadní vrátka povolen.\r\n"
+"\r\n"
+"\r\n"
 
 #. FormID=0100002D
 #. EDID=ccBGSFO4046_MRHazard
@@ -3280,6 +3801,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00018f"
 msgid "Radiation"
 msgstr ""
+"Radiace"
 
 #. FormID=01000027
 #. EDID=ccBGSFO4046_PipBoyInstructions
@@ -3288,6 +3810,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000191"
 msgid "Instructions for Crane"
 msgstr ""
+"Instrukce pro Crana"
 
 #. FormID=0100002A
 #. EDID=ccBGSFO4046_PipboyPickupCloakEffect
@@ -3296,6 +3819,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000192"
 msgid "Pipboy PickUp Effect for Vault 88 Pipboys"
 msgstr ""
+"Pipboy PickUp Effect for Vault 88 Pipboys"
 
 #. FormID=0100002E
 #. EDID=ccBGSFO4046_PipBoyPickUpTargetCloakAbility
@@ -3304,6 +3828,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000193"
 msgid "PipBoy PickUp Target Cloak Spell"
 msgstr ""
+"PipBoy PickUp Target Cloak Spell"
 
 #. FormID=01000027
 #. EDID=ccBGSFO4046_PipBoyInstructions
@@ -3312,6 +3837,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000194"
 msgid "Pip-Boy Log"
 msgstr ""
+"Záznam z Pip-Boye"
 
 #. FormID=01000024
 #. EDID=ccBGSFO4046_miscmod_mod_TesCan_Mode_TeslaBeatonAssembly
@@ -3320,6 +3846,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000195"
 msgid "Tesla Cannon Tesla-Beaton Assembly"
 msgstr ""
+"Elektrokanón - Beatonova sada"
 
 #. FormID=01000019
 #. EDID=ccBGSFO4046_GunnerLogCaroni
@@ -3328,6 +3855,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000196"
 msgid "Time for round two."
 msgstr ""
+"Čas na druhé kolo."
 
 #. FormID=01000028
 #. EDID=ccBGSFO4046_PioBoyInstructionsB
@@ -3336,6 +3864,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000197"
 msgid "Pip-Boy Instructions"
 msgstr ""
+"Instrukce z Pip-Boye"
 
 #. FormID=01000028
 #. EDID=ccBGSFO4046_PioBoyInstructionsB
@@ -3344,6 +3873,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000198"
 msgid "Instructions for Crane"
 msgstr ""
+"Instrukce pro Crana"
 
 #. FormID=01000026
 #. EDID=ccBGSFO4046_HolotapeLearn
@@ -3352,6 +3882,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:000199"
 msgid "Gunner Holotape"
 msgstr ""
+"Ranařova holopáska"
 
 #. FormID=01000037
 #. EDID=ccBGSFO4046_NewBarrelEffectt
@@ -3360,6 +3891,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00019a"
 msgid "new barrel effect"
 msgstr ""
+"new barrel effect"
 
 #. FormID=0100003E
 #. EDID=CCBGSFO4046_Tesla_Cannonn
@@ -3368,6 +3900,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00019b"
 msgid "Tesla Cannon"
 msgstr ""
+"Elektrokanón"
 
 #. FormID=0100003E
 #. EDID=CCBGSFO4046_Tesla_Cannonn
@@ -3376,6 +3909,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00019c"
 msgid "Default"
 msgstr ""
+"Výchozí"
 
 #. FormID=0100003B
 #. EDID=ccBGSFO4046_NewBarrelPerk
@@ -3384,6 +3918,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00019d"
 msgid "New Barrel Perk"
 msgstr ""
+"New Barrel Perk"
 
 #. FormID=01000846
 #. EDID=ccBGSFO4046_BestOfThree
@@ -3392,6 +3927,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:00019e"
 msgid "Search the Gunner for evidence of what happened."
 msgstr ""
+"Prohledej Ranaře kvůli důkazům o tom, co se stalo."
 
 #. FormID=0100003D
 #. EDID=CCBGSFO4046_mod_TesCan_FavouriteMod
@@ -3400,6 +3936,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0001a0"
 msgid "Favourite mod"
 msgstr ""
+"Oblíbená modifikace"
 
 #. FormID=01000044
 #. EDID=ccBGSFO4046_Dummy
@@ -3408,6 +3945,7 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:0001a2"
 msgid "Dummy"
 msgstr ""
+"Dummy"
 
 #. FormID=0000003C
 #. EDID=Commonwealth
@@ -3416,3 +3954,5 @@ msgstr ""
 msgctxt "ccBGSFO4046-TesCan:strings:03613f"
 msgid "Commonwealth"
 msgstr ""
+"Commonwealth"
+
