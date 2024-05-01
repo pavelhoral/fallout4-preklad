@@ -641,7 +641,7 @@
       <EDID>PA_X01_Helmet_Misc_Int</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Internal Database</Source>
-      <Dest>Interní databáze</Dest>
+      <Dest>Vnitřní databáze</Dest>
     </String>
     <String List="0" sID="01BF1F">
       <EDID>PA_Raider_Arm_Lining_B</EDID>
@@ -1139,7 +1139,7 @@
       <EDID>pa_comp_X01_Helmet_Misc_INT</EDID>
       <REC>MISC:FULL</REC>
       <Source>X-01 Internal Database</Source>
-      <Dest>X-01 - interní databáze</Dest>
+      <Dest>X-01 - vnitřní databáze</Dest>
     </String>
     <String List="0" sID="01EF7B">
       <EDID>pa_comp_T60_Helmet_Misc_RadScrubbers</EDID>
@@ -1781,7 +1781,7 @@
       <EDID>PA_Material_Null</EDID>
       <REC>OMOD:FULL</REC>
       <Source>No Material Mod</Source>
-      <Dest>Bez modifikace materiálu</Dest>
+      <Dest>Bez povrchové úpravy</Dest>
     </String>
     <String List="0" sID="02B507">
       <EDID>PA_T45_Torso_Lining_A</EDID>
@@ -2279,7 +2279,7 @@
       <EDID>PA_T60_Helmet_Misc_Int</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Internal Database</Source>
-      <Dest>Interní databáze</Dest>
+      <Dest>Vnitřní databáze</Dest>
     </String>
     <String List="0" sID="031776">
       <EDID>PA_T45_Torso_Misc_Reactive</EDID>
@@ -2345,7 +2345,7 @@
       <EDID>PA_Raider_Helmet_Misc_Int</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Internal Database</Source>
-      <Dest>Interní databáze</Dest>
+      <Dest>Vnitřní databáze</Dest>
     </String>
     <String List="0" sID="03184B">
       <EDID>PA_T51_Torso_Misc_Reactive</EDID>
@@ -2399,7 +2399,7 @@
       <EDID>PA_T45_Helmet_Misc_Int</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Internal Database</Source>
-      <Dest>Interní databáze</Dest>
+      <Dest>Vnitřní databáze</Dest>
     </String>
     <String List="0" sID="0318D2">
       <EDID>PA_X01_Helmet_Misc_RadScrubbers</EDID>
@@ -2483,7 +2483,7 @@
       <EDID>PA_T51_Helmet_Misc_Int</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Internal Database</Source>
-      <Dest>Interní databáze</Dest>
+      <Dest>Vnitřní databáze</Dest>
     </String>
     <String List="0" sID="031934">
       <EDID>PA_Raider_Torso_Misc_Cleanser</EDID>
@@ -3347,13 +3347,13 @@
       <EDID>PA_T60_Material_BOSOfficer</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Officer, increases Strength with all pieces painted.</Source>
-      <Dest>Důstojník Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Důstojník Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="01CC50">
       <EDID>PA_T60_Material_BOSStandard</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Standard, increases Strength with all pieces painted.</Source>
-      <Dest>Standardní nátěr Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Standardní nátěr Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="01CC60">
       <EDID>PA_T60_Helmet_Lining_F</EDID>
@@ -3827,7 +3827,7 @@
       <EDID>PA_T60_Material_AtomCat</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Reduces Action Point cost for sprinting. Increases Charisma with all pieces painted.</Source>
-      <Dest>Snižuje spotřebu akčních bodů při sprintu. Zvyšuje charisma, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Snižuje spotřebu akčních bodů při sprintu. Zvyšuje charisma, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="0291B6">
       <EDID>PA_T60_Material_Cold</EDID>
@@ -4061,43 +4061,43 @@
       <EDID>PA_T60_Material_BOSKnight</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Knight, increases Strength with all pieces painted.</Source>
-      <Dest>Rytíř Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Rytíř Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02E9DE">
       <EDID>PA_T60_Material_BOSPaladin</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Paladin, increases Strength with all pieces painted.</Source>
-      <Dest>Paladin Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Paladin Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02EA53">
       <EDID>PA_T60_Material_BOSElder</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Elder, increases Strength with all pieces painted.</Source>
-      <Dest>Starší Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Starší Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02EB4F">
       <EDID>PA_T60_Material_BOSKnightCaptain</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Knight Captain, increases Strength with all pieces painted.</Source>
-      <Dest>Rytíř-kapitán Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Rytíř-kapitán Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02ED86">
       <EDID>PA_T60_Material_BOSSentinel</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Sentinel, increases Strength with all pieces painted.</Source>
-      <Dest>Strážce Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Strážce Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02EE1C">
       <EDID>PA_T60_Material_BOSInitiate</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Initiate, increases Strength with all pieces painted.</Source>
-      <Dest>Zasvěcenec Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Zasvěcenec Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02F12C">
       <EDID>PA_T60_Material_BOSKnightSgt</EDID>
       <REC>OMOD:DESC</REC>
       <Source>Brotherhood of Steel Knight Sergeant, increases Strength with all pieces painted.</Source>
-      <Dest>Rytíř-seržant Bratrstva oceli - zvyšuje sílu, jsou-li natřeny všechny části zbroje.</Dest>
+      <Dest>Rytíř-seržant Bratrstva oceli - zvyšuje sílu, jsou-li natřené všechny části zbroje.</Dest>
     </String>
     <String List="1" sID="02F3A1">
       <EDID>PA_OptimizedBracers</EDID>
