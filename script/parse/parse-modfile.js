@@ -166,14 +166,14 @@ class ModfileParser {
      * Parse next entry and return its size in bytes.
      */
     parseNext(handler, assert) {
-        const buffer = this.source.read(24);
-        const type = buffer.length === 24 ? buffer.readUInt32LE(0) : null;
+        const buffer = this.source.read(20);
+        const type = buffer.length === 20 ? buffer.readUInt32LE(0) : null;
         if (assert && !type) {
             throw new Error("Unexpected end of source reached.");
         } else if (type === MODFILE_TYPES.GRUP) {
             return this.parseGroup(buffer, handler);
         } else if (type !== null) {
-            return this.parseRecord(type, buffer, handler) + 24;
+            return this.parseRecord(type, buffer, handler) + 20;
         }
         return 0; // EOF
     }
@@ -194,7 +194,7 @@ class ModfileParser {
         const size = buffer.readUInt32LE(4);
         const label = buffer.readUInt32LE(8);
         const type = buffer.readInt32LE(12);
-        let skip = size - 24;
+        let skip = size - 20;
         handler.handleGroup(type, label, (handler) => {
             while (skip > 0) {
                 skip -= this.parseNext(handler, true);

@@ -138,6 +138,23 @@ program.
     });
 
 /**
+ * Create 'baked' modfile.
+ */
+program.
+    command('load').
+    description('Load strings from modfile with baked-in translations.').
+    action(() => {
+        var modfileLoad = require('./modfile/load'),
+            pluginName = path.parse(program.modfile).name,
+            recordLoader = new modfileLoad.RecordLoader(pluginName);
+        console.log(JSON.stringify(
+            Object.fromEntries(readModfile(recordLoader).strings.entries()),
+            null,
+            '  '
+        ));
+    });
+
+/**
  * Fallback command.
  */
 program.
