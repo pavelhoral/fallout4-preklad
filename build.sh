@@ -25,6 +25,7 @@ BAKED_PLUGINS[DLCworkshop03]=d3
 BAKED_PLUGINS[DLCRobot]=d4
 BAKED_PLUGINS[DLCCoast]=d5
 BAKED_PLUGINS[DLCNukaWorld]=d6
+BAKED_PLUGINS[CreationClub]=cc
 
 # Clean previous builds if requested
 if [[ -v CLEAN ]]; then
@@ -37,20 +38,29 @@ mkdir -p $WORKDIR
 
 # Combine translation files into one XML
 function run_combine {
-    COMBINE_OPTS="-o $WORKDIR/$PLUGIN.xml"
-    script/sstxml.js combine $COMBINE_OPTS source/l10n/$PLUGIN/$FILTER*
+    local COMBINE_OPTS="-o $WORKDIR/$PLUGIN.xml"
+    local SOURCE_FILES=source/l10n/$PLUGIN/$FILTER*
+    if [[ "CreationClub" != "$PLUGIN" ]]; then
+        script/sstxml.js combine $COMBINE_OPTS $SOURCE_FILES
+    fi
 }
 
 # Compile translation into STRINGS
 function run_compile {
-    COMPILE_OPTS="-s shadow/Strings"
+    local COMPILE_OPTS="-s shadow/Strings"
     if [[ -v UNACCENT ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -u"
     fi
     if [[ -v REVIEW ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -r"
     fi
-    script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
+    if [[ "CreationClub" != "$PLUGIN" ]]; then
+        script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
+    else
+        for SOURCE_FILE in source/l10n/CreationClub/*; do
+            script/compile.js $COMPILE_OPTS "$SOURCE_FILE";
+        done
+    fi
 }
 
 # Bake translations into a plugin modfile

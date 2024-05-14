@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 'use strict';
+
 var fs = require('fs-extra'),
     path = require('path'),
     xml2js = require('xml2js'),
@@ -76,7 +77,7 @@ var UNACCENT_TYPES = [
         'sPlayTape' // TODO tohle by se dalo prelozit bez hacku (spustit pasku)
     ];
 function renderString(string) {
-    var result = string.Dest[0].normalize('NFC'),
+    var result = string.Dest?.[0].normalize('NFC') || string.Source[0],
         type = typeof string.REC[0] === 'string' ? string.REC[0] : string.REC[0]._,
         unaccent = program.unaccent && (
                 UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType)) ||
@@ -89,37 +90,77 @@ function renderString(string) {
     return unaccent ? latinize(result) : result;
 }
 
-var xmlObject = loadXml(program.args[0]),
-    inputParams = xmlObject.SSTXMLRessources.Params[0],
-    inputStrings = xmlObject.SSTXMLRessources.Content[0].String,
-    targetDirectory = program.target || path.join(__dirname, '..', 'target/Strings'),
-    targetPrefix = path.join(targetDirectory, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.');
+function loadXmlStrings(filename) {
+    const xmlObject = loadXml(program.args[0]);
+    const xmlStrings = {
+        plugin: xmlObject.SSTXMLRessources.Params[0].Addon[0],
+        language: xmlObject.SSTXMLRessources.Params[0].Source[0],
+        STRINGS: {},
+        DLSTRINGS: {},
+        ILSTRINGS: {}
+    };
+    for (const string of xmlObject.SSTXMLRessources.Content[0].String) {
+        const type = ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'][string.$.List];
+        xmlStrings[type][parseInt(string.$.sID, 16)] = {
+            fuzzy: !!string.$.Partial,
+            source: string.Source[0],
+            target: renderString(string)
+        };
+    }
+    return xmlStrings;
+}
+
+async function loadPoStrings(filename) {
+    const gettext = await import('@prekladyher/l10n-toolbox-gettext');
+    const entries = gettext.decodeEntries(fs.readFileSync(filename, 'utf-8'));
+    const poStrings = {
+        plugin: path.parse(filename).name,
+        language: 'en',
+        STRINGS: {},
+        DLSTRINGS: {},
+        ILSTRINGS: {}
+    };
+    for (const entry of entries) {
+        if (!entry.msgctxt) {
+            continue; // skip header
+        }
+        const context = entry.msgctxt.split(':');
+        poStrings[context[1].toUpperCase()][parseInt(context[2], 16)] = {
+            fuzzy: entry['#,']?.indexOf('fuzzy') >= 0,
+            source: entry.msgid,
+            target: entry.msgstr
+        };
+    }
+    return poStrings;
+}
+
+var targetDirectory = program.target || path.join(__dirname, '..', 'target/Strings');
+function compile(l10nStrings) {
+    ['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach(type => {
+        const strings = Object.fromEntries(Object.entries(l10nStrings[type])
+            .filter(string => program.partial || !string.fuzzy));
+        if (program.shadow) {
+            applyShadow(
+                strings,
+                path.join(program.shadow, l10nStrings.plugin + '_' + l10nStrings.language + '.' + type),
+                program.missing
+            );
+        }
+        if (program.debug) {
+            applyDebug(strings);
+        }
+        new parseStrings.StringsWriter().writeFile(
+                Object.fromEntries(Object.entries(strings).map(([key, value]) => [key, value.target])),
+                path.join(targetDirectory, l10nStrings.plugin + '_' + l10nStrings.language + '.') + type);
+    });
+}
+
 
 // Make sure target director exists
 fs.ensureDirSync(targetDirectory);
 
-['STRINGS', 'DLSTRINGS', 'ILSTRINGS'].forEach((type, index) => {
-    var strings = inputStrings.
-            filter(string => string.$.List == index).
-            filter(string => program.partial || !string.$.Partial).
-            reduce((result, string) => {
-                result[parseInt(string.$.sID, 16)] = {
-                    source: string.Source[0],
-                    target: renderString(string)
-                };
-                return result;
-            }, {});
-    if (program.shadow) {
-        applyShadow(
-            strings,
-            path.join(program.shadow, inputParams.Addon[0] + '_' + inputParams.Source[0] + '.' + type),
-            program.missing
-        );
-    }
-    if (program.debug) {
-        applyDebug(strings);
-    }
-    new parseStrings.StringsWriter().writeFile(
-            Object.fromEntries(Object.entries(strings).map(([key, value]) => [key, value.target])),
-            targetPrefix + type);
-});
+if (program.args[0].endsWith('.xml')) {
+    compile(loadXmlStrings(program.args[0]));
+} else {
+    loadPoStrings(program.args[0]).then(compile);
+}
