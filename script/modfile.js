@@ -6,7 +6,6 @@ const parseStrings = require('./parse/parse-strings');
 const renderFormId = require('./utils/render-formId');
 const program = require('commander');
 const output = require('./utils/program-output')(program);
-const util = require('util');
 const path = require('path');
 
 program.
@@ -128,7 +127,7 @@ program.
     description('Produce modfile with baked-in translations.').
     action(() => {
         var modfileBake = require('./modfile/bake'),
-            pluginName = path.parse(program.modfile).name,
+            pluginName = path.basename(program.modfile),
             recordBaker = new modfileBake.RecordBaker(pluginName, readStrings());
         if (!program.output) {
             console.error('Output file must be specified.');
