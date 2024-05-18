@@ -531,7 +531,7 @@
     </String>
     <String List="0" sID="03683A">
       <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Cancel</Source>
       <Dest>Zrušit</Dest>
     </String>
@@ -633,7 +633,7 @@
     </String>
     <String List="0" sID="03684D">
       <EDID>CC_PetDogs_RenameConfirmMsg</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>Rename</Source>
       <Dest>Přejmenovat</Dest>
     </String>
@@ -963,67 +963,67 @@
     </String>
     <String List="0" sID="03699A">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="19">WEAP:FULL</REC>
+      <REC id="19" idMax="21">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
       <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="03699C">
       <EDID>VRWorkshopShared_GaussRifle_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="4">WEAP:FULL</REC>
       <Source>Sniper</Source>
       <Dest>Sniper</Dest>
     </String>
     <String List="0" sID="03699D">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="23">WEAP:FULL</REC>
       <Source>Random Pistol</Source>
       <Dest>Random Pistol</Dest>
     </String>
     <String List="0" sID="03699E">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="23">WEAP:FULL</REC>
+      <REC id="23" idMax="23">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
       <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="03699F">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="13">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Útočná puška</Dest>
     </String>
     <String List="0" sID="0369A0">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="18">WEAP:FULL</REC>
+      <REC id="18" idMax="21">WEAP:FULL</REC>
       <Source>Rifle Semi-Auto Epic</Source>
       <Dest>Rifle Semi-Auto Epic</Dest>
     </String>
     <String List="0" sID="0369A2">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="5">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="0369A3">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="13">WEAP:FULL</REC>
       <Source>Rifle (Semi-Auto) Epic</Source>
       <Dest>Rifle (Semi-Auto) Epic</Dest>
     </String>
     <String List="0" sID="0369A4">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="11">WEAP:FULL</REC>
       <Source>Pistol</Source>
       <Dest>Pistol</Dest>
     </String>
     <String List="0" sID="0369A5">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="13">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="0369A6">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="4" idMax="9">TERM:ITXT</REC>
       <Source>Generate VR Settler</Source>
       <Dest>Generovat VR osadníka</Dest>
     </String>
@@ -1041,25 +1041,25 @@
     </String>
     <String List="0" sID="0369A9">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="21">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="0369AB">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="16">WEAP:FULL</REC>
+      <REC id="16" idMax="23">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
       <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0369AC">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="13">WEAP:FULL</REC>
       <Source>Short Rifle</Source>
       <Dest>Short Rifle</Dest>
     </String>
     <String List="0" sID="0369AD">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="14">WEAP:FULL</REC>
+      <REC id="14" idMax="21">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
@@ -1077,55 +1077,55 @@
     </String>
     <String List="0" sID="0369B0">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="11">WEAP:FULL</REC>
       <Source>10mm</Source>
       <Dest>10mm</Dest>
     </String>
     <String List="0" sID="0369B1">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="20">WEAP:FULL</REC>
+      <REC id="20" idMax="23">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
       <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="0369B3">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="9">TERM:ITXT</REC>
       <Source>Start Attack Mode</Source>
       <Dest>Zahájit útočný režim</Dest>
     </String>
     <String List="0" sID="0369B4">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="15">WEAP:FULL</REC>
+      <REC id="15" idMax="21">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
       <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0369B5">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="18">WEAP:FULL</REC>
+      <REC id="18" idMax="23">WEAP:FULL</REC>
       <Source>Shotgun Epic</Source>
       <Dest>Shotgun Epic</Dest>
     </String>
     <String List="0" sID="0369B6">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="19">WEAP:FULL</REC>
+      <REC id="19" idMax="21">WEAP:FULL</REC>
       <Source>Rifle Auto Epic</Source>
       <Dest>Rifle Auto Epic</Dest>
     </String>
     <String List="0" sID="0369B7">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="23">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="0369B8">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="11">WEAP:FULL</REC>
       <Source>Simple</Source>
       <Dest>Simple</Dest>
     </String>
     <String List="0" sID="0369B9">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="10">WEAP:FULL</REC>
       <Source>.44</Source>
       <Dest>.44</Dest>
     </String>
@@ -1137,7 +1137,7 @@
     </String>
     <String List="0" sID="0369BC">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="16">WEAP:FULL</REC>
+      <REC id="16" idMax="21">WEAP:FULL</REC>
       <Source>Pistol Auto Epic</Source>
       <Dest>Pistol Auto Epic</Dest>
     </String>
@@ -1149,19 +1149,19 @@
     </String>
     <String List="0" sID="0369BE">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="11">WEAP:FULL</REC>
       <Source>Short Rifle</Source>
       <Dest>Short Rifle</Dest>
     </String>
     <String List="0" sID="0369BF">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="13">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="0369C1">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="21">WEAP:FULL</REC>
       <Source>Rifle</Source>
       <Dest>Rifle</Dest>
     </String>
@@ -1173,13 +1173,13 @@
     </String>
     <String List="0" sID="0369C3">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="23">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="0369C4">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="13">WEAP:FULL</REC>
       <Source>Rifle Semi-Auto</Source>
       <Dest>Rifle Semi-Auto</Dest>
     </String>
@@ -1191,13 +1191,13 @@
     </String>
     <String List="0" sID="0369C7">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="21">WEAP:FULL</REC>
       <Source>Rifle Semi-Auto</Source>
       <Dest>Rifle Semi-Auto</Dest>
     </String>
     <String List="0" sID="0369C8">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
@@ -1209,31 +1209,31 @@
     </String>
     <String List="0" sID="0369CA">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
       <Source>Atomic Crater</Source>
       <Dest>Atomový kráter</Dest>
     </String>
     <String List="0" sID="0369CB">
       <EDID>VRWorkshopShared_Menu_ExitVR_MessageBox</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
     <String List="0" sID="0369CD">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="5">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="0369CE">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="13">WEAP:FULL</REC>
       <Source>Rifle (Semi-Auto)</Source>
       <Dest>Rifle (Semi-Auto)</Dest>
     </String>
     <String List="0" sID="0369CF">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="11">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
@@ -1251,43 +1251,43 @@
     </String>
     <String List="0" sID="0369D2">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="13">WEAP:FULL</REC>
       <Source>Rifle SA Epic</Source>
       <Dest>Rifle SA Epic</Dest>
     </String>
     <String List="0" sID="0369D3">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="23">WEAP:FULL</REC>
       <Source>Pipe</Source>
       <Dest>Trubková zbraň</Dest>
     </String>
     <String List="0" sID="0369D4">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="23">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
       <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="0369D5">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="13">WEAP:FULL</REC>
       <Source>Automatic Rifle</Source>
       <Dest>Automatic Rifle</Dest>
     </String>
     <String List="0" sID="0369D6">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="11">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0369D7">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="15">WEAP:FULL</REC>
+      <REC id="15" idMax="23">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0369D8">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="23">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
@@ -1305,43 +1305,43 @@
     </String>
     <String List="0" sID="0369DB">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="5">WEAP:FULL</REC>
       <Source>Board</Source>
       <Dest>Prkno</Dest>
     </String>
     <String List="0" sID="0369DC">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="21">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="0369DE">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="13">WEAP:FULL</REC>
       <Source>Short Rifle (Semi-Auto)</Source>
       <Dest>Short Rifle (Semi-Auto)</Dest>
     </String>
     <String List="0" sID="0369DF">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="16">WEAP:FULL</REC>
+      <REC id="16" idMax="23">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
       <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="0369E0">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="11">WEAP:FULL</REC>
       <Source>Rifle</Source>
       <Dest>Rifle</Dest>
     </String>
     <String List="0" sID="0369E1">
       <EDID>VRWorkshopShared_AlienBlaster_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="1">WEAP:FULL</REC>
       <Source>Default Epic</Source>
       <Dest>Default Epic</Dest>
     </String>
     <String List="0" sID="0369E2">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
@@ -1359,7 +1359,7 @@
     </String>
     <String List="0" sID="0369E5">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="13">WEAP:FULL</REC>
       <Source>Automatic Rifle Epic</Source>
       <Dest>Automatic Rifle Epic</Dest>
     </String>
@@ -1377,7 +1377,7 @@
     </String>
     <String List="0" sID="0369E8">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="22">WEAP:FULL</REC>
+      <REC id="22" idMax="23">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
       <Dest>Sniper Rifle Epic</Dest>
     </String>
@@ -1401,13 +1401,13 @@
     </String>
     <String List="0" sID="0369ED">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="22">WEAP:FULL</REC>
+      <REC id="22" idMax="23">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
       <Dest>Random Pistol Epic</Dest>
     </String>
     <String List="0" sID="0369EE">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="23">WEAP:FULL</REC>
       <Source>Laser</Source>
       <Dest>Laserová zbraň</Dest>
     </String>
@@ -1419,13 +1419,13 @@
     </String>
     <String List="0" sID="0369F0">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="0369F1">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="11">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
@@ -1437,49 +1437,49 @@
     </String>
     <String List="0" sID="0369F3">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="19">WEAP:FULL</REC>
+      <REC id="19" idMax="23">WEAP:FULL</REC>
       <Source>Short Rifle Epic</Source>
       <Dest>Short Rifle Epic</Dest>
     </String>
     <String List="0" sID="0369F4">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="16">WEAP:FULL</REC>
+      <REC id="16" idMax="21">WEAP:FULL</REC>
       <Source>Shotgun Epic</Source>
       <Dest>Shotgun Epic</Dest>
     </String>
     <String List="0" sID="0369F5">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="5">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="0369F6">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="13">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
     <String List="0" sID="0369F7">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="13">WEAP:FULL</REC>
       <Source>Hunting Rifle</Source>
       <Dest>Lovecká puška</Dest>
     </String>
     <String List="0" sID="0369F8">
       <EDID>VRWorkshopShared_GaussRifle_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="4">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="0369F9">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="15">WEAP:FULL</REC>
+      <REC id="15" idMax="23">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="0369FA">
       <EDID>VRWorkshopShared_Menu_EnterVR_MessageBox</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
@@ -1491,31 +1491,31 @@
     </String>
     <String List="0" sID="0369FC">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="5">WEAP:FULL</REC>
       <Source>Sledgehammer</Source>
       <Dest>Perlík</Dest>
     </String>
     <String List="0" sID="0369FD">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="21">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
       <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="0369FE">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="11">WEAP:FULL</REC>
       <Source>Pistol Auto Epic</Source>
       <Dest>Pistol Auto Epic</Dest>
     </String>
     <String List="0" sID="036A00">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="11">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto</Source>
       <Dest>Pistol Semi-Auto</Dest>
     </String>
     <String List="0" sID="036A01">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
       <Source>Desert Island</Source>
       <Dest>Opuštěný ostrov</Dest>
     </String>
@@ -1527,13 +1527,13 @@
     </String>
     <String List="0" sID="036A03">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="10">WEAP:FULL</REC>
       <Source>Random Pistol</Source>
       <Dest>Random Pistol</Dest>
     </String>
     <String List="0" sID="036A04">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="21">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
       <Dest>Simple Pistol</Dest>
     </String>
@@ -1545,27 +1545,21 @@
     </String>
     <String List="0" sID="036A06">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="19">WEAP:FULL</REC>
+      <REC id="19" idMax="23">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
       <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A07">
       <EDID>VRWorkshopShared_Flamer_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="036A08">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="5">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
-    </String>
-    <String List="0" sID="036A09">
-      <EDID>VRWorkshopShared_VRPod_VR</EDID>
-      <REC>FURN:FULL</REC>
-      <Source>VR Pod</Source>
-      <Dest>VR lůžko</Dest>
     </String>
     <String List="0" sID="036A0B">
       <EDID>VRWorkshopShared_AttackMarker_Gunner</EDID>
@@ -1575,25 +1569,25 @@
     </String>
     <String List="0" sID="036A0C">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="10">WEAP:FULL</REC>
       <Source>Scoped Pistol Epic</Source>
       <Dest>Scoped Pistol Epic</Dest>
     </String>
     <String List="0" sID="036A0D">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="11">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036A0E">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="13">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="036A0F">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="13">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
@@ -1611,31 +1605,31 @@
     </String>
     <String List="0" sID="036A15">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="15">WEAP:FULL</REC>
+      <REC id="15" idMax="21">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto Epic</Source>
       <Dest>Pistol Semi-Auto Epic</Dest>
     </String>
     <String List="0" sID="036A16">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="20">WEAP:FULL</REC>
+      <REC id="20" idMax="23">WEAP:FULL</REC>
       <Source>Rifle Epic</Source>
       <Dest>Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A18">
       <EDID>VRWorkshopShared_Flamer_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="3">WEAP:FULL</REC>
       <Source>Flamer</Source>
       <Dest>Plamenomet</Dest>
     </String>
     <String List="0" sID="036A1A">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="5">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="036A1B">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
       <Source>Capital Wasteland</Source>
       <Dest>Velká pustina</Dest>
     </String>
@@ -1647,43 +1641,43 @@
     </String>
     <String List="0" sID="036A1D">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="11">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="036A1E">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="23">WEAP:FULL</REC>
       <Source>Short Rifle</Source>
       <Dest>Short Rifle</Dest>
     </String>
     <String List="0" sID="036A1F">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="23">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
       <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="036A20">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="11">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
     <String List="0" sID="036A21">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="13">WEAP:FULL</REC>
       <Source>Combat Rifle</Source>
       <Dest>Taktická puška</Dest>
     </String>
     <String List="0" sID="036A22">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="23">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Assault Rifle</Dest>
     </String>
     <String List="0" sID="036A23">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="13">WEAP:FULL</REC>
       <Source>Rifle Short SA Epic</Source>
       <Dest>Rifle Short SA Epic</Dest>
     </String>
@@ -1695,7 +1689,7 @@
     </String>
     <String List="0" sID="036A25">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
@@ -1713,13 +1707,13 @@
     </String>
     <String List="0" sID="036A29">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="13">WEAP:FULL</REC>
       <Source>Rifle (Auto)</Source>
       <Dest>Rifle (Auto)</Dest>
     </String>
     <String List="0" sID="036A2A">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="11">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
@@ -1731,13 +1725,13 @@
     </String>
     <String List="0" sID="036A2C">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="5">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036A2D">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
@@ -1755,37 +1749,37 @@
     </String>
     <String List="0" sID="036A30">
       <EDID>VRWorkshopShared_MissileLauncher_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="3">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036A31">
       <EDID>VRWorkshopShared_AlienBlaster_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
       <Source>Alien Blaster</Source>
       <Dest>Alien blaster</Dest>
     </String>
     <String List="0" sID="036A32">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4006</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
     <String List="0" sID="036A33">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="21">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A34">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="17">WEAP:FULL</REC>
+      <REC id="17" idMax="23">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
       <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="036A35">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4006</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
@@ -1803,49 +1797,49 @@
     </String>
     <String List="0" sID="036A39">
       <EDID>VRWorkshopShared_Flamer_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="3">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036A3A">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="5">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036A3B">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="23">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
       <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="036A3C">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="10">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
       <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="036A3E">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="21">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
       <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="036A3F">
       <EDID>VRWorkshopShared_MissileLauncher_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="3">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036A40">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="13">WEAP:FULL</REC>
       <Source>Rifle Short Semi-Auto</Source>
       <Dest>Rifle Short Semi-Auto</Dest>
     </String>
     <String List="0" sID="036A41">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="21">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
       <Dest>Auto Pistol</Dest>
     </String>
@@ -1863,37 +1857,37 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A47">
       <EDID>VRWorkshopShared_Flamer_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="3">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036A48">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="23">WEAP:FULL</REC>
+      <REC id="23" idMax="23">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
       <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A4A">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="5">WEAP:FULL</REC>
       <Source>Simple</Source>
       <Dest>Simple</Dest>
     </String>
     <String List="0" sID="036A4D">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="21">WEAP:FULL</REC>
       <Source>Flamer</Source>
       <Dest>Flamer</Dest>
     </String>
     <String List="0" sID="036A4F">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="17">WEAP:FULL</REC>
+      <REC id="17" idMax="21">WEAP:FULL</REC>
       <Source>Short Rifle Epic</Source>
       <Dest>Short Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A50">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="10">WEAP:FULL</REC>
       <Source>Random Pistol Epic</Source>
       <Dest>Random Pistol Epic</Dest>
     </String>
@@ -1905,25 +1899,25 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A56">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="21">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036A58">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="5">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="036A59">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="5">WEAP:FULL</REC>
       <Source>Simple</Source>
       <Dest>Simple</Dest>
     </String>
     <String List="0" sID="036A5B">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="11">WEAP:FULL</REC>
       <Source>Assault Rifle</Source>
       <Dest>Assault Rifle</Dest>
     </String>
@@ -1935,7 +1929,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A60">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4005</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
@@ -1947,7 +1941,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A62">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="13">WEAP:FULL</REC>
       <Source>DN086_Rifle</Source>
       <Dest>DN086_Rifle</Dest>
     </String>
@@ -1959,7 +1953,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A65">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="23">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
       <Dest>Random Rifle</Dest>
     </String>
@@ -1977,19 +1971,19 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A68">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="14">WEAP:FULL</REC>
+      <REC id="14" idMax="23">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A69">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4005</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
     <String List="0" sID="036A6A">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="13">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
@@ -2001,31 +1995,31 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A6C">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="036A6D">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4004</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
     <String List="0" sID="036A6E">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="18">WEAP:FULL</REC>
+      <REC id="18" idMax="23">WEAP:FULL</REC>
       <Source>Rifle (non-assault) Epic</Source>
       <Dest>Rifle (non-assault) Epic</Dest>
     </String>
     <String List="0" sID="036A6F">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="21">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
       <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="036A70">
       <EDID>VRWorkshopShared_Menu_EnterVR_FSVFO4004</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
@@ -2037,43 +2031,43 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A72">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="13">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
     <String List="0" sID="036A73">
       <EDID>VRWorkshopShared_Menu_EnterVR_BGSFO4040</EDID>
-      <REC id="1">MESG:ITXT</REC>
+      <REC id="1" idMax="1">MESG:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
     <String List="0" sID="036A74">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="10">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
     <String List="0" sID="036A75">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="21">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="036A76">
       <EDID>VRWorkshopShared_Menu_EnterVR_BGSFO4040</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
     <String List="0" sID="036A77">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="11">WEAP:FULL</REC>
       <Source>Rifle Epic</Source>
       <Dest>Rifle Epic</Dest>
     </String>
     <String List="0" sID="036A79">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="10">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
@@ -2085,19 +2079,19 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A7B">
       <EDID>VRWorkshopShared_Menu_ExitVR_MessageBox</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
     <String List="0" sID="036A7C">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="23">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol</Source>
       <Dest>Semi-Auto Pistol</Dest>
     </String>
     <String List="0" sID="036A7D">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="13">WEAP:FULL</REC>
       <Source>Rifle (Auto) Epic</Source>
       <Dest>Rifle (Auto) Epic</Dest>
     </String>
@@ -2109,7 +2103,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A80">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="21">WEAP:FULL</REC>
       <Source>Shotgun</Source>
       <Dest>Shotgun</Dest>
     </String>
@@ -2121,13 +2115,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A83">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="9">TERM:ITXT</REC>
       <Source>Stop Attack Mode</Source>
       <Dest>Ukončit útočný režim</Dest>
     </String>
     <String List="0" sID="036A84">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="11">WEAP:FULL</REC>
       <Source>Pistol Auto</Source>
       <Dest>Pistol Auto</Dest>
     </String>
@@ -2139,7 +2133,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A86">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="17">WEAP:FULL</REC>
+      <REC id="17" idMax="21">WEAP:FULL</REC>
       <Source>Shotgun Epic</Source>
       <Dest>Shotgun Epic</Dest>
     </String>
@@ -2157,7 +2151,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A8B">
       <EDID>VRWorkshopShared_GaussRifle_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="4">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
@@ -2169,7 +2163,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A8E">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle (Semi-Auto) Epic</Source>
       <Dest>Sniper Rifle (Semi-Auto) Epic</Dest>
     </String>
@@ -2187,7 +2181,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A91">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="11">WEAP:FULL</REC>
       <Source>Combat Shotgun</Source>
       <Dest>Taktická brokovnice</Dest>
     </String>
@@ -2211,19 +2205,19 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A98">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="23">WEAP:FULL</REC>
       <Source>Shotgun</Source>
       <Dest>Shotgun</Dest>
     </String>
     <String List="0" sID="036A99">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="23">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
       <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="036A9A">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="21">WEAP:FULL</REC>
+      <REC id="21" idMax="21">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
       <Dest>Sniper Rifle Epic</Dest>
     </String>
@@ -2241,13 +2235,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036A9E">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="23">WEAP:FULL</REC>
       <Source>Rifle</Source>
       <Dest>Rifle</Dest>
     </String>
     <String List="0" sID="036A9F">
       <EDID>VRWorkshopShared_MissileLauncher_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="3">WEAP:FULL</REC>
       <Source>Standard Epic</Source>
       <Dest>Standard Epic</Dest>
     </String>
@@ -2259,13 +2253,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AA1">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="14">WEAP:FULL</REC>
+      <REC id="14" idMax="23">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AA2">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
       <Dest>Sniper Rifle Epic</Dest>
     </String>
@@ -2277,55 +2271,55 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AA4">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="10">WEAP:FULL</REC>
       <Source>Very Short Epic</Source>
       <Dest>Very Short Epic</Dest>
     </String>
     <String List="0" sID="036AA5">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="10">WEAP:FULL</REC>
       <Source>Very Short</Source>
       <Dest>Very Short</Dest>
     </String>
     <String List="0" sID="036AA6">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="21">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="036AA7">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="13">WEAP:FULL</REC>
       <Source>Random Rifle Epic</Source>
       <Dest>Random Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AA8">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="5">WEAP:FULL</REC>
       <Source>Minigun</Source>
       <Dest>Rotační kulomet</Dest>
     </String>
     <String List="0" sID="036AAB">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="21">WEAP:FULL</REC>
+      <REC id="21" idMax="21">WEAP:FULL</REC>
       <Source>Flamer Epic</Source>
       <Dest>Flamer Epic</Dest>
     </String>
     <String List="0" sID="036AAC">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="21">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036AAD">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="23">WEAP:FULL</REC>
       <Source>SMG</Source>
       <Dest>SMG</Dest>
     </String>
     <String List="0" sID="036AAE">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="23">WEAP:FULL</REC>
       <Source>Pipe Gun</Source>
       <Dest>Pipe Gun</Dest>
     </String>
@@ -2337,13 +2331,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AB0">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="21">WEAP:FULL</REC>
       <Source>Plasma</Source>
       <Dest>Plazmová zbraň</Dest>
     </String>
     <String List="0" sID="036AB1">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="21">WEAP:FULL</REC>
       <Source>Pistol Auto</Source>
       <Dest>Pistol Auto</Dest>
     </String>
@@ -2355,19 +2349,19 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AB3">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="5">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036AB4">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="20">WEAP:FULL</REC>
+      <REC id="20" idMax="21">WEAP:FULL</REC>
       <Source>Semi-Auto Pistol Epic</Source>
       <Dest>Semi-Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="036AB5">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="23">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
       <Dest>Simple Pistol Epic</Dest>
     </String>
@@ -2379,43 +2373,43 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AB7">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="11">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036AB8">
       <EDID>VRWorkshopShared_Minigun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="5">WEAP:FULL</REC>
       <Source>Simple</Source>
       <Dest>Simple</Dest>
     </String>
     <String List="0" sID="036AB9">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="11">WEAP:FULL</REC>
       <Source>Simple Rifle Epic</Source>
       <Dest>Simple Rifle Epic</Dest>
     </String>
     <String List="0" sID="036ABA">
       <EDID>VRWorkshopShared_GaussRifle_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="4">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036ABB">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="17">WEAP:FULL</REC>
+      <REC id="17" idMax="23">WEAP:FULL</REC>
       <Source>Auto Pistol Epic</Source>
       <Dest>Auto Pistol Epic</Dest>
     </String>
     <String List="0" sID="036ABC">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="13">WEAP:FULL</REC>
       <Source>Rifle Epic</Source>
       <Dest>Rifle Epic</Dest>
     </String>
     <String List="0" sID="036ABD">
       <EDID>VRWorkshopShared_Sledgehammer_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="5">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
@@ -2427,37 +2421,37 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036ABF">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="13">WEAP:FULL</REC>
       <Source>Rifle</Source>
       <Dest>Rifle</Dest>
     </String>
     <String List="0" sID="036AC0">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="5">WEAP:FULL</REC>
       <Source>Simple Epic</Source>
       <Dest>Simple Epic</Dest>
     </String>
     <String List="0" sID="036AC1">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="11">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="036AC2">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="21">WEAP:FULL</REC>
+      <REC id="21" idMax="23">WEAP:FULL</REC>
       <Source>SMG Epic</Source>
       <Dest>SMG Epic</Dest>
     </String>
     <String List="0" sID="036AC3">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
       <Source>Grid World</Source>
       <Dest>Prázdný svět</Dest>
     </String>
     <String List="0" sID="036AC4">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="5">WEAP:FULL</REC>
       <Source>Simple</Source>
       <Dest>Simple</Dest>
     </String>
@@ -2469,79 +2463,79 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AC6">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="5">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036AC7">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="13">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036AC8">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="23">WEAP:FULL</REC>
       <Source>SMG</Source>
       <Dest>SMG</Dest>
     </String>
     <String List="0" sID="036ACB">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="21">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="036ACC">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="18">WEAP:FULL</REC>
+      <REC id="18" idMax="21">WEAP:FULL</REC>
       <Source>Rifle Epic</Source>
       <Dest>Rifle Epic</Dest>
     </String>
     <String List="0" sID="036ACD">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="21">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto</Source>
       <Dest>Pistol Semi-Auto</Dest>
     </String>
     <String List="0" sID="036ACE">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="13">WEAP:FULL</REC>
       <Source>Short Rifle (Semi-Auto) Epic</Source>
       <Dest>Short Rifle (Semi-Auto) Epic</Dest>
     </String>
     <String List="0" sID="036ACF">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="20">WEAP:FULL</REC>
+      <REC id="20" idMax="21">WEAP:FULL</REC>
       <Source>Sniper Rifle Epic</Source>
       <Dest>Sniper Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AD0">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="13">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036AD1">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="23">WEAP:FULL</REC>
       <Source>Rifle (non-assault)</Source>
       <Dest>Rifle (non-assault)</Dest>
     </String>
     <String List="0" sID="036AD2">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="13">WEAP:FULL</REC>
+      <REC id="13" idMax="13">WEAP:FULL</REC>
       <Source>DN086_Rifle Epic</Source>
       <Dest>DN086_Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AD3">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="23">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036AD4">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="23">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
       <Dest>Simple Pistol</Dest>
     </String>
@@ -2553,13 +2547,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AD7">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="6">WEAP:FULL</REC>
+      <REC id="6" idMax="21">WEAP:FULL</REC>
       <Source>Shotgun</Source>
       <Dest>Shotgun</Dest>
     </String>
     <String List="0" sID="036AD8">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="21">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
@@ -2571,25 +2565,25 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036ADA">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="13">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036ADB">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="8">WEAP:FULL</REC>
+      <REC id="8" idMax="11">WEAP:FULL</REC>
       <Source>Pistol Epic</Source>
       <Dest>Pistol Epic</Dest>
     </String>
     <String List="0" sID="036ADC">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="23">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="036ADD">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="23">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
@@ -2601,13 +2595,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036ADF">
       <EDID>VRWorkshopShared_GaussRifle_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="4">WEAP:FULL</REC>
       <Source>Gauss Rifle</Source>
       <Dest>Gaussova puška</Dest>
     </String>
     <String List="0" sID="036AE0">
       <EDID>VRWorkshopShared_Menu_EnterVR_MessageBox</EDID>
-      <REC id="0">MESG:ITXT</REC>
+      <REC id="0" idMax="1">MESG:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
@@ -2619,43 +2613,43 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AE3">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="12">WEAP:FULL</REC>
+      <REC id="12" idMax="21">WEAP:FULL</REC>
       <Source>Simple Pistol Epic</Source>
       <Dest>Simple Pistol Epic</Dest>
     </String>
     <String List="0" sID="036AE4">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="10">WEAP:FULL</REC>
       <Source>Scoped Pistol</Source>
       <Dest>Scoped Pistol</Dest>
     </String>
     <String List="0" sID="036AE5">
       <EDID>VRWorkshopShared_PipeGun_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="23">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="036AE6">
       <EDID>VRWorkshopShared_10mm_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="11">WEAP:FULL</REC>
       <Source>Pistol Semi-Auto Epic</Source>
       <Dest>Pistol Semi-Auto Epic</Dest>
     </String>
     <String List="0" sID="036AE7">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="10">WEAP:FULL</REC>
+      <REC id="10" idMax="13">WEAP:FULL</REC>
       <Source>Short Rifle Epic</Source>
       <Dest>Short Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AE8">
       <EDID>VRWorkshopShared_SuperSledge_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="5">WEAP:FULL</REC>
       <Source>Super Sledge</Source>
       <Dest>Superkladivo</Dest>
     </String>
     <String List="0" sID="036AE9">
       <EDID>VRWorkshopShared_CombatShotgun_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="11">WEAP:FULL</REC>
       <Source>Short Rifle Epic</Source>
       <Dest>Short Rifle Epic</Dest>
     </String>
@@ -2667,13 +2661,13 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AEB">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="4">WEAP:FULL</REC>
+      <REC id="4" idMax="23">WEAP:FULL</REC>
       <Source>Random</Source>
       <Dest>Random</Dest>
     </String>
     <String List="0" sID="036AEC">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="21">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
@@ -2685,97 +2679,97 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036AEE">
       <EDID>VRWorkshopShared_Board_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="5">WEAP:FULL</REC>
       <Source>Standard</Source>
       <Dest>Standard</Dest>
     </String>
     <String List="0" sID="036AEF">
       <EDID>VRWorkshopShared_MissileLauncher_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="3">WEAP:FULL</REC>
       <Source>Missile Launcher</Source>
       <Dest>Raketomet</Dest>
     </String>
     <String List="0" sID="036AF1">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="14">WEAP:FULL</REC>
+      <REC id="14" idMax="21">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="036AF2">
       <EDID>VRWorkshopShared_PlasmaGun_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="21">WEAP:FULL</REC>
       <Source>Rifle Auto</Source>
       <Dest>Rifle Auto</Dest>
     </String>
     <String List="0" sID="036AF3">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="5">WEAP:FULL</REC>
+      <REC id="5" idMax="23">WEAP:FULL</REC>
       <Source>Auto Pistol</Source>
       <Dest>Auto Pistol</Dest>
     </String>
     <String List="0" sID="036AF4">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="9">WEAP:FULL</REC>
+      <REC id="9" idMax="13">WEAP:FULL</REC>
       <Source>Random Epic</Source>
       <Dest>Random Epic</Dest>
     </String>
     <String List="0" sID="036AF5">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="13">WEAP:FULL</REC>
       <Source>Sniper Rifle (Semi-Auto)</Source>
       <Dest>Sniper Rifle (Semi-Auto)</Dest>
     </String>
     <String List="0" sID="036AF6">
       <EDID>VRWorkshopShared_HuntingRifle_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="13">WEAP:FULL</REC>
       <Source>Default</Source>
       <Dest>Default</Dest>
     </String>
     <String List="0" sID="036AF7">
       <EDID>VRWorkshopShared_AssaultRifle_NonPlayable</EDID>
-      <REC id="3">WEAP:FULL</REC>
+      <REC id="3" idMax="13">WEAP:FULL</REC>
       <Source>Random Rifle</Source>
       <Dest>Random Rifle</Dest>
     </String>
     <String List="0" sID="036AF8">
       <EDID>VRWorkshopShared_LaserGun_NonPlayable</EDID>
-      <REC id="21">WEAP:FULL</REC>
+      <REC id="21" idMax="23">WEAP:FULL</REC>
       <Source>Assault Rifle Epic</Source>
       <Dest>Assault Rifle Epic</Dest>
     </String>
     <String List="0" sID="036AF9">
       <EDID>VRWorkshopShared_44_NonPlayable</EDID>
-      <REC id="1">WEAP:FULL</REC>
+      <REC id="1" idMax="10">WEAP:FULL</REC>
       <Source>Simple Pistol</Source>
       <Dest>Simple Pistol</Dest>
     </String>
     <String List="0" sID="036AFA">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="0">WEAP:FULL</REC>
+      <REC id="0" idMax="21">WEAP:FULL</REC>
       <Source>Institute</Source>
       <Dest>Zbraň Institutu</Dest>
     </String>
     <String List="0" sID="036AFB">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="7">WEAP:FULL</REC>
+      <REC id="7" idMax="21">WEAP:FULL</REC>
       <Source>Short Rifle</Source>
       <Dest>Short Rifle</Dest>
     </String>
     <String List="0" sID="036AFC">
       <EDID>VRWorkshopShared_CombatRifle_NonPlayable</EDID>
-      <REC id="2">WEAP:FULL</REC>
+      <REC id="2" idMax="13">WEAP:FULL</REC>
       <Source>Simple Rifle</Source>
       <Dest>Simple Rifle</Dest>
     </String>
     <String List="0" sID="036AFD">
       <EDID>VRWorkshopShared_InstituteLaserGun_NonPlayable</EDID>
-      <REC id="11">WEAP:FULL</REC>
+      <REC id="11" idMax="21">WEAP:FULL</REC>
       <Source>Sniper Rifle</Source>
       <Dest>Sniper Rifle</Dest>
     </String>
     <String List="0" sID="036AFE">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="3">TERM:UNAM</REC>
+      <REC id="3" idMax="3">TERM:UNAM</REC>
       <Source>Render Mode set to Dreamstate.</Source>
       <Dest>Režim vykreslování nastaven na sen.</Dest>
     </String>
@@ -2787,7 +2781,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036B00">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
       <Source>Dreamstate</Source>
       <Dest>Sen</Dest>
     </String>
@@ -2799,7 +2793,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036B02">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="1">TERM:UNAM</REC>
+      <REC id="1" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Clear.</Source>
       <Dest>Počasí nastaveno na jasno.</Dest>
     </String>
@@ -2811,7 +2805,7 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036B04">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="5">TERM:UNAM</REC>
+      <REC id="5" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Misty.</Source>
       <Dest>Počasí nastaveno na zamlženo.</Dest>
     </String>
@@ -2823,49 +2817,49 @@ Vyberte VR destinaci:&#xD;
     </String>
     <String List="0" sID="036B06">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="2">TERM:UNAM</REC>
+      <REC id="2" idMax="3">TERM:UNAM</REC>
       <Source>Render Mode set to Black and White.</Source>
       <Dest>Režim vykreslování nastaven na černobílý.</Dest>
     </String>
     <String List="0" sID="036B07">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="3" idMax="7">TERM:ITXT</REC>
       <Source>Capital Wasteland</Source>
       <Dest>Velká pustina</Dest>
     </String>
     <String List="0" sID="036B08">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="0">TERM:UNAM</REC>
+      <REC id="0" idMax="3">TERM:UNAM</REC>
       <Source>Render Mode has been set to Default.</Source>
       <Dest>Režim vykreslování byl vrácen do výchozího nastavení.</Dest>
     </String>
     <String List="0" sID="036B09">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="7">TERM:ITXT</REC>
+      <REC id="9" idMax="9">TERM:ITXT</REC>
       <Source>Exit VR Simulation</Source>
       <Dest>Ukončit VR simulaci</Dest>
     </String>
     <String List="0" sID="036B0B">
       <EDID>VRWorkshopShared_VRTerminalChangeLocationSubMenu</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
       <Source>Desert Island</Source>
       <Dest>Opuštěný ostrov</Dest>
     </String>
     <String List="0" sID="036B0C">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="4">TERM:UNAM</REC>
+      <REC id="4" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Glowing Sea Fog.</Source>
       <Dest>Počasí nastaveno na mlhu Zářícího moře.</Dest>
     </String>
     <String List="0" sID="036B0D">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="7">TERM:ITXT</REC>
+      <REC id="7" idMax="7">TERM:ITXT</REC>
       <Source>Urban</Source>
       <Dest>Město</Dest>
     </String>
     <String List="0" sID="036B0E">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="7">TERM:ITXT</REC>
       <Source>Commonwealth</Source>
       <Dest>Commonwealth</Dest>
     </String>
@@ -2885,61 +2879,61 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B10">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="6">TERM:UNAM</REC>
+      <REC id="6" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Misty Rain.</Source>
       <Dest>Počasí nastaveno na mlhu a déšť.</Dest>
     </String>
     <String List="0" sID="036B11">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
       <Source>Sepia Tone</Source>
       <Dest>Sépiový odstín</Dest>
     </String>
     <String List="0" sID="036B12">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="2">TERM:UNAM</REC>
+      <REC id="2" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Coast.</Source>
       <Dest>Výběr hudby změněn na pobřeží.</Dest>
     </String>
     <String List="0" sID="036B13">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="5">TERM:ITXT</REC>
+      <REC id="5" idMax="7">TERM:ITXT</REC>
       <Source>Sanctuary</Source>
       <Dest>Sanctuary</Dest>
     </String>
     <String List="0" sID="036B14">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="3">TERM:UNAM</REC>
+      <REC id="3" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Foggy.</Source>
       <Dest>Počasí nastaveno na mlhavo.</Dest>
     </String>
     <String List="0" sID="036B15">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="5">TERM:UNAM</REC>
+      <REC id="5" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Sanctuary.</Source>
       <Dest>Výběr hudby změněn na Sanctuary.</Dest>
     </String>
     <String List="0" sID="036B16">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="1">TERM:UNAM</REC>
+      <REC id="1" idMax="3">TERM:UNAM</REC>
       <Source>Render Mode set to Sepia Tone.</Source>
       <Dest>Režim vykreslování nastaven na sépiový odstín.</Dest>
     </String>
     <String List="0" sID="036B17">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="4">TERM:ITXT</REC>
+      <REC id="6" idMax="9">TERM:ITXT</REC>
       <Source>Change Render Mode</Source>
       <Dest>Změnit režim vykreslování</Dest>
     </String>
     <String List="0" sID="036B18">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="5" idMax="9">TERM:ITXT</REC>
       <Source>Change Weather</Source>
       <Dest>Změnit počasí</Dest>
     </String>
     <String List="0" sID="036B19">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
       <Source>No Effect</Source>
       <Dest>Bez filtru</Dest>
     </String>
@@ -2951,25 +2945,25 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B1B">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="2">TERM:UNAM</REC>
+      <REC id="2" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Overcast.</Source>
       <Dest>Počasí nastaveno na zataženo.</Dest>
     </String>
     <String List="0" sID="036B1C">
       <EDID>VRWorkshopShared_VRTerminalChangeLocationSubMenu</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="3" idMax="3">TERM:ITXT</REC>
       <Source>Atomic Crater</Source>
       <Dest>Atomový kráter</Dest>
     </String>
     <String List="0" sID="036B1D">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="4">TERM:ITXT</REC>
+      <REC id="4" idMax="7">TERM:ITXT</REC>
       <Source>Dungeon</Source>
       <Dest>Průzkum</Dest>
     </String>
     <String List="0" sID="036B1E">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="5">TERM:ITXT</REC>
+      <REC id="7" idMax="9">TERM:ITXT</REC>
       <Source>Change Music</Source>
       <Dest>Změnit hudbu</Dest>
     </String>
@@ -2997,7 +2991,7 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B22">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="8">TERM:ITXT</REC>
       <Source>Default</Source>
       <Dest>Výchozí</Dest>
     </String>
@@ -3015,25 +3009,25 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B25">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="0">TERM:UNAM</REC>
+      <REC id="0" idMax="7">TERM:UNAM</REC>
       <Source>Music set to default.</Source>
       <Dest>Výběr hudby změněn na výchozí.</Dest>
     </String>
     <String List="0" sID="036B26">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="2" idMax="7">TERM:ITXT</REC>
       <Source>Coast</Source>
       <Dest>Pobřeží</Dest>
     </String>
     <String List="0" sID="036B27">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="4">TERM:UNAM</REC>
+      <REC id="4" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Dungeon.</Source>
       <Dest>Výběr hudby změněn na průzkum.</Dest>
     </String>
     <String List="0" sID="036B28">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="7">TERM:ITXT</REC>
       <Source>Default</Source>
       <Dest>Výchozí</Dest>
     </String>
@@ -3045,25 +3039,25 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B2A">
       <EDID>VRWorkshopShared_VRTerminalChangeLocationSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="3">TERM:ITXT</REC>
       <Source>Capital Wasteland</Source>
       <Dest>Velká pustina</Dest>
     </String>
     <String List="0" sID="036B2B">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="2" idMax="8">TERM:ITXT</REC>
       <Source>Overcast</Source>
       <Dest>Zataženo</Dest>
     </String>
     <String List="0" sID="036B2C">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="8">TERM:ITXT</REC>
       <Source>Clear</Source>
       <Dest>Jasno</Dest>
     </String>
     <String List="0" sID="036B2D">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="3">TERM:UNAM</REC>
+      <REC id="3" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Capital Wasteland.</Source>
       <Dest>Výběr hudby změněn na Velkou pustinu.</Dest>
     </String>
@@ -3095,55 +3089,55 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B31">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="7">TERM:UNAM</REC>
+      <REC id="7" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Radstorm.</Source>
       <Dest>Počasí nastaveno na radiační bouři.</Dest>
     </String>
     <String List="0" sID="036B32">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="2">TERM:UNAM</REC>
+      <REC id="2" idMax="3">TERM:UNAM</REC>
       <Source>Destination set to Desert Island.</Source>
       <Dest>Destinace nastavena na opuštěný ostrov.</Dest>
     </String>
     <String List="0" sID="036B33">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="1">TERM:UNAM</REC>
+      <REC id="1" idMax="3">TERM:UNAM</REC>
       <Source>Destination set to Capital Wasteland.</Source>
       <Dest>Destinace nastavena na Velkou pustinu.</Dest>
     </String>
     <String List="0" sID="036B34">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="4">TERM:ITXT</REC>
+      <REC id="4" idMax="8">TERM:ITXT</REC>
       <Source>Glowing Sea Fog</Source>
       <Dest>Mlha Zářícího moře</Dest>
     </String>
     <String List="0" sID="036B35">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="0">TERM:UNAM</REC>
+      <REC id="0" idMax="3">TERM:UNAM</REC>
       <Source>Destination set to Grid World.</Source>
       <Dest>Destinace nastavena na prázdný svět.</Dest>
     </String>
     <String List="0" sID="036B36">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="6">TERM:UNAM</REC>
+      <REC id="6" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Show Tune.</Source>
       <Dest>Výběr hudby změněn na populární.</Dest>
     </String>
     <String List="0" sID="036B37">
       <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
-      <REC id="6">TERM:ITXT</REC>
+      <REC id="8" idMax="9">TERM:ITXT</REC>
       <Source>Change VR Simulation</Source>
       <Dest>Změnit VR simulaci</Dest>
     </String>
     <String List="0" sID="036B38">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="3">TERM:ITXT</REC>
+      <REC id="3" idMax="8">TERM:ITXT</REC>
       <Source>Foggy</Source>
       <Dest>Mlhavo</Dest>
     </String>
     <String List="0" sID="036B39">
       <EDID>VRWorkshopShared_VRTerminalChangeVisualSubMenu</EDID>
-      <REC id="2">TERM:ITXT</REC>
+      <REC id="2" idMax="3">TERM:ITXT</REC>
       <Source>Black and White</Source>
       <Dest>Černobílý</Dest>
     </String>
@@ -3155,79 +3149,79 @@ Vyberte VR lokaci:&#xD;
     </String>
     <String List="0" sID="036B3B">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="7">TERM:ITXT</REC>
+      <REC id="7" idMax="8">TERM:ITXT</REC>
       <Source>Radstorm</Source>
       <Dest>Radiační bouře</Dest>
     </String>
     <String List="0" sID="036B3C">
       <EDID>VRWorkshopShared_VRTerminalExitSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="1">TERM:ITXT</REC>
       <Source>Yes</Source>
       <Dest>Ano</Dest>
     </String>
     <String List="0" sID="036B3D">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="0">TERM:UNAM</REC>
+      <REC id="0" idMax="8">TERM:UNAM</REC>
       <Source>Default selected. Weather will resume transitioning naturally.</Source>
       <Dest>Výchozí nastavení. Počasí bude pokračovat v přirozeném cyklu.</Dest>
     </String>
     <String List="0" sID="036B3E">
       <EDID>VRWorkshopShared_VRPodNativeTerminalSubMenu</EDID>
-      <REC id="3">TERM:UNAM</REC>
+      <REC id="3" idMax="3">TERM:UNAM</REC>
       <Source>Destination set to Atomic Crater.</Source>
       <Dest>Destinace nastavena na atomový kráter.</Dest>
     </String>
     <String List="0" sID="036B3F">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="6">TERM:ITXT</REC>
+      <REC id="6" idMax="8">TERM:ITXT</REC>
       <Source>Misty Rain</Source>
       <Dest>Mlha a déšť</Dest>
     </String>
     <String List="0" sID="036B40">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="6">TERM:ITXT</REC>
+      <REC id="6" idMax="7">TERM:ITXT</REC>
       <Source>Show Tune</Source>
       <Dest>Populární</Dest>
     </String>
     <String List="0" sID="036B41">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="8">TERM:ITXT</REC>
+      <REC id="8" idMax="8">TERM:ITXT</REC>
       <Source>Rain</Source>
       <Dest>Déšť</Dest>
     </String>
     <String List="0" sID="036B42">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="8">TERM:UNAM</REC>
+      <REC id="8" idMax="8">TERM:UNAM</REC>
       <Source>Weather set to Rain.</Source>
       <Dest>Počasí nastaveno na déšť.</Dest>
     </String>
     <String List="0" sID="036B43">
       <EDID>VRWorkshopShared_VRTerminalChangeLocationSubMenu</EDID>
-      <REC id="0">TERM:ITXT</REC>
+      <REC id="0" idMax="3">TERM:ITXT</REC>
       <Source>Grid World</Source>
       <Dest>Prázdný svět</Dest>
     </String>
     <String List="0" sID="036B44">
       <EDID>VRWorkshopShared_VRTerminalExitSubMenu</EDID>
-      <REC id="1">TERM:ITXT</REC>
+      <REC id="1" idMax="1">TERM:ITXT</REC>
       <Source>No</Source>
       <Dest>Ne</Dest>
     </String>
     <String List="0" sID="036B45">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="7">TERM:UNAM</REC>
+      <REC id="7" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Urban.</Source>
       <Dest>Výběr hudby změněn na město.</Dest>
     </String>
     <String List="0" sID="036B46">
       <EDID>VRWorkshopShared_VRTerminalMusicSubMenu</EDID>
-      <REC id="1">TERM:UNAM</REC>
+      <REC id="1" idMax="7">TERM:UNAM</REC>
       <Source>Music set to Commonwealth.</Source>
       <Dest>Výběr hudby změněn na Commonwealth.</Dest>
     </String>
     <String List="0" sID="036B47">
       <EDID>VRWorkshopShared_VRTerminalWeatherSubMenu</EDID>
-      <REC id="5">TERM:ITXT</REC>
+      <REC id="5" idMax="8">TERM:ITXT</REC>
       <Source>Misty</Source>
       <Dest>Zamlženo</Dest>
     </String>
@@ -3278,6 +3272,18 @@ Vyberte VR lokaci:&#xD;
       <REC>MGEF:FULL</REC>
       <Source>Prevent Limb Damage</Source>
       <Dest>Zabránění zranění končetin</Dest>
+    </String>
+    <String List="0" sID="036B61">
+      <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
+      <REC id="2" idMax="9">TERM:ITXT</REC>
+      <Source>Invincibility: ON</Source>
+      <Dest>Nezranitelnost: ZAPNUTO</Dest>
+    </String>
+    <String List="0" sID="036B64">
+      <EDID>VRWorkshopShared_VRTerminalConsoleTallOn</EDID>
+      <REC id="3" idMax="9">TERM:ITXT</REC>
+      <Source>Invincibility: OFF</Source>
+      <Dest>Nezranitelnost: VYPNUTO</Dest>
     </String>
     <String List="1" sID="01D77D">
       <EDID>SpeedMult</EDID>

@@ -465,13 +465,13 @@
     </String>
     <String List="2" sID="000B80">
       <EDID>[01014379]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Either way, the more afraid they are, the simpler or cheaper getting them gone will be.</Source>
       <Dest>V obou případech, čím víc se tě budou bát, tím snažší nebo levnější to pro tebe bude.</Dest>
     </String>
     <String List="2" sID="000B82">
       <EDID>[01014379]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>So, to get these folks to scram, you got two main options - buy them out or scare them off.</Source>
       <Dest>Tak tedy, máš dvě základní možnosti, jak ty osadníky vyhnat - buď je uplatíš nebo zastrašíš.</Dest>
     </String>
@@ -807,31 +807,31 @@
     </String>
     <String List="2" sID="001884">
       <EDID>[0102420B]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>So, to get these settlers to cough up provisions, they need to know that we aren't a crew to be triffled with.</Source>
       <Dest>Nuže, aby nám ti osadníci navalili zásoby, potřebují mít jasno v tom, že my nejsme parta, se kterou je radno si zahrávat.</Dest>
     </String>
     <String List="2" sID="001891">
       <EDID>[0102420B]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>You can try convincing them to pay up or you could rough them up some, let them know we mean business.</Source>
       <Dest>Můžeš je zkusit přesvědčit, aby zaplatili, nebo jim můžeš trochu naložit. Měli by poznat, že s námi není legrace.</Dest>
     </String>
     <String List="2" sID="00189D">
       <EDID>[01024209]</EDID>
-      <REC id="2">INFO:NAM1</REC>
+      <REC id="2" idMax="2">INFO:NAM1</REC>
       <Source>Your Pip-Boy map should show you which outposts are close enough to serve.</Source>
       <Dest>Mapa v tvém Pip-Boyovi by ti měla ukázat, které nedaleké základny jsou pro to vhodné.</Dest>
     </String>
     <String List="2" sID="0018CD">
       <EDID>[0102420A]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>And now that we got some territory claimed, planting Nuka-World radio transmitters at an outpost nearby the target should help too.</Source>
       <Dest>A teď, když už máme nějaké vlastní území, tak si můžeš usnadnit zabrání nového cíle umístěním vysílače rádia Nuka Worldu.</Dest>
     </String>
     <String List="2" sID="0018E4">
       <EDID>[01024209]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="2">INFO:NAM1</REC>
       <Source>Plus, having an outpost nearby gives us another option - claiming the airwaves.</Source>
       <Dest>Kromě toho, mít v blízkosti naší základnu nám otevírá další možnost - využití rádiových vln.</Dest>
     </String>
@@ -843,7 +843,7 @@
     </String>
     <String List="2" sID="0018F0">
       <EDID>[01024209]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="2">INFO:NAM1</REC>
       <Source>Building a Nuka-World radio transmitter at an outpost within range of the target will let them know we're closing in on them. </Source>
       <Dest>Pokud postavíme rádiový vysílač Nuka Worldu na základně poblíž cíle, dáme jim tím vědět, že se blížíme.</Dest>
     </String>
@@ -864,6 +864,12 @@
       <REC>INFO:NAM1</REC>
       <Source>Oh. That place. Aren't they your chums or something? Sure that's the one?</Source>
       <Dest>Ehm. Tohle místo. Nejsou to náhodou tví kámoši nebo tak něco? Stojíš si za tím?</Dest>
+    </String>
+    <String List="2" sID="001C3B">
+      <EDID>[010273E2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sure.</Source>
+      <Dest>Jasné.</Dest>
     </String>
     <String List="2" sID="001C4D">
       <EDID>[01027405]</EDID>
@@ -927,7 +933,7 @@
     </String>
     <String List="2" sID="001F84">
       <EDID>[0102420A]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Map on your Pip-Boy can show you what outposts are in range.</Source>
       <Dest>Mapa v tvém Pip-Boyovi ti ukáže, jaké základny jsou v dosahu.</Dest>
     </String>
@@ -1113,13 +1119,13 @@
     </String>
     <String List="2" sID="0038C9">
       <EDID>[01043A30]</EDID>
-      <REC id="1">INFO:NAM1</REC>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
       <Source>Something to consider as you plan out future conquests.</Source>
       <Dest>Na to je dobré pamatovat při plánování další expanze.</Dest>
     </String>
     <String List="2" sID="003924">
       <EDID>[01043A30]</EDID>
-      <REC id="0">INFO:NAM1</REC>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
       <Source>Claiming additional outposts within range of the target will also help make convincing them go better, but that's more big picture.</Source>
       <Dest>Pokud zabereme v blízkosti cíle více osad, usnadní nám to jejich přesvědčování k odchodu, ale to už je takový více strategický přístup.</Dest>
     </String>
@@ -1224,6 +1230,18 @@
       <REC>INFO:NAM1</REC>
       <Source>Christ. Who gives Raiders a damn radio station? What can I do for you?</Source>
       <Dest>Kristepane. Kdo dal nájezdníkům proklatou rádio stanici? Co pro tebe můžu udělat?</Dest>
+    </String>
+    <String List="2" sID="003BCA">
+      <EDID>[0104696E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey.</Source>
+      <Dest>Nazdar.</Dest>
+    </String>
+    <String List="2" sID="003C19">
+      <EDID>[0104696F]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hey you.</Source>
+      <Dest>No nazdar.</Dest>
     </String>
     <String List="2" sID="004AC0">
       <EDID>[01056929]</EDID>
