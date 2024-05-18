@@ -47,7 +47,7 @@ function run_combine {
 
 # Compile translation into STRINGS
 function run_compile {
-    local COMPILE_OPTS="-s shadow/Strings"
+    local COMPILE_OPTS="-s shadow/Strings -m"
     if [[ -v UNACCENT ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -u"
     fi

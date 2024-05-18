@@ -50,7 +50,7 @@ function applyShadow(strings, shadowPath, missing = false) {
         }
         if (shadowString && shadowString != ' ' && shadowString != '  ') {
             if (missing) {
-                console.log(`${path.basename(shadowPath)} [${renderStringId(stringId) }] ${JSON.stringify(shadowString)}`);
+                console.log(`Missing string ${path.basename(shadowPath)} [${renderStringId(stringId)}] ${JSON.stringify(shadowString)}`);
             }
             shadowString = '!' + shadowString;
         }
