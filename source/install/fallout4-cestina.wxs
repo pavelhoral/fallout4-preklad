@@ -51,162 +51,131 @@
             </Directory>
         </Directory>
 
-        <!-- Default components and feature -->
+        <!-- Default components -->
         <DirectoryRef Id="TARGETDIR">
-            <Component Id="Fallout4Custom.ini" Guid="9AE43969-D7CB-495C-ABB1-007E289E2579" KeyPath="yes" Permanent="yes">
+            <Component Id="Fallout4Custom" Guid="9AE43969-D7CB-495C-ABB1-007E289E2579" KeyPath="yes" Permanent="yes">
                 <IniFile Id="Fallout4Custom.ini" Directory="FALLOUTPERSONAL" Name="Fallout4Custom.ini"
                         Action="addLine" Section="Archive" Key="bInvalidateOlderFiles" Value="1" />
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="InterfaceDir" FileSource="$(var.SourceBase)/interface">
-            <Component Id="FontConfig.txt" Guid="AB180B8A-B118-4A62-9F5F-E408994A2C8A">
-                <RemoveFile Id="FontConfig.txt" Name="FontConfig.txt" On="both" />
-                <File Id="FontConfig.txt" KeyPath="yes" />
-            </Component>
-            <Component Id="FalloutDict.txt" Guid="12EFF6F4-D4B3-46DE-B19D-8ECC9C14E2FD">
-                <RemoveFile Id="FalloutDict.txt" Name="FalloutDict.txt" On="both" />
-                <File Id="FalloutDict.txt" KeyPath="yes" />
-            </Component>
-            <Component Id="fonts_console.swf" Guid="FE877870-B4EE-4BCC-8629-4BF416304551">
-                <RemoveFile Id="fonts_console.swf" Name="fonts_console.swf" On="both" />
-                <File Id="fonts_console.swf" KeyPath="yes" />
-            </Component>
-            <Component Id="fonts_en.swf" Guid="7207CCFC-D1FE-455B-885F-C2B2D5C621A0">
-                <RemoveFile Id="fonts_en.swf" Name="fonts_en.swf" On="both" />
-                <File Id="fonts_en.swf" KeyPath="yes" />
-            </Component>
-            <Component Id="Translate_en.txt" Guid="DCAEE1F0-201B-438B-84B1-8473A3F79B04">
-                <RemoveFile Id="Translate_en.txt" Name="Translate_en.txt" On="both" />
-                <File Id="Translate_en.txt" KeyPath="yes" />
+            <Component Id="Interface" Guid="AB180B8A-B118-4A62-9F5F-E408994A2C8A">
+                <File Id="FontConfig.txt" />
+                <File Id="FalloutDict.txt" />
+                <File Id="fonts_console.swf" />
+                <File Id="fonts_en.swf" />
+                <File Id="Translate_en.txt" />
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="StringsDir" FileSource="$(var.SourceBase)/strings">
-            <Component Id="Fallout4_en.STRINGS" Guid="4B12370A-B699-4B52-8F83-C697C36920A5">
-                <RemoveFile Id="Fallout4_en.STRINGS" Name="Fallout4_en.STRINGS" On="both" />
-                <File Id="Fallout4_en.STRINGS" KeyPath="yes" />
+            <Component Id="Fallout4" Guid="4B12370A-B699-4B52-8F83-C697C36920A5">
+                <File Id="Fallout4_en.STRINGS" />
+                <File Id="Fallout4_en.ILSTRINGS" />
+                <File Id="Fallout4_en.DLSTRINGS" />
             </Component>
-            <Component Id="Fallout4_en.ILSTRINGS" Guid="77898D90-8E42-4706-9957-8213DC573A0B">
-                <RemoveFile Id="Fallout4_en.ILSTRINGS" Name="Fallout4_en.ILSTRINGS" On="both" />
-                <File Id="Fallout4_en.ILSTRINGS" KeyPath="yes" />
+            <Component Id="DLCworkshop01" Guid="69544D15-CF23-4304-85F0-7D63D87826A3">
+                <File Id="DLCworkshop01_en.STRINGS" />
+                <File Id="DLCworkshop01_en.ILSTRINGS" />
+                <File Id="DLCworkshop01_en.DLSTRINGS" />
             </Component>
-            <Component Id="Fallout4_en.DLSTRINGS" Guid="226CD62C-D2CA-4DF2-9798-4FE1DD22AEB1">
-                <RemoveFile Id="Fallout4_en.DLSTRINGS" Name="Fallout4_en.DLSTRINGS" On="both" />
-                <File Id="Fallout4_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="DLCworkshop02" Guid="35A6EAF0-D0DC-43D0-A1F2-A4A78980BEBB">
+                <File Id="DLCworkshop02_en.STRINGS" />
+                <File Id="DLCworkshop02_en.ILSTRINGS" />
+                <File Id="DLCworkshop02_en.DLSTRINGS" />
             </Component>
-            <Component Id="DLCworkshop01_en.STRINGS" Guid="69544D15-CF23-4304-85F0-7D63D87826A3">
-                <RemoveFile Id="DLCworkshop01_en.STRINGS" Name="DLCworkshop01_en.STRINGS" On="both" />
-                <File Id="DLCworkshop01_en.STRINGS" KeyPath="yes" />
+            <Component Id="DLCworkshop03" Guid="6C00489D-4ECD-4FA1-B1AA-CF435DD0E08F">
+                <File Id="DLCworkshop03_en.STRINGS" />
+                <File Id="DLCworkshop03_en.ILSTRINGS" />
+                <File Id="DLCworkshop03_en.DLSTRINGS" />
             </Component>
-            <Component Id="DLCworkshop01_en.ILSTRINGS" Guid="9461FC0C-D194-4933-A9B0-1ADDBD2CCBF2">
-                <RemoveFile Id="DLCworkshop01_en.ILSTRINGS" Name="DLCworkshop01_en.ILSTRINGS" On="both" />
-                <File Id="DLCworkshop01_en.ILSTRINGS" KeyPath="yes" />
+            <Component Id="DLCRobot" Guid="FDE891F8-5A11-44FE-AA05-A27858BB304A">
+                <File Id="DLCRobot_en.STRINGS" />
+                <File Id="DLCRobot_en.ILSTRINGS" />
+                <File Id="DLCRobot_en.DLSTRINGS" />
             </Component>
-            <Component Id="DLCworkshop01_en.DLSTRINGS" Guid="32204B01-ED43-4556-964E-26FCCBF38DB8">
-                <RemoveFile Id="DLCworkshop01_en.DLSTRINGS" Name="DLCworkshop01_en.DLSTRINGS" On="both" />
-                <File Id="DLCworkshop01_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="DLCCoast" Guid="7F19C23E-B696-4B35-A05B-C07F313AF601">
+                <File Id="DLCCoast_en.STRINGS"  />
+                <File Id="DLCCoast_en.ILSTRINGS" />
+                <File Id="DLCCoast_en.DLSTRINGS" />
             </Component>
-            <Component Id="DLCworkshop02_en.STRINGS" Guid="35A6EAF0-D0DC-43D0-A1F2-A4A78980BEBB">
-                <RemoveFile Id="DLCworkshop02_en.STRINGS" Name="DLCworkshop02_en.STRINGS" On="both" />
-                <File Id="DLCworkshop02_en.STRINGS" KeyPath="yes" />
+            <Component Id="DLCNukaWorld" Guid="32F41D12-8805-467B-B7A4-78D6B9BD76A3">
+                <File Id="DLCNukaWorld_en.STRINGS" />
+                <File Id="DLCNukaWorld_en.ILSTRINGS" />
+                <File Id="DLCNukaWorld_en.DLSTRINGS" />
             </Component>
-            <Component Id="DLCworkshop02_en.ILSTRINGS" Guid="66D1EFAA-C1B0-4B69-B717-8709D8247C79">
-                <RemoveFile Id="DLCworkshop02_en.ILSTRINGS" Name="DLCworkshop02_en.ILSTRINGS" On="both" />
-                <File Id="DLCworkshop02_en.ILSTRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4044_HellfirePowerArmor" Guid="9E20A088-35C0-484D-ABAE-B40F40C7752A">
+                <File Name="ccBGSFO4044-HellfirePowerArmor_en.STRINGS" />
+                <File Name="ccBGSFO4044-HellfirePowerArmor_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4044-HellfirePowerArmor_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCworkshop02_en.DLSTRINGS" Guid="BB8D0F6D-F0DE-42DD-9854-DEBA60848A4D">
-                <RemoveFile Id="DLCworkshop02_en.DLSTRINGS" Name="DLCworkshop02_en.DLSTRINGS" On="both" />
-                <File Id="DLCworkshop02_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4046_TesCan" Guid="81DD74C4-7815-4FF5-8E20-01EB51CBC836">
+                <File Name="ccBGSFO4046-TesCan_en.STRINGS" />
+                <File Name="ccBGSFO4046-TesCan_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4046-TesCan_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCworkshop03_en.STRINGS" Guid="6C00489D-4ECD-4FA1-B1AA-CF435DD0E08F">
-                <RemoveFile Id="DLCworkshop03_en.STRINGS" Name="DLCworkshop03_en.STRINGS" On="both" />
-                <File Id="DLCworkshop03_en.STRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4096_AS_Enclave" Guid="BF640B55-6F03-436E-9A6F-300C091DE204">
+                <File Name="ccBGSFO4096-AS_Enclave_en.STRINGS" />
+                <File Name="ccBGSFO4096-AS_Enclave_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4096-AS_Enclave_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCworkshop03_en.ILSTRINGS" Guid="EB4758CF-34FA-4BD0-AC49-A41EB62E12FF">
-                <RemoveFile Id="DLCworkshop03_en.ILSTRINGS" Name="DLCworkshop03_en.ILSTRINGS" On="both" />
-                <File Id="DLCworkshop03_en.ILSTRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4110_WS_Enclave" Guid="C2CCE86E-AD38-435C-A32B-EA8C03C2489D">
+                <File Name="ccBGSFO4110-WS_Enclave_en.STRINGS" />
+                <File Name="ccBGSFO4110-WS_Enclave_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4110-WS_Enclave_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCworkshop03_en.DLSTRINGS" Guid="EFA1E609-2554-4A37-B4CE-F17C95F14C13">
-                <RemoveFile Id="DLCworkshop03_en.DLSTRINGS" Name="DLCworkshop03_en.DLSTRINGS" On="both" />
-                <File Id="DLCworkshop03_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4115_X02" Guid="E80E4B96-C898-4251-819E-0C364316E9AF">
+                <File Name="ccBGSFO4115-X02_en.STRINGS" />
+                <File Name="ccBGSFO4115-X02_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4115-X02_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCRobot_en.STRINGS" Guid="FDE891F8-5A11-44FE-AA05-A27858BB304A">
-                <RemoveFile Id="DLCRobot_en.STRINGS" Name="DLCRobot_en.STRINGS" On="both" />
-                <File Id="DLCRobot_en.STRINGS" KeyPath="yes" />
+            <Component Id="ccBGSFO4116_HeavyFlamer" Guid="472A7793-CD09-4E02-B42D-C15112BA524F">
+                <File Name="ccBGSFO4116-HeavyFlamer_en.STRINGS" />
+                <File Name="ccBGSFO4116-HeavyFlamer_en.DLSTRINGS"  />
+                <File Name="ccBGSFO4116-HeavyFlamer_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCRobot_en.ILSTRINGS" Guid="BB79CB61-279F-4F39-BBC0-EA022B5512BC">
-                <RemoveFile Id="DLCRobot_en.ILSTRINGS" Name="DLCRobot_en.ILSTRINGS" On="both" />
-                <File Id="DLCRobot_en.ILSTRINGS" KeyPath="yes" />
+            <Component Id="ccFSVFO4007_Halloween" Guid="13123DED-B343-4C6D-8C82-E04005100A03">
+                <File Name="ccFSVFO4007-Halloween_en.STRINGS" />
+                <File Name="ccFSVFO4007-Halloween_en.DLSTRINGS"  />
+                <File Name="ccFSVFO4007-Halloween_en.ILSTRINGS"  />
             </Component>
-            <Component Id="DLCRobot_en.DLSTRINGS" Guid="EEA64F83-6708-4806-B06B-4C23598E4D4B">
-                <RemoveFile Id="DLCRobot_en.DLSTRINGS" Name="DLCRobot_en.DLSTRINGS" On="both" />
-                <File Id="DLCRobot_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="ccOTMFO4001_Remnants" Guid="F249CBC2-4888-497E-85A2-0ACB614D1F71">
+                <File Name="ccOTMFO4001-Remnants_en.STRINGS" />
+                <File Name="ccOTMFO4001-Remnants_en.DLSTRINGS"  />
+                <File Name="ccOTMFO4001-Remnants_en.ILSTRINGS"  />
             </Component>
-
-            <Component Id="DLCCoast_en.STRINGS" Guid="7F19C23E-B696-4B35-A05B-C07F313AF601">
-                <RemoveFile Id="DLCCoast_en.STRINGS" Name="DLCCoast_en.STRINGS" On="both" />
-                <File Id="DLCCoast_en.STRINGS" KeyPath="yes" />
-            </Component>
-            <Component Id="DLCCoast_en.ILSTRINGS" Guid="74D422B3-ECD4-48A9-9BFC-ECB2F29554D7">
-                <RemoveFile Id="DLCCoast_en.ILSTRINGS" Name="DLCCoast_en.ILSTRINGS" On="both" />
-                <File Id="DLCCoast_en.ILSTRINGS" KeyPath="yes" />
-            </Component>
-            <Component Id="DLCCoast_en.DLSTRINGS" Guid="78175502-064B-404B-8155-F397E3C2FDD3">
-                <RemoveFile Id="DLCCoast_en.DLSTRINGS" Name="DLCCoast_en.DLSTRINGS" On="both" />
-                <File Id="DLCCoast_en.DLSTRINGS" KeyPath="yes" />
-            </Component>
-
-            <Component Id="DLCNukaWorld_en.STRINGS" Guid="32F41D12-8805-467B-B7A4-78D6B9BD76A3">
-                <RemoveFile Id="DLCNukaWorld_en.STRINGS" Name="DLCNukaWorld_en.STRINGS" On="both" />
-                <File Id="DLCNukaWorld_en.STRINGS" KeyPath="yes" />
-            </Component>
-            <Component Id="DLCNukaWorld_en.ILSTRINGS" Guid="BD766B80-E2A1-40C1-886E-FF5C7C8F3A48">
-                <RemoveFile Id="DLCNukaWorld_en.ILSTRINGS" Name="DLCNukaWorld_en.ILSTRINGS" On="both" />
-                <File Id="DLCNukaWorld_en.ILSTRINGS" KeyPath="yes" />
-            </Component>
-            <Component Id="DLCNukaWorld_en.DLSTRINGS" Guid="3F9DA69D-7679-43EA-9768-7D3C161ACB30">
-                <RemoveFile Id="DLCNukaWorld_en.DLSTRINGS" Name="DLCNukaWorld_en.DLSTRINGS" On="both" />
-                <File Id="DLCNukaWorld_en.DLSTRINGS" KeyPath="yes" />
+            <Component Id="ccSBJFO4003_Grenade" Guid="DAE7D288-1D94-4023-BF7E-B0BF59F5459A">
+                <File Name="ccSBJFO4003-Grenade_en.STRINGS" />
+                <File Name="ccSBJFO4003-Grenade_en.DLSTRINGS"  />
+                <File Name="ccSBJFO4003-Grenade_en.ILSTRINGS"  />
             </Component>
         </DirectoryRef>
         <DirectoryRef Id="INSTALLDIR" FileSource="$(var.SourceBase)">
-            <Component Id="Fallout4_Cestina.html" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
-                <RemoveFile Id="Fallout4_Cestina.html" Name="Fallout4_Cestina.html" On="both" />
-                <File Id="Fallout4_Cestina.html" KeyPath="yes" />
-            </Component>
-            <Component Id="Fallout4_Cestina.png" Guid="0EBBD798-6B00-49CF-BCFB-7C4A4D8DC68F">
-                <File Id="Fallout4_Cestina.png" KeyPath="yes" />
+            <Component Id="About" Guid="E286B976-38E7-46C9-9A35-D78C23CAECE6">
+                <File Id="Fallout4_Cestina.html" />
+                <File Id="Fallout4_Cestina.png" />
             </Component>
         </DirectoryRef>
+
         <Feature Id="DefaultFeature" Level="1">
-            <ComponentRef Id="FontConfig.txt" />
-            <ComponentRef Id="FalloutDict.txt" />
-            <ComponentRef Id="fonts_console.swf" />
-            <ComponentRef Id="fonts_en.swf" />
-            <ComponentRef Id="Translate_en.txt" />
-            <ComponentRef Id="Fallout4Custom.ini" />
-            <ComponentRef Id="Fallout4_en.STRINGS" />
-            <ComponentRef Id="Fallout4_en.ILSTRINGS" />
-            <ComponentRef Id="Fallout4_en.DLSTRINGS" />
-            <ComponentRef Id="DLCworkshop01_en.STRINGS" />
-            <ComponentRef Id="DLCworkshop01_en.ILSTRINGS" />
-            <ComponentRef Id="DLCworkshop01_en.DLSTRINGS" />
-            <ComponentRef Id="DLCworkshop02_en.STRINGS" />
-            <ComponentRef Id="DLCworkshop02_en.ILSTRINGS" />
-            <ComponentRef Id="DLCworkshop02_en.DLSTRINGS" />
-            <ComponentRef Id="DLCworkshop03_en.STRINGS" />
-            <ComponentRef Id="DLCworkshop03_en.ILSTRINGS" />
-            <ComponentRef Id="DLCworkshop03_en.DLSTRINGS" />
-            <ComponentRef Id="DLCRobot_en.STRINGS" />
-            <ComponentRef Id="DLCRobot_en.ILSTRINGS" />
-            <ComponentRef Id="DLCRobot_en.DLSTRINGS" />
-            <ComponentRef Id="DLCCoast_en.STRINGS" />
-            <ComponentRef Id="DLCCoast_en.ILSTRINGS" />
-            <ComponentRef Id="DLCCoast_en.DLSTRINGS" />
-            <ComponentRef Id="DLCNukaWorld_en.STRINGS" />
-            <ComponentRef Id="DLCNukaWorld_en.ILSTRINGS" />
-            <ComponentRef Id="DLCNukaWorld_en.DLSTRINGS" />
-            <ComponentRef Id="Fallout4_Cestina.html" />
-            <ComponentRef Id="Fallout4_Cestina.png" />
+            <ComponentRef Id="About" />
+            <ComponentRef Id="Fallout4Custom" />
+            <ComponentRef Id="Interface" />
+            <ComponentRef Id="Fallout4" />
+            <ComponentRef Id="DLCworkshop01" />
+            <ComponentRef Id="DLCworkshop02" />
+            <ComponentRef Id="DLCworkshop03" />
+            <ComponentRef Id="DLCRobot" />
+            <ComponentRef Id="DLCCoast" />
+            <ComponentRef Id="DLCNukaWorld" />
+            <ComponentRef Id="ccBGSFO4044_HellfirePowerArmor" />
+            <ComponentRef Id="ccBGSFO4046_TesCan" />
+            <ComponentRef Id="ccBGSFO4096_AS_Enclave" />
+            <ComponentRef Id="ccBGSFO4110_WS_Enclave" />
+            <ComponentRef Id="ccBGSFO4115_X02" />
+            <ComponentRef Id="ccBGSFO4116_HeavyFlamer" />
+            <ComponentRef Id="ccFSVFO4007_Halloween" />
+            <ComponentRef Id="ccOTMFO4001_Remnants" />
+            <ComponentRef Id="ccSBJFO4003_Grenade" />
         </Feature>
 
         <!-- Open README after install -->
