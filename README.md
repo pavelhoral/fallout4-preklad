@@ -66,6 +66,6 @@ Verzi pro XB1 je možné sestavit příkazem:
 
     CLEAN= UNACCENT= ./build.sh
 
-Verzi pro PS4 je možné sestavit příkazem:
+Verzi pro PS4 je možné sestavit příkazem (sloučení CC pluginů se provádí ručně pomocí nástroje Merge Plugins):
 
     CLEAN= UNACCENT= BAKE= ./build.sh

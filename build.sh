@@ -14,7 +14,7 @@
 set -e
 
 # Plugins to be built by default
-DEFAULT_PLUGINS='Fallout4 DLCworkshop01 DLCworkshop02 DLCworkshop03 DLCRobot DLCCoast DLCNukaWorld Fallout4_VR'
+DEFAULT_PLUGINS='Fallout4 DLCworkshop01 DLCworkshop02 DLCworkshop03 DLCRobot DLCCoast DLCNukaWorld Fallout4_VR CreationClub'
 
 # Modfile names for baked plugins
 declare -A BAKED_PLUGINS
@@ -25,7 +25,7 @@ BAKED_PLUGINS[DLCworkshop03]=d3
 BAKED_PLUGINS[DLCRobot]=d4
 BAKED_PLUGINS[DLCCoast]=d5
 BAKED_PLUGINS[DLCNukaWorld]=d6
-BAKED_PLUGINS[CreationClub]=cc
+BAKED_PLUGINS[CreationClub]=CZEp
 
 # Clean previous builds if requested
 if [[ -v CLEAN ]]; then
@@ -54,21 +54,31 @@ function run_compile {
     if [[ -v REVIEW ]]; then
         COMPILE_OPTS="$COMPILE_OPTS -r"
     fi
-    if [[ "CreationClub" != "$PLUGIN" ]]; then
-        script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
-    else
+    if [[ "CreationClub" == "$PLUGIN" ]]; then
         for SOURCE_FILE in source/l10n/CreationClub/*; do
             script/compile.js $COMPILE_OPTS "$SOURCE_FILE";
         done
+    else
+        script/compile.js $COMPILE_OPTS $WORKDIR/$PLUGIN.xml
     fi
 }
 
 # Bake translations into a plugin modfile
 function bake_modfile {
-    echo "Baking $PLUGIN..."
-    BAKED_NAME="${BAKED_PLUGINS[$PLUGIN]}czep.esp"
-    BAKE_OPTS="-m shadow/$PLUGIN.esm -s target/Strings -o target/$BAKED_NAME"
-    script/modfile.js bake $BAKE_OPTS
+    if [[ "CreationClub" == "$PLUGIN" ]]; then
+        for SOURCE_FILE in source/l10n/CreationClub/*; do
+            local SOURCE_NAME=$(basename $SOURCE_FILE | sed s/\.po//)
+            echo "Baking $SOURCE_NAME..."
+            local BAKED_NAME="${BAKED_PLUGINS[$PLUGIN]}${SOURCE_NAME}.esp"
+            local BAKE_OPTS="-m shadow/$SOURCE_NAME.esl -s target/Strings -o target/$BAKED_NAME"
+            script/modfile.js bake $BAKE_OPTS
+        done
+    else
+        echo "Baking $PLUGIN..."
+        local BAKED_NAME="${BAKED_PLUGINS[$PLUGIN]}czep.esp"
+        local BAKE_OPTS="-m shadow/$PLUGIN.esm -s target/Strings -o target/$BAKED_NAME"
+        script/modfile.js bake $BAKE_OPTS
+    fi
 }
 
 # Build base distribution files
