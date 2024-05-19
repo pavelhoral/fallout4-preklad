@@ -1,4 +1,5 @@
 'use strict';
+const { decodeTypeTag } = require("beth-parser");
 const zlib = require('zlib');
 
 /**
@@ -243,7 +244,7 @@ class ModfileParser {
         if (type === MODFILE_TYPES.OFST) {
             return buffer.length - offset;
         } else if (type === MODFILE_TYPES.XXXX) {
-            return size + 6 + this.parseField(buffer, offset + 16, buffer.readUInt32LE(offset + 6), handler);
+            return size + 6 + this.parseField(buffer, offset + 10, buffer.readUInt32LE(offset + 6), handler);
         }
         handler.handleField(type, size, buffer, offset + 6);
         return size + 6;

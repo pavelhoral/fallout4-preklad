@@ -76,15 +76,14 @@ var UNACCENT_TYPES = [
     UNACCENT_EDIDS = [
         'sPlayTape' // TODO tohle by se dalo prelozit bez hacku (spustit pasku)
     ];
-function renderString(string) {
-    var result = string.Dest?.[0].normalize('NFC') || string.Source[0],
-        type = typeof string.REC[0] === 'string' ? string.REC[0] : string.REC[0]._,
+function renderString(source, target, edid, type) {
+    var result = target?.normalize('NFC') || source,
         unaccent = program.unaccent && (
-                UNACCENT_TYPES.some(unaccentType => type.startsWith(unaccentType)) ||
-                UNACCENT_EDIDS.indexOf(string.EDID[0]) > -1
+                UNACCENT_TYPES.some(unaccentType => type?.startsWith(unaccentType)) ||
+                UNACCENT_EDIDS.indexOf(edid) > -1
             );
     if (program.review) {
-        result = string.Source[0] + '|' + result;
+        result = source + '|' + result;
         unaccent = true;
     }
     return unaccent ? latinize(result) : result;
@@ -104,7 +103,12 @@ function loadXmlStrings(filename) {
         xmlStrings[type][parseInt(string.$.sID, 16)] = {
             fuzzy: !!string.$.Partial,
             source: string.Source[0],
-            target: renderString(string)
+            target: renderString(
+                string.Source[0],
+                string.Dest?.[0],
+                string.EDID[0],
+                typeof string.REC[0] === 'string' ? string.REC[0] : string.REC[0]._
+        )
         };
     }
     return xmlStrings;
@@ -124,11 +128,17 @@ async function loadPoStrings(filename) {
         if (!entry.msgctxt) {
             continue; // skip header
         }
+        const metadata = Object.fromEntries(entry['#.']?.split('\n').map(line => line.split('=')) || []);
         const context = entry.msgctxt.split(':');
         poStrings[context[1].toUpperCase()][parseInt(context[2], 16)] = {
             fuzzy: entry['#,']?.indexOf('fuzzy') >= 0,
             source: entry.msgid,
-            target: entry.msgstr
+            target: renderString(
+                entry.msgid,
+                entry.msgstr,
+                metadata['EDID'],
+                metadata['Field'],
+            )
         };
     }
     return poStrings;
