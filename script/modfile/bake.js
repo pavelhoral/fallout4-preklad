@@ -36,7 +36,7 @@ class RecordBaker {
         // Current plugin strings (reset before each plugin)
         this.strings = strings;
         // Parent plugin names
-        this.parents = [plugin];
+        this.parents = [plugin.replace(/\.esl/, '.esm')];
         // Baking context stack
         this.context = {
             _: ROOT_CONTEXT,
@@ -164,6 +164,10 @@ class RecordBaker {
     bakeField(type, value) {
         var length = typeof value === 'string' ? Buffer.byteLength(value) + 1: 4,
             buffer = Buffer.alloc(6 + length);
+        if (length >= 65535) {
+            console.error('Unable to write field value (XXXX fields not supported)!');
+            process.exit(1);
+        }
         buffer.writeUInt32LE(type);
         buffer.writeUInt16LE(length, 4);
         buffer[typeof value === 'string' ? 'write' : 'writeUInt32LE'](value, 6);
@@ -227,8 +231,8 @@ class RecordBaker {
         // Write HEDR
         var hedrField = Buffer.alloc(18);
         hedrField.writeUInt32LE(MODFILE_TYPES.encode('HEDR'));
-        hedrField.writeUInt16LE(12, 4)
-        hedrField.writeUInt32LE(0x3F733333, 6);
+        hedrField.writeUInt16LE(12, 4);
+        hedrField.writeUInt32LE(this.plugin.endsWith('.esl') ? 0x3F800000 : 0x3F733333, 6);
         hedrField.writeInt32LE(root.count, 10);
         hedrField.writeUInt32LE(2048, 14);
         data.push(hedrField);

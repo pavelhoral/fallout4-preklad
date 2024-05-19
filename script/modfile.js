@@ -136,6 +136,14 @@ program.
         }
     });
 
+program.
+    command('merge <target> <sources...>').
+    description('Merge two or more modfiles.').
+    action(async (target, sources) => {
+        const { mergePlugins } = await import('./modfile/merge.mjs');
+        await mergePlugins(sources, target);
+    });
+
 /**
  * Fallback command.
  */
