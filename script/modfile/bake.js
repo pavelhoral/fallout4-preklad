@@ -120,6 +120,7 @@ class RecordBaker {
         this.parseChildren(parse);
         // Process INFO ordering
         if (MODFILE_TYPES.INFO === type) {
+            this.context.bake = true; // Always bake INFO records
             if (this.context.children.findIndex(field => field.readUInt32LE(0) == MODFILE_TYPES.PNAM) < 0) {
                 this.insertField(this.bakeField(MODFILE_TYPES.PNAM, this.context.parent.lastInfo || 0), PNAM_AFTER);
             }
